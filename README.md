@@ -32,35 +32,27 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 ## Translation languages list
 
-[German](./translations/de_strings.md)
-
-[Czech](./translations/cs_strings.md)
-
-[Dutch](./translations/nl_strings.md)
-
-[Italian](./translations/it_strings.md)
-
-[Japanese](./translations/ja_strings.md)
-
-[Korean](./translations/ko_strings.md)
-
-[Polish](./translations/pl_strings.md)
-
-[Russian](./translations/ru_strings.md)
-
-[Spanish](./translations/es_strings.md)
-
 [Arabic](./translations/ar_strings.md)
 
 [Bulgarian](./translations/bg_strings.md)
 
 [Catalan](./translations/ca_strings.md)
 
+[Chinese Simplified](./translations/zh-CN_strings.md)
+
+[Chinese Traditional](./translations/zh-HK_strings.md)
+
 [Croatian](./translations/hr_strings.md)
+
+[Czech](./translations/cs_strings.md)
 
 [Danish](./translations/da_strings.md)
 
+[Dutch](./translations/nl_strings.md)
+
 [Finnish](./translations/fi_strings.md)
+
+[German](./translations/de_strings.md)
 
 [Greek](./translations/el_strings.md)
 
@@ -72,21 +64,35 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Indonesian](./translations/id_strings.md)
 
+[Italian](./translations/it_strings.md)
+
+[Japanese](./translations/ja_strings.md)
+
+[Khmer](./translations/km_strings.md)
+
+[Korean](./translations/ko_strings.md)
+
 [Latvian](./translations/lv_strings.md)
 
 [Lithuanian](./translations/lt_strings.md)
 
 [Norwegian](./translations/no_strings.md)
 
+[Polish](./translations/pl_strings.md)
+
 [Portuguese](./translations/pt_strings.md)
 
 [Romanian](./translations/ro_strings.md)
+
+[Russian](./translations/ru_strings.md)
 
 [Serbian](./translations/sr_strings.md)
 
 [Slovak](./translations/sk_strings.md)
 
 [Slovenian](./translations/sl_strings.md)
+
+[Spanish](./translations/es_strings.md)
 
 [Swedish](./translations/sv_strings.md)
 
@@ -97,11 +103,3 @@ Once you have submitted a translation edit, I will receive an email and all your
 [Ukrainian](./translations/uk_strings.md)
 
 [Vietnamese](./translations/vi_strings.md)
-
-[Khmer](./translations/km_strings.md)
-
-[Khmer](./translations/km_strings.md)
-
-[Chinese Simplified](./translations/zh-CN_strings.md)
-
-[Chinese Traditional](./translations/zh-HK_strings.md)
