@@ -1,7 +1,7 @@
 # Map Marker translations for sk
 
-You want to help improve this translation file? Visit the tutorial at:
-https://mapmarker.app/help/index.html?device=android#devices_android_How_can_I_help_with_translations
+You want to help improve this translation file? Read the main page:
+https://github.com/androidseb/mapmarkerapptranslations/README.md
 
 
 ## Translation Key: ok
