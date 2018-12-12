@@ -1,7 +1,6 @@
 # Map Marker translations for hr
 
-You want to help improve this translation file? Read the main page:
-https://github.com/androidseb/mapmarkerapptranslations/README.md
+You want to help improve this translation file? Read the [main page](https://github.com/androidseb/mapmarkerapptranslations)
 
 
 ## Translation Key: ok
