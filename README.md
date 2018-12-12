@@ -9,8 +9,8 @@ You can edit just one line of translation, or all the translations of the file, 
 
 ## Submitting translation edits
 Whether you want to just translate one sentence, or an entire language, you can do this here in just a few steps:
-* Click on your language from the [languages list](#Translation-languages-list)
-* From the file page, click the "Edit" button at the top right of the page, as highlighted in this image.
+* Click on your language from the [languages list](#Translation-languages-list). This will take you to the associated language's translation file page.
+* From the translation file page, click the "Edit" button at the top right, as highlighted in this image.
 
 ![](./images/edit_button.png)
 * Edit as many translations as you like (between the lines containing "\`\`\`") as indicated by the arrow below.
