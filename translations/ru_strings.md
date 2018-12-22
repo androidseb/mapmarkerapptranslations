@@ -1150,7 +1150,7 @@ Auto naming "Marker number"
 ```
 translates to:
 ```
-"Маркер <номер>"
+"Маркер &lt;номер&gt;"
 ```
 
 
