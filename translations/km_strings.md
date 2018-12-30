@@ -1,4 +1,4 @@
-# Map Marker translations for km
+# Map Marker translations for Khmer (km)
 
 You want to help improve this translation file? Read the [main page](https://github.com/androidseb/mapmarkerapptranslations)
 
@@ -7,7 +7,7 @@ You want to help improve this translation file? Read the [main page](https://git
 ```
 OK
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 យល់ព្រម
 ```
@@ -17,7 +17,7 @@ translates to:
 ```
 Yes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បាទ
 ```
@@ -27,7 +27,7 @@ translates to:
 ```
 No
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 គ្មាន
 ```
@@ -37,7 +37,7 @@ translates to:
 ```
 Cancel
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បោះបង់
 ```
@@ -47,7 +47,7 @@ translates to:
 ```
 New marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សញ្ញា​សម្គាល់​ជា​ថ្មី
 ```
@@ -57,7 +57,7 @@ translates to:
 ```
 Title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ចំណងជើង
 ```
@@ -67,7 +67,7 @@ translates to:
 ```
 Description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បរិយាយ
 ```
@@ -77,7 +77,7 @@ translates to:
 ```
 Do you really want to delete this marker?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 តើ​អ្នក​ពិត​ជា​ចង់​លុប​សញ្ញា​សម្គាល់​នេះ​ទេ​?
 ```
@@ -87,7 +87,7 @@ translates to:
 ```
 GPS coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កូអរដោនេ GPS
 ```
@@ -97,7 +97,7 @@ translates to:
 ```
 Could not copy coordinates to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មិន​អាច​ចម្លង​កូអរដោនេ​ទៅ​ក្ដារ​តម្បៀត​ខ្ទាស់
 ```
@@ -107,7 +107,7 @@ translates to:
 ```
 Coordinates copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សំ​រប​សំ​រួល​បាន​ចម្លង​ទៅ​ក្ដារ​តម្បៀត​ខ្ទាស់
 ```
@@ -117,7 +117,7 @@ translates to:
 ```
 Failed to access application save directory. Make sure that your device is not being accessed by a computer with the USB cable, and restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បាន​បរាជ័យ​ក្នុង​ការ​ចូល​ដំណើរ​ការ​កម្មវិធី​សង្គ្រោះ​ថត​។ សូម​ប្រាកដ​ថា​ឧបករណ៍​របស់​អ្នក​គឺ​មិន​ត្រូវ​បាន​ចូល​ដំណើរ​ការ​ដោយ​កុំព្យូទ័រ​ជាមួយនឹង​ខ្សែ USB មួយ​និង​ចាប់ផ្ដើម​កម្មវិធី​។
 ```
@@ -127,7 +127,7 @@ translates to:
 ```
 Untitled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 គ្មាន​ចំណង​ជើង
 ```
@@ -137,7 +137,7 @@ translates to:
 ```
 All
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ទាំងអស់
 ```
@@ -147,7 +147,7 @@ translates to:
 ```
 Add folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បន្ថែម​ថត
 ```
@@ -157,7 +157,7 @@ translates to:
 ```
 Modify folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កែប្រែ​ថត
 ```
@@ -167,7 +167,7 @@ translates to:
 ```
 Are you sure you want to delete this folder? All markers associated to this folder will be deleted permanently!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 តើ​អ្នក​ពិត​ជា​ចង់​លុប​ថត​នេះ​ទេ​? សញ្ញា​សម្គាល់​ទាំង​អស់​បាន​ផ្សារភ្ជាប់​ទៅ​ថត​នេះ​នឹង​ត្រូវ​បាន​លុប​ជា​រៀង​រហូត​!
 ```
@@ -177,7 +177,7 @@ translates to:
 ```
 Failed to create new folder, it already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បរាជ័យ​ក្នុង​ការ​បង្កើត​ថត​ថ្មី​នេះ​វា​មាន​រួច​ហើយ
 ```
@@ -187,7 +187,7 @@ translates to:
 ```
 Failed to rename the folder, the destination name already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បាន​បរាជ័យ​ក្នុង​ការ​ប្ដូរ​ឈ្មោះ​ថត​ឈ្មោះ​ទិសដៅ​រួច​ហើយ
 ```
@@ -197,7 +197,7 @@ translates to:
 ```
 Latitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 រយៈទទឹង​:
 ```
@@ -207,7 +207,7 @@ translates to:
 ```
 Longitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 រយៈបណ្ដោយ​:
 ```
@@ -217,7 +217,7 @@ translates to:
 ```
 Could not write file.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មិន​អាច​សរសេរ​ឯកសារ​។
 ```
@@ -227,7 +227,7 @@ translates to:
 ```
 Import/Export
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 នាំចូល / នាំចេញ
 ```
@@ -237,7 +237,7 @@ translates to:
 ```
 Import markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 នាំចូល​សញ្ញា​សម្គាល់
 ```
@@ -247,7 +247,7 @@ translates to:
 ```
 File imported successfully
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ឯកសារ​ដែល​បាន​នាំចូល​ដោយ​ជោគជ័យ
 ```
@@ -257,7 +257,7 @@ translates to:
 ```
 File import failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការ​នាំ​ចូល​ឯកសារ​បាន​បរាជ័យ
 ```
@@ -267,7 +267,7 @@ translates to:
 ```
 Location services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សេវា​ទីតាំង
 ```
@@ -277,7 +277,7 @@ translates to:
 ```
 Location services are disabled. To get your current location you must enable them.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សេវាកម្ម​ទីតាំង​ត្រូវ​បាន​បិទ​។ ដើម្បី​ទទួល​បាន​ទីតាំង​បច្ចុប្បន្ន​របស់​អ្នក​អ្នក​ត្រូវ​តែ​អនុញ្ញាត​ឱ្យ​ពួក​គេ​។
 ```
@@ -287,7 +287,7 @@ translates to:
 ```
 Could not find address
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មិន​អាច​រក​ឃើញ​អាសយដ្ឋាន
 ```
@@ -297,7 +297,7 @@ translates to:
 ```
 Searching&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ស្វែងរក&#8230;
 ```
@@ -307,7 +307,7 @@ translates to:
 ```
 Search
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ស្វែងរក
 ```
@@ -317,7 +317,7 @@ translates to:
 ```
 Share via
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ចែក​រំលែក​តាម​រយៈ​ការ
 ```
@@ -327,7 +327,7 @@ translates to:
 ```
 Do you want to import the content of this file?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 តើ​អ្នក​ចង់​នាំចូល​មាតិកា​នៃ​ឯកសារ​នេះ​បាន​ទេ​?
 ```
@@ -337,7 +337,7 @@ translates to:
 ```
 Folder name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ឈ្មោះ​ថត
 ```
@@ -347,7 +347,7 @@ translates to:
 ```
 Save
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 រក្សា​ទុក
 ```
@@ -357,7 +357,7 @@ translates to:
 ```
 Close
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បិទ
 ```
@@ -367,7 +367,7 @@ translates to:
 ```
 Are you sure you want to delete the selected markers?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 តើ​អ្នក​ប្រាកដ​ជា​ចង់​លុប​ការ​សម្គាល់​ការ​ជ្រើស​ឬ​?
 ```
@@ -377,7 +377,7 @@ translates to:
 ```
 Move markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ផ្លាស់ទី​សញ្ញា​សម្គាល់​ទៅ​ថត
 ```
@@ -387,7 +387,7 @@ translates to:
 ```
 Share
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ចែករំលែក
 ```
@@ -397,7 +397,7 @@ translates to:
 ```
 Folder:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ថត​:
 ```
@@ -407,7 +407,7 @@ translates to:
 ```
 Snapshot of my markers on Map Marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 រូបថត​របស់​សញ្ញា​សម្គាល់​របស់​ខ្ញុំ​នៅ​លើ Map Marker
 ```
@@ -418,7 +418,7 @@ translates to:
 This snapshot was made with the app Map Marker:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 រូបថត​នេះ​ត្រូវ​បាន​ធ្វើ​ឡើង​ជាមួយ​នឹង​កម្មវិធី​របស់ Map Marker : 
  %s
@@ -429,7 +429,7 @@ translates to:
 ```
 Processing data&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ទិន្នន័យ​ដែល​បាន​កំពុង​ដំណើរ​ការ&#8230;
 ```
@@ -439,7 +439,7 @@ translates to:
 ```
 You have unsaved modifications, do you want to save them?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អ្នក​មាន​ការ​កែប្រែ​មិន​បាន​រក្សា​ទុក​, តើ​អ្នក​ចង់​រក្សា​ទុក​ពួក​វា​?
 ```
@@ -449,7 +449,7 @@ translates to:
 ```
 Use the long press on the map to create a new marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ប្រើ​សង្កត់​ជា​យូរ​មក​ហើយ​នៅ​លើ​ផែនទី​នេះ​ដើម្បី​បង្កើត​ជា​សញ្ញា​សម្គាល់​ថ្មី
 ```
@@ -459,7 +459,7 @@ translates to:
 ```
 Map type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ប្រភេទ​ផែនទី
 ```
@@ -469,7 +469,7 @@ translates to:
 ```
 Normal
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ធម្មតា
 ```
@@ -479,7 +479,7 @@ translates to:
 ```
 Satellite
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ផ្កាយ​រណប
 ```
@@ -489,7 +489,7 @@ translates to:
 ```
 Terrain
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ដី
 ```
@@ -499,7 +499,7 @@ translates to:
 ```
 Hybrid
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កូនកាត់
 ```
@@ -510,7 +510,7 @@ translates to:
 Found a problem? Have an idea of improvement?
 Send me an email :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 រក​ឃើញ​បញ្ហា​មួយ​? មាន​គំនិត​នៃ​ការ​កែ​លម្អ​? 
  សូម​ផ្ញើ​ខ្ញុំ email :-)
@@ -521,7 +521,7 @@ translates to:
 ```
 Send email&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ផ្ញើ email&#8230;
 ```
@@ -532,7 +532,7 @@ translates to:
 You like the app?
 Rate it 5 stars :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អ្នក​ចូលចិត្ត​កម្មវិធី​? 
  អត្រា​ការ​ប្រាក់​វា​តារា 5 :-)
@@ -543,7 +543,7 @@ translates to:
 ```
 Change folder to&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ផ្លាស់​ប្តូ​រ​ថត​ទៅ&#8230;
 ```
@@ -553,7 +553,7 @@ translates to:
 ```
 Directions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ទិសដៅ
 ```
@@ -563,7 +563,7 @@ translates to:
 ```
 Acquiring location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការ​ទទួល​បាន​ទីតាំង&#8230;
 ```
@@ -573,7 +573,7 @@ translates to:
 ```
 Meters
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ម៉ែត្រ
 ```
@@ -583,7 +583,7 @@ translates to:
 ```
 Km
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 គីឡូម៉ែត្រ
 ```
@@ -593,7 +593,7 @@ translates to:
 ```
 Feet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជើង
 ```
@@ -603,7 +603,7 @@ translates to:
 ```
 Miles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ម៉ា​យ​ល៍
 ```
@@ -613,7 +613,7 @@ translates to:
 ```
 Adjust map camera position when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 លៃ​តម្រូវ​ទីតាំង​ដែល​កាមេរ៉ា​ផែនទី​នៅពេល​ដែល​ណែនាំ​ទៅ​ទីតាំង​សញ្ញា​សម្គាល់​មួយ
 ```
@@ -623,7 +623,7 @@ translates to:
 ```
 Keep screen on when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ចូរ​រក្សា​អេក្រង់​លើ​នៅ​ពេល​ដែល​ណែនាំ​ទៅ​ទីតាំង​សញ្ញា​សម្គាល់​មួយ
 ```
@@ -633,7 +633,7 @@ translates to:
 ```
 Marker details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សញ្ញា​សម្គាល់​បាន​ចម្លង​ទៅ​លំអិត​ក្ដារ​តម្បៀត​ខ្ទាស់
 ```
@@ -643,7 +643,7 @@ translates to:
 ```
 Long press to drag and move the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ឡុ​ង​បាន​សង្កត់​ដើម្បី​អូស​និង​ផ្លាស់ទី​ចំណុច​សម្គាល់
 ```
@@ -653,7 +653,7 @@ translates to:
 ```
 Error starting internal task manager, app will now exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កំហុស​ក្នុង​ការ​ចាប់​ផ្តើ​ម​កម្មវិធី​គ្រប់គ្រង​ភារកិច្ច​ផ្ទៃ​ក្នុង​កម្មវិធី​នឹង​ឥឡូវ​ការ​ចាក​ចេញ
 ```
@@ -663,7 +663,7 @@ translates to:
 ```
 Do not show again
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កុំ​បង្ហាញ​ជា​ថ្មី​ម្តង​ទៀត
 ```
@@ -673,7 +673,7 @@ translates to:
 ```
 Could not create the map capture
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មិន​អាច​បង្កើត​ផែនទី​ការ​ចាប់​យក
 ```
@@ -683,7 +683,7 @@ translates to:
 ```
 Metric (Kilometers/Meters)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កាល (គីឡូម៉ែត្រ / ម៉ែត្រ​)
 ```
@@ -693,7 +693,7 @@ translates to:
 ```
 Imperial (Miles/Feet)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ចក្រពត្តិ (Miles / ជើង​)
 ```
@@ -703,7 +703,7 @@ translates to:
 ```
 There is a problem with Google Play Services: it needs to be installed, updated or activated. Click OK to try and solve it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មាន​បញ្ហា​ជា​មួយ​នឹង​ការ​គឺ Google Play Services : វា​ត្រូវការ​ឱ្យ​ត្រូវ​បាន​ដំឡើង​ធ្វើ​ឱ្យ​ទាន់សម័យ​ឬ​ធ្វើ​ឱ្យ​សកម្ម​។ ចុច​យល់ព្រម​ដើម្បី​ព្យាយាម​និង​ដោះស្រាយ​វា​។
 ```
@@ -713,7 +713,7 @@ translates to:
 ```
 Delete folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 លុប​ថត
 ```
@@ -723,7 +723,7 @@ translates to:
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ប្រសិន​បើ​អ្នក​ចូលចិត្ត​កម្មវិធី​របស់​ខ្ញុំ​អ្នក​អាច​ផ្ដល់​រង្វាន់​ដល់​ខ្ញុំ​ដោយ​ការ​ទទួល​យក​ពេល​វេលា​ដើម្បី​ផ្តល់​ចំណាត់​ថ្នាក់​ល្អ​មួយ :-)
 ```
@@ -734,7 +734,7 @@ translates to:
 OK take me
 to the Play Store
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 យល់ព្រម​នាំ​ខ្ញុំ 
  ទៅ​ដល់ Play Store
@@ -746,7 +746,7 @@ translates to:
 I already
 gave a rating
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ខ្ញុំ​រួច​ទៅ 
  បាន​ផ្តល់​ឱ្យ​ចំណាត់​ថ្នាក់
@@ -758,7 +758,7 @@ translates to:
 Maybe later
 remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ប្រហែល​ជា​នៅ​ពេល​ក្រោយ 
  រំលឹក​ខ្ញុំ
@@ -770,7 +770,7 @@ translates to:
 Maybe later
 do not remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ប្រហែល​ជា​នៅ​ពេល​ក្រោយ 
  រំលឹក​ខ្ញុំ​មិន​បាន
@@ -781,7 +781,7 @@ translates to:
 ```
 Could not find the place
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មិន​អាច​រក​ឃើញ​ទី​កន្លែង
 ```
@@ -791,7 +791,7 @@ translates to:
 ```
 Could not find another map application
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មិន​អាច​រក​ឃើញ​កម្មវិធី​ផែនទី​ផ្សេង​ទៀត
 ```
@@ -801,7 +801,7 @@ translates to:
 ```
 Move the map around to place your marker where you want and click OK to place it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ផ្លាស់ទី​ផែនទី​ដែល​នៅ​ជុំវិញ​ខ្លួន​ដើម្បី​ដាក់​សញ្ញា​សម្គាល់​អ្នក​ដែល​អ្នក​ចង់​បាន​និង​ចុច​យល់ព្រម​ដើម្បី​ដាក់​វា
 ```
@@ -811,7 +811,7 @@ translates to:
 ```
 Imported marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សញ្ញា​សម្គាល់​ដែល​បាន​នាំចូល
 ```
@@ -821,7 +821,7 @@ translates to:
 ```
 Settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការ​កំណត់
 ```
@@ -831,7 +831,7 @@ translates to:
 ```
 Display zoom buttons
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ប៊ូតុង​ពង្រីក
 ```
@@ -841,7 +841,7 @@ translates to:
 ```
 Decimal degrees
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អង្សា​ទសភាគ
 ```
@@ -851,7 +851,7 @@ translates to:
 ```
 Degrees decimal minutes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Degrees គោល​ដប់​នាទី
 ```
@@ -861,7 +861,7 @@ Degrees គោល​ដប់​នាទី
 ```
 Degrees minutes seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Degrees នាទី​វិនាទី
 ```
@@ -871,7 +871,7 @@ Degrees នាទី​វិនាទី
 ```
 Coordinates format
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ទ្រង់ទ្រាយ​កូអរដោនេ
 ```
@@ -881,7 +881,7 @@ translates to:
 ```
 GPS and wireless networks only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ប​ណ្តា​ញ​តែ​មួយ​គត់​ដែល GPS និង​ឥត​ខ្សែ
 ```
@@ -891,7 +891,7 @@ translates to:
 ```
 GPS and wireless networks or magnetic sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ប​ណ្តា​ញ GPS និង​ឥត​ខ្សែ​ឬ​របស់​ឧបករណ៍​ចាប់​សញ្ញា​ម៉ាញេទិច
 ```
@@ -901,7 +901,7 @@ translates to:
 ```
 Magnetic sensor only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អង្គ​ញាណ​ចាប់​ម៉ាញេទិច​តែ​ប៉ុណ្ណោះ
 ```
@@ -911,7 +911,7 @@ translates to:
 ```
 Used compass sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អង្គ​ញាណ​ចាប់​ត្រីវិស័យ​ដែល​បាន​ប្រើ
 ```
@@ -921,7 +921,7 @@ translates to:
 ```
 FAQ/Help
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សំណួរ​គេ​សួរ​ញឹកញាប់ / ជំនួយ
 ```
@@ -931,7 +931,7 @@ translates to:
 ```
 Folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ថត
 ```
@@ -941,7 +941,7 @@ translates to:
 ```
 Help and settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជំនួយ​និង​ការ​កំណត់
 ```
@@ -951,7 +951,7 @@ translates to:
 ```
 Language
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ភាសា
 ```
@@ -961,7 +961,7 @@ translates to:
 ```
 Marker popup style
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សញ្ញា​សម្គាល់​ជា​រចនាប័ទ្ម​បង្អួច​លេច​ឡើង
 ```
@@ -971,7 +971,7 @@ translates to:
 ```
 Bottom
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ផ្នែក​ខាង​ក្រោម
 ```
@@ -981,7 +981,7 @@ translates to:
 ```
 Bubble
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 គុ​ជ
 ```
@@ -991,7 +991,7 @@ translates to:
 ```
 Coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កូអរដោនេ
 ```
@@ -1001,7 +1001,7 @@ translates to:
 ```
 Contextual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បរិបទ
 ```
@@ -1011,7 +1011,7 @@ translates to:
 ```
 Always
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជានិច្ច
 ```
@@ -1021,7 +1021,7 @@ translates to:
 ```
 Crosshair display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អេក្រង់ Crosshair
 ```
@@ -1031,7 +1031,7 @@ translates to:
 ```
 Coordinates window
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បង្អួច​ដែល​កូអរដោនេ
 ```
@@ -1041,7 +1041,7 @@ translates to:
 ```
 Lat:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ឡា​ត់​:
 ```
@@ -1051,7 +1051,7 @@ translates to:
 ```
 Lng:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ឧស្ម័ន​ធម្មជាតិ​:
 ```
@@ -1061,7 +1061,7 @@ translates to:
 ```
 Marker instant adding mode
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សញ្ញា​សម្គាល់​បន្ថែម​ទៀត​ថា​របៀប​បន្ទាន់
 ```
@@ -1071,7 +1071,7 @@ translates to:
 ```
 Advanced
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កម្រិត​ខ្ពស់
 ```
@@ -1081,7 +1081,7 @@ translates to:
 ```
 Display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អេក្រង់​បង្ហាញ
 ```
@@ -1091,7 +1091,7 @@ translates to:
 ```
 Actions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការ​ប្រ​ព្រឹ​ត្ដ
 ```
@@ -1101,7 +1101,7 @@ translates to:
 ```
 Language and units
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ភាសា​និង​អង្គភាព
 ```
@@ -1111,7 +1111,7 @@ translates to:
 ```
 Markers ignored on import (duplicates): %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សញ្ញា​សម្គាល់​បាន​មិន​អើពើ​នាំចូល (ស្ទួន​)​: %1$d
 ```
@@ -1121,7 +1121,7 @@ translates to:
 ```
 %1$d markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d សញ្ញា​សម្គាល់
 ```
@@ -1131,7 +1131,7 @@ translates to:
 ```
 No auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 គ្មាន​ឈ្មោះ​ដោយ​ស្វ័យ​ប្រវត្តិ
 ```
@@ -1141,7 +1141,7 @@ translates to:
 ```
 Auto naming "number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ឈ្មោះ​ដោយ​ស្វ័យ​ប្រវត្តិ "លេខ​"
 ```
@@ -1151,7 +1151,7 @@ translates to:
 ```
 Auto naming "Marker number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ឈ្មោះ​ដោយ​ស្វ័យ​ប្រវត្តិ "លេខ​សម្គាល់​"
 ```
@@ -1161,7 +1161,7 @@ translates to:
 ```
 New marker auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ឈ្មោះ​ដោយ​ស្វ័យ​សញ្ញា​សម្គាល់​ជា​ថ្មី
 ```
@@ -1171,7 +1171,7 @@ translates to:
 ```
 Marker %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សញ្ញា​សម្គាល់ %1$d
 ```
@@ -1181,7 +1181,7 @@ translates to:
 ```
 Waiting for location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កំពុង​រង់ចាំ​សម្រាប់​ទីតាំង&#8230;
 ```
@@ -1191,7 +1191,7 @@ translates to:
 ```
 Open the help page and see the FAQ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បើក​ទំព័រ​ជំនួយ​និង​ការ​មើល​ឃើញ​សំណួរ​គេ​សួរ​ញឹកញាប់
 ```
@@ -1201,7 +1201,7 @@ translates to:
 ```
 Features
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 លក្ខណៈ​ពិសេស
 ```
@@ -1211,7 +1211,7 @@ translates to:
 ```
 View the list of upcoming features for the next app version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មើល​បញ្ជី​នៃ​លក្ខណៈ​ពិសេស​ខាង​មុខ​នេះ​សម្រាប់​កំណែ​កម្មវិធី​បន្ទាប់
 ```
@@ -1221,7 +1221,7 @@ translates to:
 ```
 Help &amp; Feedback
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជំនួយ​និង​ការ​ផ្តល់​មតិ
 ```
@@ -1231,7 +1231,7 @@ translates to:
 ```
 About
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អំពី
 ```
@@ -1241,7 +1241,7 @@ translates to:
 ```
 Distance to %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ចម្ងាយ​ទៅ %1$s
 ```
@@ -1251,7 +1251,7 @@ translates to:
 ```
 Snapshot
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 រូបថត
 ```
@@ -1261,7 +1261,7 @@ translates to:
 ```
 Share a snapshot of the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ចែក​រំលែក​រូបថត​របស់​ផែនទី
 ```
@@ -1271,7 +1271,7 @@ translates to:
 ```
 All markers and folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សញ្ញា​សម្គាល់​និង​ថត​ទាំងអស់
 ```
@@ -1281,7 +1281,7 @@ translates to:
 ```
 <![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;! [CDATA [&lt;html​&gt; &lt;body​&gt; &lt;b​&gt; ការ​ក្នុង​គោល​បំណង​ដើម្បី​ទទួល​ការណែនាំ​ក្នុង​ភាគ​ខាងជើង​ត្រឹមត្រូវ​សម្រាប់​ត្រីវិស័យ​, អ្នក​ត្រូវ​កែតម្រូវ​ដែល​អ្នក​បាន​ទូរស័ព្ទ​ឱ្យ​បាន​ត្រឹមត្រូវ​។ &lt;br&gt; ដើម្បី calibrate ទូរស័ព្ទ​របស់​អ្នក​, ផ្លាស់ទី​វា​បាន​ដោយ​គ្រាន់​តែ​គូរ 8 ។ ការ​ផ្លាស់​ប្តូ​រ​ត្រូវ​តែ​ធំ​ទូលាយ​និង​ម្តង​ហើយ​ម្តង​ទៀត​អំពី​ការ 3 ដង​សម្រាប់​ប្រសិទ្ធិ​ភាព​ប្រសើរ​ជាង​មុន​។ &lt;br&gt; អ្នក​អាច calibrate អ្នក​បាន​ទូរស័ព្ទ​ដោយ​ការ​ធ្វើ​នេះ​នៅ​ពេល​ណា​មួយ​។ &lt;/ b​&gt; ការ​សិទ្ធិ​ក្រិត​នេះ​មាន​ដែន​កំណត់​របស់​វា​ហើយ​ប្រហែល​ជា​មិន​គ្រប់គ្រាន់​ទេ ដើម្បី​ប្រឆាំង​នឹង​ការ​ជ្រៀត​ជ្រែក​នៅ​ក្បែរ​នោះ​មាន​ដូចជា​: •​វត្ថុ​លោហៈ​កម្ពុជា​ធំ &lt;br&gt; ឧបករណ៍​អេឡិចត្រូនិក​• &lt;br&gt; •​មេដែក &lt;br&gt; •​ខាងក្នុង​របស់​រថយន្ត / bus / ហ្វឹកហ្វឺន / ប​ន្ដ​ហោះ​នេះ &lt;/ body​&gt; &lt;/ html​&gt;
 ```
@@ -1291,7 +1291,7 @@ translates to:
 ```
 Badges
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ផ្លាក​សញ្ញា
 ```
@@ -1301,7 +1301,7 @@ translates to:
 ```
 Buy a donation badge
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ទិញ​ផ្លាក​សញ្ញា​បរិច្ចាគ
 ```
@@ -1311,7 +1311,7 @@ translates to:
 ```
 Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សូម​អរគុណ​ចំពោះ​ការ​បរិ​ច្ចា​ក​របស់​អ្នក​! ការ​បរិច្ចាគ​នេះ​នឹង​ផ្តល់​ជំនួយ​ផ្លាក​សញ្ញា​ឱ្យ​អ្នក​ចូល​ដំណើរការ​ទៅ​កាន់​ការ​ធានា​រ៉ាប់​រង​ដែល​មាន​លក្ខណៈ​ពិសេស :-)
 ```
@@ -1321,7 +1321,7 @@ translates to:
 ```
 Default folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ថត​លំនាំដើម
 ```
@@ -1331,7 +1331,7 @@ translates to:
 ```
 Sync options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជម្រើស​ការ​ធ្វើ​សម​កាល​កម្ម
 ```
@@ -1341,7 +1341,7 @@ translates to:
 ```
 Google Drive
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ក្នុង Google Drive
 ```
@@ -1351,7 +1351,7 @@ translates to:
 ```
 Dropbox
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dropbox
 ```
@@ -1361,7 +1361,7 @@ Dropbox
 ```
 Configuring&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កំណត់​រចនា​សម្ព័ន្ធ&#8230;
 ```
@@ -1371,7 +1371,7 @@ translates to:
 ```
 Sync now
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ធ្វើ​សម​កាល​កម្ម​ឥឡូវ
 ```
@@ -1381,7 +1381,7 @@ translates to:
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មិន​ដែល
 ```
@@ -1391,7 +1391,7 @@ translates to:
 ```
 Syncing…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ធ្វើ​សម​កាល​កម្ម&#8230;
 ```
@@ -1401,7 +1401,7 @@ translates to:
 ```
 Select folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជ្រើស​ថត
 ```
@@ -1411,7 +1411,7 @@ translates to:
 ```
 Load error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ផ្ទុក​កំហុស
 ```
@@ -1421,7 +1421,7 @@ translates to:
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ព្យាយាម​ម្ដង​ទៀត
 ```
@@ -1431,7 +1431,7 @@ translates to:
 ```
 Root
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជា Root
 ```
@@ -1441,7 +1441,7 @@ translates to:
 ```
 Shared
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ចែក​រំលែក​ខ
 ```
@@ -1451,7 +1451,7 @@ translates to:
 ```
 Purchase successful!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ទិញ​ទទួល​បាន​ជោគជ័យ​!
 ```
@@ -1461,7 +1461,7 @@ translates to:
 ```
 Purchase failed: %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ទិញ​បរាជ័យ​: %1$s
 ```
@@ -1471,7 +1471,7 @@ translates to:
 ```
 Premium access available! You currently have access to premium features.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការ​ចូល​ដំណើរ​ការ​ពិសេស​អាច​ប្រើ​បាន​! បច្ចុប្បន្ន​អ្នក​មាន​សិទ្ធិ​ចូល​ដំណើរ​ការ​លក្ខណៈ​ពិសេស​ធានា​រ៉ាប់​រង​។
 ```
@@ -1481,7 +1481,7 @@ translates to:
 ```
 You cannot select that folder because it contains multiple files named %1$s. The sync requires the folder to contain only one file with that name.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អ្នក​មិន​អាច​ជ្រើស​ថត​ដែល​សារ​តែ​វា​មាន​ឯកសារ​ច្រើន​ដែល​មាន​ឈ្មោះ %1$s ។ ធ្វើ​សម​កាល​កម្ម​នេះ​បាន​តម្រូវ​ឱ្យ​ថត​មាន​តែ​ឯកសារ​មួយ​ដែល​មាន​ឈ្មោះ​ថា​។
 ```
@@ -1491,7 +1491,7 @@ translates to:
 ```
 It seems sync data already exists in that folder. If you select that folder, your local data will be merged with the folder data when sync is performed. Is that what you want?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 វា​ហាក់​ដូច​ជា​ទិន្នន័យ​ដែល​បាន​ធ្វើ​សម​កាល​កម្ម​រួច​ហើយ​ក្នុង​ថត​នោះ​។ ប្រសិន​បើ​អ្នក​ជ្រើស​ថត​នោះ​, ទិន្នន័យ​មូលដ្ឋាន​របស់​អ្នក​នឹង​ត្រូវ​បាន​បញ្ចូល​ជាមួយ​ទិន្នន័យ​ដែល​បាន​ថត​នៅ​ពេល​ដែល​ធ្វើ​សម​កាល​កម្ម​ត្រូវ​បាន​អនុវត្ត​។ តើ​នោះ​ជា​អ្វី​ដែល​អ្នក​ចង់​បាន​?
 ```
@@ -1501,7 +1501,7 @@ translates to:
 ```
 File options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មាន​ជម្រើស​ឯកសារ
 ```
@@ -1511,7 +1511,7 @@ translates to:
 ```
 Cloud sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ពពក​ធ្វើ​សម​កាល​កម្ម
 ```
@@ -1521,7 +1521,7 @@ translates to:
 ```
 Sync this map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ធ្វើ​សម​កាល​កម្ម​ឯកសារ​ផែនទី​នេះ​នៅ​លើ​ពពក
 ```
@@ -1531,7 +1531,7 @@ translates to:
 ```
 Map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ឯកសារ​ផែនទី
 ```
@@ -1541,7 +1541,7 @@ translates to:
 ```
 Create local map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បង្កើត​ផែនទី​ក្នុង​តំបន់
 ```
@@ -1551,7 +1551,7 @@ translates to:
 ```
 Create a new map file locally
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បង្កើត​ឯកសារ​ថ្មី​មួយ​ក្នុង​មូលដ្ឋាន​ផែនទី
 ```
@@ -1561,7 +1561,7 @@ translates to:
 ```
 Create cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បង្កើត​ផែនទី​ពពក
 ```
@@ -1571,7 +1571,7 @@ translates to:
 ```
 Create a map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បង្កើត​ឯកសារ​ផែនទី​នៅ​លើ​ពពក
 ```
@@ -1581,7 +1581,7 @@ translates to:
 ```
 Retrieves changes from the cloud and sends local changes to the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ទៅ​យក​ការ​ផ្លាស់​ប្តូ​រ​ពី​ក្នុង​ពពក​មក​និង​បញ្ជូន​ការ​ផ្លាស់​ប្តូ​រ​ក្នុង​តំបន់​ដើម្បី​ពពក *
 ```
@@ -1591,7 +1591,7 @@ translates to:
 ```
 Rename
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ប្តូ​រ​ឈ្មោះ
 ```
@@ -1601,7 +1601,7 @@ translates to:
 ```
 Rename the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ប្តូ​រ​ឈ្មោះ​ផែនទី
 ```
@@ -1611,7 +1611,7 @@ translates to:
 ```
 Enter new name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បញ្ចូល​ឈ្មោះ​ថ្មី
 ```
@@ -1621,7 +1621,7 @@ translates to:
 ```
 Enter the new map\'s name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បញ្ចូល​ឈ្មោះ​របស់​ផែនទី​ថ្មី
 ```
@@ -1631,7 +1631,7 @@ translates to:
 ```
 %1$d folders, %2$d markers, size: %3$d KB
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d ថត %2$d សញ្ញា​សម្គាល់​, ទំហំ​: %3$d គីឡូបៃ
 ```
@@ -1641,7 +1641,7 @@ translates to:
 ```
 Create new folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បង្កើត​ថត​ថ្មី
 ```
@@ -1651,7 +1651,7 @@ translates to:
 ```
 Could not create folder: name empty
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មិន​អាច​បង្កើត​ថត​: ឈ្មោះ​ទទេ
 ```
@@ -1661,7 +1661,7 @@ translates to:
 ```
 Could not create folder: error occurred
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មិន​អាច​បង្កើត​ថត​: កំហុស​មួយ​បាន​កើត​ឡើង
 ```
@@ -1671,7 +1671,7 @@ translates to:
 ```
 Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សូម​អរគុណ​ចំពោះ​ការ​ទិញ Map Marker ការ​ពិសេស​ធ្វើ​ឱ្យ​ប្រសើរ​ឡើង :-)
 ```
@@ -1681,7 +1681,7 @@ translates to:
 ```
 Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សូម​អរគុណ​ចំពោះ​ការ​បង្ហាញ​ពី​ការ​ចាប់​អារម្មណ៍​របស់​អ្នក​ដោយ​អះអាង​ឥតគិតថ្លៃ​របស់​អ្នក Map Marker បុព្វលាភ :-)
 ```
@@ -1691,7 +1691,7 @@ translates to:
 ```
 Premium
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការ​ធានា​រ៉ាប់​រង
 ```
@@ -1701,7 +1701,7 @@ translates to:
 ```
 Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ធ្វើ​ឱ្យ​ប្រសើរ​ឡើង​ក្នុង​ការ​ធានា​រ៉ាប់​រង​និង​ការ​ទាញ​យក​ប្រយោជន៍​ពេញលេញ​ពី Map Marker លក្ខណៈ​ពិសេស​!
 ```
@@ -1711,7 +1711,7 @@ translates to:
 ```
 Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សូម​អភ័យ​ទោស​, អ្នក​ត្រូវ​ធ្វើ​ឱ្យ​ប្រសើរ​ឡើង​ការ​ធានា​រ៉ាប់​រង​ដើម្បី​ចូល​ដំណើរ​ការ​លក្ខណៈ​ពិសេស​នេះ​។ ធ្វើ​ឱ្យ​ប្រសើរ​ឡើង​ក្នុង​ការ​ធានា​រ៉ាប់​រង​និង​ការ​ទាញ​យក​ប្រយោជន៍​ពេញលេញ​ពី Map Marker លក្ខណៈ​ពិសេស​!
 ```
@@ -1721,7 +1721,7 @@ translates to:
 ```
 You have the premium upgrade for free! You can still purchase it if you want to show your support :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អ្នក​មាន​ការ​ធ្វើ​ឱ្យ​ប្រសើរ​ធានា​រ៉ាប់​រង​ដោយ​ឥត​គិត​ថ្លៃ​! អ្នក​នៅ​តែ​អាច​ទិញ​វា​បាន​ប្រសិន​បើ​អ្នក​ចង់​បង្ហាញ​ការ​គាំទ្រ​របស់​អ្នក :-)
 ```
@@ -1731,7 +1731,7 @@ translates to:
 ```
 Purchase the premium upgrade
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការ​ទិញ​ធានា​រ៉ាប់​រង​ដែល​បាន​ធ្វើ​ឱ្យ​ប្រសើរ​ឡើង
 ```
@@ -1741,7 +1741,7 @@ translates to:
 ```
 My Google account already has premium access, activate it!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 គណនី Google របស់​ខ្ញុំ​មាន​ការ​ចូល​ដំណើរ​ការ​ធានា​រ៉ាប់​រង​រួច​ហើយ​ធ្វើ​ឱ្យ​វា​សកម្ម​!
 ```
@@ -1751,7 +1751,7 @@ translates to:
 ```
 Troubleshooting
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការ​ដោះស្រាយ​បញ្ហា
 ```
@@ -1761,7 +1761,7 @@ translates to:
 ```
 Open a list of actions to solve possible problems
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បើក​បញ្ជី​នៃ​សកម្មភាព​ដើម្បី​ដោះ​ស្រាយ​បញ្ហា​ដែល​អាច​ធ្វើ​បាន
 ```
@@ -1771,7 +1771,7 @@ translates to:
 ```
 Test internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អ៊ិ​ន​ធឺ​ណិ​តេ​ស្ត
 ```
@@ -1781,7 +1781,7 @@ translates to:
 ```
 Checks that the app has access to internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ពិនិត្យ​ថា​កម្មវិធី​នេះ​មាន​ការ​ចូល​ដំណើរការ​ទៅ​អ៊ីនធឺណិត
 ```
@@ -1791,7 +1791,7 @@ translates to:
 ```
 Test file writing
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការ​សរសេរ​ឯកសារ​តេ​ស្ត
 ```
@@ -1801,7 +1801,7 @@ translates to:
 ```
 Checks that the app can save files on the internal SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ពិនិត្យ​ថា​កម្មវិធី​នេះ​អាច​រក្សា​ទុក​ឯកសារ​លើ​កាត​ប្រភេទ SD ផ្ទៃក្នុង
 ```
@@ -1811,7 +1811,7 @@ translates to:
 ```
 GP Services (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 គ្រូពេទ្យ​សេវាកម្ម (កម្មវិធី​)
 ```
@@ -1821,7 +1821,7 @@ translates to:
 ```
 Open the details of the currently installed Google Play Services app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បើក​សេចក្តី​លម្អិត​នៃ​ការ​ដែល​បាន​ដំឡើង​បច្ចុប្បន្ន​ជា Google Play Services កម្មវិធី
 ```
@@ -1831,7 +1831,7 @@ translates to:
 ```
 GP Services (store)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 គ្រូពេទ្យ​សេវាកម្ម (ហាង​លក់​)
 ```
@@ -1841,7 +1841,7 @@ translates to:
 ```
 Google Play (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការ​លេង​របស់ Google (កម្មវិធី​)
 ```
@@ -1851,7 +1851,7 @@ translates to:
 ```
 Contact support
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 គាំទ្រ​ទំនាក់​ទំនង
 ```
@@ -1861,7 +1861,7 @@ translates to:
 ```
 Write an email to support with the details of your problem
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សរសេរ email ដើម្បី​គាំទ្រ​ដល់​ការ​នឹង​សេចក្តី​លំអិត​នៃ​បញ្ហា​របស់​អ្នក
 ```
@@ -1871,7 +1871,7 @@ translates to:
 ```
 Device network unavailable
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ប​ណ្តា​ញ​ឧបករណ៍​មិន​អាច​ប្រើ​បាន
 ```
@@ -1881,7 +1881,7 @@ translates to:
 ```
 Testing&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការ​ធ្វើ​តេ​ស្ត&#8230;
 ```
@@ -1891,7 +1891,7 @@ translates to:
 ```
 Network test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការ​ធ្វើ​តេ​ស្ត​ប​ណ្តា​ញ​ទទួល​បាន​ជោគ​ជ័យ
 ```
@@ -1901,7 +1901,7 @@ translates to:
 ```
 Network test failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បាន​បរាជ័យ​ក្នុង​ការ​ធ្វើ​តេ​ស្ត​ប​ណ្តា​ញ
 ```
@@ -1911,7 +1911,7 @@ translates to:
 ```
 Disk test failed: could not write to internal storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការ​ធ្វើ​តេ​ស្ត​ថា​ស​បាន​បរាជ័យ​: មិន​អាច​សរសេរ​ទៅ​កាន់​ឧបករណ៍​ផ្ទុក​ខាងក្នុង
 ```
@@ -1921,7 +1921,7 @@ translates to:
 ```
 Disk test failed: could not write to external storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការ​ធ្វើ​តេ​ស្ត​ថា​ស​បាន​បរាជ័យ​: មិន​អាច​សរសេរ​ទៅ​កាន់​ឧបករណ៍​ផ្ទុក​ខាង​ក្រៅ
 ```
@@ -1931,7 +1931,7 @@ translates to:
 ```
 Disk test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការ​ធ្វើ​តេ​ស្ត​ថា​ស​ទទួល​បាន​ជោគ​ជ័យ
 ```
@@ -1941,7 +1941,7 @@ translates to:
 ```
 App failed to start: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កម្មវិធី​បរាជ័យ​ក្នុង​ការ​ចាប់ផ្តើម​: %s
 ```
@@ -1951,7 +1951,7 @@ translates to:
 ```
 The file does not exist
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មិន​មាន​ឯកសារ​មិន
 ```
@@ -1961,7 +1961,7 @@ translates to:
 ```
 Share cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ចែករំលែក​ពពក​ផែនទី
 ```
@@ -1971,7 +1971,7 @@ translates to:
 ```
 Open the cloud map folder to view its properties and share it with other people
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បើក​ថត​ផែនទី​ពពក​ដើម្បី​មើល​លក្ខណៈ​សម្បត្តិ​របស់​វា​និង​ចែក​រំលែក​វា​ជាមួយ​នឹង​មនុស្ស​ផ្សេង​ទៀត
 ```
@@ -1981,7 +1981,7 @@ translates to:
 ```
 Internal file to SD
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ឯកសារ​ផ្ទៃក្នុង​ដើម្បី​ប្រភេទ SD
 ```
@@ -1991,7 +1991,7 @@ translates to:
 ```
 Copy the app hidden internal files to the sdcard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ចម្លង​ឯកសារ​ផ្ទៃក្នុង​កម្មវិធី​ទៅ sdcard បាន​លាក់​ទុក
 ```
@@ -2001,7 +2001,7 @@ translates to:
 ```
 Enter destination folder path
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បញ្ចូល​ផ្លូវ​ទៅ​ថត​ទិសដៅ
 ```
@@ -2011,7 +2011,7 @@ translates to:
 ```
 Could not create folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មិន​អាច​បង្កើត​ថត
 ```
@@ -2021,7 +2021,7 @@ translates to:
 ```
 Files successfully saved to: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ឯកសារ​ដែល​បាន​រក្សា​ទុក​ដោយ​ជោគជ័យ​ទៅ​: %s
 ```
@@ -2031,7 +2031,7 @@ translates to:
 ```
 View history/Restore
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មើល​ប្រវត្តិ​សា​ស្រ្ត / ស្តា​រ
 ```
@@ -2041,7 +2041,7 @@ translates to:
 ```
 View history of modifications to the cloud folder and select a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មើល​ប្រវត្តិ​សា​ស្រ្ត​នៃ​ការ​កែប្រែ​ទៅ​ថត​ពពក​ហើយ​ជ្រើស​កំណែ​មួយ​ដើម្បី​ស្តា​រ​ដើម្បី
 ```
@@ -2051,7 +2051,7 @@ translates to:
 ```
 Create map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បង្កើត​ឯកសារ​ផែនទី
 ```
@@ -2061,7 +2061,7 @@ translates to:
 ```
 Create a new map file locally or on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បង្កើត​ឯកសារ​ផែនទី​ថ្មី​ក្នុង​មូលដ្ឋាន​ឬ​នៅ​លើ​ពពក
 ```
@@ -2071,7 +2071,7 @@ translates to:
 ```
 Open cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បើក​ផែនទី​ពពក
 ```
@@ -2081,7 +2081,7 @@ translates to:
 ```
 Open a map file from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បើក​ឯកសារ​ផែនទី​មួយ​ពី​ក្នុង​ពពក​មក
 ```
@@ -2091,7 +2091,7 @@ translates to:
 ```
 Map Marker needs the permission to access your location in order to display it on the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker ត្រូវ​ការ​ការ​អនុញ្ញាត​ឱ្យ​ចូល​ដំណើរ​ការ​ទីតាំង​របស់​អ្នក​ក្នុង​គោល​បំណង​ដើម្បី​បង្ហាញ​វា​នៅ​លើ​ផែនទី
 ```
@@ -2101,7 +2101,7 @@ Map Marker ត្រូវ​ការ​ការ​អនុញ្ញាត​
 ```
 Map Marker needs the permission to access to the storage of your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker ត្រូវការ​សិទ្ធិ​ដើម្បី​ចូល​ដំណើរការ​ឧបករណ៍​ផ្ទុក​របស់​ឧបករណ៍​របស់​អ្នក
 ```
@@ -2111,7 +2111,7 @@ Map Marker ត្រូវការ​សិទ្ធិ​ដើម្បី​
 ```
 Open settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការ​កំណត់​បើក​ទូលាយ
 ```
@@ -2121,7 +2121,7 @@ translates to:
 ```
 No map folder found on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មិន​មាន​ថត​ដែល​បាន​រក​ឃើញ​នៅ​លើ​ផែនទី​ពពក​នេះ
 ```
@@ -2131,7 +2131,7 @@ translates to:
 ```
 Auto sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ធ្វើ​សម​កាល​កម្ម​ដោយ​ស្វ័យ​ប្រវត្តិ
 ```
@@ -2141,7 +2141,7 @@ translates to:
 ```
 Choose a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជ្រើស​រើស​ជំនាន់​មួយ​ដើម្បី​ស្តា​រ​ដើម្បី
 ```
@@ -2151,7 +2151,7 @@ translates to:
 ```
 You must sync first before restoring an older version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អ្នក​ត្រូវតែ​ធ្វើ​សម​កាល​កម្ម​លើក​ដំបូង​មុន​ពេល​ស្ដារ​ឡើង​វិញ​នូវ​កំណែ​ចាស់
 ```
@@ -2161,7 +2161,7 @@ translates to:
 ```
 Are you sure you want to restore this version?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 តើ​អ្នក​ប្រាកដ​ជា​ចង់​ស្ដារ​កំណែ​នេះ​ទេ​?
 ```
@@ -2171,7 +2171,7 @@ translates to:
 ```
 Map Marker lost permissions to write to your cloud account. Sync will always fail until this is fixed. Do you want to fix it now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker បាន​បាត់បង់​សិទ្ធិ​ដើម្បី​សរសេរ​ទៅ​គណនី​ពពក​របស់​អ្នក​។ ធ្វើ​សម​កាល​កម្ម​នឹង​តែងតែ​បរាជ័យ​ក្នុង​លុះត្រាតែ​រឿង​នេះ​ត្រូវ​បាន​ជួសជុល​។ តើ​អ្នក​ចង់​ជួសជុល​វា​ឥឡូវនេះ​?
 ```
@@ -2181,7 +2181,7 @@ Map Marker បាន​បាត់បង់​សិទ្ធិ​ដើម្
 ```
 A sync error occurred. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កំហុស​សម​កាល​កម្ម​កើត​ឡើង​។ សូម​ព្យាយាម​ម្ដងទៀត។
 ```
@@ -2191,7 +2191,7 @@ translates to:
 ```
 A sync error occurred: network error. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កំហុស​សម​កាល​កម្ម​មួយ​បាន​កើត​ឡើង​: កំហុស​ប​ណ្តា​ញ​។ សូម​ព្យាយាម​ម្ដងទៀត។
 ```
@@ -2201,7 +2201,7 @@ translates to:
 ```
 A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កំហុស​សម​កាល​កម្ម​មួយ​បាន​កើត​ឡើង​: ជម្លោះ​, ឧបករណ៍​ផ្សេង​ទៀត​ត្រូវ​បាន​ស​ម្តែ​ង​ការ​ធ្វើ​សម​កាល​កម្ម​នៅ​ក្នុង​ពេល​ដូច​គ្នា​នេះ​។ សូម​ព្យាយាម​ម្ដងទៀត។
 ```
@@ -2211,7 +2211,7 @@ translates to:
 ```
 Changes are available from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការ​ផ្លាស់​ប្តូ​រ​គឺ​អាច​រក​បាន​ពី​ក្នុង​ពពក​មក
 ```
@@ -2221,7 +2221,7 @@ translates to:
 ```
 Changes made from another device were synced on the cloud. You can retrieve those changes by syncing.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការ​ផ្លាស់​ប្តូ​រ​ដែល​បាន​ធ្វើ​ពី​ឧបករណ៍​ផ្សេង​ទៀត​ដែល​ត្រូវ​បាន​ធ្វើ​សម​កាល​កម្ម​នៅ​លើ​ពពក​។ អ្នក​អាច​ទៅ​យក​ការ​ផ្លាស់​ប្តូ​រ​ទាំង​នោះ​ដោយ​ធ្វើ​សម​កាល​កម្ម​។
 ```
@@ -2231,7 +2231,7 @@ translates to:
 ```
 Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for details on how to restore cloud permissions.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បាន​បរាជ័យ​ក្នុង​ការ​ស្ដារ​ឡើងវិញ​នូវ​ពពក​សិទ្ធិ​ផ្ទុក​។ សូម​មើល "អំពី​" -​&gt; "សំណួរ​គេ​សួរ​ញឹកញាប់​" សម្រាប់​លម្អិត​ពី​របៀប​ដើម្បី​ស្តា​រ​សិទ្ធិ​ពពក​។
 ```
@@ -2241,7 +2241,7 @@ translates to:
 ```
 A sync error occurred: duplicate index, there are at least two files named index.json in the map cloud folder. Remove the duplicates manually and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ធ្វើ​សម​កាល​កម្ម​មួយ​បាន​កើត​ឡើង​មួយ​កំហុស​: ចម្លង​លិបិក្រម​មាន​ឯកសារ​យ៉ាង​ហោច​ណាស់​ពីរ​នាក់​ឈ្មោះ index.json នៅ​ក្នុង​ថត​ពពក​ផែនទី​។ យក​ស្ទួន​ដោយ​ដៃ​ហើយ​ព្យាយាម​ម្តង​ទៀត​។
 ```
@@ -2251,7 +2251,7 @@ translates to:
 ```
 Phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 លេខទូរសព្ទ
 ```
@@ -2261,7 +2261,7 @@ translates to:
 ```
 Edit phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 លេខ​ទូរស័ព្ទ​កែ​សម្រួល
 ```
@@ -2271,7 +2271,7 @@ translates to:
 ```
 Map Marker needs the permission to make calls on your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker ត្រូវ​ការ​ការ​អនុញ្ញាត​ដើម្បី​ធ្វើ​ឱ្យ​ការ​ហៅ​ទូរស័ព្ទ​នៅ​លើ​ឧបករណ៍​របស់​អ្នក
 ```
@@ -2281,7 +2281,7 @@ Map Marker ត្រូវ​ការ​ការ​អនុញ្ញាត​
 ```
 No phone number is defined for that marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 គ្មាន​លេខ​ទូរស័ព្ទ​ត្រូវ​បាន​បាន​កំណត់​សម្រាប់​សញ្ញា​សម្គាល់​ថា
 ```
@@ -2291,7 +2291,7 @@ translates to:
 ```
 Navigation options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជម្រើស​នៃ​ការ​រុករក
 ```
@@ -2301,7 +2301,7 @@ translates to:
 ```
 Open the marker location in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បើក​សញ្ញា​សម្គាល់​ទីតាំង​ដែល​នៅ​ក្នុង​កម្មវិធី​នេះ
 ```
@@ -2311,7 +2311,7 @@ translates to:
 ```
 Open the marker street view in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បើក​ទិដ្ឋភាព​តាម​ដងផ្លូវ​សញ្ញា​សម្គាល់​នៅ​ក្នុង​កម្មវិធី​នេះ
 ```
@@ -2321,7 +2321,7 @@ translates to:
 ```
 Enter navigation mode in this app to get directions to the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បញ្ចូល​របៀប​រុករក​នៅ​ក្នុង​កម្មវិធី​នេះ​ដើម្បី​ទទួល​ទិសដៅ​ទៅ​កន្លែង​ចំណាំ
 ```
@@ -2331,7 +2331,7 @@ translates to:
 ```
 Other options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជម្រើស​ផ្សេង​ទៀត
 ```
@@ -2341,7 +2341,7 @@ translates to:
 ```
 Share the selected marker as plain text into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ចែក​រំលែក​សញ្ញា​សម្គាល់​ដែល​បាន​ជ្រើស​ជា​អត្ថបទ​ធម្មតា​ចូល​ទៅ​ក្នុង​កម្មវិធី​ផ្សេង​ទៀត
 ```
@@ -2351,7 +2351,7 @@ translates to:
 ```
 %1$d markers in %2$d folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d សញ្ញា​សម្គាល់​នៅ​ក្នុង %2$d ថត
 ```
@@ -2361,7 +2361,7 @@ translates to:
 ```
 A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ធ្វើ​សម​កាល​កម្ម​មួយ​បាន​កើត​ឡើង​មួយ​កំហុស​: ទិន្នន័យ​ពពក​នេះ​ត្រូវ​បាន​ធ្វើ​ឱ្យ​ទាន់​សម័យ​ជាមួយ​នឹង​កំណែ​បច្ចុប្បន្ន​របស់​កម្មវិធី​នេះ​។ អ្នក​ត្រូវ​តែ​ធ្វើ​ឱ្យ​ទាន់​សម័យ Map Marker នៅ​លើ​ឧបករណ៍​ធ្វើ​សម​កាល​កម្ម​នេះ​។
 ```
@@ -2371,7 +2371,7 @@ translates to:
 ```
 Could not find a phone app on this device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មិន​អាច​រក​ឃើញ​កម្មវិធី​ទូរស័ព្ទ​មួយ​លើ​ឧបករណ៍​នេះ​។
 ```
@@ -2381,7 +2381,7 @@ translates to:
 ```
 Phone number options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជម្រើស​ដែល​លេខ​ទូរស័ព្ទ
 ```
@@ -2391,7 +2391,7 @@ translates to:
 ```
 Call phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 លេខ​ទូរស័ព្ទ​ហៅ​ទូរស័ព្ទ
 ```
@@ -2401,7 +2401,7 @@ translates to:
 ```
 Dial phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សូម​ចុច​លេខ​ទូរស័ព្ទ
 ```
@@ -2411,7 +2411,7 @@ translates to:
 ```
 Text phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 លេខ​ទូរស័ព្ទ​អត្ថបទ
 ```
@@ -2421,7 +2421,7 @@ translates to:
 ```
 Default navigation action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សកម្មភាព​រុករក​លំនាំដើម &amp; ‧​;
 ```
@@ -2431,7 +2431,7 @@ translates to:
 ```
 Default phone action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សកម្មភាព​ទូរស័ព្ទ​លំនាំ​ដើម
 ```
@@ -2441,7 +2441,7 @@ translates to:
 ```
 Ask
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សូម​សួរ
 ```
@@ -2451,7 +2451,7 @@ translates to:
 ```
 Premium free trial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការធានារ៉ាប់រងការជំនុំជម្រះក្តីដោយឥតគិត
 ```
@@ -2461,7 +2461,7 @@ translates to:
 ```
 What is the premium upgrade?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ធ្វើឱ្យប្រសើរឡើងការធានារ៉ាប់រងជាអ្វី?
 ```
@@ -2471,7 +2471,7 @@ translates to:
 ```
 Premium free trial started! The trial will expire at the following date: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការធានារ៉ាប់រងបានចាប់ផ្តើមការជំនុំជម្រះក្តីដោយឥតគិតថ្លៃ! ការជំនុំជម្រះនេះនឹងផុតកំណត់នៅកាលបរិច្ឆេទដូចខាងក្រោម: %s
 ```
@@ -2482,7 +2482,7 @@ translates to:
 Trial expiration:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការផុតកំណត់ការកាត់ទោស: 
  %s
@@ -2493,7 +2493,7 @@ translates to:
 ```
 Trial expired
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការកាត់ទោសបានផុតកំណត់
 ```
@@ -2503,7 +2503,7 @@ translates to:
 ```
 Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ធ្វើសមកាលកម្មត្រូវបានលុបចោល: អ្នកត្រូវធ្វើឱ្យប្រសើរឡើងការធានារ៉ាប់រងនៅក្នុងគោលបំណងដើម្បីអនុវត្តធ្វើសមកាលកម្ម។
 ```
@@ -2513,7 +2513,7 @@ translates to:
 ```
 Error: trial starting in the future!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កំហុស: ចាប់ផ្តើមការជំនុំជម្រះក្តីនៅថ្ងៃអនាគត!
 ```
@@ -2523,7 +2523,7 @@ translates to:
 ```
 Thank you for your purchase!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សូមអរគុណសម្រាប់ការទិញរបស់អ្នក!
 ```
@@ -2533,7 +2533,7 @@ translates to:
 ```
 Browse
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 រកមើល
 ```
@@ -2543,7 +2543,7 @@ translates to:
 ```
 Organize
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 រៀបចំ
 ```
@@ -2553,7 +2553,7 @@ translates to:
 ```
 Create
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បង្កើត
 ```
@@ -2563,7 +2563,7 @@ translates to:
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ព្យាយាមម្ដងទៀត
 ```
@@ -2573,7 +2573,7 @@ translates to:
 ```
 Search failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ស្វែងរកបរាជ័យ
 ```
@@ -2583,7 +2583,7 @@ translates to:
 ```
 Search failed, network error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ស្វែងរកបរាជ័យ, កំហុសបណ្ដាញ
 ```
@@ -2593,7 +2593,7 @@ translates to:
 ```
 Details
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សេចក្ដីលម្អិត
 ```
@@ -2603,7 +2603,7 @@ translates to:
 ```
 Sync error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កំហុសសមកាលកម្ម
 ```
@@ -2613,7 +2613,7 @@ translates to:
 ```
 The file already exists, do you want to overwrite it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ឯកសាររួចហើយតើអ្នកចង់សរសេរជាន់លើវាឬ?
 ```
@@ -2623,7 +2623,7 @@ translates to:
 ```
 Copy markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សញ្ញាសម្គាល់ចម្លងទៅថត
 ```
@@ -2633,7 +2633,7 @@ translates to:
 ```
 Error loading the Google Map component. Please restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កំហុសក្នុងការផ្ទុក Google Map សមាសភាគ។ សូមចាប់ផ្ដើមកម្មវិធី។
 ```
@@ -2643,7 +2643,7 @@ translates to:
 ```
 You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អ្នកនឹងឃើញបញ្ជីនៃសញ្ញាសម្គាល់របស់អ្នកនៅទីនេះ។ បច្ចុប្បន្នអ្នកមានសញ្ញាសម្គាល់នៅក្នុងថតដែលបានជ្រើស (s) បានឡើយ។ អ្នកអាចបន្ថែមចំណុចថ្មីដោយចុចប៊ូតុងខាងក្រោម។
 ```
@@ -2653,7 +2653,7 @@ translates to:
 ```
 No search results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 គ្មានលទ្ធផលស្វែងរក
 ```
@@ -2663,7 +2663,7 @@ translates to:
 ```
 Open Street Map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Open Street Map
 ```
@@ -2673,7 +2673,7 @@ Open Street Map
 ```
 Bing Road
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Road
 ```
@@ -2683,7 +2683,7 @@ Bing Road
 ```
 Bing Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial
 ```
@@ -2693,7 +2693,7 @@ Bing Aerial
 ```
 Bing Aerial With Labels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial ជាមួយនឹងស្លាក
 ```
@@ -2703,7 +2703,7 @@ Bing Aerial ជាមួយនឹងស្លាក
 ```
 ArcGIS Server
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ArcGIS Server
 ```
@@ -2713,7 +2713,7 @@ ArcGIS Server
 ```
 Offline maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ផែនទីក្រៅបណ្តាញ
 ```
@@ -2723,7 +2723,7 @@ translates to:
 ```
 No folder selected
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មិនបានជ្រើសថត
 ```
@@ -2733,7 +2733,7 @@ translates to:
 ```
 Storage folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ថតផ្ទុក
 ```
@@ -2744,7 +2744,7 @@ translates to:
 Test results of the offline maps folder:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 លទ្ធផលនៃតេស្តនៃថតផែនទីក្រៅបណ្តាញ: 
  %s
@@ -2755,7 +2755,7 @@ translates to:
 ```
 No folder is selected for offline map files. In order to use offline maps, open the settings and select a folder for offline map files.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មិនមានថតដែលត្រូវបានជ្រើសសម្រាប់ឯកសារផែនទីក្រៅបណ្តាញ។ ក្នុងគោលបំណងដើម្បីប្រើផែនទីក្រៅបណ្តាញ, បើកការកំណត់ហើយជ្រើសថតសម្រាប់ឯកសារផែនទីក្រៅបណ្តាញមួយ។
 ```
@@ -2765,7 +2765,7 @@ translates to:
 ```
 The selected offline map folder you selected contains no files. Make sure you add the offline map files in that folder before using offline maps, otherwise the map will be empty.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ថតដែលបានជ្រើសផែនទីក្រៅបណ្តាញមានឯកសារដែលអ្នកបានជ្រើសទេ។ សូមប្រាកដថាអ្នកបន្ថែមឯកសារផែនទីក្រៅបណ្ដាញនៅក្នុងថតនោះមុនពេលប្រើផែនទីក្រៅបណ្តាញ, បើមិនដូច្នេះទេផែនទីនឹងត្រូវទទេ។
 ```
@@ -2775,7 +2775,7 @@ translates to:
 ```
 Success: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជោគជ័យ: %s
 ```
@@ -2785,7 +2785,7 @@ translates to:
 ```
 Failed: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បរាជ័យ: %s
 ```
@@ -2795,7 +2795,7 @@ translates to:
 ```
 How to do it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 តើធ្វើដូចម្តេចដើម្បីធ្វើវា?
 ```
@@ -2805,7 +2805,7 @@ translates to:
 ```
 Click here to open the web page explaining how to obtain those maps.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សូមចុចទីនេះដើម្បីបើកទំព័របណ្តាញពន្យល់ពីរបៀបដើម្បីទទួលផែនទីទាំងនោះ។
 ```
@@ -2815,7 +2815,7 @@ translates to:
 ```
 Credits
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សេវាឥណទាន
 ```
@@ -2825,7 +2825,7 @@ translates to:
 ```
 Copyright and legal mentions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 រក្សាសិទ្ធិនិងផ្នែកច្បាប់បានលើកឡើង
 ```
@@ -2837,7 +2837,7 @@ Legal mentions for other map data than Google Maps:
 
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ផ្នែកច្បាប់បានលើកឡើងសម្រាប់ទិន្នន័យផែនទីដទៃទៀតជាង Google Maps : 
  
@@ -2849,7 +2849,7 @@ translates to:
 ```
 Disable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កន្លែងចាក់ឯកសារបិទកំហុស
 ```
@@ -2859,7 +2859,7 @@ translates to:
 ```
 Disable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បិទការសរសេរកំហុសកម្មវិធីទៅឯកសារលើកាតប្រភេទ SD
 ```
@@ -2869,7 +2869,7 @@ translates to:
 ```
 Enable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អនុញ្ញាតគំនរឯកសារកំហុស
 ```
@@ -2879,7 +2879,7 @@ translates to:
 ```
 Enable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បើកការសរសេរកំហុសកម្មវិធីទៅឯកសារលើកាតប្រភេទ SD
 ```
@@ -2889,7 +2889,7 @@ translates to:
 ```
 Start background sync…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ចាប់ផ្តើមការធ្វើសមកាលកម្មផ្ទៃខាងក្រោយ&#8230;
 ```
@@ -2899,7 +2899,7 @@ translates to:
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មិនដែល
 ```
@@ -2909,7 +2909,7 @@ translates to:
 ```
 When app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 នៅពេលដែលកម្មវិធីចូលទៅផ្ទៃខាងក្រោយ
 ```
@@ -2919,7 +2919,7 @@ translates to:
 ```
 %d seconds after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d វិនាទីបន្ទាប់ពីកម្មវិធីនេះបានចូលទៅផ្ទៃខាងក្រោយ
 ```
@@ -2929,7 +2929,7 @@ translates to:
 ```
 %d minutes after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d នាទីបន្ទាប់ពីកម្មវិធីនេះបានចូលទៅផ្ទៃខាងក្រោយ
 ```
@@ -2939,7 +2939,7 @@ translates to:
 ```
 Sync starting in %d seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ធ្វើសមកាលកម្មចាប់ផ្តើមនៅ %d វិនាទី
 ```
@@ -2949,7 +2949,7 @@ translates to:
 ```
 You can cancel the sync at any time and your data will be synced on next attempt.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អ្នកអាចបោះបង់ការធ្វើសមកាលកម្មនៅពេលណាមួយនិងទិន្នន័យរបស់អ្នកនឹងត្រូវបានធ្វើសមកាលកម្មនៅលើការប្រកួតបន្ទាប់ទៀត។
 ```
@@ -2959,7 +2959,7 @@ translates to:
 ```
 Press back again to exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ចុចត្រឡប់មកវិញជាថ្មីម្តងទៀតដើម្បីចេញ
 ```
@@ -2969,7 +2969,7 @@ translates to:
 ```
 Cannot start sync with no internet access on the device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មិនអាចចាប់ផ្តើមធ្វើសមកាលកម្មដោយគ្មានការចូលដំណើរការអ៊ិនធឺណិនៅលើឧបករណ៍។
 ```
@@ -2979,7 +2979,7 @@ translates to:
 ```
 Manage map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 គ្រប់គ្រងឯកសារផែនទី
 ```
@@ -2989,7 +2989,7 @@ translates to:
 ```
 Map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ឯកសារផែនទី
 ```
@@ -2999,7 +2999,7 @@ translates to:
 ```
 Delete map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 លុបឯកសារផែនទី
 ```
@@ -3009,7 +3009,7 @@ translates to:
 ```
 This action will delete the map file from this device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សកម្មភាពនេះនឹងលុបឯកសារផែនទីពីឧបករណ៍នេះ
 ```
@@ -3019,7 +3019,7 @@ translates to:
 ```
 This action will delete the map file from your device forever. All the markers inside that file will be lost. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សកម្មភាពនេះនឹងលុបឯកសារផែនទីពីឧបករណ៍របស់អ្នកជារៀងរហូត។ សញ្ញាសម្គាល់ទាំងអស់មាននៅក្នុងឯកសារដែលនឹងត្រូវបានបាត់បង់។ តើ​អ្នក​ប្រាកដ​ឬ​អត់?
 ```
@@ -3029,7 +3029,7 @@ translates to:
 ```
 This action will delete the map file from your device forever. All changes not yet synced to the cloud will be lost. The cloud folder will not be affected by this action and you will have to delete it manually. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សកម្មភាពនេះនឹងលុបឯកសារផែនទីពីឧបករណ៍របស់អ្នកជារៀងរហូត។ ការផ្លាស់ប្តូរទាំងអស់មិនត្រូវបានធ្វើសមកាលកម្មទៅកាន់ពពកនោះនៅឡើយទេនឹងត្រូវបាត់បង់។ ថតពពកនេះនឹងមិនត្រូវបានប៉ះពាល់ដោយសកម្មភាពនេះហើយអ្នកនឹងត្រូវលុបវាដោយដៃ។ តើ​អ្នក​ប្រាកដ​ឬ​អត់?
 ```
@@ -3039,7 +3039,7 @@ translates to:
 ```
 Map file successfully deleted
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 លុបឯកសារផែនទីដោយជោគជ័យ
 ```
@@ -3049,7 +3049,7 @@ translates to:
 ```
 Could not delete map file: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មិនអាចលុបឯកសារផែនទី: %s
 ```
@@ -3059,7 +3059,7 @@ translates to:
 ```
 Marker saved in a non visible folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សញ្ញាសម្គាល់បានរក្សាទុកក្នុងថតដែលមើលឃើញមួយដែលមិនមែន
 ```
@@ -3069,7 +3069,7 @@ translates to:
 ```
 Your changes have not been synced recently. Make sure you keep your cloud copy up to date. Do you want to sync now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការផ្លាស់ប្ដូររបស់អ្នកមិនត្រូវបានធ្វើសមកាលកម្មថ្មី។ សូមប្រាកដថាអ្នករក្សាពពករបស់អ្នកចម្លងរហូតដល់កាលបរិច្ឆេទ។ តើអ្នកចង់ធ្វើសមកាលកម្មឥឡូវនេះ?
 ```
@@ -3079,7 +3079,7 @@ translates to:
 ```
 The markers of this map file are currently only saved on this device. It is recommended to save your markers on the cloud to avoid losing them. Do you want to save them to the cloud now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សញ្ញាសម្គាល់នៃឯកសារផែនទីនេះបច្ចុប្បន្នត្រូវបានរក្សាទុកបានតែនៅលើឧបករណ៍នេះ។ វាត្រូវបានផ្ដល់អនុសាសន៍ដើម្បីសង្គ្រោះសញ្ញាសម្គាល់របស់អ្នកនៅលើពពកដើម្បីជៀសវាងការបាត់បង់ពួកគេ។ តើអ្នកចង់រក្សាទុកពួកវាទៅក្នុងពពកនេះឥឡូវនេះទេ?
 ```
@@ -3089,7 +3089,7 @@ translates to:
 ```
 Do you want to sync this map file? With manual you will need to sync manually every time. With automatic (recommended) you will select a destination cloud folder and the sync to the cloud will start automatically every time the app enters background.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 តើអ្នកចង់ធ្វើសមកាលកម្មឯកសារផែនទីនេះ? ជាមួយសៀវភៅដៃអ្នកនឹងត្រូវការដើម្បីធ្វើសមកាលកម្មដោយដៃរាល់ពេល។ ជាមួយនឹងការដោយស្វ័យប្រវត្តិ (ផ្តល់អនុសាសន៍) អ្នកនឹងជ្រើសថតគោលដៅនិងធ្វើសមកាលកម្មពពកទៅពពកនេះនឹងចាប់ផ្តើមដោយស្វ័យប្រវត្តិរាល់ពេលដែលកម្មវិធីនេះបានចូលទៅផ្ទៃខាងក្រោយ។
 ```
@@ -3099,7 +3099,7 @@ translates to:
 ```
 Automatic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ដោយស្វ័យប្រវត្តិ
 ```
@@ -3109,7 +3109,7 @@ translates to:
 ```
 Manual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សៀវភៅដៃ
 ```
@@ -3119,7 +3119,7 @@ translates to:
 ```
 You can sync a map file on the cloud at any time by clicking on the map file in the side bar and then choosing the "Cloud sync" option.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អ្នកអាចធ្វើសមកាលកម្មឯកសារផែនទីនៅលើពពកនៅពេលណាមួយដោយចុចលើឯកសារផែនទីនៅក្នុងរបារចំហៀងហើយបន្ទាប់មកជ្រើសរើសយកជម្រើស "Cloud សមកាលកម្ម" ។
 ```
@@ -3129,7 +3129,7 @@ translates to:
 ```
 You can sync a map file manually to the cloud at any time by clicking the "share" button in the main action bar, and then "Other options" and then "All markers and folders" and then by selecting your favorite cloud storage app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អ្នកអាចធ្វើសមកាលកម្មឯកសារផែនទីដោយដៃដើម្បីពពក * នៅពេលណាមួយដោយចុចប៊ូតុង "ចំណែក" នៅក្នុងរបារសកម្មភាពចម្បងនិងបន្ទាប់មក "ជម្រើសផ្សេងទៀត" ហើយបន្ទាប់មក "សញ្ញាសម្គាល់និងថតទាំងអស់" ហើយបន្ទាប់មកដោយការជ្រើសកម្មវិធី Cloud Storage សំណព្វរបស់អ្នក។
 ```
@@ -3139,7 +3139,7 @@ translates to:
 ```
 Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ផ្លាស់ទីផែនទីដែលនៅជុំវិញក្នុងការដាក់ពិន្ទុ, ចុច '+' ដើម្បីបន្ថែមចំណុចមួយ, ចុច '-' ដើម្បីយកចំណុចមួយនិងប្តូរពិន្ទុដែលមានប៊ូតុងបន្ទាប់ / មុន។ ជាចុងក្រោយសូមចុចរក្សាទុកដើម្បីរក្សាទុករូបរាង។
 ```
@@ -3149,7 +3149,7 @@ translates to:
 ```
 There are not enough points to create the shape. Create more points and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មិនមានពិន្ទុគ្រប់គ្រាន់ដើម្បីបង្កើតរាង។ បង្កើតពិន្ទុបន្ថែមទៀតនិងព្យាយាមម្ដងទៀត។
 ```
@@ -3159,7 +3159,7 @@ translates to:
 ```
 Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn\'t work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by email (side panel -> about -> send email).
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មិនអាចធ្វើឱ្យការធ្វើឱ្យប្រសើរបុព្វលាភដែលបានមកពីគណនី Google របស់អ្នក។ ប្រសិនបើអ្នកបានទិញធានារ៉ាប់រងធ្វើឱ្យប្រសើរឡើងពីឧបករណ៍ថ្មីមួយទៀត, អ្នកអាចនឹងត្រូវរង់ចាំបន្តិចសម្រាប់ការទិញដើម្បី propagate, ចាប់ផ្ដើមឧបករណ៍របស់អ្នកអាចធ្វើឱ្យវាលឿនជាងមុន។ ប្រសិនបើវានៅតែមិនធ្វើការ, ធ្វើឱ្យប្រាកដថាអ្នកបានទិញ, បានដំឡើងកម្មវិធីនេះនិងបានធ្វើឱ្យសកម្មជាមួយនឹងគណនី Google ដូចគ្នា។ ប្រសិនបើបញ្ហានៅតែបន្តកើតមាន, ខ្ញុំនឹងជួយអ្នកបានល្អបំផុតដែលខ្ញុំអាចធ្វើបាន, អ្នកអាចទាក់ទងមកខ្ញុំដោយ email (បន្ទះម្ខាង -&gt; អំពី -&gt; ផ្ញើ email ) ។
 ```
@@ -3169,7 +3169,7 @@ translates to:
 ```
 Distance: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ចម្ងាយ: %s
 ```
@@ -3180,7 +3180,7 @@ translates to:
 Perimeter: %1$s
 Area: %2$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បរិវេណ: %1$s 
  តំបន់: %2$s
@@ -3191,7 +3191,7 @@ translates to:
 ```
 Extra information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ពបន្ថែម
 ```
@@ -3201,7 +3201,7 @@ translates to:
 ```
 Insert…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បញ្ចូល&#8230;
 ```
@@ -3211,7 +3211,7 @@ translates to:
 ```
 Replace title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជំនួសតំណែងជើងឯក
 ```
@@ -3221,7 +3221,7 @@ translates to:
 ```
 Replace description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជំនួសការរៀបរាប់
 ```
@@ -3231,7 +3231,7 @@ translates to:
 ```
 Unit of distance
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អង្គភាពនៃចម្ងាយ
 ```
@@ -3241,7 +3241,7 @@ translates to:
 ```
 Unit of area
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ឯកតានៃតំបន់
 ```
@@ -3251,7 +3251,7 @@ translates to:
 ```
 Metric (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កាល ( %s )
 ```
@@ -3261,7 +3261,7 @@ translates to:
 ```
 Imperial (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ចក្រពត្តិ ( %s )
 ```
@@ -3271,7 +3271,7 @@ translates to:
 ```
 Images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 រូបភាព
 ```
@@ -3281,7 +3281,7 @@ translates to:
 ```
 Select image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជ្រើសរូបភាព
 ```
@@ -3291,7 +3291,7 @@ translates to:
 ```
 Imported images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 រូបភាពដែលបាននាំចូល
 ```
@@ -3301,7 +3301,7 @@ translates to:
 ```
 Fit in a %1$sx%2$s square
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សមនឹងនៅក្នុង %1$s x %2$s ការ៉េ
 ```
@@ -3311,7 +3311,7 @@ translates to:
 ```
 Full quality
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 គុណភាពពេញ
 ```
@@ -3321,7 +3321,7 @@ translates to:
 ```
 Mobile data
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ទិន្នន័យចល័ត
 ```
@@ -3331,7 +3331,7 @@ translates to:
 ```
 Wifi
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Wifi
 ```
@@ -3341,7 +3341,7 @@ Wifi
 ```
 Disabled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជនពិការ
 ```
@@ -3351,7 +3351,7 @@ translates to:
 ```
 Up to %s per sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ឡើងទៅ %s ដោយធ្វើសមកាលកម្ម
 ```
@@ -3361,7 +3361,7 @@ translates to:
 ```
 Unlimited
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 គ្មាន​ដែន​កំណត់
 ```
@@ -3371,7 +3371,7 @@ translates to:
 ```
 The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings. You can also click "force sync" to sync just one time without data volume limit.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ធ្វើសមកាលកម្មត្រូវបានបោះបង់ព្រោះវាត្រូវបានលើសពីដែនកំណត់ទំហំទិន្នន័យដែលបានអនុញ្ញាត។ ដើម្បីបង្កើនឬផ្លាស់ប្តូរដែនកំណត់, សូមចូលទៅកាន់ការកំណត់។ អ្នកអាចចុចប៊ូតុង "ធ្វើសមកាលកម្មកម្លាំង" ដើម្បីធ្វើសមកាលកម្មមួយគ្រាន់តែពេលវេលាដោយគ្មានដែនកំណត់ទំហំទិន្នន័យ។
 ```
@@ -3381,7 +3381,7 @@ translates to:
 ```
 Force sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ធ្វើសមកាលកម្មកងទ័ព
 ```
@@ -3391,7 +3391,7 @@ translates to:
 ```
 This will override the usual data limit just for this one time. Force sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការនេះនឹងបដិសេធដែនកំណត់ទិន្នន័យជាធម្មតាគ្រាន់តែសម្រាប់ពេលនេះ។ កម្លាំងធ្វើសមកាលកម្ម?
 ```
@@ -3401,7 +3401,7 @@ translates to:
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ព្យាយាមម្ដងទៀត
 ```
@@ -3411,7 +3411,7 @@ translates to:
 ```
 Add image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បន្ថែមរូបភាព
 ```
@@ -3421,7 +3421,7 @@ translates to:
 ```
 From camera
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ពីម៉ាស៊ីនថត
 ```
@@ -3431,7 +3431,7 @@ translates to:
 ```
 From gallery
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ពីវិចិត្រសាល
 ```
@@ -3441,7 +3441,7 @@ translates to:
 ```
 Importing image…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 នាំចូលរូបភាព&#8230;
 ```
@@ -3451,7 +3451,7 @@ translates to:
 ```
 Offline (Mapsforge BETA)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ក្រៅបណ្តាញ ( Mapsforge BETA )
 ```
@@ -3461,7 +3461,7 @@ translates to:
 ```
 Exporting…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការនាំចេញ&#8230;
 ```
@@ -3471,7 +3471,7 @@ translates to:
 ```
 Export failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការនាំចេញបានបរាជ័យ
 ```
@@ -3481,7 +3481,7 @@ translates to:
 ```
 Export succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 នាំចេញទទួលបានជោគជ័យ
 ```
@@ -3491,7 +3491,7 @@ translates to:
 ```
 KMZ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KMZ
 ```
@@ -3501,7 +3501,7 @@ KMZ
 ```
 KML
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KML
 ```
@@ -3511,7 +3511,7 @@ KML
 ```
 Importing file…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 នាំចូលឯកសារ&#8230;
 ```
@@ -3521,7 +3521,7 @@ translates to:
 ```
 Show warning icon for sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បង្ហាញរូបតំណាងការព្រមានធ្វើសមកាលកម្ម
 ```
@@ -3531,7 +3531,7 @@ translates to:
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ធ្វើសមកាលកម្មត្រូវបានបោះបង់ដោយសារតែមួយនៃឯកសារប្រព័ន្ធផ្សព្វផ្សាយនៅលើពពកបានបាត់ខ្លួន។ អ្នកអាចមិនអើពើដោយការចុចលើឯកសារដែលបាត់ខ្លួន "កម្លាំងធ្វើសមកាលកម្ម \" ។ ព្រមាន, មិនអើពើនឹងឯកសារដែលបានបាត់ខ្លួននឹងមានលទ្ធផលនៅយកពួកវាចេញពីមូលដ្ឋានទិន្នន័យដែលមានន័យថាឧបករណ៍ផ្សេងទៀតនៅតែមានច្បាប់ចម្លងមូលដ្ឋានរបស់ឯកសារដែលនឹងលុបលើសមកាលកម្ម។
 ```
@@ -3541,7 +3541,7 @@ translates to:
 ```
 This will force the sync and ignore the missing cloud files. The missing links will be removed from the database. Other devices still owning a local version of the missing cloud files will delete them upon their next sync. Data consumption limits will be ignored for this special sync. Force Sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការនេះនឹងបង្ខំឱ្យធ្វើសមកាលកម្មនិងការមិនអើពើឯកសារពពកបាត់ខ្លួន។ តំណភ្ជាប់ដែលបាត់ខ្លួននឹងត្រូវបានយកចេញពីមូលដ្ឋានទិន្នន័យ។ ឧបករណ៍ផ្សេងទៀតនៅតែជាម្ចាស់មួយកំណែមូលដ្ឋាននៃឯកសារពពកបាត់ខ្លួននឹងលុបពួកវានៅលើការធ្វើសមកាលកម្មបន្ទាប់របស់ពួកគេ។ ដែនកំណត់ការប្រើប្រាស់ទិន្នន័យនឹងត្រូវបានមិនអើពើចំពោះការធ្វើសមកាលកម្មពិសេសនេះ។ កម្លាំងធ្វើសមកាលកម្ម?
 ```
@@ -3551,7 +3551,7 @@ translates to:
 ```
 Marker media files ignored on import: %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សញ្ញាសម្គាល់ឯកសារមេឌៀលើការនាំចូលមិនអើពើ: %1$d
 ```
@@ -3561,7 +3561,7 @@ translates to:
 ```
 Checking premium status…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កំពុងពិនិត្យមើលស្ថានភាពការធានារ៉ាប់រង&#8230;
 ```
@@ -3571,7 +3571,7 @@ translates to:
 ```
 General
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ទូទៅ
 ```
@@ -3581,7 +3581,7 @@ translates to:
 ```
 Toilets
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បង្គន់
 ```
@@ -3591,7 +3591,7 @@ translates to:
 ```
 Food
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អាហារ
 ```
@@ -3601,7 +3601,7 @@ translates to:
 ```
 Stores
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ហាងលក់
 ```
@@ -3611,7 +3611,7 @@ translates to:
 ```
 Land activities
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សកម្មភាពដីធ្លី
 ```
@@ -3621,7 +3621,7 @@ translates to:
 ```
 Water activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 activies ទឹក
 ```
@@ -3631,7 +3631,7 @@ activies ទឹក
 ```
 Winter activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 activies រដូវរងារ
 ```
@@ -3641,7 +3641,7 @@ activies រដូវរងារ
 ```
 Transport
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការដឹកជញ្ជូន
 ```
@@ -3651,7 +3651,7 @@ translates to:
 ```
 Health
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សុខភាព
 ```
@@ -3661,7 +3661,7 @@ translates to:
 ```
 Entertainment
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កំសាន្ត
 ```
@@ -3671,7 +3671,7 @@ translates to:
 ```
 Services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សេវាកម្ម
 ```
@@ -3681,7 +3681,7 @@ translates to:
 ```
 Business
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ពាណិជ្ជកម្ម
 ```
@@ -3691,7 +3691,7 @@ translates to:
 ```
 Government
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 រដ្ឋាភិបាល
 ```
@@ -3701,7 +3701,7 @@ translates to:
 ```
 Religious
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 នៃ​សាសនា
 ```
@@ -3711,7 +3711,7 @@ translates to:
 ```
 Accessibility
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មធ្យោបាយងាយស្រួល
 ```
@@ -3721,7 +3721,7 @@ translates to:
 ```
 Select icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជ្រើសរូបតំណាង
 ```
@@ -3731,7 +3731,7 @@ translates to:
 ```
 Icon and color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 រូបតំណាងនិងប៍ន
 ```
@@ -3741,7 +3741,7 @@ translates to:
 ```
 Generic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ទូទៅ
 ```
@@ -3751,7 +3751,7 @@ translates to:
 ```
 Beta tester badge: thank you for being a beta tester! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ផ្លាកសញ្ញាអ្នកសាកល្បងកំណែបេតា: សូមអរគុណអ្នកសម្រាប់ការត្រូវបានសាកល្បងមួយ! ផ្លាកសញ្ញានេះនឹងមិនបង្ហាញតែលើអ្វីដែលបានលុបកម្មវិធីឬទិន្នន័យកម្មវិធីឈូសឆាយនោះ។ ផ្លាកសញ្ញានេះផងដែរអនុញ្ញាតឱ្យអ្នកមានការផ្សព្វផ្សាយពាណិជ្ជកម្មនៅលើកម្មវិធីនោះទេ។
 ```
@@ -3761,7 +3761,7 @@ translates to:
 ```
 Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ផ្លាកសញ្ញាបង្អែក: សូមអរគុណចំពោះការអញ្ជើញមិត្តភក្តិរបស់អ្នកទៅកម្មវិធី! ផ្លាកសញ្ញានេះនឹងមិនបង្ហាញតែលើអ្វីដែលបានលុបកម្មវិធីឬទិន្នន័យកម្មវិធីឈូសឆាយនោះ។ ផ្លាកសញ្ញានេះផងដែរអនុញ្ញាតឱ្យអ្នកមានការផ្សព្វផ្សាយពាណិជ្ជកម្មនៅលើកម្មវិធីនោះទេ។
 ```
@@ -3771,7 +3771,7 @@ translates to:
 ```
 Referral
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការបញ្ជូន
 ```
@@ -3781,7 +3781,7 @@ translates to:
 ```
 Removing ads: exchange referrals credits with friends to remove ads
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការដោះការផ្សព្វផ្សាយពាណិជ្ជកម្ម: ការផ្លាស់ប្តូរជាមួយនឹងការឥណទានបញ្ជូនមិត្តភក្តិយកការផ្សព្វផ្សាយពាណិជ្ជកម្ម
 ```
@@ -3791,7 +3791,7 @@ translates to:
 ```
 Sent credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ឥណទានផ្ញើ: %s
 ```
@@ -3801,7 +3801,7 @@ translates to:
 ```
 Received credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ទទួលបានឥណទាន: %s
 ```
@@ -3811,7 +3811,7 @@ translates to:
 ```
 Contribute to translations
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 រួមចំណែកដល់ការបកប្រែ
 ```
@@ -3821,7 +3821,7 @@ translates to:
 ```
 You understand English and want to help with translations? Click here
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អ្នកយល់ពីភាសាអង់គ្លេសនិងចង់ជួយបកប្រែ? ចុច​ទីនេះ
 ```
@@ -3831,7 +3831,7 @@ translates to:
 ```
 The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ប៍នឬរូបតំណាងថតទិសដៅនេះគឺខុសគ្នា។ តើអ្នកចង់ធ្វើឱ្យទាន់សម័យណ៍និងរូបតំណាងសញ្ញាសម្គាល់?
 ```
@@ -3841,7 +3841,7 @@ translates to:
 ```
 Add color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បន្ថែមណ៍
 ```
@@ -3851,7 +3851,7 @@ translates to:
 ```
 <![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;[CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; តើអ្វីជាការធ្វើឱ្យប្រសើរឡើងការធានារ៉ាប់រង &lt;/ b&gt; &lt;br&gt; នៅលើកំពូលនៃការផ្សព្វផ្សាយពាណិជ្ជកម្មយកចេញ, ធ្វើឱ្យប្រសើរឡើងការធានារ៉ាប់រងចាក់សោលក្ខណៈពិសេស Premium ផ្តាច់មុខដូចខាងក្រោម: •ធ្វើសមកាលកម្មនៅលើ &lt;br&gt; Google Drive ឬ Dropbox •សហការតាមរយៈ &lt;br&gt; Google Drive ឬ Dropbox •កំណែផែនទីកម្ពុជាពីប្រវត្តិសាស្រ្តនិងការស្តារ &lt;br&gt; &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -3861,7 +3861,7 @@ translates to:
 ```
 Marker created from the geo location of the QR code
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សញ្ញាសម្គាល់បានបង្កើតពីទីតាំងភូមិសាស្ត្រនៃកូដ QR
 ```
@@ -3871,7 +3871,7 @@ translates to:
 ```
 Failed to read QR code as a geo location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បរាជ័យក្នុងការអានកូដ QR ជាទីតាំងភូមិសាស្ត្រមួយ
 ```
@@ -3881,7 +3881,7 @@ translates to:
 ```
 The app for scanning QR codes could not be found. Do you want to install it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កម្មវិធីសម្រាប់លេខកូដ QR ស្កេននេះមិនអាចរកឃើញ។ តើអ្នកចង់ដំឡើងវា?
 ```
@@ -3891,7 +3891,7 @@ translates to:
 ```
 Selection action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សកម្មភាពការជ្រើស
 ```
@@ -3901,7 +3901,7 @@ translates to:
 ```
 Move to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ផ្លាស់ទីទៅឆ្វេង
 ```
@@ -3911,7 +3911,7 @@ translates to:
 ```
 Move to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ផ្លាស់ទីទៅស្តាំ
 ```
@@ -3921,7 +3921,7 @@ translates to:
 ```
 Rotate to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បង្វិលទៅឆ្វេង
 ```
@@ -3931,7 +3931,7 @@ translates to:
 ```
 Rotate to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បង្វិលទៅស្ដាំ
 ```
@@ -3941,7 +3941,7 @@ translates to:
 ```
 Delete image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 លុបរូបភាព
 ```
@@ -3951,7 +3951,7 @@ translates to:
 ```
 From local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ពីឯកសារមូលដ្ឋាន
 ```
@@ -3961,7 +3961,7 @@ translates to:
 ```
 What format to you want to use to export?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 តើអ្វីទៅជាទ្រង់ទ្រាយដល់អ្នកចង់ប្រើដើម្បីនាំចេញ?
 ```
@@ -3971,7 +3971,7 @@ translates to:
 ```
 The data to export contains media(images) that cannot be included with this export format. The data will be exported without the media. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ទិន្នន័យដើម្បីនាំចេញមានប្រព័ន្ធផ្សព្វផ្សាយ (រូបភាព) ដែលមិនអាចត្រូវបានរួមបញ្ចូលជាមួយនឹងទ្រង់ទ្រាយនាំចេញនេះ។ ទិន្នន័យនេះនឹងត្រូវបាននាំចេញដោយគ្មានប្រព័ន្ធផ្សព្វផ្សាយ។ ដើម្បីនាំចេញអ្វីគ្រប់យ៉ាង, ជ្រើស KMZ ទ្រង់ទ្រាយនៃការនាំចេញ។
 ```
@@ -3981,7 +3981,7 @@ translates to:
 ```
 Standard Google Earth format. Cannot contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ស្ដង់ដារ Google Earth ទ្រង់ទ្រាយ។ មិនអាចមានប្រព័ន្ធផ្សព្វផ្សាយ។
 ```
@@ -3991,7 +3991,7 @@ translates to:
 ```
 Zip Google Earth format. Can contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zip Google Earth ទ្រង់ទ្រាយ។ អាចមានប្រព័ន្ធផ្សព្វផ្សាយ។
 ```
@@ -4001,7 +4001,7 @@ Zip Google Earth ទ្រង់ទ្រាយ។ អាចមានប្រ�
 ```
 Standard text spreadsheet format. Cannot contain media. Cannot contain lines or polygons.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ទ្រង់ទ្រាយសៀវភៅបញ្ជីអត្ថបទស្តង់ដារ។ មិនអាចមានប្រព័ន្ធផ្សព្វផ្សាយ។ មិនអាចមានបន្ទាត់ឬពហុកោណ។
 ```
@@ -4011,7 +4011,7 @@ translates to:
 ```
 Marker as plain text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សញ្ញាសម្គាល់ជាអត្ថបទធម្មតា
 ```
@@ -4021,7 +4021,7 @@ translates to:
 ```
 Marker as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សញ្ញាសម្គាល់ជាឯកសារ
 ```
@@ -4031,7 +4031,7 @@ translates to:
 ```
 Share the selected marker as a file into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ចែករំលែកសញ្ញាសម្គាល់ដែលបានជ្រើសជាឯកសារចូលទៅក្នុងកម្មវិធីផ្សេងទៀត
 ```
@@ -4041,7 +4041,7 @@ translates to:
 ```
 Share as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ចែករំលែកជាឯកសារ
 ```
@@ -4051,7 +4051,7 @@ translates to:
 ```
 Export to a local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការនាំចេញទៅកាន់ឯកសារមូលដ្ឋាន
 ```
@@ -4061,7 +4061,7 @@ translates to:
 ```
 Import or export markers as files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 នាំចូលឬនាំចេញសញ្ញាសម្គាល់ថាជាឯកសារ
 ```
@@ -4071,7 +4071,7 @@ translates to:
 ```
 The data to export contains complex markers (lines or polygons) that cannot be included with this export format. The data will be exported without those markers. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ទិន្នន័យដើម្បីនាំចេញមានសញ្ញាសម្គាល់ស្មុគស្មាញ (បន្ទាត់ឬពហុកោណ) ដែលមិនអាចត្រូវបានរួមបញ្ចូលជាមួយនឹងទ្រង់ទ្រាយនាំចេញនេះ។ ទិន្នន័យនេះនឹងត្រូវបាននាំចេញដោយគ្មានសញ្ញាសម្គាល់ទាំងនោះ។ ដើម្បីនាំចេញអ្វីគ្រប់យ៉ាង, ជ្រើស KMZ ទ្រង់ទ្រាយនៃការនាំចេញ។
 ```
@@ -4081,7 +4081,7 @@ translates to:
 ```
 Add custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បន្ថែមវាលផ្ទាល់ខ្លួន
 ```
@@ -4091,7 +4091,7 @@ translates to:
 ```
 Information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ពត៌មាន
 ```
@@ -4101,7 +4101,7 @@ translates to:
 ```
 Custom fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 វាលផ្ទាល់ខ្លួន
 ```
@@ -4111,7 +4111,7 @@ translates to:
 ```
 Field name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ឈ្មោះវាល
 ```
@@ -4121,7 +4121,7 @@ translates to:
 ```
 Delete field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 លុបវាល
 ```
@@ -4131,7 +4131,7 @@ translates to:
 ```
 Attributes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 គុណលក្ខណៈ
 ```
@@ -4141,7 +4141,7 @@ translates to:
 ```
 New custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 វាលផ្ទាល់ខ្លួនថ្មី
 ```
@@ -4151,7 +4151,7 @@ translates to:
 ```
 Modify custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កែប្រែវាលផ្ទាល់ខ្លួន
 ```
@@ -4161,7 +4161,7 @@ translates to:
 ```
 Field enabled. For folders, if enabled, that field will be added automatically to children POIs on creation. For POIs, if enabled, that field will be visible in the details page.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បានបើកវាល។ សម្រាប់ថតប្រសិនបើបើកដំណើរការវាលនោះនឹងត្រូវបានបន្ថែមដោយស្វ័យប្រវត្តិទៅ POI កុមារនៅលើការបង្កើត។ សម្រាប់ POIs ប្រសិនបើបើកដំណើរការវាលនោះនឹងអាចមើលឃើញនៅក្នុងទំព័រព័ត៌មានលម្អិត។
 ```
@@ -4171,7 +4171,7 @@ translates to:
 ```
 Field info
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ព័ត៌មានវាល
 ```
@@ -4181,7 +4181,7 @@ translates to:
 ```
 Select field type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជ្រើសប្រភេទវាល
 ```
@@ -4191,7 +4191,7 @@ translates to:
 ```
 Boolean (True or False)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ប៊ូលីន (ពិតឬមិនពិត)
 ```
@@ -4201,7 +4201,7 @@ translates to:
 ```
 Default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 តម្លៃ​លំនាំដើម
 ```
@@ -4211,7 +4211,7 @@ translates to:
 ```
 Date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កាលបរិច្ឆេទ
 ```
@@ -4221,7 +4221,7 @@ translates to:
 ```
 Email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អ៊ីមែល
 ```
@@ -4231,7 +4231,7 @@ translates to:
 ```
 Text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អត្ថបទ
 ```
@@ -4241,7 +4241,7 @@ translates to:
 ```
 Multiple choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ពហុ​ជម្រើស
 ```
@@ -4251,7 +4251,7 @@ translates to:
 ```
 Add choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បន្ថែមជម្រើស
 ```
@@ -4261,7 +4261,7 @@ translates to:
 ```
 Duplicates are not allowed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ស្ទួនមិនត្រូវបានអនុញ្ញាតទេ
 ```
@@ -4271,7 +4271,7 @@ translates to:
 ```
 Phone
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ទូរស័ព្ទ
 ```
@@ -4281,7 +4281,7 @@ translates to:
 ```
 Web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 តំណ​ភ្ជាប់​បណ្ដាញ
 ```
@@ -4291,7 +4291,7 @@ translates to:
 ```
 Choices list
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បញ្ជីជម្រើស
 ```
@@ -4301,7 +4301,7 @@ translates to:
 ```
 Select default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជ្រើសតម្លៃលំនាំដើម
 ```
@@ -4311,7 +4311,7 @@ translates to:
 ```
 Creation date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កាលបរិច្ឆេទ​បង្កើត
 ```
@@ -4321,7 +4321,7 @@ translates to:
 ```
 POI Options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជម្រើស POI
 ```
@@ -4331,7 +4331,7 @@ translates to:
 ```
 Delete POI
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 លុប POI
 ```
@@ -4341,7 +4341,7 @@ translates to:
 ```
 Select value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជ្រើសតម្លៃ
 ```
@@ -4351,7 +4351,7 @@ translates to:
 ```
 Used by folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បានប្រើដោយថត
 ```
@@ -4361,7 +4361,7 @@ translates to:
 ```
 Edit field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កែសម្រួលវាល
 ```
@@ -4371,7 +4371,7 @@ translates to:
 ```
 Add folder field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បន្ថែមវាលថត
 ```
@@ -4381,7 +4381,7 @@ translates to:
 ```
 Reorder fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 តម្រៀបវាលឡើងវិញ
 ```
@@ -4391,7 +4391,7 @@ translates to:
 ```
 Pick the fields you want to apply to this folder\'s POIs
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជ្រើសយកវាលដែលអ្នកចង់អនុវត្តទៅ POI របស់ថតនេះ
 ```
@@ -4401,7 +4401,7 @@ translates to:
 ```
 The destination folder has different field values. Pick the fields you want to apply to moved POIs.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ថតទិសដៅមានតម្លៃខុសៗគ្នា។ ជ្រើសយកវាលដែលអ្នកចង់អនុវត្តទៅ POIs ដែលបានផ្លាស់ប្តូរ។
 ```
@@ -4411,7 +4411,7 @@ translates to:
 ```
 Update color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ធ្វើបច្ចុប្បន្នភាពពណ៌
 ```
@@ -4421,7 +4421,7 @@ translates to:
 ```
 Update pin icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ធ្វើបច្ចុប្បន្នភាពរូបតំណាងម្ជុល
 ```
@@ -4431,7 +4431,7 @@ translates to:
 ```
 Add field if missing: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បន្ថែមវាលប្រសិនបើបាត់: %s
 ```
@@ -4441,7 +4441,7 @@ translates to:
 ```
 Remove field if present: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 យកវាលចេញប្រសិនបើមានវត្តមាន: %s
 ```
@@ -4451,7 +4451,7 @@ translates to:
 ```
 Update field name if different: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ធ្វើបច្ចុប្បន្នភាពឈ្មោះវាលប្រសិនបើខុសគ្នា: %s
 ```
@@ -4461,7 +4461,7 @@ translates to:
 ```
 More options…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 មាន​ជម្រើស​ជា​ច្រើន​ទៀត…
 ```
@@ -4471,7 +4471,7 @@ translates to:
 ```
 Folder options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ជម្រើសថត
 ```
@@ -4481,7 +4481,7 @@ translates to:
 ```
 Edit email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កែសម្រួល email
 ```
@@ -4491,7 +4491,7 @@ translates to:
 ```
 Edit web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 កែសម្រួលតំណបណ្ដាញ
 ```
@@ -4501,7 +4501,7 @@ translates to:
 ```
 Decimal accuracy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ភាពត្រឹមត្រូវទសភាគ
 ```
@@ -4511,7 +4511,7 @@ translates to:
 ```
 Details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ព័ត៌មានលម្អិតបានចម្លងទៅក្ដារតម្បៀតខ្ទាស់
 ```
@@ -4521,7 +4521,7 @@ translates to:
 ```
 Copy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ចម្លង
 ```
@@ -4531,7 +4531,7 @@ translates to:
 ```
 Do you want to click here? ^‿^
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 តើអ្នកចង់ចុចទីនេះឬ? ^ ‿ ^
 ```
@@ -4559,7 +4559,7 @@ And finally, thank you for reading this :-)
 Regards
 Sébastien
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ហេសូមអរគុណចំពោះការចង់ដឹងរបស់អ្នក! 
  
@@ -4587,7 +4587,7 @@ translates to:
 ```
 Normal with indoor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ធម្មតាជាមួយក្នុងផ្ទះ
 ```
@@ -4597,7 +4597,7 @@ translates to:
 ```
 Floating marker titles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ចំណងជើងគំនូសតាងអណ្តែត
 ```
@@ -4607,7 +4607,7 @@ translates to:
 ```
 Maximum number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 លេខអតិបរមា
 ```
@@ -4617,7 +4617,7 @@ translates to:
 ```
 Text size
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ទំហំអក្សរ
 ```
@@ -4627,7 +4627,7 @@ translates to:
 ```
 Search failed => %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ការស្វែងរកបានបរាជ័យ =&gt; %s
 ```
@@ -4637,7 +4637,7 @@ translates to:
 ```
 API key tutorial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 API key ការបង្រៀន
 ```
@@ -4647,7 +4647,7 @@ API key ការបង្រៀន
 ```
 Click here to see details on how to obtain an API key for your account.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 សូមចុចនៅទីនេះដើម្បីមើលព័ត៌មានលម្អិតអំពីរបៀបទទួល API key សម្រាប់គណនីរបស់អ្នក។
 ```
@@ -4657,7 +4657,7 @@ translates to:
 ```
 Personal API key
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ផ្ទាល់ខ្លួន API key
 ```
@@ -4667,7 +4667,7 @@ translates to:
 ```
 None
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 គ្មាន
 ```
@@ -4679,7 +4679,7 @@ You can search for places with "Google Places API". This search requires an inte
 
 You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 អ្នកអាចស្វែងរកកន្លែងដែលមាន "Google Places API" ។ ការស្វែងរកនេះទាមទារការតភ្ជាប់អ៊ីនធឺណិត។
 
@@ -4691,7 +4691,7 @@ translates to:
 ```
 Do you enjoy the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 តើអ្នកចូលចិត្តកម្មវិធីទេ?
 ```
@@ -4701,7 +4701,7 @@ translates to:
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 តើអ្នកចង់ផ្ញើ email មកខ្ញុំដើម្បីប្រាប់ខ្ញុំថាខ្ញុំអាចធ្វើឱ្យកម្មវិធីប្រសើរឡើងបានទេ?
 ```
@@ -4711,7 +4711,7 @@ translates to:
 ```
 Display extra POI fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បង្ហាញវាល POI បន្ថែម
 ```
@@ -4721,7 +4721,7 @@ translates to:
 ```
 IGN plans
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ផែនការ IGN
 ```
@@ -4731,7 +4731,7 @@ translates to:
 ```
 IGN maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ផែនទី IGN
 ```
@@ -4741,7 +4741,7 @@ translates to:
 ```
 IGN - Cadastral parcels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - ឡូត៍សុរិយោដី
 ```
@@ -4751,7 +4751,7 @@ IGN - ឡូត៍សុរិយោដី
 ```
 IGN - Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - អាកាស
 ```
@@ -4761,7 +4761,7 @@ IGN - អាកាស
 ```
 Type more and press enter again for refined results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 បញ្ចូលច្រើនទៀតហើយចុចបញ្ចូលម្តងទៀតសម្រាប់លទ្ធផលចម្រាញ់
 ```

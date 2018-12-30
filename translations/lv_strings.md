@@ -1,4 +1,4 @@
-# Map Marker translations for lv
+# Map Marker translations for Latvian (lv)
 
 You want to help improve this translation file? Read the [main page](https://github.com/androidseb/mapmarkerapptranslations)
 
@@ -7,7 +7,7 @@ You want to help improve this translation file? Read the [main page](https://git
 ```
 OK
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Labi
 ```
@@ -17,7 +17,7 @@ Labi
 ```
 Yes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jā
 ```
@@ -27,7 +27,7 @@ Jā
 ```
 No
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nē
 ```
@@ -37,7 +37,7 @@ Nē
 ```
 Cancel
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atcelt
 ```
@@ -47,7 +47,7 @@ Atcelt
 ```
 New marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jaunais marķieris
 ```
@@ -57,7 +57,7 @@ Jaunais marķieris
 ```
 Title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Virsraksts
 ```
@@ -67,7 +67,7 @@ Virsraksts
 ```
 Description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Apraksts
 ```
@@ -77,7 +77,7 @@ Apraksts
 ```
 Do you really want to delete this marker?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vai jūs tiešām vēlaties dzēst šo marķieri?
 ```
@@ -87,7 +87,7 @@ Vai jūs tiešām vēlaties dzēst šo marķieri?
 ```
 GPS coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GPS koordinātas
 ```
@@ -97,7 +97,7 @@ GPS koordinātas
 ```
 Could not copy coordinates to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nevar kopēt koordinātas uz starpliktuvi
 ```
@@ -107,7 +107,7 @@ Nevar kopēt koordinātas uz starpliktuvi
 ```
 Coordinates copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Koordinātas kopēt starpliktuvē
 ```
@@ -117,7 +117,7 @@ Koordinātas kopēt starpliktuvē
 ```
 Failed to access application save directory. Make sure that your device is not being accessed by a computer with the USB cable, and restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Neizdevās piekļūt pieteikumu saglabāt direktorijā. Pārliecinieties, ka jūsu ierīce netiek piekļūt datoram ar USB kabeli, un restartējiet lietotni.
 ```
@@ -127,7 +127,7 @@ Neizdevās piekļūt pieteikumu saglabāt direktorijā. Pārliecinieties, ka jū
 ```
 Untitled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Untitled
 ```
@@ -137,7 +137,7 @@ Untitled
 ```
 All
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Viss
 ```
@@ -147,7 +147,7 @@ Viss
 ```
 Add folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pievienot mapi
 ```
@@ -157,7 +157,7 @@ Pievienot mapi
 ```
 Modify folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pārveidot mapi
 ```
@@ -167,7 +167,7 @@ Pārveidot mapi
 ```
 Are you sure you want to delete this folder? All markers associated to this folder will be deleted permanently!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vai tiešām vēlaties dzēst šo mapi? Visi marķieri ir saistītas ar šajā mapē tiks izdzēsti!
 ```
@@ -177,7 +177,7 @@ Vai tiešām vēlaties dzēst šo mapi? Visi marķieri ir saistītas ar šajā m
 ```
 Failed to create new folder, it already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Neizdevās izveidot jaunu mapi, tas jau eksistē
 ```
@@ -187,7 +187,7 @@ Neizdevās izveidot jaunu mapi, tas jau eksistē
 ```
 Failed to rename the folder, the destination name already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Neizdevās pārdēvēt mapi, galamērķis nosaukumu jau eksistē
 ```
@@ -197,7 +197,7 @@ Neizdevās pārdēvēt mapi, galamērķis nosaukumu jau eksistē
 ```
 Latitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Latitude:
 ```
@@ -207,7 +207,7 @@ Latitude:
 ```
 Longitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Garums:
 ```
@@ -217,7 +217,7 @@ Garums:
 ```
 Could not write file.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nevar ierakstīt failu.
 ```
@@ -227,7 +227,7 @@ Nevar ierakstīt failu.
 ```
 Import/Export
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Import / Export
 ```
@@ -237,7 +237,7 @@ Import / Export
 ```
 Import markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Importa marķieri
 ```
@@ -247,7 +247,7 @@ Importa marķieri
 ```
 File imported successfully
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fails veiksmīgi importēti
 ```
@@ -257,7 +257,7 @@ Fails veiksmīgi importēti
 ```
 File import failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Failu importa neizdevās
 ```
@@ -267,7 +267,7 @@ Failu importa neizdevās
 ```
 Location services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vietas pakalpojumi
 ```
@@ -277,7 +277,7 @@ Vietas pakalpojumi
 ```
 Location services are disabled. To get your current location you must enable them.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atrašanās vietas pakalpojumi ir invalīdi. Lai saņemtu savu pašreizējo atrašanās vietu, jums ir ļaut viņiem.
 ```
@@ -287,7 +287,7 @@ Atrašanās vietas pakalpojumi ir invalīdi. Lai saņemtu savu pašreizējo atra
 ```
 Could not find address
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Neizdevās atrast adresi
 ```
@@ -297,7 +297,7 @@ Neizdevās atrast adresi
 ```
 Searching&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Meklē&#8230;
 ```
@@ -307,7 +307,7 @@ Meklē&#8230;
 ```
 Search
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Meklēšana
 ```
@@ -317,7 +317,7 @@ Meklēšana
 ```
 Share via
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Share via
 ```
@@ -327,7 +327,7 @@ Share via
 ```
 Do you want to import the content of this file?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vai vēlaties importēt saturu šo failu?
 ```
@@ -337,7 +337,7 @@ Vai vēlaties importēt saturu šo failu?
 ```
 Folder name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mapes nosaukums
 ```
@@ -347,7 +347,7 @@ Mapes nosaukums
 ```
 Save
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Saglabāt
 ```
@@ -357,7 +357,7 @@ Saglabāt
 ```
 Close
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aizvērt
 ```
@@ -367,7 +367,7 @@ Aizvērt
 ```
 Are you sure you want to delete the selected markers?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vai tiešām vēlaties dzēst izvēlētos marķierus?
 ```
@@ -377,7 +377,7 @@ Vai tiešām vēlaties dzēst izvēlētos marķierus?
 ```
 Move markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pārvietot marķierus uz mapi
 ```
@@ -387,7 +387,7 @@ Pārvietot marķierus uz mapi
 ```
 Share
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Akcija
 ```
@@ -397,7 +397,7 @@ Akcija
 ```
 Folder:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mape:
 ```
@@ -407,7 +407,7 @@ Mape:
 ```
 Snapshot of my markers on Map Marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Momentuzņēmums maniem marķieru uz Map Marker
 ```
@@ -418,7 +418,7 @@ Momentuzņēmums maniem marķieru uz Map Marker
 This snapshot was made with the app Map Marker:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Šis momentuzņēmums tika veikts ar app Map Marker : 
  %s
@@ -429,7 +429,7 @@ translates to:
 ```
 Processing data&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Apstrādes dati&#8230;
 ```
@@ -439,7 +439,7 @@ Apstrādes dati&#8230;
 ```
 You have unsaved modifications, do you want to save them?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jums ir nesaglabātas izmaiņas, jūs vēlaties, lai saglabātu tos?
 ```
@@ -449,7 +449,7 @@ Jums ir nesaglabātas izmaiņas, jūs vēlaties, lai saglabātu tos?
 ```
 Use the long press on the map to create a new marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Izmantojiet ilgi nospiediet uz kartes, lai izveidotu jaunu marķieri
 ```
@@ -459,7 +459,7 @@ Izmantojiet ilgi nospiediet uz kartes, lai izveidotu jaunu marķieri
 ```
 Map type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Karte tips
 ```
@@ -469,7 +469,7 @@ Karte tips
 ```
 Normal
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Normāls
 ```
@@ -479,7 +479,7 @@ Normāls
 ```
 Satellite
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Satelīts
 ```
@@ -489,7 +489,7 @@ Satelīts
 ```
 Terrain
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Teritorija
 ```
@@ -499,7 +499,7 @@ Teritorija
 ```
 Hybrid
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hibrīds
 ```
@@ -510,7 +510,7 @@ Hibrīds
 Found a problem? Have an idea of improvement?
 Send me an email :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atradis problēmu? Ir ideja par uzlabojumu? 
  sūtīt man email :-)
@@ -521,7 +521,7 @@ Atradis problēmu? Ir ideja par uzlabojumu?
 ```
 Send email&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nosūtīt email&#8230;
 ```
@@ -532,7 +532,7 @@ Nosūtīt email&#8230;
 You like the app?
 Rate it 5 stars :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jums patīk app? 
  Novērtēt 5 zvaigznes :-)
@@ -543,7 +543,7 @@ Jums patīk app?
 ```
 Change folder to&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mainīt mapi&#8230;
 ```
@@ -553,7 +553,7 @@ Mainīt mapi&#8230;
 ```
 Directions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Virzieni
 ```
@@ -563,7 +563,7 @@ Virzieni
 ```
 Acquiring location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Iegūstot vietu&#8230;
 ```
@@ -573,7 +573,7 @@ Iegūstot vietu&#8230;
 ```
 Meters
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Skaitītāji
 ```
@@ -583,7 +583,7 @@ Skaitītāji
 ```
 Km
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Km
 ```
@@ -593,7 +593,7 @@ Km
 ```
 Feet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Feet
 ```
@@ -603,7 +603,7 @@ Feet
 ```
 Miles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Miles
 ```
@@ -613,7 +613,7 @@ Miles
 ```
 Adjust map camera position when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Noregulējiet karti kameras pozīciju, kad vadot to iezīmētu vietu
 ```
@@ -623,7 +623,7 @@ Noregulējiet karti kameras pozīciju, kad vadot to iezīmētu vietu
 ```
 Keep screen on when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Keep ekrānu, kad vadot to iezīmētu vietu
 ```
@@ -633,7 +633,7 @@ Keep ekrānu, kad vadot to iezīmētu vietu
 ```
 Marker details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker detaļas kopēt starpliktuvē
 ```
@@ -643,7 +643,7 @@ Marker detaļas kopēt starpliktuvē
 ```
 Long press to drag and move the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Long nospiediet vilkt un pārvietot marķieri
 ```
@@ -653,7 +653,7 @@ Long nospiediet vilkt un pārvietot marķieri
 ```
 Error starting internal task manager, app will now exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tagad Kļūda sākot iekšējo uzdevumu menedžeris, app izies
 ```
@@ -663,7 +663,7 @@ Tagad Kļūda sākot iekšējo uzdevumu menedžeris, app izies
 ```
 Do not show again
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nerādīt atkal
 ```
@@ -673,7 +673,7 @@ Nerādīt atkal
 ```
 Could not create the map capture
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nevarēja izveidot karti sagūstīt
 ```
@@ -683,7 +683,7 @@ Nevarēja izveidot karti sagūstīt
 ```
 Metric (Kilometers/Meters)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Metric (kilometri / Meters)
 ```
@@ -693,7 +693,7 @@ Metric (kilometri / Meters)
 ```
 Imperial (Miles/Feet)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Imperial (Miles / Feet)
 ```
@@ -703,7 +703,7 @@ Imperial (Miles / Feet)
 ```
 There is a problem with Google Play Services: it needs to be installed, updated or activated. Click OK to try and solve it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ir problēma ar Google Play Services : tā ir jāuzstāda, atjauninātas vai aktivizēts. Noklikšķiniet uz Labi, lai mēģinātu atrisināt to.
 ```
@@ -713,7 +713,7 @@ Ir problēma ar Google Play Services : tā ir jāuzstāda, atjauninātas vai akt
 ```
 Delete folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dzēst mapi
 ```
@@ -723,7 +723,7 @@ Dzēst mapi
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ja jums patīk mans app jūs varat atalgot mani, ņemot vērā laiku, lai dotu labu novērtējumu :-)
 ```
@@ -734,7 +734,7 @@ Ja jums patīk mans app jūs varat atalgot mani, ņemot vērā laiku, lai dotu l
 OK take me
 to the Play Store
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 OK nepieciešams man 
  uz Play Store
@@ -746,7 +746,7 @@ OK nepieciešams man
 I already
 gave a rating
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Es jau 
  sniedza reitingu
@@ -758,7 +758,7 @@ Es jau
 Maybe later
 remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Varbūt vēlāk 
  man atgādina
@@ -770,7 +770,7 @@ Varbūt vēlāk
 Maybe later
 do not remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Varbūt vēlāk 
  nav atgādināt mani
@@ -781,7 +781,7 @@ Varbūt vēlāk
 ```
 Could not find the place
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nevar atrast vietu
 ```
@@ -791,7 +791,7 @@ Nevar atrast vietu
 ```
 Could not find another map application
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Neizdevās atrast citu karti pieteikumu
 ```
@@ -801,7 +801,7 @@ Neizdevās atrast citu karti pieteikumu
 ```
 Move the map around to place your marker where you want and click OK to place it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pārvietojiet karti apkārt izvietot savu marķieri, kur jūs vēlaties, un noklikšķiniet uz Labi, lai tā būtu
 ```
@@ -811,7 +811,7 @@ Pārvietojiet karti apkārt izvietot savu marķieri, kur jūs vēlaties, un nokl
 ```
 Imported marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Importētās marķieris
 ```
@@ -821,7 +821,7 @@ Importētās marķieris
 ```
 Settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Settings
 ```
@@ -831,7 +831,7 @@ Settings
 ```
 Display zoom buttons
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Displejs tālummaiņas pogas
 ```
@@ -841,7 +841,7 @@ Displejs tālummaiņas pogas
 ```
 Decimal degrees
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Decimālgrādos
 ```
@@ -851,7 +851,7 @@ Decimālgrādos
 ```
 Degrees decimal minutes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Decimālgrādos minūtes
 ```
@@ -861,7 +861,7 @@ Decimālgrādos minūtes
 ```
 Degrees minutes seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Grādi minūtes sekundes
 ```
@@ -871,7 +871,7 @@ Grādi minūtes sekundes
 ```
 Coordinates format
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Koordinātas formāts
 ```
@@ -881,7 +881,7 @@ Koordinātas formāts
 ```
 GPS and wireless networks only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GPS un bezvadu tīklu tikai
 ```
@@ -891,7 +891,7 @@ GPS un bezvadu tīklu tikai
 ```
 GPS and wireless networks or magnetic sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GPS un bezvadu tīklu vai magnētisko sensoru
 ```
@@ -901,7 +901,7 @@ GPS un bezvadu tīklu vai magnētisko sensoru
 ```
 Magnetic sensor only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tikai Magnetic sensors
 ```
@@ -911,7 +911,7 @@ Tikai Magnetic sensors
 ```
 Used compass sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lietoti kompass sensors
 ```
@@ -921,7 +921,7 @@ Lietoti kompass sensors
 ```
 FAQ/Help
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 FAQ / Help
 ```
@@ -931,7 +931,7 @@ FAQ / Help
 ```
 Folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mapes
 ```
@@ -941,7 +941,7 @@ Mapes
 ```
 Help and settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Palīdzība un iestatījumi
 ```
@@ -951,7 +951,7 @@ Palīdzība un iestatījumi
 ```
 Language
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Valoda
 ```
@@ -961,7 +961,7 @@ Valoda
 ```
 Marker popup style
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker popup stils
 ```
@@ -971,7 +971,7 @@ Marker popup stils
 ```
 Bottom
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Apakša
 ```
@@ -981,7 +981,7 @@ Apakša
 ```
 Bubble
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Burbulis
 ```
@@ -991,7 +991,7 @@ Burbulis
 ```
 Coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Koordinātas
 ```
@@ -1001,7 +1001,7 @@ Koordinātas
 ```
 Contextual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Konteksta
 ```
@@ -1011,7 +1011,7 @@ Konteksta
 ```
 Always
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vienmēr
 ```
@@ -1021,7 +1021,7 @@ Vienmēr
 ```
 Crosshair display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Krusts displejs
 ```
@@ -1031,7 +1031,7 @@ Krusts displejs
 ```
 Coordinates window
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Koordinātas logs
 ```
@@ -1041,7 +1041,7 @@ Koordinātas logs
 ```
 Lat:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lat:
 ```
@@ -1051,7 +1051,7 @@ Lat:
 ```
 Lng:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 SDG:
 ```
@@ -1061,7 +1061,7 @@ SDG:
 ```
 Marker instant adding mode
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker instant pievienojot režīmā
 ```
@@ -1071,7 +1071,7 @@ Marker instant pievienojot režīmā
 ```
 Advanced
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Uzlabots
 ```
@@ -1081,7 +1081,7 @@ Uzlabots
 ```
 Display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Displejs
 ```
@@ -1091,7 +1091,7 @@ Displejs
 ```
 Actions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Darbības
 ```
@@ -1101,7 +1101,7 @@ Darbības
 ```
 Language and units
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Valodas un vienības
 ```
@@ -1111,7 +1111,7 @@ Valodas un vienības
 ```
 Markers ignored on import (duplicates): %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Markers ignorēja par importu (dublikāti): %1$d
 ```
@@ -1121,7 +1121,7 @@ Markers ignorēja par importu (dublikāti): %1$d
 ```
 %1$d markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d marķieri
 ```
@@ -1131,7 +1131,7 @@ translates to:
 ```
 No auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nē auto nosaukumu
 ```
@@ -1141,7 +1141,7 @@ Nē auto nosaukumu
 ```
 Auto naming "number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Auto nosaukumu "numurs"
 ```
@@ -1151,7 +1151,7 @@ Auto nosaukumu "numurs"
 ```
 Auto naming "Marker number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Auto nosaukumu "Marker numurs"
 ```
@@ -1161,7 +1161,7 @@ Auto nosaukumu "Marker numurs"
 ```
 New marker auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jaunais marķieris auto nosaukumu
 ```
@@ -1171,7 +1171,7 @@ Jaunais marķieris auto nosaukumu
 ```
 Marker %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker %1$d
 ```
@@ -1181,7 +1181,7 @@ Marker %1$d
 ```
 Waiting for location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gaida vietas&#8230;
 ```
@@ -1191,7 +1191,7 @@ Gaida vietas&#8230;
 ```
 Open the help page and see the FAQ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atveriet palīdzības lapu un redzēt FAQ
 ```
@@ -1201,7 +1201,7 @@ Atveriet palīdzības lapu un redzēt FAQ
 ```
 Features
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Features
 ```
@@ -1211,7 +1211,7 @@ Features
 ```
 View the list of upcoming features for the next app version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Apskatīt sarakstu gaidāmajām funkcijas nākamajam app versiju
 ```
@@ -1221,7 +1221,7 @@ Apskatīt sarakstu gaidāmajām funkcijas nākamajam app versiju
 ```
 Help &amp; Feedback
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Palīdzība un Atsauksmes
 ```
@@ -1231,7 +1231,7 @@ Palīdzība un Atsauksmes
 ```
 About
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Par
 ```
@@ -1241,7 +1241,7 @@ Par
 ```
 Distance to %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Attālums līdz %1$s
 ```
@@ -1251,7 +1251,7 @@ Attālums līdz %1$s
 ```
 Snapshot
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Momentuzņēmums
 ```
@@ -1261,7 +1261,7 @@ Momentuzņēmums
 ```
 Share a snapshot of the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dalīties momentuzņēmumu karti
 ```
@@ -1271,7 +1271,7 @@ Dalīties momentuzņēmumu karti
 ```
 All markers and folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Visi marķieri un mapes
 ```
@@ -1281,7 +1281,7 @@ Visi marķieri un mapes
 ```
 <![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Lai iegūtu pareizu ziemeļu virzienu kompasu, jums ir nepieciešams kalibrēt jums tālruni pareizi. &lt;br&gt; Lai kalibrētu tālruni, vienkārši pārvietot to apkārt, zīmējot 8 . Pārvietot jābūt plaša un atkārtojas apmēram 3 reizes lielāku efektivitāti. &lt;br&gt; Jūs varat kalibrēt jums tālruni, darot to jebkurā laikā. &lt;/ b&gt; &lt;br&gt; kalibrēšana savi ierobežojumi un var nebūt pietiekami lai cīnītos tuvumā traucējumus, piemēram: &lt;br&gt; • lieli metāla objekti &lt;br&gt; • elektroniskās ierīces maršruts • magnēti &lt;br&gt; • iekšpusē auto / autobusu / vilcienu / plakni &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -1291,7 +1291,7 @@ translates to:
 ```
 Badges
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nozīmītes
 ```
@@ -1301,7 +1301,7 @@ Nozīmītes
 ```
 Buy a donation badge
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nopirkt ziedojumu žetons
 ```
@@ -1311,7 +1311,7 @@ Nopirkt ziedojumu žetons
 ```
 Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Paldies par jūsu ziedojumu! Šo ziedojumu badge dotācijas jūs pieeja piemaksu :-)
 ```
@@ -1321,7 +1321,7 @@ Paldies par jūsu ziedojumu! Šo ziedojumu badge dotācijas jūs pieeja piemaksu
 ```
 Default folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Noklusētā mape
 ```
@@ -1331,7 +1331,7 @@ Noklusētā mape
 ```
 Sync options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sinhronizācijas iespējas
 ```
@@ -1341,7 +1341,7 @@ Sinhronizācijas iespējas
 ```
 Google Drive
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Google Drive
 ```
@@ -1351,7 +1351,7 @@ Google Drive
 ```
 Dropbox
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dropbox
 ```
@@ -1361,7 +1361,7 @@ Dropbox
 ```
 Configuring&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Konfigurēšana&#8230;
 ```
@@ -1371,7 +1371,7 @@ Konfigurēšana&#8230;
 ```
 Sync now
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sync tagad
 ```
@@ -1381,7 +1381,7 @@ Sync tagad
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nekad
 ```
@@ -1391,7 +1391,7 @@ Nekad
 ```
 Syncing…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sinhronizēšana&#8230;
 ```
@@ -1401,7 +1401,7 @@ Sinhronizēšana&#8230;
 ```
 Select folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Izvēlieties mapi
 ```
@@ -1411,7 +1411,7 @@ Izvēlieties mapi
 ```
 Load error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Load kļūda
 ```
@@ -1421,7 +1421,7 @@ Load kļūda
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atkārtot
 ```
@@ -1431,7 +1431,7 @@ Atkārtot
 ```
 Root
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sakne
 ```
@@ -1441,7 +1441,7 @@ Sakne
 ```
 Shared
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dalīta
 ```
@@ -1451,7 +1451,7 @@ Dalīta
 ```
 Purchase successful!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Iegādāties veiksmīgi!
 ```
@@ -1461,7 +1461,7 @@ Iegādāties veiksmīgi!
 ```
 Purchase failed: %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pirkuma %1$s
 ```
@@ -1471,7 +1471,7 @@ Pirkuma %1$s
 ```
 Premium access available! You currently have access to premium features.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Premium pieslēgums! Jums šobrīd ir pieejami piemaksu iezīmes.
 ```
@@ -1481,7 +1481,7 @@ Premium pieslēgums! Jums šobrīd ir pieejami piemaksu iezīmes.
 ```
 You cannot select that folder because it contains multiple files named %1$s. The sync requires the folder to contain only one file with that name.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jūs nevarat izvēlēties šo mapi, jo tā satur vairākus failus %1$s Sinhronizācijas prasa mapi satur tikai vienu failu ar šo nosaukumu.
 ```
@@ -1491,7 +1491,7 @@ Jūs nevarat izvēlēties šo mapi, jo tā satur vairākus failus %1$s Sinhroniz
 ```
 It seems sync data already exists in that folder. If you select that folder, your local data will be merged with the folder data when sync is performed. Is that what you want?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Šķiet sinhronizācijas dati jau eksistē šajā mapē. Ja izvēlaties šo mapi, jūsu vietējā dati tiks apvienoti ar mapi datiem, sinhronizācija tiek veikta. Vai tas, ko jūs vēlaties?
 ```
@@ -1501,7 +1501,7 @@ translates to:
 ```
 File options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Failu opcijas
 ```
@@ -1511,7 +1511,7 @@ Failu opcijas
 ```
 Cloud sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cloud Sync
 ```
@@ -1521,7 +1521,7 @@ Cloud Sync
 ```
 Sync this map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sinhronizēt šo karti failu uz mākoņa
 ```
@@ -1531,7 +1531,7 @@ Sinhronizēt šo karti failu uz mākoņa
 ```
 Map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Karte fails
 ```
@@ -1541,7 +1541,7 @@ Karte fails
 ```
 Create local map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Izveidot vietējo karti
 ```
@@ -1551,7 +1551,7 @@ Izveidot vietējo karti
 ```
 Create a new map file locally
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Izveidot jaunu karti failu lokāli
 ```
@@ -1561,7 +1561,7 @@ Izveidot jaunu karti failu lokāli
 ```
 Create cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Izveidot mākonis karti
 ```
@@ -1571,7 +1571,7 @@ Izveidot mākonis karti
 ```
 Create a map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Izveidot karti failu uz mākoņa
 ```
@@ -1581,7 +1581,7 @@ Izveidot karti failu uz mākoņa
 ```
 Retrieves changes from the cloud and sends local changes to the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Iegūst izmaiņas no mākoņa un nosūta vietējiem izmaiņas mākonis
 ```
@@ -1591,7 +1591,7 @@ Iegūst izmaiņas no mākoņa un nosūta vietējiem izmaiņas mākonis
 ```
 Rename
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pārdēvēt
 ```
@@ -1601,7 +1601,7 @@ Pārdēvēt
 ```
 Rename the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pārdēvēt karti
 ```
@@ -1611,7 +1611,7 @@ Pārdēvēt karti
 ```
 Enter new name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ievadiet jaunu nosaukumu
 ```
@@ -1621,7 +1621,7 @@ Ievadiet jaunu nosaukumu
 ```
 Enter the new map\'s name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ievadiet jaunu karti vārdu
 ```
@@ -1631,7 +1631,7 @@ Ievadiet jaunu karti vārdu
 ```
 %1$d folders, %2$d markers, size: %3$d KB
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d %2$d marķieri, %3$d KB
 ```
@@ -1641,7 +1641,7 @@ translates to:
 ```
 Create new folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Izveidot jaunu mapi
 ```
@@ -1651,7 +1651,7 @@ Izveidot jaunu mapi
 ```
 Could not create folder: name empty
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nevarēja izveidot mapi: nosaukt tukšs
 ```
@@ -1661,7 +1661,7 @@ Nevarēja izveidot mapi: nosaukt tukšs
 ```
 Could not create folder: error occurred
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nevarēja izveidot mapi: kļūda
 ```
@@ -1671,7 +1671,7 @@ Nevarēja izveidot mapi: kļūda
 ```
 Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Paldies, ka Map Marker Premium :-)
 ```
@@ -1681,7 +1681,7 @@ Paldies, ka Map Marker Premium :-)
 ```
 Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Paldies, parādot savu interesi, pieprasot savu Map Marker :-)
 ```
@@ -1691,7 +1691,7 @@ Paldies, parādot savu interesi, pieprasot savu Map Marker :-)
 ```
 Premium
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Piemaksa
 ```
@@ -1701,7 +1701,7 @@ Piemaksa
 ```
 Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Upgrade uz piemaksu un pilnībā Map Marker funkcijas!
 ```
@@ -1711,7 +1711,7 @@ Upgrade uz piemaksu un pilnībā Map Marker funkcijas!
 ```
 Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atvainojiet, jums ir nepieciešams premium jauninājums, lai piekļūtu šo funkciju. Upgrade uz piemaksu un pilnībā Map Marker funkcijas!
 ```
@@ -1721,7 +1721,7 @@ Atvainojiet, jums ir nepieciešams premium jauninājums, lai piekļūtu šo funk
 ```
 You have the premium upgrade for free! You can still purchase it if you want to show your support :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jums ir premium jauninājums par brīvu! Jūs joprojām varat iegādāties to, ja jūs vēlaties, lai parādītu savu :-)
 ```
@@ -1731,7 +1731,7 @@ Jums ir premium jauninājums par brīvu! Jūs joprojām varat iegādāties to, j
 ```
 Purchase the premium upgrade
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Iegādājieties premium jauninājums
 ```
@@ -1741,7 +1741,7 @@ Iegādājieties premium jauninājums
 ```
 My Google account already has premium access, activate it!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mans Google kontā jau ir premium piekļuve, aktivizēt to!
 ```
@@ -1751,7 +1751,7 @@ Mans Google kontā jau ir premium piekļuve, aktivizēt to!
 ```
 Troubleshooting
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Problēmu novēršana
 ```
@@ -1761,7 +1761,7 @@ Problēmu novēršana
 ```
 Open a list of actions to solve possible problems
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atveriet sarakstu ar pasākumiem, lai atrisinātu iespējamās problēmas
 ```
@@ -1771,7 +1771,7 @@ Atveriet sarakstu ar pasākumiem, lai atrisinātu iespējamās problēmas
 ```
 Test internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Test interneta
 ```
@@ -1781,7 +1781,7 @@ Test interneta
 ```
 Checks that the app has access to internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pārbauda, ​​ka app ir piekļuve internetam
 ```
@@ -1791,7 +1791,7 @@ Pārbauda, ​​ka app ir piekļuve internetam
 ```
 Test file writing
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Testa fails rakstīšana
 ```
@@ -1801,7 +1801,7 @@ Testa fails rakstīšana
 ```
 Checks that the app can save files on the internal SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pārbauda, ​​vai app var saglabāt failus iekšējā SD kartē
 ```
@@ -1811,7 +1811,7 @@ Pārbauda, ​​vai app var saglabāt failus iekšējā SD kartē
 ```
 GP Services (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GP Services (APP)
 ```
@@ -1821,7 +1821,7 @@ GP Services (APP)
 ```
 Open the details of the currently installed Google Play Services app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atvērt informāciju par pašlaik Google Play Services lietotni
 ```
@@ -1831,7 +1831,7 @@ Atvērt informāciju par pašlaik Google Play Services lietotni
 ```
 GP Services (store)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GP Services (veikals)
 ```
@@ -1841,7 +1841,7 @@ GP Services (veikals)
 ```
 Google Play (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Google Play (APP)
 ```
@@ -1851,7 +1851,7 @@ Google Play (APP)
 ```
 Contact support
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sazinieties ar atbalsta
 ```
@@ -1861,7 +1861,7 @@ Sazinieties ar atbalsta
 ```
 Write an email to support with the details of your problem
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 email lai atbalstītu ar informāciju par savu problēmu
 ```
@@ -1871,7 +1871,7 @@ email lai atbalstītu ar informāciju par savu problēmu
 ```
 Device network unavailable
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Device tīkls nav pieejams
 ```
@@ -1881,7 +1881,7 @@ Device tīkls nav pieejams
 ```
 Testing&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Testēšana&#8230;
 ```
@@ -1891,7 +1891,7 @@ Testēšana&#8230;
 ```
 Network test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tīkla tests izdevies
 ```
@@ -1901,7 +1901,7 @@ Tīkla tests izdevies
 ```
 Network test failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tīkla pārbaude neizdevās
 ```
@@ -1911,7 +1911,7 @@ Tīkla pārbaude neizdevās
 ```
 Disk test failed: could not write to internal storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Diska pārbaude neizdevās: nevarēja rakstīt uz iekšējo atmiņu
 ```
@@ -1921,7 +1921,7 @@ Diska pārbaude neizdevās: nevarēja rakstīt uz iekšējo atmiņu
 ```
 Disk test failed: could not write to external storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Diska pārbaude neizdevās: nevar rakstīt ārējās glabāšanas
 ```
@@ -1931,7 +1931,7 @@ Diska pārbaude neizdevās: nevar rakstīt ārējās glabāšanas
 ```
 Disk test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Disk tests izdevies
 ```
@@ -1941,7 +1941,7 @@ Disk tests izdevies
 ```
 App failed to start: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 App neizdevās %s
 ```
@@ -1951,7 +1951,7 @@ App neizdevās %s
 ```
 The file does not exist
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fails neeksistē
 ```
@@ -1961,7 +1961,7 @@ Fails neeksistē
 ```
 Share cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Share mākonis karte
 ```
@@ -1971,7 +1971,7 @@ Share mākonis karte
 ```
 Open the cloud map folder to view its properties and share it with other people
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atveriet mākonis kartes mapi, lai apskatītu tās īpašības, un dalīties tajā ar citiem cilvēkiem
 ```
@@ -1981,7 +1981,7 @@ Atveriet mākonis kartes mapi, lai apskatītu tās īpašības, un dalīties taj
 ```
 Internal file to SD
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Iekšējais failu SD
 ```
@@ -1991,7 +1991,7 @@ Iekšējais failu SD
 ```
 Copy the app hidden internal files to the sdcard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kopēt app slēptos iekšējos failus SDCard
 ```
@@ -2001,7 +2001,7 @@ Kopēt app slēptos iekšējos failus SDCard
 ```
 Enter destination folder path
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ievadiet galapunktu mapes ceļš
 ```
@@ -2011,7 +2011,7 @@ Ievadiet galapunktu mapes ceļš
 ```
 Could not create folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Neizdevās izveidot mapi
 ```
@@ -2021,7 +2021,7 @@ Neizdevās izveidot mapi
 ```
 Files successfully saved to: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Faili veiksmīgi %s
 ```
@@ -2031,7 +2031,7 @@ Faili veiksmīgi %s
 ```
 View history/Restore
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Skatīt vēsturi / Restore
 ```
@@ -2041,7 +2041,7 @@ Skatīt vēsturi / Restore
 ```
 View history of modifications to the cloud folder and select a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Skatīt vēsturi izmaiņām mākonis mapei un izvēlieties versiju, lai atjaunotu
 ```
@@ -2051,7 +2051,7 @@ Skatīt vēsturi izmaiņām mākonis mapei un izvēlieties versiju, lai atjaunot
 ```
 Create map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Izveidot karti failu
 ```
@@ -2061,7 +2061,7 @@ Izveidot karti failu
 ```
 Create a new map file locally or on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Izveidot jaunu karti failu lokāli vai uz mākoņa
 ```
@@ -2071,7 +2071,7 @@ Izveidot jaunu karti failu lokāli vai uz mākoņa
 ```
 Open cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atvērt mākonis karte
 ```
@@ -2081,7 +2081,7 @@ Atvērt mākonis karte
 ```
 Open a map file from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atvērt karti failu no mākoņa
 ```
@@ -2091,7 +2091,7 @@ Atvērt karti failu no mākoņa
 ```
 Map Marker needs the permission to access your location in order to display it on the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker ir nepieciešama atļauja, lai piekļūtu jūsu atrašanās vietu, lai parādītu to kartē
 ```
@@ -2101,7 +2101,7 @@ Map Marker ir nepieciešama atļauja, lai piekļūtu jūsu atrašanās vietu, la
 ```
 Map Marker needs the permission to access to the storage of your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker ir nepieciešama atļauja piekļūt uzglabāšanas ierīces
 ```
@@ -2111,7 +2111,7 @@ Map Marker ir nepieciešama atļauja piekļūt uzglabāšanas ierīces
 ```
 Open settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atvērt iestatījumi
 ```
@@ -2121,7 +2121,7 @@ Atvērt iestatījumi
 ```
 No map folder found on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nē karte mape atrasts uz mākoņa
 ```
@@ -2131,7 +2131,7 @@ Nē karte mape atrasts uz mākoņa
 ```
 Auto sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Auto sinhronizācija
 ```
@@ -2141,7 +2141,7 @@ Auto sinhronizācija
 ```
 Choose a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Izvēlēties versiju, lai atjaunotu
 ```
@@ -2151,7 +2151,7 @@ Izvēlēties versiju, lai atjaunotu
 ```
 You must sync first before restoring an older version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jums ir sinhronizēt vispirms pirms atjaunot vecāku versiju
 ```
@@ -2161,7 +2161,7 @@ Jums ir sinhronizēt vispirms pirms atjaunot vecāku versiju
 ```
 Are you sure you want to restore this version?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vai esat pārliecināts, ka vēlaties atjaunot šo versiju?
 ```
@@ -2171,7 +2171,7 @@ Vai esat pārliecināts, ka vēlaties atjaunot šo versiju?
 ```
 Map Marker lost permissions to write to your cloud account. Sync will always fail until this is fixed. Do you want to fix it now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker zaudēto atļaujas rakstīt jūsu mākonis kontā. Sync vienmēr neizdosies līdz tas tiek fiksēts. Vai jūs vēlaties noteikt to tagad?
 ```
@@ -2181,7 +2181,7 @@ Map Marker zaudēto atļaujas rakstīt jūsu mākonis kontā. Sync vienmēr neiz
 ```
 A sync error occurred. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sinhronizācijas kļūda. Lūdzu mēģiniet vēlreiz.
 ```
@@ -2191,7 +2191,7 @@ Sinhronizācijas kļūda. Lūdzu mēģiniet vēlreiz.
 ```
 A sync error occurred: network error. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sinhronizācijas kļūda: tīkla kļūda. Lūdzu mēģiniet vēlreiz.
 ```
@@ -2201,7 +2201,7 @@ Sinhronizācijas kļūda: tīkla kļūda. Lūdzu mēģiniet vēlreiz.
 ```
 A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sinhronizācijas kļūda: konfliktu, cita ierīce, kas veic sync, tajā pašā laikā. Lūdzu mēģiniet vēlreiz.
 ```
@@ -2211,7 +2211,7 @@ Sinhronizācijas kļūda: konfliktu, cita ierīce, kas veic sync, tajā pašā l
 ```
 Changes are available from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Izmaiņas ir pieejami no mākoņa
 ```
@@ -2221,7 +2221,7 @@ Izmaiņas ir pieejami no mākoņa
 ```
 Changes made from another device were synced on the cloud. You can retrieve those changes by syncing.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Izmaiņas, kas veiktas no citas ierīces, tika sinhronizēti uz mākoņa. Jūs varat iegūt šīs izmaiņas, sinhronizējot.
 ```
@@ -2231,7 +2231,7 @@ Izmaiņas, kas veiktas no citas ierīces, tika sinhronizēti uz mākoņa. Jūs v
 ```
 Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for details on how to restore cloud permissions.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Neizdevās atjaunot mākonis uzglabāšanas atļaujas. Lūdzu, skatiet "Par" -&gt; "FAQ" Sīkāku informāciju par to, kā atjaunot mākonis atļaujas.
 ```
@@ -2241,7 +2241,7 @@ Neizdevās atjaunot mākonis uzglabāšanas atļaujas. Lūdzu, skatiet "Par" -&g
 ```
 A sync error occurred: duplicate index, there are at least two files named index.json in the map cloud folder. Remove the duplicates manually and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sinhronizācijas kļūda: dublēt indekss, ir vismaz divi faili nosaukti index.json kartē mākonis mapē. Noņemt dublikātus manuāli un mēģiniet vēlreiz.
 ```
@@ -2251,7 +2251,7 @@ Sinhronizācijas kļūda: dublēt indekss, ir vismaz divi faili nosaukti index.j
 ```
 Phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Telefona numurs
 ```
@@ -2261,7 +2261,7 @@ Telefona numurs
 ```
 Edit phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Edit tālruņa numurs
 ```
@@ -2271,7 +2271,7 @@ Edit tālruņa numurs
 ```
 Map Marker needs the permission to make calls on your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker ir nepieciešama atļauja, lai veiktu zvanus uz ierīcē
 ```
@@ -2281,7 +2281,7 @@ Map Marker ir nepieciešama atļauja, lai veiktu zvanus uz ierīcē
 ```
 No phone number is defined for that marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nē tālruņa numurs ir definēts šī marķieri
 ```
@@ -2291,7 +2291,7 @@ Nē tālruņa numurs ir definēts šī marķieri
 ```
 Navigation options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Navigācijas opcijas
 ```
@@ -2301,7 +2301,7 @@ Navigācijas opcijas
 ```
 Open the marker location in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atveriet marķiera atrašanās šajā app
 ```
@@ -2311,7 +2311,7 @@ Atveriet marķiera atrašanās šajā app
 ```
 Open the marker street view in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atveriet marķieris ielu viedokli šajā app
 ```
@@ -2321,7 +2321,7 @@ Atveriet marķieris ielu viedokli šajā app
 ```
 Enter navigation mode in this app to get directions to the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ievadiet navigācijas režīmu šajā app, lai saņemtu norādes uz marķieri
 ```
@@ -2331,7 +2331,7 @@ Ievadiet navigācijas režīmu šajā app, lai saņemtu norādes uz marķieri
 ```
 Other options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Citas iespējas
 ```
@@ -2341,7 +2341,7 @@ Citas iespējas
 ```
 Share the selected marker as plain text into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dalīties izvēlēto marķieri kā vienkāršu tekstu citā lietotnē
 ```
@@ -2351,7 +2351,7 @@ Dalīties izvēlēto marķieri kā vienkāršu tekstu citā lietotnē
 ```
 %1$d markers in %2$d folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d %2$d mapēm
 ```
@@ -2361,7 +2361,7 @@ translates to:
 ```
 A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sinhronizācijas kļūda: mākonis dati ir papildināta ar jaunāku versiju app. Jums ir Map Marker par šo ierīci sinhronizēt.
 ```
@@ -2371,7 +2371,7 @@ Sinhronizācijas kļūda: mākonis dati ir papildināta ar jaunāku versiju app.
 ```
 Could not find a phone app on this device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Neizdevās atrast tālruņa app par šo ierīci.
 ```
@@ -2381,7 +2381,7 @@ Neizdevās atrast tālruņa app par šo ierīci.
 ```
 Phone number options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tālruņa numurs iespējas
 ```
@@ -2391,7 +2391,7 @@ Tālruņa numurs iespējas
 ```
 Call phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zvanīt tālruņa numurs
 ```
@@ -2401,7 +2401,7 @@ Zvanīt tālruņa numurs
 ```
 Dial phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dial tālruņa numuru
 ```
@@ -2411,7 +2411,7 @@ Dial tālruņa numuru
 ```
 Text phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Teksta tālruņa numurs
 ```
@@ -2421,7 +2421,7 @@ Teksta tālruņa numurs
 ```
 Default navigation action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Default navigācijas darbība
 ```
@@ -2431,7 +2431,7 @@ Default navigācijas darbība
 ```
 Default phone action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Noklusējuma tālruņa darbība
 ```
@@ -2441,7 +2441,7 @@ Noklusējuma tālruņa darbība
 ```
 Ask
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jautāt
 ```
@@ -2451,7 +2451,7 @@ Jautāt
 ```
 Premium free trial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Premium bezmaksas izmēģinājuma
 ```
@@ -2461,7 +2461,7 @@ Premium bezmaksas izmēģinājuma
 ```
 What is the premium upgrade?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kas ir premium jauninājums?
 ```
@@ -2471,7 +2471,7 @@ Kas ir premium jauninājums?
 ```
 Premium free trial started! The trial will expire at the following date: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Premium bezmaksas izmēģinājuma sākusies! Izmēģinājuma beigsies šādā datumā: %s
 ```
@@ -2482,7 +2482,7 @@ Premium bezmaksas izmēģinājuma sākusies! Izmēģinājuma beigsies šādā da
 Trial expiration:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Trial derīguma: 
  %s
@@ -2493,7 +2493,7 @@ Trial derīguma:
 ```
 Trial expired
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Trial beidzies
 ```
@@ -2503,7 +2503,7 @@ Trial beidzies
 ```
 Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sync tika atcelts: jums prēmiju jauninājums, lai veiktu sinhronizāciju.
 ```
@@ -2513,7 +2513,7 @@ Sync tika atcelts: jums prēmiju jauninājums, lai veiktu sinhronizāciju.
 ```
 Error: trial starting in the future!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kļūda: izmēģinājuma sākuma nākotnē!
 ```
@@ -2523,7 +2523,7 @@ Kļūda: izmēģinājuma sākuma nākotnē!
 ```
 Thank you for your purchase!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Paldies par pirkumu!
 ```
@@ -2533,7 +2533,7 @@ Paldies par pirkumu!
 ```
 Browse
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pārlūkot
 ```
@@ -2543,7 +2543,7 @@ Pārlūkot
 ```
 Organize
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 organizēt
 ```
@@ -2553,7 +2553,7 @@ organizēt
 ```
 Create
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 izveidot
 ```
@@ -2563,7 +2563,7 @@ izveidot
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 otrreiz izskatīt
 ```
@@ -2573,7 +2573,7 @@ otrreiz izskatīt
 ```
 Search failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Meklēt neizdevās
 ```
@@ -2583,7 +2583,7 @@ Meklēt neizdevās
 ```
 Search failed, network error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Meklēt neizdevās, tīkla kļūda
 ```
@@ -2593,7 +2593,7 @@ Meklēt neizdevās, tīkla kļūda
 ```
 Details
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sīkāka informācija
 ```
@@ -2603,7 +2603,7 @@ Sīkāka informācija
 ```
 Sync error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sync kļūda
 ```
@@ -2613,7 +2613,7 @@ Sync kļūda
 ```
 The file already exists, do you want to overwrite it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fails jau eksistē, jūs vēlaties to pārrakstīt?
 ```
@@ -2623,7 +2623,7 @@ Fails jau eksistē, jūs vēlaties to pārrakstīt?
 ```
 Copy markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kopēt marķieri uz mapi
 ```
@@ -2633,7 +2633,7 @@ Kopēt marķieri uz mapi
 ```
 Error loading the Google Map component. Please restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kļūda ielādējot Google Map sastāvdaļa. Lūdzu, restartējiet lietotni.
 ```
@@ -2643,7 +2643,7 @@ Kļūda ielādējot Google Map sastāvdaļa. Lūdzu, restartējiet lietotni.
 ```
 You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jūs redzēsiet sarakstu jūsu marķieru šeit. Jums šobrīd nav marķierus izvēlētajā mapē (s). Jūs varat pievienot jaunu marķieri, noklikšķinot uz pogas zemāk.
 ```
@@ -2653,7 +2653,7 @@ Jūs redzēsiet sarakstu jūsu marķieru šeit. Jums šobrīd nav marķierus izv
 ```
 No search results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nav meklēšanas rezultāti
 ```
@@ -2663,7 +2663,7 @@ Nav meklēšanas rezultāti
 ```
 Open Street Map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Open Street Map
 ```
@@ -2673,7 +2673,7 @@ Open Street Map
 ```
 Bing Road
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Road
 ```
@@ -2683,7 +2683,7 @@ Bing Road
 ```
 Bing Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial
 ```
@@ -2693,7 +2693,7 @@ Bing Aerial
 ```
 Bing Aerial With Labels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial ar etiķetēm
 ```
@@ -2703,7 +2703,7 @@ Bing Aerial ar etiķetēm
 ```
 ArcGIS Server
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ArcGIS Server
 ```
@@ -2713,7 +2713,7 @@ ArcGIS Server
 ```
 Offline maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 bezsaistes kartes
 ```
@@ -2723,7 +2723,7 @@ bezsaistes kartes
 ```
 No folder selected
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nav mape atlasīts
 ```
@@ -2733,7 +2733,7 @@ Nav mape atlasīts
 ```
 Storage folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Storage mape
 ```
@@ -2744,7 +2744,7 @@ Storage mape
 Test results of the offline maps folder:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Testa rezultāti bezsaistes karšu mapi: 
  %s
@@ -2755,7 +2755,7 @@ Testa rezultāti bezsaistes karšu mapi:
 ```
 No folder is selected for offline map files. In order to use offline maps, open the settings and select a folder for offline map files.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nav mape ir izvēlēts bezsaistes kartē failus. Lai izmantotu bezsaistes kartes, atveriet uzstādījumus un izvēlieties mapi bezsaistes kartē failus.
 ```
@@ -2765,7 +2765,7 @@ Nav mape ir izvēlēts bezsaistes kartē failus. Lai izmantotu bezsaistes kartes
 ```
 The selected offline map folder you selected contains no files. Make sure you add the offline map files in that folder before using offline maps, otherwise the map will be empty.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Izvēlētais bezsaistes karti mape izvēlējāties nesatur failus. Pārliecinieties, ka jūs pievienot bezsaistes kartes failus šajā mapē, pirms lietojat bezsaistes kartes, pretējā gadījumā karti būs tukša.
 ```
@@ -2775,7 +2775,7 @@ Izvēlētais bezsaistes karti mape izvēlējāties nesatur failus. Pārlieciniet
 ```
 Success: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Panākumi: %s
 ```
@@ -2785,7 +2785,7 @@ Panākumi: %s
 ```
 Failed: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Neizdevās: %s
 ```
@@ -2795,7 +2795,7 @@ Neizdevās: %s
 ```
 How to do it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kā to izdarīt?
 ```
@@ -2805,7 +2805,7 @@ Kā to izdarīt?
 ```
 Click here to open the web page explaining how to obtain those maps.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klikšķiniet šeit, lai atvērtu tīmekļa lapu, paskaidrojot, kā iegūt šīs kartes.
 ```
@@ -2815,7 +2815,7 @@ Klikšķiniet šeit, lai atvērtu tīmekļa lapu, paskaidrojot, kā iegūt šīs
 ```
 Credits
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 kredīti
 ```
@@ -2825,7 +2825,7 @@ kredīti
 ```
 Copyright and legal mentions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Autortiesības un juridisko piemin
 ```
@@ -2837,7 +2837,7 @@ Legal mentions for other map data than Google Maps:
 
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Juridiskā piemin citiem karšu datus, nevis Google Maps : 
  
@@ -2849,7 +2849,7 @@ Juridiskā piemin citiem karšu datus, nevis Google Maps :
 ```
 Disable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atslēgt kļūda fails izgāztuve
 ```
@@ -2859,7 +2859,7 @@ Atslēgt kļūda fails izgāztuve
 ```
 Disable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atslēgt rakstot lietotņu kļūdas uz failu SD kartē
 ```
@@ -2869,7 +2869,7 @@ Atslēgt rakstot lietotņu kļūdas uz failu SD kartē
 ```
 Enable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ieslēgt kļūdas failu izgāztuves
 ```
@@ -2879,7 +2879,7 @@ Ieslēgt kļūdas failu izgāztuves
 ```
 Enable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ieslēgt rakstot app kļūdas uz failu SD kartē
 ```
@@ -2889,7 +2889,7 @@ Ieslēgt rakstot app kļūdas uz failu SD kartē
 ```
 Start background sync…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sākt fona sinhronizāciju&#8230;
 ```
@@ -2899,7 +2899,7 @@ Sākt fona sinhronizāciju&#8230;
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 nekad
 ```
@@ -2909,7 +2909,7 @@ nekad
 ```
 When app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kad app ienāk fona
 ```
@@ -2919,7 +2919,7 @@ Kad app ienāk fona
 ```
 %d seconds after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d sekundes pēc tam, kad lietotne nokļūst fona
 ```
@@ -2929,7 +2929,7 @@ translates to:
 ```
 %d minutes after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d minūtes pēc app nokļūst fona
 ```
@@ -2939,7 +2939,7 @@ translates to:
 ```
 Sync starting in %d seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sync sākot %d sekundēm
 ```
@@ -2949,7 +2949,7 @@ Sync sākot %d sekundēm
 ```
 You can cancel the sync at any time and your data will be synced on next attempt.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jūs varat atcelt sinhronizēt jebkurā laikā, un jūsu dati tiks sinhronizēti nākamajā mēģinājumā.
 ```
@@ -2959,7 +2959,7 @@ Jūs varat atcelt sinhronizēt jebkurā laikā, un jūsu dati tiks sinhronizēti
 ```
 Press back again to exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nospiediet atkal, lai izietu
 ```
@@ -2969,7 +2969,7 @@ Nospiediet atkal, lai izietu
 ```
 Cannot start sync with no internet access on the device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nevar sākt sinhronizāciju bez ērtībām ierīcē.
 ```
@@ -2979,7 +2979,7 @@ Nevar sākt sinhronizāciju bez ērtībām ierīcē.
 ```
 Manage map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pārvaldīt kartes failus
 ```
@@ -2989,7 +2989,7 @@ Pārvaldīt kartes failus
 ```
 Map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Karte faili
 ```
@@ -2999,7 +2999,7 @@ Karte faili
 ```
 Delete map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dzēst karti failu
 ```
@@ -3009,7 +3009,7 @@ Dzēst karti failu
 ```
 This action will delete the map file from this device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Šī darbība izdzēsīs kartes failu no šīs ierīces
 ```
@@ -3019,7 +3019,7 @@ translates to:
 ```
 This action will delete the map file from your device forever. All the markers inside that file will be lost. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Šī darbība izdzēsīs kartes failu no ierīces uz visiem laikiem. Visi marķieri iekšpusē šo failu tiks zaudēts. Vai tu esi pārliecināts?
 ```
@@ -3029,7 +3029,7 @@ translates to:
 ```
 This action will delete the map file from your device forever. All changes not yet synced to the cloud will be lost. The cloud folder will not be affected by this action and you will have to delete it manually. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Šī darbība izdzēsīs kartes failu no ierīces uz visiem laikiem. Visas izmaiņas, kas vēl nav sinhronizēti ar mākonis tiks zaudēta. Mākonis mape netiks skārusi šī darbība, un jums būs izdzēst manuāli. Vai tu esi pārliecināts?
 ```
@@ -3039,7 +3039,7 @@ translates to:
 ```
 Map file successfully deleted
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Karte fails veiksmīgi izdzēsts
 ```
@@ -3049,7 +3049,7 @@ Karte fails veiksmīgi izdzēsts
 ```
 Could not delete map file: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nevar izdzēst karti failu: %s
 ```
@@ -3059,7 +3059,7 @@ Nevar izdzēst karti failu: %s
 ```
 Marker saved in a non visible folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker saglabātas ārpus redzamā mapē
 ```
@@ -3069,7 +3069,7 @@ Marker saglabātas ārpus redzamā mapē
 ```
 Your changes have not been synced recently. Make sure you keep your cloud copy up to date. Do you want to sync now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jūsu izmaiņas nav sinhronizēti nesen. Pārliecinieties, ka jūs saglabāt savu mākonis kopēt aktuāla. Vai jūs vēlaties sinhronizēt tagad?
 ```
@@ -3079,7 +3079,7 @@ Jūsu izmaiņas nav sinhronizēti nesen. Pārliecinieties, ka jūs saglabāt sav
 ```
 The markers of this map file are currently only saved on this device. It is recommended to save your markers on the cloud to avoid losing them. Do you want to save them to the cloud now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Šīs kartē faila marķieri pašlaik tikai saglabāti šajā ierīcē. Ir ieteicams, lai saglabātu savus marķierus mākonis lai nezaudētu tos. Vai vēlaties saglabāt tos mākonis tagad?
 ```
@@ -3089,7 +3089,7 @@ translates to:
 ```
 Do you want to sync this map file? With manual you will need to sync manually every time. With automatic (recommended) you will select a destination cloud folder and the sync to the cloud will start automatically every time the app enters background.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vai vēlaties sinhronizēt šo karti failu? Ar rokasgrāmatā jums būs nepieciešams, lai sinhronizētu manuāli katru reizi. Ar automātisko (ieteicams), jums būs izvēlēties galamērķi mākonis mapi un sinhronizējamu mākonis sāksies automātiski katru reizi, kad app ieiet fona.
 ```
@@ -3099,7 +3099,7 @@ Vai vēlaties sinhronizēt šo karti failu? Ar rokasgrāmatā jums būs nepiecie
 ```
 Automatic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 automātisks
 ```
@@ -3109,7 +3109,7 @@ automātisks
 ```
 Manual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 rokasgrāmata
 ```
@@ -3119,7 +3119,7 @@ rokasgrāmata
 ```
 You can sync a map file on the cloud at any time by clicking on the map file in the side bar and then choosing the "Cloud sync" option.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jūs varat sinhronizēt ar karti failu uz mākoņa jebkurā laikā, noklikšķinot uz karti failu sānu joslā un pēc tam izvēloties "Cloud sinhronizācijas" variantu.
 ```
@@ -3129,7 +3129,7 @@ Jūs varat sinhronizēt ar karti failu uz mākoņa jebkurā laikā, noklikšķin
 ```
 You can sync a map file manually to the cloud at any time by clicking the "share" button in the main action bar, and then "Other options" and then "All markers and folders" and then by selecting your favorite cloud storage app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jūs varat sinhronizēt ar karti failu manuāli mākonis jebkurā laikā, noklikšķinot uz "share" pogu galvenajā darbību joslā, un tad "Citas iespējas" un tad "Visi marķieri un mapes" un tad, izvēloties savu iecienītāko mākonis uzglabāšanas app.
 ```
@@ -3139,7 +3139,7 @@ Jūs varat sinhronizēt ar karti failu manuāli mākonis jebkurā laikā, noklik
 ```
 Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pārvietojiet karti apkārt izvietot punktus, noklikšķiniet uz "+", lai pievienotu vietu, noklikšķiniet uz '-', lai noņemtu punktu un pārslēgšanas punktu ar iepriekšējo / ​​nākamo pogām. Visbeidzot noklikšķiniet glābt, lai saglabātu formu.
 ```
@@ -3149,7 +3149,7 @@ Pārvietojiet karti apkārt izvietot punktus, noklikšķiniet uz "+", lai pievie
 ```
 There are not enough points to create the shape. Create more points and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nav pietiekami daudz punktus, lai izveidotu formu. Radīt vairāk punktus un mēģiniet vēlreiz.
 ```
@@ -3159,7 +3159,7 @@ Nav pietiekami daudz punktus, lai izveidotu formu. Radīt vairāk punktus un mē
 ```
 Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn\'t work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by email (side panel -> about -> send email).
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nevar aktivizēt premium jauninājums no jūsu Google kontu. Ja esat iegādājies premium jauninājums nesen no citas ierīces, iespējams, būs jāgaida nedaudz iegādei izplatīt, restartēt ierīci, varētu padarīt to ātrāku. Ja tas joprojām nedarbojas, pārliecinieties, ka esat iegādājies, uzstādīta app un aktivizē ar to pašu Google kontu. Ja problēma joprojām pastāv, es palīdzēs jums vislabāk varu, jūs varat sazināties ar mani pa email (sānu panelis -&gt; par -&gt; sūtīt email ).
 ```
@@ -3169,7 +3169,7 @@ Nevar aktivizēt premium jauninājums no jūsu Google kontu. Ja esat iegādājie
 ```
 Distance: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Attālums: %s
 ```
@@ -3180,7 +3180,7 @@ Attālums: %s
 Perimeter: %1$s
 Area: %2$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Perimetra: %1$s 
  Platība: %2$s
@@ -3191,7 +3191,7 @@ Perimetra: %1$s
 ```
 Extra information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 papildus informācija
 ```
@@ -3201,7 +3201,7 @@ papildus informācija
 ```
 Insert…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ievietot&#8230;
 ```
@@ -3211,7 +3211,7 @@ Ievietot&#8230;
 ```
 Replace title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 aizstāt titulu
 ```
@@ -3221,7 +3221,7 @@ aizstāt titulu
 ```
 Replace description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 aizstāt aprakstu
 ```
@@ -3231,7 +3231,7 @@ aizstāt aprakstu
 ```
 Unit of distance
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vienība attāluma
 ```
@@ -3241,7 +3241,7 @@ Vienība attāluma
 ```
 Unit of area
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vienības platības
 ```
@@ -3251,7 +3251,7 @@ Vienības platības
 ```
 Metric (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Metric ( %s )
 ```
@@ -3261,7 +3261,7 @@ Metric ( %s )
 ```
 Imperial (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Imperial ( %s )
 ```
@@ -3271,7 +3271,7 @@ Imperial ( %s )
 ```
 Images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Images
 ```
@@ -3281,7 +3281,7 @@ Images
 ```
 Select image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Izvēlieties attēlu
 ```
@@ -3291,7 +3291,7 @@ Izvēlieties attēlu
 ```
 Imported images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Importētās attēlus
 ```
@@ -3301,7 +3301,7 @@ Importētās attēlus
 ```
 Fit in a %1$sx%2$s square
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ietilptu %1$s x %2$s kvadrātveida
 ```
@@ -3311,7 +3311,7 @@ Ietilptu %1$s x %2$s kvadrātveida
 ```
 Full quality
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 pilnīga kvalitātes
 ```
@@ -3321,7 +3321,7 @@ pilnīga kvalitātes
 ```
 Mobile data
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 mobilo datu
 ```
@@ -3331,7 +3331,7 @@ mobilo datu
 ```
 Wifi
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Wifi
 ```
@@ -3341,7 +3341,7 @@ Wifi
 ```
 Disabled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 invalīdiem
 ```
@@ -3351,7 +3351,7 @@ invalīdiem
 ```
 Up to %s per sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Līdz %s uz vienu sinhronizācija
 ```
@@ -3361,7 +3361,7 @@ Līdz %s uz vienu sinhronizācija
 ```
 Unlimited
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 neierobežots
 ```
@@ -3371,7 +3371,7 @@ neierobežots
 ```
 The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings. You can also click "force sync" to sync just one time without data volume limit.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sinhronizācijas tika pārtraukta, jo tas bija kas pārsniedz atļauto datu apjoma limitu. Lai palielinātu vai mainītu limitu, dodieties uz iestatījumiem. Jūs varat arī noklikšķināt "spēka sinhronizācija", lai sinhronizētu tikai vienu reizi, bez datu apjoma ierobežojuma.
 ```
@@ -3381,7 +3381,7 @@ Sinhronizācijas tika pārtraukta, jo tas bija kas pārsniedz atļauto datu apjo
 ```
 Force sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Force sinhronizācija
 ```
@@ -3391,7 +3391,7 @@ Force sinhronizācija
 ```
 This will override the usual data limit just for this one time. Force sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tas ignorēs parasto datu limitu tikai par šo vienu reizi. Force sinhronizācija?
 ```
@@ -3401,7 +3401,7 @@ Tas ignorēs parasto datu limitu tikai par šo vienu reizi. Force sinhronizācij
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 otrreiz izskatīt
 ```
@@ -3411,7 +3411,7 @@ otrreiz izskatīt
 ```
 Add image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pievienot attēlu
 ```
@@ -3421,7 +3421,7 @@ Pievienot attēlu
 ```
 From camera
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 no kameras
 ```
@@ -3431,7 +3431,7 @@ no kameras
 ```
 From gallery
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 no galerijā
 ```
@@ -3441,7 +3441,7 @@ no galerijā
 ```
 Importing image…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Importēšana attēlu&#8230;
 ```
@@ -3451,7 +3451,7 @@ Importēšana attēlu&#8230;
 ```
 Offline (Mapsforge BETA)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Offline ( Mapsforge BETA )
 ```
@@ -3461,7 +3461,7 @@ Offline ( Mapsforge BETA )
 ```
 Exporting…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eksportē&#8230;
 ```
@@ -3471,7 +3471,7 @@ Eksportē&#8230;
 ```
 Export failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 eksporta neizdevās
 ```
@@ -3481,7 +3481,7 @@ eksporta neizdevās
 ```
 Export succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 eksporta izdevās
 ```
@@ -3491,7 +3491,7 @@ eksporta izdevās
 ```
 KMZ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KMZ
 ```
@@ -3501,7 +3501,7 @@ KMZ
 ```
 KML
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KML
 ```
@@ -3511,7 +3511,7 @@ KML
 ```
 Importing file…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Importēšana failu&#8230;
 ```
@@ -3521,7 +3521,7 @@ Importēšana failu&#8230;
 ```
 Show warning icon for sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Parādiet brīdinājuma ikonu sinhronizāciju
 ```
@@ -3531,7 +3531,7 @@ Parādiet brīdinājuma ikonu sinhronizāciju
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sinhronizācijas tika pārtraukta, jo viens no multivides failus uz mākoni trūka. Jūs varat ignorēt trūkstošos failus, noklikšķinot uz "spēka sinhronizācijas \". Brīdinājums, ignorējot trūkstošos failus radīs atceļot tos no datu bāzes, kas nozīmē, ka citas ierīces joprojām lokālo kopiju failu izdzēsīs to uz sinhronizāciju.
 ```
@@ -3541,7 +3541,7 @@ Sinhronizācijas tika pārtraukta, jo viens no multivides failus uz mākoni trū
 ```
 This will force the sync and ignore the missing cloud files. The missing links will be removed from the database. Other devices still owning a local version of the missing cloud files will delete them upon their next sync. Data consumption limits will be ignored for this special sync. Force Sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tas liks sinhronizācija un ignorēt trūkstošo mākonis failus. Trūkstošos saites tiks dzēsts no datu bāzes. Citas ierīces joprojām pieder vietējo versiju trūkstošo mākonis failus izdzēsīs tos uz savu nākamo sinhronizācija. Datu patēriņa ierobežojumi tiks ignorēti šo īpašo sinhronizāciju. Force Sync?
 ```
@@ -3551,7 +3551,7 @@ Tas liks sinhronizācija un ignorēt trūkstošo mākonis failus. Trūkstošos s
 ```
 Marker media files ignored on import: %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker multivides failus ignorēt importa: %1$d
 ```
@@ -3561,7 +3561,7 @@ Marker multivides failus ignorēt importa: %1$d
 ```
 Checking premium status…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pārbaude premium statusa&#8230;
 ```
@@ -3571,7 +3571,7 @@ Pārbaude premium statusa&#8230;
 ```
 General
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 vispārējs
 ```
@@ -3581,7 +3581,7 @@ vispārējs
 ```
 Toilets
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 tualetes
 ```
@@ -3591,7 +3591,7 @@ tualetes
 ```
 Food
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ēdiens
 ```
@@ -3601,7 +3601,7 @@ translates to:
 ```
 Stores
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 veikali
 ```
@@ -3611,7 +3611,7 @@ veikali
 ```
 Land activities
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 zemes aktivitātes
 ```
@@ -3621,7 +3621,7 @@ zemes aktivitātes
 ```
 Water activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ūdens activies
 ```
@@ -3631,7 +3631,7 @@ translates to:
 ```
 Winter activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ziemas activies
 ```
@@ -3641,7 +3641,7 @@ ziemas activies
 ```
 Transport
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 transports
 ```
@@ -3651,7 +3651,7 @@ transports
 ```
 Health
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Veselība
 ```
@@ -3661,7 +3661,7 @@ Veselība
 ```
 Entertainment
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Izklaide
 ```
@@ -3671,7 +3671,7 @@ Izklaide
 ```
 Services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 pakalpojumi
 ```
@@ -3681,7 +3681,7 @@ pakalpojumi
 ```
 Business
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bizness
 ```
@@ -3691,7 +3691,7 @@ Bizness
 ```
 Government
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 valdība
 ```
@@ -3701,7 +3701,7 @@ valdība
 ```
 Religious
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 reliģisks
 ```
@@ -3711,7 +3711,7 @@ reliģisks
 ```
 Accessibility
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pieejamība
 ```
@@ -3721,7 +3721,7 @@ Pieejamība
 ```
 Select icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Izvēlieties ikonu
 ```
@@ -3731,7 +3731,7 @@ Izvēlieties ikonu
 ```
 Icon and color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ikonu un krāsu
 ```
@@ -3741,7 +3741,7 @@ Ikonu un krāsu
 ```
 Generic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 vispārējs
 ```
@@ -3751,7 +3751,7 @@ vispārējs
 ```
 Beta tester badge: thank you for being a beta tester! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Beta testeris žetons: paldies par to, ka beta testētājs! Šī emblēma pazudīs tikai pēc atinstalēšanas lietotni vai klīringa lietotņu datus. Tas žetons arī ļauj jums nav reklāmas app.
 ```
@@ -3761,7 +3761,7 @@ Beta testeris žetons: paldies par to, ka beta testētājs! Šī emblēma pazud�
 ```
 Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Referral žetons: paldies par aicinot savus draugus uz app! Šī emblēma pazudīs tikai pēc atinstalēšanas lietotni vai klīringa lietotņu datus. Tas žetons arī ļauj jums nav reklāmas app.
 ```
@@ -3771,7 +3771,7 @@ Referral žetons: paldies par aicinot savus draugus uz app! Šī emblēma pazud�
 ```
 Referral
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Referral
 ```
@@ -3781,7 +3781,7 @@ Referral
 ```
 Removing ads: exchange referrals credits with friends to remove ads
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Noņemot reklāmas: maiņas nodošanu kredītus ar draugiem, lai novērstu reklāmas
 ```
@@ -3791,7 +3791,7 @@ Noņemot reklāmas: maiņas nodošanu kredītus ar draugiem, lai novērstu rekl�
 ```
 Sent credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nosūtītās kredīti: %s
 ```
@@ -3801,7 +3801,7 @@ Nosūtītās kredīti: %s
 ```
 Received credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Saņemtie kredīti: %s
 ```
@@ -3811,7 +3811,7 @@ Saņemtie kredīti: %s
 ```
 Contribute to translations
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Veicināt tulkojumiem
 ```
@@ -3821,7 +3821,7 @@ Veicināt tulkojumiem
 ```
 You understand English and want to help with translations? Click here
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jūs saprotat angļu un vēlamies palīdzēt ar tulkojumiem? Klikšķiniet šeit
 ```
@@ -3831,7 +3831,7 @@ Jūs saprotat angļu un vēlamies palīdzēt ar tulkojumiem? Klikšķiniet šeit
 ```
 The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mērķa mapi krāsu vai ikona ir atšķirīgs. Vai vēlaties atjaunināt marķiera krāsu un ikonu?
 ```
@@ -3841,7 +3841,7 @@ Mērķa mapi krāsu vai ikona ir atšķirīgs. Vai vēlaties atjaunināt marķie
 ```
 Add color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pievienot krāsu
 ```
@@ -3851,7 +3851,7 @@ Pievienot krāsu
 ```
 <![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Kas ir premium jauninājums &lt;/ b&gt; &lt;br&gt; Virsū novēršot reklāmu, piemaksa jauninājums atslēdz šādas izņēmuma piemaksu iezīmes:? &lt;br&gt; • Sync uz Google Drive jeb Dropbox &lt;br&gt; • Sadarboties ar Google Drive vai Dropbox &lt;br&gt; • Kartes versijas vēsture un atjaunot &lt;br&gt; &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -3861,7 +3861,7 @@ translates to:
 ```
 Marker created from the geo location of the QR code
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker izveidota no ģeogrāfiskās atrašanās vietas QR kodu
 ```
@@ -3871,7 +3871,7 @@ Marker izveidota no ģeogrāfiskās atrašanās vietas QR kodu
 ```
 Failed to read QR code as a geo location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Neizdevās nolasīt QR kodu, kā ģeogrāfiskā atrašanās vieta
 ```
@@ -3881,7 +3881,7 @@ Neizdevās nolasīt QR kodu, kā ģeogrāfiskā atrašanās vieta
 ```
 The app for scanning QR codes could not be found. Do you want to install it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Par skenēšanas QR kodiem app nevar atrast. Vai jūs vēlaties to instalēt?
 ```
@@ -3891,7 +3891,7 @@ Par skenēšanas QR kodiem app nevar atrast. Vai jūs vēlaties to instalēt?
 ```
 Selection action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 atlase rīcība
 ```
@@ -3901,7 +3901,7 @@ atlase rīcība
 ```
 Move to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pārvietot pa kreisi
 ```
@@ -3911,7 +3911,7 @@ Pārvietot pa kreisi
 ```
 Move to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pārvietot uz labo
 ```
@@ -3921,7 +3921,7 @@ Pārvietot uz labo
 ```
 Rotate to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pagriezt pa kreisi
 ```
@@ -3931,7 +3931,7 @@ Pagriezt pa kreisi
 ```
 Rotate to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pagriezt pa labi
 ```
@@ -3941,7 +3941,7 @@ Pagriezt pa labi
 ```
 Delete image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 dzēst attēlu
 ```
@@ -3951,7 +3951,7 @@ dzēst attēlu
 ```
 From local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No vietējo failu
 ```
@@ -3961,7 +3961,7 @@ No vietējo failu
 ```
 What format to you want to use to export?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kādā formātā, lai jūs vēlaties izmantot eksportēt?
 ```
@@ -3971,7 +3971,7 @@ Kādā formātā, lai jūs vēlaties izmantot eksportēt?
 ```
 The data to export contains media(images) that cannot be included with this export format. The data will be exported without the media. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Datu eksportu satur mediju (attēli), kas nevar tikt iekļautas ar šo eksporta formātā. Dati tiks eksportēti bez plašsaziņas līdzekļiem. Lai eksportētu visu, izvēlēties KMZ eksporta formātu.
 ```
@@ -3981,7 +3981,7 @@ Datu eksportu satur mediju (attēli), kas nevar tikt iekļautas ar šo eksporta 
 ```
 Standard Google Earth format. Cannot contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Standard Google Earth formātā. Nevar saturēt medijiem.
 ```
@@ -3991,7 +3991,7 @@ Standard Google Earth formātā. Nevar saturēt medijiem.
 ```
 Zip Google Earth format. Can contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zip Google Earth formātā. Var saturēt medijiem.
 ```
@@ -4001,7 +4001,7 @@ Zip Google Earth formātā. Var saturēt medijiem.
 ```
 Standard text spreadsheet format. Cannot contain media. Cannot contain lines or polygons.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Standarta teksts izklājlapas formātā. Nevar saturēt medijiem. Nevar saturēt līnijām vai poligonus.
 ```
@@ -4011,7 +4011,7 @@ Standarta teksts izklājlapas formātā. Nevar saturēt medijiem. Nevar saturēt
 ```
 Marker as plain text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker kā vienkāršu tekstu
 ```
@@ -4021,7 +4021,7 @@ Marker kā vienkāršu tekstu
 ```
 Marker as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker kā failu
 ```
@@ -4031,7 +4031,7 @@ Marker kā failu
 ```
 Share the selected marker as a file into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dalīties izvēlēto marķieri kā failu citas lietotnes
 ```
@@ -4041,7 +4041,7 @@ Dalīties izvēlēto marķieri kā failu citas lietotnes
 ```
 Share as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Share kā failu
 ```
@@ -4051,7 +4051,7 @@ Share kā failu
 ```
 Export to a local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eksports uz vietējā failu
 ```
@@ -4061,7 +4061,7 @@ Eksports uz vietējā failu
 ```
 Import or export markers as files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Importa vai eksporta marķieri kā failus
 ```
@@ -4071,7 +4071,7 @@ Importa vai eksporta marķieri kā failus
 ```
 The data to export contains complex markers (lines or polygons) that cannot be included with this export format. The data will be exported without those markers. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Datu eksportu satur sarežģītu Markers (līnijas vai poligonus), kas nevar tikt iekļautas ar šo eksporta formātā. Dati tiks eksportēti bez šiem marķieriem. Lai eksportētu visu, izvēlēties KMZ eksporta formātu.
 ```
@@ -4081,7 +4081,7 @@ Datu eksportu satur sarežģītu Markers (līnijas vai poligonus), kas nevar tik
 ```
 Add custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pievienot pielāgoto lauku
 ```
@@ -4091,7 +4091,7 @@ Pievienot pielāgoto lauku
 ```
 Information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Informācija
 ```
@@ -4101,7 +4101,7 @@ Informācija
 ```
 Custom fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pielāgotie lauki
 ```
@@ -4111,7 +4111,7 @@ Pielāgotie lauki
 ```
 Field name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lauka nosaukums
 ```
@@ -4121,7 +4121,7 @@ Lauka nosaukums
 ```
 Delete field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dzēst lauku
 ```
@@ -4131,7 +4131,7 @@ Dzēst lauku
 ```
 Attributes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atribūti
 ```
@@ -4141,7 +4141,7 @@ Atribūti
 ```
 New custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jauns pielāgotais lauks
 ```
@@ -4151,7 +4151,7 @@ Jauns pielāgotais lauks
 ```
 Modify custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mainiet pielāgoto lauku
 ```
@@ -4161,7 +4161,7 @@ Mainiet pielāgoto lauku
 ```
 Field enabled. For folders, if enabled, that field will be added automatically to children POIs on creation. For POIs, if enabled, that field will be visible in the details page.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Laukā aktivizēts. Attiecībā uz mapēm, ja tas ir iespējots, šis lauks tiks automātiski pievienots, lai izveidotu bērniem interesējošos objektus. Attiecībā uz IP, ja tas ir iespējots, šis lauks būs redzams informācijas lapā.
 ```
@@ -4171,7 +4171,7 @@ Laukā aktivizēts. Attiecībā uz mapēm, ja tas ir iespējots, šis lauks tiks
 ```
 Field info
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lauka informācija
 ```
@@ -4181,7 +4181,7 @@ Lauka informācija
 ```
 Select field type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Izvēlieties lauka veidu
 ```
@@ -4191,7 +4191,7 @@ Izvēlieties lauka veidu
 ```
 Boolean (True or False)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Būla (patiesa vai nepatiesa)
 ```
@@ -4201,7 +4201,7 @@ Būla (patiesa vai nepatiesa)
 ```
 Default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Noklusējuma vērtība
 ```
@@ -4211,7 +4211,7 @@ Noklusējuma vērtība
 ```
 Date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Datums
 ```
@@ -4221,7 +4221,7 @@ Datums
 ```
 Email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 E-pasts
 ```
@@ -4231,7 +4231,7 @@ E-pasts
 ```
 Text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Teksts
 ```
@@ -4241,7 +4241,7 @@ Teksts
 ```
 Multiple choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vairāku izvēli
 ```
@@ -4251,7 +4251,7 @@ Vairāku izvēli
 ```
 Add choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pievienot izvēli
 ```
@@ -4261,7 +4261,7 @@ Pievienot izvēli
 ```
 Duplicates are not allowed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dublikāti nav atļauti
 ```
@@ -4271,7 +4271,7 @@ Dublikāti nav atļauti
 ```
 Phone
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tālrunis
 ```
@@ -4281,7 +4281,7 @@ Tālrunis
 ```
 Web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Web saite
 ```
@@ -4291,7 +4291,7 @@ Web saite
 ```
 Choices list
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Izvēles saraksts
 ```
@@ -4301,7 +4301,7 @@ Izvēles saraksts
 ```
 Select default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atlasiet noklusējuma vērtību
 ```
@@ -4311,7 +4311,7 @@ Atlasiet noklusējuma vērtību
 ```
 Creation date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Izveidošanas datums
 ```
@@ -4321,7 +4321,7 @@ Izveidošanas datums
 ```
 POI Options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 POI opcijas
 ```
@@ -4331,7 +4331,7 @@ POI opcijas
 ```
 Delete POI
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dzēst POI
 ```
@@ -4341,7 +4341,7 @@ Dzēst POI
 ```
 Select value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Izvēlieties vērtību
 ```
@@ -4351,7 +4351,7 @@ Izvēlieties vērtību
 ```
 Used by folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lieto mapes
 ```
@@ -4361,7 +4361,7 @@ Lieto mapes
 ```
 Edit field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Rediģēt lauku
 ```
@@ -4371,7 +4371,7 @@ Rediģēt lauku
 ```
 Add folder field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pievienot mapes lauku
 ```
@@ -4381,7 +4381,7 @@ Pievienot mapes lauku
 ```
 Reorder fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pielāgot laukus
 ```
@@ -4391,7 +4391,7 @@ Pielāgot laukus
 ```
 Pick the fields you want to apply to this folder\'s POIs
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Izvēlieties laukus, kurus vēlaties piemērot šai mapei
 ```
@@ -4401,7 +4401,7 @@ Izvēlieties laukus, kurus vēlaties piemērot šai mapei
 ```
 The destination folder has different field values. Pick the fields you want to apply to moved POIs.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Galamērķa mapei ir dažādas lauka vērtības. Izvēlieties laukus, kurus vēlaties piemērot pārvietotajiem interešu punktiem.
 ```
@@ -4411,7 +4411,7 @@ Galamērķa mapei ir dažādas lauka vērtības. Izvēlieties laukus, kurus vēl
 ```
 Update color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atjaunināt krāsu
 ```
@@ -4421,7 +4421,7 @@ Atjaunināt krāsu
 ```
 Update pin icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atjaunināt pin ikonu
 ```
@@ -4431,7 +4431,7 @@ Atjaunināt pin ikonu
 ```
 Add field if missing: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pievienot lauku, ja trūkst: %s
 ```
@@ -4441,7 +4441,7 @@ Pievienot lauku, ja trūkst: %s
 ```
 Remove field if present: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Noņemiet lauku, ja tāds ir: %s
 ```
@@ -4451,7 +4451,7 @@ Noņemiet lauku, ja tāds ir: %s
 ```
 Update field name if different: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atjauniniet lauka nosaukumu, ja tas ir citāds: %s
 ```
@@ -4461,7 +4461,7 @@ Atjauniniet lauka nosaukumu, ja tas ir citāds: %s
 ```
 More options…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vairāk iespēju…
 ```
@@ -4471,7 +4471,7 @@ Vairāk iespēju…
 ```
 Folder options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mapju opcijas
 ```
@@ -4481,7 +4481,7 @@ Mapju opcijas
 ```
 Edit email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Rediģēt email
 ```
@@ -4491,7 +4491,7 @@ Rediģēt email
 ```
 Edit web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Rediģēt tīmekļa saiti
 ```
@@ -4501,7 +4501,7 @@ Rediģēt tīmekļa saiti
 ```
 Decimal accuracy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Decimāls precizitāte
 ```
@@ -4511,7 +4511,7 @@ Decimāls precizitāte
 ```
 Details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sīkāka informācija tiek kopēta starpliktuvē
 ```
@@ -4521,7 +4521,7 @@ Sīkāka informācija tiek kopēta starpliktuvē
 ```
 Copy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kopēt
 ```
@@ -4531,7 +4531,7 @@ Kopēt
 ```
 Do you want to click here? ^‿^
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vai vēlaties uzklikšķināt šeit? ^ ^ ^ ^
 ```
@@ -4559,7 +4559,7 @@ And finally, thank you for reading this :-)
 Regards
 Sébastien
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sveiks, paldies par jūsu interesi! 
  
@@ -4587,7 +4587,7 @@ Sveiks, paldies par jūsu interesi!
 ```
 Normal with indoor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Normāls ar iekštelpu
 ```
@@ -4597,7 +4597,7 @@ Normāls ar iekštelpu
 ```
 Floating marker titles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Peldošie marķieru nosaukumi
 ```
@@ -4607,7 +4607,7 @@ Peldošie marķieru nosaukumi
 ```
 Maximum number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Maksimālais numurs
 ```
@@ -4617,7 +4617,7 @@ Maksimālais numurs
 ```
 Text size
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Teksta lielums
 ```
@@ -4627,7 +4627,7 @@ Teksta lielums
 ```
 Search failed => %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Meklēšana neizdevās =&gt; %s
 ```
@@ -4637,7 +4637,7 @@ Meklēšana neizdevās =&gt; %s
 ```
 API key tutorial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 API key apmācība
 ```
@@ -4647,7 +4647,7 @@ API key apmācība
 ```
 Click here to see details on how to obtain an API key for your account.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Noklikšķiniet šeit, lai skatītu informāciju par to, kā iegūt API key kontu savam kontam.
 ```
@@ -4657,7 +4657,7 @@ Noklikšķiniet šeit, lai skatītu informāciju par to, kā iegūt API key kont
 ```
 Personal API key
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Personīga API key
 ```
@@ -4667,7 +4667,7 @@ Personīga API key
 ```
 None
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nav
 ```
@@ -4679,7 +4679,7 @@ You can search for places with "Google Places API". This search requires an inte
 
 You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jūs varat meklēt vietas ar "Google Places API". Šim meklējumam ir nepieciešams interneta pieslēgums.
 
@@ -4691,7 +4691,7 @@ Jūs esat konfigurējis savu personīgo Google Places API taustiņu: jūsu mekl�
 ```
 Do you enjoy the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vai jums patīk lietotne?
 ```
@@ -4701,7 +4701,7 @@ Vai jums patīk lietotne?
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vai vēlaties nosūtīt man email, lai pastāstītu, kā es varētu uzlabot lietotni?
 ```
@@ -4711,7 +4711,7 @@ Vai vēlaties nosūtīt man email, lai pastāstītu, kā es varētu uzlabot liet
 ```
 Display extra POI fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Parādīt papildu IP laukus
 ```
@@ -4721,7 +4721,7 @@ Parādīt papildu IP laukus
 ```
 IGN plans
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN plāni
 ```
@@ -4731,7 +4731,7 @@ IGN plāni
 ```
 IGN maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN kartes
 ```
@@ -4741,7 +4741,7 @@ IGN kartes
 ```
 IGN - Cadastral parcels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - kadastra pakas
 ```
@@ -4751,7 +4751,7 @@ IGN - kadastra pakas
 ```
 IGN - Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - antena
 ```
@@ -4761,7 +4761,7 @@ IGN - antena
 ```
 Type more and press enter again for refined results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ievadiet vairāk un nospiediet vēlreiz, lai iegūtu precīzus rezultātus
 ```

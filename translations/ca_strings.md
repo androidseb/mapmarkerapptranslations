@@ -1,4 +1,4 @@
-# Map Marker translations for ca
+# Map Marker translations for Catalan (ca)
 
 You want to help improve this translation file? Read the [main page](https://github.com/androidseb/mapmarkerapptranslations)
 
@@ -7,7 +7,7 @@ You want to help improve this translation file? Read the [main page](https://git
 ```
 OK
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 OK
 ```
@@ -17,7 +17,7 @@ OK
 ```
 Yes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sí
 ```
@@ -27,7 +27,7 @@ Sí
 ```
 No
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No
 ```
@@ -37,7 +37,7 @@ No
 ```
 Cancel
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cancel·la
 ```
@@ -47,7 +47,7 @@ Cancel·la
 ```
 New marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nou marcador
 ```
@@ -57,7 +57,7 @@ Nou marcador
 ```
 Title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Títol
 ```
@@ -67,7 +67,7 @@ Títol
 ```
 Description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Descripció
 ```
@@ -77,7 +77,7 @@ Descripció
 ```
 Do you really want to delete this marker?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Realment voleu eliminar aquest marcador?
 ```
@@ -87,7 +87,7 @@ Realment voleu eliminar aquest marcador?
 ```
 GPS coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Coordenades GPS
 ```
@@ -97,7 +97,7 @@ Coordenades GPS
 ```
 Could not copy coordinates to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No s'ha pogut copiar les coordenades al portapapers
 ```
@@ -107,7 +107,7 @@ No s'ha pogut copiar les coordenades al portapapers
 ```
 Coordinates copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Coordina copiat al porta-retalls
 ```
@@ -117,7 +117,7 @@ Coordina copiat al porta-retalls
 ```
 Failed to access application save directory. Make sure that your device is not being accessed by a computer with the USB cable, and restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No s'ha pogut accedir a l'aplicació d'estalvi de directori. Assegureu-vos que el dispositiu no està accedint a un ordinador amb el cable USB i reinicieu l'aplicació.
 ```
@@ -127,7 +127,7 @@ No s'ha pogut accedir a l'aplicació d'estalvi de directori. Assegureu-vos que e
 ```
 Untitled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Intitulat
 ```
@@ -137,7 +137,7 @@ Intitulat
 ```
 All
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tots
 ```
@@ -147,7 +147,7 @@ Tots
 ```
 Add folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Afegeix carpeta
 ```
@@ -157,7 +157,7 @@ Afegeix carpeta
 ```
 Modify folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Modificar carpeta
 ```
@@ -167,7 +167,7 @@ Modificar carpeta
 ```
 Are you sure you want to delete this folder? All markers associated to this folder will be deleted permanently!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Segur que vols eliminar aquesta carpeta? Tots els marcadors associats a aquesta carpeta s'eliminaran permanentment!
 ```
@@ -177,7 +177,7 @@ Segur que vols eliminar aquesta carpeta? Tots els marcadors associats a aquesta 
 ```
 Failed to create new folder, it already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Error en crear nova carpeta, ja existeix
 ```
@@ -187,7 +187,7 @@ Error en crear nova carpeta, ja existeix
 ```
 Failed to rename the folder, the destination name already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Error en canviar el nom de la carpeta, ja existeix el nom del destí
 ```
@@ -197,7 +197,7 @@ Error en canviar el nom de la carpeta, ja existeix el nom del destí
 ```
 Latitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Latitud:
 ```
@@ -207,7 +207,7 @@ Latitud:
 ```
 Longitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Longitud:
 ```
@@ -217,7 +217,7 @@ Longitud:
 ```
 Could not write file.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No s'ha pogut escriure el fitxer.
 ```
@@ -227,7 +227,7 @@ No s'ha pogut escriure el fitxer.
 ```
 Import/Export
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Importació I Exportació
 ```
@@ -237,7 +237,7 @@ Importació I Exportació
 ```
 Import markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marcadors d'importació
 ```
@@ -247,7 +247,7 @@ Marcadors d'importació
 ```
 File imported successfully
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Arxiu importat correctament
 ```
@@ -257,7 +257,7 @@ Arxiu importat correctament
 ```
 File import failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Importació d'arxius no
 ```
@@ -267,7 +267,7 @@ Importació d'arxius no
 ```
 Location services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Serveis de localització
 ```
@@ -277,7 +277,7 @@ Serveis de localització
 ```
 Location services are disabled. To get your current location you must enable them.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Els serveis de localització estan desactivats. Per obtenir la seva ubicació actual ha d'habilitar ells.
 ```
@@ -287,7 +287,7 @@ Els serveis de localització estan desactivats. Per obtenir la seva ubicació ac
 ```
 Could not find address
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No s'ha pogut trobar l'adreça
 ```
@@ -297,7 +297,7 @@ No s'ha pogut trobar l'adreça
 ```
 Searching&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Buscant&#8230;
 ```
@@ -307,7 +307,7 @@ Buscant&#8230;
 ```
 Search
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cerca
 ```
@@ -317,7 +317,7 @@ Cerca
 ```
 Share via
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Compartir via
 ```
@@ -327,7 +327,7 @@ Compartir via
 ```
 Do you want to import the content of this file?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vols importar el contingut d'aquest fitxer?
 ```
@@ -337,7 +337,7 @@ Vols importar el contingut d'aquest fitxer?
 ```
 Folder name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nom de la carpeta
 ```
@@ -347,7 +347,7 @@ Nom de la carpeta
 ```
 Save
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Guardar
 ```
@@ -357,7 +357,7 @@ Guardar
 ```
 Close
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Prop
 ```
@@ -367,7 +367,7 @@ Prop
 ```
 Are you sure you want to delete the selected markers?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Segur que vols eliminar els marcadors seleccionats?
 ```
@@ -377,7 +377,7 @@ Segur que vols eliminar els marcadors seleccionats?
 ```
 Move markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Desplaçament de marcadors a la carpeta
 ```
@@ -387,7 +387,7 @@ Desplaçament de marcadors a la carpeta
 ```
 Share
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Quota
 ```
@@ -397,7 +397,7 @@ Quota
 ```
 Folder:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Carpeta:
 ```
@@ -407,7 +407,7 @@ Carpeta:
 ```
 Snapshot of my markers on Map Marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Instantània de les meves marcadors en Map Marker
 ```
@@ -418,7 +418,7 @@ Instantània de les meves marcadors en Map Marker
 This snapshot was made with the app Map Marker:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aquesta instantània es va fer amb l'aplicació Map Marker : 
  %s
@@ -429,7 +429,7 @@ Aquesta instantània es va fer amb l'aplicació Map Marker :
 ```
 Processing data&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Processament de dades&#8230;
 ```
@@ -439,7 +439,7 @@ Processament de dades&#8230;
 ```
 You have unsaved modifications, do you want to save them?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vostè ha modificacions que no hagi guardat, vols salvar?
 ```
@@ -449,7 +449,7 @@ Vostè ha modificacions que no hagi guardat, vols salvar?
 ```
 Use the long press on the map to create a new marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Utilitzeu la pressió prolongada al mapa per crear un nou marcador
 ```
@@ -459,7 +459,7 @@ Utilitzeu la pressió prolongada al mapa per crear un nou marcador
 ```
 Map type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tipus de mapa
 ```
@@ -469,7 +469,7 @@ Tipus de mapa
 ```
 Normal
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Normal
 ```
@@ -479,7 +479,7 @@ Normal
 ```
 Satellite
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Satèl·lit
 ```
@@ -489,7 +489,7 @@ Satèl·lit
 ```
 Terrain
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Terreny
 ```
@@ -499,7 +499,7 @@ Terreny
 ```
 Hybrid
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Híbrid
 ```
@@ -510,7 +510,7 @@ Híbrid
 Found a problem? Have an idea of improvement?
 Send me an email :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ha trobat un problema? Tens una idea de millora? 
  envieu-me un email :-)
@@ -521,7 +521,7 @@ Ha trobat un problema? Tens una idea de millora?
 ```
 Send email&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Enviar email&#8230;
 ```
@@ -532,7 +532,7 @@ Enviar email&#8230;
 You like the app?
 Rate it 5 stars :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Si t'agrada l'aplicació? 
  Rate it 5 estrelles :-)
@@ -543,7 +543,7 @@ Si t'agrada l'aplicació?
 ```
 Change folder to&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Canviar carpeta per&#8230;
 ```
@@ -553,7 +553,7 @@ Canviar carpeta per&#8230;
 ```
 Directions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Instruccions
 ```
@@ -563,7 +563,7 @@ Instruccions
 ```
 Acquiring location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 L'adquisició d'ubicació&#8230;
 ```
@@ -573,7 +573,7 @@ L'adquisició d'ubicació&#8230;
 ```
 Meters
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Metres
 ```
@@ -583,7 +583,7 @@ Metres
 ```
 Km
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Km
 ```
@@ -593,7 +593,7 @@ Km
 ```
 Feet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Peus
 ```
@@ -603,7 +603,7 @@ Peus
 ```
 Miles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Milers
 ```
@@ -613,7 +613,7 @@ Milers
 ```
 Adjust map camera position when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ajusteu la posició del mapa càmera quan es guia a un marcador d'ubicació
 ```
@@ -623,7 +623,7 @@ Ajusteu la posició del mapa càmera quan es guia a un marcador d'ubicació
 ```
 Keep screen on when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mantingui la pantalla de l'hora d'orientar a un marcador d'ubicació
 ```
@@ -633,7 +633,7 @@ Mantingui la pantalla de l'hora d'orientar a un marcador d'ubicació
 ```
 Marker details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Detalls marcadors copiats al porta-retalls
 ```
@@ -643,7 +643,7 @@ Detalls marcadors copiats al porta-retalls
 ```
 Long press to drag and move the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Premeu per arrossegar i moure el marcador
 ```
@@ -653,7 +653,7 @@ Premeu per arrossegar i moure el marcador
 ```
 Error starting internal task manager, app will now exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Error en iniciar l'administrador de tasques intern, l'aplicació es tancarà ara
 ```
@@ -663,7 +663,7 @@ Error en iniciar l'administrador de tasques intern, l'aplicació es tancarà ara
 ```
 Do not show again
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No mostrar de nou
 ```
@@ -673,7 +673,7 @@ No mostrar de nou
 ```
 Could not create the map capture
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No s'ha pogut crear el mapa de captura
 ```
@@ -683,7 +683,7 @@ No s'ha pogut crear el mapa de captura
 ```
 Metric (Kilometers/Meters)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mètriques (quilòmetres / Metres)
 ```
@@ -693,7 +693,7 @@ Mètriques (quilòmetres / Metres)
 ```
 Imperial (Miles/Feet)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Imperial (Milles / Peus)
 ```
@@ -703,7 +703,7 @@ Imperial (Milles / Peus)
 ```
 There is a problem with Google Play Services: it needs to be installed, updated or activated. Click OK to try and solve it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hi ha un problema amb Google Play Services : necessita ser instal · lat, actualitzat o activat. Feu clic a D'acord per intentar resoldre-ho.
 ```
@@ -713,7 +713,7 @@ Hi ha un problema amb Google Play Services : necessita ser instal · lat, actual
 ```
 Delete folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eliminar carpeta
 ```
@@ -723,7 +723,7 @@ Eliminar carpeta
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Si t'agrada la meva aplicació em pot premiar per trobar el temps per donar un bon historial de :-)
 ```
@@ -734,7 +734,7 @@ Si t'agrada la meva aplicació em pot premiar per trobar el temps per donar un b
 OK take me
 to the Play Store
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Acceptar portar 
  al Play Store
@@ -746,7 +746,7 @@ Acceptar portar
 I already
 gave a rating
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ja 
  va donar una classificació
@@ -758,7 +758,7 @@ Ja
 Maybe later
 remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Potser posteriors 
  em recorden
@@ -770,7 +770,7 @@ Potser posteriors
 Maybe later
 do not remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Potser més tard 
  no em recorden
@@ -781,7 +781,7 @@ Potser més tard
 ```
 Could not find the place
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No s'ha pogut trobar el lloc
 ```
@@ -791,7 +791,7 @@ No s'ha pogut trobar el lloc
 ```
 Could not find another map application
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No s'ha pogut trobar una altra aplicació de mapes
 ```
@@ -801,7 +801,7 @@ No s'ha pogut trobar una altra aplicació de mapes
 ```
 Move the map around to place your marker where you want and click OK to place it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Moure el mapa voltant de dipositar el seu marcador a la que desitja i feu clic a D'acord per col·locar-
 ```
@@ -811,7 +811,7 @@ Moure el mapa voltant de dipositar el seu marcador a la que desitja i feu clic a
 ```
 Imported marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marcador Importat
 ```
@@ -821,7 +821,7 @@ Marcador Importat
 ```
 Settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ajustos
 ```
@@ -831,7 +831,7 @@ Ajustos
 ```
 Display zoom buttons
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Botons de visualització de zoom
 ```
@@ -841,7 +841,7 @@ Botons de visualització de zoom
 ```
 Decimal degrees
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Graus decimals
 ```
@@ -851,7 +851,7 @@ Graus decimals
 ```
 Degrees decimal minutes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Graus minuts decimals
 ```
@@ -861,7 +861,7 @@ Graus minuts decimals
 ```
 Degrees minutes seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Graus minuts segons
 ```
@@ -871,7 +871,7 @@ Graus minuts segons
 ```
 Coordinates format
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Format de Coordenades
 ```
@@ -881,7 +881,7 @@ Format de Coordenades
 ```
 GPS and wireless networks only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Només xarxes GPS i mòbils
 ```
@@ -891,7 +891,7 @@ Només xarxes GPS i mòbils
 ```
 GPS and wireless networks or magnetic sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xarxes GPS i mòbils o sensor magnètic
 ```
@@ -901,7 +901,7 @@ Xarxes GPS i mòbils o sensor magnètic
 ```
 Magnetic sensor only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Únic sensor magnètic
 ```
@@ -911,7 +911,7 @@ translates to:
 ```
 Used compass sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sensor de la brúixola usats
 ```
@@ -921,7 +921,7 @@ Sensor de la brúixola usats
 ```
 FAQ/Help
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 FAQ / Ajuda
 ```
@@ -931,7 +931,7 @@ FAQ / Ajuda
 ```
 Folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Carpetes
 ```
@@ -941,7 +941,7 @@ Carpetes
 ```
 Help and settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ajuda i ajustos
 ```
@@ -951,7 +951,7 @@ Ajuda i ajustos
 ```
 Language
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Idioma
 ```
@@ -961,7 +961,7 @@ Idioma
 ```
 Marker popup style
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Estil emergent Marcador
 ```
@@ -971,7 +971,7 @@ Estil emergent Marcador
 ```
 Bottom
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fons
 ```
@@ -981,7 +981,7 @@ Fons
 ```
 Bubble
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bombolla
 ```
@@ -991,7 +991,7 @@ Bombolla
 ```
 Coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Coordenades
 ```
@@ -1001,7 +1001,7 @@ Coordenades
 ```
 Contextual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Contextual
 ```
@@ -1011,7 +1011,7 @@ Contextual
 ```
 Always
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sempre
 ```
@@ -1021,7 +1021,7 @@ Sempre
 ```
 Crosshair display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pantalla Punt de mira
 ```
@@ -1031,7 +1031,7 @@ Pantalla Punt de mira
 ```
 Coordinates window
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Finestra de Coordenades
 ```
@@ -1041,7 +1041,7 @@ Finestra de Coordenades
 ```
 Lat:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lat:
 ```
@@ -1051,7 +1051,7 @@ Lat:
 ```
 Lng:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 LNG:
 ```
@@ -1061,7 +1061,7 @@ LNG:
 ```
 Marker instant adding mode
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Instantània Marcador manera afegint
 ```
@@ -1071,7 +1071,7 @@ Instantània Marcador manera afegint
 ```
 Advanced
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Avançat
 ```
@@ -1081,7 +1081,7 @@ Avançat
 ```
 Display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Visualització
 ```
@@ -1091,7 +1091,7 @@ Visualització
 ```
 Actions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Accions
 ```
@@ -1101,7 +1101,7 @@ Accions
 ```
 Language and units
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Idioma i unitats
 ```
@@ -1111,7 +1111,7 @@ Idioma i unitats
 ```
 Markers ignored on import (duplicates): %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marcadors ignorats en les importacions (duplicats): %1$d
 ```
@@ -1121,7 +1121,7 @@ Marcadors ignorats en les importacions (duplicats): %1$d
 ```
 %1$d markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d marcadors
 ```
@@ -1131,7 +1131,7 @@ translates to:
 ```
 No auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No s'auto denominació
 ```
@@ -1141,7 +1141,7 @@ No s'auto denominació
 ```
 Auto naming "number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nom automàtic "nombre"
 ```
@@ -1151,7 +1151,7 @@ Nom automàtic "nombre"
 ```
 Auto naming "Marker number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nom automàtic "nombre de marca"
 ```
@@ -1161,7 +1161,7 @@ Nom automàtic "nombre de marca"
 ```
 New marker auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nou marcador automàtic de nomenclatura
 ```
@@ -1171,7 +1171,7 @@ Nou marcador automàtic de nomenclatura
 ```
 Marker %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marcador %1$d
 ```
@@ -1181,7 +1181,7 @@ Marcador %1$d
 ```
 Waiting for location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Esperant la ubicació&#8230;
 ```
@@ -1191,7 +1191,7 @@ Esperant la ubicació&#8230;
 ```
 Open the help page and see the FAQ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Obriu la pàgina d'ajuda i consulti les preguntes freqüents
 ```
@@ -1201,7 +1201,7 @@ Obriu la pàgina d'ajuda i consulti les preguntes freqüents
 ```
 Features
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Característiques
 ```
@@ -1211,7 +1211,7 @@ Característiques
 ```
 View the list of upcoming features for the next app version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Veure la llista de les properes funcions per a la propera versió de l'aplicació
 ```
@@ -1221,7 +1221,7 @@ Veure la llista de les properes funcions per a la propera versió de l'aplicaci�
 ```
 Help &amp; Feedback
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ajuda i Comentaris
 ```
@@ -1231,7 +1231,7 @@ Ajuda i Comentaris
 ```
 About
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sobre
 ```
@@ -1241,7 +1241,7 @@ Sobre
 ```
 Distance to %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Distància a %1$s
 ```
@@ -1251,7 +1251,7 @@ Distància a %1$s
 ```
 Snapshot
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Instantània
 ```
@@ -1261,7 +1261,7 @@ Instantània
 ```
 Share a snapshot of the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Comparteix una instantània del mapa
 ```
@@ -1271,7 +1271,7 @@ Comparteix una instantània del mapa
 ```
 All markers and folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tots els marcadors i carpetes
 ```
@@ -1281,7 +1281,7 @@ Tots els marcadors i carpetes
 ```
 <![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Per tal d'obtenir la direcció nord adequat per al compàs, cal calibrar el telèfon correctament. &lt;br&gt; Per calibrar el seu telèfon, només ha de moure dibuixant agost 1 . El moviment ha de ser àmplia i repetida 3 vegades per a una major eficàcia. &lt;br&gt; Vostè pot calibrar telèfon al fer això en qualsevol moment. &lt;/ b&gt; a La calibratge té les seves limitacions i podria no ser suficient per contrarestar les interferències properes com: &lt;br&gt; • objectes metàl·lics grans &lt;br&gt; dispositius electrònics • &lt;br&gt; • imants &lt;br&gt; • l'interior d'un cotxe / autobús / tren / avió &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -1291,7 +1291,7 @@ translates to:
 ```
 Badges
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Insígnies
 ```
@@ -1301,7 +1301,7 @@ Insígnies
 ```
 Buy a donation badge
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Comprar una insígnia donació
 ```
@@ -1311,7 +1311,7 @@ Comprar una insígnia donació
 ```
 Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gràcies per la seva donació! Aquesta donació subvencions insígnia que accedeix a la prima :-)
 ```
@@ -1321,7 +1321,7 @@ Gràcies per la seva donació! Aquesta donació subvencions insígnia que accede
 ```
 Default folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Carpeta per defecte
 ```
@@ -1331,7 +1331,7 @@ Carpeta per defecte
 ```
 Sync options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opcions de sincronització
 ```
@@ -1341,7 +1341,7 @@ Opcions de sincronització
 ```
 Google Drive
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Google Drive
 ```
@@ -1351,7 +1351,7 @@ Google Drive
 ```
 Dropbox
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dropbox
 ```
@@ -1361,7 +1361,7 @@ Dropbox
 ```
 Configuring&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Configuració&#8230;
 ```
@@ -1371,7 +1371,7 @@ Configuració&#8230;
 ```
 Sync now
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sincronitza ara
 ```
@@ -1381,7 +1381,7 @@ Sincronitza ara
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mai
 ```
@@ -1391,7 +1391,7 @@ Mai
 ```
 Syncing…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sincronització&#8230;
 ```
@@ -1401,7 +1401,7 @@ Sincronització&#8230;
 ```
 Select folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Selecció d'una carpeta
 ```
@@ -1411,7 +1411,7 @@ Selecció d'una carpeta
 ```
 Load error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Error de càrrega
 ```
@@ -1421,7 +1421,7 @@ Error de càrrega
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Torni a intentar
 ```
@@ -1431,7 +1431,7 @@ Torni a intentar
 ```
 Root
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Arrel
 ```
@@ -1441,7 +1441,7 @@ Arrel
 ```
 Shared
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Compartit
 ```
@@ -1451,7 +1451,7 @@ Compartit
 ```
 Purchase successful!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Compra èxit!
 ```
@@ -1461,7 +1461,7 @@ Compra èxit!
 ```
 Purchase failed: %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Compra %1$s
 ```
@@ -1471,7 +1471,7 @@ Compra %1$s
 ```
 Premium access available! You currently have access to premium features.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Accés premium disponibles! Actualment tens accés a funcions avançades.
 ```
@@ -1481,7 +1481,7 @@ Accés premium disponibles! Actualment tens accés a funcions avançades.
 ```
 You cannot select that folder because it contains multiple files named %1$s. The sync requires the folder to contain only one file with that name.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No es pot seleccionar aquesta carpeta, ja que conté múltiples fitxers amb el %1$s La sincronització requereix la carpeta que conté només un fitxer amb aquest nom.
 ```
@@ -1491,7 +1491,7 @@ No es pot seleccionar aquesta carpeta, ja que conté múltiples fitxers amb el %
 ```
 It seems sync data already exists in that folder. If you select that folder, your local data will be merged with the folder data when sync is performed. Is that what you want?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sembla dades de sincronització ja existeix en aquesta carpeta. Si seleccioneu la carpeta, les dades locals es fusionaran amb les dades de la carpeta quan es realitza sincronització. És això el que vols?
 ```
@@ -1501,7 +1501,7 @@ Sembla dades de sincronització ja existeix en aquesta carpeta. Si seleccioneu l
 ```
 File options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opcions d'arxiu
 ```
@@ -1511,7 +1511,7 @@ Opcions d'arxiu
 ```
 Cloud sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Núvol de sincronització
 ```
@@ -1521,7 +1521,7 @@ Núvol de sincronització
 ```
 Sync this map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sincronitza aquest arxiu la correspondència en el núvol
 ```
@@ -1531,7 +1531,7 @@ Sincronitza aquest arxiu la correspondència en el núvol
 ```
 Map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Arxiu de mapa
 ```
@@ -1541,7 +1541,7 @@ Arxiu de mapa
 ```
 Create local map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Crear mapa local
 ```
@@ -1551,7 +1551,7 @@ Crear mapa local
 ```
 Create a new map file locally
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Crear un nou arxiu de mapa local
 ```
@@ -1561,7 +1561,7 @@ Crear un nou arxiu de mapa local
 ```
 Create cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Crear un mapa de núvols
 ```
@@ -1571,7 +1571,7 @@ Crear un mapa de núvols
 ```
 Create a map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Crear un arxiu de mapa en el núvol
 ```
@@ -1581,7 +1581,7 @@ Crear un arxiu de mapa en el núvol
 ```
 Retrieves changes from the cloud and sends local changes to the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Recupera els canvis des del núvol i envia els canvis locals al núvol
 ```
@@ -1591,7 +1591,7 @@ Recupera els canvis des del núvol i envia els canvis locals al núvol
 ```
 Rename
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Canviar el nom
 ```
@@ -1601,7 +1601,7 @@ Canviar el nom
 ```
 Rename the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Canvieu el nom del mapa
 ```
@@ -1611,7 +1611,7 @@ Canvieu el nom del mapa
 ```
 Enter new name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Introduïu el nou nom
 ```
@@ -1621,7 +1621,7 @@ Introduïu el nou nom
 ```
 Enter the new map\'s name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Introduïu el nou nom del mapa
 ```
@@ -1631,7 +1631,7 @@ Introduïu el nou nom del mapa
 ```
 %1$d folders, %2$d markers, size: %3$d KB
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d %2$d marcadors, %3$d KB
 ```
@@ -1641,7 +1641,7 @@ translates to:
 ```
 Create new folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Crea una carpeta
 ```
@@ -1651,7 +1651,7 @@ Crea una carpeta
 ```
 Could not create folder: name empty
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No s'ha pogut crear la carpeta: nom buit
 ```
@@ -1661,7 +1661,7 @@ No s'ha pogut crear la carpeta: nom buit
 ```
 Could not create folder: error occurred
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No s'ha pogut crear la carpeta: S'ha produït l'error
 ```
@@ -1671,7 +1671,7 @@ No s'ha pogut crear la carpeta: S'ha produït l'error
 ```
 Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gràcies per adquirir Map Marker actualització :-)
 ```
@@ -1681,7 +1681,7 @@ Gràcies per adquirir Map Marker actualització :-)
 ```
 Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gràcies per proves del seu interès per reclamar la seva Map Marker :-)
 ```
@@ -1691,7 +1691,7 @@ Gràcies per proves del seu interès per reclamar la seva Map Marker :-)
 ```
 Premium
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Prima
 ```
@@ -1701,7 +1701,7 @@ Prima
 ```
 Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Actualització a la prima i treure el màxim profit Map Marker característiques!
 ```
@@ -1711,7 +1711,7 @@ Actualització a la prima i treure el màxim profit Map Marker característiques
 ```
 Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ho sentim, però necessita l'actualització premium per accedir a aquesta informació. Actualització a la prima i treure el màxim profit Map Marker característiques!
 ```
@@ -1721,7 +1721,7 @@ Ho sentim, però necessita l'actualització premium per accedir a aquesta inform
 ```
 You have the premium upgrade for free! You can still purchase it if you want to show your support :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vostè té l'actualització premium de forma gratuïta! Vostè encara pot comprar si vol mostrar el seu :-)
 ```
@@ -1731,7 +1731,7 @@ Vostè té l'actualització premium de forma gratuïta! Vostè encara pot compra
 ```
 Purchase the premium upgrade
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Compra l'actualització premium
 ```
@@ -1741,7 +1741,7 @@ Compra l'actualització premium
 ```
 My Google account already has premium access, activate it!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 El meu compte de Google ja té accés premium, activar!
 ```
@@ -1751,7 +1751,7 @@ El meu compte de Google ja té accés premium, activar!
 ```
 Troubleshooting
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Solució de problemes
 ```
@@ -1761,7 +1761,7 @@ Solució de problemes
 ```
 Open a list of actions to solve possible problems
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Obriu una llista d'accions per resoldre els possibles problemes
 ```
@@ -1771,7 +1771,7 @@ Obriu una llista d'accions per resoldre els possibles problemes
 ```
 Test internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Internet Prova
 ```
@@ -1781,7 +1781,7 @@ Internet Prova
 ```
 Checks that the app has access to internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Comprova que l'aplicació té accés a internet
 ```
@@ -1791,7 +1791,7 @@ Comprova que l'aplicació té accés a internet
 ```
 Test file writing
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 L'escriptura d'arxius de prova
 ```
@@ -1801,7 +1801,7 @@ L'escriptura d'arxius de prova
 ```
 Checks that the app can save files on the internal SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Comprova que l'aplicació pot guardar arxius a la targeta SD interna
 ```
@@ -1811,7 +1811,7 @@ Comprova que l'aplicació pot guardar arxius a la targeta SD interna
 ```
 GP Services (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Serveis GP (app)
 ```
@@ -1821,7 +1821,7 @@ Serveis GP (app)
 ```
 Open the details of the currently installed Google Play Services app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Obriu els detalls dels actualment Google Play Services aplicació
 ```
@@ -1831,7 +1831,7 @@ Obriu els detalls dels actualment Google Play Services aplicació
 ```
 GP Services (store)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Serveis GP (la botiga)
 ```
@@ -1841,7 +1841,7 @@ Serveis GP (la botiga)
 ```
 Google Play (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Google Play (app)
 ```
@@ -1851,7 +1851,7 @@ Google Play (app)
 ```
 Contact support
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Contactar amb el suport
 ```
@@ -1861,7 +1861,7 @@ Contactar amb el suport
 ```
 Write an email to support with the details of your problem
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Escriure email per donar suport amb els detalls del seu problema
 ```
@@ -1871,7 +1871,7 @@ Escriure email per donar suport amb els detalls del seu problema
 ```
 Device network unavailable
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dispositiu de xarxa no disponible
 ```
@@ -1881,7 +1881,7 @@ Dispositiu de xarxa no disponible
 ```
 Testing&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Proves&#8230;
 ```
@@ -1891,7 +1891,7 @@ Proves&#8230;
 ```
 Network test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Prova de la xarxa va tenir èxit
 ```
@@ -1901,7 +1901,7 @@ Prova de la xarxa va tenir èxit
 ```
 Network test failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Prova de xarxa fracassar
 ```
@@ -1911,7 +1911,7 @@ Prova de xarxa fracassar
 ```
 Disk test failed: could not write to internal storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Prova de disc amb errors: no es va poder escriure en l'emmagatzematge intern
 ```
@@ -1921,7 +1921,7 @@ Prova de disc amb errors: no es va poder escriure en l'emmagatzematge intern
 ```
 Disk test failed: could not write to external storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Prova de disc amb errors: no es va poder escriure en emmagatzematge extern
 ```
@@ -1931,7 +1931,7 @@ Prova de disc amb errors: no es va poder escriure en emmagatzematge extern
 ```
 Disk test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Prova de disc va tenir èxit
 ```
@@ -1941,7 +1941,7 @@ Prova de disc va tenir èxit
 ```
 App failed to start: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aplicació no va poder %s
 ```
@@ -1951,7 +1951,7 @@ Aplicació no va poder %s
 ```
 The file does not exist
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 El fitxer no existeix
 ```
@@ -1961,7 +1961,7 @@ El fitxer no existeix
 ```
 Share cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Compartir núvol mapa
 ```
@@ -1971,7 +1971,7 @@ Compartir núvol mapa
 ```
 Open the cloud map folder to view its properties and share it with other people
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Obriu la carpeta del mapa de núvols per veure les seves propietats i compartir-la amb altres persones
 ```
@@ -1981,7 +1981,7 @@ Obriu la carpeta del mapa de núvols per veure les seves propietats i compartir-
 ```
 Internal file to SD
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Arxiu intern a SD
 ```
@@ -1991,7 +1991,7 @@ Arxiu intern a SD
 ```
 Copy the app hidden internal files to the sdcard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ISBN aplicació arxius interns ocults a la sdcard
 ```
@@ -2001,7 +2001,7 @@ ISBN aplicació arxius interns ocults a la sdcard
 ```
 Enter destination folder path
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Introduïu carpeta de ruta de destinació
 ```
@@ -2011,7 +2011,7 @@ Introduïu carpeta de ruta de destinació
 ```
 Could not create folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No s'ha pogut crear la carpeta
 ```
@@ -2021,7 +2021,7 @@ No s'ha pogut crear la carpeta
 ```
 Files successfully saved to: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Els arxius guardats amb èxit %s
 ```
@@ -2031,7 +2031,7 @@ Els arxius guardats amb èxit %s
 ```
 View history/Restore
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Veure l'historial / Restore
 ```
@@ -2041,7 +2041,7 @@ Veure l'historial / Restore
 ```
 View history of modifications to the cloud folder and select a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Veure historial de modificacions a la carpeta del núvol i seleccionar una versió per restaurar
 ```
@@ -2051,7 +2051,7 @@ Veure historial de modificacions a la carpeta del núvol i seleccionar una versi
 ```
 Create map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Crea un fitxer de mapa
 ```
@@ -2061,7 +2061,7 @@ Crea un fitxer de mapa
 ```
 Create a new map file locally or on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Crear un nou arxiu de mapa de forma local o al núvol
 ```
@@ -2071,7 +2071,7 @@ Crear un nou arxiu de mapa de forma local o al núvol
 ```
 Open cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Obrir mapa núvol
 ```
@@ -2081,7 +2081,7 @@ Obrir mapa núvol
 ```
 Open a map file from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Obriu un arxiu de mapa del núvol
 ```
@@ -2091,7 +2091,7 @@ Obriu un arxiu de mapa del núvol
 ```
 Map Marker needs the permission to access your location in order to display it on the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker necessita el permís per accedir a la seva ubicació per tal de mostrar al mapa
 ```
@@ -2101,7 +2101,7 @@ Map Marker necessita el permís per accedir a la seva ubicació per tal de mostr
 ```
 Map Marker needs the permission to access to the storage of your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker necessita el permís per accedir a la memòria del seu dispositiu
 ```
@@ -2111,7 +2111,7 @@ Map Marker necessita el permís per accedir a la memòria del seu dispositiu
 ```
 Open settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ajustos d'Oberts
 ```
@@ -2121,7 +2121,7 @@ Ajustos d'Oberts
 ```
 No map folder found on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No carpeta del mapa es troba en el núvol
 ```
@@ -2131,7 +2131,7 @@ No carpeta del mapa es troba en el núvol
 ```
 Auto sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sincronització automàtica
 ```
@@ -2141,7 +2141,7 @@ Sincronització automàtica
 ```
 Choose a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Trieu una versió per restaurar
 ```
@@ -2151,7 +2151,7 @@ Trieu una versió per restaurar
 ```
 You must sync first before restoring an older version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vostè ha de sincronitzar primer abans de restaurar una versió anterior
 ```
@@ -2161,7 +2161,7 @@ Vostè ha de sincronitzar primer abans de restaurar una versió anterior
 ```
 Are you sure you want to restore this version?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Esteu segur que voleu restaurar aquesta versió?
 ```
@@ -2171,7 +2171,7 @@ Esteu segur que voleu restaurar aquesta versió?
 ```
 Map Marker lost permissions to write to your cloud account. Sync will always fail until this is fixed. Do you want to fix it now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker permisos perduts per escriure en el seu compte del núvol. Sincronitzar sempre fallarà fins que es solucioni. Vols arreglar ara?
 ```
@@ -2181,7 +2181,7 @@ Map Marker permisos perduts per escriure en el seu compte del núvol. Sincronitz
 ```
 A sync error occurred. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 S'ha produït un error de sincronització. Siusplau torna-ho a provar.
 ```
@@ -2191,7 +2191,7 @@ S'ha produït un error de sincronització. Siusplau torna-ho a provar.
 ```
 A sync error occurred: network error. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 S'ha produït un error de sincronització: error de xarxa. Siusplau torna-ho a provar.
 ```
@@ -2201,7 +2201,7 @@ S'ha produït un error de sincronització: error de xarxa. Siusplau torna-ho a p
 ```
 A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 S'ha produït un error de sincronització: el conflicte, un altre dispositiu estava realitzant la sincronització a la vegada. Siusplau torna-ho a provar.
 ```
@@ -2211,7 +2211,7 @@ S'ha produït un error de sincronització: el conflicte, un altre dispositiu est
 ```
 Changes are available from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Els canvis estan disponibles des del núvol
 ```
@@ -2221,7 +2221,7 @@ Els canvis estan disponibles des del núvol
 ```
 Changes made from another device were synced on the cloud. You can retrieve those changes by syncing.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Els canvis realitzats des d'un altre dispositiu es sincronitzen en el núvol. Pot recuperar aquests canvis mitjançant la sincronització.
 ```
@@ -2231,7 +2231,7 @@ Els canvis realitzats des d'un altre dispositiu es sincronitzen en el núvol. Po
 ```
 Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for details on how to restore cloud permissions.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Error al restaurar els permisos d'emmagatzematge en el núvol. Si us plau, consulteu la secció "Quant a" -&gt; "Preguntes més freqüents" per obtenir més informació sobre com restaurar els permisos en el núvol.
 ```
@@ -2241,7 +2241,7 @@ Error al restaurar els permisos d'emmagatzematge en el núvol. Si us plau, consu
 ```
 A sync error occurred: duplicate index, there are at least two files named index.json in the map cloud folder. Remove the duplicates manually and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 S'ha produït un error de sincronització: duplicar l'índex, hi ha almenys dos arxius denominats index.json a la carpeta del mapa núvol. Traieu els duplicats manualment i torneu a intentar.
 ```
@@ -2251,7 +2251,7 @@ S'ha produït un error de sincronització: duplicar l'índex, hi ha almenys dos 
 ```
 Phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Número de telèfon
 ```
@@ -2261,7 +2261,7 @@ Número de telèfon
 ```
 Edit phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Número de telèfon Edita
 ```
@@ -2271,7 +2271,7 @@ Número de telèfon Edita
 ```
 Map Marker needs the permission to make calls on your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker necessita permís per realitzar trucades en el dispositiu
 ```
@@ -2281,7 +2281,7 @@ Map Marker necessita permís per realitzar trucades en el dispositiu
 ```
 No phone number is defined for that marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 N Número de telèfon està definit per a aquest marcador
 ```
@@ -2291,7 +2291,7 @@ N Número de telèfon està definit per a aquest marcador
 ```
 Navigation options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opcions de navegació
 ```
@@ -2301,7 +2301,7 @@ Opcions de navegació
 ```
 Open the marker location in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Obriu la ubicació del marcador en aquesta aplicació
 ```
@@ -2311,7 +2311,7 @@ Obriu la ubicació del marcador en aquesta aplicació
 ```
 Open the marker street view in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Obriu la vista del carrer marcador en aquesta aplicació
 ```
@@ -2321,7 +2321,7 @@ Obriu la vista del carrer marcador en aquesta aplicació
 ```
 Enter navigation mode in this app to get directions to the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Entre en la manera de navegació en aquesta aplicació per obtenir instruccions per arribar al marcador
 ```
@@ -2331,7 +2331,7 @@ Entre en la manera de navegació en aquesta aplicació per obtenir instruccions 
 ```
 Other options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Altres opcions
 ```
@@ -2341,7 +2341,7 @@ Altres opcions
 ```
 Share the selected marker as plain text into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Comparteix el marcador seleccionat com a text sense format en una altra aplicació
 ```
@@ -2351,7 +2351,7 @@ Comparteix el marcador seleccionat com a text sense format en una altra aplicaci
 ```
 %1$d markers in %2$d folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d marcadors %2$d carpetes
 ```
@@ -2361,7 +2361,7 @@ translates to:
 ```
 A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 S'ha produït un error de sincronització: les dades del núvol s'ha actualitzat amb una versió més recent de l'aplicació. Ha Map Marker en aquest dispositiu per sincronitzar.
 ```
@@ -2371,7 +2371,7 @@ S'ha produït un error de sincronització: les dades del núvol s'ha actualitzat
 ```
 Could not find a phone app on this device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No s'ha pogut trobar una aplicació de telèfon d'aquest dispositiu.
 ```
@@ -2381,7 +2381,7 @@ No s'ha pogut trobar una aplicació de telèfon d'aquest dispositiu.
 ```
 Phone number options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opcions de número de telèfon
 ```
@@ -2391,7 +2391,7 @@ Opcions de número de telèfon
 ```
 Call phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Número de telèfon de trucada
 ```
@@ -2401,7 +2401,7 @@ Número de telèfon de trucada
 ```
 Dial phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marqueu el número de telèfon
 ```
@@ -2411,7 +2411,7 @@ Marqueu el número de telèfon
 ```
 Text phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Número de telèfon de text
 ```
@@ -2421,7 +2421,7 @@ Número de telèfon de text
 ```
 Default navigation action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Acció de navegació per defecte
 ```
@@ -2431,7 +2431,7 @@ Acció de navegació per defecte
 ```
 Default phone action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Acció de telèfon predeterminat
 ```
@@ -2441,7 +2441,7 @@ Acció de telèfon predeterminat
 ```
 Ask
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pregunti
 ```
@@ -2451,7 +2451,7 @@ Pregunti
 ```
 Premium free trial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 prova gratuïta d'alta qualitat
 ```
@@ -2461,7 +2461,7 @@ prova gratuïta d'alta qualitat
 ```
 What is the premium upgrade?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Quina és l'actualització de la prima?
 ```
@@ -2471,7 +2471,7 @@ Quina és l'actualització de la prima?
 ```
 Premium free trial started! The trial will expire at the following date: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 prova gratuïta prima començar! L'assaig expirarà en la data següent: %s
 ```
@@ -2482,7 +2482,7 @@ prova gratuïta prima començar! L'assaig expirarà en la data següent: %s
 Trial expiration:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Caducitat de la prova: 
  %s
@@ -2493,7 +2493,7 @@ Caducitat de la prova:
 ```
 Trial expired
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 prova caducada
 ```
@@ -2503,7 +2503,7 @@ prova caducada
 ```
 Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sincronització s'ha cancel·lat: es necessita l'actualització de la prima per tal de realitzar la sincronització.
 ```
@@ -2513,7 +2513,7 @@ Sincronització s'ha cancel·lat: es necessita l'actualització de la prima per 
 ```
 Error: trial starting in the future!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Error: la partida de prova en el futur!
 ```
@@ -2523,7 +2523,7 @@ Error: la partida de prova en el futur!
 ```
 Thank you for your purchase!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gràcies per la seva compra!
 ```
@@ -2533,7 +2533,7 @@ Gràcies per la seva compra!
 ```
 Browse
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 explorar
 ```
@@ -2543,7 +2543,7 @@ explorar
 ```
 Organize
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 organitzar
 ```
@@ -2553,7 +2553,7 @@ organitzar
 ```
 Create
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Crear
 ```
@@ -2563,7 +2563,7 @@ Crear
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 tornar a intentar
 ```
@@ -2573,7 +2573,7 @@ tornar a intentar
 ```
 Search failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cercar va fallar
 ```
@@ -2583,7 +2583,7 @@ Cercar va fallar
 ```
 Search failed, network error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cercar fallat, error de xarxa
 ```
@@ -2593,7 +2593,7 @@ Cercar fallat, error de xarxa
 ```
 Details
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Detalls
 ```
@@ -2603,7 +2603,7 @@ Detalls
 ```
 Sync error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 error de sincronització
 ```
@@ -2613,7 +2613,7 @@ error de sincronització
 ```
 The file already exists, do you want to overwrite it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 El fitxer ja existeix, voleu sobreescriure 'l?
 ```
@@ -2623,7 +2623,7 @@ El fitxer ja existeix, voleu sobreescriure 'l?
 ```
 Copy markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Copiar a la carpeta de punts
 ```
@@ -2633,7 +2633,7 @@ Copiar a la carpeta de punts
 ```
 Error loading the Google Map component. Please restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Error en carregar els Google Map component. Si us plau, reinicieu l'aplicació.
 ```
@@ -2643,7 +2643,7 @@ Error en carregar els Google Map component. Si us plau, reinicieu l'aplicació.
 ```
 You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Veureu la llista dels seus marcadors aquí. Actualment no té marcadors a la carpeta (s) seleccionada. Podeu afegir un nou marcador fent clic al botó de sota.
 ```
@@ -2653,7 +2653,7 @@ Veureu la llista dels seus marcadors aquí. Actualment no té marcadors a la car
 ```
 No search results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No hi ha resultats de la recerca
 ```
@@ -2663,7 +2663,7 @@ No hi ha resultats de la recerca
 ```
 Open Street Map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Open Street Map
 ```
@@ -2673,7 +2673,7 @@ Open Street Map
 ```
 Bing Road
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Road
 ```
@@ -2683,7 +2683,7 @@ Bing Road
 ```
 Bing Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial
 ```
@@ -2693,7 +2693,7 @@ Bing Aerial
 ```
 Bing Aerial With Labels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial amb etiquetes
 ```
@@ -2703,7 +2703,7 @@ Bing Aerial amb etiquetes
 ```
 ArcGIS Server
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ArcGIS Server
 ```
@@ -2713,7 +2713,7 @@ ArcGIS Server
 ```
 Offline maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 mapes sense connexió
 ```
@@ -2723,7 +2723,7 @@ mapes sense connexió
 ```
 No folder selected
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No hi ha cap carpeta seleccionada
 ```
@@ -2733,7 +2733,7 @@ No hi ha cap carpeta seleccionada
 ```
 Storage folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 carpeta d'emmagatzematge
 ```
@@ -2744,7 +2744,7 @@ carpeta d'emmagatzematge
 Test results of the offline maps folder:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Els resultats de l'examen de la carpeta de mapes en línia: 
  %s
@@ -2755,7 +2755,7 @@ Els resultats de l'examen de la carpeta de mapes en línia:
 ```
 No folder is selected for offline map files. In order to use offline maps, open the settings and select a folder for offline map files.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No hi ha cap carpeta es selecciona de mapa d'arxius sense connexió. Per tal d'utilitzar els mapes fora de línia, obriu la configuració i seleccioneu una carpeta d'arxius de mapes fora de línia.
 ```
@@ -2765,7 +2765,7 @@ No hi ha cap carpeta es selecciona de mapa d'arxius sense connexió. Per tal d'u
 ```
 The selected offline map folder you selected contains no files. Make sure you add the offline map files in that folder before using offline maps, otherwise the map will be empty.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 El mapa de carpetes sense connexió seleccionada que ha seleccionat no conté arxius. Assegureu-vos d'afegir els arxius de mapes fora de línia en aquesta carpeta abans d'usar mapes fora de línia, en cas contrari el mapa estarà buida.
 ```
@@ -2775,7 +2775,7 @@ El mapa de carpetes sense connexió seleccionada que ha seleccionat no conté ar
 ```
 Success: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Èxit: %s
 ```
@@ -2785,7 +2785,7 @@ translates to:
 ```
 Failed: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Error: %s
 ```
@@ -2795,7 +2795,7 @@ Error: %s
 ```
 How to do it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Com fer-ho?
 ```
@@ -2805,7 +2805,7 @@ Com fer-ho?
 ```
 Click here to open the web page explaining how to obtain those maps.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Feu clic aquí per obrir la pàgina web que explica com obtenir aquests mapes.
 ```
@@ -2815,7 +2815,7 @@ Feu clic aquí per obrir la pàgina web que explica com obtenir aquests mapes.
 ```
 Credits
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 crèdits
 ```
@@ -2825,7 +2825,7 @@ crèdits
 ```
 Copyright and legal mentions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Els drets d'autor i mencions legals
 ```
@@ -2837,7 +2837,7 @@ Legal mentions for other map data than Google Maps:
 
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mencions legals per a altres dades dels mapes que Google Maps : 
  
@@ -2849,7 +2849,7 @@ Mencions legals per a altres dades dels mapes que Google Maps :
 ```
 Disable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Desactivar error de bolcat en un arxiu
 ```
@@ -2859,7 +2859,7 @@ Desactivar error de bolcat en un arxiu
 ```
 Disable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Desactivació de l'escriptura errors d'aplicacions en un arxiu a la targeta SD
 ```
@@ -2869,7 +2869,7 @@ Desactivació de l'escriptura errors d'aplicacions en un arxiu a la targeta SD
 ```
 Enable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Habilitar error de bolcat en un arxiu
 ```
@@ -2879,7 +2879,7 @@ Habilitar error de bolcat en un arxiu
 ```
 Enable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Habilitar errors de gravació d'aplicacions en un arxiu a la targeta SD
 ```
@@ -2889,7 +2889,7 @@ Habilitar errors de gravació d'aplicacions en un arxiu a la targeta SD
 ```
 Start background sync…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Inicia la sincronització en segon pla&#8230;
 ```
@@ -2899,7 +2899,7 @@ Inicia la sincronització en segon pla&#8230;
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 mai
 ```
@@ -2909,7 +2909,7 @@ mai
 ```
 When app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Quan entra en aplicació el fons
 ```
@@ -2919,7 +2919,7 @@ Quan entra en aplicació el fons
 ```
 %d seconds after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d segons després de l'aplicació entra en el fons
 ```
@@ -2929,7 +2929,7 @@ translates to:
 ```
 %d minutes after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d minuts després de l'aplicació entra en el fons
 ```
@@ -2939,7 +2939,7 @@ translates to:
 ```
 Sync starting in %d seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sincronització a partir de %d segons
 ```
@@ -2949,7 +2949,7 @@ Sincronització a partir de %d segons
 ```
 You can cancel the sync at any time and your data will be synced on next attempt.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 És possible cancel·lar la sincronització en qualsevol moment i les seves dades es sincronitzaran en el següent intent.
 ```
@@ -2959,7 +2959,7 @@ translates to:
 ```
 Press back again to exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Premeu de nou per sortir
 ```
@@ -2969,7 +2969,7 @@ Premeu de nou per sortir
 ```
 Cannot start sync with no internet access on the device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No es pot iniciar la sincronització sense accés a Internet al dispositiu.
 ```
@@ -2979,7 +2979,7 @@ No es pot iniciar la sincronització sense accés a Internet al dispositiu.
 ```
 Manage map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Maneig d'arxius de mapes
 ```
@@ -2989,7 +2989,7 @@ Maneig d'arxius de mapes
 ```
 Map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Els arxius de mapes
 ```
@@ -2999,7 +2999,7 @@ Els arxius de mapes
 ```
 Delete map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eliminar arxiu de mapa
 ```
@@ -3009,7 +3009,7 @@ Eliminar arxiu de mapa
 ```
 This action will delete the map file from this device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aquesta acció eliminarà l'arxiu de mapa d'aquest dispositiu
 ```
@@ -3019,7 +3019,7 @@ Aquesta acció eliminarà l'arxiu de mapa d'aquest dispositiu
 ```
 This action will delete the map file from your device forever. All the markers inside that file will be lost. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aquesta acció eliminarà l'arxiu de mapa de la seva dispositiu sempre. Es perdran tots els marcadors dins aquest arxiu. Estàs segur?
 ```
@@ -3029,7 +3029,7 @@ Aquesta acció eliminarà l'arxiu de mapa de la seva dispositiu sempre. Es perdr
 ```
 This action will delete the map file from your device forever. All changes not yet synced to the cloud will be lost. The cloud folder will not be affected by this action and you will have to delete it manually. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aquesta acció eliminarà l'arxiu de mapa de la seva dispositiu sempre. Tots els canvis encara no se sincronitzen amb el núvol es perdran. La carpeta de núvol no es veuran afectats per aquesta acció i vostè haurà de eliminar manualment. Estàs segur?
 ```
@@ -3039,7 +3039,7 @@ Aquesta acció eliminarà l'arxiu de mapa de la seva dispositiu sempre. Tots els
 ```
 Map file successfully deleted
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 arxiu de mapa eliminat correctament
 ```
@@ -3049,7 +3049,7 @@ arxiu de mapa eliminat correctament
 ```
 Could not delete map file: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No s'ha pogut suprimir arxiu de mapa: %s
 ```
@@ -3059,7 +3059,7 @@ No s'ha pogut suprimir arxiu de mapa: %s
 ```
 Marker saved in a non visible folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marcador guarda en una carpeta no visible
 ```
@@ -3069,7 +3069,7 @@ Marcador guarda en una carpeta no visible
 ```
 Your changes have not been synced recently. Make sure you keep your cloud copy up to date. Do you want to sync now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Els canvis no s'han sincronitzat recentment. Assegureu-vos de mantenir la seva còpia del núvol fins a la data. Vols sincronitzar ara?
 ```
@@ -3079,7 +3079,7 @@ Els canvis no s'han sincronitzat recentment. Assegureu-vos de mantenir la seva c
 ```
 The markers of this map file are currently only saved on this device. It is recommended to save your markers on the cloud to avoid losing them. Do you want to save them to the cloud now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Els marcadors d'aquest arxiu de mapa en l'actualitat només es guarden en aquest dispositiu. Es recomana guardar els marcadors en el núvol per evitar perdre'ls. Vols guardar-los en el núvol ara?
 ```
@@ -3089,7 +3089,7 @@ Els marcadors d'aquest arxiu de mapa en l'actualitat només es guarden en aquest
 ```
 Do you want to sync this map file? With manual you will need to sync manually every time. With automatic (recommended) you will select a destination cloud folder and the sync to the cloud will start automatically every time the app enters background.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vols sincronitzar aquest fitxer de mapa? Amb manual haurà de sincronitzar manualment cada vegada. Amb automàtica (recomanat) haurà de triar una carpeta de destinació i el núvol de sincronització en el núvol s'iniciarà automàticament cada vegada que l'aplicació entra en el fons.
 ```
@@ -3099,7 +3099,7 @@ Vols sincronitzar aquest fitxer de mapa? Amb manual haurà de sincronitzar manua
 ```
 Automatic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 automàtic
 ```
@@ -3109,7 +3109,7 @@ automàtic
 ```
 Manual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 manual
 ```
@@ -3119,7 +3119,7 @@ manual
 ```
 You can sync a map file on the cloud at any time by clicking on the map file in the side bar and then choosing the "Cloud sync" option.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Podeu sincronitzar un arxiu de mapa en el núvol en qualsevol moment fent clic a l'arxiu de mapa a la barra lateral i després triar l'opció "Núvol de sincronització".
 ```
@@ -3129,7 +3129,7 @@ Podeu sincronitzar un arxiu de mapa en el núvol en qualsevol moment fent clic a
 ```
 You can sync a map file manually to the cloud at any time by clicking the "share" button in the main action bar, and then "Other options" and then "All markers and folders" and then by selecting your favorite cloud storage app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Podeu sincronitzar un arxiu de mapa manualment al núvol en qualsevol moment fent clic al botó "compartir" a la barra d'acció principal, i després "Altres opcions" i després "Tots els marcadors i carpetes" i després seleccionant la seva aplicació favorita emmagatzematge en el núvol.
 ```
@@ -3139,7 +3139,7 @@ Podeu sincronitzar un arxiu de mapa manualment al núvol en qualsevol moment fen
 ```
 Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mou el mapa per col·locar els punts, feu clic a "+" per afegir un punt, feu clic a "-" per eliminar un punt i punts de commutació amb els botons anterior / següent. Finalment, feu clic a Desa per desar la forma.
 ```
@@ -3149,7 +3149,7 @@ Mou el mapa per col·locar els punts, feu clic a "+" per afegir un punt, feu cli
 ```
 There are not enough points to create the shape. Create more points and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No hi ha punts suficients per crear la forma. Crear més punts i torna a intentar-ho.
 ```
@@ -3159,7 +3159,7 @@ No hi ha punts suficients per crear la forma. Crear més punts i torna a intenta
 ```
 Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn\'t work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by email (side panel -> about -> send email).
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No s'ha pogut activar l'actualització de la prima del seu compte de Google. Si ha adquirit recentment l'actualització prima d'un altre dispositiu, és possible que hagi d'esperar una mica per a la compra de propagar, reiniciar el dispositiu podria fer-lo més ràpid. Si tot i així no funciona, comproveu que hagi adquirit, instal·lat i activat l'aplicació amb el mateix compte de Google. Si el problema persisteix, Jo t'ajudaré el millor que pugui, pot posar-se en contacte amb mi per email (panell lateral -&gt; sobre -&gt; enviar email ).
 ```
@@ -3169,7 +3169,7 @@ No s'ha pogut activar l'actualització de la prima del seu compte de Google. Si 
 ```
 Distance: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Distància: %s
 ```
@@ -3180,7 +3180,7 @@ Distància: %s
 Perimeter: %1$s
 Area: %2$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Perímetre: %1$s 
  Àrea: %2$s
@@ -3191,7 +3191,7 @@ Perímetre: %1$s
 ```
 Extra information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Més informació:
 ```
@@ -3201,7 +3201,7 @@ Més informació:
 ```
 Insert…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Insereix&#8230;
 ```
@@ -3211,7 +3211,7 @@ Insereix&#8230;
 ```
 Replace title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 reemplaçar títol
 ```
@@ -3221,7 +3221,7 @@ reemplaçar títol
 ```
 Replace description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 reemplaçar Descripció
 ```
@@ -3231,7 +3231,7 @@ reemplaçar Descripció
 ```
 Unit of distance
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Unitat de distància
 ```
@@ -3241,7 +3241,7 @@ Unitat de distància
 ```
 Unit of area
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Unitat d'àrea
 ```
@@ -3251,7 +3251,7 @@ Unitat d'àrea
 ```
 Metric (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mètric ( %s )
 ```
@@ -3261,7 +3261,7 @@ Mètric ( %s )
 ```
 Imperial (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Imperial ( %s )
 ```
@@ -3271,7 +3271,7 @@ Imperial ( %s )
 ```
 Images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 imatges
 ```
@@ -3281,7 +3281,7 @@ imatges
 ```
 Select image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Selecciona imatge
 ```
@@ -3291,7 +3291,7 @@ Selecciona imatge
 ```
 Imported images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Les imatges importades
 ```
@@ -3301,7 +3301,7 @@ Les imatges importades
 ```
 Fit in a %1$sx%2$s square
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cabre en un %1$s x %2$s quadrat
 ```
@@ -3311,7 +3311,7 @@ Cabre en un %1$s x %2$s quadrat
 ```
 Full quality
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 la qualitat total
 ```
@@ -3321,7 +3321,7 @@ la qualitat total
 ```
 Mobile data
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Les dades mòbils
 ```
@@ -3331,7 +3331,7 @@ Les dades mòbils
 ```
 Wifi
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Wifi
 ```
@@ -3341,7 +3341,7 @@ Wifi
 ```
 Disabled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 discapacitat
 ```
@@ -3351,7 +3351,7 @@ discapacitat
 ```
 Up to %s per sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fins %s per sincronització
 ```
@@ -3361,7 +3361,7 @@ Fins %s per sincronització
 ```
 Unlimited
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 il·limitat
 ```
@@ -3371,7 +3371,7 @@ il·limitat
 ```
 The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings. You can also click "force sync" to sync just one time without data volume limit.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 La sincronització s'ha cancel·lat a causa de que excedia el límit de volum de dades permesa. Per augmentar o canviar el límit, anar a la configuració. També pot fer clic a "Sync força" per sincronitzar un sol moment sense límit de volum de dades.
 ```
@@ -3381,7 +3381,7 @@ La sincronització s'ha cancel·lat a causa de que excedia el límit de volum de
 ```
 Force sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Forçar la sincronització
 ```
@@ -3391,7 +3391,7 @@ Forçar la sincronització
 ```
 This will override the usual data limit just for this one time. Force sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Això anul·larà el límit de dades habitual només per aquesta vegada. Forçar la sincronització?
 ```
@@ -3401,7 +3401,7 @@ Això anul·larà el límit de dades habitual només per aquesta vegada. Forçar
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 tornar a intentar
 ```
@@ -3411,7 +3411,7 @@ tornar a intentar
 ```
 Add image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Afegir imatge
 ```
@@ -3421,7 +3421,7 @@ Afegir imatge
 ```
 From camera
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Des de la càmera
 ```
@@ -3431,7 +3431,7 @@ Des de la càmera
 ```
 From gallery
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Des de la galeria
 ```
@@ -3441,7 +3441,7 @@ Des de la galeria
 ```
 Importing image…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Importació d'imatge&#8230;
 ```
@@ -3451,7 +3451,7 @@ Importació d'imatge&#8230;
 ```
 Offline (Mapsforge BETA)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Desconnectat ( Mapsforge BETA )
 ```
@@ -3461,7 +3461,7 @@ Desconnectat ( Mapsforge BETA )
 ```
 Exporting…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 L'exportació de&#8230;
 ```
@@ -3471,7 +3471,7 @@ L'exportació de&#8230;
 ```
 Export failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fallada d'Exportació
 ```
@@ -3481,7 +3481,7 @@ Fallada d'Exportació
 ```
 Export succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 exportació ha aconseguit
 ```
@@ -3491,7 +3491,7 @@ exportació ha aconseguit
 ```
 KMZ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KMZ
 ```
@@ -3501,7 +3501,7 @@ KMZ
 ```
 KML
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KML
 ```
@@ -3511,7 +3511,7 @@ KML
 ```
 Importing file…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 La importació d'arxius&#8230;
 ```
@@ -3521,7 +3521,7 @@ La importació d'arxius&#8230;
 ```
 Show warning icon for sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mostra icona d'advertència per a la sincronització
 ```
@@ -3531,7 +3531,7 @@ Mostra icona d'advertència per a la sincronització
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 La sincronització s'ha cancel·lat a causa de que un dels arxius multimèdia en el núvol havia desaparegut. Pot passar per alt els fitxers que falten fent clic a "força de sincronització ". Notes, fent cas omís dels arxius que falten es traduirà en l'eliminació d'ells a partir de la base de dades, el que significa que altres dispositius que encara té una còpia local de l'arxiu el eliminarà en sincronia.
 ```
@@ -3541,7 +3541,7 @@ La sincronització s'ha cancel·lat a causa de que un dels arxius multimèdia en
 ```
 This will force the sync and ignore the missing cloud files. The missing links will be removed from the database. Other devices still owning a local version of the missing cloud files will delete them upon their next sync. Data consumption limits will be ignored for this special sync. Force Sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Això obligarà a la sincronització i ignorar els arxius que falten en el núvol. Les baules perduts seran eliminats de la base de dades. Altres dispositius encara ser amo d'una versió local dels arxius que falten en el núvol serà eliminar a la seva pròxima sincronització. límits de consum de dades es tindran en compte per a aquesta sincronització especial. Força de sincronització?
 ```
@@ -3551,7 +3551,7 @@ Això obligarà a la sincronització i ignorar els arxius que falten en el núvo
 ```
 Marker media files ignored on import: %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Arxius multimèdia marcadors ignorats en la importació: %1$d
 ```
@@ -3561,7 +3561,7 @@ Arxius multimèdia marcadors ignorats en la importació: %1$d
 ```
 Checking premium status…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Comprovació de l'estat de la prima&#8230;
 ```
@@ -3571,7 +3571,7 @@ Comprovació de l'estat de la prima&#8230;
 ```
 General
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 General
 ```
@@ -3581,7 +3581,7 @@ General
 ```
 Toilets
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 banys
 ```
@@ -3591,7 +3591,7 @@ banys
 ```
 Food
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 menjar
 ```
@@ -3601,7 +3601,7 @@ menjar
 ```
 Stores
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 botigues
 ```
@@ -3611,7 +3611,7 @@ botigues
 ```
 Land activities
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 activitats en terra
 ```
@@ -3621,7 +3621,7 @@ activitats en terra
 ```
 Water activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Activitats a l'aigua
 ```
@@ -3631,7 +3631,7 @@ Activitats a l'aigua
 ```
 Winter activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Activitats a l'hivern
 ```
@@ -3641,7 +3641,7 @@ Activitats a l'hivern
 ```
 Transport
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 transport
 ```
@@ -3651,7 +3651,7 @@ transport
 ```
 Health
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 salut
 ```
@@ -3661,7 +3661,7 @@ salut
 ```
 Entertainment
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 entreteniment
 ```
@@ -3671,7 +3671,7 @@ entreteniment
 ```
 Services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Serveis
 ```
@@ -3681,7 +3681,7 @@ Serveis
 ```
 Business
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Negocis
 ```
@@ -3691,7 +3691,7 @@ Negocis
 ```
 Government
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 govern
 ```
@@ -3701,7 +3701,7 @@ govern
 ```
 Religious
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Religiosa
 ```
@@ -3711,7 +3711,7 @@ Religiosa
 ```
 Accessibility
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 accessibilitat
 ```
@@ -3721,7 +3721,7 @@ accessibilitat
 ```
 Select icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Seleccioneu la icona
 ```
@@ -3731,7 +3731,7 @@ Seleccioneu la icona
 ```
 Icon and color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Icona i el color
 ```
@@ -3741,7 +3741,7 @@ Icona i el color
 ```
 Generic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 genèric
 ```
@@ -3751,7 +3751,7 @@ genèric
 ```
 Beta tester badge: thank you for being a beta tester! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Beta tester insígnia: gràcies per ser un beta tester! Aquest assoliment desapareixerà únicament quan la desinstal·lació de l'aplicació o esborrar les dades de l'aplicació. Aquest assoliment també li permet tenir no hi ha anuncis a l'aplicació.
 ```
@@ -3761,7 +3761,7 @@ Beta tester insígnia: gràcies per ser un beta tester! Aquest assoliment desapa
 ```
 Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 insígnia de la remissió: gràcies per convidar els seus amics a l'aplicació! Aquest assoliment desapareixerà únicament quan la desinstal·lació de l'aplicació o esborrar les dades de l'aplicació. Aquest assoliment també li permet tenir no hi ha anuncis a l'aplicació.
 ```
@@ -3771,7 +3771,7 @@ insígnia de la remissió: gràcies per convidar els seus amics a l'aplicació! 
 ```
 Referral
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 remissió
 ```
@@ -3781,7 +3781,7 @@ remissió
 ```
 Removing ads: exchange referrals credits with friends to remove ads
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 L'eliminació dels anuncis: els crèdits referits intercanvi amb els amics per evitar els anuncis
 ```
@@ -3791,7 +3791,7 @@ L'eliminació dels anuncis: els crèdits referits intercanvi amb els amics per e
 ```
 Sent credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Crèdits enviats: %s
 ```
@@ -3801,7 +3801,7 @@ Crèdits enviats: %s
 ```
 Received credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Crèdits: %s
 ```
@@ -3811,7 +3811,7 @@ Crèdits: %s
 ```
 Contribute to translations
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Contribuir a les traduccions
 ```
@@ -3821,7 +3821,7 @@ Contribuir a les traduccions
 ```
 You understand English and want to help with translations? Click here
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vostè entén Anglès i desitja ajudar amb les traduccions? Clica aquí
 ```
@@ -3831,7 +3831,7 @@ Vostè entén Anglès i desitja ajudar amb les traduccions? Clica aquí
 ```
 The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 color o la icona de la carpeta de destí és diferent. Vols actualitzar el color del marcador i la icona?
 ```
@@ -3841,7 +3841,7 @@ color o la icona de la carpeta de destí és diferent. Vols actualitzar el color
 ```
 Add color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 afegir color
 ```
@@ -3851,7 +3851,7 @@ afegir color
 ```
 <![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Què és l'actualització de la prima &lt;/ b&gt; &lt;br&gt; A la part superior dels anuncis eliminació, l'actualització prima desbloqueja les següents característiques exclusives de primera qualitat :? &lt;br&gt; • Sincronització en Google Drive o Dropbox &lt;br&gt; • Contribuir, a través de Google Drive o Dropbox &lt;br&gt; • historial de versions Mapa i restaurar &lt;br&gt; &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -3861,7 +3861,7 @@ translates to:
 ```
 Marker created from the geo location of the QR code
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marcador creat a partir de la ubicació geogràfica de el codi QR
 ```
@@ -3871,7 +3871,7 @@ Marcador creat a partir de la ubicació geogràfica de el codi QR
 ```
 Failed to read QR code as a geo location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No s'ha pogut llegir el codi QR com una ubicació geogràfica
 ```
@@ -3881,7 +3881,7 @@ No s'ha pogut llegir el codi QR com una ubicació geogràfica
 ```
 The app for scanning QR codes could not be found. Do you want to install it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 L'aplicació per rastrejar els codis QR no s'ha pogut trobar. Vols instal·lar-ho?
 ```
@@ -3891,7 +3891,7 @@ L'aplicació per rastrejar els codis QR no s'ha pogut trobar. Vols instal·lar-h
 ```
 Selection action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 acció de selecció
 ```
@@ -3901,7 +3901,7 @@ acció de selecció
 ```
 Move to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Moure cap a l'esquerra
 ```
@@ -3911,7 +3911,7 @@ Moure cap a l'esquerra
 ```
 Move to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mou a la dreta
 ```
@@ -3921,7 +3921,7 @@ Mou a la dreta
 ```
 Rotate to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Girar a esquerra
 ```
@@ -3931,7 +3931,7 @@ Girar a esquerra
 ```
 Rotate to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gireu a la dreta
 ```
@@ -3941,7 +3941,7 @@ Gireu a la dreta
 ```
 Delete image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 esborrar la imatge
 ```
@@ -3951,7 +3951,7 @@ esborrar la imatge
 ```
 From local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Des fitxer local
 ```
@@ -3961,7 +3961,7 @@ Des fitxer local
 ```
 What format to you want to use to export?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Quin format que voleu utilitzar per exportar?
 ```
@@ -3971,7 +3971,7 @@ Quin format que voleu utilitzar per exportar?
 ```
 The data to export contains media(images) that cannot be included with this export format. The data will be exported without the media. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Les dades d'exportació conté els mitjans de comunicació (imatges) que no poden ser inclosos amb aquest format d'exportació. Les dades es poden exportar sense els mitjans de comunicació. Per exportar tot, triar el KMZ format d'exportació.
 ```
@@ -3981,7 +3981,7 @@ Les dades d'exportació conté els mitjans de comunicació (imatges) que no pode
 ```
 Standard Google Earth format. Cannot contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Estàndard Google Earth format. No pot contenir mitjans de comunicació.
 ```
@@ -3991,7 +3991,7 @@ Estàndard Google Earth format. No pot contenir mitjans de comunicació.
 ```
 Zip Google Earth format. Can contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zip Google Earth format. Pot contenir elements multimèdia.
 ```
@@ -4001,7 +4001,7 @@ Zip Google Earth format. Pot contenir elements multimèdia.
 ```
 Standard text spreadsheet format. Cannot contain media. Cannot contain lines or polygons.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 format de text full de càlcul estàndard. No pot contenir mitjans de comunicació. No pot contenir línies o polígons.
 ```
@@ -4011,7 +4011,7 @@ format de text full de càlcul estàndard. No pot contenir mitjans de comunicaci
 ```
 Marker as plain text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marcador com a text sense format
 ```
@@ -4021,7 +4021,7 @@ Marcador com a text sense format
 ```
 Marker as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marcador com a arxiu
 ```
@@ -4031,7 +4031,7 @@ Marcador com a arxiu
 ```
 Share the selected marker as a file into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Comparteix el marcador seleccionat com un arxiu en una altra aplicació
 ```
@@ -4041,7 +4041,7 @@ Comparteix el marcador seleccionat com un arxiu en una altra aplicació
 ```
 Share as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Compartir com a arxiu
 ```
@@ -4051,7 +4051,7 @@ Compartir com a arxiu
 ```
 Export to a local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Exporta a un fitxer local
 ```
@@ -4061,7 +4061,7 @@ Exporta a un fitxer local
 ```
 Import or export markers as files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Importació o exportació marcadors com arxius
 ```
@@ -4071,7 +4071,7 @@ Importació o exportació marcadors com arxius
 ```
 The data to export contains complex markers (lines or polygons) that cannot be included with this export format. The data will be exported without those markers. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Les dades d'exportació conté marcadors complexos (línies o polígons) que no poden ser inclosos amb aquest format d'exportació. Les dades es poden exportar sense aquests marcadors. Per exportar tot, triar el KMZ format d'exportació.
 ```
@@ -4081,7 +4081,7 @@ Les dades d'exportació conté marcadors complexos (línies o polígons) que no 
 ```
 Add custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Afegeix un camp personalitzat
 ```
@@ -4091,7 +4091,7 @@ Afegeix un camp personalitzat
 ```
 Information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Informació
 ```
@@ -4101,7 +4101,7 @@ Informació
 ```
 Custom fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Camps personalitzats
 ```
@@ -4111,7 +4111,7 @@ Camps personalitzats
 ```
 Field name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nom del camp
 ```
@@ -4121,7 +4121,7 @@ Nom del camp
 ```
 Delete field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Suprimeix el camp
 ```
@@ -4131,7 +4131,7 @@ Suprimeix el camp
 ```
 Attributes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atributs
 ```
@@ -4141,7 +4141,7 @@ Atributs
 ```
 New custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nou camp personalitzat
 ```
@@ -4151,7 +4151,7 @@ Nou camp personalitzat
 ```
 Modify custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Modifica el camp personalitzat
 ```
@@ -4161,7 +4161,7 @@ Modifica el camp personalitzat
 ```
 Field enabled. For folders, if enabled, that field will be added automatically to children POIs on creation. For POIs, if enabled, that field will be visible in the details page.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Camp habilitat. Per a carpetes, si està habilitat, aquest camp s'afegirà automàticament als PDI dels nens a la creació. Per a PDIs, si està habilitat, aquest camp serà visible a la pàgina de detalls.
 ```
@@ -4171,7 +4171,7 @@ Camp habilitat. Per a carpetes, si està habilitat, aquest camp s'afegirà autom
 ```
 Field info
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Informació de camp
 ```
@@ -4181,7 +4181,7 @@ Informació de camp
 ```
 Select field type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Seleccioneu el tipus de camp
 ```
@@ -4191,7 +4191,7 @@ Seleccioneu el tipus de camp
 ```
 Boolean (True or False)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Boolean (vertader o fals)
 ```
@@ -4201,7 +4201,7 @@ Boolean (vertader o fals)
 ```
 Default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Valor per defecte
 ```
@@ -4211,7 +4211,7 @@ Valor per defecte
 ```
 Date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Data
 ```
@@ -4221,7 +4221,7 @@ Data
 ```
 Email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Correu electrònic
 ```
@@ -4231,7 +4231,7 @@ Correu electrònic
 ```
 Text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Text
 ```
@@ -4241,7 +4241,7 @@ Text
 ```
 Multiple choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Múltiples opcions
 ```
@@ -4251,7 +4251,7 @@ Múltiples opcions
 ```
 Add choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Afegir elecció
 ```
@@ -4261,7 +4261,7 @@ Afegir elecció
 ```
 Duplicates are not allowed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No es permeten duplicats
 ```
@@ -4271,7 +4271,7 @@ No es permeten duplicats
 ```
 Phone
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Telèfon
 ```
@@ -4281,7 +4281,7 @@ Telèfon
 ```
 Web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 enllaç web
 ```
@@ -4291,7 +4291,7 @@ enllaç web
 ```
 Choices list
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Llista d'opcions
 ```
@@ -4301,7 +4301,7 @@ Llista d'opcions
 ```
 Select default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Selecciona el valor per defecte
 ```
@@ -4311,7 +4311,7 @@ Selecciona el valor per defecte
 ```
 Creation date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Data de creació
 ```
@@ -4321,7 +4321,7 @@ Data de creació
 ```
 POI Options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opcions del PDI
 ```
@@ -4331,7 +4331,7 @@ Opcions del PDI
 ```
 Delete POI
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Suprimiu el PDI
 ```
@@ -4341,7 +4341,7 @@ Suprimiu el PDI
 ```
 Select value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Selecciona valor
 ```
@@ -4351,7 +4351,7 @@ Selecciona valor
 ```
 Used by folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 S'utilitza per carpetes
 ```
@@ -4361,7 +4361,7 @@ S'utilitza per carpetes
 ```
 Edit field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Edita el camp
 ```
@@ -4371,7 +4371,7 @@ Edita el camp
 ```
 Add folder field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Afegeix un camp de carpeta
 ```
@@ -4381,7 +4381,7 @@ Afegeix un camp de carpeta
 ```
 Reorder fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Reordenar els camps
 ```
@@ -4391,7 +4391,7 @@ Reordenar els camps
 ```
 Pick the fields you want to apply to this folder\'s POIs
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Trieu els camps que voleu aplicar als PDIs d'aquesta carpeta
 ```
@@ -4401,7 +4401,7 @@ Trieu els camps que voleu aplicar als PDIs d'aquesta carpeta
 ```
 The destination folder has different field values. Pick the fields you want to apply to moved POIs.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 La carpeta de destinació té diferents valors de camp. Seleccioneu els camps que voleu aplicar a PDIs moguts.
 ```
@@ -4411,7 +4411,7 @@ La carpeta de destinació té diferents valors de camp. Seleccioneu els camps qu
 ```
 Update color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Actualitza el color
 ```
@@ -4421,7 +4421,7 @@ Actualitza el color
 ```
 Update pin icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Actualitza la icona de pin
 ```
@@ -4431,7 +4431,7 @@ Actualitza la icona de pin
 ```
 Add field if missing: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Afegeix un camp si falta: %s
 ```
@@ -4441,7 +4441,7 @@ Afegeix un camp si falta: %s
 ```
 Remove field if present: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Suprimeix el camp si està present: %s
 ```
@@ -4451,7 +4451,7 @@ Suprimeix el camp si està present: %s
 ```
 Update field name if different: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Actualitza el nom del camp si és diferent: %s
 ```
@@ -4461,7 +4461,7 @@ Actualitza el nom del camp si és diferent: %s
 ```
 More options…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Més opcions…
 ```
@@ -4471,7 +4471,7 @@ Més opcions…
 ```
 Folder options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opcions de carpeta
 ```
@@ -4481,7 +4481,7 @@ Opcions de carpeta
 ```
 Edit email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Edita email
 ```
@@ -4491,7 +4491,7 @@ Edita email
 ```
 Edit web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Edita l'enllaç web
 ```
@@ -4501,7 +4501,7 @@ Edita l'enllaç web
 ```
 Decimal accuracy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Precisió decimal
 ```
@@ -4511,7 +4511,7 @@ Precisió decimal
 ```
 Details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Detalls copiats al porta-retalls
 ```
@@ -4521,7 +4521,7 @@ Detalls copiats al porta-retalls
 ```
 Copy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Copia
 ```
@@ -4531,7 +4531,7 @@ Copia
 ```
 Do you want to click here? ^‿^
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Voleu fer clic aquí? ^ ‿ ^
 ```
@@ -4559,7 +4559,7 @@ And finally, thank you for reading this :-)
 Regards
 Sébastien
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hola, gràcies per la vostra curiositat! 
  
@@ -4587,7 +4587,7 @@ Hola, gràcies per la vostra curiositat!
 ```
 Normal with indoor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Normal amb interior
 ```
@@ -4597,7 +4597,7 @@ Normal amb interior
 ```
 Floating marker titles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Títols marcadors flotants
 ```
@@ -4607,7 +4607,7 @@ Títols marcadors flotants
 ```
 Maximum number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Número màxim
 ```
@@ -4617,7 +4617,7 @@ Número màxim
 ```
 Text size
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mida del text
 ```
@@ -4627,7 +4627,7 @@ Mida del text
 ```
 Search failed => %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 La cerca ha fallat =&gt; %s
 ```
@@ -4637,7 +4637,7 @@ La cerca ha fallat =&gt; %s
 ```
 API key tutorial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tutorial API key
 ```
@@ -4647,7 +4647,7 @@ Tutorial API key
 ```
 Click here to see details on how to obtain an API key for your account.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Feu clic aquí per veure els detalls sobre com obtenir un API key per al vostre compte.
 ```
@@ -4657,7 +4657,7 @@ Feu clic aquí per veure els detalls sobre com obtenir un API key per al vostre 
 ```
 Personal API key
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 API key personal
 ```
@@ -4667,7 +4667,7 @@ API key personal
 ```
 None
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cap
 ```
@@ -4679,7 +4679,7 @@ You can search for places with "Google Places API". This search requires an inte
 
 You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Podeu cercar llocs amb "Google Places API". Aquesta cerca requereix una connexió a Internet.
 
@@ -4691,7 +4691,7 @@ Heu configurat la vostra clau Google Places API personal: la cerca usarà la vos
 ```
 Do you enjoy the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 T'agrada l'aplicació?
 ```
@@ -4701,7 +4701,7 @@ T'agrada l'aplicació?
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Voleu enviar-me un email per dir-me com puc millorar l'aplicació?
 ```
@@ -4711,7 +4711,7 @@ Voleu enviar-me un email per dir-me com puc millorar l'aplicació?
 ```
 Display extra POI fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mostra camps de PDI addicionals
 ```
@@ -4721,7 +4721,7 @@ Mostra camps de PDI addicionals
 ```
 IGN plans
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Plans IGN
 ```
@@ -4731,7 +4731,7 @@ Plans IGN
 ```
 IGN maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mapes IGN
 ```
@@ -4741,7 +4741,7 @@ Mapes IGN
 ```
 IGN - Cadastral parcels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - Parcel·les cadastrals
 ```
@@ -4751,7 +4751,7 @@ IGN - Parcel·les cadastrals
 ```
 IGN - Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - Aèria
 ```
@@ -4761,7 +4761,7 @@ IGN - Aèria
 ```
 Type more and press enter again for refined results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Escriu més i premeu Retorn per obtenir resultats més refinats
 ```

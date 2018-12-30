@@ -1,4 +1,4 @@
-# Map Marker translations for zh-rCN
+# Map Marker translations for Chinese Simplified (zh-rCN)
 
 You want to help improve this translation file? Read the [main page](https://github.com/androidseb/mapmarkerapptranslations)
 
@@ -7,7 +7,7 @@ You want to help improve this translation file? Read the [main page](https://git
 ```
 OK
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 行
 ```
@@ -17,7 +17,7 @@ translates to:
 ```
 Yes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 是的
 ```
@@ -27,7 +27,7 @@ translates to:
 ```
 No
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 没有
 ```
@@ -37,7 +37,7 @@ translates to:
 ```
 Cancel
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 取消
 ```
@@ -47,7 +47,7 @@ translates to:
 ```
 New marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 新标志
 ```
@@ -57,7 +57,7 @@ translates to:
 ```
 Title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 称号
 ```
@@ -67,7 +67,7 @@ translates to:
 ```
 Description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 描述
 ```
@@ -77,7 +77,7 @@ translates to:
 ```
 Do you really want to delete this marker?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 你真的要删除这个标记？
 ```
@@ -87,7 +87,7 @@ translates to:
 ```
 GPS coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GPS坐标
 ```
@@ -97,7 +97,7 @@ GPS坐标
 ```
 Could not copy coordinates to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 无法复制的坐标到剪贴板
 ```
@@ -107,7 +107,7 @@ translates to:
 ```
 Coordinates copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 坐标复制到剪贴板
 ```
@@ -117,7 +117,7 @@ translates to:
 ```
 Failed to access application save directory. Make sure that your device is not being accessed by a computer with the USB cable, and restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 未能访问应用程序的保存目录。请确保您的设备不被电脑使用USB电缆访问，并重新启动应用程序。
 ```
@@ -127,7 +127,7 @@ translates to:
 ```
 Untitled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 无标题
 ```
@@ -137,7 +137,7 @@ translates to:
 ```
 All
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 所有
 ```
@@ -147,7 +147,7 @@ translates to:
 ```
 Add folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 添加文件夹
 ```
@@ -157,7 +157,7 @@ translates to:
 ```
 Modify folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 修改文件夹
 ```
@@ -167,7 +167,7 @@ translates to:
 ```
 Are you sure you want to delete this folder? All markers associated to this folder will be deleted permanently!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 你确定要删除这个文件夹？有关此文件夹的所有标记将被永久删除！
 ```
@@ -177,7 +177,7 @@ translates to:
 ```
 Failed to create new folder, it already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 无法创建新的文件夹，它已经存在
 ```
@@ -187,7 +187,7 @@ translates to:
 ```
 Failed to rename the folder, the destination name already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 无法重命名的文件夹，目标名称已经存在
 ```
@@ -197,7 +197,7 @@ translates to:
 ```
 Latitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 纬度：
 ```
@@ -207,7 +207,7 @@ translates to:
 ```
 Longitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 经度：
 ```
@@ -217,7 +217,7 @@ translates to:
 ```
 Could not write file.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 无法写入文件。
 ```
@@ -227,7 +227,7 @@ translates to:
 ```
 Import/Export
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 导入/导出
 ```
@@ -237,7 +237,7 @@ translates to:
 ```
 Import markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 进口标志
 ```
@@ -247,7 +247,7 @@ translates to:
 ```
 File imported successfully
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 文件导入成功
 ```
@@ -257,7 +257,7 @@ translates to:
 ```
 File import failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 文件导入失败
 ```
@@ -267,7 +267,7 @@ translates to:
 ```
 Location services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 位置服务
 ```
@@ -277,7 +277,7 @@ translates to:
 ```
 Location services are disabled. To get your current location you must enable them.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 位置服务被禁​​用。让你的当前位置，您必须启用它们。
 ```
@@ -287,7 +287,7 @@ translates to:
 ```
 Could not find address
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 找不到地址
 ```
@@ -297,7 +297,7 @@ translates to:
 ```
 Searching&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 搜索...
 ```
@@ -307,7 +307,7 @@ translates to:
 ```
 Search
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 搜索
 ```
@@ -317,7 +317,7 @@ translates to:
 ```
 Share via
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 通过分享
 ```
@@ -327,7 +327,7 @@ translates to:
 ```
 Do you want to import the content of this file?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 你想导入此文件的内容？
 ```
@@ -337,7 +337,7 @@ translates to:
 ```
 Folder name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 文件夹名称
 ```
@@ -347,7 +347,7 @@ translates to:
 ```
 Save
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 保存
 ```
@@ -357,7 +357,7 @@ translates to:
 ```
 Close
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 近
 ```
@@ -367,7 +367,7 @@ translates to:
 ```
 Are you sure you want to delete the selected markers?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 你确定要删除选定的标记？
 ```
@@ -377,7 +377,7 @@ translates to:
 ```
 Move markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 移动标记到文件夹
 ```
@@ -387,7 +387,7 @@ translates to:
 ```
 Share
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 分享
 ```
@@ -397,7 +397,7 @@ translates to:
 ```
 Folder:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 文件夹：
 ```
@@ -407,7 +407,7 @@ translates to:
 ```
 Snapshot of my markers on Map Marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 我的标记上的快照Map Marker
 ```
@@ -418,7 +418,7 @@ translates to:
 This snapshot was made with the app Map Marker:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 此快照是用应用程序Map Marker ： 
  %s
@@ -429,7 +429,7 @@ translates to:
 ```
 Processing data&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 处理数据......
 ```
@@ -439,7 +439,7 @@ translates to:
 ```
 You have unsaved modifications, do you want to save them?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 你有未保存的修改，你想救他们？
 ```
@@ -449,7 +449,7 @@ translates to:
 ```
 Use the long press on the map to create a new marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 使用长按地图上创建一个新的标志
 ```
@@ -459,7 +459,7 @@ translates to:
 ```
 Map type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 地图类型
 ```
@@ -469,7 +469,7 @@ translates to:
 ```
 Normal
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 正常
 ```
@@ -479,7 +479,7 @@ translates to:
 ```
 Satellite
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 卫星
 ```
@@ -489,7 +489,7 @@ translates to:
 ```
 Terrain
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 地形
 ```
@@ -499,7 +499,7 @@ translates to:
 ```
 Hybrid
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 混合动力
 ```
@@ -510,7 +510,7 @@ translates to:
 Found a problem? Have an idea of improvement?
 Send me an email :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 发现一个问题？有改进的想法？ 
 给我发email :-)
@@ -521,7 +521,7 @@ translates to:
 ```
 Send email&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 发送email&#8230;
 ```
@@ -532,7 +532,7 @@ translates to:
 You like the app?
 Rate it 5 stars :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 你喜欢的应用程序？ 
 速率是5星:-)
@@ -543,7 +543,7 @@ translates to:
 ```
 Change folder to&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 更改文件夹...
 ```
@@ -553,7 +553,7 @@ translates to:
 ```
 Directions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 方向
 ```
@@ -563,7 +563,7 @@ translates to:
 ```
 Acquiring location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 获取位置...
 ```
@@ -573,7 +573,7 @@ translates to:
 ```
 Meters
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 米
 ```
@@ -583,7 +583,7 @@ translates to:
 ```
 Km
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 千米
 ```
@@ -593,7 +593,7 @@ translates to:
 ```
 Feet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 脚
 ```
@@ -603,7 +603,7 @@ translates to:
 ```
 Miles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 万里
 ```
@@ -613,7 +613,7 @@ translates to:
 ```
 Adjust map camera position when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 引导到一个标记位置时，调整图摄像机位置
 ```
@@ -623,7 +623,7 @@ translates to:
 ```
 Keep screen on when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 保持屏幕引导到一个标记位置上时，
 ```
@@ -633,7 +633,7 @@ translates to:
 ```
 Marker details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 标记详细信息复制到剪贴板
 ```
@@ -643,7 +643,7 @@ translates to:
 ```
 Long press to drag and move the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 长按拖动和移动标记
 ```
@@ -653,7 +653,7 @@ translates to:
 ```
 Error starting internal task manager, app will now exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 错误启动内部的任务管理器，应用程序现在将退出
 ```
@@ -663,7 +663,7 @@ translates to:
 ```
 Do not show again
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 不要再显示
 ```
@@ -673,7 +673,7 @@ translates to:
 ```
 Could not create the map capture
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 无法创建地图捕捉
 ```
@@ -683,7 +683,7 @@ translates to:
 ```
 Metric (Kilometers/Meters)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 公制（公里/米）
 ```
@@ -693,7 +693,7 @@ translates to:
 ```
 Imperial (Miles/Feet)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 帝国（英里/英尺）
 ```
@@ -703,7 +703,7 @@ translates to:
 ```
 There is a problem with Google Play Services: it needs to be installed, updated or activated. Click OK to try and solve it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 有一个问题Google Play Services ：它需要被安装，更新或激活。点击OK，试图解决这个问题。
 ```
@@ -713,7 +713,7 @@ translates to:
 ```
 Delete folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 删除文件夹
 ```
@@ -723,7 +723,7 @@ translates to:
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 如果你喜欢我的应用程序，你可以抽空奖励我给予良好的评价:-)
 ```
@@ -734,7 +734,7 @@ translates to:
 OK take me
 to the Play Store
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 OK带我
 到Play Store
@@ -746,7 +746,7 @@ OK带我
 I already
 gave a rating
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 我已经
 给评级
@@ -758,7 +758,7 @@ translates to:
 Maybe later
 remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 也许以后
 提醒我
@@ -770,7 +770,7 @@ translates to:
 Maybe later
 do not remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 也许以后
 不要再提醒我
@@ -781,7 +781,7 @@ translates to:
 ```
 Could not find the place
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 找不到的地方
 ```
@@ -791,7 +791,7 @@ translates to:
 ```
 Could not find another map application
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 无法找到另一个地图应用
 ```
@@ -801,7 +801,7 @@ translates to:
 ```
 Move the map around to place your marker where you want and click OK to place it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 移动地图将您的标志，你想，然后单击确定将其放置
 ```
@@ -811,7 +811,7 @@ translates to:
 ```
 Imported marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 进口标志
 ```
@@ -821,7 +821,7 @@ translates to:
 ```
 Settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 设置
 ```
@@ -831,7 +831,7 @@ translates to:
 ```
 Display zoom buttons
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 显示缩放按钮
 ```
@@ -841,7 +841,7 @@ translates to:
 ```
 Decimal degrees
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 十进制度
 ```
@@ -851,7 +851,7 @@ translates to:
 ```
 Degrees decimal minutes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 小数度分钟
 ```
@@ -861,7 +861,7 @@ translates to:
 ```
 Degrees minutes seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 度分秒
 ```
@@ -871,7 +871,7 @@ translates to:
 ```
 Coordinates format
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 坐标格式
 ```
@@ -881,7 +881,7 @@ translates to:
 ```
 GPS and wireless networks only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 只有GPS和无线网络
 ```
@@ -891,7 +891,7 @@ translates to:
 ```
 GPS and wireless networks or magnetic sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 全球定位系统和无线网络或磁传感器
 ```
@@ -901,7 +901,7 @@ translates to:
 ```
 Magnetic sensor only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 只有磁传感器
 ```
@@ -911,7 +911,7 @@ translates to:
 ```
 Used compass sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 二手指南针传感器
 ```
@@ -921,7 +921,7 @@ translates to:
 ```
 FAQ/Help
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 常见问题/帮助
 ```
@@ -931,7 +931,7 @@ translates to:
 ```
 Folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 文件夹
 ```
@@ -941,7 +941,7 @@ translates to:
 ```
 Help and settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 帮助和设置
 ```
@@ -951,7 +951,7 @@ translates to:
 ```
 Language
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 语言
 ```
@@ -961,7 +961,7 @@ translates to:
 ```
 Marker popup style
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 标记弹出式的
 ```
@@ -971,7 +971,7 @@ translates to:
 ```
 Bottom
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 底部
 ```
@@ -981,7 +981,7 @@ translates to:
 ```
 Bubble
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 泡沫
 ```
@@ -991,7 +991,7 @@ translates to:
 ```
 Coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 坐标
 ```
@@ -1001,7 +1001,7 @@ translates to:
 ```
 Contextual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 上下文
 ```
@@ -1011,7 +1011,7 @@ translates to:
 ```
 Always
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 总
 ```
@@ -1021,7 +1021,7 @@ translates to:
 ```
 Crosshair display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 十字线显示
 ```
@@ -1031,7 +1031,7 @@ translates to:
 ```
 Coordinates window
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 坐标窗口
 ```
@@ -1041,7 +1041,7 @@ translates to:
 ```
 Lat:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 纬度：
 ```
@@ -1051,7 +1051,7 @@ translates to:
 ```
 Lng:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 LNG：
 ```
@@ -1061,7 +1061,7 @@ LNG：
 ```
 Marker instant adding mode
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 标记即时添加模式
 ```
@@ -1071,7 +1071,7 @@ translates to:
 ```
 Advanced
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 先进
 ```
@@ -1081,7 +1081,7 @@ translates to:
 ```
 Display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 显示
 ```
@@ -1091,7 +1091,7 @@ translates to:
 ```
 Actions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 行动
 ```
@@ -1101,7 +1101,7 @@ translates to:
 ```
 Language and units
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 语言和单位
 ```
@@ -1111,7 +1111,7 @@ translates to:
 ```
 Markers ignored on import (duplicates): %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 标记忽略进口（重复）： %1$d
 ```
@@ -1121,7 +1121,7 @@ translates to:
 ```
 %1$d markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d标志
 ```
@@ -1131,7 +1131,7 @@ translates to:
 ```
 No auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 没有自动命名
 ```
@@ -1141,7 +1141,7 @@ translates to:
 ```
 Auto naming "number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 自动命名“号”
 ```
@@ -1151,7 +1151,7 @@ translates to:
 ```
 Auto naming "Marker number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 自动命名“标记号”
 ```
@@ -1161,7 +1161,7 @@ translates to:
 ```
 New marker auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 新标志的自动命名
 ```
@@ -1171,7 +1171,7 @@ translates to:
 ```
 Marker %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 标记%1$d
 ```
@@ -1181,7 +1181,7 @@ translates to:
 ```
 Waiting for location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 等待位置...
 ```
@@ -1191,7 +1191,7 @@ translates to:
 ```
 Open the help page and see the FAQ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 打开帮助页面，看到的常见问题解答
 ```
@@ -1201,7 +1201,7 @@ translates to:
 ```
 Features
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 产品特点
 ```
@@ -1211,7 +1211,7 @@ translates to:
 ```
 View the list of upcoming features for the next app version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 查看即将推出的功能列表中的下一个版本的应用程序
 ```
@@ -1221,7 +1221,7 @@ translates to:
 ```
 Help &amp; Feedback
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 帮助＆反馈
 ```
@@ -1231,7 +1231,7 @@ translates to:
 ```
 About
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 大约
 ```
@@ -1241,7 +1241,7 @@ translates to:
 ```
 Distance to %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 距离%1$s
 ```
@@ -1251,7 +1251,7 @@ translates to:
 ```
 Snapshot
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 快照
 ```
@@ -1261,7 +1261,7 @@ translates to:
 ```
 Share a snapshot of the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 分享地图的快照
 ```
@@ -1271,7 +1271,7 @@ translates to:
 ```
 All markers and folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 所有标记和文件夹
 ```
@@ -1281,7 +1281,7 @@ translates to:
 ```
 <![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;！[CDATA [&lt;HTML&gt; &lt;BODY&gt; &lt;B&gt;为了得到正确的正北方向的指南针，你需要正确校准你的手机。照片要校准你的手机，只需通过绘制8移动它该举动必须是广泛的和更好的效率重复3次左右。照片可以在任何时候做这个校准你的手机。&lt;/ B&gt;点击看校准有其局限性，可能是​​不够的对付附近的干扰，如：英•大的金属物体英•电子设备英•磁铁英•汽车/巴士/火车/飞机内部&lt;/ body&gt; &lt;/ HTML&gt;
 ```
@@ -1291,7 +1291,7 @@ translates to:
 ```
 Badges
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 徽章
 ```
@@ -1301,7 +1301,7 @@ translates to:
 ```
 Buy a donation badge
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 购买捐赠徽章
 ```
@@ -1311,7 +1311,7 @@ translates to:
 ```
 Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 谢谢您的捐款！您可以访问高级此次捐赠徽章授予特点:-)
 ```
@@ -1321,7 +1321,7 @@ translates to:
 ```
 Default folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 默认文件夹
 ```
@@ -1331,7 +1331,7 @@ translates to:
 ```
 Sync options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 同步选项
 ```
@@ -1341,7 +1341,7 @@ translates to:
 ```
 Google Drive
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 谷歌云端硬盘
 ```
@@ -1351,7 +1351,7 @@ translates to:
 ```
 Dropbox
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dropbox的
 ```
@@ -1361,7 +1361,7 @@ Dropbox的
 ```
 Configuring&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 配置...
 ```
@@ -1371,7 +1371,7 @@ translates to:
 ```
 Sync now
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 立即同步
 ```
@@ -1381,7 +1381,7 @@ translates to:
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 从来没有
 ```
@@ -1391,7 +1391,7 @@ translates to:
 ```
 Syncing…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 正在同步...
 ```
@@ -1401,7 +1401,7 @@ translates to:
 ```
 Select folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 选择文件夹
 ```
@@ -1411,7 +1411,7 @@ translates to:
 ```
 Load error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 加载错误
 ```
@@ -1421,7 +1421,7 @@ translates to:
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 重试
 ```
@@ -1431,7 +1431,7 @@ translates to:
 ```
 Root
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 树根
 ```
@@ -1441,7 +1441,7 @@ translates to:
 ```
 Shared
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 共享
 ```
@@ -1451,7 +1451,7 @@ translates to:
 ```
 Purchase successful!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 购买成功！
 ```
@@ -1461,7 +1461,7 @@ translates to:
 ```
 Purchase failed: %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 购买失败%1$s
 ```
@@ -1471,7 +1471,7 @@ translates to:
 ```
 Premium access available! You currently have access to premium features.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 高级访问可用！您现在可以访问高级功能。
 ```
@@ -1481,7 +1481,7 @@ translates to:
 ```
 You cannot select that folder because it contains multiple files named %1$s. The sync requires the folder to contain only one file with that name.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 你不能选择文件夹，因为它包含了一个名为多个文件%1$s同步要求的文件夹只包含一个具有该名称的文件。
 ```
@@ -1491,7 +1491,7 @@ translates to:
 ```
 It seems sync data already exists in that folder. If you select that folder, your local data will be merged with the folder data when sync is performed. Is that what you want?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 这似乎同步数据已经存在的文件夹中。如果您选择该文件夹，你的本地数据将被合并到文件夹中的数据时进行同步。这就是你想要的吗？
 ```
@@ -1501,7 +1501,7 @@ translates to:
 ```
 File options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 文件选项
 ```
@@ -1511,7 +1511,7 @@ translates to:
 ```
 Cloud sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 云同步
 ```
@@ -1521,7 +1521,7 @@ translates to:
 ```
 Sync this map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 同步云上的这个地图文件
 ```
@@ -1531,7 +1531,7 @@ translates to:
 ```
 Map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 映射文件
 ```
@@ -1541,7 +1541,7 @@ translates to:
 ```
 Create local map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 创建本地地图
 ```
@@ -1551,7 +1551,7 @@ translates to:
 ```
 Create a new map file locally
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 在本地创建一个新的映射文件
 ```
@@ -1561,7 +1561,7 @@ translates to:
 ```
 Create cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 创建云图
 ```
@@ -1571,7 +1571,7 @@ translates to:
 ```
 Create a map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 创建云上的地图文件
 ```
@@ -1581,7 +1581,7 @@ translates to:
 ```
 Retrieves changes from the cloud and sends local changes to the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 检索从云的变化，并将本地更改到云
 ```
@@ -1591,7 +1591,7 @@ translates to:
 ```
 Rename
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 重命名
 ```
@@ -1601,7 +1601,7 @@ translates to:
 ```
 Rename the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 重命名地图
 ```
@@ -1611,7 +1611,7 @@ translates to:
 ```
 Enter new name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 输入新的名称
 ```
@@ -1621,7 +1621,7 @@ translates to:
 ```
 Enter the new map\'s name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 进入新地图的名字
 ```
@@ -1631,7 +1631,7 @@ translates to:
 ```
 %1$d folders, %2$d markers, size: %3$d KB
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d文件夹%2$d标志，尺寸为%3$d KB
 ```
@@ -1641,7 +1641,7 @@ translates to:
 ```
 Create new folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 创建新的文件夹
 ```
@@ -1651,7 +1651,7 @@ translates to:
 ```
 Could not create folder: name empty
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 无法创建文件夹：名空
 ```
@@ -1661,7 +1661,7 @@ translates to:
 ```
 Could not create folder: error occurred
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 无法创建文件夹：发生错误
 ```
@@ -1671,7 +1671,7 @@ translates to:
 ```
 Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 感谢您购买Map Marker高级版升级:-)
 ```
@@ -1681,7 +1681,7 @@ translates to:
 ```
 Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 感谢您对声称你的自由你的兴趣Map Marker溢价:-)
 ```
@@ -1691,7 +1691,7 @@ translates to:
 ```
 Premium
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 保费
 ```
@@ -1701,7 +1701,7 @@ translates to:
 ```
 Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 升级到高级，并采取充分利用Map Marker功能！
 ```
@@ -1711,7 +1711,7 @@ translates to:
 ```
 Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 对不起，您所需要的高级升级来访问此功能。升级到高级，并采取充分利用Map Marker功能！
 ```
@@ -1721,7 +1721,7 @@ translates to:
 ```
 You have the premium upgrade for free! You can still purchase it if you want to show your support :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 你有高级升级是免费的！你仍然可以购买它，如果你想显示您的支持:-)
 ```
@@ -1731,7 +1731,7 @@ translates to:
 ```
 Purchase the premium upgrade
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 购买付费升级
 ```
@@ -1741,7 +1741,7 @@ translates to:
 ```
 My Google account already has premium access, activate it!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 我的谷歌帐户已具有高级访问，激活！
 ```
@@ -1751,7 +1751,7 @@ translates to:
 ```
 Troubleshooting
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 故障排除
 ```
@@ -1761,7 +1761,7 @@ translates to:
 ```
 Open a list of actions to solve possible problems
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 打开来解决可能出现的问题的行动清单
 ```
@@ -1771,7 +1771,7 @@ translates to:
 ```
 Test internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 测试网络
 ```
@@ -1781,7 +1781,7 @@ translates to:
 ```
 Checks that the app has access to internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 检查该应用程序能够访问互联网
 ```
@@ -1791,7 +1791,7 @@ translates to:
 ```
 Test file writing
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 测试文件写入
 ```
@@ -1801,7 +1801,7 @@ translates to:
 ```
 Checks that the app can save files on the internal SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 检查该应用程序可以节省内部SD卡上的文件
 ```
@@ -1811,7 +1811,7 @@ translates to:
 ```
 GP Services (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GP服务（应用程序）
 ```
@@ -1821,7 +1821,7 @@ GP服务（应用程序）
 ```
 Open the details of the currently installed Google Play Services app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 打开当前安装的细节Google Play Services应用
 ```
@@ -1831,7 +1831,7 @@ translates to:
 ```
 GP Services (store)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GP服务（店）
 ```
@@ -1841,7 +1841,7 @@ GP服务（店）
 ```
 Google Play (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 谷歌播放（应用程序）
 ```
@@ -1851,7 +1851,7 @@ translates to:
 ```
 Contact support
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 联系支持
 ```
@@ -1861,7 +1861,7 @@ translates to:
 ```
 Write an email to support with the details of your problem
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 写email来支持您的问题的细节
 ```
@@ -1871,7 +1871,7 @@ translates to:
 ```
 Device network unavailable
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 设备网络不可用
 ```
@@ -1881,7 +1881,7 @@ translates to:
 ```
 Testing&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 测试...
 ```
@@ -1891,7 +1891,7 @@ translates to:
 ```
 Network test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 网络测试成功
 ```
@@ -1901,7 +1901,7 @@ translates to:
 ```
 Network test failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 网络测试失败
 ```
@@ -1911,7 +1911,7 @@ translates to:
 ```
 Disk test failed: could not write to internal storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 硬盘测试失败：无法写入内部存储
 ```
@@ -1921,7 +1921,7 @@ translates to:
 ```
 Disk test failed: could not write to external storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 硬盘测试失败：无法写入到外部存储
 ```
@@ -1931,7 +1931,7 @@ translates to:
 ```
 Disk test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 磁盘测试成功
 ```
@@ -1941,7 +1941,7 @@ translates to:
 ```
 App failed to start: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 应用程序无法启动%s
 ```
@@ -1951,7 +1951,7 @@ translates to:
 ```
 The file does not exist
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 该文件不存在
 ```
@@ -1961,7 +1961,7 @@ translates to:
 ```
 Share cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 分享云图
 ```
@@ -1971,7 +1971,7 @@ translates to:
 ```
 Open the cloud map folder to view its properties and share it with other people
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 打开云地图文件夹以查看其属性，并与其他人共享
 ```
@@ -1981,7 +1981,7 @@ translates to:
 ```
 Internal file to SD
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 内部文件到SD
 ```
@@ -1991,7 +1991,7 @@ translates to:
 ```
 Copy the app hidden internal files to the sdcard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 复制应用程序隐藏的内部文件到SD卡
 ```
@@ -2001,7 +2001,7 @@ translates to:
 ```
 Enter destination folder path
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 输入目标文件夹路径
 ```
@@ -2011,7 +2011,7 @@ translates to:
 ```
 Could not create folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 无法创建文件夹
 ```
@@ -2021,7 +2021,7 @@ translates to:
 ```
 Files successfully saved to: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 文件成功保存到%s
 ```
@@ -2031,7 +2031,7 @@ translates to:
 ```
 View history/Restore
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 查看历史记录/恢复
 ```
@@ -2041,7 +2041,7 @@ translates to:
 ```
 View history of modifications to the cloud folder and select a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 查看修改历史到云文件夹并选择一个版本恢复到
 ```
@@ -2051,7 +2051,7 @@ translates to:
 ```
 Create map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 创建映射文件
 ```
@@ -2061,7 +2061,7 @@ translates to:
 ```
 Create a new map file locally or on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 在本地或云中创建一个新的映射文件
 ```
@@ -2071,7 +2071,7 @@ translates to:
 ```
 Open cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 开放的云地图
 ```
@@ -2081,7 +2081,7 @@ translates to:
 ```
 Open a map file from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 从云打开地图文件
 ```
@@ -2091,7 +2091,7 @@ translates to:
 ```
 Map Marker needs the permission to access your location in order to display it on the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker需要的访问权限，以在地图上显示您的位置
 ```
@@ -2101,7 +2101,7 @@ Map Marker需要的访问权限，以在地图上显示您的位置
 ```
 Map Marker needs the permission to access to the storage of your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker需要访问到您的设备的存储权限
 ```
@@ -2111,7 +2111,7 @@ Map Marker需要访问到您的设备的存储权限
 ```
 Open settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 打开设置
 ```
@@ -2121,7 +2121,7 @@ translates to:
 ```
 No map folder found on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 没有在云中地图的文件夹
 ```
@@ -2131,7 +2131,7 @@ translates to:
 ```
 Auto sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 自动同步
 ```
@@ -2141,7 +2141,7 @@ translates to:
 ```
 Choose a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 选择一个版本恢复到
 ```
@@ -2151,7 +2151,7 @@ translates to:
 ```
 You must sync first before restoring an older version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 首先恢复了旧版本之前，必须同步
 ```
@@ -2161,7 +2161,7 @@ translates to:
 ```
 Are you sure you want to restore this version?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 你确定要恢复这个版本？
 ```
@@ -2171,7 +2171,7 @@ translates to:
 ```
 Map Marker lost permissions to write to your cloud account. Sync will always fail until this is fixed. Do you want to fix it now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker丢失的权限写入到您的云帐户。同步总是失败，直到这个是固定的。你现在要解决这个问题？
 ```
@@ -2181,7 +2181,7 @@ Map Marker丢失的权限写入到您的云帐户。同步总是失败，直到�
 ```
 A sync error occurred. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 发生同步错误。请再试一次。
 ```
@@ -2191,7 +2191,7 @@ translates to:
 ```
 A sync error occurred: network error. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 发生同步错误：网络错误。请再试一次。
 ```
@@ -2201,7 +2201,7 @@ translates to:
 ```
 A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 发生同步错误：冲突，其他设备在同一时间进行同步。请再试一次。
 ```
@@ -2211,7 +2211,7 @@ translates to:
 ```
 Changes are available from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 变化可从云
 ```
@@ -2221,7 +2221,7 @@ translates to:
 ```
 Changes made from another device were synced on the cloud. You can retrieve those changes by syncing.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 从其他设备所做的更改均同步在云上。您可以通过同步检索这些变化。
 ```
@@ -2231,7 +2231,7 @@ translates to:
 ```
 Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for details on how to restore cloud permissions.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 无法恢复云存储权限。详细内容请见“关于” - &gt;“常见问题解答”中关于如何恢复的云权限的详细信息。
 ```
@@ -2241,7 +2241,7 @@ translates to:
 ```
 A sync error occurred: duplicate index, there are at least two files named index.json in the map cloud folder. Remove the duplicates manually and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 发生同步错误：复制指数，有两个名为index.json地图中的云文件夹至少两个文件。手动删除重复项，然后再试一次。
 ```
@@ -2251,7 +2251,7 @@ translates to:
 ```
 Phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 电话号码
 ```
@@ -2261,7 +2261,7 @@ translates to:
 ```
 Edit phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 编辑电话号码
 ```
@@ -2271,7 +2271,7 @@ translates to:
 ```
 Map Marker needs the permission to make calls on your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker需求，让您的设备上的调用权限
 ```
@@ -2281,7 +2281,7 @@ Map Marker需求，让您的设备上的调用权限
 ```
 No phone number is defined for that marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 没有电话号码被定义为标记
 ```
@@ -2291,7 +2291,7 @@ translates to:
 ```
 Navigation options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 导航选项
 ```
@@ -2301,7 +2301,7 @@ translates to:
 ```
 Open the marker location in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 在此应用程序打开的标记位置
 ```
@@ -2311,7 +2311,7 @@ translates to:
 ```
 Open the marker street view in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 在此应用程序中打开标记街景
 ```
@@ -2321,7 +2321,7 @@ translates to:
 ```
 Enter navigation mode in this app to get directions to the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 在此应用程序进入导航模式，以获得指示标记
 ```
@@ -2331,7 +2331,7 @@ translates to:
 ```
 Other options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 其他选项
 ```
@@ -2341,7 +2341,7 @@ translates to:
 ```
 Share the selected marker as plain text into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 分享选择的标记以纯文本到另一个应用程序
 ```
@@ -2351,7 +2351,7 @@ translates to:
 ```
 %1$d markers in %2$d folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d的标记%2$d文件夹
 ```
@@ -2361,7 +2361,7 @@ translates to:
 ```
 A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 发生同步错误：云中的数据已经更新了最新版本的应用程序中。您必须更新Map Marker此设备同步的。
 ```
@@ -2371,7 +2371,7 @@ translates to:
 ```
 Could not find a phone app on this device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 找不到该设备上的手机应用程序。
 ```
@@ -2381,7 +2381,7 @@ translates to:
 ```
 Phone number options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 电话号码选项
 ```
@@ -2391,7 +2391,7 @@ translates to:
 ```
 Call phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 呼叫电话号码
 ```
@@ -2401,7 +2401,7 @@ translates to:
 ```
 Dial phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 电话号码
 ```
@@ -2411,7 +2411,7 @@ translates to:
 ```
 Text phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 文字电话号码
 ```
@@ -2421,7 +2421,7 @@ translates to:
 ```
 Default navigation action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 默认导航行动
 ```
@@ -2431,7 +2431,7 @@ translates to:
 ```
 Default phone action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 默认手机行动
 ```
@@ -2441,7 +2441,7 @@ translates to:
 ```
 Ask
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 问
 ```
@@ -2451,7 +2451,7 @@ translates to:
 ```
 Premium free trial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 高级免费试用
 ```
@@ -2461,7 +2461,7 @@ translates to:
 ```
 What is the premium upgrade?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 什么是高级升级？
 ```
@@ -2471,7 +2471,7 @@ translates to:
 ```
 Premium free trial started! The trial will expire at the following date: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 顶级的免费试用开始！该试验将在以下日期过期： %s
 ```
@@ -2482,7 +2482,7 @@ translates to:
 Trial expiration:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 试用期满： 
  %s
@@ -2493,7 +2493,7 @@ translates to:
 ```
 Trial expired
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 试用期满
 ```
@@ -2503,7 +2503,7 @@ translates to:
 ```
 Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 同步被取消：您所需要的高级升级，以执行同步。
 ```
@@ -2513,7 +2513,7 @@ translates to:
 ```
 Error: trial starting in the future!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 错误：在未来的审判开始！
 ```
@@ -2523,7 +2523,7 @@ translates to:
 ```
 Thank you for your purchase!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 感谢您的购买！
 ```
@@ -2533,7 +2533,7 @@ translates to:
 ```
 Browse
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 浏览
 ```
@@ -2543,7 +2543,7 @@ translates to:
 ```
 Organize
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 组织
 ```
@@ -2553,7 +2553,7 @@ translates to:
 ```
 Create
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 创建
 ```
@@ -2563,7 +2563,7 @@ translates to:
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 重试
 ```
@@ -2573,7 +2573,7 @@ translates to:
 ```
 Search failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 搜索失败
 ```
@@ -2583,7 +2583,7 @@ translates to:
 ```
 Search failed, network error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 搜索失败，网络错误
 ```
@@ -2593,7 +2593,7 @@ translates to:
 ```
 Details
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 详细信息
 ```
@@ -2603,7 +2603,7 @@ translates to:
 ```
 Sync error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 同步错误
 ```
@@ -2613,7 +2613,7 @@ translates to:
 ```
 The file already exists, do you want to overwrite it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 该文件已经存在，你想覆盖它吗？
 ```
@@ -2623,7 +2623,7 @@ translates to:
 ```
 Copy markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 标记复制到文件夹
 ```
@@ -2633,7 +2633,7 @@ translates to:
 ```
 Error loading the Google Map component. Please restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 错误加载Google Map组件。请重新启动应用程序。
 ```
@@ -2643,7 +2643,7 @@ translates to:
 ```
 You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 在这里你会看到你的标记列表。您目前已选定的文件夹（S）中没有标记。您可以通过点击下面的按钮添加新的标记。
 ```
@@ -2653,7 +2653,7 @@ translates to:
 ```
 No search results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 无搜索结果
 ```
@@ -2663,7 +2663,7 @@ translates to:
 ```
 Open Street Map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Open Street Map
 ```
@@ -2673,7 +2673,7 @@ Open Street Map
 ```
 Bing Road
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Road
 ```
@@ -2683,7 +2683,7 @@ Bing Road
 ```
 Bing Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial
 ```
@@ -2693,7 +2693,7 @@ Bing Aerial
 ```
 Bing Aerial With Labels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial带标签
 ```
@@ -2703,7 +2703,7 @@ Bing Aerial带标签
 ```
 ArcGIS Server
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ArcGIS Server
 ```
@@ -2713,7 +2713,7 @@ ArcGIS Server
 ```
 Offline maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 离线地图
 ```
@@ -2723,7 +2723,7 @@ translates to:
 ```
 No folder selected
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 没有选择的文件夹
 ```
@@ -2733,7 +2733,7 @@ translates to:
 ```
 Storage folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 存储文件夹
 ```
@@ -2744,7 +2744,7 @@ translates to:
 Test results of the offline maps folder:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 离线地图文件夹的测试结果： 
  %s
@@ -2755,7 +2755,7 @@ translates to:
 ```
 No folder is selected for offline map files. In order to use offline maps, open the settings and select a folder for offline map files.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 没有文件夹中选择了离线地图文件。为了使用离线地图，打开设置，并选择离线地图文件的文件夹。
 ```
@@ -2765,7 +2765,7 @@ translates to:
 ```
 The selected offline map folder you selected contains no files. Make sure you add the offline map files in that folder before using offline maps, otherwise the map will be empty.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 您选择的选择离线地图文件夹中没有文件。请确保您在文件夹中使用离线地图前添加离线地图文件，否则地图将是空的。
 ```
@@ -2775,7 +2775,7 @@ translates to:
 ```
 Success: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 成功： %s
 ```
@@ -2785,7 +2785,7 @@ translates to:
 ```
 Failed: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 失败： %s
 ```
@@ -2795,7 +2795,7 @@ translates to:
 ```
 How to do it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 怎么做？
 ```
@@ -2805,7 +2805,7 @@ translates to:
 ```
 Click here to open the web page explaining how to obtain those maps.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 点击这里打开网页解释如何获取这些地图。
 ```
@@ -2815,7 +2815,7 @@ translates to:
 ```
 Credits
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 积分
 ```
@@ -2825,7 +2825,7 @@ translates to:
 ```
 Copyright and legal mentions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 版权和法律声名
 ```
@@ -2837,7 +2837,7 @@ Legal mentions for other map data than Google Maps:
 
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 法律提到，相比于其它地图数据Google Maps ： 
  
@@ -2849,7 +2849,7 @@ translates to:
 ```
 Disable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 禁用错误文件转储
 ```
@@ -2859,7 +2859,7 @@ translates to:
 ```
 Disable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 禁止写入应用程序错误的文件在SD卡上
 ```
@@ -2869,7 +2869,7 @@ translates to:
 ```
 Enable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 启用错误文件转储
 ```
@@ -2879,7 +2879,7 @@ translates to:
 ```
 Enable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 启用写入应用程序错误的文件在SD卡上
 ```
@@ -2889,7 +2889,7 @@ translates to:
 ```
 Start background sync…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 启动后台同步...
 ```
@@ -2899,7 +2899,7 @@ translates to:
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 决不
 ```
@@ -2909,7 +2909,7 @@ translates to:
 ```
 When app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 当应用程序进入后台
 ```
@@ -2919,7 +2919,7 @@ translates to:
 ```
 %d seconds after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d秒钟的应用进入后台后
 ```
@@ -2929,7 +2929,7 @@ translates to:
 ```
 %d minutes after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d分应用程序进入后台后
 ```
@@ -2939,7 +2939,7 @@ translates to:
 ```
 Sync starting in %d seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 同步首发%d秒
 ```
@@ -2949,7 +2949,7 @@ translates to:
 ```
 You can cancel the sync at any time and your data will be synced on next attempt.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 您可以随时取消同步您的信息将在下次尝试进行同步。
 ```
@@ -2959,7 +2959,7 @@ translates to:
 ```
 Press back again to exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 再次按下退出
 ```
@@ -2969,7 +2969,7 @@ translates to:
 ```
 Cannot start sync with no internet access on the device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 不能与设备上没有互联网接入开始同步。
 ```
@@ -2979,7 +2979,7 @@ translates to:
 ```
 Manage map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 管理地图文件
 ```
@@ -2989,7 +2989,7 @@ translates to:
 ```
 Map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 地图文件
 ```
@@ -2999,7 +2999,7 @@ translates to:
 ```
 Delete map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 删除映射文件
 ```
@@ -3009,7 +3009,7 @@ translates to:
 ```
 This action will delete the map file from this device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 这一行动将删除此装置上的地图文件
 ```
@@ -3019,7 +3019,7 @@ translates to:
 ```
 This action will delete the map file from your device forever. All the markers inside that file will be lost. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 这一行动将永远删除设备中的地图文件。所有文件内的标记会丢失。你确定？
 ```
@@ -3029,7 +3029,7 @@ translates to:
 ```
 This action will delete the map file from your device forever. All changes not yet synced to the cloud will be lost. The cloud folder will not be affected by this action and you will have to delete it manually. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 这一行动将永远删除设备中的地图文件。尚未同步到云中的所有更改将丢失。云文件夹将不被这个动作受到影响，您必须手动删除它。你确定？
 ```
@@ -3039,7 +3039,7 @@ translates to:
 ```
 Map file successfully deleted
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 地图文件删除成功
 ```
@@ -3049,7 +3049,7 @@ translates to:
 ```
 Could not delete map file: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 无法删除映射文件： %s
 ```
@@ -3059,7 +3059,7 @@ translates to:
 ```
 Marker saved in a non visible folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 标记保存在一个非可见夹
 ```
@@ -3069,7 +3069,7 @@ translates to:
 ```
 Your changes have not been synced recently. Make sure you keep your cloud copy up to date. Do you want to sync now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 您的变更尚未最近同步。请务必保持您的云复制是最新的。你想现在同步？
 ```
@@ -3079,7 +3079,7 @@ translates to:
 ```
 The markers of this map file are currently only saved on this device. It is recommended to save your markers on the cloud to avoid losing them. Do you want to save them to the cloud now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 此地图文件的标记目前只保存在该设备上。建议保存在云中的标记，以避免失去他们。你想，现在将它们保存到云计算？
 ```
@@ -3089,7 +3089,7 @@ translates to:
 ```
 Do you want to sync this map file? With manual you will need to sync manually every time. With automatic (recommended) you will select a destination cloud folder and the sync to the cloud will start automatically every time the app enters background.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 你想同步此地图文件？具有手动，您将需要每次都手动同步。具有自动（推荐），你会选择一个目标云文件夹，并同步到云会在每次进入应用背景时自动启动。
 ```
@@ -3099,7 +3099,7 @@ translates to:
 ```
 Automatic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 自动
 ```
@@ -3109,7 +3109,7 @@ translates to:
 ```
 Manual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 手册
 ```
@@ -3119,7 +3119,7 @@ translates to:
 ```
 You can sync a map file on the cloud at any time by clicking on the map file in the side bar and then choosing the "Cloud sync" option.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 您可以通过点击侧边栏中的地图文件，然后选择“云同步”选项，可以随时同步云上的地图文件。
 ```
@@ -3129,7 +3129,7 @@ translates to:
 ```
 You can sync a map file manually to the cloud at any time by clicking the "share" button in the main action bar, and then "Other options" and then "All markers and folders" and then by selecting your favorite cloud storage app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 您可以手动在任何时候通过点击主操作栏中的“共享”按钮，选择你最喜欢的云存储应用同步映射文件到云端，然后在“其他选项”，然后“所有标记和文件夹”，然后。
 ```
@@ -3139,7 +3139,7 @@ translates to:
 ```
 Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 移动地图放置点，点击“+”添加点，点击“ - ”同一个/下一个按钮删除一个点和开关点。最后点击保存，保存的形状。
 ```
@@ -3149,7 +3149,7 @@ translates to:
 ```
 There are not enough points to create the shape. Create more points and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 没有足够的点来创建的形状。创建更多的点，然后再试一次。
 ```
@@ -3159,7 +3159,7 @@ translates to:
 ```
 Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn\'t work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by email (side panel -> about -> send email).
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 无法激活您的帐户谷歌的保费升级。如果从另一个设备最近购买了高级升级，您可能需要等待一点点购买传播，重新启动您的设备可以使其更快。如果仍然不能正常工作，请确保您购买，安装应用程序，并使用相同的谷歌帐户被激活。如果问题仍然存在，我会帮你尽我所能，你可以和我联系email （侧面面板- &gt;关于- &gt;发送email ）。
 ```
@@ -3169,7 +3169,7 @@ translates to:
 ```
 Distance: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 距离： %s
 ```
@@ -3180,7 +3180,7 @@ translates to:
 Perimeter: %1$s
 Area: %2$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 周长： %1$s 
 面积： %2$s
@@ -3191,7 +3191,7 @@ translates to:
 ```
 Extra information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 额外的信息
 ```
@@ -3201,7 +3201,7 @@ translates to:
 ```
 Insert…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 插…
 ```
@@ -3211,7 +3211,7 @@ translates to:
 ```
 Replace title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 更换标题
 ```
@@ -3221,7 +3221,7 @@ translates to:
 ```
 Replace description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 更换说明
 ```
@@ -3231,7 +3231,7 @@ translates to:
 ```
 Unit of distance
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 距离的单位
 ```
@@ -3241,7 +3241,7 @@ translates to:
 ```
 Unit of area
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 区域的单位
 ```
@@ -3251,7 +3251,7 @@ translates to:
 ```
 Metric (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 公制（ %s ）
 ```
@@ -3261,7 +3261,7 @@ translates to:
 ```
 Imperial (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 帝国（ %s ）
 ```
@@ -3271,7 +3271,7 @@ translates to:
 ```
 Images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 图片
 ```
@@ -3281,7 +3281,7 @@ translates to:
 ```
 Select image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 选择图片
 ```
@@ -3291,7 +3291,7 @@ translates to:
 ```
 Imported images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 导入的图像
 ```
@@ -3301,7 +3301,7 @@ translates to:
 ```
 Fit in a %1$sx%2$s square
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 适合在%1$s点¯x %2$s方
 ```
@@ -3311,7 +3311,7 @@ translates to:
 ```
 Full quality
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 全面质量
 ```
@@ -3321,7 +3321,7 @@ translates to:
 ```
 Mobile data
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 移动数据
 ```
@@ -3331,7 +3331,7 @@ translates to:
 ```
 Wifi
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Wifi
 ```
@@ -3341,7 +3341,7 @@ Wifi
 ```
 Disabled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 残
 ```
@@ -3351,7 +3351,7 @@ translates to:
 ```
 Up to %s per sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 截至%s每同步
 ```
@@ -3361,7 +3361,7 @@ translates to:
 ```
 Unlimited
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 无限
 ```
@@ -3371,7 +3371,7 @@ translates to:
 ```
 The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings. You can also click "force sync" to sync just one time without data volume limit.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 同步被放弃，因为它超过了允许的数据量的限制。要增加或更改限制，进入设置。您也可以点击“强制同步”来同步数据没有音量限制只是一个时间。
 ```
@@ -3381,7 +3381,7 @@ translates to:
 ```
 Force sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 强制同步
 ```
@@ -3391,7 +3391,7 @@ translates to:
 ```
 This will override the usual data limit just for this one time. Force sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 这将覆盖常用的数据限制只为这一次。强制同步？
 ```
@@ -3401,7 +3401,7 @@ translates to:
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 重试
 ```
@@ -3411,7 +3411,7 @@ translates to:
 ```
 Add image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 添加图片
 ```
@@ -3421,7 +3421,7 @@ translates to:
 ```
 From camera
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 从摄像头
 ```
@@ -3431,7 +3431,7 @@ translates to:
 ```
 From gallery
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 从画廊
 ```
@@ -3441,7 +3441,7 @@ translates to:
 ```
 Importing image…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 导入图像...
 ```
@@ -3451,7 +3451,7 @@ translates to:
 ```
 Offline (Mapsforge BETA)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 离线（ Mapsforge BETA ）
 ```
@@ -3461,7 +3461,7 @@ translates to:
 ```
 Exporting…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 出口…
 ```
@@ -3471,7 +3471,7 @@ translates to:
 ```
 Export failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 出口失败
 ```
@@ -3481,7 +3481,7 @@ translates to:
 ```
 Export succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 出口成功
 ```
@@ -3491,7 +3491,7 @@ translates to:
 ```
 KMZ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KMZ
 ```
@@ -3501,7 +3501,7 @@ KMZ
 ```
 KML
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KML
 ```
@@ -3511,7 +3511,7 @@ KML
 ```
 Importing file…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 导入文件...
 ```
@@ -3521,7 +3521,7 @@ translates to:
 ```
 Show warning icon for sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 显示同步警告图标
 ```
@@ -3531,7 +3531,7 @@ translates to:
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 同步中断，因为在云中的媒体文件的一个失踪了。您可以忽略通过点击\“强制同步\”丢失的文件。警告，忽略丢失的文件将导致从数据库中，这意味着其他设备仍然具有该文件的本地副本会删除它在同步删除它们。
 ```
@@ -3541,7 +3541,7 @@ translates to:
 ```
 This will force the sync and ignore the missing cloud files. The missing links will be removed from the database. Other devices still owning a local version of the missing cloud files will delete them upon their next sync. Data consumption limits will be ignored for this special sync. Force Sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 这将强制同步和忽略缺失云文件。缺少的环节将被从数据库中删除。其他设备仍然拥有失踪的云文件的本地版本将删除在他们下次同步。数据消耗量限值将这个特殊的同步被忽略。强制同步？
 ```
@@ -3551,7 +3551,7 @@ translates to:
 ```
 Marker media files ignored on import: %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 忽略进口标记的媒体文件： %1$d
 ```
@@ -3561,7 +3561,7 @@ translates to:
 ```
 Checking premium status…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 检查贴水状态...
 ```
@@ -3571,7 +3571,7 @@ translates to:
 ```
 General
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 一般
 ```
@@ -3581,7 +3581,7 @@ translates to:
 ```
 Toilets
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 洗手间
 ```
@@ -3591,7 +3591,7 @@ translates to:
 ```
 Food
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 餐饮
 ```
@@ -3601,7 +3601,7 @@ translates to:
 ```
 Stores
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 商店
 ```
@@ -3611,7 +3611,7 @@ translates to:
 ```
 Land activities
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 土地活动
 ```
@@ -3621,7 +3621,7 @@ translates to:
 ```
 Water activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 水activies
 ```
@@ -3631,7 +3631,7 @@ translates to:
 ```
 Winter activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 冬季activies
 ```
@@ -3641,7 +3641,7 @@ translates to:
 ```
 Transport
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 运输
 ```
@@ -3651,7 +3651,7 @@ translates to:
 ```
 Health
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 健康
 ```
@@ -3661,7 +3661,7 @@ translates to:
 ```
 Entertainment
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 娱乐
 ```
@@ -3671,7 +3671,7 @@ translates to:
 ```
 Services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 服务
 ```
@@ -3681,7 +3681,7 @@ translates to:
 ```
 Business
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 商业
 ```
@@ -3691,7 +3691,7 @@ translates to:
 ```
 Government
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 政府
 ```
@@ -3701,7 +3701,7 @@ translates to:
 ```
 Religious
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 宗教
 ```
@@ -3711,7 +3711,7 @@ translates to:
 ```
 Accessibility
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 无障碍
 ```
@@ -3721,7 +3721,7 @@ translates to:
 ```
 Select icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 选择图标
 ```
@@ -3731,7 +3731,7 @@ translates to:
 ```
 Icon and color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 图标和颜色
 ```
@@ -3741,7 +3741,7 @@ translates to:
 ```
 Generic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 通用
 ```
@@ -3751,7 +3751,7 @@ translates to:
 ```
 Beta tester badge: thank you for being a beta tester! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 beta测试者徽章：谢谢您的Beta测试！此徽章只会在卸载应用程序或清除应用数据消失。此徽章，您还可以对应用程序没有广告。
 ```
@@ -3761,7 +3761,7 @@ beta测试者徽章：谢谢您的Beta测试！此徽章只会在卸载应用程
 ```
 Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 推荐徽章：感谢您邀请您的朋友的应用程序！此徽章只会在卸载应用程序或清除应用数据消失。此徽章，您还可以对应用程序没有广告。
 ```
@@ -3771,7 +3771,7 @@ translates to:
 ```
 Referral
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 推荐
 ```
@@ -3781,7 +3781,7 @@ translates to:
 ```
 Removing ads: exchange referrals credits with friends to remove ads
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 删除广告：交流转介学分与朋友移除广告
 ```
@@ -3791,7 +3791,7 @@ translates to:
 ```
 Sent credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 发送学分： %s
 ```
@@ -3801,7 +3801,7 @@ translates to:
 ```
 Received credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 收到学分： %s
 ```
@@ -3811,7 +3811,7 @@ translates to:
 ```
 Contribute to translations
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 有助于翻译
 ```
@@ -3821,7 +3821,7 @@ translates to:
 ```
 You understand English and want to help with translations? Click here
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 你懂英语，想帮助翻译？点击这里
 ```
@@ -3831,7 +3831,7 @@ translates to:
 ```
 The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 目标文件夹的颜色或图标是不同的。你要更新的标记颜色和图标？
 ```
@@ -3841,7 +3841,7 @@ translates to:
 ```
 Add color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 添加颜色
 ```
@@ -3851,7 +3851,7 @@ translates to:
 ```
 <![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;！[CDATA [&lt;HTML&gt; &lt;BODY&gt; &lt;b&gt;什么是溢价升级&lt;/ b&gt;的结果在去除广告的上方，溢价升级解锁下列独家高级功能：？搜索•同步上Google Drive或Dropbox结果•通过协作Google Drive或Dropbox结果•地图版本历史和恢复结果&lt;/ body&gt; &lt;/ HTML&gt;
 ```
@@ -3861,7 +3861,7 @@ translates to:
 ```
 Marker created from the geo location of the QR code
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 从QR码的地理位置创建标记
 ```
@@ -3871,7 +3871,7 @@ translates to:
 ```
 Failed to read QR code as a geo location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 无法读取QR代码作为地理位置
 ```
@@ -3881,7 +3881,7 @@ translates to:
 ```
 The app for scanning QR codes could not be found. Do you want to install it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 扫描QR码应用程式无法找到。你想安装吗？
 ```
@@ -3891,7 +3891,7 @@ translates to:
 ```
 Selection action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 选择动作
 ```
@@ -3901,7 +3901,7 @@ translates to:
 ```
 Move to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 左移
 ```
@@ -3911,7 +3911,7 @@ translates to:
 ```
 Move to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 右移
 ```
@@ -3921,7 +3921,7 @@ translates to:
 ```
 Rotate to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 循环左移
 ```
@@ -3931,7 +3931,7 @@ translates to:
 ```
 Rotate to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 旋转到正确的
 ```
@@ -3941,7 +3941,7 @@ translates to:
 ```
 Delete image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 删除图像
 ```
@@ -3951,7 +3951,7 @@ translates to:
 ```
 From local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 从本地文件
 ```
@@ -3961,7 +3961,7 @@ translates to:
 ```
 What format to you want to use to export?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 什么格式要使用导出？
 ```
@@ -3971,7 +3971,7 @@ translates to:
 ```
 The data to export contains media(images) that cannot be included with this export format. The data will be exported without the media. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 要导出的数据包含可以不包括在此导出格式的媒体（图像）。这些数据将没有媒体出口。要导出的一切，选择KMZ导出格式。
 ```
@@ -3981,7 +3981,7 @@ translates to:
 ```
 Standard Google Earth format. Cannot contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 标准Google Earth格式。不能包含媒体。
 ```
@@ -3991,7 +3991,7 @@ translates to:
 ```
 Zip Google Earth format. Can contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zip Google Earth格式。可以包含媒体。
 ```
@@ -4001,7 +4001,7 @@ Zip Google Earth格式。可以包含媒体。
 ```
 Standard text spreadsheet format. Cannot contain media. Cannot contain lines or polygons.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 标准文本的电子表格格式。不能包含媒体。不能包含线或面。
 ```
@@ -4011,7 +4011,7 @@ translates to:
 ```
 Marker as plain text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 标记为纯文本
 ```
@@ -4021,7 +4021,7 @@ translates to:
 ```
 Marker as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 卫星标记文件
 ```
@@ -4031,7 +4031,7 @@ translates to:
 ```
 Share the selected marker as a file into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 分享选定标记为一个文件到另一个应用程序
 ```
@@ -4041,7 +4041,7 @@ translates to:
 ```
 Share as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 作为共享文件
 ```
@@ -4051,7 +4051,7 @@ translates to:
 ```
 Export to a local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 导出到本地文件
 ```
@@ -4061,7 +4061,7 @@ translates to:
 ```
 Import or export markers as files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 导入或导出标记为文件
 ```
@@ -4071,7 +4071,7 @@ translates to:
 ```
 The data to export contains complex markers (lines or polygons) that cannot be included with this export format. The data will be exported without those markers. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 要导出的数据包含可以不包括在此导出格式复杂的标志（线或面）。这些数据将没有这些标志物出口。要导出的一切，选择KMZ导出格式。
 ```
@@ -4081,7 +4081,7 @@ translates to:
 ```
 Add custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 添加自定义字段
 ```
@@ -4091,7 +4091,7 @@ translates to:
 ```
 Information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 信息
 ```
@@ -4101,7 +4101,7 @@ translates to:
 ```
 Custom fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 自定义字段
 ```
@@ -4111,7 +4111,7 @@ translates to:
 ```
 Field name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 字段名称
 ```
@@ -4121,7 +4121,7 @@ translates to:
 ```
 Delete field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 删除字段
 ```
@@ -4131,7 +4131,7 @@ translates to:
 ```
 Attributes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 属性
 ```
@@ -4141,7 +4141,7 @@ translates to:
 ```
 New custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 新的自定义字段
 ```
@@ -4151,7 +4151,7 @@ translates to:
 ```
 Modify custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 修改自定义字段
 ```
@@ -4161,7 +4161,7 @@ translates to:
 ```
 Field enabled. For folders, if enabled, that field will be added automatically to children POIs on creation. For POIs, if enabled, that field will be visible in the details page.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 已启用字段。对于文件夹，如果启用，该字段将自动添加到创建时的儿童POI。对于POI，如果启用，该字段将在详细信息页面中可见。
 ```
@@ -4171,7 +4171,7 @@ translates to:
 ```
 Field info
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 字段信息
 ```
@@ -4181,7 +4181,7 @@ translates to:
 ```
 Select field type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 选择字段类型
 ```
@@ -4191,7 +4191,7 @@ translates to:
 ```
 Boolean (True or False)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 布尔（True或False）
 ```
@@ -4201,7 +4201,7 @@ translates to:
 ```
 Default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 默认值
 ```
@@ -4211,7 +4211,7 @@ translates to:
 ```
 Date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 日期
 ```
@@ -4221,7 +4221,7 @@ translates to:
 ```
 Email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 电子邮件
 ```
@@ -4231,7 +4231,7 @@ translates to:
 ```
 Text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 文本
 ```
@@ -4241,7 +4241,7 @@ translates to:
 ```
 Multiple choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 多项选择
 ```
@@ -4251,7 +4251,7 @@ translates to:
 ```
 Add choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 添加选项
 ```
@@ -4261,7 +4261,7 @@ translates to:
 ```
 Duplicates are not allowed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 重复是不允许的
 ```
@@ -4271,7 +4271,7 @@ translates to:
 ```
 Phone
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 电话
 ```
@@ -4281,7 +4281,7 @@ translates to:
 ```
 Web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 网站链接
 ```
@@ -4291,7 +4291,7 @@ translates to:
 ```
 Choices list
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 选择列表
 ```
@@ -4301,7 +4301,7 @@ translates to:
 ```
 Select default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 选择默认值
 ```
@@ -4311,7 +4311,7 @@ translates to:
 ```
 Creation date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 创建日期
 ```
@@ -4321,7 +4321,7 @@ translates to:
 ```
 POI Options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 POI选项
 ```
@@ -4331,7 +4331,7 @@ POI选项
 ```
 Delete POI
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 删除POI
 ```
@@ -4341,7 +4341,7 @@ translates to:
 ```
 Select value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 选择价值
 ```
@@ -4351,7 +4351,7 @@ translates to:
 ```
 Used by folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 由文件夹使用
 ```
@@ -4361,7 +4361,7 @@ translates to:
 ```
 Edit field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 编辑字段
 ```
@@ -4371,7 +4371,7 @@ translates to:
 ```
 Add folder field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 添加文件夹字段
 ```
@@ -4381,7 +4381,7 @@ translates to:
 ```
 Reorder fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 重新排序字段
 ```
@@ -4391,7 +4391,7 @@ translates to:
 ```
 Pick the fields you want to apply to this folder\'s POIs
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 选择要应用于此文件夹的POI的字段
 ```
@@ -4401,7 +4401,7 @@ translates to:
 ```
 The destination folder has different field values. Pick the fields you want to apply to moved POIs.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 目标文件夹具有不同的字段值。选择要应用于移动的POI的字段。
 ```
@@ -4411,7 +4411,7 @@ translates to:
 ```
 Update color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 更新颜色
 ```
@@ -4421,7 +4421,7 @@ translates to:
 ```
 Update pin icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 更新图钉图标
 ```
@@ -4431,7 +4431,7 @@ translates to:
 ```
 Add field if missing: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 如果缺少添加字段： %s
 ```
@@ -4441,7 +4441,7 @@ translates to:
 ```
 Remove field if present: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 如果存在，则删除字段： %s
 ```
@@ -4451,7 +4451,7 @@ translates to:
 ```
 Update field name if different: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 如果不同，请更新字段名称： %s
 ```
@@ -4461,7 +4461,7 @@ translates to:
 ```
 More options…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 更多的选择…
 ```
@@ -4471,7 +4471,7 @@ translates to:
 ```
 Folder options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 文件夹选项
 ```
@@ -4481,7 +4481,7 @@ translates to:
 ```
 Edit email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 编辑email
 ```
@@ -4491,7 +4491,7 @@ translates to:
 ```
 Edit web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 编辑网页链接
 ```
@@ -4501,7 +4501,7 @@ translates to:
 ```
 Decimal accuracy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 小数精度
 ```
@@ -4511,7 +4511,7 @@ translates to:
 ```
 Details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Details copied to clipboard
 ```
@@ -4521,7 +4521,7 @@ Details copied to clipboard
 ```
 Copy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Copy
 ```
@@ -4531,7 +4531,7 @@ Copy
 ```
 Do you want to click here? ^‿^
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Do you want to click here? ^‿^
 ```
@@ -4559,7 +4559,7 @@ And finally, thank you for reading this :-)
 Regards
 Sébastien
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hey, thank you for your curiosity!
 
@@ -4587,7 +4587,7 @@ Sébastien
 ```
 Normal with indoor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Normal with indoor
 ```
@@ -4597,7 +4597,7 @@ Normal with indoor
 ```
 Floating marker titles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Floating marker titles
 ```
@@ -4607,7 +4607,7 @@ Floating marker titles
 ```
 Maximum number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Maximum number
 ```
@@ -4617,7 +4617,7 @@ Maximum number
 ```
 Text size
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Text size
 ```
@@ -4627,7 +4627,7 @@ Text size
 ```
 Search failed => %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Search failed =&gt; %s
 ```
@@ -4637,7 +4637,7 @@ Search failed =&gt; %s
 ```
 API key tutorial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 API key教程
 ```
@@ -4647,7 +4647,7 @@ API key教程
 ```
 Click here to see details on how to obtain an API key for your account.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 点击此处查看有关如何为您的帐户获取API key的详细信息。
 ```
@@ -4657,7 +4657,7 @@ translates to:
 ```
 Personal API key
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 个人API key
 ```
@@ -4667,7 +4667,7 @@ translates to:
 ```
 None
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 没有
 ```
@@ -4679,7 +4679,7 @@ You can search for places with "Google Places API". This search requires an inte
 
 You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 您可以使用“Google Places API”搜索地点。此搜索需要互联网连接。
 
@@ -4691,7 +4691,7 @@ translates to:
 ```
 Do you enjoy the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 你喜欢这款应用吗？
 ```
@@ -4701,7 +4701,7 @@ translates to:
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 你想给我发一个email来告诉我如何改进应用程序吗？
 ```
@@ -4711,7 +4711,7 @@ translates to:
 ```
 Display extra POI fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 显示额外的POI字段
 ```
@@ -4721,7 +4721,7 @@ translates to:
 ```
 IGN plans
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN计划
 ```
@@ -4731,7 +4731,7 @@ IGN计划
 ```
 IGN maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN地图
 ```
@@ -4741,7 +4741,7 @@ IGN地图
 ```
 IGN - Cadastral parcels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN  - 地籍包裹
 ```
@@ -4751,7 +4751,7 @@ IGN  - 地籍包裹
 ```
 IGN - Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN  - 天线
 ```
@@ -4761,7 +4761,7 @@ IGN  - 天线
 ```
 Type more and press enter again for refined results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 输入更多并再次按Enter键以获得精炼结果
 ```

@@ -1,4 +1,4 @@
-# Map Marker translations for sl
+# Map Marker translations for Slovenian (sl)
 
 You want to help improve this translation file? Read the [main page](https://github.com/androidseb/mapmarkerapptranslations)
 
@@ -7,7 +7,7 @@ You want to help improve this translation file? Read the [main page](https://git
 ```
 OK
 ```
-translates to:
+translated (by human 👀) as:
 ```
 OK
 ```
@@ -17,7 +17,7 @@ OK
 ```
 Yes
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Da
 ```
@@ -27,7 +27,7 @@ Da
 ```
 No
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ne
 ```
@@ -37,7 +37,7 @@ Ne
 ```
 Cancel
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Prekliči
 ```
@@ -47,7 +47,7 @@ Prekliči
 ```
 New marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Novi marker
 ```
@@ -57,7 +57,7 @@ Novi marker
 ```
 Title
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Naslov
 ```
@@ -67,7 +67,7 @@ Naslov
 ```
 Description
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Opis
 ```
@@ -77,7 +77,7 @@ Opis
 ```
 Do you really want to delete this marker?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ali res želite izbrisati ta označevalec?
 ```
@@ -87,7 +87,7 @@ Ali res želite izbrisati ta označevalec?
 ```
 GPS coordinates
 ```
-translates to:
+translated (by human 👀) as:
 ```
 GPS koordinate
 ```
@@ -97,7 +97,7 @@ GPS koordinate
 ```
 Could not copy coordinates to clipboard
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Koordinate ni bilo mogoče kopirati v odložišče
 ```
@@ -107,7 +107,7 @@ Koordinate ni bilo mogoče kopirati v odložišče
 ```
 Coordinates copied to clipboard
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Koordinate kopirane v odložišče
 ```
@@ -117,7 +117,7 @@ Koordinate kopirane v odložišče
 ```
 Failed to access application save directory. Make sure that your device is not being accessed by a computer with the USB cable, and restart the app.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dostop do imenika za shranjevanje aplikacij ni uspel. Prepričajte se, da vaš računalnik ne uporablja računalnika s kablom USB in znova zaženite aplikacijo.
 ```
@@ -127,7 +127,7 @@ Dostop do imenika za shranjevanje aplikacij ni uspel. Prepričajte se, da vaš r
 ```
 Untitled
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Brez naslova
 ```
@@ -137,7 +137,7 @@ Brez naslova
 ```
 All
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Vsi
 ```
@@ -147,7 +147,7 @@ Vsi
 ```
 Add folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dodaj mapo
 ```
@@ -157,7 +157,7 @@ Dodaj mapo
 ```
 Modify folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Spremeni mapo&#8230;
 ```
@@ -167,7 +167,7 @@ Spremeni mapo&#8230;
 ```
 Are you sure you want to delete this folder? All markers associated to this folder will be deleted permanently!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ali ste prepričani, da želite izbrisati to mapo? Vsi markerji, povezani s to mapo, bodo trajno izbrisani!
 ```
@@ -177,7 +177,7 @@ Ali ste prepričani, da želite izbrisati to mapo? Vsi markerji, povezani s to m
 ```
 Failed to create new folder, it already exists
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ni uspelo ustvariti nove mape, ker že obstaja
 ```
@@ -187,7 +187,7 @@ Ni uspelo ustvariti nove mape, ker že obstaja
 ```
 Failed to rename the folder, the destination name already exists
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ni uspelo preimenovati mapo, ime destinacija že obstaja
 ```
@@ -197,7 +197,7 @@ Ni uspelo preimenovati mapo, ime destinacija že obstaja
 ```
 Latitude:
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zemljepisna širina:
 ```
@@ -207,7 +207,7 @@ Zemljepisna širina:
 ```
 Longitude:
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dolžina:
 ```
@@ -217,7 +217,7 @@ Dolžina:
 ```
 Could not write file.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ne morem zapisati datoteke.
 ```
@@ -227,7 +227,7 @@ Ne morem zapisati datoteke.
 ```
 Import/Export
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Uvoz / izvoz
 ```
@@ -237,7 +237,7 @@ Uvoz / izvoz
 ```
 Import markers
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Uvoz označevalcev
 ```
@@ -247,7 +247,7 @@ Uvoz označevalcev
 ```
 File imported successfully
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Datoteka je bila uspešno uvožena
 ```
@@ -257,7 +257,7 @@ Datoteka je bila uspešno uvožena
 ```
 File import failed
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Uvoz datoteke ni uspel
 ```
@@ -267,7 +267,7 @@ Uvoz datoteke ni uspel
 ```
 Location services
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Lokacijske storitve
 ```
@@ -277,7 +277,7 @@ Lokacijske storitve
 ```
 Location services are disabled. To get your current location you must enable them.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Storitve za lokacijo so onemogočene. Če želite dobiti trenutno lokacijo, jih morate omogočiti.
 ```
@@ -287,7 +287,7 @@ Storitve za lokacijo so onemogočene. Če želite dobiti trenutno lokacijo, jih 
 ```
 Could not find address
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Naslova ni mogoče najti
 ```
@@ -297,7 +297,7 @@ Naslova ni mogoče najti
 ```
 Searching&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Iskanje&#8230;
 ```
@@ -307,7 +307,7 @@ Iskanje&#8230;
 ```
 Search
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Iskanje
 ```
@@ -317,7 +317,7 @@ Iskanje
 ```
 Share via
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Deli preko
 ```
@@ -327,7 +327,7 @@ Deli preko
 ```
 Do you want to import the content of this file?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ali želite uvoziti vsebino te datoteke?
 ```
@@ -337,7 +337,7 @@ Ali želite uvoziti vsebino te datoteke?
 ```
 Folder name
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ime mape
 ```
@@ -347,7 +347,7 @@ Ime mape
 ```
 Save
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Shrani
 ```
@@ -357,7 +357,7 @@ Shrani
 ```
 Close
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zapri
 ```
@@ -367,7 +367,7 @@ Zapri
 ```
 Are you sure you want to delete the selected markers?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ali ste prepričani, da želite izbrisati izbrane označevalce?
 ```
@@ -377,7 +377,7 @@ Ali ste prepričani, da želite izbrisati izbrane označevalce?
 ```
 Move markers to folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Premaknite označevalce v mapo
 ```
@@ -387,7 +387,7 @@ Premaknite označevalce v mapo
 ```
 Share
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Deli
 ```
@@ -397,7 +397,7 @@ Deli
 ```
 Folder:
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Mapa:
 ```
@@ -407,7 +407,7 @@ Mapa:
 ```
 Snapshot of my markers on Map Marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Posnetek mojih markerjev na zemljevidu
 ```
@@ -418,7 +418,7 @@ Posnetek mojih markerjev na zemljevidu
 This snapshot was made with the app Map Marker:
 %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ta posnetek je bil dosežen z app Map Marker : 
  %s
@@ -429,7 +429,7 @@ Ta posnetek je bil dosežen z app Map Marker :
 ```
 Processing data&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Obdelava podatkov&#8230;
 ```
@@ -439,7 +439,7 @@ Obdelava podatkov&#8230;
 ```
 You have unsaved modifications, do you want to save them?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Imate neshranjene spremembe, ali jih želite shraniti?
 ```
@@ -449,7 +449,7 @@ Imate neshranjene spremembe, ali jih želite shraniti?
 ```
 Use the long press on the map to create a new marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Za ustvarjanje novega označevalnika uporabite dolg pritisk na zemljevidu
 ```
@@ -459,7 +459,7 @@ Za ustvarjanje novega označevalnika uporabite dolg pritisk na zemljevidu
 ```
 Map type
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Tip Mape
 ```
@@ -469,7 +469,7 @@ Tip Mape
 ```
 Normal
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Normalno
 ```
@@ -479,7 +479,7 @@ Normalno
 ```
 Satellite
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Satellite
 ```
@@ -489,7 +489,7 @@ Satellite
 ```
 Terrain
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Teren
 ```
@@ -499,7 +499,7 @@ Teren
 ```
 Hybrid
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Hibridni
 ```
@@ -510,7 +510,7 @@ Hibridni
 Found a problem? Have an idea of improvement?
 Send me an email :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Najden problem? Imate idejo o izboljšanju? 
  Pošlji mi email
@@ -521,7 +521,7 @@ Najden problem? Imate idejo o izboljšanju?
 ```
 Send email&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pošljite email&#8230;
 ```
@@ -532,7 +532,7 @@ Pošljite email&#8230;
 You like the app?
 Rate it 5 stars :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Vam je všeč app? 
  Ocenite jo z 5 zvezdic
@@ -543,7 +543,7 @@ Vam je všeč app?
 ```
 Change folder to&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Spremeni mapo&#8230;
 ```
@@ -553,7 +553,7 @@ Spremeni mapo&#8230;
 ```
 Directions
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Navodila
 ```
@@ -563,7 +563,7 @@ Navodila
 ```
 Acquiring location&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pridobivanje lokacije&#8230;
 ```
@@ -573,7 +573,7 @@ Pridobivanje lokacije&#8230;
 ```
 Meters
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Metrov
 ```
@@ -583,7 +583,7 @@ Metrov
 ```
 Km
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Km
 ```
@@ -593,7 +593,7 @@ Km
 ```
 Feet
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Feet
 ```
@@ -603,7 +603,7 @@ Feet
 ```
 Miles
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Milje
 ```
@@ -613,7 +613,7 @@ Milje
 ```
 Adjust map camera position when guiding to a marker location
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Prilagodite karto položaj kamere, ko vodilna na mesto marker
 ```
@@ -623,7 +623,7 @@ Prilagodite karto položaj kamere, ko vodilna na mesto marker
 ```
 Keep screen on when guiding to a marker location
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ohrani zaslon, ko se usmerite na lokacijo označevalca
 ```
@@ -633,7 +633,7 @@ Ohrani zaslon, ko se usmerite na lokacijo označevalca
 ```
 Marker details copied to clipboard
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Podrobnosti Marker kopirano v odložišče
 ```
@@ -643,7 +643,7 @@ Podrobnosti Marker kopirano v odložišče
 ```
 Long press to drag and move the marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dolgo pritisnite, da povlečete in premaknete oznako
 ```
@@ -653,7 +653,7 @@ Dolgo pritisnite, da povlečete in premaknete oznako
 ```
 Error starting internal task manager, app will now exit
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Napaka pri zagonu notranjega upravitelja opravil, bo aplikacija zdaj zapustila
 ```
@@ -663,7 +663,7 @@ Napaka pri zagonu notranjega upravitelja opravil, bo aplikacija zdaj zapustila
 ```
 Do not show again
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ne prikaži ponovno
 ```
@@ -673,7 +673,7 @@ Ne prikaži ponovno
 ```
 Could not create the map capture
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ne morem ustvariti zajema zemljevida
 ```
@@ -683,7 +683,7 @@ Ne morem ustvariti zajema zemljevida
 ```
 Metric (Kilometers/Meters)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Metrično (kilometri / metri)
 ```
@@ -693,7 +693,7 @@ Metrično (kilometri / metri)
 ```
 Imperial (Miles/Feet)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Imperial (Milje / Koraki)
 ```
@@ -703,7 +703,7 @@ Imperial (Milje / Koraki)
 ```
 There is a problem with Google Play Services: it needs to be installed, updated or activated. Click OK to try and solve it.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pri storitvah Google Play so težave: treba ga je namestiti, posodobiti ali aktivirati. Kliknite V redu, da ga poskusite rešiti.
 ```
@@ -713,7 +713,7 @@ Pri storitvah Google Play so težave: treba ga je namestiti, posodobiti ali akti
 ```
 Delete folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Izbriši mapo
 ```
@@ -723,7 +723,7 @@ Izbriši mapo
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Če vam je všeč moja aplikacija, mi lahko nagradite tako, da vzamete čas, da dobite dobro oceno :-)
 ```
@@ -734,7 +734,7 @@ translates to:
 OK take me
 to the Play Store
 ```
-translates to:
+translated (by human 👀) as:
 ```
 V redu, pojdite v trgovino Play
 ```
@@ -745,7 +745,7 @@ V redu, pojdite v trgovino Play
 I already
 gave a rating
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sem že 
  dal oceno
@@ -757,7 +757,7 @@ Sem že
 Maybe later
 remind me
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Mogoče novejše 
  me spominjajo
@@ -769,7 +769,7 @@ Mogoče novejše
 Maybe later
 do not remind me
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Mogoče kasneje 
  Ne me opominjat
@@ -780,7 +780,7 @@ Mogoče kasneje
 ```
 Could not find the place
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kraja ni bilo mogoče najti
 ```
@@ -790,7 +790,7 @@ Kraja ni bilo mogoče najti
 ```
 Could not find another map application
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Druge aplikacije za zemljevide ni bilo mogoče najti
 ```
@@ -800,7 +800,7 @@ Druge aplikacije za zemljevide ni bilo mogoče najti
 ```
 Move the map around to place your marker where you want and click OK to place it.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Premaknite zemljevid, da postavite svoj označevalec, kjer želite, in kliknite V redu, da ga postavite.
 ```
@@ -810,7 +810,7 @@ Premaknite zemljevid, da postavite svoj označevalec, kjer želite, in kliknite 
 ```
 Imported marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Uvožene marker
 ```
@@ -820,7 +820,7 @@ Uvožene marker
 ```
 Settings
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nastavitve
 ```
@@ -830,7 +830,7 @@ Nastavitve
 ```
 Display zoom buttons
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Gumb za povečavo
 ```
@@ -840,7 +840,7 @@ Gumb za povečavo
 ```
 Decimal degrees
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Decimalne stopnje
 ```
@@ -850,7 +850,7 @@ Decimalne stopnje
 ```
 Degrees decimal minutes
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Stopinje decimalnih minut
 ```
@@ -860,7 +860,7 @@ Stopinje decimalnih minut
 ```
 Degrees minutes seconds
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Stopinjah, minutah in sekundah
 ```
@@ -870,7 +870,7 @@ Stopinjah, minutah in sekundah
 ```
 Coordinates format
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Format koordinate
 ```
@@ -880,7 +880,7 @@ Format koordinate
 ```
 GPS and wireless networks only
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Samo GPS in brezžična omrežja
 ```
@@ -890,7 +890,7 @@ Samo GPS in brezžična omrežja
 ```
 GPS and wireless networks or magnetic sensor
 ```
-translates to:
+translated (by human 👀) as:
 ```
 GPS in brezžična omrežja ali magnetni senzor
 ```
@@ -900,7 +900,7 @@ GPS in brezžična omrežja ali magnetni senzor
 ```
 Magnetic sensor only
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Samo magnetni senzor
 ```
@@ -910,7 +910,7 @@ Samo magnetni senzor
 ```
 Used compass sensor
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Uporabi senzor kompasa
 ```
@@ -920,7 +920,7 @@ Uporabi senzor kompasa
 ```
 FAQ/Help
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pogosta vprašanja / Pomo
 ```
@@ -930,7 +930,7 @@ Pogosta vprašanja / Pomo
 ```
 Folders
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Mape
 ```
@@ -940,7 +940,7 @@ Mape
 ```
 Help and settings
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pomoč in nastavitve
 ```
@@ -950,7 +950,7 @@ Pomoč in nastavitve
 ```
 Language
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Jezik
 ```
@@ -960,7 +960,7 @@ Jezik
 ```
 Marker popup style
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Oblika markerja
 ```
@@ -970,7 +970,7 @@ Oblika markerja
 ```
 Bottom
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Spodaj v oknu
 ```
@@ -980,7 +980,7 @@ Spodaj v oknu
 ```
 Bubble
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Balonček
 ```
@@ -990,7 +990,7 @@ Balonček
 ```
 Coordinates
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Koordinate
 ```
@@ -1000,7 +1000,7 @@ Koordinate
 ```
 Contextual
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Po potrebi
 ```
@@ -1010,7 +1010,7 @@ Po potrebi
 ```
 Always
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Vedno
 ```
@@ -1020,7 +1020,7 @@ Vedno
 ```
 Crosshair display
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Križec zaslona
 ```
@@ -1030,7 +1030,7 @@ Križec zaslona
 ```
 Coordinates window
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Koordinatno okno
 ```
@@ -1040,7 +1040,7 @@ Koordinatno okno
 ```
 Lat:
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Lat:
 ```
@@ -1050,7 +1050,7 @@ Lat:
 ```
 Lng:
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Lng:
 ```
@@ -1060,7 +1060,7 @@ Lng:
 ```
 Marker instant adding mode
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Način takojšnjega dodajanja markerja
 ```
@@ -1070,7 +1070,7 @@ Način takojšnjega dodajanja markerja
 ```
 Advanced
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Napredno
 ```
@@ -1080,7 +1080,7 @@ Napredno
 ```
 Display
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nastavitve prikaza
 ```
@@ -1090,7 +1090,7 @@ Nastavitve prikaza
 ```
 Actions
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dejanja
 ```
@@ -1100,7 +1100,7 @@ Dejanja
 ```
 Language and units
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Jezik in enote
 ```
@@ -1110,7 +1110,7 @@ Jezik in enote
 ```
 Markers ignored on import (duplicates): %1$d
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Markerji niso bili upoštevani pri uvozu (podvojeno): %1$d
 ```
@@ -1120,7 +1120,7 @@ Markerji niso bili upoštevani pri uvozu (podvojeno): %1$d
 ```
 %1$d markers
 ```
-translates to:
+translated (by human 👀) as:
 ```
 %1$d označevalci
 ```
@@ -1130,7 +1130,7 @@ translates to:
 ```
 No auto naming
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ni avtomatičnega poimenovanja
 ```
@@ -1140,7 +1140,7 @@ Ni avtomatičnega poimenovanja
 ```
 Auto naming "number"
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Samodejno poimenovanje "številka"
 ```
@@ -1150,7 +1150,7 @@ Samodejno poimenovanje "številka"
 ```
 Auto naming "Marker number"
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Samodejno poimenovanje \številka Marker""
 ```
@@ -1160,7 +1160,7 @@ Samodejno poimenovanje \številka Marker""
 ```
 New marker auto naming
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Samodejno poimenovanje novega markerja
 ```
@@ -1170,7 +1170,7 @@ Samodejno poimenovanje novega markerja
 ```
 Marker %1$d
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Marker %1$d
 ```
@@ -1180,7 +1180,7 @@ Marker %1$d
 ```
 Waiting for location&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Čakam na lokacijo&#8230;
 ```
@@ -1190,7 +1190,7 @@ translates to:
 ```
 Open the help page and see the FAQ
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Odprite stran za pomoč in si oglejte pogosta vprašanja
 ```
@@ -1200,7 +1200,7 @@ Odprite stran za pomoč in si oglejte pogosta vprašanja
 ```
 Features
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Lastnosti
 ```
@@ -1210,7 +1210,7 @@ Lastnosti
 ```
 View the list of upcoming features for the next app version
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Oglejte si seznam prihajajočih funkcij za naslednjo različico aplikacije
 ```
@@ -1220,7 +1220,7 @@ Oglejte si seznam prihajajočih funkcij za naslednjo različico aplikacije
 ```
 Help &amp; Feedback
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pomoč &amp; Povratne informacije
 ```
@@ -1230,7 +1230,7 @@ Pomoč &amp; Povratne informacije
 ```
 About
 ```
-translates to:
+translated (by human 👀) as:
 ```
 O aplikaciji
 ```
@@ -1240,7 +1240,7 @@ O aplikaciji
 ```
 Distance to %1$s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Oddaljenost od %1$s
 ```
@@ -1250,7 +1250,7 @@ Oddaljenost od %1$s
 ```
 Snapshot
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Posnetek
 ```
@@ -1260,7 +1260,7 @@ Posnetek
 ```
 Share a snapshot of the map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dajte si posnetek zemljevida
 ```
@@ -1270,7 +1270,7 @@ Dajte si posnetek zemljevida
 ```
 All markers and folders
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Vsi markerji in mape
 ```
@@ -1280,7 +1280,7 @@ Vsi markerji in mape
 ```
 <![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
 ```
-translates to:
+translated (by human 👀) as:
 ```
 <![CDATA[<html> <body> <b> Če želite pravilno smer v smeri proti kompasu, morate pravilno umerjati napravo. <br> Če želite umeriti svojo napravo, jo preprosto premaknite z risanjem 8 Premik mora biti širok in ponovljen približno 3-krat za večjo učinkovitost. <br> Napravo lahko kalibrirate tako, da to storite kadar koli. </B> <br> <br> Umerjanje ima svoje omejitve in morda ni dovolj za preprečevanje motenj v bližini, kot so:. veliki kovinski predmeti <br> elektronske naprave <br> & bull; magneti <br> & bull; znotraj vozila / avtobusa / vlaka / letala </body> </html>]]>
 ```
@@ -1290,7 +1290,7 @@ translates to:
 ```
 Badges
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Značke
 ```
@@ -1300,7 +1300,7 @@ Značke
 ```
 Buy a donation badge
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kupite donacijsko značko
 ```
@@ -1310,7 +1310,7 @@ Kupite donacijsko značko
 ```
 Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Hvala za vašo donacijo! Kot donator imate dostop do Premium aplikacije.
 ```
@@ -1320,7 +1320,7 @@ Hvala za vašo donacijo! Kot donator imate dostop do Premium aplikacije.
 ```
 Default folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Privzeta mapa
 ```
@@ -1330,7 +1330,7 @@ Privzeta mapa
 ```
 Sync options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Možnosti sinhronizacije
 ```
@@ -1340,7 +1340,7 @@ Možnosti sinhronizacije
 ```
 Google Drive
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Google Drive
 ```
@@ -1350,7 +1350,7 @@ Google Drive
 ```
 Dropbox
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dropbox
 ```
@@ -1360,7 +1360,7 @@ Dropbox
 ```
 Configuring&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Konfiguracija&#8230;
 ```
@@ -1370,7 +1370,7 @@ Konfiguracija&#8230;
 ```
 Sync now
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sinhroniziraj zdaj
 ```
@@ -1380,7 +1380,7 @@ Sinhroniziraj zdaj
 ```
 Never
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nikoli
 ```
@@ -1390,7 +1390,7 @@ Nikoli
 ```
 Syncing…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sinhroniziranje&#8230;
 ```
@@ -1400,7 +1400,7 @@ Sinhroniziranje&#8230;
 ```
 Select folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Izberite mapo
 ```
@@ -1410,7 +1410,7 @@ Izberite mapo
 ```
 Load error
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Napaka pri nalaganju
 ```
@@ -1420,7 +1420,7 @@ Napaka pri nalaganju
 ```
 Retry
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Poskusite znova
 ```
@@ -1430,7 +1430,7 @@ Poskusite znova
 ```
 Root
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Root
 ```
@@ -1440,7 +1440,7 @@ Root
 ```
 Shared
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Deljeno
 ```
@@ -1450,7 +1450,7 @@ Deljeno
 ```
 Purchase successful!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nakup uspešen!
 ```
@@ -1460,7 +1460,7 @@ Nakup uspešen!
 ```
 Purchase failed: %1$s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nakup ni uspel %1$s
 ```
@@ -1470,7 +1470,7 @@ Nakup ni uspel %1$s
 ```
 Premium access available! You currently have access to premium features.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Premium dostopen! Trenutno imate dostop do premijskih funkcij.
 ```
@@ -1480,7 +1480,7 @@ Premium dostopen! Trenutno imate dostop do premijskih funkcij.
 ```
 You cannot select that folder because it contains multiple files named %1$s. The sync requires the folder to contain only one file with that name.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Te mape ne morete izbrati, ker vsebuje več datotek z imenom %1$s. Za sinhronizacijo mora mapa vsebovati samo eno datoteko s tem imenom.
 ```
@@ -1490,7 +1490,7 @@ Te mape ne morete izbrati, ker vsebuje več datotek z imenom %1$s. Za sinhroniza
 ```
 It seems sync data already exists in that folder. If you select that folder, your local data will be merged with the folder data when sync is performed. Is that what you want?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zdi se, sinhronizacija podatkov že obstaja v tej mapi. Če izberete to mapo, bodo vaši lokalni podatki se združila s podatki v mapi, ko se izvaja sinhronizacija. Je to tisto, kar želite?
 ```
@@ -1500,7 +1500,7 @@ Zdi se, sinhronizacija podatkov že obstaja v tej mapi. Če izberete to mapo, bo
 ```
 File options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Možnosti datoteke
 ```
@@ -1510,7 +1510,7 @@ Možnosti datoteke
 ```
 Cloud sync
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sinhronizacija v oblaku
 ```
@@ -1520,7 +1520,7 @@ Sinhronizacija v oblaku
 ```
 Sync this map file on the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sinhronizirajte to mapno datoteko v oblaku
 ```
@@ -1530,7 +1530,7 @@ Sinhronizirajte to mapno datoteko v oblaku
 ```
 Map file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Datoteka mape
 ```
@@ -1540,7 +1540,7 @@ Datoteka mape
 ```
 Create local map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ustvarite lokalni zemljevid
 ```
@@ -1550,7 +1550,7 @@ Ustvarite lokalni zemljevid
 ```
 Create a new map file locally
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ustvari novo mapo lokalno
 ```
@@ -1560,7 +1560,7 @@ Ustvari novo mapo lokalno
 ```
 Create cloud map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ustvarite zemljevid v oblaku
 ```
@@ -1570,7 +1570,7 @@ Ustvarite zemljevid v oblaku
 ```
 Create a map file on the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ustvarite zemljevid / datoteko na oblaku
 ```
@@ -1580,7 +1580,7 @@ Ustvarite zemljevid / datoteko na oblaku
 ```
 Retrieves changes from the cloud and sends local changes to the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Prikliče spremembe iz oblaka in pošlje lokalne spremembe v oblak
 ```
@@ -1590,7 +1590,7 @@ Prikliče spremembe iz oblaka in pošlje lokalne spremembe v oblak
 ```
 Rename
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Preimenovanje
 ```
@@ -1600,7 +1600,7 @@ Preimenovanje
 ```
 Rename the map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Preimenujte zemljevid
 ```
@@ -1610,7 +1610,7 @@ Preimenujte zemljevid
 ```
 Enter new name
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Vnesite novo ime
 ```
@@ -1620,7 +1620,7 @@ Vnesite novo ime
 ```
 Enter the new map\'s name
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Vnestite novo ime za zameljevid
 ```
@@ -1630,7 +1630,7 @@ Vnestite novo ime za zameljevid
 ```
 %1$d folders, %2$d markers, size: %3$d KB
 ```
-translates to:
+translated (by human 👀) as:
 ```
 %1$d %2$d markerji, %3$d KB
 ```
@@ -1640,7 +1640,7 @@ translates to:
 ```
 Create new folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ustvari novo mapo
 ```
@@ -1650,7 +1650,7 @@ Ustvari novo mapo
 ```
 Could not create folder: name empty
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Mape ni mogoče ustvariti: ime prazno
 ```
@@ -1660,7 +1660,7 @@ Mape ni mogoče ustvariti: ime prazno
 ```
 Could not create folder: error occurred
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ne morem ustvariti mape: Prišlo je do napake
 ```
@@ -1670,7 +1670,7 @@ Ne morem ustvariti mape: Prišlo je do napake
 ```
 Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zahvaljujemo se vam za nakup Premium nadgradnje Map Marker
 ```
@@ -1680,7 +1680,7 @@ Zahvaljujemo se vam za nakup Premium nadgradnje Map Marker
 ```
 Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zahvaljujemo se vam, ker ste pokazali zanimanje, tako da so zahtevali brezplačno kartografsko kartico Premium :-)
 ```
@@ -1690,7 +1690,7 @@ Zahvaljujemo se vam, ker ste pokazali zanimanje, tako da so zahtevali brezplačn
 ```
 Premium
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Premium
 ```
@@ -1700,7 +1700,7 @@ Premium
 ```
 Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nadgradite na premijo in v celoti izkoristite funkcije Map Marker!
 ```
@@ -1710,7 +1710,7 @@ Nadgradite na premijo in v celoti izkoristite funkcije Map Marker!
 ```
 Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Za dostop do te funkcije potrebujete nadgradnjo premium. Nadgradite na premijo in v celoti izkoristite funkcije Map Marker!
 ```
@@ -1720,7 +1720,7 @@ Za dostop do te funkcije potrebujete nadgradnjo premium. Nadgradite na premijo i
 ```
 You have the premium upgrade for free! You can still purchase it if you want to show your support :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nadgradnjo premium imate brezplačno! Še vedno ga lahko kupite, če želite pokazati svojo podporo :-)
 ```
@@ -1730,7 +1730,7 @@ Nadgradnjo premium imate brezplačno! Še vedno ga lahko kupite, če želite pok
 ```
 Purchase the premium upgrade
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kupite premium nadgradnjo
 ```
@@ -1740,7 +1740,7 @@ Kupite premium nadgradnjo
 ```
 My Google account already has premium access, activate it!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Moj Google račun že ima dostop do premium, jo aktiviraj!
 ```
@@ -1750,7 +1750,7 @@ Moj Google račun že ima dostop do premium, jo aktiviraj!
 ```
 Troubleshooting
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Odpravljanje težav
 ```
@@ -1760,7 +1760,7 @@ Odpravljanje težav
 ```
 Open a list of actions to solve possible problems
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Odprite seznam ukrepov za reševanje morebitnih težav
 ```
@@ -1770,7 +1770,7 @@ Odprite seznam ukrepov za reševanje morebitnih težav
 ```
 Test internet
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Test interneta
 ```
@@ -1780,7 +1780,7 @@ Test interneta
 ```
 Checks that the app has access to internet
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Preveri, ali ima aplikacija dostop do interneta
 ```
@@ -1790,7 +1790,7 @@ Preveri, ali ima aplikacija dostop do interneta
 ```
 Test file writing
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pisanje preizkusne datoteke
 ```
@@ -1800,7 +1800,7 @@ Pisanje preizkusne datoteke
 ```
 Checks that the app can save files on the internal SD card
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Preveri, ali lahko aplikacija shranjuje datoteke na notranjo kartico SD
 ```
@@ -1810,7 +1810,7 @@ Preveri, ali lahko aplikacija shranjuje datoteke na notranjo kartico SD
 ```
 GP Services (app)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 GP Storitev (aplikacije)
 ```
@@ -1820,7 +1820,7 @@ GP Storitev (aplikacije)
 ```
 Open the details of the currently installed Google Play Services app
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Odprite podrobnosti o trenutno nameščeni aplikaciji Google Play Services
 ```
@@ -1830,7 +1830,7 @@ Odprite podrobnosti o trenutno nameščeni aplikaciji Google Play Services
 ```
 GP Services (store)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 GP storitve (trgovina)
 ```
@@ -1840,7 +1840,7 @@ GP storitve (trgovina)
 ```
 Google Play (app)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Google Play (aplikacija)
 ```
@@ -1850,7 +1850,7 @@ Google Play (aplikacija)
 ```
 Contact support
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Podpora
 ```
@@ -1860,7 +1860,7 @@ Podpora
 ```
 Write an email to support with the details of your problem
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Napišite e-poštno sporočilo za podporo s podrobnostmi o vaši težavi
 ```
@@ -1870,7 +1870,7 @@ Napišite e-poštno sporočilo za podporo s podrobnostmi o vaši težavi
 ```
 Device network unavailable
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Omrežna naprava ni na voljo
 ```
@@ -1880,7 +1880,7 @@ Omrežna naprava ni na voljo
 ```
 Testing&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Testiranje&#8230;
 ```
@@ -1890,7 +1890,7 @@ Testiranje&#8230;
 ```
 Network test succeeded
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Testiranje omrežja je uspelo
 ```
@@ -1900,7 +1900,7 @@ Testiranje omrežja je uspelo
 ```
 Network test failed
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Napaka pri testiranju omrežja.
 ```
@@ -1910,7 +1910,7 @@ Napaka pri testiranju omrežja.
 ```
 Disk test failed: could not write to internal storage
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Preskus diska ni uspel: ni bilo mogoče pisati v notranji pomnilnik
 ```
@@ -1920,7 +1920,7 @@ Preskus diska ni uspel: ni bilo mogoče pisati v notranji pomnilnik
 ```
 Disk test failed: could not write to external storage
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Testiranje diska ni uspelo: Ne morem pisati na zunanji pomnilnik
 ```
@@ -1930,7 +1930,7 @@ Testiranje diska ni uspelo: Ne morem pisati na zunanji pomnilnik
 ```
 Disk test succeeded
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Testiranje diska uspelo
 ```
@@ -1940,7 +1940,7 @@ Testiranje diska uspelo
 ```
 App failed to start: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 App ni uspela %s
 ```
@@ -1950,7 +1950,7 @@ App ni uspela %s
 ```
 The file does not exist
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Datoteka ne obstaja
 ```
@@ -1960,7 +1960,7 @@ Datoteka ne obstaja
 ```
 Share cloud map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Delite mapo v oblaku
 ```
@@ -1970,7 +1970,7 @@ Delite mapo v oblaku
 ```
 Open the cloud map folder to view its properties and share it with other people
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Odprite mapo v oblaku in si oglejte njene lastnosti, ter jo delite z drugimi
 ```
@@ -1980,7 +1980,7 @@ Odprite mapo v oblaku in si oglejte njene lastnosti, ter jo delite z drugimi
 ```
 Internal file to SD
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Notranja datoteka na SD
 ```
@@ -1990,7 +1990,7 @@ Notranja datoteka na SD
 ```
 Copy the app hidden internal files to the sdcard
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kopirajte skrite notranje datoteke v sdcard
 ```
@@ -2000,7 +2000,7 @@ Kopirajte skrite notranje datoteke v sdcard
 ```
 Enter destination folder path
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Vnesite pot ciljne mape
 ```
@@ -2010,7 +2010,7 @@ Vnesite pot ciljne mape
 ```
 Could not create folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ne morem ustvariti mape
 ```
@@ -2020,7 +2020,7 @@ Ne morem ustvariti mape
 ```
 Files successfully saved to: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Datoteke uspešno shranjen %s
 ```
@@ -2030,7 +2030,7 @@ Datoteke uspešno shranjen %s
 ```
 View history/Restore
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Poglej zgodovino / Obnovi
 ```
@@ -2040,7 +2040,7 @@ Poglej zgodovino / Obnovi
 ```
 View history of modifications to the cloud folder and select a version to restore to
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Oglejte si zgodovino sprememb v mapo v oblaku in izberite različico za obnovitev
 ```
@@ -2050,7 +2050,7 @@ Oglejte si zgodovino sprememb v mapo v oblaku in izberite različico za obnovite
 ```
 Create map file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ustvarite novo
 ```
@@ -2060,7 +2060,7 @@ Ustvarite novo
 ```
 Create a new map file locally or on the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ustvarite novo mapo, datoteko lokalno ali v oblaku
 ```
@@ -2070,7 +2070,7 @@ Ustvarite novo mapo, datoteko lokalno ali v oblaku
 ```
 Open cloud map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Odprite mapo iz oblaka
 ```
@@ -2080,7 +2080,7 @@ Odprite mapo iz oblaka
 ```
 Open a map file from the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Odprite mapno datoteko iz oblaka
 ```
@@ -2090,7 +2090,7 @@ Odprite mapno datoteko iz oblaka
 ```
 Map Marker needs the permission to access your location in order to display it on the map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Označevalnik zemljevid potrebuje dovoljenje za dostop do vaše lokacije, da ga bo prikazal na zemljevidu
 ```
@@ -2100,7 +2100,7 @@ Označevalnik zemljevid potrebuje dovoljenje za dostop do vaše lokacije, da ga 
 ```
 Map Marker needs the permission to access to the storage of your device
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Map Marker potrebuje dovoljenje za dostop do vaše naprave
 ```
@@ -2110,7 +2110,7 @@ Map Marker potrebuje dovoljenje za dostop do vaše naprave
 ```
 Open settings
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Odpri nastavitve
 ```
@@ -2120,7 +2120,7 @@ Odpri nastavitve
 ```
 No map folder found on the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 V oblaku ni nobene mape
 ```
@@ -2130,7 +2130,7 @@ V oblaku ni nobene mape
 ```
 Auto sync
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Samodejna sinhronizacija
 ```
@@ -2140,7 +2140,7 @@ Samodejna sinhronizacija
 ```
 Choose a version to restore to
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Izberite verzijo obnovitve
 ```
@@ -2150,7 +2150,7 @@ Izberite verzijo obnovitve
 ```
 You must sync first before restoring an older version
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pred obnovitvijo starejše različice morate najprej sinhronizirati
 ```
@@ -2160,7 +2160,7 @@ Pred obnovitvijo starejše različice morate najprej sinhronizirati
 ```
 Are you sure you want to restore this version?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ali ste prepričani, da želite obnoviti to različico?
 ```
@@ -2170,7 +2170,7 @@ Ali ste prepričani, da želite obnoviti to različico?
 ```
 Map Marker lost permissions to write to your cloud account. Sync will always fail until this is fixed. Do you want to fix it now?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Map Maker je izgubil dovoljenja za pisanje v račun za oblak. Sinhronizacija bo vedno onemogočena, dokler je to ne odpravite. Želite zdaj popraviti?
 ```
@@ -2180,7 +2180,7 @@ Map Maker je izgubil dovoljenja za pisanje v račun za oblak. Sinhronizacija bo 
 ```
 A sync error occurred. Please try again.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Prišlo je do napake v sinhronizaciji. Prosim poskusite ponovno.
 ```
@@ -2190,7 +2190,7 @@ Prišlo je do napake v sinhronizaciji. Prosim poskusite ponovno.
 ```
 A sync error occurred: network error. Please try again.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Napaka pri sinhronizaciji: omrežna napaka. Prosim poskusite ponovno.
 ```
@@ -2200,7 +2200,7 @@ Napaka pri sinhronizaciji: omrežna napaka. Prosim poskusite ponovno.
 ```
 A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Med sinhronizacijo je prišlo do napake: Druga naprava opravlja sinhronizacijo v istem času. Poskusi kasneje ponovno.
 ```
@@ -2210,7 +2210,7 @@ Med sinhronizacijo je prišlo do napake: Druga naprava opravlja sinhronizacijo v
 ```
 Changes are available from the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Spremembe so na voljo v oblaku
 ```
@@ -2220,7 +2220,7 @@ Spremembe so na voljo v oblaku
 ```
 Changes made from another device were synced on the cloud. You can retrieve those changes by syncing.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Spremembe iz druge naprave so bile sinhronizirane na oblaku. Te spremembe lahko naložite s sinhronizacijo.
 ```
@@ -2230,7 +2230,7 @@ Spremembe iz druge naprave so bile sinhronizirane na oblaku. Te spremembe lahko 
 ```
 Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for details on how to restore cloud permissions.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Obnovitev dovoljenj za shranjevanje v oblaku ni uspela. Za podrobnosti o obnovitvi dovoljenj za oblak si oglejte "O" -> "Pogosta vprašanja".
 ```
@@ -2240,7 +2240,7 @@ Obnovitev dovoljenj za shranjevanje v oblaku ni uspela. Za podrobnosti o obnovit
 ```
 A sync error occurred: duplicate index, there are at least two files named index.json in the map cloud folder. Remove the duplicates manually and try again.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Prišlo je do napake v sinhronizaciji: dvojnik indeksa, v mapi map v oblaku so vsaj dve datoteki z imenom index.json. Ročno odstranite podvojene in poskusite znova.
 ```
@@ -2250,7 +2250,7 @@ Prišlo je do napake v sinhronizaciji: dvojnik indeksa, v mapi map v oblaku so v
 ```
 Phone number
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Telefonska številka
 ```
@@ -2260,7 +2260,7 @@ Telefonska številka
 ```
 Edit phone number
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Uredi telefonsko številko
 ```
@@ -2270,7 +2270,7 @@ Uredi telefonsko številko
 ```
 Map Marker needs the permission to make calls on your device
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Map Marker potrebuje dovoljenja za odhodne klice na napravi
 ```
@@ -2280,7 +2280,7 @@ Map Marker potrebuje dovoljenja za odhodne klice na napravi
 ```
 No phone number is defined for that marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nobena telefonska št. ni določena za ta marker
 ```
@@ -2290,7 +2290,7 @@ Nobena telefonska št. ni določena za ta marker
 ```
 Navigation options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Možnosti navigacije
 ```
@@ -2300,7 +2300,7 @@ Možnosti navigacije
 ```
 Open the marker location in this app
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Odprite mesto označevalca v tej aplikaciji
 ```
@@ -2310,7 +2310,7 @@ Odprite mesto označevalca v tej aplikaciji
 ```
 Open the marker street view in this app
 ```
-translates to:
+translated (by human 👀) as:
 ```
 V tej aplikaciji odprite pogled ulic markerja
 ```
@@ -2320,7 +2320,7 @@ V tej aplikaciji odprite pogled ulic markerja
 ```
 Enter navigation mode in this app to get directions to the marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 V to aplikacijo vnesite navigacijski način, da dobite navodila za označevanje
 ```
@@ -2330,7 +2330,7 @@ V to aplikacijo vnesite navigacijski način, da dobite navodila za označevanje
 ```
 Other options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Druge možnosti
 ```
@@ -2340,7 +2340,7 @@ Druge možnosti
 ```
 Share the selected marker as plain text into another app
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Izbrani označevalec dajte v skupno rabo kot navadno besedilo v drugo aplikacijo
 ```
@@ -2350,7 +2350,7 @@ Izbrani označevalec dajte v skupno rabo kot navadno besedilo v drugo aplikacijo
 ```
 %1$d markers in %2$d folders
 ```
-translates to:
+translated (by human 👀) as:
 ```
 %1$d označevalci v %2$d mapah
 ```
@@ -2360,7 +2360,7 @@ translates to:
 ```
 A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Napaka pri sinhronizaciji: podatki o oblaku so bili posodobljeni z najnovejšo različico aplikacije. Za sinhronizacijo morate posodobiti oznako zemljevida v tej napravi.
 ```
@@ -2370,7 +2370,7 @@ Napaka pri sinhronizaciji: podatki o oblaku so bili posodobljeni z najnovejšo r
 ```
 Could not find a phone app on this device.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 V tej napravi ni bilo mogoče najti telefonske aplikacije.
 ```
@@ -2380,7 +2380,7 @@ V tej napravi ni bilo mogoče najti telefonske aplikacije.
 ```
 Phone number options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Možnosti telefonske številke
 ```
@@ -2390,7 +2390,7 @@ Možnosti telefonske številke
 ```
 Call phone number
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pokličite telefonsko številko
 ```
@@ -2400,7 +2400,7 @@ Pokličite telefonsko številko
 ```
 Dial phone number
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kličite telefonsko številko
 ```
@@ -2410,7 +2410,7 @@ Kličite telefonsko številko
 ```
 Text phone number
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Telefonska številka
 ```
@@ -2420,7 +2420,7 @@ Telefonska številka
 ```
 Default navigation action
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Privzete nastavitve navigacije
 ```
@@ -2430,7 +2430,7 @@ Privzete nastavitve navigacije
 ```
 Default phone action
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Privzeto dejanje telefona
 ```
@@ -2440,7 +2440,7 @@ Privzeto dejanje telefona
 ```
 Ask
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Vprašajte
 ```
@@ -2450,7 +2450,7 @@ Vprašajte
 ```
 Premium free trial
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Premium brezplačni preskus
 ```
@@ -2460,7 +2460,7 @@ Premium brezplačni preskus
 ```
 What is the premium upgrade?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kaj je premium nadgradnja?
 ```
@@ -2470,7 +2470,7 @@ Kaj je premium nadgradnja?
 ```
 Premium free trial started! The trial will expire at the following date: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Začela se je brezplačna preizkušna različica. Preskusna različica bo potekla na naslednji datum: %s
 ```
@@ -2481,7 +2481,7 @@ Začela se je brezplačna preizkušna različica. Preskusna različica bo potekl
 Trial expiration:
 %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Potek Trial: 
  %s
@@ -2492,7 +2492,7 @@ Potek Trial:
 ```
 Trial expired
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Preizkus je potekel
 ```
@@ -2502,7 +2502,7 @@ Preizkus je potekel
 ```
 Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sinhronizacija je bila preklicana: za sinhronizacijo potrebujete nadgradnjo premium.
 ```
@@ -2512,7 +2512,7 @@ Sinhronizacija je bila preklicana: za sinhronizacijo potrebujete nadgradnjo prem
 ```
 Error: trial starting in the future!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Napaka: začetek preizkusa v prihodnosti!
 ```
@@ -2522,7 +2522,7 @@ Napaka: začetek preizkusa v prihodnosti!
 ```
 Thank you for your purchase!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zahvaljujemo se vam za nakup!
 ```
@@ -2532,7 +2532,7 @@ Zahvaljujemo se vam za nakup!
 ```
 Browse
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Brskanje
 ```
@@ -2542,7 +2542,7 @@ Brskanje
 ```
 Organize
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Organizirajte
 ```
@@ -2552,7 +2552,7 @@ Organizirajte
 ```
 Create
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ustvari
 ```
@@ -2562,7 +2562,7 @@ Ustvari
 ```
 Retry
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Poskusite znova
 ```
@@ -2572,7 +2572,7 @@ Poskusite znova
 ```
 Search failed
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Iskanje ni uspelo
 ```
@@ -2582,7 +2582,7 @@ Iskanje ni uspelo
 ```
 Search failed, network error
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Iskanje ni uspelo, napaka omrežja
 ```
@@ -2592,7 +2592,7 @@ Iskanje ni uspelo, napaka omrežja
 ```
 Details
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Podrobnosti
 ```
@@ -2602,7 +2602,7 @@ Podrobnosti
 ```
 Sync error
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Napaka pri sinhronizaciji
 ```
@@ -2612,7 +2612,7 @@ Napaka pri sinhronizaciji
 ```
 The file already exists, do you want to overwrite it?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Datoteka že obstaja. Ali jo želite zamenjati?
 ```
@@ -2622,7 +2622,7 @@ Datoteka že obstaja. Ali jo želite zamenjati?
 ```
 Copy markers to folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kopiranje označevalcev v mapo
 ```
@@ -2632,7 +2632,7 @@ Kopiranje označevalcev v mapo
 ```
 Error loading the Google Map component. Please restart the app.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Napaka pri nalaganju Google Map komponento. Znova zaženite aplikacijo.
 ```
@@ -2642,7 +2642,7 @@ Napaka pri nalaganju Google Map komponento. Znova zaženite aplikacijo.
 ```
 You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Tu boste videli seznam vaših označevalcev. V izbrani mapi trenutno nimate označevalcev. Novem označevalniku lahko dodate tako, da kliknete spodnji gumb.
 ```
@@ -2652,7 +2652,7 @@ Tu boste videli seznam vaših označevalcev. V izbrani mapi trenutno nimate ozna
 ```
 No search results
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ni rezultatov iskanja
 ```
@@ -2662,7 +2662,7 @@ Ni rezultatov iskanja
 ```
 Open Street Map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Open Street Map
 ```
@@ -2672,7 +2672,7 @@ Open Street Map
 ```
 Bing Road
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bing Road
 ```
@@ -2682,7 +2682,7 @@ Bing Road
 ```
 Bing Aerial
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bing Aerial
 ```
@@ -2692,7 +2692,7 @@ Bing Aerial
 ```
 Bing Aerial With Labels
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bing področje z oznakami
 ```
@@ -2702,7 +2702,7 @@ Bing področje z oznakami
 ```
 ArcGIS Server
 ```
-translates to:
+translated (by human 👀) as:
 ```
 ArcGIS Server
 ```
@@ -2712,7 +2712,7 @@ ArcGIS Server
 ```
 Offline maps
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zemljevidi brez povezave
 ```
@@ -2722,7 +2722,7 @@ Zemljevidi brez povezave
 ```
 No folder selected
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nobena mapa ni izbrana
 ```
@@ -2732,7 +2732,7 @@ Nobena mapa ni izbrana
 ```
 Storage folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Mapa za shranjevanje
 ```
@@ -2743,7 +2743,7 @@ Mapa za shranjevanje
 Test results of the offline maps folder:
 %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Rezultati testov mape brez povezave kart: 
  %s
@@ -2754,7 +2754,7 @@ Rezultati testov mape brez povezave kart:
 ```
 No folder is selected for offline map files. In order to use offline maps, open the settings and select a folder for offline map files.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nobena mapa ni izbrana v načinu brez povezave. Da bi lahko uporabljali zemljevide brez povezave, odprite nastavitve in izberite mapo za offline datoteke zemljevidov.
 ```
@@ -2764,7 +2764,7 @@ Nobena mapa ni izbrana v načinu brez povezave. Da bi lahko uporabljali zemljevi
 ```
 The selected offline map folder you selected contains no files. Make sure you add the offline map files in that folder before using offline maps, otherwise the map will be empty.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Izbrana offline mape, ki ste jih izbrali ne vsebujejo datotek. Poskrbite, da dodate zemljevide brez povezave v mapo pred uporabo zemljevidov v načinu brez povezave.
 ```
@@ -2774,7 +2774,7 @@ Izbrana offline mape, ki ste jih izbrali ne vsebujejo datotek. Poskrbite, da dod
 ```
 Success: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Uspešno: %s
 ```
@@ -2784,7 +2784,7 @@ Uspešno: %s
 ```
 Failed: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ni uspelo: %s
 ```
@@ -2794,7 +2794,7 @@ Ni uspelo: %s
 ```
 How to do it?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kako narediti?
 ```
@@ -2804,7 +2804,7 @@ Kako narediti?
 ```
 Click here to open the web page explaining how to obtain those maps.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kliknite tukaj, da odprete spletno stran, ki pojasnjuje, kako pridobiti te zemljevide.
 ```
@@ -2814,7 +2814,7 @@ Kliknite tukaj, da odprete spletno stran, ki pojasnjuje, kako pridobiti te zemlj
 ```
 Credits
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Krediti
 ```
@@ -2824,7 +2824,7 @@ Krediti
 ```
 Copyright and legal mentions
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Avtorske pravice in pravna omemba
 ```
@@ -2836,7 +2836,7 @@ Legal mentions for other map data than Google Maps:
 
 %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pravna omemba drugih podatkov zemljevida od Google Zemljevidov:
 
@@ -2848,7 +2848,7 @@ Pravna omemba drugih podatkov zemljevida od Google Zemljevidov:
 ```
 Disable error file dump
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Onemogoči datoteko z napako
 ```
@@ -2858,7 +2858,7 @@ Onemogoči datoteko z napako
 ```
 Disable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Onemogočite pisanje napak aplikacije v datoteko na kartico SD
 ```
@@ -2868,7 +2868,7 @@ Onemogočite pisanje napak aplikacije v datoteko na kartico SD
 ```
 Enable error file dump
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Omogoči napaki datoteke smetišče
 ```
@@ -2878,7 +2878,7 @@ Omogoči napaki datoteke smetišče
 ```
 Enable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Omogočite pisanje napak aplikacij v datoteko na kartici SD
 ```
@@ -2888,7 +2888,7 @@ Omogočite pisanje napak aplikacij v datoteko na kartici SD
 ```
 Start background sync…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Začetek sinhronizacije v ozadju&#8230;
 ```
@@ -2898,7 +2898,7 @@ Začetek sinhronizacije v ozadju&#8230;
 ```
 Never
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nikoli
 ```
@@ -2908,7 +2908,7 @@ Nikoli
 ```
 When app enters background
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ko aplikacija vstopi ozadje
 ```
@@ -2918,7 +2918,7 @@ Ko aplikacija vstopi ozadje
 ```
 %d seconds after the app enters background
 ```
-translates to:
+translated (by human 👀) as:
 ```
 %d sekund po tem, ko aplikacija vstopi v ozadje
 ```
@@ -2928,7 +2928,7 @@ translates to:
 ```
 %d minutes after the app enters background
 ```
-translates to:
+translated (by human 👀) as:
 ```
 %d minut po aplikaciji se prestavi v ozadje
 ```
@@ -2938,7 +2938,7 @@ translates to:
 ```
 Sync starting in %d seconds
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sinhronizacija z začetkom v %d sekundah
 ```
@@ -2948,7 +2948,7 @@ Sinhronizacija z začetkom v %d sekundah
 ```
 You can cancel the sync at any time and your data will be synced on next attempt.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sinhrono lahko kadar koli prekličete in vaši podatki se bodo sinhronizirali ob naslednjem poskusu.
 ```
@@ -2958,7 +2958,7 @@ Sinhrono lahko kadar koli prekličete in vaši podatki se bodo sinhronizirali ob
 ```
 Press back again to exit
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ponovno pritisnite nazaj za izhod iz aplikacije
 ```
@@ -2968,7 +2968,7 @@ Ponovno pritisnite nazaj za izhod iz aplikacije
 ```
 Cannot start sync with no internet access on the device.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ne morem začeti sinhronizacije, ko povezava z internetom ni vzpostavljena.
 ```
@@ -2978,7 +2978,7 @@ Ne morem začeti sinhronizacije, ko povezava z internetom ni vzpostavljena.
 ```
 Manage map files
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Upravljanje datotek zemljevidov
 ```
@@ -2988,7 +2988,7 @@ Upravljanje datotek zemljevidov
 ```
 Map files
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zemljevid datoteke
 ```
@@ -2998,7 +2998,7 @@ Zemljevid datoteke
 ```
 Delete map file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Izbrišite mapno datoteko
 ```
@@ -3008,7 +3008,7 @@ Izbrišite mapno datoteko
 ```
 This action will delete the map file from this device
 ```
-translates to:
+translated (by human 👀) as:
 ```
 To dejanje bo izbrisalo datoteko zemljevidov iz te naprave
 ```
@@ -3018,7 +3018,7 @@ To dejanje bo izbrisalo datoteko zemljevidov iz te naprave
 ```
 This action will delete the map file from your device forever. All the markers inside that file will be lost. Are you sure?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 To dejanje bo trajno izbrisalo datoteko zemljevida iz vaše naprave. Vsi markerji v tej datoteki bodo izgubljeni. Ali ste prepričani?
 ```
@@ -3028,7 +3028,7 @@ To dejanje bo trajno izbrisalo datoteko zemljevida iz vaše naprave. Vsi markerj
 ```
 This action will delete the map file from your device forever. All changes not yet synced to the cloud will be lost. The cloud folder will not be affected by this action and you will have to delete it manually. Are you sure?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 To dejanje bo trajno izbrisalo datoteko zemljevida iz vaše naprave. Vse spremembe, ki še niso sinhronizirane z oblakom, bodo izgubljene. To dejanje ne bo vplivalo na mapo v oblaku, zato jo boste morali izbrisati ročno. Ali si prepričan?
 ```
@@ -3038,7 +3038,7 @@ To dejanje bo trajno izbrisalo datoteko zemljevida iz vaše naprave. Vse spremem
 ```
 Map file successfully deleted
 ```
-translates to:
+translated (by human 👀) as:
 ```
 datoteka Map uspešno izbrisan
 ```
@@ -3048,7 +3048,7 @@ datoteka Map uspešno izbrisan
 ```
 Could not delete map file: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Datoteke zemljevidov ni bilo mogoče izbrisati: %s
 ```
@@ -3058,7 +3058,7 @@ Datoteke zemljevidov ni bilo mogoče izbrisati: %s
 ```
 Marker saved in a non visible folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Označevalec je shranjen v neobjavljeni mapi
 ```
@@ -3068,7 +3068,7 @@ Označevalec je shranjen v neobjavljeni mapi
 ```
 Your changes have not been synced recently. Make sure you keep your cloud copy up to date. Do you want to sync now?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Vaše spremembe niso bile nedavno sinhronizirane. Poskrbite, da bo kopija v oblaku posodobljena. Želite zdaj sinhronizirati?
 ```
@@ -3078,7 +3078,7 @@ Vaše spremembe niso bile nedavno sinhronizirane. Poskrbite, da bo kopija v obla
 ```
 The markers of this map file are currently only saved on this device. It is recommended to save your markers on the cloud to avoid losing them. Do you want to save them to the cloud now?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Oznake te mape so trenutno shranjene samo v tej napravi. Priporočljivo je, da shranite svoje označevalce v oblak, da se izognete izgubi. Ali jih želite zdaj shraniti v oblak?
 ```
@@ -3088,7 +3088,7 @@ Oznake te mape so trenutno shranjene samo v tej napravi. Priporočljivo je, da s
 ```
 Do you want to sync this map file? With manual you will need to sync manually every time. With automatic (recommended) you will select a destination cloud folder and the sync to the cloud will start automatically every time the app enters background.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Želite sinhronizirati to mapo? Pri ročnem boste morali ročno sinhronizirati vsakič. S samodejno (priporočeno) izberete mapo ciljnega oblaka, sinhronizacija z oblakem pa se bo samodejno začela vsakič, ko aplikacija vstopi v ozadje.
 ```
@@ -3098,7 +3098,7 @@ translates to:
 ```
 Automatic
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Samodejno
 ```
@@ -3108,7 +3108,7 @@ Samodejno
 ```
 Manual
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ročno
 ```
@@ -3118,7 +3118,7 @@ Ročno
 ```
 You can sync a map file on the cloud at any time by clicking on the map file in the side bar and then choosing the "Cloud sync" option.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Lahko sinhronizirate zemljevida datoteke na oblak kadarkoli s klikom na zemljevidu datoteko v stranski vrstici in nato izberete možnost \sinhronizacije v oblaku"."
 ```
@@ -3128,7 +3128,7 @@ Lahko sinhronizirate zemljevida datoteke na oblak kadarkoli s klikom na zemljevi
 ```
 You can sync a map file manually to the cloud at any time by clicking the "share" button in the main action bar, and then "Other options" and then "All markers and folders" and then by selecting your favorite cloud storage app.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Datoteko z mapami lahko kadarkoli sinhronizirate v oblaku, tako da v glavni vrstici dejanj kliknete gumb »deljenje« in nato »Druge možnosti« in nato »Vsi označevalci in mape« in nato z izbiro najljubšo aplikacijo za shranjevanje v oblaku.
 ```
@@ -3138,7 +3138,7 @@ Datoteko z mapami lahko kadarkoli sinhronizirate v oblaku, tako da v glavni vrst
 ```
 Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Premaknite zemljevid, da postavite točke, kliknite »+«, če želite dodati točko, kliknite »-«, da odstranite točko in preklopite točke s prejšnjimi / naslednjimi gumbi. Nazadnje kliknite Shrani, da shranite obliko.
 ```
@@ -3148,7 +3148,7 @@ Premaknite zemljevid, da postavite točke, kliknite »+«, če želite dodati to
 ```
 There are not enough points to create the shape. Create more points and try again.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Za oblikovanje poligona ni dovolj točk. Ustvarite več točk in poskusite znova.
 ```
@@ -3158,7 +3158,7 @@ Za oblikovanje poligona ni dovolj točk. Ustvarite več točk in poskusite znova
 ```
 Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn\'t work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by email (side panel -> about -> send email).
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ni bilo mogoče aktivirati premium nadgradnje z Googlovim računom. Če ste pred kratkim kupili nadgradnjo premije z druge naprave, boste morali počakati malo, da bi se nakup lahko sprovedel, poskusite ponovno zagnati napravo. Če še vedno ne deluje, preverite, da ste res kupili aplikacijo. Ponovno nameste aplikacijo in jo aktivirajte z istim Google Računom. Če se težava nadaljuje, vam bom pomagal po najboljših močeh, lahko me kontaktirate po elektronski pošti (stranski panel -> o -> pošlji e-pošto).
 ```
@@ -3168,7 +3168,7 @@ Ni bilo mogoče aktivirati premium nadgradnje z Googlovim računom. Če ste pred
 ```
 Distance: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Oddaljenost: %s
 ```
@@ -3179,7 +3179,7 @@ Oddaljenost: %s
 Perimeter: %1$s
 Area: %2$s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Perimeter: %1$s 
  Area: %2$s
@@ -3190,7 +3190,7 @@ Perimeter: %1$s
 ```
 Extra information
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dodatne informacije
 ```
@@ -3200,7 +3200,7 @@ Dodatne informacije
 ```
 Insert…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Vstavi…
 ```
@@ -3210,7 +3210,7 @@ Vstavi…
 ```
 Replace title
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zamenjaj naslov
 ```
@@ -3220,7 +3220,7 @@ Zamenjaj naslov
 ```
 Replace description
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zamenjaj opis
 ```
@@ -3230,7 +3230,7 @@ Zamenjaj opis
 ```
 Unit of distance
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Enota razdalje
 ```
@@ -3240,7 +3240,7 @@ Enota razdalje
 ```
 Unit of area
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Enota območja
 ```
@@ -3250,7 +3250,7 @@ Enota območja
 ```
 Metric (%s)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Metrični (%s)
 ```
@@ -3260,7 +3260,7 @@ Metrični (%s)
 ```
 Imperial (%s)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Imperial ( %s )
 ```
@@ -3270,7 +3270,7 @@ Imperial ( %s )
 ```
 Images
 ```
-translates to:
+translated (by human 👀) as:
 ```
 slike
 ```
@@ -3280,7 +3280,7 @@ slike
 ```
 Select image
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Izberite sliko
 ```
@@ -3290,7 +3290,7 @@ Izberite sliko
 ```
 Imported images
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Uvožene slike
 ```
@@ -3300,7 +3300,7 @@ Uvožene slike
 ```
 Fit in a %1$sx%2$s square
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Fit v %1$s x %2$s kvadrati
 ```
@@ -3310,7 +3310,7 @@ Fit v %1$s x %2$s kvadrati
 ```
 Full quality
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Popolna kakovost
 ```
@@ -3320,7 +3320,7 @@ Popolna kakovost
 ```
 Mobile data
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Mobilni podatki
 ```
@@ -3330,7 +3330,7 @@ Mobilni podatki
 ```
 Wifi
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Wi - Fi
 ```
@@ -3340,7 +3340,7 @@ Wi - Fi
 ```
 Disabled
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Onemogočeno
 ```
@@ -3350,7 +3350,7 @@ Onemogočeno
 ```
 Up to %s per sync
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Do %s na sinhronizacijo
 ```
@@ -3360,7 +3360,7 @@ Do %s na sinhronizacijo
 ```
 Unlimited
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Neomejeno
 ```
@@ -3370,7 +3370,7 @@ Neomejeno
 ```
 The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings. You can also click "force sync" to sync just one time without data volume limit.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sinhronizacija je bila prekinjena, ker je presegla dovoljeno količino podatkov. Če želite povečati ali spremeniti omejitev, pojdite na nastavitve. Lahko tudi kliknete »sinhronizacijo sile«, da sinhronizirate le enkrat brez omejitve količine podatkov.
 ```
@@ -3380,7 +3380,7 @@ Sinhronizacija je bila prekinjena, ker je presegla dovoljeno količino podatkov.
 ```
 Force sync
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Takojšnja sinhronizacija
 ```
@@ -3390,7 +3390,7 @@ Takojšnja sinhronizacija
 ```
 This will override the usual data limit just for this one time. Force sync?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 To bo tokrat prepisalo običajne podatkovne omejitve. Ali želite vseeno prepisati?
 ```
@@ -3400,7 +3400,7 @@ To bo tokrat prepisalo običajne podatkovne omejitve. Ali želite vseeno prepisa
 ```
 Retry
 ```
-translates to:
+translated (by human 👀) as:
 ```
 poskusite znova
 ```
@@ -3410,7 +3410,7 @@ poskusite znova
 ```
 Add image
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dodaj sliko
 ```
@@ -3420,7 +3420,7 @@ Dodaj sliko
 ```
 From camera
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Iz fotoaparata
 ```
@@ -3430,7 +3430,7 @@ Iz fotoaparata
 ```
 From gallery
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Iz galerije
 ```
@@ -3440,7 +3440,7 @@ Iz galerije
 ```
 Importing image…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Uvažanje slike&#8230;
 ```
@@ -3450,7 +3450,7 @@ Uvažanje slike&#8230;
 ```
 Offline (Mapsforge BETA)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Brez povezave (Mapsforge BETA)
 ```
@@ -3460,7 +3460,7 @@ Brez povezave (Mapsforge BETA)
 ```
 Exporting…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Izvoz&#8230;
 ```
@@ -3470,7 +3470,7 @@ Izvoz&#8230;
 ```
 Export failed
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Izvoz ni uspel
 ```
@@ -3480,7 +3480,7 @@ Izvoz ni uspel
 ```
 Export succeeded
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Izvoz uspel
 ```
@@ -3490,7 +3490,7 @@ Izvoz uspel
 ```
 KMZ
 ```
-translates to:
+translated (by human 👀) as:
 ```
 KMZ
 ```
@@ -3500,7 +3500,7 @@ KMZ
 ```
 KML
 ```
-translates to:
+translated (by human 👀) as:
 ```
 KML
 ```
@@ -3510,7 +3510,7 @@ KML
 ```
 Importing file…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Uvažanje datoteke&#8230;
 ```
@@ -3520,7 +3520,7 @@ Uvažanje datoteke&#8230;
 ```
 Show warning icon for sync
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Prikaži opozorilno ikono za sinhronizacijo
 ```
@@ -3530,7 +3530,7 @@ Prikaži opozorilno ikono za sinhronizacijo
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sinhronizacija je bila prekinjena, ker manjka ena od medijskih datotek v oblaku. Datoteke, ki so na voljo, lahko prezrete, tako da kliknete \ "sinhroniziraj ". Opozorilo in ignoriranje manjkajočih datotek bo imelo za posledico njihovo odstranitev iz baze podatkov, kar pomeni, da bodo druge naprave, ki imajo še vedno lokalno kopijo datoteke, izbrisale ob sinhronizaciji."
 ```
@@ -3540,7 +3540,7 @@ Sinhronizacija je bila prekinjena, ker manjka ena od medijskih datotek v oblaku.
 ```
 This will force the sync and ignore the missing cloud files. The missing links will be removed from the database. Other devices still owning a local version of the missing cloud files will delete them upon their next sync. Data consumption limits will be ignored for this special sync. Force Sync?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 S tem boste prisili sinhronizacijo in prezreti manjkajoče datoteke oblaka. Manjkajoče povezave bodo odstranjene iz baze podatkov. Druge naprave, ki še vedno imajo lokalno različico manjkajočih datotek v oblaku, jih bodo izbrisale ob naslednji sinhronizaciji. Omejitve porabe podatkov bodo za to posebno sinhronizacijo zanemarjene. Force Sync?
 ```
@@ -3550,7 +3550,7 @@ S tem boste prisili sinhronizacijo in prezreti manjkajoče datoteke oblaka. Manj
 ```
 Marker media files ignored on import: %1$d
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Označene predstavnostne datoteke niso bile upoštevane pri uvozu: %1$d
 ```
@@ -3560,7 +3560,7 @@ Označene predstavnostne datoteke niso bile upoštevane pri uvozu: %1$d
 ```
 Checking premium status…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Preverjanje premium stanja&#8230;
 ```
@@ -3570,7 +3570,7 @@ Preverjanje premium stanja&#8230;
 ```
 General
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Splošno
 ```
@@ -3580,7 +3580,7 @@ Splošno
 ```
 Toilets
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Stranišča
 ```
@@ -3590,7 +3590,7 @@ Stranišča
 ```
 Food
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Hrana
 ```
@@ -3600,7 +3600,7 @@ Hrana
 ```
 Stores
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Trgovine
 ```
@@ -3610,7 +3610,7 @@ Trgovine
 ```
 Land activities
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dejavnosti
 ```
@@ -3620,7 +3620,7 @@ Dejavnosti
 ```
 Water activies
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Vodne aktivnosti
 ```
@@ -3630,7 +3630,7 @@ Vodne aktivnosti
 ```
 Winter activies
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zimske aktivnosti
 ```
@@ -3640,7 +3640,7 @@ Zimske aktivnosti
 ```
 Transport
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Transport
 ```
@@ -3650,7 +3650,7 @@ Transport
 ```
 Health
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zdravje
 ```
@@ -3660,7 +3660,7 @@ Zdravje
 ```
 Entertainment
 ```
-translates to:
+translated (by human 👀) as:
 ```
 zabava
 ```
@@ -3670,7 +3670,7 @@ zabava
 ```
 Services
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Storitve
 ```
@@ -3680,7 +3680,7 @@ Storitve
 ```
 Business
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Poslovni
 ```
@@ -3690,7 +3690,7 @@ Poslovni
 ```
 Government
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Vlada
 ```
@@ -3700,7 +3700,7 @@ Vlada
 ```
 Religious
 ```
-translates to:
+translated (by human 👀) as:
 ```
 verski
 ```
@@ -3710,7 +3710,7 @@ verski
 ```
 Accessibility
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dostopnost
 ```
@@ -3720,7 +3720,7 @@ Dostopnost
 ```
 Select icon
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Izberite ikono
 ```
@@ -3730,7 +3730,7 @@ Izberite ikono
 ```
 Icon and color
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Barva ikone
 ```
@@ -3740,7 +3740,7 @@ Barva ikone
 ```
 Generic
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Generično
 ```
@@ -3750,7 +3750,7 @@ Generično
 ```
 Beta tester badge: thank you for being a beta tester! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Beta testna značka: Hvala, ker ste beta testna oseba! Ta značka bo izginila šele po odstranitvi aplikacije ali čiščenju podatkov aplikacije. Ta značka omogoča tudi, da v aplikaciji ni oglasov.
 ```
@@ -3760,7 +3760,7 @@ Beta testna značka: Hvala, ker ste beta testna oseba! Ta značka bo izginila š
 ```
 Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Priporočena značka: hvala, ker ste prijatelje vabili v aplikacijo! Ta značka bo izginila šele po odstranitvi aplikacije ali čiščenju podatkov aplikacije. Ta značka omogoča tudi, da v aplikaciji ni oglasov.
 ```
@@ -3770,7 +3770,7 @@ Priporočena značka: hvala, ker ste prijatelje vabili v aplikacijo! Ta značka 
 ```
 Referral
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Napotitev
 ```
@@ -3780,7 +3780,7 @@ Napotitev
 ```
 Removing ads: exchange referrals credits with friends to remove ads
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Odstranjevanje oglasov: zamenjajte referenčne kredite s prijatelji, da odstranite oglase
 ```
@@ -3790,7 +3790,7 @@ Odstranjevanje oglasov: zamenjajte referenčne kredite s prijatelji, da odstrani
 ```
 Sent credits: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Poslanih kreditov: %s
 ```
@@ -3800,7 +3800,7 @@ Poslanih kreditov: %s
 ```
 Received credits: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Prejetih kreditov: %s
 ```
@@ -3810,7 +3810,7 @@ Prejetih kreditov: %s
 ```
 Contribute to translations
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Prispevajo k prevodu
 ```
@@ -3820,7 +3820,7 @@ Prispevajo k prevodu
 ```
 You understand English and want to help with translations? Click here
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ali razumete angleško in želite pomagati pri prevodih? Klikni tukaj
 ```
@@ -3830,7 +3830,7 @@ Ali razumete angleško in želite pomagati pri prevodih? Klikni tukaj
 ```
 The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Barva ali ikona ciljne mape je drugačna. Ali želite posodobiti barvo označevalca in ikono?
 ```
@@ -3840,7 +3840,7 @@ Barva ali ikona ciljne mape je drugačna. Ali želite posodobiti barvo označeva
 ```
 Add color
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dodaj barvo
 ```
@@ -3850,7 +3850,7 @@ Dodaj barvo
 ```
 <![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
 ```
-translates to:
+translated (by human 👀) as:
 ```
 <![CDATA[<html> <body> <b> Kakšna je nadgradnja premije? </B> <br> Na vrhu odstranitve oglasov nadgradnja premije odpre naslednje ekskluzivne premije: Sinhronizacija v storitvi Google Drive ali Dropbox <br> Sodelujte prek Google Drive ali Dropbox <br> Zgodovina različic zemljevidov in obnovitev <br> </body> </html>]]>
 ```
@@ -3860,7 +3860,7 @@ translates to:
 ```
 Marker created from the geo location of the QR code
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Marker je ustvarjen s geo lokacije kode QR
 ```
@@ -3870,7 +3870,7 @@ Marker je ustvarjen s geo lokacije kode QR
 ```
 Failed to read QR code as a geo location
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ni mogoče prebrati QR kode kot geografsko lokacijo
 ```
@@ -3880,7 +3880,7 @@ Ni mogoče prebrati QR kode kot geografsko lokacijo
 ```
 The app for scanning QR codes could not be found. Do you want to install it?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Aplikacije za skeniranje QR kod ni bilo mogoče najti. Ali ga želite namestiti?
 ```
@@ -3890,7 +3890,7 @@ Aplikacije za skeniranje QR kod ni bilo mogoče najti. Ali ga želite namestiti?
 ```
 Selection action
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Izbirna akcija
 ```
@@ -3900,7 +3900,7 @@ Izbirna akcija
 ```
 Move to left
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Premik na levo
 ```
@@ -3910,7 +3910,7 @@ Premik na levo
 ```
 Move to right
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pomik na desno
 ```
@@ -3920,7 +3920,7 @@ Pomik na desno
 ```
 Rotate to left
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zavrti v levo
 ```
@@ -3930,7 +3930,7 @@ Zavrti v levo
 ```
 Rotate to right
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zasuk v desno
 ```
@@ -3940,7 +3940,7 @@ Zasuk v desno
 ```
 Delete image
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Izbriši sliko
 ```
@@ -3950,7 +3950,7 @@ Izbriši sliko
 ```
 From local file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Iz lokalne datoteke
 ```
@@ -3960,7 +3960,7 @@ Iz lokalne datoteke
 ```
 What format to you want to use to export?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kakšen format želite uporabiti za izvoz?
 ```
@@ -3970,7 +3970,7 @@ Kakšen format želite uporabiti za izvoz?
 ```
 The data to export contains media(images) that cannot be included with this export format. The data will be exported without the media. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Podatki za izvoz vsebujejo medije (slike), ki jih ni mogoče vključiti v ta izvozni format. Podatki bodo izvoženi brez medijev. Če želite izvoziti vse, izberite izvozni format KMZ.
 ```
@@ -3980,7 +3980,7 @@ Podatki za izvoz vsebujejo medije (slike), ki jih ni mogoče vključiti v ta izv
 ```
 Standard Google Earth format. Cannot contain media.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Standardni format Google Zemlja. Ne morem vsebovati medijev.
 ```
@@ -3990,7 +3990,7 @@ Standardni format Google Zemlja. Ne morem vsebovati medijev.
 ```
 Zip Google Earth format. Can contain media.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zip format Google Zemlja. Lahko vsebuje medije.
 ```
@@ -4000,7 +4000,7 @@ Zip format Google Zemlja. Lahko vsebuje medije.
 ```
 Standard text spreadsheet format. Cannot contain media. Cannot contain lines or polygons.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Standardni format preglednice ne sme vsebovati medijev, linij ali poligonov.
 ```
@@ -4010,7 +4010,7 @@ Standardni format preglednice ne sme vsebovati medijev, linij ali poligonov.
 ```
 Marker as plain text
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Marker kot navaden tekst
 ```
@@ -4020,7 +4020,7 @@ Marker kot navaden tekst
 ```
 Marker as file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Marker kot datoteka
 ```
@@ -4030,7 +4030,7 @@ Marker kot datoteka
 ```
 Share the selected marker as a file into another app
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Izbrani označevalec dajte v skupno rabo kot datoteko v drugo aplikacijo
 ```
@@ -4040,7 +4040,7 @@ Izbrani označevalec dajte v skupno rabo kot datoteko v drugo aplikacijo
 ```
 Share as file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Deli kot datoteko
 ```
@@ -4050,7 +4050,7 @@ Deli kot datoteko
 ```
 Export to a local file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Izvozi v lokalno datoteko
 ```
@@ -4060,7 +4060,7 @@ Izvozi v lokalno datoteko
 ```
 Import or export markers as files
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Uvozite ali izvozite označevalce kot datoteke
 ```
@@ -4070,7 +4070,7 @@ Uvozite ali izvozite označevalce kot datoteke
 ```
 The data to export contains complex markers (lines or polygons) that cannot be included with this export format. The data will be exported without those markers. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Podatki za izvoz vsebujejo kompleksne označevalce (vrstice ali poligone), ki jih ni mogoče vključiti v ta izvozni format. Podatki bodo izvoženi brez teh označevalcev. Če želite izvoziti vse, izberite izvozni format KMZ.
 ```
@@ -4080,7 +4080,7 @@ Podatki za izvoz vsebujejo kompleksne označevalce (vrstice ali poligone), ki ji
 ```
 Add custom field
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dodaj poljubno polje
 ```
@@ -4090,7 +4090,7 @@ Dodaj poljubno polje
 ```
 Information
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Informacija
 ```
@@ -4100,7 +4100,7 @@ Informacija
 ```
 Custom fields
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Poljubno polje
 ```
@@ -4110,7 +4110,7 @@ Poljubno polje
 ```
 Field name
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ime oznake
 ```
@@ -4120,7 +4120,7 @@ Ime oznake
 ```
 Delete field
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Izbriši oznako
 ```
@@ -4130,7 +4130,7 @@ Izbriši oznako
 ```
 Attributes
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Atributi
 ```
@@ -4140,7 +4140,7 @@ Atributi
 ```
 New custom field
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nova poljubna oznaka
 ```
@@ -4150,7 +4150,7 @@ Nova poljubna oznaka
 ```
 Modify custom field
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Uredi poljubno polje
 ```
@@ -4160,7 +4160,7 @@ Uredi poljubno polje
 ```
 Field enabled. For folders, if enabled, that field will be added automatically to children POIs on creation. For POIs, if enabled, that field will be visible in the details page.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Polje je omogočeno. Če bodo mape omogočene, bo to polje samodejno dodano otrokom s posebnimi zanimivostmi ob ustvarjanju. Če je to omogočeno, bo to polje vidno na strani s podrobnostmi in pri hitrih ukrepih.
 ```
@@ -4170,7 +4170,7 @@ Polje je omogočeno. Če bodo mape omogočene, bo to polje samodejno dodano otro
 ```
 Field info
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Info polja
 ```
@@ -4180,7 +4180,7 @@ Info polja
 ```
 Select field type
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Izberi vrsto polja
 ```
@@ -4190,7 +4190,7 @@ Izberi vrsto polja
 ```
 Boolean (True or False)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Boolean (Potrdi ali Zavrni)
 ```
@@ -4200,7 +4200,7 @@ Boolean (Potrdi ali Zavrni)
 ```
 Default value
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Privzeta vrednost
 ```
@@ -4210,7 +4210,7 @@ Privzeta vrednost
 ```
 Date
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Datum
 ```
@@ -4220,7 +4220,7 @@ Datum
 ```
 Email
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Email
 ```
@@ -4230,7 +4230,7 @@ Email
 ```
 Text
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Besedilo
 ```
@@ -4240,7 +4240,7 @@ Besedilo
 ```
 Multiple choice
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Več možnosti
 ```
@@ -4250,7 +4250,7 @@ Več možnosti
 ```
 Add choice
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dodaj izbiro
 ```
@@ -4260,7 +4260,7 @@ Dodaj izbiro
 ```
 Duplicates are not allowed
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Podvojene stvari niso dovoljene
 ```
@@ -4270,7 +4270,7 @@ Podvojene stvari niso dovoljene
 ```
 Phone
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Telefon
 ```
@@ -4280,7 +4280,7 @@ Telefon
 ```
 Web link
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Spletni naslov
 ```
@@ -4290,7 +4290,7 @@ Spletni naslov
 ```
 Choices list
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Izbirni list
 ```
@@ -4300,7 +4300,7 @@ Izbirni list
 ```
 Select default value
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Izberi privzeto vrednost
 ```
@@ -4310,7 +4310,7 @@ Izberi privzeto vrednost
 ```
 Creation date
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Datum nastanka
 ```
@@ -4320,7 +4320,7 @@ Datum nastanka
 ```
 POI Options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 POI Opcije
 ```
@@ -4330,7 +4330,7 @@ POI Opcije
 ```
 Delete POI
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Izbriši POI
 ```
@@ -4340,7 +4340,7 @@ Izbriši POI
 ```
 Select value
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Izberi vrednost
 ```
@@ -4350,7 +4350,7 @@ Izberi vrednost
 ```
 Used by folders
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Uporabljeno po mapah
 ```
@@ -4360,7 +4360,7 @@ Uporabljeno po mapah
 ```
 Edit field
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Uredi polje
 ```
@@ -4370,7 +4370,7 @@ Uredi polje
 ```
 Add folder field
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dodaj vrednost polja
 ```
@@ -4380,7 +4380,7 @@ Dodaj vrednost polja
 ```
 Reorder fields
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Spremeni vrstni red polj
 ```
@@ -4390,7 +4390,7 @@ Spremeni vrstni red polj
 ```
 Pick the fields you want to apply to this folder\'s POIs
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Izberi polje katerega želiš dodati te mapi
 ```
@@ -4400,7 +4400,7 @@ Izberi polje katerega želiš dodati te mapi
 ```
 The destination folder has different field values. Pick the fields you want to apply to moved POIs.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ciljna mapa ima različne vrednosti polja. Izberite polja, ki jih želite uporabiti za premikanje POI-jev.
 ```
@@ -4410,7 +4410,7 @@ Ciljna mapa ima različne vrednosti polja. Izberite polja, ki jih želite uporab
 ```
 Update color
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Posodobi barvo
 ```
@@ -4420,7 +4420,7 @@ Posodobi barvo
 ```
 Update pin icon
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Posodobi ikono pina
 ```
@@ -4430,7 +4430,7 @@ Posodobi ikono pina
 ```
 Add field if missing: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dodaj polje, če manjka: %s
 ```
@@ -4440,7 +4440,7 @@ Dodaj polje, če manjka: %s
 ```
 Remove field if present: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Odstrani polje če ni veljavno: %s
 ```
@@ -4450,7 +4450,7 @@ Odstrani polje če ni veljavno: %s
 ```
 Update field name if different: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Posodobi ime polja če je drugačno: %s
 ```
@@ -4460,7 +4460,7 @@ Posodobi ime polja če je drugačno: %s
 ```
 More options…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Več možnosti…
 ```
@@ -4470,7 +4470,7 @@ Več možnosti…
 ```
 Folder options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Možnosti mape
 ```
@@ -4480,7 +4480,7 @@ Možnosti mape
 ```
 Edit email
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Uredi email
 ```
@@ -4490,7 +4490,7 @@ Uredi email
 ```
 Edit web link
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Uredite spletno povezavo
 ```
@@ -4500,7 +4500,7 @@ Uredite spletno povezavo
 ```
 Decimal accuracy
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Decimalna natančnost
 ```
@@ -4510,7 +4510,7 @@ Decimalna natančnost
 ```
 Details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Podrobnosti so bile kopirane v odložišče
 ```
@@ -4520,7 +4520,7 @@ Podrobnosti so bile kopirane v odložišče
 ```
 Copy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kopirati
 ```
@@ -4530,7 +4530,7 @@ Kopirati
 ```
 Do you want to click here? ^‿^
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ali želite klikniti tukaj? ^ ‿ ^
 ```
@@ -4558,7 +4558,7 @@ And finally, thank you for reading this :-)
 Regards
 Sébastien
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hej, hvala za tvojo radovednost! 
  
@@ -4586,7 +4586,7 @@ Hej, hvala za tvojo radovednost!
 ```
 Normal with indoor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Normalno z notranjim
 ```
@@ -4596,7 +4596,7 @@ Normalno z notranjim
 ```
 Floating marker titles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Naslovi s plavajočimi oznakami
 ```
@@ -4606,7 +4606,7 @@ Naslovi s plavajočimi oznakami
 ```
 Maximum number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Največje število
 ```
@@ -4616,7 +4616,7 @@ Največje število
 ```
 Text size
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Velikost besedila
 ```
@@ -4626,7 +4626,7 @@ Velikost besedila
 ```
 Search failed => %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Iskanje ni uspelo =&gt; %s
 ```
@@ -4636,7 +4636,7 @@ Iskanje ni uspelo =&gt; %s
 ```
 API key tutorial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 API key Vadnica
 ```
@@ -4646,7 +4646,7 @@ API key Vadnica
 ```
 Click here to see details on how to obtain an API key for your account.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kliknite tukaj, če si želite ogledati podrobnosti o tem, kako pridobiti API key za svoj račun.
 ```
@@ -4656,7 +4656,7 @@ Kliknite tukaj, če si želite ogledati podrobnosti o tem, kako pridobiti API ke
 ```
 Personal API key
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Osebno API key
 ```
@@ -4666,7 +4666,7 @@ Osebno API key
 ```
 None
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jih ni
 ```
@@ -4678,7 +4678,7 @@ You can search for places with "Google Places API". This search requires an inte
 
 You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Poiščete lahko mesta z "Google Places API". To iskanje zahteva internetno povezavo.
 
@@ -4690,7 +4690,7 @@ Konfigurirali ste svoj osebni ključ Google Places API: vaše iskanje bo uporabl
 ```
 Do you enjoy the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Uživate v aplikaciji?
 ```
@@ -4700,7 +4700,7 @@ Uživate v aplikaciji?
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ali bi mi radi poslali email, da mi poveš, kako lahko izboljšam aplikacijo?
 ```
@@ -4710,7 +4710,7 @@ Ali bi mi radi poslali email, da mi poveš, kako lahko izboljšam aplikacijo?
 ```
 Display extra POI fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Prikaz dodatnih polj POI
 ```
@@ -4720,7 +4720,7 @@ Prikaz dodatnih polj POI
 ```
 IGN plans
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Načrti IGN
 ```
@@ -4730,7 +4730,7 @@ Načrti IGN
 ```
 IGN maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Karte IGN
 ```
@@ -4740,7 +4740,7 @@ Karte IGN
 ```
 IGN - Cadastral parcels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - katastrske parcele
 ```
@@ -4750,7 +4750,7 @@ IGN - katastrske parcele
 ```
 IGN - Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - antena
 ```
@@ -4760,7 +4760,7 @@ IGN - antena
 ```
 Type more and press enter again for refined results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vnesite več in ponovno pritisnite enter za izboljšane rezultate
 ```

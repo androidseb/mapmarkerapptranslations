@@ -1,4 +1,4 @@
-# Map Marker translations for hu
+# Map Marker translations for Hungarian (hu)
 
 You want to help improve this translation file? Read the [main page](https://github.com/androidseb/mapmarkerapptranslations)
 
@@ -7,7 +7,7 @@ You want to help improve this translation file? Read the [main page](https://git
 ```
 OK
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 RENDBEN
 ```
@@ -17,7 +17,7 @@ RENDBEN
 ```
 Yes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Igen
 ```
@@ -27,7 +27,7 @@ Igen
 ```
 No
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nincs
 ```
@@ -37,7 +37,7 @@ Nincs
 ```
 Cancel
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mégsem
 ```
@@ -47,7 +47,7 @@ Mégsem
 ```
 New marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Új marker
 ```
@@ -57,7 +57,7 @@ translates to:
 ```
 Title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cím
 ```
@@ -67,7 +67,7 @@ Cím
 ```
 Description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Leírás
 ```
@@ -77,7 +77,7 @@ Leírás
 ```
 Do you really want to delete this marker?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tényleg azt akarja törölni ezt a marker?
 ```
@@ -87,7 +87,7 @@ Tényleg azt akarja törölni ezt a marker?
 ```
 GPS coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GPS koordinátákat
 ```
@@ -97,7 +97,7 @@ GPS koordinátákat
 ```
 Could not copy coordinates to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Másolás nem koordinátákat a vágólapra
 ```
@@ -107,7 +107,7 @@ Másolás nem koordinátákat a vágólapra
 ```
 Coordinates copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Koordinálja a másolt a vágólapra
 ```
@@ -117,7 +117,7 @@ Koordinálja a másolt a vágólapra
 ```
 Failed to access application save directory. Make sure that your device is not being accessed by a computer with the USB cable, and restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nem sikerült hozzáférni alkalmazási mentési könyvtárat. Győződjön meg arról, hogy a készülék nem elérhető a számítógéphez egy USB-kábellel, és indítsa újra az alkalmazást.
 ```
@@ -127,7 +127,7 @@ Nem sikerült hozzáférni alkalmazási mentési könyvtárat. Győződjön meg 
 ```
 Untitled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Untitled
 ```
@@ -137,7 +137,7 @@ Untitled
 ```
 All
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Minden
 ```
@@ -147,7 +147,7 @@ Minden
 ```
 Add folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Add mappa
 ```
@@ -157,7 +157,7 @@ Add mappa
 ```
 Modify folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Módosítása mappa
 ```
@@ -167,7 +167,7 @@ Módosítása mappa
 ```
 Are you sure you want to delete this folder? All markers associated to this folder will be deleted permanently!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Biztosan törölni szeretné ezt a mappát? Minden markerek vonni a mappa véglegesen törlésre kerül!
 ```
@@ -177,7 +177,7 @@ Biztosan törölni szeretné ezt a mappát? Minden markerek vonni a mappa végle
 ```
 Failed to create new folder, it already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nem sikerült létrehozni új mappát, akkor már létezik
 ```
@@ -187,7 +187,7 @@ Nem sikerült létrehozni új mappát, akkor már létezik
 ```
 Failed to rename the folder, the destination name already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nem sikerült átnevezni a mappát, a célállomás nevét már létezik
 ```
@@ -197,7 +197,7 @@ Nem sikerült átnevezni a mappát, a célállomás nevét már létezik
 ```
 Latitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Latitude:
 ```
@@ -207,7 +207,7 @@ Latitude:
 ```
 Longitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hosszúság:
 ```
@@ -217,7 +217,7 @@ Hosszúság:
 ```
 Could not write file.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nem sikerült írni a fájlt.
 ```
@@ -227,7 +227,7 @@ Nem sikerült írni a fájlt.
 ```
 Import/Export
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Import Export
 ```
@@ -237,7 +237,7 @@ Import Export
 ```
 Import markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Import markerek
 ```
@@ -247,7 +247,7 @@ Import markerek
 ```
 File imported successfully
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fájl importálása sikerült
 ```
@@ -257,7 +257,7 @@ Fájl importálása sikerült
 ```
 File import failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Az importálás nem sikerült
 ```
@@ -267,7 +267,7 @@ Az importálás nem sikerült
 ```
 Location services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Helymeghatározó szolgáltatások
 ```
@@ -277,7 +277,7 @@ Helymeghatározó szolgáltatások
 ```
 Location services are disabled. To get your current location you must enable them.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Helyszín szolgáltatások ki vannak kapcsolva. Ahhoz, hogy a jelenlegi helyre kell tennie számukra.
 ```
@@ -287,7 +287,7 @@ Helyszín szolgáltatások ki vannak kapcsolva. Ahhoz, hogy a jelenlegi helyre k
 ```
 Could not find address
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nem található címre
 ```
@@ -297,7 +297,7 @@ Nem található címre
 ```
 Searching&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Keresés&#8230;
 ```
@@ -307,7 +307,7 @@ Keresés&#8230;
 ```
 Search
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Keresés
 ```
@@ -317,7 +317,7 @@ Keresés
 ```
 Share via
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Megosztás
 ```
@@ -327,7 +327,7 @@ Megosztás
 ```
 Do you want to import the content of this file?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Szeretné importálni tartalmát a fájlt?
 ```
@@ -337,7 +337,7 @@ Szeretné importálni tartalmát a fájlt?
 ```
 Folder name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mappa neve
 ```
@@ -347,7 +347,7 @@ Mappa neve
 ```
 Save
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Save
 ```
@@ -357,7 +357,7 @@ Save
 ```
 Close
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Közel
 ```
@@ -367,7 +367,7 @@ Közel
 ```
 Are you sure you want to delete the selected markers?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Biztos, hogy törölni szeretné a kiválasztott markerek?
 ```
@@ -377,7 +377,7 @@ Biztos, hogy törölni szeretné a kiválasztott markerek?
 ```
 Move markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A mozgatás markerek mappába
 ```
@@ -387,7 +387,7 @@ A mozgatás markerek mappába
 ```
 Share
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Részvény
 ```
@@ -397,7 +397,7 @@ Részvény
 ```
 Folder:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Folder:
 ```
@@ -407,7 +407,7 @@ Folder:
 ```
 Snapshot of my markers on Map Marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pillanatkép az én markerek Map Marker
 ```
@@ -418,7 +418,7 @@ Pillanatkép az én markerek Map Marker
 This snapshot was made with the app Map Marker:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ez a pillanatkép történt a app Map Marker : 
  %s
@@ -429,7 +429,7 @@ Ez a pillanatkép történt a app Map Marker :
 ```
 Processing data&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Az adatok feldolgozása&#8230;
 ```
@@ -439,7 +439,7 @@ Az adatok feldolgozása&#8230;
 ```
 You have unsaved modifications, do you want to save them?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nem mentett módosítások, akarod, hogy megmentse őket?
 ```
@@ -449,7 +449,7 @@ Nem mentett módosítások, akarod, hogy megmentse őket?
 ```
 Use the long press on the map to create a new marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Használja a hosszú nyomja meg a térképet, hogy hozzon létre egy új marker
 ```
@@ -459,7 +459,7 @@ Használja a hosszú nyomja meg a térképet, hogy hozzon létre egy új marker
 ```
 Map type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Térkép típusa
 ```
@@ -469,7 +469,7 @@ Térkép típusa
 ```
 Normal
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Normál
 ```
@@ -479,7 +479,7 @@ Normál
 ```
 Satellite
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Műhold
 ```
@@ -489,7 +489,7 @@ Műhold
 ```
 Terrain
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Terep
 ```
@@ -499,7 +499,7 @@ Terep
 ```
 Hybrid
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hibrid
 ```
@@ -510,7 +510,7 @@ Hibrid
 Found a problem? Have an idea of improvement?
 Send me an email :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Talált egy problémát? Van egy ötletem a javulás? 
  Küldj egy email :-)
@@ -521,7 +521,7 @@ Talált egy problémát? Van egy ötletem a javulás?
 ```
 Send email&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Küldd email&#8230;
 ```
@@ -532,7 +532,7 @@ Küldd email&#8230;
 You like the app?
 Rate it 5 stars :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tetszik az app? 
  Értékeld 5 csillagos :-)
@@ -543,7 +543,7 @@ Tetszik az app?
 ```
 Change folder to&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Megváltoztatni mappát&#8230;
 ```
@@ -553,7 +553,7 @@ Megváltoztatni mappát&#8230;
 ```
 Directions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Directions
 ```
@@ -563,7 +563,7 @@ Directions
 ```
 Acquiring location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tartózkodási hely megállapítása&#8230;
 ```
@@ -573,7 +573,7 @@ Tartózkodási hely megállapítása&#8230;
 ```
 Meters
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Méter
 ```
@@ -583,7 +583,7 @@ Méter
 ```
 Km
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Km
 ```
@@ -593,7 +593,7 @@ Km
 ```
 Feet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Láb
 ```
@@ -603,7 +603,7 @@ Láb
 ```
 Miles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mérföld
 ```
@@ -613,7 +613,7 @@ Mérföld
 ```
 Adjust map camera position when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Állítsa térképen kamera helyzetét segítve, hogy a jelölő helye
 ```
@@ -623,7 +623,7 @@ translates to:
 ```
 Keep screen on when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tartsa képernyő segítve, hogy a jelölő helye
 ```
@@ -633,7 +633,7 @@ Tartsa képernyő segítve, hogy a jelölő helye
 ```
 Marker details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker részleteket másolt a vágólapra
 ```
@@ -643,7 +643,7 @@ Marker részleteket másolt a vágólapra
 ```
 Long press to drag and move the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hosszan nyomja húzni és mozgatni a marker
 ```
@@ -653,7 +653,7 @@ Hosszan nyomja húzni és mozgatni a marker
 ```
 Error starting internal task manager, app will now exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hiba induló belső task manager, app most kilép
 ```
@@ -663,7 +663,7 @@ Hiba induló belső task manager, app most kilép
 ```
 Do not show again
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Többet ne mutassa
 ```
@@ -673,7 +673,7 @@ Többet ne mutassa
 ```
 Could not create the map capture
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nem sikerült létrehozni a térképen rögzítés
 ```
@@ -683,7 +683,7 @@ Nem sikerült létrehozni a térképen rögzítés
 ```
 Metric (Kilometers/Meters)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Metric (kilométer / méter)
 ```
@@ -693,7 +693,7 @@ Metric (kilométer / méter)
 ```
 Imperial (Miles/Feet)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Imperial (Miles / Feet)
 ```
@@ -703,7 +703,7 @@ Imperial (Miles / Feet)
 ```
 There is a problem with Google Play Services: it needs to be installed, updated or activated. Click OK to try and solve it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Van egy probléma a Google Play Services : meg kell telepíteni, frissíteni vagy aktiválni. Kattintson az OK gombra, hogy megpróbálja megoldani azt.
 ```
@@ -713,7 +713,7 @@ Van egy probléma a Google Play Services : meg kell telepíteni, frissíteni vag
 ```
 Delete folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mappa törlése
 ```
@@ -723,7 +723,7 @@ Mappa törlése
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ha tetszenek a app lehet jutalmazni engem, hogy időt, hogy egy jó minősítést :-)
 ```
@@ -734,7 +734,7 @@ Ha tetszenek a app lehet jutalmazni engem, hogy időt, hogy egy jó minősítés
 OK take me
 to the Play Store
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 OK vigyél 
  hogy a Play Store
@@ -746,7 +746,7 @@ OK vigyél
 I already
 gave a rating
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Már 
  adott minősítés
@@ -758,7 +758,7 @@ Már
 Maybe later
 remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Talán később 
  eszembe
@@ -770,7 +770,7 @@ Talán később
 Maybe later
 do not remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Talán később 
  nem emlékeztessen
@@ -781,7 +781,7 @@ Talán később
 ```
 Could not find the place
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nem találta meg a helyét
 ```
@@ -791,7 +791,7 @@ Nem találta meg a helyét
 ```
 Could not find another map application
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nem sikerült találni egy másik térkép alkalmazás
 ```
@@ -801,7 +801,7 @@ Nem sikerült találni egy másik térkép alkalmazás
 ```
 Move the map around to place your marker where you want and click OK to place it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mozgatod a térképet körül, hogy helyezze el marker, ahol akar, és kattintson az OK gombra, hogy azt
 ```
@@ -811,7 +811,7 @@ Mozgatod a térképet körül, hogy helyezze el marker, ahol akar, és kattintso
 ```
 Imported marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Importált marker
 ```
@@ -821,7 +821,7 @@ Importált marker
 ```
 Settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Beállítások
 ```
@@ -831,7 +831,7 @@ Beállítások
 ```
 Display zoom buttons
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kijelző zoom gombok
 ```
@@ -841,7 +841,7 @@ Kijelző zoom gombok
 ```
 Decimal degrees
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tizedes fok
 ```
@@ -851,7 +851,7 @@ Tizedes fok
 ```
 Degrees decimal minutes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tizedes fokban perc
 ```
@@ -861,7 +861,7 @@ Tizedes fokban perc
 ```
 Degrees minutes seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fok perc másodperc
 ```
@@ -871,7 +871,7 @@ Fok perc másodperc
 ```
 Coordinates format
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Koordinátákat formátumban
 ```
@@ -881,7 +881,7 @@ Koordinátákat formátumban
 ```
 GPS and wireless networks only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GPS és vezeték nélküli hálózatok csak
 ```
@@ -891,7 +891,7 @@ GPS és vezeték nélküli hálózatok csak
 ```
 GPS and wireless networks or magnetic sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GPS és vezeték nélküli hálózatok vagy mágneses szenzor
 ```
@@ -901,7 +901,7 @@ GPS és vezeték nélküli hálózatok vagy mágneses szenzor
 ```
 Magnetic sensor only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mágneses érzékelő csak
 ```
@@ -911,7 +911,7 @@ Mágneses érzékelő csak
 ```
 Used compass sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Használt iránytű szenzor
 ```
@@ -921,7 +921,7 @@ Használt iránytű szenzor
 ```
 FAQ/Help
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 FAQ / Segítség
 ```
@@ -931,7 +931,7 @@ FAQ / Segítség
 ```
 Folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mappák
 ```
@@ -941,7 +941,7 @@ Mappák
 ```
 Help and settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Súgó és beállítások
 ```
@@ -951,7 +951,7 @@ Súgó és beállítások
 ```
 Language
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nyelv
 ```
@@ -961,7 +961,7 @@ Nyelv
 ```
 Marker popup style
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker helyi stílusban
 ```
@@ -971,7 +971,7 @@ Marker helyi stílusban
 ```
 Bottom
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Alsó
 ```
@@ -981,7 +981,7 @@ Alsó
 ```
 Bubble
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Buborék
 ```
@@ -991,7 +991,7 @@ Buborék
 ```
 Coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Koordináták
 ```
@@ -1001,7 +1001,7 @@ Koordináták
 ```
 Contextual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Szövegre vonatkozó
 ```
@@ -1011,7 +1011,7 @@ Szövegre vonatkozó
 ```
 Always
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mindig
 ```
@@ -1021,7 +1021,7 @@ Mindig
 ```
 Crosshair display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Crosshair kijelző
 ```
@@ -1031,7 +1031,7 @@ Crosshair kijelző
 ```
 Coordinates window
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Koordinátákat ablakban
 ```
@@ -1041,7 +1041,7 @@ Koordinátákat ablakban
 ```
 Lat:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Szél:
 ```
@@ -1051,7 +1051,7 @@ Szél:
 ```
 Lng:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 LNG:
 ```
@@ -1061,7 +1061,7 @@ LNG:
 ```
 Marker instant adding mode
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker instant hozzátéve módban
 ```
@@ -1071,7 +1071,7 @@ Marker instant hozzátéve módban
 ```
 Advanced
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Előrehaladott
 ```
@@ -1081,7 +1081,7 @@ Előrehaladott
 ```
 Display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kijelző
 ```
@@ -1091,7 +1091,7 @@ Kijelző
 ```
 Actions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Műveletek
 ```
@@ -1101,7 +1101,7 @@ Műveletek
 ```
 Language and units
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nyelv és mértékegységek
 ```
@@ -1111,7 +1111,7 @@ Nyelv és mértékegységek
 ```
 Markers ignored on import (duplicates): %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Markerek hagyja figyelmen kívül import (másolat): %1$d
 ```
@@ -1121,7 +1121,7 @@ Markerek hagyja figyelmen kívül import (másolat): %1$d
 ```
 %1$d markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d markerek
 ```
@@ -1131,7 +1131,7 @@ translates to:
 ```
 No auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nem automatikus névadást
 ```
@@ -1141,7 +1141,7 @@ Nem automatikus névadást
 ```
 Auto naming "number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Auto elnevezése "szám"
 ```
@@ -1151,7 +1151,7 @@ Auto elnevezése "szám"
 ```
 Auto naming "Marker number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Auto elnevezése "Marker száma"
 ```
@@ -1161,7 +1161,7 @@ Auto elnevezése "Marker száma"
 ```
 New marker auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Új marker automatikus névadást
 ```
@@ -1171,7 +1171,7 @@ translates to:
 ```
 Marker %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker %1$d
 ```
@@ -1181,7 +1181,7 @@ Marker %1$d
 ```
 Waiting for location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Várakozás a helyre&#8230;
 ```
@@ -1191,7 +1191,7 @@ Várakozás a helyre&#8230;
 ```
 Open the help page and see the FAQ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nyissa meg a súgó oldalt, és tekintse meg a GYIK
 ```
@@ -1201,7 +1201,7 @@ Nyissa meg a súgó oldalt, és tekintse meg a GYIK
 ```
 Features
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jellemzők
 ```
@@ -1211,7 +1211,7 @@ Jellemzők
 ```
 View the list of upcoming features for the next app version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tekintse meg a listát a közelgő funkciók a következő app verzió
 ```
@@ -1221,7 +1221,7 @@ Tekintse meg a listát a közelgő funkciók a következő app verzió
 ```
 Help &amp; Feedback
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Súgó &amp; visszajelzés
 ```
@@ -1231,7 +1231,7 @@ Súgó &amp; visszajelzés
 ```
 About
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Körülbelül
 ```
@@ -1241,7 +1241,7 @@ Körülbelül
 ```
 Distance to %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Távolság %1$s
 ```
@@ -1251,7 +1251,7 @@ Távolság %1$s
 ```
 Snapshot
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pillanatkép
 ```
@@ -1261,7 +1261,7 @@ Pillanatkép
 ```
 Share a snapshot of the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Megosztani egy pillanatkép a térképen
 ```
@@ -1271,7 +1271,7 @@ Megosztani egy pillanatkép a térképen
 ```
 All markers and folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Minden markerek és mappák
 ```
@@ -1281,7 +1281,7 @@ Minden markerek és mappák
 ```
 <![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Annak érdekében, hogy a megfelelő északi irányt az iránytű, meg kell kalibrálni akkor a telefon rendesen. &lt;BR&gt; Kalibrálja a telefont, egyszerűen mozgatni a rajz egy 8 . A költözés szélesnek kell lenniük, és megismételte körülbelül 3-szor nagyobb hatékonyság érdekében. &lt;br&gt; beállításait is meg telefonon azáltal, hogy ezt bármikor. &lt;/ b&gt; &lt;br&gt; A kalibrációs megvannak a maga korlátai, és talán nem lesz elég hogy szembeszálljanak a közelben zavaró, mint: &lt;br&gt; • nagy fémtárgyak &lt;br&gt; • elektronikus eszközök &lt;br&gt; • mágnesek &lt;br&gt; • a belsejében egy autó / busz / vonat / sík &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -1291,7 +1291,7 @@ translates to:
 ```
 Badges
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jelvények
 ```
@@ -1301,7 +1301,7 @@ Jelvények
 ```
 Buy a donation badge
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vegyél egy adományt kapott
 ```
@@ -1311,7 +1311,7 @@ Vegyél egy adományt kapott
 ```
 Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Köszönjük az adományt! Ez az adomány kapott támogatások hozzáférést biztosít a prémium :-)
 ```
@@ -1321,7 +1321,7 @@ Köszönjük az adományt! Ez az adomány kapott támogatások hozzáférést bi
 ```
 Default folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Alapértelmezett mappa
 ```
@@ -1331,7 +1331,7 @@ Alapértelmezett mappa
 ```
 Sync options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Szinkronizálási lehetőségek
 ```
@@ -1341,7 +1341,7 @@ Szinkronizálási lehetőségek
 ```
 Google Drive
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Google Drive
 ```
@@ -1351,7 +1351,7 @@ Google Drive
 ```
 Dropbox
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dropbox
 ```
@@ -1361,7 +1361,7 @@ Dropbox
 ```
 Configuring&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Konfigurálása&#8230;
 ```
@@ -1371,7 +1371,7 @@ Konfigurálása&#8230;
 ```
 Sync now
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Szinkronizálás most
 ```
@@ -1381,7 +1381,7 @@ Szinkronizálás most
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Soha
 ```
@@ -1391,7 +1391,7 @@ Soha
 ```
 Syncing…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Szinkronizálása&#8230;
 ```
@@ -1401,7 +1401,7 @@ Szinkronizálása&#8230;
 ```
 Select folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Válassza ki a mappát
 ```
@@ -1411,7 +1411,7 @@ Válassza ki a mappát
 ```
 Load error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Load error
 ```
@@ -1421,7 +1421,7 @@ Load error
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Próbálja újra
 ```
@@ -1431,7 +1431,7 @@ Próbálja újra
 ```
 Root
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gyökér
 ```
@@ -1441,7 +1441,7 @@ Gyökér
 ```
 Shared
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Megosztott
 ```
@@ -1451,7 +1451,7 @@ Megosztott
 ```
 Purchase successful!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vásároljon sikeres!
 ```
@@ -1461,7 +1461,7 @@ Vásároljon sikeres!
 ```
 Purchase failed: %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vásárlási nem %1$s
 ```
@@ -1471,7 +1471,7 @@ Vásárlási nem %1$s
 ```
 Premium access available! You currently have access to premium features.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Prémium csatlakozás! Ön jelenleg elérhető, prémium funkciók.
 ```
@@ -1481,7 +1481,7 @@ Prémium csatlakozás! Ön jelenleg elérhető, prémium funkciók.
 ```
 You cannot select that folder because it contains multiple files named %1$s. The sync requires the folder to contain only one file with that name.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nem tudja kiválasztani azt a mappát, mert tartalmaz több fájlt %1$s A szinkron előírja, hogy a mappát csak egyetlen ilyen nevű fájlt.
 ```
@@ -1491,7 +1491,7 @@ Nem tudja kiválasztani azt a mappát, mert tartalmaz több fájlt %1$s A szinkr
 ```
 It seems sync data already exists in that folder. If you select that folder, your local data will be merged with the folder data when sync is performed. Is that what you want?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Úgy tűnik, szinkron adatok már létezik ebben a mappában. Ha kiválasztja azt a mappát, a helyi adatok lesznek vonva a mappát adatokat, amikor sync végzik. Ez az, amit akar?
 ```
@@ -1501,7 +1501,7 @@ translates to:
 ```
 File options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fájl opciók
 ```
@@ -1511,7 +1511,7 @@ Fájl opciók
 ```
 Cloud sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Felhő szinkron
 ```
@@ -1521,7 +1521,7 @@ Felhő szinkron
 ```
 Sync this map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Szinkronizálja ezt a térképet fájlt a felhő
 ```
@@ -1531,7 +1531,7 @@ Szinkronizálja ezt a térképet fájlt a felhő
 ```
 Map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Térkép fájl
 ```
@@ -1541,7 +1541,7 @@ Térkép fájl
 ```
 Create local map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hozzon létre helyi térképen
 ```
@@ -1551,7 +1551,7 @@ Hozzon létre helyi térképen
 ```
 Create a new map file locally
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Új térkép létrehozása fájlt helyileg
 ```
@@ -1561,7 +1561,7 @@ translates to:
 ```
 Create cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hozzon létre felhő térképen
 ```
@@ -1571,7 +1571,7 @@ Hozzon létre felhő térképen
 ```
 Create a map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hozzon létre egy térképet fájl a felhő
 ```
@@ -1581,7 +1581,7 @@ Hozzon létre egy térképet fájl a felhő
 ```
 Retrieves changes from the cloud and sends local changes to the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lekéri változások a felhő, és elküldi a helyi változások a felhő
 ```
@@ -1591,7 +1591,7 @@ Lekéri változások a felhő, és elküldi a helyi változások a felhő
 ```
 Rename
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Átnevezése
 ```
@@ -1601,7 +1601,7 @@ translates to:
 ```
 Rename the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nevezze át a térképen
 ```
@@ -1611,7 +1611,7 @@ Nevezze át a térképen
 ```
 Enter new name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Írja be az új nevet
 ```
@@ -1621,7 +1621,7 @@ translates to:
 ```
 Enter the new map\'s name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Írja be az új térkép nevét
 ```
@@ -1631,7 +1631,7 @@ translates to:
 ```
 %1$d folders, %2$d markers, size: %3$d KB
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d %2$d markerek, %3$d KB
 ```
@@ -1641,7 +1641,7 @@ translates to:
 ```
 Create new folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Új könyvtár létrehozása
 ```
@@ -1651,7 +1651,7 @@ translates to:
 ```
 Could not create folder: name empty
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nem sikerült létrehozni mappát: név üres
 ```
@@ -1661,7 +1661,7 @@ Nem sikerült létrehozni mappát: név üres
 ```
 Could not create folder: error occurred
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nem sikerült létrehozni mappát: hiba történt
 ```
@@ -1671,7 +1671,7 @@ Nem sikerült létrehozni mappát: hiba történt
 ```
 Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Köszönjük, hogy megvásárolta Map Marker prémium :-)
 ```
@@ -1681,7 +1681,7 @@ Köszönjük, hogy megvásárolta Map Marker prémium :-)
 ```
 Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Köszönöm, hogy megmutattad érdeklődését, azt állítva, az Map Marker :-)
 ```
@@ -1691,7 +1691,7 @@ Köszönöm, hogy megmutattad érdeklődését, azt állítva, az Map Marker :-)
 ```
 Premium
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Prémium
 ```
@@ -1701,7 +1701,7 @@ Prémium
 ```
 Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Frissítés a prémium és teljes mértékben Map Marker funkciókat!
 ```
@@ -1711,7 +1711,7 @@ Frissítés a prémium és teljes mértékben Map Marker funkciókat!
 ```
 Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sajnáljuk, de szükség van a prémium szint a funkciók eléréséhez. Frissítés a prémium és teljes mértékben Map Marker funkciókat!
 ```
@@ -1721,7 +1721,7 @@ Sajnáljuk, de szükség van a prémium szint a funkciók eléréséhez. Frissí
 ```
 You have the premium upgrade for free! You can still purchase it if you want to show your support :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Megvan a prémium szint ingyen! Akkor is vásárolni, ha akarja, hogy mutassa :-)
 ```
@@ -1731,7 +1731,7 @@ Megvan a prémium szint ingyen! Akkor is vásárolni, ha akarja, hogy mutassa :-
 ```
 Purchase the premium upgrade
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vásárolja meg a prémium szint
 ```
@@ -1741,7 +1741,7 @@ Vásárolja meg a prémium szint
 ```
 My Google account already has premium access, activate it!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Saját Google fiókhoz már prémium hozzáférést, aktiválni!
 ```
@@ -1751,7 +1751,7 @@ Saját Google fiókhoz már prémium hozzáférést, aktiválni!
 ```
 Troubleshooting
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hibaelhárítás
 ```
@@ -1761,7 +1761,7 @@ Hibaelhárítás
 ```
 Open a list of actions to solve possible problems
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nyisson intézkedések listáját megoldani az esetleges problémákat
 ```
@@ -1771,7 +1771,7 @@ Nyisson intézkedések listáját megoldani az esetleges problémákat
 ```
 Test internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Teszt internet
 ```
@@ -1781,7 +1781,7 @@ Teszt internet
 ```
 Checks that the app has access to internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ellenőrzi, hogy az alkalmazás hozzáférjen az internethez
 ```
@@ -1791,7 +1791,7 @@ Ellenőrzi, hogy az alkalmazás hozzáférjen az internethez
 ```
 Test file writing
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Teszt fájl írása
 ```
@@ -1801,7 +1801,7 @@ Teszt fájl írása
 ```
 Checks that the app can save files on the internal SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ellenőrzi, hogy az app lehet menteni a fájlokat a belső SD kártyára
 ```
@@ -1811,7 +1811,7 @@ Ellenőrzi, hogy az app lehet menteni a fájlokat a belső SD kártyára
 ```
 GP Services (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GP Szolgáltatások (app)
 ```
@@ -1821,7 +1821,7 @@ GP Szolgáltatások (app)
 ```
 Open the details of the currently installed Google Play Services app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nyissa meg a részleteket a jelenleg Google Play Services alkalmazás
 ```
@@ -1831,7 +1831,7 @@ Nyissa meg a részleteket a jelenleg Google Play Services alkalmazás
 ```
 GP Services (store)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GP Szolgáltatások (bolt)
 ```
@@ -1841,7 +1841,7 @@ GP Szolgáltatások (bolt)
 ```
 Google Play (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A Google Play (app)
 ```
@@ -1851,7 +1851,7 @@ A Google Play (app)
 ```
 Contact support
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kapcsolat támogatás
 ```
@@ -1861,7 +1861,7 @@ Kapcsolat támogatás
 ```
 Write an email to support with the details of your problem
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Írj email támogatni a részleteket a problémát
 ```
@@ -1871,7 +1871,7 @@ translates to:
 ```
 Device network unavailable
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Készülék hálózati érhető el
 ```
@@ -1881,7 +1881,7 @@ Készülék hálózati érhető el
 ```
 Testing&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tesztelés&#8230;
 ```
@@ -1891,7 +1891,7 @@ Tesztelés&#8230;
 ```
 Network test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hálózati teszt sikerült
 ```
@@ -1901,7 +1901,7 @@ Hálózati teszt sikerült
 ```
 Network test failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hálózati teszt sikertelen
 ```
@@ -1911,7 +1911,7 @@ Hálózati teszt sikertelen
 ```
 Disk test failed: could not write to internal storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Disk teszt sikertelen: nem tud írni belső tároló
 ```
@@ -1921,7 +1921,7 @@ Disk teszt sikertelen: nem tud írni belső tároló
 ```
 Disk test failed: could not write to external storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Disk teszt sikertelen: nem tud írni külső tároló
 ```
@@ -1931,7 +1931,7 @@ Disk teszt sikertelen: nem tud írni külső tároló
 ```
 Disk test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Disk teszt sikerült
 ```
@@ -1941,7 +1941,7 @@ Disk teszt sikerült
 ```
 App failed to start: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 App sikerült %s
 ```
@@ -1951,7 +1951,7 @@ App sikerült %s
 ```
 The file does not exist
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A fájl nem létezik
 ```
@@ -1961,7 +1961,7 @@ A fájl nem létezik
 ```
 Share cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ossza felhő térképen
 ```
@@ -1971,7 +1971,7 @@ Ossza felhő térképen
 ```
 Open the cloud map folder to view its properties and share it with other people
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nyissa meg a felhő térképet mappát a tulajdonságai megtekintéséhez, és ossza meg másokkal
 ```
@@ -1981,7 +1981,7 @@ Nyissa meg a felhő térképet mappát a tulajdonságai megtekintéséhez, és o
 ```
 Internal file to SD
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Belső fájlt SD
 ```
@@ -1991,7 +1991,7 @@ Belső fájlt SD
 ```
 Copy the app hidden internal files to the sdcard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Másolja az alkalmazás rejtett belső fájlokat a sdcard
 ```
@@ -2001,7 +2001,7 @@ Másolja az alkalmazás rejtett belső fájlokat a sdcard
 ```
 Enter destination folder path
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Írja be a címzett mappa elérési útját
 ```
@@ -2011,7 +2011,7 @@ translates to:
 ```
 Could not create folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nem sikerült létrehozni a mappát
 ```
@@ -2021,7 +2021,7 @@ Nem sikerült létrehozni a mappát
 ```
 Files successfully saved to: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A sikeresen %s
 ```
@@ -2031,7 +2031,7 @@ A sikeresen %s
 ```
 View history/Restore
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Az előzmények / visszaállítás
 ```
@@ -2041,7 +2041,7 @@ Az előzmények / visszaállítás
 ```
 View history of modifications to the cloud folder and select a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tekintse története módosításokat a felhő mappát, és válassza ki a verziót visszaállítani
 ```
@@ -2051,7 +2051,7 @@ Tekintse története módosításokat a felhő mappát, és válassza ki a verzi
 ```
 Create map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hozzon létre map fájlt
 ```
@@ -2061,7 +2061,7 @@ Hozzon létre map fájlt
 ```
 Create a new map file locally or on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Új térkép létrehozása fájl helyben vagy a felhő
 ```
@@ -2071,7 +2071,7 @@ translates to:
 ```
 Open cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nyílt felhő térképen
 ```
@@ -2081,7 +2081,7 @@ Nyílt felhő térképen
 ```
 Open a map file from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nyissa meg a térkép fájlt a felhő
 ```
@@ -2091,7 +2091,7 @@ Nyissa meg a térkép fájlt a felhő
 ```
 Map Marker needs the permission to access your location in order to display it on the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker szüksége van engedélye a saját helyzete annak érdekében, hogy megjelenjen a térképen
 ```
@@ -2101,7 +2101,7 @@ Map Marker szüksége van engedélye a saját helyzete annak érdekében, hogy m
 ```
 Map Marker needs the permission to access to the storage of your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker szüksége van a jogosultsága hozzáférni a tároló készülék
 ```
@@ -2111,7 +2111,7 @@ Map Marker szüksége van a jogosultsága hozzáférni a tároló készülék
 ```
 Open settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nyílt beállítások
 ```
@@ -2121,7 +2121,7 @@ Nyílt beállítások
 ```
 No map folder found on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nem térképen mappát találtak a felhő
 ```
@@ -2131,7 +2131,7 @@ Nem térképen mappát találtak a felhő
 ```
 Auto sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Autoszinkron
 ```
@@ -2141,7 +2141,7 @@ Autoszinkron
 ```
 Choose a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Válassz egy verziót visszaállítani
 ```
@@ -2151,7 +2151,7 @@ Válassz egy verziót visszaállítani
 ```
 You must sync first before restoring an older version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Meg kell szinkronizálni első visszaállítása előtt egy régebbi verzió
 ```
@@ -2161,7 +2161,7 @@ Meg kell szinkronizálni első visszaállítása előtt egy régebbi verzió
 ```
 Are you sure you want to restore this version?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Biztos benne, hogy vissza akarja állítani ezt a verziót?
 ```
@@ -2171,7 +2171,7 @@ Biztos benne, hogy vissza akarja állítani ezt a verziót?
 ```
 Map Marker lost permissions to write to your cloud account. Sync will always fail until this is fixed. Do you want to fix it now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker elveszett engedélyeket, hogy írjon ki a felhő számla. Sync mindig sikertelen, amíg ez fix. Szeretné erősít ez most?
 ```
@@ -2181,7 +2181,7 @@ Map Marker elveszett engedélyeket, hogy írjon ki a felhő számla. Sync mindig
 ```
 A sync error occurred. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A szinkronizálási hiba történt. Kérlek próbáld újra.
 ```
@@ -2191,7 +2191,7 @@ A szinkronizálási hiba történt. Kérlek próbáld újra.
 ```
 A sync error occurred: network error. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A szinkronizálási hiba történt: hálózati hiba. Kérlek próbáld újra.
 ```
@@ -2201,7 +2201,7 @@ A szinkronizálási hiba történt: hálózati hiba. Kérlek próbáld újra.
 ```
 A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A szinkronizálási hiba történt: a konfliktus, egy másik eszköz végezte a szinkron egyidejűleg. Kérlek próbáld újra.
 ```
@@ -2211,7 +2211,7 @@ A szinkronizálási hiba történt: a konfliktus, egy másik eszköz végezte a 
 ```
 Changes are available from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Változások ről felhő
 ```
@@ -2221,7 +2221,7 @@ Változások ről felhő
 ```
 Changes made from another device were synced on the cloud. You can retrieve those changes by syncing.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A változások egy másik készülékről is szinkronizálva a felhő. Le tudod tölteni azokat a változtatásokat, szinkronizál.
 ```
@@ -2231,7 +2231,7 @@ A változások egy másik készülékről is szinkronizálva a felhő. Le tudod 
 ```
 Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for details on how to restore cloud permissions.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nem sikerült helyreállítani felhő tárolási engedélyeket. Kérjük, olvassa el a "Névjegy" -&gt; "GYIK" részleteket, hogyan kell visszaállítani felhő jogosultságokat.
 ```
@@ -2241,7 +2241,7 @@ Nem sikerült helyreállítani felhő tárolási engedélyeket. Kérjük, olvass
 ```
 A sync error occurred: duplicate index, there are at least two files named index.json in the map cloud folder. Remove the duplicates manually and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A szinkronizálási hiba történt: duplikált index, van legalább két fájl neve index.json a térképen felhő mappát. Távolítsuk el a másolatokat kézzel, és próbálja újra.
 ```
@@ -2251,7 +2251,7 @@ A szinkronizálási hiba történt: duplikált index, van legalább két fájl n
 ```
 Phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Telefonszám
 ```
@@ -2261,7 +2261,7 @@ Telefonszám
 ```
 Edit phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Telefonszám szerkesztése
 ```
@@ -2271,7 +2271,7 @@ Telefonszám szerkesztése
 ```
 Map Marker needs the permission to make calls on your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker szüksége van engedélye, hogy a hívások a készüléken
 ```
@@ -2281,7 +2281,7 @@ Map Marker szüksége van engedélye, hogy a hívások a készüléken
 ```
 No phone number is defined for that marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nincs telefonszám definiálva, hogy marker
 ```
@@ -2291,7 +2291,7 @@ Nincs telefonszám definiálva, hogy marker
 ```
 Navigation options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Navigációs opciók
 ```
@@ -2301,7 +2301,7 @@ Navigációs opciók
 ```
 Open the marker location in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nyissa meg a jelölő helye ebben az app
 ```
@@ -2311,7 +2311,7 @@ Nyissa meg a jelölő helye ebben az app
 ```
 Open the marker street view in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nyissa meg a marker utcára néző ebben az app
 ```
@@ -2321,7 +2321,7 @@ Nyissa meg a marker utcára néző ebben az app
 ```
 Enter navigation mode in this app to get directions to the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Adja navigációs mód ebben az app útvonaltervet a marker
 ```
@@ -2331,7 +2331,7 @@ Adja navigációs mód ebben az app útvonaltervet a marker
 ```
 Other options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 További lehetőségek
 ```
@@ -2341,7 +2341,7 @@ További lehetőségek
 ```
 Share the selected marker as plain text into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Oszd meg a kiválasztott marker egyszerű szövegként egy másik alkalmazás
 ```
@@ -2351,7 +2351,7 @@ Oszd meg a kiválasztott marker egyszerű szövegként egy másik alkalmazás
 ```
 %1$d markers in %2$d folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d %2$d mappák
 ```
@@ -2361,7 +2361,7 @@ translates to:
 ```
 A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A szinkronizálási hiba történt: a felhő adatok frissült egy újabb változata app. Meg kell Map Marker ezen az eszközön szinkronizálni.
 ```
@@ -2371,7 +2371,7 @@ A szinkronizálási hiba történt: a felhő adatok frissült egy újabb változ
 ```
 Could not find a phone app on this device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nem találtunk egy telefon app ezen az eszközön.
 ```
@@ -2381,7 +2381,7 @@ Nem találtunk egy telefon app ezen az eszközön.
 ```
 Phone number options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Telefonszám lehetőségek
 ```
@@ -2391,7 +2391,7 @@ Telefonszám lehetőségek
 ```
 Call phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hívás telefonszám
 ```
@@ -2401,7 +2401,7 @@ Hívás telefonszám
 ```
 Dial phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hívható telefonszám
 ```
@@ -2411,7 +2411,7 @@ Hívható telefonszám
 ```
 Text phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Szöveg telefonszáma
 ```
@@ -2421,7 +2421,7 @@ Szöveg telefonszáma
 ```
 Default navigation action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Alapértelmezett navigációs akció
 ```
@@ -2431,7 +2431,7 @@ Alapértelmezett navigációs akció
 ```
 Default phone action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Alapértelmezett telefon akció
 ```
@@ -2441,7 +2441,7 @@ Alapértelmezett telefon akció
 ```
 Ask
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kérdez
 ```
@@ -2451,7 +2451,7 @@ Kérdez
 ```
 Premium free trial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Premium ingyenes próba
 ```
@@ -2461,7 +2461,7 @@ Premium ingyenes próba
 ```
 What is the premium upgrade?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mi a prémium szint?
 ```
@@ -2471,7 +2471,7 @@ Mi a prémium szint?
 ```
 Premium free trial started! The trial will expire at the following date: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Premium ingyenes próba elkezdődött! A próba lejár következő időpontja: %s
 ```
@@ -2482,7 +2482,7 @@ Premium ingyenes próba elkezdődött! A próba lejár következő időpontja: %
 Trial expiration:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Trial lejárata: 
  %s
@@ -2493,7 +2493,7 @@ Trial lejárata:
 ```
 Trial expired
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Trial lejárt
 ```
@@ -2503,7 +2503,7 @@ Trial lejárt
 ```
 Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Szinkronizálás törölték: szükség van a prémium szint teljesítése érdekében szinkronban.
 ```
@@ -2513,7 +2513,7 @@ Szinkronizálás törölték: szükség van a prémium szint teljesítése érde
 ```
 Error: trial starting in the future!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hiba: tárgyalás kezdő a jövőben!
 ```
@@ -2523,7 +2523,7 @@ Hiba: tárgyalás kezdő a jövőben!
 ```
 Thank you for your purchase!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Köszönjük a vásárlást!
 ```
@@ -2533,7 +2533,7 @@ Köszönjük a vásárlást!
 ```
 Browse
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tallózás
 ```
@@ -2543,7 +2543,7 @@ Tallózás
 ```
 Organize
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Szervez
 ```
@@ -2553,7 +2553,7 @@ Szervez
 ```
 Create
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Teremt
 ```
@@ -2563,7 +2563,7 @@ Teremt
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Próbálja újra
 ```
@@ -2573,7 +2573,7 @@ Próbálja újra
 ```
 Search failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Keresés sikertelen
 ```
@@ -2583,7 +2583,7 @@ Keresés sikertelen
 ```
 Search failed, network error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Keresés sikertelen, hálózati hiba
 ```
@@ -2593,7 +2593,7 @@ Keresés sikertelen, hálózati hiba
 ```
 Details
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Részletek
 ```
@@ -2603,7 +2603,7 @@ Részletek
 ```
 Sync error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 szinkronizálási hiba
 ```
@@ -2613,7 +2613,7 @@ szinkronizálási hiba
 ```
 The file already exists, do you want to overwrite it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A fájl már létezik, nem akarsz írni?
 ```
@@ -2623,7 +2623,7 @@ A fájl már létezik, nem akarsz írni?
 ```
 Copy markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Másolás markerek mappába
 ```
@@ -2633,7 +2633,7 @@ Másolás markerek mappába
 ```
 Error loading the Google Map component. Please restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nem sikerült betölteni a Google Map komponens. Kérjük, indítsa újra az alkalmazást.
 ```
@@ -2643,7 +2643,7 @@ Nem sikerült betölteni a Google Map komponens. Kérjük, indítsa újra az alk
 ```
 You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Látni fogja a listát a markerek itt. Jelenleg nincs markerek a kiválasztott mappa (k). Akkor egy új marker által az alábbi gombra kattintva.
 ```
@@ -2653,7 +2653,7 @@ Látni fogja a listát a markerek itt. Jelenleg nincs markerek a kiválasztott m
 ```
 No search results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nincs keresési eredmény
 ```
@@ -2663,7 +2663,7 @@ Nincs keresési eredmény
 ```
 Open Street Map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Open Street Map
 ```
@@ -2673,7 +2673,7 @@ Open Street Map
 ```
 Bing Road
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Road
 ```
@@ -2683,7 +2683,7 @@ Bing Road
 ```
 Bing Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial
 ```
@@ -2693,7 +2693,7 @@ Bing Aerial
 ```
 Bing Aerial With Labels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial címkékkel
 ```
@@ -2703,7 +2703,7 @@ Bing Aerial címkékkel
 ```
 ArcGIS Server
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ArcGIS Server
 ```
@@ -2713,7 +2713,7 @@ ArcGIS Server
 ```
 Offline maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Offline térképek
 ```
@@ -2723,7 +2723,7 @@ Offline térképek
 ```
 No folder selected
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nincs mappa kiválasztva
 ```
@@ -2733,7 +2733,7 @@ Nincs mappa kiválasztva
 ```
 Storage folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tárolás mappában
 ```
@@ -2744,7 +2744,7 @@ Tárolás mappában
 Test results of the offline maps folder:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vizsgálati eredmények az offline térképek mappa: 
  %s
@@ -2755,7 +2755,7 @@ Vizsgálati eredmények az offline térképek mappa:
 ```
 No folder is selected for offline map files. In order to use offline maps, open the settings and select a folder for offline map files.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nincs mappa van kiválasztva offline térkép fájlokat. Ahhoz, hogy használni offline térképek, nyissa meg a beállításokat, és válassza ki a mappát offline térkép fájlokat.
 ```
@@ -2765,7 +2765,7 @@ Nincs mappa van kiválasztva offline térkép fájlokat. Ahhoz, hogy használni 
 ```
 The selected offline map folder you selected contains no files. Make sure you add the offline map files in that folder before using offline maps, otherwise the map will be empty.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A kiválasztott offline térkép kiválasztott mappa nem tartalmaz fájlokat. Mindenképpen adjon hozzá az offline térképet fájl az adott mappából, mielőtt offline térképeket használ, különben a térkép üres lesz.
 ```
@@ -2775,7 +2775,7 @@ A kiválasztott offline térkép kiválasztott mappa nem tartalmaz fájlokat. Mi
 ```
 Success: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Siker: %s
 ```
@@ -2785,7 +2785,7 @@ Siker: %s
 ```
 Failed: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sikertelen: %s
 ```
@@ -2795,7 +2795,7 @@ Sikertelen: %s
 ```
 How to do it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hogyan kell csinálni?
 ```
@@ -2805,7 +2805,7 @@ Hogyan kell csinálni?
 ```
 Click here to open the web page explaining how to obtain those maps.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kattintson ide, hogy nyissa meg a weboldalt elmagyarázza, hogyan lehet megszerezni ezeket térképeket.
 ```
@@ -2815,7 +2815,7 @@ Kattintson ide, hogy nyissa meg a weboldalt elmagyarázza, hogyan lehet megszere
 ```
 Credits
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Credits
 ```
@@ -2825,7 +2825,7 @@ Credits
 ```
 Copyright and legal mentions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Szerzői jogok és jogi említi
 ```
@@ -2837,7 +2837,7 @@ Legal mentions for other map data than Google Maps:
 
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jogi említ más térkép adatokat, mint Google Maps : 
  
@@ -2849,7 +2849,7 @@ Jogi említ más térkép adatokat, mint Google Maps :
 ```
 Disable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Letiltja a hiba memóriatérképfájl
 ```
@@ -2859,7 +2859,7 @@ Letiltja a hiba memóriatérképfájl
 ```
 Disable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kikapcsolja írásban app hibákat egy fájlba az SD-kártyán
 ```
@@ -2869,7 +2869,7 @@ Kikapcsolja írásban app hibákat egy fájlba az SD-kártyán
 ```
 Enable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Engedélyezze hiba memóriatérképfájl
 ```
@@ -2879,7 +2879,7 @@ Engedélyezze hiba memóriatérképfájl
 ```
 Enable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Engedélyezése írásban app hibákat egy fájlba az SD-kártyán
 ```
@@ -2889,7 +2889,7 @@ Engedélyezése írásban app hibákat egy fájlba az SD-kártyán
 ```
 Start background sync…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kezdés háttér-szinkronizálás&#8230;
 ```
@@ -2899,7 +2899,7 @@ Kezdés háttér-szinkronizálás&#8230;
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Soha
 ```
@@ -2909,7 +2909,7 @@ Soha
 ```
 When app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Amikor az alkalmazás belép háttér
 ```
@@ -2919,7 +2919,7 @@ Amikor az alkalmazás belép háttér
 ```
 %d seconds after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d másodperc után az alkalmazás belép háttér
 ```
@@ -2929,7 +2929,7 @@ translates to:
 ```
 %d minutes after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d perc után a app belép háttér
 ```
@@ -2939,7 +2939,7 @@ translates to:
 ```
 Sync starting in %d seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Szinkronizálás kezdődő %d másodperc
 ```
@@ -2949,7 +2949,7 @@ Szinkronizálás kezdődő %d másodperc
 ```
 You can cancel the sync at any time and your data will be synced on next attempt.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Törölheti a szinkronizálási bármikor és az adatok lesznek szinkronizálva következő kísérlet.
 ```
@@ -2959,7 +2959,7 @@ Törölheti a szinkronizálási bármikor és az adatok lesznek szinkronizálva 
 ```
 Press back again to exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nyomda vissza, hogy kilépjen
 ```
@@ -2969,7 +2969,7 @@ Nyomda vissza, hogy kilépjen
 ```
 Cannot start sync with no internet access on the device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nem lehet elindítani szinkronban nincs internet-hozzáférés a készüléken.
 ```
@@ -2979,7 +2979,7 @@ Nem lehet elindítani szinkronban nincs internet-hozzáférés a készüléken.
 ```
 Manage map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kezelése térkép fájlok
 ```
@@ -2989,7 +2989,7 @@ Kezelése térkép fájlok
 ```
 Map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Térkép fájlok
 ```
@@ -2999,7 +2999,7 @@ Térkép fájlok
 ```
 Delete map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Törlés map fájlt
 ```
@@ -3009,7 +3009,7 @@ Törlés map fájlt
 ```
 This action will delete the map file from this device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ez a művelet törli a térképet fájlt az eszközön
 ```
@@ -3019,7 +3019,7 @@ Ez a művelet törli a térképet fájlt az eszközön
 ```
 This action will delete the map file from your device forever. All the markers inside that file will be lost. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ez a művelet törli a map fájlt a készülékről örökre. Az összes marker benne, hogy a fájl elvész. biztos vagy ebben?
 ```
@@ -3029,7 +3029,7 @@ Ez a művelet törli a map fájlt a készülékről örökre. Az összes marker 
 ```
 This action will delete the map file from your device forever. All changes not yet synced to the cloud will be lost. The cloud folder will not be affected by this action and you will have to delete it manually. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ez a művelet törli a map fájlt a készülékről örökre. Minden változás még nem szinkronizálja a felhővel, el fog veszni. A felhő mappa nem érinti ez a fellépés, és akkor törölni kézzel. biztos vagy ebben?
 ```
@@ -3039,7 +3039,7 @@ Ez a művelet törli a map fájlt a készülékről örökre. Minden változás 
 ```
 Map file successfully deleted
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Térkép file sikeresen törölve
 ```
@@ -3049,7 +3049,7 @@ Térkép file sikeresen törölve
 ```
 Could not delete map file: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nem sikerült törölni a térkép fájl: %s
 ```
@@ -3059,7 +3059,7 @@ Nem sikerült törölni a térkép fájl: %s
 ```
 Marker saved in a non visible folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker mentve van egy nem látható mappa
 ```
@@ -3069,7 +3069,7 @@ Marker mentve van egy nem látható mappa
 ```
 Your changes have not been synced recently. Make sure you keep your cloud copy up to date. Do you want to sync now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A módosítások nem lettek szinkronizálva a közelmúltban. Győződjön meg róla, hogy tartsa meg a felhő másolja naprakész. Szeretné szinkronizálni most?
 ```
@@ -3079,7 +3079,7 @@ A módosítások nem lettek szinkronizálva a közelmúltban. Győződjön meg r
 ```
 The markers of this map file are currently only saved on this device. It is recommended to save your markers on the cloud to avoid losing them. Do you want to save them to the cloud now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A markerek ez a térkép fájl jelenleg csak erre az eszközre mentett. Javasoljuk, hogy mentse a markerek a felhő, hogy ne veszítsen őket. Szeretné, hogy megmentse őket a felhő most?
 ```
@@ -3089,7 +3089,7 @@ A markerek ez a térkép fájl jelenleg csak erre az eszközre mentett. Javasolj
 ```
 Do you want to sync this map file? With manual you will need to sync manually every time. With automatic (recommended) you will select a destination cloud folder and the sync to the cloud will start automatically every time the app enters background.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Szeretné szinkronizálni ezt a térképet fájlt? Kézi akkor manuálisan kell szinkronizálást minden alkalommal. Automatikus (ajánlott), akkor válassza ki a cél mappát, és felhő a szinkronizálást a felhő automatikusan elindul minden alkalommal az alkalmazás belép háttérben.
 ```
@@ -3099,7 +3099,7 @@ Szeretné szinkronizálni ezt a térképet fájlt? Kézi akkor manuálisan kell 
 ```
 Automatic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Automatikus
 ```
@@ -3109,7 +3109,7 @@ Automatikus
 ```
 Manual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kézikönyv
 ```
@@ -3119,7 +3119,7 @@ Kézikönyv
 ```
 You can sync a map file on the cloud at any time by clicking on the map file in the side bar and then choosing the "Cloud sync" option.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Akkor szinkronizálni a térkép fájl a felhő bármikor kattintva a map fájlt az oldalsó sáv, és kiválasztja a "Cloud sync" opciót.
 ```
@@ -3129,7 +3129,7 @@ Akkor szinkronizálni a térkép fájl a felhő bármikor kattintva a map fájlt
 ```
 You can sync a map file manually to the cloud at any time by clicking the "share" button in the main action bar, and then "Other options" and then "All markers and folders" and then by selecting your favorite cloud storage app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Akkor szinkronizálni a térkép fájl kézzel a felhő bármikor rákattint a "share" gomb az alapeljárásban bar, majd a "További lehetőségek", majd "minden marker és mappák", majd kiválasztja a kedvenc cloud tárolási kb.
 ```
@@ -3139,7 +3139,7 @@ Akkor szinkronizálni a térkép fájl kézzel a felhő bármikor rákattint a "
 ```
 Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mozgathatja a térképet, hogy helyezze a pontot, majd kattintson a "+", hogy adjunk egy pontot, kattintson a "-", hogy távolítsa el a pont és kapcsolási pontokat az előző / következő gombokat. Végül kattintson a Mentés alakja.
 ```
@@ -3149,7 +3149,7 @@ Mozgathatja a térképet, hogy helyezze a pontot, majd kattintson a "+", hogy ad
 ```
 There are not enough points to create the shape. Create more points and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nincs elég pontot, hogy megteremtse a forma. Készítsen több pontot, és próbálja újra.
 ```
@@ -3159,7 +3159,7 @@ Nincs elég pontot, hogy megteremtse a forma. Készítsen több pontot, és pró
 ```
 Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn\'t work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by email (side panel -> about -> send email).
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nem sikerült aktiválni a prémium szint a Google fiókjába. Ha megvásárolta a prémium szint közelmúltban egy másik eszközön, akkor szükség lehet várni egy kicsit, hogy a vásárlás propagálni, az eszköz újraindítása lehet, hogy gyorsabb. Ha ez még mindig nem működik, ellenőrizze, hogy az Ön által vásárolt, telepítette az alkalmazást, és aktivált ugyanazzal a Google fiókot. Ha a probléma továbbra is fennáll, én segít a legjobban tudok, akkor forduljon hozzám email (oldalsó panel -&gt; a -&gt; Levél email ).
 ```
@@ -3169,7 +3169,7 @@ Nem sikerült aktiválni a prémium szint a Google fiókjába. Ha megvásárolta
 ```
 Distance: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Távolság: %s
 ```
@@ -3180,7 +3180,7 @@ Távolság: %s
 Perimeter: %1$s
 Area: %2$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kerülete: %1$s 
  terület: %2$s
@@ -3191,7 +3191,7 @@ Kerülete: %1$s
 ```
 Extra information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Extra információ
 ```
@@ -3201,7 +3201,7 @@ Extra információ
 ```
 Insert…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Helyezze be&#8230;
 ```
@@ -3211,7 +3211,7 @@ Helyezze be&#8230;
 ```
 Replace title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cserélje cím
 ```
@@ -3221,7 +3221,7 @@ Cserélje cím
 ```
 Replace description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cserélje leírás
 ```
@@ -3231,7 +3231,7 @@ Cserélje leírás
 ```
 Unit of distance
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Egységnyi távolság
 ```
@@ -3241,7 +3241,7 @@ Egységnyi távolság
 ```
 Unit of area
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Egységnyi területre
 ```
@@ -3251,7 +3251,7 @@ Egységnyi területre
 ```
 Metric (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mutató ( %s )
 ```
@@ -3261,7 +3261,7 @@ Mutató ( %s )
 ```
 Imperial (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Imperial ( %s )
 ```
@@ -3271,7 +3271,7 @@ Imperial ( %s )
 ```
 Images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 képek
 ```
@@ -3281,7 +3281,7 @@ képek
 ```
 Select image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Válasszon képet
 ```
@@ -3291,7 +3291,7 @@ Válasszon képet
 ```
 Imported images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 importált képek
 ```
@@ -3301,7 +3301,7 @@ importált képek
 ```
 Fit in a %1$sx%2$s square
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Elfér egy %1$s x %2$s négyzet
 ```
@@ -3311,7 +3311,7 @@ Elfér egy %1$s x %2$s négyzet
 ```
 Full quality
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 teljes minőség
 ```
@@ -3321,7 +3321,7 @@ teljes minőség
 ```
 Mobile data
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mobil adat
 ```
@@ -3331,7 +3331,7 @@ Mobil adat
 ```
 Wifi
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Wifi
 ```
@@ -3341,7 +3341,7 @@ Wifi
 ```
 Disabled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tiltva
 ```
@@ -3351,7 +3351,7 @@ Tiltva
 ```
 Up to %s per sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Akár %s per szinkron
 ```
@@ -3361,7 +3361,7 @@ Akár %s per szinkron
 ```
 Unlimited
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Korlátlan
 ```
@@ -3371,7 +3371,7 @@ Korlátlan
 ```
 The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings. You can also click "force sync" to sync just one time without data volume limit.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A szinkronizálás megszakadt, mert túllépte a megengedett adatmennyiség korlát. Növeléséhez vagy megváltoztatja a beállítást, menj a beállítások. Akkor is, kattintson a "vis sync" szinkronizálni csak egy ideig nem adatmennyiség korlát.
 ```
@@ -3381,7 +3381,7 @@ A szinkronizálás megszakadt, mert túllépte a megengedett adatmennyiség korl
 ```
 Force sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Force szinkron
 ```
@@ -3391,7 +3391,7 @@ Force szinkron
 ```
 This will override the usual data limit just for this one time. Force sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ez felülírja a szokásos adatok korlátot csak erre az egy időben. Force szinkron?
 ```
@@ -3401,7 +3401,7 @@ Ez felülírja a szokásos adatok korlátot csak erre az egy időben. Force szin
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Próbálja újra
 ```
@@ -3411,7 +3411,7 @@ Próbálja újra
 ```
 Add image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kép hozzáadása
 ```
@@ -3421,7 +3421,7 @@ Kép hozzáadása
 ```
 From camera
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 tól kamera
 ```
@@ -3431,7 +3431,7 @@ tól kamera
 ```
 From gallery
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 a galériából
 ```
@@ -3441,7 +3441,7 @@ a galériából
 ```
 Importing image…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Importálása kép&#8230;
 ```
@@ -3451,7 +3451,7 @@ Importálása kép&#8230;
 ```
 Offline (Mapsforge BETA)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Offline ( Mapsforge BETA )
 ```
@@ -3461,7 +3461,7 @@ Offline ( Mapsforge BETA )
 ```
 Exporting…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Exportálása&#8230;
 ```
@@ -3471,7 +3471,7 @@ Exportálása&#8230;
 ```
 Export failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 export sikertelen
 ```
@@ -3481,7 +3481,7 @@ export sikertelen
 ```
 Export succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 export sikerült
 ```
@@ -3491,7 +3491,7 @@ export sikerült
 ```
 KMZ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KMZ
 ```
@@ -3501,7 +3501,7 @@ KMZ
 ```
 KML
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KML
 ```
@@ -3511,7 +3511,7 @@ KML
 ```
 Importing file…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fájl importálása&#8230;
 ```
@@ -3521,7 +3521,7 @@ Fájl importálása&#8230;
 ```
 Show warning icon for sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Itt található figyelmeztető ikon szinkron
 ```
@@ -3531,7 +3531,7 @@ Itt található figyelmeztető ikon szinkron
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A szinkronizálás megszakadt, mert az egyik a média fájlokat a felhő eltűnt. Figyelmen kívül hagyhatja a hiányzó fájlokat kattintva "erő sync \". Figyelem, figyelmen kívül hagyva a hiányzó fájlokat eredményez eltávolítja őket az adatbázisból, ami azt jelenti, hogy más eszközök is, amelyek a helyi másolatot a fájl törli azt követően szinkronban.
 ```
@@ -3541,7 +3541,7 @@ A szinkronizálás megszakadt, mert az egyik a média fájlokat a felhő eltűnt
 ```
 This will force the sync and ignore the missing cloud files. The missing links will be removed from the database. Other devices still owning a local version of the missing cloud files will delete them upon their next sync. Data consumption limits will be ignored for this special sync. Force Sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ez arra kényszeríti a szinkron és figyelmen kívül hagyja a hiányzó felhő fájlokat. A hiányzó láncszemek eltávolításra kerül az adatbázisból. Egyéb eszközök is birtokló egy helyi változata a hiányzó felhő fájlokat törli fel azokat a következő sync. Az adatok a fogyasztás korlátok figyelmen kívül fogja hagyni ezt a különleges szinkronizálást. Force szinkronizálás?
 ```
@@ -3551,7 +3551,7 @@ Ez arra kényszeríti a szinkron és figyelmen kívül hagyja a hiányzó felhő
 ```
 Marker media files ignored on import: %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker médiafájlok hagyja figyelmen kívül import: %1$d
 ```
@@ -3561,7 +3561,7 @@ Marker médiafájlok hagyja figyelmen kívül import: %1$d
 ```
 Checking premium status…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ellenőrzés prémium állapot&#8230;
 ```
@@ -3571,7 +3571,7 @@ Ellenőrzés prémium állapot&#8230;
 ```
 General
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tábornok
 ```
@@ -3581,7 +3581,7 @@ Tábornok
 ```
 Toilets
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 WC
 ```
@@ -3591,7 +3591,7 @@ WC
 ```
 Food
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Élelmiszer
 ```
@@ -3601,7 +3601,7 @@ translates to:
 ```
 Stores
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 üzletek
 ```
@@ -3611,7 +3611,7 @@ translates to:
 ```
 Land activities
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 szárazföldi tevékenységek
 ```
@@ -3621,7 +3621,7 @@ szárazföldi tevékenységek
 ```
 Water activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 víz activies
 ```
@@ -3631,7 +3631,7 @@ víz activies
 ```
 Winter activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 téli activies
 ```
@@ -3641,7 +3641,7 @@ téli activies
 ```
 Transport
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Szállítás
 ```
@@ -3651,7 +3651,7 @@ Szállítás
 ```
 Health
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Egészség
 ```
@@ -3661,7 +3661,7 @@ Egészség
 ```
 Entertainment
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Szórakozás
 ```
@@ -3671,7 +3671,7 @@ Szórakozás
 ```
 Services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Szolgáltatások
 ```
@@ -3681,7 +3681,7 @@ Szolgáltatások
 ```
 Business
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Üzleti
 ```
@@ -3691,7 +3691,7 @@ translates to:
 ```
 Government
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kormány
 ```
@@ -3701,7 +3701,7 @@ Kormány
 ```
 Religious
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vallási
 ```
@@ -3711,7 +3711,7 @@ Vallási
 ```
 Accessibility
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Megközelíthetőség
 ```
@@ -3721,7 +3721,7 @@ Megközelíthetőség
 ```
 Select icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Válasszon ikont
 ```
@@ -3731,7 +3731,7 @@ Válasszon ikont
 ```
 Icon and color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ikon és a szín
 ```
@@ -3741,7 +3741,7 @@ Ikon és a szín
 ```
 Generic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 általános
 ```
@@ -3751,7 +3751,7 @@ translates to:
 ```
 Beta tester badge: thank you for being a beta tester! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Béta-tesztelő kapott: köszönöm, hogy egy béta teszter! Ez a jelvény eltűnik csak azt követően eltávolítani az alkalmazást vagy törlése az alkalmazás adatait. Ez a jelvény azt is lehetővé teszi, hogy nincs hirdetéseket az app.
 ```
@@ -3761,7 +3761,7 @@ Béta-tesztelő kapott: köszönöm, hogy egy béta teszter! Ez a jelvény eltű
 ```
 Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Referral jelvény: köszönöm meghívhatja barátait a app! Ez a jelvény eltűnik csak azt követően eltávolítani az alkalmazást vagy törlése az alkalmazás adatait. Ez a jelvény azt is lehetővé teszi, hogy nincs hirdetéseket az app.
 ```
@@ -3771,7 +3771,7 @@ Referral jelvény: köszönöm meghívhatja barátait a app! Ez a jelvény eltű
 ```
 Referral
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 referral
 ```
@@ -3781,7 +3781,7 @@ referral
 ```
 Removing ads: exchange referrals credits with friends to remove ads
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eltávolítása hirdetések: csere áttétel kredit barátaival eltávolítani hirdetések
 ```
@@ -3791,7 +3791,7 @@ Eltávolítása hirdetések: csere áttétel kredit barátaival eltávolítani h
 ```
 Sent credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Elküldött kredit: %s
 ```
@@ -3801,7 +3801,7 @@ Elküldött kredit: %s
 ```
 Received credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kedvezményt kaptak: %s
 ```
@@ -3811,7 +3811,7 @@ Kedvezményt kaptak: %s
 ```
 Contribute to translations
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hozzájárulás a fordítások
 ```
@@ -3821,7 +3821,7 @@ Hozzájárulás a fordítások
 ```
 You understand English and want to help with translations? Click here
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Értesz angolul, és szeretnénk segíteni a fordításban? Kattints ide
 ```
@@ -3831,7 +3831,7 @@ translates to:
 ```
 The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A célmappát szín vagy ikon más. Szeretné frissíteni a jelölő színe és ikon?
 ```
@@ -3841,7 +3841,7 @@ A célmappát szín vagy ikon más. Szeretné frissíteni a jelölő színe és 
 ```
 Add color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 színt
 ```
@@ -3851,7 +3851,7 @@ színt
 ```
 <![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Mi az a prémium frissíteni? &lt;/ B&gt; katalógusa tetejébe eltávolítjuk azokat a hirdetéseket, a prémium szint kinyitja a következő exkluzív prémium funkciók: • katalógusa Sync Google Drive vagy Dropbox katalógusa • Együttműködés keresztül Google Drive vagy Dropbox katalógusa • térkép változat története és helyreállítása katalógusa &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -3861,7 +3861,7 @@ translates to:
 ```
 Marker created from the geo location of the QR code
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker létre a földrajzi elhelyezkedés, a QR-kód
 ```
@@ -3871,7 +3871,7 @@ Marker létre a földrajzi elhelyezkedés, a QR-kód
 ```
 Failed to read QR code as a geo location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nem sikerült beolvasni a QR-kód, mint a földrajzi helyet
 ```
@@ -3881,7 +3881,7 @@ Nem sikerült beolvasni a QR-kód, mint a földrajzi helyet
 ```
 The app for scanning QR codes could not be found. Do you want to install it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Az alkalmazás szkennelési QR kódok nem található. Szeretné telepíteni?
 ```
@@ -3891,7 +3891,7 @@ Az alkalmazás szkennelési QR kódok nem található. Szeretné telepíteni?
 ```
 Selection action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Válogatás akció
 ```
@@ -3901,7 +3901,7 @@ Válogatás akció
 ```
 Move to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mozgás balra
 ```
@@ -3911,7 +3911,7 @@ Mozgás balra
 ```
 Move to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mozgás jobbra
 ```
@@ -3921,7 +3921,7 @@ Mozgás jobbra
 ```
 Rotate to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Forgatás balra
 ```
@@ -3931,7 +3931,7 @@ Forgatás balra
 ```
 Rotate to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Forgatás jobbra
 ```
@@ -3941,7 +3941,7 @@ Forgatás jobbra
 ```
 Delete image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 kép törlése
 ```
@@ -3951,7 +3951,7 @@ kép törlése
 ```
 From local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Helyi fájl
 ```
@@ -3961,7 +3961,7 @@ Helyi fájl
 ```
 What format to you want to use to export?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Milyen formátumban kívánja használni exportálni?
 ```
@@ -3971,7 +3971,7 @@ Milyen formátumban kívánja használni exportálni?
 ```
 The data to export contains media(images) that cannot be included with this export format. The data will be exported without the media. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Az adatok export tartalmaz média (képek), hogy nem lehet benne, hogy ennek az export formátum. Az adatokat nélkül exportált a média. Exportálni mindent, válassza a KMZ kiviteli méret.
 ```
@@ -3981,7 +3981,7 @@ Az adatok export tartalmaz média (képek), hogy nem lehet benne, hogy ennek az 
 ```
 Standard Google Earth format. Cannot contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Normál Google Earth formátumban. Nem tartalmazhat média.
 ```
@@ -3991,7 +3991,7 @@ Normál Google Earth formátumban. Nem tartalmazhat média.
 ```
 Zip Google Earth format. Can contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zip Google Earth formátumban. Tartalmazhat médiában.
 ```
@@ -4001,7 +4001,7 @@ Zip Google Earth formátumban. Tartalmazhat médiában.
 ```
 Standard text spreadsheet format. Cannot contain media. Cannot contain lines or polygons.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Normál szöveges táblázatos formában. Nem tartalmazhat média. Nem tartalmazhat vonal vagy poligon.
 ```
@@ -4011,7 +4011,7 @@ Normál szöveges táblázatos formában. Nem tartalmazhat média. Nem tartalmaz
 ```
 Marker as plain text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker egyszerű szövegként
 ```
@@ -4021,7 +4021,7 @@ Marker egyszerű szövegként
 ```
 Marker as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker a fájl
 ```
@@ -4031,7 +4031,7 @@ Marker a fájl
 ```
 Share the selected marker as a file into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Oszd meg a kiválasztott marker, mint egy fájlt egy másik alkalmazás
 ```
@@ -4041,7 +4041,7 @@ Oszd meg a kiválasztott marker, mint egy fájlt egy másik alkalmazás
 ```
 Share as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Share fájlként
 ```
@@ -4051,7 +4051,7 @@ Share fájlként
 ```
 Export to a local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Export helyi fájlba
 ```
@@ -4061,7 +4061,7 @@ Export helyi fájlba
 ```
 Import or export markers as files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A behozatali vagy kiviteli markerek fájlként
 ```
@@ -4071,7 +4071,7 @@ A behozatali vagy kiviteli markerek fájlként
 ```
 The data to export contains complex markers (lines or polygons) that cannot be included with this export format. The data will be exported without those markers. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Az adatok export tartalmaz komplex markerek (vonal vagy poligon), hogy nem lehet benne, hogy ennek az export formátum. Az adatok exportálhatók azok nélkül markerek. Exportálni mindent, válassza a KMZ kiviteli méret.
 ```
@@ -4081,7 +4081,7 @@ Az adatok export tartalmaz komplex markerek (vonal vagy poligon), hogy nem lehet
 ```
 Add custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Egyéni mező hozzáadása
 ```
@@ -4091,7 +4091,7 @@ Egyéni mező hozzáadása
 ```
 Information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Információ
 ```
@@ -4101,7 +4101,7 @@ Információ
 ```
 Custom fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Egyéni mezők
 ```
@@ -4111,7 +4111,7 @@ Egyéni mezők
 ```
 Field name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mező neve
 ```
@@ -4121,7 +4121,7 @@ Mező neve
 ```
 Delete field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Törlés mező
 ```
@@ -4131,7 +4131,7 @@ Törlés mező
 ```
 Attributes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 attribútumok
 ```
@@ -4141,7 +4141,7 @@ attribútumok
 ```
 New custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Új egyéni mező
 ```
@@ -4151,7 +4151,7 @@ translates to:
 ```
 Modify custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Egyéni mező módosítása
 ```
@@ -4161,7 +4161,7 @@ Egyéni mező módosítása
 ```
 Field enabled. For folders, if enabled, that field will be added automatically to children POIs on creation. For POIs, if enabled, that field will be visible in the details page.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A mező engedélyezve van. A mappákhoz, ha engedélyezve van, akkor a mező automatikusan hozzáadódik a létrehozandó POI-khoz. A POI-k esetében, ha engedélyezve van, a mező megjelenik a részletek oldalon.
 ```
@@ -4171,7 +4171,7 @@ A mező engedélyezve van. A mappákhoz, ha engedélyezve van, akkor a mező aut
 ```
 Field info
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Field info
 ```
@@ -4181,7 +4181,7 @@ Field info
 ```
 Select field type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Válassza ki a mezőtípust
 ```
@@ -4191,7 +4191,7 @@ Válassza ki a mezőtípust
 ```
 Boolean (True or False)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Logikai (igaz vagy hamis)
 ```
@@ -4201,7 +4201,7 @@ Logikai (igaz vagy hamis)
 ```
 Default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Alapértelmezett érték
 ```
@@ -4211,7 +4211,7 @@ Alapértelmezett érték
 ```
 Date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dátum
 ```
@@ -4221,7 +4221,7 @@ Dátum
 ```
 Email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Email
 ```
@@ -4231,7 +4231,7 @@ Email
 ```
 Text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Szöveg
 ```
@@ -4241,7 +4241,7 @@ Szöveg
 ```
 Multiple choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Több választási lehetőség
 ```
@@ -4251,7 +4251,7 @@ Több választási lehetőség
 ```
 Add choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Adjon választást
 ```
@@ -4261,7 +4261,7 @@ Adjon választást
 ```
 Duplicates are not allowed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A másolatok nem megengedettek
 ```
@@ -4271,7 +4271,7 @@ A másolatok nem megengedettek
 ```
 Phone
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Telefon
 ```
@@ -4281,7 +4281,7 @@ Telefon
 ```
 Web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Web link
 ```
@@ -4291,7 +4291,7 @@ Web link
 ```
 Choices list
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Választási lista
 ```
@@ -4301,7 +4301,7 @@ Választási lista
 ```
 Select default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Válassza ki az alapértelmezett értéket
 ```
@@ -4311,7 +4311,7 @@ Válassza ki az alapértelmezett értéket
 ```
 Creation date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Készítés ideje
 ```
@@ -4321,7 +4321,7 @@ Készítés ideje
 ```
 POI Options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 POI opciók
 ```
@@ -4331,7 +4331,7 @@ POI opciók
 ```
 Delete POI
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 POI törlése
 ```
@@ -4341,7 +4341,7 @@ POI törlése
 ```
 Select value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Válasszon értéket
 ```
@@ -4351,7 +4351,7 @@ Válasszon értéket
 ```
 Used by folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A mappákban használható
 ```
@@ -4361,7 +4361,7 @@ A mappákban használható
 ```
 Edit field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Szerkesztés mező
 ```
@@ -4371,7 +4371,7 @@ Szerkesztés mező
 ```
 Add folder field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mappamező hozzáadása
 ```
@@ -4381,7 +4381,7 @@ Mappamező hozzáadása
 ```
 Reorder fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A mezők átrendezése
 ```
@@ -4391,7 +4391,7 @@ A mezők átrendezése
 ```
 Pick the fields you want to apply to this folder\'s POIs
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Válassza ki azokat a mezőket, amelyeket alkalmazni szeretne ehhez a mappa POI-hoz
 ```
@@ -4401,7 +4401,7 @@ Válassza ki azokat a mezőket, amelyeket alkalmazni szeretne ehhez a mappa POI-
 ```
 The destination folder has different field values. Pick the fields you want to apply to moved POIs.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A célmappa különböző mezőértékekkel rendelkezik. Válassza ki az áthelyezt POI-khoz alkalmazni kívánt mezőket.
 ```
@@ -4411,7 +4411,7 @@ A célmappa különböző mezőértékekkel rendelkezik. Válassza ki az áthely
 ```
 Update color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Frissítse a színt
 ```
@@ -4421,7 +4421,7 @@ Frissítse a színt
 ```
 Update pin icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Frissítés ikonja
 ```
@@ -4431,7 +4431,7 @@ Frissítés ikonja
 ```
 Add field if missing: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Adjon hozzá mezőt, ha hiányzik: %s
 ```
@@ -4441,7 +4441,7 @@ Adjon hozzá mezőt, ha hiányzik: %s
 ```
 Remove field if present: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Távolítsa el a mezőt, ha van: %s
 ```
@@ -4451,7 +4451,7 @@ Távolítsa el a mezőt, ha van: %s
 ```
 Update field name if different: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Frissítse a mező nevét, ha más: %s
 ```
@@ -4461,7 +4461,7 @@ Frissítse a mező nevét, ha más: %s
 ```
 More options…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Több lehetőség…
 ```
@@ -4471,7 +4471,7 @@ Több lehetőség…
 ```
 Folder options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mappa beállítások
 ```
@@ -4481,7 +4481,7 @@ Mappa beállítások
 ```
 Edit email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 email szerkesztése
 ```
@@ -4491,7 +4491,7 @@ email szerkesztése
 ```
 Edit web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Webes hivatkozás szerkesztése
 ```
@@ -4501,7 +4501,7 @@ Webes hivatkozás szerkesztése
 ```
 Decimal accuracy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tizedes pontosság
 ```
@@ -4511,7 +4511,7 @@ Tizedes pontosság
 ```
 Details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A részletek a vágólapra másolódnak
 ```
@@ -4521,7 +4521,7 @@ A részletek a vágólapra másolódnak
 ```
 Copy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Másolat
 ```
@@ -4531,7 +4531,7 @@ Másolat
 ```
 Do you want to click here? ^‿^
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Szeretné kattinni ide? ^ ‿ ^
 ```
@@ -4559,7 +4559,7 @@ And finally, thank you for reading this :-)
 Regards
 Sébastien
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hé, köszönöm a kíváncsiságát! 
  
@@ -4587,7 +4587,7 @@ Hé, köszönöm a kíváncsiságát!
 ```
 Normal with indoor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Normál, beltéri
 ```
@@ -4597,7 +4597,7 @@ Normál, beltéri
 ```
 Floating marker titles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lebegő marker címek
 ```
@@ -4607,7 +4607,7 @@ Lebegő marker címek
 ```
 Maximum number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Maximális szám
 ```
@@ -4617,7 +4617,7 @@ Maximális szám
 ```
 Text size
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Szövegméret
 ```
@@ -4627,7 +4627,7 @@ Szövegméret
 ```
 Search failed => %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Keresés sikertelen =&gt; %s
 ```
@@ -4637,7 +4637,7 @@ Keresés sikertelen =&gt; %s
 ```
 API key tutorial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 API key bemutató
 ```
@@ -4647,7 +4647,7 @@ API key bemutató
 ```
 Click here to see details on how to obtain an API key for your account.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kattintson ide, ha meg szeretné tekinteni, hogyan kaphat egy API key-et a fiókjához.
 ```
@@ -4657,7 +4657,7 @@ Kattintson ide, ha meg szeretné tekinteni, hogyan kaphat egy API key-et a fiók
 ```
 Personal API key
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Személyes API key
 ```
@@ -4667,7 +4667,7 @@ Személyes API key
 ```
 None
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Egyik sem
 ```
@@ -4679,7 +4679,7 @@ You can search for places with "Google Places API". This search requires an inte
 
 You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kereshet helyeket, ahol "Google Places API" van. Ez a keresés internetkapcsolatot igényel.
 
@@ -4691,7 +4691,7 @@ Beállította a személyes Google Places API kulcsot: a keresés a saját Google
 ```
 Do you enjoy the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Élvezi az alkalmazást?
 ```
@@ -4701,7 +4701,7 @@ translates to:
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Szeretne egy email-et küldeni nekem, hogy elmondjam, hogyan javíthatom az alkalmazást?
 ```
@@ -4711,7 +4711,7 @@ Szeretne egy email-et küldeni nekem, hogy elmondjam, hogyan javíthatom az alka
 ```
 Display extra POI fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 További POI-mezők megjelenítése
 ```
@@ -4721,7 +4721,7 @@ További POI-mezők megjelenítése
 ```
 IGN plans
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN tervek
 ```
@@ -4731,7 +4731,7 @@ IGN tervek
 ```
 IGN maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN térképek
 ```
@@ -4741,7 +4741,7 @@ IGN térképek
 ```
 IGN - Cadastral parcels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - kataszteri csomagok
 ```
@@ -4751,7 +4751,7 @@ IGN - kataszteri csomagok
 ```
 IGN - Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - Antenna
 ```
@@ -4761,7 +4761,7 @@ IGN - Antenna
 ```
 Type more and press enter again for refined results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Írjon be többet, és a kifinomult eredményekhez nyomja meg ismét az Enter billentyűt
 ```

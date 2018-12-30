@@ -1,4 +1,4 @@
-# Map Marker translations for iw
+# Map Marker translations for Hebrew (iw)
 
 You want to help improve this translation file? Read the [main page](https://github.com/androidseb/mapmarkerapptranslations)
 
@@ -7,7 +7,7 @@ You want to help improve this translation file? Read the [main page](https://git
 ```
 OK
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בסדר
 ```
@@ -17,7 +17,7 @@ translates to:
 ```
 Yes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 כן
 ```
@@ -27,7 +27,7 @@ translates to:
 ```
 No
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לא
 ```
@@ -37,7 +37,7 @@ translates to:
 ```
 Cancel
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לבטל
 ```
@@ -47,7 +47,7 @@ translates to:
 ```
 New marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 סמן חדש
 ```
@@ -57,7 +57,7 @@ translates to:
 ```
 Title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 כותרת
 ```
@@ -67,7 +67,7 @@ translates to:
 ```
 Description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תיאור
 ```
@@ -77,7 +77,7 @@ translates to:
 ```
 Do you really want to delete this marker?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 האם אתה באמת רוצה למחוק סמן זה?
 ```
@@ -87,7 +87,7 @@ translates to:
 ```
 GPS coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 קואורדינטות GPS
 ```
@@ -97,7 +97,7 @@ translates to:
 ```
 Could not copy coordinates to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לא יכולתי להעתיק קואורדינטות ללוח
 ```
@@ -107,7 +107,7 @@ translates to:
 ```
 Coordinates copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 קואורדינטות הועתקו ללוח
 ```
@@ -117,7 +117,7 @@ translates to:
 ```
 Failed to access application save directory. Make sure that your device is not being accessed by a computer with the USB cable, and restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 נכשל ניסיון לגשת ליישום חיסכון בספרייה. ודא שהמכשיר שלך לא הגישה של מחשב באמצעות כבל USB, והפעל מחדש את היישום.
 ```
@@ -127,7 +127,7 @@ translates to:
 ```
 Untitled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Untitled
 ```
@@ -137,7 +137,7 @@ Untitled
 ```
 All
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 כל
 ```
@@ -147,7 +147,7 @@ translates to:
 ```
 Add folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הוספת תיקייה
 ```
@@ -157,7 +157,7 @@ translates to:
 ```
 Modify folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לשנות תיקייה
 ```
@@ -167,7 +167,7 @@ translates to:
 ```
 Are you sure you want to delete this folder? All markers associated to this folder will be deleted permanently!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 האם אתה בטוח שאתה רוצה למחוק את התיקייה הזאת? כל הסמנים הקשורים לתיקייה זו יימחקו לצמיתות!
 ```
@@ -177,7 +177,7 @@ translates to:
 ```
 Failed to create new folder, it already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 נכשל ביצירת תיקייה חדשה, הוא כבר קיים
 ```
@@ -187,7 +187,7 @@ translates to:
 ```
 Failed to rename the folder, the destination name already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 נכשל ניסיון לשנות את שם התיקייה, שם היעד כבר קיים
 ```
@@ -197,7 +197,7 @@ translates to:
 ```
 Latitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Latitude:
 ```
@@ -207,7 +207,7 @@ Latitude:
 ```
 Longitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 קו אורך:
 ```
@@ -217,7 +217,7 @@ translates to:
 ```
 Could not write file.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לא יכולתי לכתוב קובץ.
 ```
@@ -227,7 +227,7 @@ translates to:
 ```
 Import/Export
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 יבוא / יצוא
 ```
@@ -237,7 +237,7 @@ translates to:
 ```
 Import markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 סמני יבוא
 ```
@@ -247,7 +247,7 @@ translates to:
 ```
 File imported successfully
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 קובץ יובא בהצלחה
 ```
@@ -257,7 +257,7 @@ translates to:
 ```
 File import failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 יבוא קובץ נכשל
 ```
@@ -267,7 +267,7 @@ translates to:
 ```
 Location services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שירותי מיקום
 ```
@@ -277,7 +277,7 @@ translates to:
 ```
 Location services are disabled. To get your current location you must enable them.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שירותי מיקום מושבתים. כדי לקבל את המיקום הנוכחי שלך אתה חייב לאפשר להם.
 ```
@@ -287,7 +287,7 @@ translates to:
 ```
 Could not find address
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לא הצלחתי למצוא את כתובת
 ```
@@ -297,7 +297,7 @@ translates to:
 ```
 Searching&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מחפש&#8230;
 ```
@@ -307,7 +307,7 @@ translates to:
 ```
 Search
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 חיפוש
 ```
@@ -317,7 +317,7 @@ translates to:
 ```
 Share via
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שתף באמצעות
 ```
@@ -327,7 +327,7 @@ translates to:
 ```
 Do you want to import the content of this file?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 האם אתה רוצה לייבא את התוכן של קובץ זה?
 ```
@@ -337,7 +337,7 @@ translates to:
 ```
 Folder name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שם תיקייה
 ```
@@ -347,7 +347,7 @@ translates to:
 ```
 Save
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שמור
 ```
@@ -357,7 +357,7 @@ translates to:
 ```
 Close
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לסגור
 ```
@@ -367,7 +367,7 @@ translates to:
 ```
 Are you sure you want to delete the selected markers?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 האם אתה בטוח שאתה רוצה למחוק את הסמנים שנבחרו?
 ```
@@ -377,7 +377,7 @@ translates to:
 ```
 Move markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הזז סמנים לתיקייה
 ```
@@ -387,7 +387,7 @@ translates to:
 ```
 Share
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שתף
 ```
@@ -397,7 +397,7 @@ translates to:
 ```
 Folder:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תיקייה:
 ```
@@ -407,7 +407,7 @@ translates to:
 ```
 Snapshot of my markers on Map Marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תמונת מצב של הסמנים שלי Map Marker
 ```
@@ -418,7 +418,7 @@ translates to:
 This snapshot was made with the app Map Marker:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תמונת מצב זו נעשתה עם האפליקציה Map Marker 
  %s
@@ -429,7 +429,7 @@ translates to:
 ```
 Processing data&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 עיבוד נתונים&#8230;
 ```
@@ -439,7 +439,7 @@ translates to:
 ```
 You have unsaved modifications, do you want to save them?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 יש לך שינויים שלא נשמרו, האם ברצונך לשמור אותם?
 ```
@@ -449,7 +449,7 @@ translates to:
 ```
 Use the long press on the map to create a new marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 השתמש בלחיצה הארוכה על המפה כדי ליצור סמן חדש
 ```
@@ -459,7 +459,7 @@ translates to:
 ```
 Map type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 סוג מפה
 ```
@@ -469,7 +469,7 @@ translates to:
 ```
 Normal
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 רגיל
 ```
@@ -479,7 +479,7 @@ translates to:
 ```
 Satellite
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לווין
 ```
@@ -489,7 +489,7 @@ translates to:
 ```
 Terrain
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שטח
 ```
@@ -499,7 +499,7 @@ translates to:
 ```
 Hybrid
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hybrid
 ```
@@ -510,7 +510,7 @@ Hybrid
 Found a problem? Have an idea of improvement?
 Send me an email :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מצא בעיה? יש לך רעיון לשיפור? 
  שלח לי email :-)
@@ -521,7 +521,7 @@ translates to:
 ```
 Send email&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 email&#8230;
 ```
@@ -532,7 +532,7 @@ email&#8230;
 You like the app?
 Rate it 5 stars :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אתה אוהב את 
  לדרג אותו 5 :-)
@@ -543,7 +543,7 @@ translates to:
 ```
 Change folder to&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שינוי תיקייה ל...
 ```
@@ -553,7 +553,7 @@ translates to:
 ```
 Directions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 כיוונים
 ```
@@ -563,7 +563,7 @@ translates to:
 ```
 Acquiring location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מאתר מיקום&#8230;
 ```
@@ -573,7 +573,7 @@ translates to:
 ```
 Meters
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מטר
 ```
@@ -583,7 +583,7 @@ translates to:
 ```
 Km
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 קילומטר
 ```
@@ -593,7 +593,7 @@ translates to:
 ```
 Feet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 רגליים
 ```
@@ -603,7 +603,7 @@ translates to:
 ```
 Miles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מיילס
 ```
@@ -613,7 +613,7 @@ translates to:
 ```
 Adjust map camera position when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 להתאים את מצב מצלמה המפה כאשר מנחה למיקום סמן
 ```
@@ -623,7 +623,7 @@ translates to:
 ```
 Keep screen on when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שמור על מסך כאשר מנחה למיקום סמן
 ```
@@ -633,7 +633,7 @@ translates to:
 ```
 Marker details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פרטי מרקר העתיקו ללוח
 ```
@@ -643,7 +643,7 @@ translates to:
 ```
 Long press to drag and move the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לחץ לחיצה ארוכה כדי לגרור ולהזיז את הסמן
 ```
@@ -653,7 +653,7 @@ translates to:
 ```
 Error starting internal task manager, app will now exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שגיאה בעת הפעלת מנהל משימות פנימית, אפליקציה יצאה עכשיו
 ```
@@ -663,7 +663,7 @@ translates to:
 ```
 Do not show again
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אל תציג שוב
 ```
@@ -673,7 +673,7 @@ translates to:
 ```
 Could not create the map capture
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לא ניתן ליצור לכידת המפה
 ```
@@ -683,7 +683,7 @@ translates to:
 ```
 Metric (Kilometers/Meters)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מדד (קילומטר / מטרים)
 ```
@@ -693,7 +693,7 @@ translates to:
 ```
 Imperial (Miles/Feet)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 קיסרי (מיילס / Feet)
 ```
@@ -703,7 +703,7 @@ translates to:
 ```
 There is a problem with Google Play Services: it needs to be installed, updated or activated. Click OK to try and solve it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 יש בעיה Google Play Services זה צריך להיות מותקן, מעודכן או הופעל. לחץ על אישור כדי לנסות ולפתור אותה.
 ```
@@ -713,7 +713,7 @@ translates to:
 ```
 Delete folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מחיקת תיקייה
 ```
@@ -723,7 +723,7 @@ translates to:
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אם אתה אוהב את היישום שלי אתה יכול לתגמל אותי על ידי לקחת את הזמן כדי לתת דירוג :-)
 ```
@@ -734,7 +734,7 @@ translates to:
 OK take me
 to the Play Store
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אישור לקחת 
  Play Store
@@ -746,7 +746,7 @@ translates to:
 I already
 gave a rating
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אני כבר 
  נתתי דירוג
@@ -758,7 +758,7 @@ translates to:
 Maybe later
 remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אולי מאוחר יותר 
  מזכירים לי
@@ -770,7 +770,7 @@ translates to:
 Maybe later
 do not remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אולי מאוחר יותר 
  לא מזכיר לי
@@ -781,7 +781,7 @@ translates to:
 ```
 Could not find the place
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לא הצלחתי למצוא את המקום
 ```
@@ -791,7 +791,7 @@ translates to:
 ```
 Could not find another map application
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לא יכול למצוא את יישום מפה אחרת
 ```
@@ -801,7 +801,7 @@ translates to:
 ```
 Move the map around to place your marker where you want and click OK to place it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 להזיז את המפה סביב הסמן למקום בו אתה רוצה ולחץ על אישור כדי למקם אותו
 ```
@@ -811,7 +811,7 @@ translates to:
 ```
 Imported marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 סמן מיובא
 ```
@@ -821,7 +821,7 @@ translates to:
 ```
 Settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הגדרות
 ```
@@ -831,7 +831,7 @@ translates to:
 ```
 Display zoom buttons
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 כפתורי הזום של הצגה
 ```
@@ -841,7 +841,7 @@ translates to:
 ```
 Decimal degrees
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מעלות עשרוניות
 ```
@@ -851,7 +851,7 @@ translates to:
 ```
 Degrees decimal minutes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מעלות דקות עשרוניות
 ```
@@ -861,7 +861,7 @@ translates to:
 ```
 Degrees minutes seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מעלות שניות דקות
 ```
@@ -871,7 +871,7 @@ translates to:
 ```
 Coordinates format
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פורמט קואורדינטות
 ```
@@ -881,7 +881,7 @@ translates to:
 ```
 GPS and wireless networks only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 רשתות GPS ואלחוטיים בלבד
 ```
@@ -891,7 +891,7 @@ translates to:
 ```
 GPS and wireless networks or magnetic sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 רשתות GPS ואלחוטיים או חיישן מגנטי
 ```
@@ -901,7 +901,7 @@ translates to:
 ```
 Magnetic sensor only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 חיישן מגנטי בלבד
 ```
@@ -911,7 +911,7 @@ translates to:
 ```
 Used compass sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 חיישן מצפן משומש
 ```
@@ -921,7 +921,7 @@ translates to:
 ```
 FAQ/Help
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שאלות נפוצות / עזרה
 ```
@@ -931,7 +931,7 @@ translates to:
 ```
 Folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תיקיות
 ```
@@ -941,7 +941,7 @@ translates to:
 ```
 Help and settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 עזרה והגדרות
 ```
@@ -951,7 +951,7 @@ translates to:
 ```
 Language
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שפה
 ```
@@ -961,7 +961,7 @@ translates to:
 ```
 Marker popup style
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 סגנון קופץ Marker
 ```
@@ -971,7 +971,7 @@ translates to:
 ```
 Bottom
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תחתון
 ```
@@ -981,7 +981,7 @@ translates to:
 ```
 Bubble
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בועה
 ```
@@ -991,7 +991,7 @@ translates to:
 ```
 Coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 קואורדינטות
 ```
@@ -1001,7 +1001,7 @@ translates to:
 ```
 Contextual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הקשר
 ```
@@ -1011,7 +1011,7 @@ translates to:
 ```
 Always
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תמיד
 ```
@@ -1021,7 +1021,7 @@ translates to:
 ```
 Crosshair display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תצוגת Crosshair
 ```
@@ -1031,7 +1031,7 @@ translates to:
 ```
 Coordinates window
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 חלון קואורדינטות
 ```
@@ -1041,7 +1041,7 @@ translates to:
 ```
 Lat:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לאט:
 ```
@@ -1051,7 +1051,7 @@ translates to:
 ```
 Lng:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 LNG:
 ```
@@ -1061,7 +1061,7 @@ LNG:
 ```
 Marker instant adding mode
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מיידי מרקר הוספת מצב
 ```
@@ -1071,7 +1071,7 @@ translates to:
 ```
 Advanced
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מתקדם
 ```
@@ -1081,7 +1081,7 @@ translates to:
 ```
 Display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תצוגה
 ```
@@ -1091,7 +1091,7 @@ translates to:
 ```
 Actions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פעולות
 ```
@@ -1101,7 +1101,7 @@ translates to:
 ```
 Language and units
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שפה ויחידות
 ```
@@ -1111,7 +1111,7 @@ translates to:
 ```
 Markers ignored on import (duplicates): %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 סמנים התעלמו על יבוא %1$d
 ```
@@ -1121,7 +1121,7 @@ translates to:
 ```
 %1$d markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d סמנים
 ```
@@ -1131,7 +1131,7 @@ translates to:
 ```
 No auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אין שמות אוטומטי
 ```
@@ -1141,7 +1141,7 @@ translates to:
 ```
 Auto naming "number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 "מספר" שמות אוטומטיים
 ```
@@ -1151,7 +1151,7 @@ translates to:
 ```
 Auto naming "Marker number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שמות אוטומטיים "מספר מרקר"
 ```
@@ -1161,7 +1161,7 @@ translates to:
 ```
 New marker auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שמות אוטומטי סמן חדש
 ```
@@ -1171,7 +1171,7 @@ translates to:
 ```
 Marker %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 דה %1$d
 ```
@@ -1181,7 +1181,7 @@ translates to:
 ```
 Waiting for location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מספר העוקבים למיקום&#8230;
 ```
@@ -1191,7 +1191,7 @@ translates to:
 ```
 Open the help page and see the FAQ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פתח את דף העזרה ותראה את שאלות ותשובות
 ```
@@ -1201,7 +1201,7 @@ translates to:
 ```
 Features
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תכונות
 ```
@@ -1211,7 +1211,7 @@ translates to:
 ```
 View the list of upcoming features for the next app version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הצגת הרשימה של תכונות הקרובות לגרסת האפליקציה הבאה
 ```
@@ -1221,7 +1221,7 @@ translates to:
 ```
 Help &amp; Feedback
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 עזרה ומשוב
 ```
@@ -1231,7 +1231,7 @@ translates to:
 ```
 About
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אודות
 ```
@@ -1241,7 +1241,7 @@ translates to:
 ```
 Distance to %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מרחק %1$s
 ```
@@ -1251,7 +1251,7 @@ translates to:
 ```
 Snapshot
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Snapshot
 ```
@@ -1261,7 +1261,7 @@ Snapshot
 ```
 Share a snapshot of the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שתף את תמונת מצב של המפה
 ```
@@ -1271,7 +1271,7 @@ translates to:
 ```
 All markers and folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 כל הסמנים ותיקיות
 ```
@@ -1281,7 +1281,7 @@ translates to:
 ```
 <![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; על מנת לקבל כיוון צפון המתאים למצפן, אתה צריך לכייל את טלפון כראוי. &lt;br&gt; כדי לכייל את הטלפון שלך, פשוט להניע אותו בציור 8 . המהלך חייב להיות רחב וחזר על 3 פעמים ליעילות טובה יותר. &lt;br&gt; אתה יכול לכייל את טלפון על ידי עושה את זה בכל עת. &lt;/ B&gt; &lt;br&gt; &lt;br&gt; יש הכיול מגבלותיו ואולי לא יהיה מספיק כדי להתמודד עם הפרעות סמוכות כגון: &lt;br&gt; • חפצי מתכת גדולים &lt;br&gt; &lt;br&gt; מכשירים אלקטרוניים • • המגנטים &lt;br&gt; • חלק הפנימי של מכונית / אוטובוס / רכבת / מטוס &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -1291,7 +1291,7 @@ translates to:
 ```
 Badges
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תגים
 ```
@@ -1301,7 +1301,7 @@ translates to:
 ```
 Buy a donation badge
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 קנה תג תרומה
 ```
@@ -1311,7 +1311,7 @@ translates to:
 ```
 Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תודה לך על תרומתך! מענקי תג תרומה זו לך גישה לתכונות :-)
 ```
@@ -1321,7 +1321,7 @@ translates to:
 ```
 Default folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תיקיית ברירת מחדל
 ```
@@ -1331,7 +1331,7 @@ translates to:
 ```
 Sync options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אפשרויות סנכרון
 ```
@@ -1341,7 +1341,7 @@ translates to:
 ```
 Google Drive
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 גוגל דרייב
 ```
@@ -1351,7 +1351,7 @@ translates to:
 ```
 Dropbox
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dropbox
 ```
@@ -1361,7 +1361,7 @@ Dropbox
 ```
 Configuring&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הגדרה&#8230;
 ```
@@ -1371,7 +1371,7 @@ translates to:
 ```
 Sync now
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 סינכרון עכשיו
 ```
@@ -1381,7 +1381,7 @@ translates to:
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לעולם לא
 ```
@@ -1391,7 +1391,7 @@ translates to:
 ```
 Syncing…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מסנכרן&#8230;
 ```
@@ -1401,7 +1401,7 @@ translates to:
 ```
 Select folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בחר תיקייה
 ```
@@ -1411,7 +1411,7 @@ translates to:
 ```
 Load error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שגיאת עומס
 ```
@@ -1421,7 +1421,7 @@ translates to:
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לנסות שוב
 ```
@@ -1431,7 +1431,7 @@ translates to:
 ```
 Root
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שורש
 ```
@@ -1441,7 +1441,7 @@ translates to:
 ```
 Shared
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 משותף
 ```
@@ -1451,7 +1451,7 @@ translates to:
 ```
 Purchase successful!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 רכישה מוצלחת!
 ```
@@ -1461,7 +1461,7 @@ translates to:
 ```
 Purchase failed: %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 רכישה %1$s
 ```
@@ -1471,7 +1471,7 @@ translates to:
 ```
 Premium access available! You currently have access to premium features.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 גישת פרימיום זמין! יש לך כעת גישה לתכונות פרמיה.
 ```
@@ -1481,7 +1481,7 @@ translates to:
 ```
 You cannot select that folder because it contains multiple files named %1$s. The sync requires the folder to contain only one file with that name.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לא ניתן לבחור תיקייה שמכיוון שהוא מכיל מספר קבצים %1$s הסנכרון דורש התיקייה להכיל רק קובץ אחד בשם זה.
 ```
@@ -1491,7 +1491,7 @@ translates to:
 ```
 It seems sync data already exists in that folder. If you select that folder, your local data will be merged with the folder data when sync is performed. Is that what you want?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 נראה נתונים סנכרון כבר קיימים בתיקייה זו. אם תבחר בתיקייה ש, נתונים המקומיים שלך ימוזגו עם נתונים התיקייה כאשר הסנכרון מתבצע. האם זה מה שאתה רוצה?
 ```
@@ -1501,7 +1501,7 @@ translates to:
 ```
 File options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אפשרויות קובץ
 ```
@@ -1511,7 +1511,7 @@ translates to:
 ```
 Cloud sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 סינכרון הענן
 ```
@@ -1521,7 +1521,7 @@ translates to:
 ```
 Sync this map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לסנכרן קובץ המפה זו בענן
 ```
@@ -1531,7 +1531,7 @@ translates to:
 ```
 Map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 קובץ מפה
 ```
@@ -1541,7 +1541,7 @@ translates to:
 ```
 Create local map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 צור מפה מקומית
 ```
@@ -1551,7 +1551,7 @@ translates to:
 ```
 Create a new map file locally
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 צור קובץ המפה חדש באופן מקומי
 ```
@@ -1561,7 +1561,7 @@ translates to:
 ```
 Create cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 צור מפת הענן
 ```
@@ -1571,7 +1571,7 @@ translates to:
 ```
 Create a map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 צור קובץ מפה בענן
 ```
@@ -1581,7 +1581,7 @@ translates to:
 ```
 Retrieves changes from the cloud and sends local changes to the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מאחזר שינויים מהענן ושולח לענן שינויים מקומיים
 ```
@@ -1591,7 +1591,7 @@ translates to:
 ```
 Rename
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שינוי שם
 ```
@@ -1601,7 +1601,7 @@ translates to:
 ```
 Rename the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שנה את שם המפה
 ```
@@ -1611,7 +1611,7 @@ translates to:
 ```
 Enter new name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הזן את השם חדש
 ```
@@ -1621,7 +1621,7 @@ translates to:
 ```
 Enter the new map\'s name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הזן את השם של המפה החדש
 ```
@@ -1631,7 +1631,7 @@ translates to:
 ```
 %1$d folders, %2$d markers, size: %3$d KB
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d %2$d סמנים, %3$d KB
 ```
@@ -1641,7 +1641,7 @@ translates to:
 ```
 Create new folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 צור תיקייה חדשה
 ```
@@ -1651,7 +1651,7 @@ translates to:
 ```
 Could not create folder: name empty
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לא ניתן ליצור תיקייה: שם ריק
 ```
@@ -1661,7 +1661,7 @@ translates to:
 ```
 Could not create folder: error occurred
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לא ניתן ליצור תיקייה: השגיאה התרחשה
 ```
@@ -1671,7 +1671,7 @@ translates to:
 ```
 Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תודה לך על Map Marker פרימיום :-)
 ```
@@ -1681,7 +1681,7 @@ translates to:
 ```
 Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תודה לך על התעניינותך בטענה שלך Map Marker :-)
 ```
@@ -1691,7 +1691,7 @@ translates to:
 ```
 Premium
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פרימיום
 ```
@@ -1701,7 +1701,7 @@ translates to:
 ```
 Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שדרג לפרמיה ולנצל את מלוא יתרונות Map Marker תכונות!
 ```
@@ -1711,7 +1711,7 @@ translates to:
 ```
 Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מצטערים, אתה צריך את שדרוג הפרמיה ללגשת לתכונה זו. שדרג לפרמיה ולנצל את מלוא יתרונות Map Marker תכונות!
 ```
@@ -1721,7 +1721,7 @@ translates to:
 ```
 You have the premium upgrade for free! You can still purchase it if you want to show your support :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 יש לך את שדרוג הפרמיה בחינם! אתה עדיין יכול לרכוש אותו אם אתה רוצה להראות את התמיכה :-)
 ```
@@ -1731,7 +1731,7 @@ translates to:
 ```
 Purchase the premium upgrade
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לרכוש את שדרוג הפרמיה
 ```
@@ -1741,7 +1741,7 @@ translates to:
 ```
 My Google account already has premium access, activate it!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 יש חשבון Google שלי כבר גישת פרמיה, להפעיל אותו!
 ```
@@ -1751,7 +1751,7 @@ translates to:
 ```
 Troubleshooting
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פתרון תקלות
 ```
@@ -1761,7 +1761,7 @@ translates to:
 ```
 Open a list of actions to solve possible problems
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פתח רשימה של פעולות כדי לפתור בעיות אפשריות
 ```
@@ -1771,7 +1771,7 @@ translates to:
 ```
 Test internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אינטרנט מבחן
 ```
@@ -1781,7 +1781,7 @@ translates to:
 ```
 Checks that the app has access to internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בודק שיש האפליקציה גישה לאינטרנט
 ```
@@ -1791,7 +1791,7 @@ translates to:
 ```
 Test file writing
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 כתיבת קובץ בדיקה
 ```
@@ -1801,7 +1801,7 @@ translates to:
 ```
 Checks that the app can save files on the internal SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בודק שהאפליקציה יכולה לשמור קבצים על כרטיס SD הפנימי
 ```
@@ -1811,7 +1811,7 @@ translates to:
 ```
 GP Services (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GP שירותים (אפליקציה)
 ```
@@ -1821,7 +1821,7 @@ GP שירותים (אפליקציה)
 ```
 Open the details of the currently installed Google Play Services app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פתח את הפרטים של מותקן Google Play Services אפליקציה
 ```
@@ -1831,7 +1831,7 @@ translates to:
 ```
 GP Services (store)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GP שירותים (חנות)
 ```
@@ -1841,7 +1841,7 @@ GP שירותים (חנות)
 ```
 Google Play (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 -Google Play (אפליקציה)
 ```
@@ -1851,7 +1851,7 @@ translates to:
 ```
 Contact support
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 צור קשר עם תמיכה
 ```
@@ -1861,7 +1861,7 @@ translates to:
 ```
 Write an email to support with the details of your problem
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 email לתמוך בפרטי הבעיה שלך
 ```
@@ -1871,7 +1871,7 @@ email לתמוך בפרטי הבעיה שלך
 ```
 Device network unavailable
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 רשת מכשיר זמינה
 ```
@@ -1881,7 +1881,7 @@ translates to:
 ```
 Testing&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בדיקה&#8230;
 ```
@@ -1891,7 +1891,7 @@ translates to:
 ```
 Network test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בדיקת רשת הצליחה
 ```
@@ -1901,7 +1901,7 @@ translates to:
 ```
 Network test failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בדיקת רשת נכשלה
 ```
@@ -1911,7 +1911,7 @@ translates to:
 ```
 Disk test failed: could not write to internal storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בדיקת דיסק נכשלה: לא יכול לכתוב לאחסון פנימי
 ```
@@ -1921,7 +1921,7 @@ translates to:
 ```
 Disk test failed: could not write to external storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בדיקת דיסק נכשלה: לא יכול לכתוב לאחסון חיצוני
 ```
@@ -1931,7 +1931,7 @@ translates to:
 ```
 Disk test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בדיקת דיסק הצליחה
 ```
@@ -1941,7 +1941,7 @@ translates to:
 ```
 App failed to start: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 האפליקציה %s
 ```
@@ -1951,7 +1951,7 @@ translates to:
 ```
 The file does not exist
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הקובץ לא קיימת
 ```
@@ -1961,7 +1961,7 @@ translates to:
 ```
 Share cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מפת הענן שתף
 ```
@@ -1971,7 +1971,7 @@ translates to:
 ```
 Open the cloud map folder to view its properties and share it with other people
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פתח את תיקיית מפת הענן כדי להציג את המאפיינים שלו ולשתף אותו עם אנשים אחרים
 ```
@@ -1981,7 +1981,7 @@ translates to:
 ```
 Internal file to SD
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 קובץ פנימי לSD
 ```
@@ -1991,7 +1991,7 @@ translates to:
 ```
 Copy the app hidden internal files to the sdcard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 העתק את האפליקציה קבצים פנימיים חבויים לsdcard
 ```
@@ -2001,7 +2001,7 @@ translates to:
 ```
 Enter destination folder path
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הזן את נתיב תיקיית יעד
 ```
@@ -2011,7 +2011,7 @@ translates to:
 ```
 Could not create folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לא ניתן ליצור תיקייה
 ```
@@ -2021,7 +2021,7 @@ translates to:
 ```
 Files successfully saved to: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הקבצים נשמרו בהצלחה %s
 ```
@@ -2031,7 +2031,7 @@ translates to:
 ```
 View history/Restore
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 צפה בהיסטוריה / שחזור
 ```
@@ -2041,7 +2041,7 @@ translates to:
 ```
 View history of modifications to the cloud folder and select a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 צפה היסטוריה של שינויים בתיקיית הענן ולבחור גרסה להחזיר ל
 ```
@@ -2051,7 +2051,7 @@ translates to:
 ```
 Create map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 צור קובץ המפה
 ```
@@ -2061,7 +2061,7 @@ translates to:
 ```
 Create a new map file locally or on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 צור קובץ המפה חדש באופן מקומי או בענן
 ```
@@ -2071,7 +2071,7 @@ translates to:
 ```
 Open cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מפת ענן פתוחה
 ```
@@ -2081,7 +2081,7 @@ translates to:
 ```
 Open a map file from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פתח קובץ מפה מהענן
 ```
@@ -2091,7 +2091,7 @@ translates to:
 ```
 Map Marker needs the permission to access your location in order to display it on the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker צריך ההרשאה לגשת למיקום שלך כדי להציג אותו על המפה
 ```
@@ -2101,7 +2101,7 @@ Map Marker צריך ההרשאה לגשת למיקום שלך כדי להציג 
 ```
 Map Marker needs the permission to access to the storage of your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker צריך ההרשאה לגשת לאחסון של המכשיר שלך
 ```
@@ -2111,7 +2111,7 @@ Map Marker צריך ההרשאה לגשת לאחסון של המכשיר שלך
 ```
 Open settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הגדרות פתוחות
 ```
@@ -2121,7 +2121,7 @@ translates to:
 ```
 No map folder found on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אין תיקיית המפה שנמצאה בענן
 ```
@@ -2131,7 +2131,7 @@ translates to:
 ```
 Auto sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 סנכרון אוטומטי
 ```
@@ -2141,7 +2141,7 @@ translates to:
 ```
 Choose a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בחר גרסה להחזיר ל
 ```
@@ -2151,7 +2151,7 @@ translates to:
 ```
 You must sync first before restoring an older version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 עליך לסנכרן ראשון לפני שחזור גרסה ישנה יותר
 ```
@@ -2161,7 +2161,7 @@ translates to:
 ```
 Are you sure you want to restore this version?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 האם אתה בטוח שאתה רוצה לשחזר גרסה זו?
 ```
@@ -2171,7 +2171,7 @@ translates to:
 ```
 Map Marker lost permissions to write to your cloud account. Sync will always fail until this is fixed. Do you want to fix it now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker הרשאות האבודות לכתוב לחשבון הענן שלך. הסנכרון תמיד ייכשל עד שזה קבוע. האם אתה רוצה לתקן את זה עכשיו?
 ```
@@ -2181,7 +2181,7 @@ Map Marker הרשאות האבודות לכתוב לחשבון הענן שלך. 
 ```
 A sync error occurred. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שגיאת סנכרון התרחשה. בבקשה נסה שוב.
 ```
@@ -2191,7 +2191,7 @@ translates to:
 ```
 A sync error occurred: network error. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שגיאת סנכרון התרחשה: שגיאת רשת. בבקשה נסה שוב.
 ```
@@ -2201,7 +2201,7 @@ translates to:
 ```
 A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שגיאת סנכרון התרחשה: סכסוך, מכשיר אחר היה מבצע את הסנכרון באותו הזמן. בבקשה נסה שוב.
 ```
@@ -2211,7 +2211,7 @@ translates to:
 ```
 Changes are available from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שינויים זמינים מהענן
 ```
@@ -2221,7 +2221,7 @@ translates to:
 ```
 Changes made from another device were synced on the cloud. You can retrieve those changes by syncing.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שינויים שנעשו ממכשיר אחר שיסונכרנו בענן. אתה יכול לאחזר שינויים אלה על ידי סינכרון.
 ```
@@ -2231,7 +2231,7 @@ translates to:
 ```
 Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for details on how to restore cloud permissions.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לא הצליח לשחזר את הרשאות אחסון בענן. אנא ראה "אודות" - "שאלות נפוצות"&gt; לפרטים על איך לשחזר הרשאות ענן.
 ```
@@ -2241,7 +2241,7 @@ translates to:
 ```
 A sync error occurred: duplicate index, there are at least two files named index.json in the map cloud folder. Remove the duplicates manually and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שגיאת סנכרון התרחשה: לשכפל מדד, יש לפחות שני קבצים בשם index.json בתיקיית ענן המפה. הסר את הכפילויות באופן ידני ונסה שוב.
 ```
@@ -2251,7 +2251,7 @@ translates to:
 ```
 Phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מספר טלפון
 ```
@@ -2261,7 +2261,7 @@ translates to:
 ```
 Edit phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מספר טלפון עריכה
 ```
@@ -2271,7 +2271,7 @@ translates to:
 ```
 Map Marker needs the permission to make calls on your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker צריך האישור כדי לבצע שיחות במכשיר שלך
 ```
@@ -2281,7 +2281,7 @@ Map Marker צריך האישור כדי לבצע שיחות במכשיר שלך
 ```
 No phone number is defined for that marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אין מספר טלפון מוגדר עבור סמן ש
 ```
@@ -2291,7 +2291,7 @@ translates to:
 ```
 Navigation options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אפשרויות ניווט
 ```
@@ -2301,7 +2301,7 @@ translates to:
 ```
 Open the marker location in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פתח את מיקום הסמן ביישום זה
 ```
@@ -2311,7 +2311,7 @@ translates to:
 ```
 Open the marker street view in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פתח את תצוגת רחוב סמן ביישום זה
 ```
@@ -2321,7 +2321,7 @@ translates to:
 ```
 Enter navigation mode in this app to get directions to the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 כניסה למצב ניווט ביישום זה כדי לקבל הוראות הגעה לסמן
 ```
@@ -2331,7 +2331,7 @@ translates to:
 ```
 Other options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אפשרויות אחרות
 ```
@@ -2341,7 +2341,7 @@ translates to:
 ```
 Share the selected marker as plain text into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שתף את הסמן נבחר כטקסט רגיל לאפליקציה אחרת
 ```
@@ -2351,7 +2351,7 @@ translates to:
 ```
 %1$d markers in %2$d folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d סמנים %2$d תיקיות
 ```
@@ -2361,7 +2361,7 @@ translates to:
 ```
 A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שגיאת סנכרון התרחשה: נתוני הענן עודכנו עם גרסה עדכנית יותר של האפליקציה. עליך Map Marker במכשיר זה כדי לסנכרן.
 ```
@@ -2371,7 +2371,7 @@ translates to:
 ```
 Could not find a phone app on this device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לא הצלחתי למצוא את אפליקציה לטלפון במכשיר זה.
 ```
@@ -2381,7 +2381,7 @@ translates to:
 ```
 Phone number options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אפשרויות מספר הטלפון
 ```
@@ -2391,7 +2391,7 @@ translates to:
 ```
 Call phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מספר טלפון שיחה
 ```
@@ -2401,7 +2401,7 @@ translates to:
 ```
 Dial phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 חיוג מספר טלפון
 ```
@@ -2411,7 +2411,7 @@ translates to:
 ```
 Text phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מספר טלפון טקסט
 ```
@@ -2421,7 +2421,7 @@ translates to:
 ```
 Default navigation action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פעולת ניווט ברירת מחדל
 ```
@@ -2431,7 +2431,7 @@ translates to:
 ```
 Default phone action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פעולת טלפון ברירת מחדל
 ```
@@ -2441,7 +2441,7 @@ translates to:
 ```
 Ask
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לִשְׁאוֹל
 ```
@@ -2451,7 +2451,7 @@ translates to:
 ```
 Premium free trial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ניסיון ללא תשלום פרימיום
 ```
@@ -2461,7 +2461,7 @@ translates to:
 ```
 What is the premium upgrade?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מהי Premium לשדרג?
 ```
@@ -2471,7 +2471,7 @@ translates to:
 ```
 Premium free trial started! The trial will expire at the following date: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ניסיון ללא תשלום פרימיום התחיל! הניסוי יפוג במועד הבא: %s
 ```
@@ -2482,7 +2482,7 @@ translates to:
 Trial expiration:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תפוגת משפט: 
  %s
@@ -2493,7 +2493,7 @@ translates to:
 ```
 Trial expired
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הסתיימה תקופת הניסיון
 ```
@@ -2503,7 +2503,7 @@ translates to:
 ```
 Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sync בוטל: אתה צריך את שדרוג פרמיה על מנת לבצע סינכרון.
 ```
@@ -2513,7 +2513,7 @@ Sync בוטל: אתה צריך את שדרוג פרמיה על מנת לבצע �
 ```
 Error: trial starting in the future!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שגיאה: התחלה לדין בעתיד!
 ```
@@ -2523,7 +2523,7 @@ translates to:
 ```
 Thank you for your purchase!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תודה על רכישתך!
 ```
@@ -2533,7 +2533,7 @@ translates to:
 ```
 Browse
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לְדַפדֵף
 ```
@@ -2543,7 +2543,7 @@ translates to:
 ```
 Organize
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לְאַרגֵן
 ```
@@ -2553,7 +2553,7 @@ translates to:
 ```
 Create
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לִיצוֹר
 ```
@@ -2563,7 +2563,7 @@ translates to:
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 נסה שוב
 ```
@@ -2573,7 +2573,7 @@ translates to:
 ```
 Search failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 חיפוש נכשל
 ```
@@ -2583,7 +2583,7 @@ translates to:
 ```
 Search failed, network error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 חיפוש נכשל, שגיאת רשת
 ```
@@ -2593,7 +2593,7 @@ translates to:
 ```
 Details
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פרטים
 ```
@@ -2603,7 +2603,7 @@ translates to:
 ```
 Sync error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שגיאת סנכרון
 ```
@@ -2613,7 +2613,7 @@ translates to:
 ```
 The file already exists, do you want to overwrite it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הקובץ כבר קיים, האם אתה רוצה להחליף אותו?
 ```
@@ -2623,7 +2623,7 @@ translates to:
 ```
 Copy markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 סמני העתקה לתיקייה
 ```
@@ -2633,7 +2633,7 @@ translates to:
 ```
 Error loading the Google Map component. Please restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 השגיאה בטעינה Google Map רכיב. אנא הפעל מחדש את היישום.
 ```
@@ -2643,7 +2643,7 @@ translates to:
 ```
 You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תוכל לראות את רשימת הסמנים שלך כאן. בשלב זה אין לך סמנים בתיקייה הנבחרת (ים). ניתן להוסיף סמן חדש על ידי לחיצה על הכפתור למטה.
 ```
@@ -2653,7 +2653,7 @@ translates to:
 ```
 No search results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אין תוצאות חיפוש
 ```
@@ -2663,7 +2663,7 @@ translates to:
 ```
 Open Street Map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Open Street Map
 ```
@@ -2673,7 +2673,7 @@ Open Street Map
 ```
 Bing Road
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Road
 ```
@@ -2683,7 +2683,7 @@ Bing Road
 ```
 Bing Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial
 ```
@@ -2693,7 +2693,7 @@ Bing Aerial
 ```
 Bing Aerial With Labels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial עם תוויות
 ```
@@ -2703,7 +2703,7 @@ Bing Aerial עם תוויות
 ```
 ArcGIS Server
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ArcGIS Server
 ```
@@ -2713,7 +2713,7 @@ ArcGIS Server
 ```
 Offline maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מפות לא מקוונות
 ```
@@ -2723,7 +2723,7 @@ translates to:
 ```
 No folder selected
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אין תיקייה שנבחרה
 ```
@@ -2733,7 +2733,7 @@ translates to:
 ```
 Storage folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תיקיית אחסון
 ```
@@ -2744,7 +2744,7 @@ translates to:
 Test results of the offline maps folder:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תוצאות בדיקה של תיקיית מפות המחוברת: 
  %s
@@ -2755,7 +2755,7 @@ translates to:
 ```
 No folder is selected for offline map files. In order to use offline maps, open the settings and select a folder for offline map files.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אין תיקייה נבחרה עבור קבצי המפה לא מקוונים. על מנת להשתמש במפות מחוברות, לפתוח את הגדרות ובחרו תיקייה עבור קבצי המפה לא מקוונים.
 ```
@@ -2765,7 +2765,7 @@ translates to:
 ```
 The selected offline map folder you selected contains no files. Make sure you add the offline map files in that folder before using offline maps, otherwise the map will be empty.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תיקיית המפה המחוברת שנבחרה שבחרת אינה מכילה קבצים. הקפד להוסיף את קבצי המפה מחוברים באותה תיקייה לפני שימוש מפות לא מקוונות, אחרת גבי המפה תהיה ריקה.
 ```
@@ -2775,7 +2775,7 @@ translates to:
 ```
 Success: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הצלחה: %s
 ```
@@ -2785,7 +2785,7 @@ translates to:
 ```
 Failed: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 נכשל: %s
 ```
@@ -2795,7 +2795,7 @@ translates to:
 ```
 How to do it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 איך לעשות את זה?
 ```
@@ -2805,7 +2805,7 @@ translates to:
 ```
 Click here to open the web page explaining how to obtain those maps.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לחץ כאן כדי לפתוח את דף האינטרנט המסביר כיצד להשיג מפות אלה.
 ```
@@ -2815,7 +2815,7 @@ translates to:
 ```
 Credits
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 נקודות זכות
 ```
@@ -2825,7 +2825,7 @@ translates to:
 ```
 Copyright and legal mentions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 כל זכויות שמורות ומשפטיות מזכירות
 ```
@@ -2837,7 +2837,7 @@ Legal mentions for other map data than Google Maps:
 
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 משפטי מזכיר עבור נתוני המפה מלבד Google Maps : 
  
@@ -2849,7 +2849,7 @@ translates to:
 ```
 Disable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 קובץ dump שגיאת שבת
 ```
@@ -2859,7 +2859,7 @@ translates to:
 ```
 Disable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שבת כתב שגיאות אפליקציה לקובץ על כרטיס SD
 ```
@@ -2869,7 +2869,7 @@ translates to:
 ```
 Enable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אפשר קובץ dump שגיאה
 ```
@@ -2879,7 +2879,7 @@ translates to:
 ```
 Enable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אפשר כתיבת שגיאות אפליקציה לקובץ על כרטיס SD
 ```
@@ -2889,7 +2889,7 @@ translates to:
 ```
 Start background sync…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 התחל סנכרון ברקע&#8230;
 ```
@@ -2899,7 +2899,7 @@ translates to:
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לעולם לא
 ```
@@ -2909,7 +2909,7 @@ translates to:
 ```
 When app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 כאשר אפליקציה נכנסה רקע
 ```
@@ -2919,7 +2919,7 @@ translates to:
 ```
 %d seconds after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d שניות לאחר היישום נכנס רקע
 ```
@@ -2929,7 +2929,7 @@ translates to:
 ```
 %d minutes after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d דקות לאחר היישום נכנס רקע
 ```
@@ -2939,7 +2939,7 @@ translates to:
 ```
 Sync starting in %d seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הסנכרון מתחיל ב %d שניות
 ```
@@ -2949,7 +2949,7 @@ translates to:
 ```
 You can cancel the sync at any time and your data will be synced on next attempt.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ניתן לבטל את הסנכרון בכל עת והנתונים שלך יסונכרנו על הניסיון הבא.
 ```
@@ -2959,7 +2959,7 @@ translates to:
 ```
 Press back again to exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לחצו שוב כדי לצאת
 ```
@@ -2969,7 +2969,7 @@ translates to:
 ```
 Cannot start sync with no internet access on the device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אין אפשרות להפעיל את הסנכרון ללא גישה לאינטרנט בהתקן.
 ```
@@ -2979,7 +2979,7 @@ translates to:
 ```
 Manage map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ניהול קבצי המפה
 ```
@@ -2989,7 +2989,7 @@ translates to:
 ```
 Map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 קבצי מפה
 ```
@@ -2999,7 +2999,7 @@ translates to:
 ```
 Delete map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מחק קובץ המפה
 ```
@@ -3009,7 +3009,7 @@ translates to:
 ```
 This action will delete the map file from this device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פעולה זו תמחק את קובץ המפה מהמכשיר הזה
 ```
@@ -3019,7 +3019,7 @@ translates to:
 ```
 This action will delete the map file from your device forever. All the markers inside that file will be lost. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פעולה זו תמחק את קובץ המפה מהמכשיר שלך לנצח. כל הסמנים בתוך קובץ יאבדו. האם אתה בטוח?
 ```
@@ -3029,7 +3029,7 @@ translates to:
 ```
 This action will delete the map file from your device forever. All changes not yet synced to the cloud will be lost. The cloud folder will not be affected by this action and you will have to delete it manually. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פעולה זו תמחק את קובץ המפה מהמכשיר שלך לנצח. כל השינויים לא מסונכרן עדיין לענן יאבדו. תיקיית הענן לא תושפע על ידי פעולה זו תצטרכי למחוק אותו באופן ידני. האם אתה בטוח?
 ```
@@ -3039,7 +3039,7 @@ translates to:
 ```
 Map file successfully deleted
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 קובץ מפה נמחק בהצלחה
 ```
@@ -3049,7 +3049,7 @@ translates to:
 ```
 Could not delete map file: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לא ניתן למחוק קובץ המפה: %s
 ```
@@ -3059,7 +3059,7 @@ translates to:
 ```
 Marker saved in a non visible folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 דה מרקר נשמר בתיקייה הלא גלויה
 ```
@@ -3069,7 +3069,7 @@ translates to:
 ```
 Your changes have not been synced recently. Make sure you keep your cloud copy up to date. Do you want to sync now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 השינויים שלך שלא סונכרנו לאחרונה. הקפד לשמור על הענן שלך להעתיק מעודכן. האם אתה רוצה לסנכרן עכשיו?
 ```
@@ -3079,7 +3079,7 @@ translates to:
 ```
 The markers of this map file are currently only saved on this device. It is recommended to save your markers on the cloud to avoid losing them. Do you want to save them to the cloud now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הסמנים של קובץ המפה הזאת נשמרים כרגע רק על המכשיר הזה. מומלץ לשמור הסמנים שלך על הענן כדי לא לאבד אותם. האם ברצונך לשמור אותם לענן עכשיו?
 ```
@@ -3089,7 +3089,7 @@ translates to:
 ```
 Do you want to sync this map file? With manual you will need to sync manually every time. With automatic (recommended) you will select a destination cloud folder and the sync to the cloud will start automatically every time the app enters background.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 האם אתה רוצה לסנכרן קובץ המפה הזאת? עם מדריך תצטרך לסנכרן בכל פעם באופן ידני. עם אוטומטי (מומלץ) תוכל לבחור תיקיית ענן יעד ואת הסנכרון לענן יתחיל באופן אוטומטי בכל פעם את היישום נכנס ברקע.
 ```
@@ -3099,7 +3099,7 @@ translates to:
 ```
 Automatic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אוֹטוֹמָטִי
 ```
@@ -3109,7 +3109,7 @@ translates to:
 ```
 Manual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מדריך ל
 ```
@@ -3119,7 +3119,7 @@ translates to:
 ```
 You can sync a map file on the cloud at any time by clicking on the map file in the side bar and then choosing the "Cloud sync" option.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ניתן לסנכרן קובץ המפה על ענן בכל עת על ידי לחיצה על קובץ המפה בסרגל הצידי ולאחר מכן בחירה באפשרות "ענן סינכרון".
 ```
@@ -3129,7 +3129,7 @@ translates to:
 ```
 You can sync a map file manually to the cloud at any time by clicking the "share" button in the main action bar, and then "Other options" and then "All markers and folders" and then by selecting your favorite cloud storage app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ניתן לסנכרן קובץ המפה באופן ידני לענן בכל עת על ידי לחיצה על הכפתור "שתף" בסרגל הפעולות העיקרי, ולאחר מכן "אפשרויות אחרות" ולאחר מכן "כל הסמנים ותיקיות" ולאחר מכן על ידי בחירת היישום המועדף עליכם לאחסון בענן.
 ```
@@ -3139,7 +3139,7 @@ translates to:
 ```
 Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 להזיז את המפה סביב למקם את הנקודות, לחץ על '+' כדי להוסיף נקודה, לחץ על '-' להסיר נקודה ולעבור נקודות עם הכפתורים הקודמים / הבאים. לבסוף לחץ על שמור כדי לשמור את הצורה.
 ```
@@ -3149,7 +3149,7 @@ translates to:
 ```
 There are not enough points to create the shape. Create more points and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אין מספיק נקודות כדי ליצור את הצורה. צור יותר נקודות ולנסות שוב.
 ```
@@ -3159,7 +3159,7 @@ translates to:
 ```
 Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn\'t work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by email (side panel -> about -> send email).
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לא ניתן להפעיל את השדרוג פרמיה מחשבון Google שלך. אם רכשת את השדרוג פרמיה לאחרונה מהתקן אחר, ייתכן שיהיה עליך להמתין קצת לרכישת להפיץ, לאתחל את המכשיר יכול לעשות את זה מהר. אם זה עדיין לא עובד, לוודא שרכשת, התקנת את האפליקציה והופעל באמצעות אותו חשבון Google. אם הבעיה נמשכת, אני אעזור לך כמיטב יכולתי, אתה יכול לפנות אליי על ידי email (לוח צד -&gt; אודות -&gt; לשלוח email ).
 ```
@@ -3169,7 +3169,7 @@ translates to:
 ```
 Distance: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מרחק: %s
 ```
@@ -3180,7 +3180,7 @@ translates to:
 Perimeter: %1$s
 Area: %2$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 היקפי: %1$s 
  פינה: %2$s
@@ -3191,7 +3191,7 @@ translates to:
 ```
 Extra information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מידע נוסף
 ```
@@ -3201,7 +3201,7 @@ translates to:
 ```
 Insert…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לְהַכנִיס…
 ```
@@ -3211,7 +3211,7 @@ translates to:
 ```
 Replace title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 חלף כותרת
 ```
@@ -3221,7 +3221,7 @@ translates to:
 ```
 Replace description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 חלף תיאור
 ```
@@ -3231,7 +3231,7 @@ translates to:
 ```
 Unit of distance
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 יחידת המרחק
 ```
@@ -3241,7 +3241,7 @@ translates to:
 ```
 Unit of area
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 יחידת שטח
 ```
@@ -3251,7 +3251,7 @@ translates to:
 ```
 Metric (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מטרי ( %s )
 ```
@@ -3261,7 +3261,7 @@ translates to:
 ```
 Imperial (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 קיסרי ( %s )
 ```
@@ -3271,7 +3271,7 @@ translates to:
 ```
 Images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תמונות
 ```
@@ -3281,7 +3281,7 @@ translates to:
 ```
 Select image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בחר תמונה
 ```
@@ -3291,7 +3291,7 @@ translates to:
 ```
 Imported images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תמונות מיובאות
 ```
@@ -3301,7 +3301,7 @@ translates to:
 ```
 Fit in a %1$sx%2$s square
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 להשתלב %1$s x %2$s מרובע
 ```
@@ -3311,7 +3311,7 @@ translates to:
 ```
 Full quality
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 איכות מלאה
 ```
@@ -3321,7 +3321,7 @@ translates to:
 ```
 Mobile data
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מידע נייד
 ```
@@ -3331,7 +3331,7 @@ translates to:
 ```
 Wifi
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Wifi
 ```
@@ -3341,7 +3341,7 @@ Wifi
 ```
 Disabled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 נָכֶה
 ```
@@ -3351,7 +3351,7 @@ translates to:
 ```
 Up to %s per sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 עד %s לכל סינכרון
 ```
@@ -3361,7 +3361,7 @@ translates to:
 ```
 Unlimited
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ללא הגבלה
 ```
@@ -3371,7 +3371,7 @@ translates to:
 ```
 The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings. You can also click "force sync" to sync just one time without data volume limit.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הסנכרון נקטע בגלל שהוא היה חריג ממגבלת נפח נתונים המותרת. כדי להגדיל או לשנות את ההגבלה, עבור אל ההגדרות. גם אתה יכול ללחוץ על "סינכרון כוח" לסנכרן רק פעם אחת ללא הגבלת נפח נתונים.
 ```
@@ -3381,7 +3381,7 @@ translates to:
 ```
 Force sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 כפיית סנכרון
 ```
@@ -3391,7 +3391,7 @@ translates to:
 ```
 This will override the usual data limit just for this one time. Force sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 זו תבטל את מגבלת נתונים הרגילה רק באופן חד פעמי זה. כפיית סנכרון?
 ```
@@ -3401,7 +3401,7 @@ translates to:
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 נסה שוב
 ```
@@ -3411,7 +3411,7 @@ translates to:
 ```
 Add image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הוספת תמונה
 ```
@@ -3421,7 +3421,7 @@ translates to:
 ```
 From camera
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מהמצלמה
 ```
@@ -3431,7 +3431,7 @@ translates to:
 ```
 From gallery
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מהגלריה
 ```
@@ -3441,7 +3441,7 @@ translates to:
 ```
 Importing image…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ייבוא ​​תמונה&#8230;
 ```
@@ -3451,7 +3451,7 @@ translates to:
 ```
 Offline (Mapsforge BETA)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מנותק ( Mapsforge BETA )
 ```
@@ -3461,7 +3461,7 @@ translates to:
 ```
 Exporting…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 יצוא&#8230;
 ```
@@ -3471,7 +3471,7 @@ translates to:
 ```
 Export failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 יצוא נכשל
 ```
@@ -3481,7 +3481,7 @@ translates to:
 ```
 Export succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הייצוא הצליח
 ```
@@ -3491,7 +3491,7 @@ translates to:
 ```
 KMZ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KMZ
 ```
@@ -3501,7 +3501,7 @@ KMZ
 ```
 KML
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KML
 ```
@@ -3511,7 +3511,7 @@ KML
 ```
 Importing file…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ייבוא ​​קובץ&#8230;
 ```
@@ -3521,7 +3521,7 @@ translates to:
 ```
 Show warning icon for sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 צג סמל אזהרה עבור סנכרון
 ```
@@ -3531,7 +3531,7 @@ translates to:
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הסנכרון נקטע בגלל אחד קבצי מדיה על הענן היה חסר. אתה יכול להתעלם חסר קבצים על ידי לחיצה "כוח סנכרון \". אזהרה, קבצים חסרי התעלמות יגרמו הוצאה ממסד הנתונים, כלומר מכשירים אחרים שיש עדיין עותק מקומי של הקובץ יהיה למחוק אותו על סינכרון.
 ```
@@ -3541,7 +3541,7 @@ translates to:
 ```
 This will force the sync and ignore the missing cloud files. The missing links will be removed from the database. Other devices still owning a local version of the missing cloud files will delete them upon their next sync. Data consumption limits will be ignored for this special sync. Force Sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הפעולה זו תאלץ את הסנכרון ולהתעלם קבצים בענן החסרים. הקישורים החסרים יוסרו ממסד הנתונים. מכשירים אחרים עדיין בעלות על גרסה מקומית של קבצים בענן החסר ימחק אותם על הסנכרון הבא שלהם. מגבלות צריכת נתונים תתעלם שהסנכרון המיוחד הזה. אלץ סנכרון?
 ```
@@ -3551,7 +3551,7 @@ translates to:
 ```
 Marker media files ignored on import: %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 קבצי מדיה מרקר התעלמו על יבוא: %1$d
 ```
@@ -3561,7 +3561,7 @@ translates to:
 ```
 Checking premium status…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בדיקת מצב פרמיה&#8230;
 ```
@@ -3571,7 +3571,7 @@ translates to:
 ```
 General
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 כללי
 ```
@@ -3581,7 +3581,7 @@ translates to:
 ```
 Toilets
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שֵׁרוּתִים
 ```
@@ -3591,7 +3591,7 @@ translates to:
 ```
 Food
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מזון
 ```
@@ -3601,7 +3601,7 @@ translates to:
 ```
 Stores
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 חנויות
 ```
@@ -3611,7 +3611,7 @@ translates to:
 ```
 Land activities
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פעילויות בארץ
 ```
@@ -3621,7 +3621,7 @@ translates to:
 ```
 Water activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 activies מים
 ```
@@ -3631,7 +3631,7 @@ activies מים
 ```
 Winter activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 activies החורף
 ```
@@ -3641,7 +3641,7 @@ activies החורף
 ```
 Transport
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תַחְבּוּרָה
 ```
@@ -3651,7 +3651,7 @@ translates to:
 ```
 Health
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בְּרִיאוּת
 ```
@@ -3661,7 +3661,7 @@ translates to:
 ```
 Entertainment
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בידור
 ```
@@ -3671,7 +3671,7 @@ translates to:
 ```
 Services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שירותים
 ```
@@ -3681,7 +3681,7 @@ translates to:
 ```
 Business
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 עֵסֶק
 ```
@@ -3691,7 +3691,7 @@ translates to:
 ```
 Government
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מֶמְשָׁלָה
 ```
@@ -3701,7 +3701,7 @@ translates to:
 ```
 Religious
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 דָתִי
 ```
@@ -3711,7 +3711,7 @@ translates to:
 ```
 Accessibility
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 נְגִישׁוּת
 ```
@@ -3721,7 +3721,7 @@ translates to:
 ```
 Select icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 סמל בחר
 ```
@@ -3731,7 +3731,7 @@ translates to:
 ```
 Icon and color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אייקון וצבע
 ```
@@ -3741,7 +3741,7 @@ translates to:
 ```
 Generic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 גנרית
 ```
@@ -3751,7 +3751,7 @@ translates to:
 ```
 Beta tester badge: thank you for being a beta tester! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תג בודק בטא: להודות לך על היותך בוחן ביתא! התג הזה ייעלם רק על להסיר את התקנת היישום או לנקות את נתוני היישום. תג זה גם מאפשר לך אין מודעות באפליקציה.
 ```
@@ -3761,7 +3761,7 @@ translates to:
 ```
 Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תג הפניה: להודות לכם על שהזמנתם חבריך האפליקציה! התג הזה ייעלם רק על להסיר את התקנת היישום או לנקות את נתוני היישום. תג זה גם מאפשר לך אין מודעות באפליקציה.
 ```
@@ -3771,7 +3771,7 @@ translates to:
 ```
 Referral
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פנייה
 ```
@@ -3781,7 +3781,7 @@ translates to:
 ```
 Removing ads: exchange referrals credits with friends to remove ads
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הסרת מודעות: זיכויי הפניות חילופיות עם חברים כדי להסיר את מודעות
 ```
@@ -3791,7 +3791,7 @@ translates to:
 ```
 Sent credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 וזיכויים ששולחים: %s
 ```
@@ -3801,7 +3801,7 @@ translates to:
 ```
 Received credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 זיכויים שהתקבלו: %s
 ```
@@ -3811,7 +3811,7 @@ translates to:
 ```
 Contribute to translations
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לתרום תרגומים
 ```
@@ -3821,7 +3821,7 @@ translates to:
 ```
 You understand English and want to help with translations? Click here
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אתה מבין אנגלית ורוצה לעזור עם תרגומים? לחץ כאן
 ```
@@ -3831,7 +3831,7 @@ translates to:
 ```
 The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הצבע של תיקיית היעד או סמל שונה. האם אתה רוצה לעדכן את צבע הסמן וסמל?
 ```
@@ -3841,7 +3841,7 @@ translates to:
 ```
 Add color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הוסף צבע
 ```
@@ -3851,7 +3851,7 @@ translates to:
 ```
 <![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ! &lt;[CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; מהי הפרמיה לשדרג &lt;/ b&gt; &lt;br&gt; על גבי מודעות הסרה, שדרוג הפרמיה פותח את התכונות פרימיום בלעדי הבאות:? &lt;br&gt; • Sync על Google Drive או Dropbox &lt;br&gt; • פעולה באמצעות Google Drive או Dropbox &lt;br&gt; • ההיסטוריה גרסאות מפה ולשחזר &lt;br&gt; &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -3861,7 +3861,7 @@ translates to:
 ```
 Marker created from the geo location of the QR code
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 דה מרקר נוצר מהמיקום הגיאוגרפי של קוד QR
 ```
@@ -3871,7 +3871,7 @@ translates to:
 ```
 Failed to read QR code as a geo location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 נכשל בקריאת קוד QR כמו מיקום גיאוגרפי
 ```
@@ -3881,7 +3881,7 @@ translates to:
 ```
 The app for scanning QR codes could not be found. Do you want to install it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 האפליקציה עבור קודי QR הסריקה לא נמצאה. האם אתה רוצה להתקין אותו?
 ```
@@ -3891,7 +3891,7 @@ translates to:
 ```
 Selection action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פעולת בחירה
 ```
@@ -3901,7 +3901,7 @@ translates to:
 ```
 Move to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 זז לשמאל
 ```
@@ -3911,7 +3911,7 @@ translates to:
 ```
 Move to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 זז לימין
 ```
@@ -3921,7 +3921,7 @@ translates to:
 ```
 Rotate to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 סובב לשמאל
 ```
@@ -3931,7 +3931,7 @@ translates to:
 ```
 Rotate to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 סובב לימין
 ```
@@ -3941,7 +3941,7 @@ translates to:
 ```
 Delete image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מחק תמונה
 ```
@@ -3951,7 +3951,7 @@ translates to:
 ```
 From local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מקובץ מקומי
 ```
@@ -3961,7 +3961,7 @@ translates to:
 ```
 What format to you want to use to export?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מה הפורמט שבו ברצונך להשתמש כדי לייצא?
 ```
@@ -3971,7 +3971,7 @@ translates to:
 ```
 The data to export contains media(images) that cannot be included with this export format. The data will be exported without the media. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הנתונים לייצוא מכיל מדיה (תמונות) כי לא ניתן לכלול בפורמט הייצוא הזה. הנתונים ייוצאו ללא התקשורת. כדי לייצא הכל, לבחור את KMZ בפורמט הייצוא.
 ```
@@ -3981,7 +3981,7 @@ translates to:
 ```
 Standard Google Earth format. Cannot contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תקן Google Earth בפורמט. אינה יכול להכיל תקשורת.
 ```
@@ -3991,7 +3991,7 @@ translates to:
 ```
 Zip Google Earth format. Can contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zip Google Earth בפורמט. יכול להכיל תקשורת.
 ```
@@ -4001,7 +4001,7 @@ Zip Google Earth בפורמט. יכול להכיל תקשורת.
 ```
 Standard text spreadsheet format. Cannot contain media. Cannot contain lines or polygons.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בפורמט גיליון אלקטרוני טקסט רגיל. אינה יכול להכיל תקשורת. לא יכול להכיל שורות או מצולעים.
 ```
@@ -4011,7 +4011,7 @@ translates to:
 ```
 Marker as plain text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 דה מרקר כטקסט רגיל
 ```
@@ -4021,7 +4021,7 @@ translates to:
 ```
 Marker as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 דה מרקר כקובץ
 ```
@@ -4031,7 +4031,7 @@ translates to:
 ```
 Share the selected marker as a file into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שתף את הסמן נבחר כקובץ לתוך אפליקציה אחרת
 ```
@@ -4041,7 +4041,7 @@ translates to:
 ```
 Share as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שתף כקובץ
 ```
@@ -4051,7 +4051,7 @@ translates to:
 ```
 Export to a local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 יצוא לקובץ מקומי
 ```
@@ -4061,7 +4061,7 @@ translates to:
 ```
 Import or export markers as files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 סמני יבוא או יצוא כקבצים
 ```
@@ -4071,7 +4071,7 @@ translates to:
 ```
 The data to export contains complex markers (lines or polygons) that cannot be included with this export format. The data will be exported without those markers. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הנתונים לייצוא מכיל סמנים מורכבים (קווי או פוליגונים) כי לא ניתן לכלול בפורמט הייצוא הזה. הנתונים ייוצאו ללא סמנים אלה. כדי לייצא הכל, לבחור את KMZ בפורמט הייצוא.
 ```
@@ -4081,7 +4081,7 @@ translates to:
 ```
 Add custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הוסף שדה מותאם אישית
 ```
@@ -4091,7 +4091,7 @@ translates to:
 ```
 Information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מֵידָע
 ```
@@ -4101,7 +4101,7 @@ translates to:
 ```
 Custom fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שדות מותאמים אישית
 ```
@@ -4111,7 +4111,7 @@ translates to:
 ```
 Field name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שם שדה
 ```
@@ -4121,7 +4121,7 @@ translates to:
 ```
 Delete field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מחק שדה
 ```
@@ -4131,7 +4131,7 @@ translates to:
 ```
 Attributes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תכונות
 ```
@@ -4141,7 +4141,7 @@ translates to:
 ```
 New custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שדה מותאם אישית חדש
 ```
@@ -4151,7 +4151,7 @@ translates to:
 ```
 Modify custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שנה שדה מותאם אישית
 ```
@@ -4161,7 +4161,7 @@ translates to:
 ```
 Field enabled. For folders, if enabled, that field will be added automatically to children POIs on creation. For POIs, if enabled, that field will be visible in the details page.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 שדה מופעל. עבור תיקיות, אם מופעל, שדה זה יתווסף באופן אוטומטי לילדים POIs על היצירה. עבור נקודות POI, אם הופעלה, שדה זה יהיה גלוי בדף הפרטים.
 ```
@@ -4171,7 +4171,7 @@ translates to:
 ```
 Field info
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פרטי שדה
 ```
@@ -4181,7 +4181,7 @@ translates to:
 ```
 Select field type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בחר סוג שדה
 ```
@@ -4191,7 +4191,7 @@ translates to:
 ```
 Boolean (True or False)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בוליאני (נכון או לא נכון)
 ```
@@ -4201,7 +4201,7 @@ translates to:
 ```
 Default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ערך ברירת מחדל
 ```
@@ -4211,7 +4211,7 @@ translates to:
 ```
 Date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תַאֲרִיך
 ```
@@ -4221,7 +4221,7 @@ translates to:
 ```
 Email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אֶלֶקטרוֹנִי
 ```
@@ -4231,7 +4231,7 @@ translates to:
 ```
 Text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 טֶקסט
 ```
@@ -4241,7 +4241,7 @@ translates to:
 ```
 Multiple choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בחירה מרובה
 ```
@@ -4251,7 +4251,7 @@ translates to:
 ```
 Add choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הוסף בחירה
 ```
@@ -4261,7 +4261,7 @@ translates to:
 ```
 Duplicates are not allowed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 כפילויות אסורות
 ```
@@ -4271,7 +4271,7 @@ translates to:
 ```
 Phone
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 טלפון
 ```
@@ -4281,7 +4281,7 @@ translates to:
 ```
 Web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 קישור
 ```
@@ -4291,7 +4291,7 @@ translates to:
 ```
 Choices list
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 רשימת האפשרויות
 ```
@@ -4301,7 +4301,7 @@ translates to:
 ```
 Select default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בחר ערך ברירת מחדל
 ```
@@ -4311,7 +4311,7 @@ translates to:
 ```
 Creation date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תאריך היווצרות
 ```
@@ -4321,7 +4321,7 @@ translates to:
 ```
 POI Options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אפשרויות POI
 ```
@@ -4331,7 +4331,7 @@ translates to:
 ```
 Delete POI
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מחק POI
 ```
@@ -4341,7 +4341,7 @@ translates to:
 ```
 Select value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בחר ערך
 ```
@@ -4351,7 +4351,7 @@ translates to:
 ```
 Used by folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 משמש על ידי תיקיות
 ```
@@ -4361,7 +4361,7 @@ translates to:
 ```
 Edit field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ערוך שדה
 ```
@@ -4371,7 +4371,7 @@ translates to:
 ```
 Add folder field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הוסף שדה תיקייה
 ```
@@ -4381,7 +4381,7 @@ translates to:
 ```
 Reorder fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 סדר מחדש את השדות
 ```
@@ -4391,7 +4391,7 @@ translates to:
 ```
 Pick the fields you want to apply to this folder\'s POIs
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 בחר את השדות שברצונך להחיל על נקודות POI של תיקייה זו
 ```
@@ -4401,7 +4401,7 @@ translates to:
 ```
 The destination folder has different field values. Pick the fields you want to apply to moved POIs.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 תיקיית היעד כוללת ערכי שדה שונים. בחר את השדות שברצונך להחיל על נקודות עניין מועברות.
 ```
@@ -4411,7 +4411,7 @@ translates to:
 ```
 Update color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 עדכון צבע
 ```
@@ -4421,7 +4421,7 @@ translates to:
 ```
 Update pin icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 עדכון סמל PIN
 ```
@@ -4431,7 +4431,7 @@ translates to:
 ```
 Add field if missing: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הוסף שדה אם חסר: %s
 ```
@@ -4441,7 +4441,7 @@ translates to:
 ```
 Remove field if present: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הסר שדה אם קיים: %s
 ```
@@ -4451,7 +4451,7 @@ translates to:
 ```
 Update field name if different: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 עדכון שם שדה אם שונה: %s
 ```
@@ -4461,7 +4461,7 @@ translates to:
 ```
 More options…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אפשרויות נוספות…
 ```
@@ -4471,7 +4471,7 @@ translates to:
 ```
 Folder options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אפשרויות תיקייה
 ```
@@ -4481,7 +4481,7 @@ translates to:
 ```
 Edit email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ערוך email
 ```
@@ -4491,7 +4491,7 @@ translates to:
 ```
 Edit web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ערוך קישור אינטרנט
 ```
@@ -4501,7 +4501,7 @@ translates to:
 ```
 Decimal accuracy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 דיוק עשרוני
 ```
@@ -4511,7 +4511,7 @@ translates to:
 ```
 Details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 פרטים שהועתקו ללוח
 ```
@@ -4521,7 +4521,7 @@ translates to:
 ```
 Copy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 עותק
 ```
@@ -4531,7 +4531,7 @@ translates to:
 ```
 Do you want to click here? ^‿^
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 האם ברצונך ללחוץ כאן? ^ ‿ ^
 ```
@@ -4559,7 +4559,7 @@ And finally, thank you for reading this :-)
 Regards
 Sébastien
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 היי, תודה על סקרנותך! 
  
@@ -4587,7 +4587,7 @@ translates to:
 ```
 Normal with indoor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 רגיל עם פנים
 ```
@@ -4597,7 +4597,7 @@ translates to:
 ```
 Floating marker titles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 כותרות סמן צף
 ```
@@ -4607,7 +4607,7 @@ translates to:
 ```
 Maximum number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 המספר המירבי
 ```
@@ -4617,7 +4617,7 @@ translates to:
 ```
 Text size
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 גודל טקסט
 ```
@@ -4627,7 +4627,7 @@ translates to:
 ```
 Search failed => %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 החיפוש נכשל =&gt; %s
 ```
@@ -4637,7 +4637,7 @@ translates to:
 ```
 API key tutorial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 API key מדריך
 ```
@@ -4647,7 +4647,7 @@ API key מדריך
 ```
 Click here to see details on how to obtain an API key for your account.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 לחץ כאן כדי לראות פרטים על איך להשיג API key עבור החשבון שלך.
 ```
@@ -4657,7 +4657,7 @@ translates to:
 ```
 Personal API key
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אישי M.
 ```
@@ -4667,7 +4667,7 @@ translates to:
 ```
 None
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 אף אחד
 ```
@@ -4679,7 +4679,7 @@ You can search for places with "Google Places API". This search requires an inte
 
 You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ניתן לחפש מקומות עם "Google Places API". חיפוש זה מחייב חיבור לאינטרנט.
 
@@ -4691,7 +4691,7 @@ translates to:
 ```
 Do you enjoy the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 האם אתה נהנה מהאפליקציה?
 ```
@@ -4701,7 +4701,7 @@ translates to:
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 האם אתה רוצה לשלוח לי email כדי לספר לי כיצד אוכל לשפר את האפליקציה?
 ```
@@ -4711,7 +4711,7 @@ translates to:
 ```
 Display extra POI fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הצג שדות POI נוספים
 ```
@@ -4721,7 +4721,7 @@ translates to:
 ```
 IGN plans
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN תוכניות
 ```
@@ -4731,7 +4731,7 @@ IGN תוכניות
 ```
 IGN maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 מפות IGN
 ```
@@ -4741,7 +4741,7 @@ translates to:
 ```
 IGN - Cadastral parcels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - חבילות Cadastral
 ```
@@ -4751,7 +4751,7 @@ IGN - חבילות Cadastral
 ```
 IGN - Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - אווירי
 ```
@@ -4761,7 +4761,7 @@ IGN - אווירי
 ```
 Type more and press enter again for refined results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 הקלד עוד והקש enter שוב לקבלת תוצאות מעודנות
 ```

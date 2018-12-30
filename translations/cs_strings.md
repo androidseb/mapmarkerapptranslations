@@ -1,4 +1,4 @@
-# Map Marker translations for cs
+# Map Marker translations for Czech (cs)
 
 You want to help improve this translation file? Read the [main page](https://github.com/androidseb/mapmarkerapptranslations)
 
@@ -7,7 +7,7 @@ You want to help improve this translation file? Read the [main page](https://git
 ```
 OK
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 OK
 ```
@@ -17,7 +17,7 @@ OK
 ```
 Yes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ano
 ```
@@ -27,7 +27,7 @@ Ano
 ```
 No
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ne
 ```
@@ -37,7 +37,7 @@ Ne
 ```
 Cancel
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zrušit
 ```
@@ -47,7 +47,7 @@ Zrušit
 ```
 New marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nová značka
 ```
@@ -57,7 +57,7 @@ Nová značka
 ```
 Title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Název
 ```
@@ -67,7 +67,7 @@ Název
 ```
 Description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Popis
 ```
@@ -77,7 +77,7 @@ Popis
 ```
 Do you really want to delete this marker?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opravdu chcete smazat tuto značku?
 ```
@@ -87,7 +87,7 @@ Opravdu chcete smazat tuto značku?
 ```
 GPS coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GPS souřadnice
 ```
@@ -97,7 +97,7 @@ GPS souřadnice
 ```
 Could not copy coordinates to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nelze kopírovat souřadnice do schránky
 ```
@@ -107,7 +107,7 @@ Nelze kopírovat souřadnice do schránky
 ```
 Coordinates copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Souřadnice zkopírovat do schránky
 ```
@@ -117,7 +117,7 @@ Souřadnice zkopírovat do schránky
 ```
 Failed to access application save directory. Make sure that your device is not being accessed by a computer with the USB cable, and restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nepodařilo se přístup do aplikace uložení adresáře. Ujistěte se, že zařízení není získáván počítačem pomocí USB kabelu, a restartujte aplikaci.
 ```
@@ -127,7 +127,7 @@ Nepodařilo se přístup do aplikace uložení adresáře. Ujistěte se, že za�
 ```
 Untitled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Untitled
 ```
@@ -137,7 +137,7 @@ Untitled
 ```
 All
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vše
 ```
@@ -147,7 +147,7 @@ Vše
 ```
 Add folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Přidat složku
 ```
@@ -157,7 +157,7 @@ Přidat složku
 ```
 Modify folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Změnit složku
 ```
@@ -167,7 +167,7 @@ Změnit složku
 ```
 Are you sure you want to delete this folder? All markers associated to this folder will be deleted permanently!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jste si jisti, že chcete smazat tuto složku? Všechny značky přidružené k této složky budou smazány natrvalo!
 ```
@@ -177,7 +177,7 @@ Jste si jisti, že chcete smazat tuto složku? Všechny značky přidružené k 
 ```
 Failed to create new folder, it already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nepodařilo se vytvořit novou složku, již existuje
 ```
@@ -187,7 +187,7 @@ Nepodařilo se vytvořit novou složku, již existuje
 ```
 Failed to rename the folder, the destination name already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nepodařilo se přejmenovat složku, název cílového již existuje
 ```
@@ -197,7 +197,7 @@ Nepodařilo se přejmenovat složku, název cílového již existuje
 ```
 Latitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Latitude:
 ```
@@ -207,7 +207,7 @@ Latitude:
 ```
 Longitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Délka:
 ```
@@ -217,7 +217,7 @@ Délka:
 ```
 Could not write file.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nelze zapsat soubor.
 ```
@@ -227,7 +227,7 @@ Nelze zapsat soubor.
 ```
 Import/Export
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Import Export
 ```
@@ -237,7 +237,7 @@ Import Export
 ```
 Import markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Importovat značky
 ```
@@ -247,7 +247,7 @@ Importovat značky
 ```
 File imported successfully
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Soubor byl úspěšně importován
 ```
@@ -257,7 +257,7 @@ Soubor byl úspěšně importován
 ```
 File import failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Import souboru se nezdařilo
 ```
@@ -267,7 +267,7 @@ Import souboru se nezdařilo
 ```
 Location services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Místo služby
 ```
@@ -277,7 +277,7 @@ Místo služby
 ```
 Location services are disabled. To get your current location you must enable them.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lokalita služby jsou zakázány. Chcete-li získat svou aktuální polohu, musíte povolit jim.
 ```
@@ -287,7 +287,7 @@ Lokalita služby jsou zakázány. Chcete-li získat svou aktuální polohu, mus�
 ```
 Could not find address
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nelze najít adresu
 ```
@@ -297,7 +297,7 @@ Nelze najít adresu
 ```
 Searching&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vyhledávání&#8230;
 ```
@@ -307,7 +307,7 @@ Vyhledávání&#8230;
 ```
 Search
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vyhledávání
 ```
@@ -317,7 +317,7 @@ Vyhledávání
 ```
 Share via
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sdílet přes
 ```
@@ -327,7 +327,7 @@ Sdílet přes
 ```
 Do you want to import the content of this file?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chcete importovat obsah tohoto souboru?
 ```
@@ -337,7 +337,7 @@ Chcete importovat obsah tohoto souboru?
 ```
 Folder name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Název složky
 ```
@@ -347,7 +347,7 @@ Název složky
 ```
 Save
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Save
 ```
@@ -357,7 +357,7 @@ Save
 ```
 Close
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zavřít
 ```
@@ -367,7 +367,7 @@ Zavřít
 ```
 Are you sure you want to delete the selected markers?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jste si jisti, že chcete smazat vybrané značky?
 ```
@@ -377,7 +377,7 @@ Jste si jisti, že chcete smazat vybrané značky?
 ```
 Move markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Přesun značky do složky
 ```
@@ -387,7 +387,7 @@ Přesun značky do složky
 ```
 Share
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Podíl
 ```
@@ -397,7 +397,7 @@ Podíl
 ```
 Folder:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Folder:
 ```
@@ -407,7 +407,7 @@ Folder:
 ```
 Snapshot of my markers on Map Marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Snímek z mých značek na Map Marker
 ```
@@ -418,7 +418,7 @@ Snímek z mých značek na Map Marker
 This snapshot was made with the app Map Marker:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tento snímek byl dělán s app Map Marker : 
  %s
@@ -429,7 +429,7 @@ Tento snímek byl dělán s app Map Marker :
 ```
 Processing data&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zpracování dat&#8230;
 ```
@@ -439,7 +439,7 @@ Zpracování dat&#8230;
 ```
 You have unsaved modifications, do you want to save them?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Máte neuložené změny, chcete je uložit?
 ```
@@ -449,7 +449,7 @@ Máte neuložené změny, chcete je uložit?
 ```
 Use the long press on the map to create a new marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Použijte dlouhý stisk na mapě vytvořit novou značku
 ```
@@ -459,7 +459,7 @@ Použijte dlouhý stisk na mapě vytvořit novou značku
 ```
 Map type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Typ mapy
 ```
@@ -469,7 +469,7 @@ Typ mapy
 ```
 Normal
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Normální
 ```
@@ -479,7 +479,7 @@ Normální
 ```
 Satellite
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Satelit
 ```
@@ -489,7 +489,7 @@ Satelit
 ```
 Terrain
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Terén
 ```
@@ -499,7 +499,7 @@ Terén
 ```
 Hybrid
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hybrid
 ```
@@ -510,7 +510,7 @@ Hybrid
 Found a problem? Have an idea of improvement?
 Send me an email :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Našli problém? Máte představu o tom, zlepšení? 
  Pošli mi email :-)
@@ -521,7 +521,7 @@ Našli problém? Máte představu o tom, zlepšení?
 ```
 Send email&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pošlete email&#8230;
 ```
@@ -532,7 +532,7 @@ Pošlete email&#8230;
 You like the app?
 Rate it 5 stars :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Líbí se vám aplikace? 
  úrokovou sazbou, 5 hvězdiček :-)
@@ -543,7 +543,7 @@ Líbí se vám aplikace?
 ```
 Change folder to&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Změnit složku, kterou chcete&#8230;
 ```
@@ -553,7 +553,7 @@ Změnit složku, kterou chcete&#8230;
 ```
 Directions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Instrukce
 ```
@@ -563,7 +563,7 @@ Instrukce
 ```
 Acquiring location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zjišťování polohy&#8230;
 ```
@@ -573,7 +573,7 @@ Zjišťování polohy&#8230;
 ```
 Meters
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Měřiče
 ```
@@ -583,7 +583,7 @@ Měřiče
 ```
 Km
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Km
 ```
@@ -593,7 +593,7 @@ Km
 ```
 Feet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Feet
 ```
@@ -603,7 +603,7 @@ Feet
 ```
 Miles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Miles
 ```
@@ -613,7 +613,7 @@ Miles
 ```
 Adjust map camera position when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Při vedení na značku místa upravte mapy pozici kamery
 ```
@@ -623,7 +623,7 @@ Při vedení na značku místa upravte mapy pozici kamery
 ```
 Keep screen on when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Udržujte obrazovku při vedení na značku místa
 ```
@@ -633,7 +633,7 @@ Udržujte obrazovku při vedení na značku místa
 ```
 Marker details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Podrobnosti Marker zkopírovat do schránky
 ```
@@ -643,7 +643,7 @@ Podrobnosti Marker zkopírovat do schránky
 ```
 Long press to drag and move the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dlouhým stiskem myší chytit a přesunout ukazatel
 ```
@@ -653,7 +653,7 @@ Dlouhým stiskem myší chytit a přesunout ukazatel
 ```
 Error starting internal task manager, app will now exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chyba při spuštění interního správce úloh, aplikace bude nyní ukončen
 ```
@@ -663,7 +663,7 @@ Chyba při spuštění interního správce úloh, aplikace bude nyní ukončen
 ```
 Do not show again
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Znovu neukazovat
 ```
@@ -673,7 +673,7 @@ Znovu neukazovat
 ```
 Could not create the map capture
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nelze vytvořit zajetí mapy
 ```
@@ -683,7 +683,7 @@ Nelze vytvořit zajetí mapy
 ```
 Metric (Kilometers/Meters)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Metric (Kilometry / m)
 ```
@@ -693,7 +693,7 @@ Metric (Kilometry / m)
 ```
 Imperial (Miles/Feet)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Imperial (Miles / Feet)
 ```
@@ -703,7 +703,7 @@ Imperial (Miles / Feet)
 ```
 There is a problem with Google Play Services: it needs to be installed, updated or activated. Click OK to try and solve it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 To je problém s Google Play Services : je třeba nainstalovat, aktualizovat nebo aktivovat. Klepněte na tlačítko OK, aby se pokusila vyřešit.
 ```
@@ -713,7 +713,7 @@ To je problém s Google Play Services : je třeba nainstalovat, aktualizovat neb
 ```
 Delete folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Smazat složku
 ```
@@ -723,7 +723,7 @@ Smazat složku
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pokud se vám líbí moje aplikace, můžete mi odměnit tím, že je na čase, aby dobrý rating :-)
 ```
@@ -734,7 +734,7 @@ Pokud se vám líbí moje aplikace, můžete mi odměnit tím, že je na čase, 
 OK take me
 to the Play Store
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 OK mi trvat 
  do Play Store
@@ -746,7 +746,7 @@ OK mi trvat
 I already
 gave a rating
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Už 
  dal hodnocení
@@ -758,7 +758,7 @@ Už
 Maybe later
 remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Možná později 
  mi připomínají
@@ -770,7 +770,7 @@ Možná později
 Maybe later
 do not remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Možná později 
  neříkej mi připomínat
@@ -781,7 +781,7 @@ Možná později
 ```
 Could not find the place
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nelze najít místo
 ```
@@ -791,7 +791,7 @@ Nelze najít místo
 ```
 Could not find another map application
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nelze najít jinou mapovou aplikaci
 ```
@@ -801,7 +801,7 @@ Nelze najít jinou mapovou aplikaci
 ```
 Move the map around to place your marker where you want and click OK to place it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Přesun mapy kolem umístit značku, kde chcete, a klepněte na tlačítko OK umístěte
 ```
@@ -811,7 +811,7 @@ Přesun mapy kolem umístit značku, kde chcete, a klepněte na tlačítko OK um
 ```
 Imported marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dovážené značka
 ```
@@ -821,7 +821,7 @@ Dovážené značka
 ```
 Settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nastavení
 ```
@@ -831,7 +831,7 @@ Nastavení
 ```
 Display zoom buttons
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tlačítka zoomu
 ```
@@ -841,7 +841,7 @@ Tlačítka zoomu
 ```
 Decimal degrees
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Desetinné stupňů
 ```
@@ -851,7 +851,7 @@ Desetinné stupňů
 ```
 Degrees decimal minutes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Desetin stupňů minut
 ```
@@ -861,7 +861,7 @@ Desetin stupňů minut
 ```
 Degrees minutes seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Stupně minuty sekundy
 ```
@@ -871,7 +871,7 @@ Stupně minuty sekundy
 ```
 Coordinates format
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Formát Souřadnice
 ```
@@ -881,7 +881,7 @@ Formát Souřadnice
 ```
 GPS and wireless networks only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pouze GPS a bezdrátové sítě
 ```
@@ -891,7 +891,7 @@ Pouze GPS a bezdrátové sítě
 ```
 GPS and wireless networks or magnetic sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GPS a bezdrátové sítě nebo magnetický snímač
 ```
@@ -901,7 +901,7 @@ GPS a bezdrátové sítě nebo magnetický snímač
 ```
 Magnetic sensor only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pouze Magnetický snímač
 ```
@@ -911,7 +911,7 @@ Pouze Magnetický snímač
 ```
 Used compass sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Použité kompas senzor
 ```
@@ -921,7 +921,7 @@ Použité kompas senzor
 ```
 FAQ/Help
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 FAQ / Help
 ```
@@ -931,7 +931,7 @@ FAQ / Help
 ```
 Folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Složky
 ```
@@ -941,7 +941,7 @@ Složky
 ```
 Help and settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nápověda a nastavení
 ```
@@ -951,7 +951,7 @@ Nápověda a nastavení
 ```
 Language
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jazyk
 ```
@@ -961,7 +961,7 @@ Jazyk
 ```
 Marker popup style
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker popup styl
 ```
@@ -971,7 +971,7 @@ Marker popup styl
 ```
 Bottom
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dno
 ```
@@ -981,7 +981,7 @@ Dno
 ```
 Bubble
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bublina
 ```
@@ -991,7 +991,7 @@ Bublina
 ```
 Coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Souřadnice
 ```
@@ -1001,7 +1001,7 @@ Souřadnice
 ```
 Contextual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kontextový
 ```
@@ -1011,7 +1011,7 @@ Kontextový
 ```
 Always
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vždycky
 ```
@@ -1021,7 +1021,7 @@ Vždycky
 ```
 Crosshair display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Crosshair display
 ```
@@ -1031,7 +1031,7 @@ Crosshair display
 ```
 Coordinates window
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Okno Souřadnice
 ```
@@ -1041,7 +1041,7 @@ Okno Souřadnice
 ```
 Lat:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Šířka:
 ```
@@ -1051,7 +1051,7 @@ translates to:
 ```
 Lng:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lng:
 ```
@@ -1061,7 +1061,7 @@ Lng:
 ```
 Marker instant adding mode
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker instant režim přidávání
 ```
@@ -1071,7 +1071,7 @@ Marker instant režim přidávání
 ```
 Advanced
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pokročilý
 ```
@@ -1081,7 +1081,7 @@ Pokročilý
 ```
 Display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zobrazit
 ```
@@ -1091,7 +1091,7 @@ Zobrazit
 ```
 Actions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Akce
 ```
@@ -1101,7 +1101,7 @@ Akce
 ```
 Language and units
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jazyk a jednotky
 ```
@@ -1111,7 +1111,7 @@ Jazyk a jednotky
 ```
 Markers ignored on import (duplicates): %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Značky při importu ignorována (duplicity): %1$d
 ```
@@ -1121,7 +1121,7 @@ Značky při importu ignorována (duplicity): %1$d
 ```
 %1$d markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d značky
 ```
@@ -1131,7 +1131,7 @@ translates to:
 ```
 No auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No auto pojmenování
 ```
@@ -1141,7 +1141,7 @@ No auto pojmenování
 ```
 Auto naming "number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Auto pojmenování "číslo"
 ```
@@ -1151,7 +1151,7 @@ Auto pojmenování "číslo"
 ```
 Auto naming "Marker number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Auto pojmenování "číslo Marker"
 ```
@@ -1161,7 +1161,7 @@ Auto pojmenování "číslo Marker"
 ```
 New marker auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nová značka auto pojmenování
 ```
@@ -1171,7 +1171,7 @@ Nová značka auto pojmenování
 ```
 Marker %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker %1$d
 ```
@@ -1181,7 +1181,7 @@ Marker %1$d
 ```
 Waiting for location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Čekání na místě&#8230;
 ```
@@ -1191,7 +1191,7 @@ translates to:
 ```
 Open the help page and see the FAQ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Otevřete stránku nápovědy a viz FAQ
 ```
@@ -1201,7 +1201,7 @@ Otevřete stránku nápovědy a viz FAQ
 ```
 Features
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Rysy
 ```
@@ -1211,7 +1211,7 @@ Rysy
 ```
 View the list of upcoming features for the next app version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zobrazit seznam připravovaných funkcí pro další app verze
 ```
@@ -1221,7 +1221,7 @@ Zobrazit seznam připravovaných funkcí pro další app verze
 ```
 Help &amp; Feedback
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pomoc &amp; Feedback
 ```
@@ -1231,7 +1231,7 @@ Pomoc &amp; Feedback
 ```
 About
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 O
 ```
@@ -1241,7 +1241,7 @@ O
 ```
 Distance to %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vzdálenost k %1$s
 ```
@@ -1251,7 +1251,7 @@ Vzdálenost k %1$s
 ```
 Snapshot
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Momentka
 ```
@@ -1261,7 +1261,7 @@ Momentka
 ```
 Share a snapshot of the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Podělte se o snímek mapy
 ```
@@ -1271,7 +1271,7 @@ Podělte se o snímek mapy
 ```
 All markers and folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Všechny značky a složky
 ```
@@ -1281,7 +1281,7 @@ Všechny značky a složky
 ```
 <![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; S cílem získat správné severní směr kompasu, je třeba, aby vám správně kalibrovat telefonu. &lt;br&gt; Při kalibraci telefon, jednoduše pohybovat kolem nakreslením 8 . Tento krok musí být široká a opakuje asi 3x pro lepší účinnost. &lt;br&gt; můžete kalibrovat vám telefon tím, že dělá to kdykoliv. &lt;/ b&gt; &lt;br&gt; kalibrace má svá omezení a nemusí stačit proti rušení blízkých, jako jsou: &lt;br&gt; • velké kovové předměty &lt;br&gt; • elektronická zařízení Galerie • magnety &lt;br&gt; • vnitřní autě / autobusem / vlakem / letadlem &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -1291,7 +1291,7 @@ translates to:
 ```
 Badges
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Odznaky
 ```
@@ -1301,7 +1301,7 @@ Odznaky
 ```
 Buy a donation badge
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zakupte si daru odznak
 ```
@@ -1311,7 +1311,7 @@ Zakupte si daru odznak
 ```
 Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Děkujeme Vám za Váš příspěvek! Tento dar granty odznak přístup k prémii k :-)
 ```
@@ -1321,7 +1321,7 @@ Děkujeme Vám za Váš příspěvek! Tento dar granty odznak přístup k prémi
 ```
 Default folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Výchozí složka
 ```
@@ -1331,7 +1331,7 @@ Výchozí složka
 ```
 Sync options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sync možnosti
 ```
@@ -1341,7 +1341,7 @@ Sync možnosti
 ```
 Google Drive
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Disk Google
 ```
@@ -1351,7 +1351,7 @@ Disk Google
 ```
 Dropbox
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dropbox
 ```
@@ -1361,7 +1361,7 @@ Dropbox
 ```
 Configuring&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Konfigurace&#8230;
 ```
@@ -1371,7 +1371,7 @@ Konfigurace&#8230;
 ```
 Sync now
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Synchronizovat
 ```
@@ -1381,7 +1381,7 @@ Synchronizovat
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nikdy
 ```
@@ -1391,7 +1391,7 @@ Nikdy
 ```
 Syncing…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Synchronizace&#8230;
 ```
@@ -1401,7 +1401,7 @@ Synchronizace&#8230;
 ```
 Select folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vybrat složku
 ```
@@ -1411,7 +1411,7 @@ Vybrat složku
 ```
 Load error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chyba Load
 ```
@@ -1421,7 +1421,7 @@ Chyba Load
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opakovat
 ```
@@ -1431,7 +1431,7 @@ Opakovat
 ```
 Root
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kořen
 ```
@@ -1441,7 +1441,7 @@ Kořen
 ```
 Shared
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sdílená
 ```
@@ -1451,7 +1451,7 @@ Sdílená
 ```
 Purchase successful!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kupte si úspěšný!
 ```
@@ -1461,7 +1461,7 @@ Kupte si úspěšný!
 ```
 Purchase failed: %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nákup %1$s
 ```
@@ -1471,7 +1471,7 @@ Nákup %1$s
 ```
 Premium access available! You currently have access to premium features.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Premium přístup k dispozici! V současné době máte přístup k prémiovým funkcím.
 ```
@@ -1481,7 +1481,7 @@ Premium přístup k dispozici! V současné době máte přístup k prémiovým 
 ```
 You cannot select that folder because it contains multiple files named %1$s. The sync requires the folder to contain only one file with that name.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nelze vybrat tuto složku, protože obsahuje několik souborů s %1$s Synchronizační požaduje složku obsahovat pouze jeden soubor s tímto názvem.
 ```
@@ -1491,7 +1491,7 @@ Nelze vybrat tuto složku, protože obsahuje několik souborů s %1$s Synchroniz
 ```
 It seems sync data already exists in that folder. If you select that folder, your local data will be merged with the folder data when sync is performed. Is that what you want?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zdá se, že synchronizace dat již v této složce existuje. Zvolíte-li tuto složku, bude váš lokální data budou sloučeny s daty složce při provedení synchronizace. Je to to, co chceš?
 ```
@@ -1501,7 +1501,7 @@ Zdá se, že synchronizace dat již v této složce existuje. Zvolíte-li tuto s
 ```
 File options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Možnosti souborů
 ```
@@ -1511,7 +1511,7 @@ Možnosti souborů
 ```
 Cloud sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cloud synchronizace
 ```
@@ -1521,7 +1521,7 @@ Cloud synchronizace
 ```
 Sync this map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Synchronizace Tento soubor mapy na oblaku
 ```
@@ -1531,7 +1531,7 @@ Synchronizace Tento soubor mapy na oblaku
 ```
 Map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mapa file
 ```
@@ -1541,7 +1541,7 @@ Mapa file
 ```
 Create local map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vytvořit místní mapu
 ```
@@ -1551,7 +1551,7 @@ Vytvořit místní mapu
 ```
 Create a new map file locally
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vytvořit nový soubor mapy místně
 ```
@@ -1561,7 +1561,7 @@ Vytvořit nový soubor mapy místně
 ```
 Create cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vytvořit cloud mapu
 ```
@@ -1571,7 +1571,7 @@ Vytvořit cloud mapu
 ```
 Create a map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vytvořte soubor mapy na oblaku
 ```
@@ -1581,7 +1581,7 @@ Vytvořte soubor mapy na oblaku
 ```
 Retrieves changes from the cloud and sends local changes to the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vyhledá změny z cloudu a pošle lokální změny do cloudu
 ```
@@ -1591,7 +1591,7 @@ Vyhledá změny z cloudu a pošle lokální změny do cloudu
 ```
 Rename
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Přejmenovat
 ```
@@ -1601,7 +1601,7 @@ Přejmenovat
 ```
 Rename the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Přejmenování mapy
 ```
@@ -1611,7 +1611,7 @@ Přejmenování mapy
 ```
 Enter new name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zadejte nový název
 ```
@@ -1621,7 +1621,7 @@ Zadejte nový název
 ```
 Enter the new map\'s name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zadejte nový název Map
 ```
@@ -1631,7 +1631,7 @@ Zadejte nový název Map
 ```
 %1$d folders, %2$d markers, size: %3$d KB
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d %2$d markery, %3$d KB
 ```
@@ -1641,7 +1641,7 @@ translates to:
 ```
 Create new folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vytvořit novou složku
 ```
@@ -1651,7 +1651,7 @@ Vytvořit novou složku
 ```
 Could not create folder: name empty
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nelze vytvořit složku: pojmenujte prázdný
 ```
@@ -1661,7 +1661,7 @@ Nelze vytvořit složku: pojmenujte prázdný
 ```
 Could not create folder: error occurred
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nelze vytvořit složku: došlo k chybě
 ```
@@ -1671,7 +1671,7 @@ Nelze vytvořit složku: došlo k chybě
 ```
 Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Děkujeme, že jste si Map Marker Premium :-)
 ```
@@ -1681,7 +1681,7 @@ Děkujeme, že jste si Map Marker Premium :-)
 ```
 Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Děkujeme vám za váš zájem zobrazení tím, že prohlásí svůj Map Marker :-)
 ```
@@ -1691,7 +1691,7 @@ Děkujeme vám za váš zájem zobrazení tím, že prohlásí svůj Map Marker 
 ```
 Premium
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Premium
 ```
@@ -1701,7 +1701,7 @@ Premium
 ```
 Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Upgrade na prémii a plně Map Marker funkcí!
 ```
@@ -1711,7 +1711,7 @@ Upgrade na prémii a plně Map Marker funkcí!
 ```
 Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Je nám líto, musíte upgrade prémie pro přístup k této funkci. Upgrade na prémii a plně Map Marker funkcí!
 ```
@@ -1721,7 +1721,7 @@ Je nám líto, musíte upgrade prémie pro přístup k této funkci. Upgrade na 
 ```
 You have the premium upgrade for free! You can still purchase it if you want to show your support :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Máte upgrade prémie zdarma! Stále můžete zakoupit, pokud chcete ukázat svou :-)
 ```
@@ -1731,7 +1731,7 @@ Máte upgrade prémie zdarma! Stále můžete zakoupit, pokud chcete ukázat svo
 ```
 Purchase the premium upgrade
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nákup upgrade prémie
 ```
@@ -1741,7 +1741,7 @@ Nákup upgrade prémie
 ```
 My Google account already has premium access, activate it!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Můj účet Google již má nadstandardní přístup, aktivujte ji!
 ```
@@ -1751,7 +1751,7 @@ Můj účet Google již má nadstandardní přístup, aktivujte ji!
 ```
 Troubleshooting
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Řešení problémů
 ```
@@ -1761,7 +1761,7 @@ translates to:
 ```
 Open a list of actions to solve possible problems
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Otevřete seznam opatření k řešení případných problémů
 ```
@@ -1771,7 +1771,7 @@ Otevřete seznam opatření k řešení případných problémů
 ```
 Test internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Testovací internet
 ```
@@ -1781,7 +1781,7 @@ Testovací internet
 ```
 Checks that the app has access to internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zkontroluje, že aplikace má přístup k internetu
 ```
@@ -1791,7 +1791,7 @@ Zkontroluje, že aplikace má přístup k internetu
 ```
 Test file writing
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Testovací soubor psaní
 ```
@@ -1801,7 +1801,7 @@ Testovací soubor psaní
 ```
 Checks that the app can save files on the internal SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zkontroluje, že aplikace může ukládat soubory na interní SD kartu
 ```
@@ -1811,7 +1811,7 @@ Zkontroluje, že aplikace může ukládat soubory na interní SD kartu
 ```
 GP Services (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GP služby (aplikace)
 ```
@@ -1821,7 +1821,7 @@ GP služby (aplikace)
 ```
 Open the details of the currently installed Google Play Services app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Otevřete podrobnosti o aktuálně Google Play Services app
 ```
@@ -1831,7 +1831,7 @@ Otevřete podrobnosti o aktuálně Google Play Services app
 ```
 GP Services (store)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GP Services (obchod)
 ```
@@ -1841,7 +1841,7 @@ GP Services (obchod)
 ```
 Google Play (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Google Play (app)
 ```
@@ -1851,7 +1851,7 @@ Google Play (app)
 ```
 Contact support
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kontaktujte podporu
 ```
@@ -1861,7 +1861,7 @@ Kontaktujte podporu
 ```
 Write an email to support with the details of your problem
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 email pro podporu s podrobnostmi o problému
 ```
@@ -1871,7 +1871,7 @@ email pro podporu s podrobnostmi o problému
 ```
 Device network unavailable
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Síť nedostupná zařízení
 ```
@@ -1881,7 +1881,7 @@ Síť nedostupná zařízení
 ```
 Testing&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Testování&#8230;
 ```
@@ -1891,7 +1891,7 @@ Testování&#8230;
 ```
 Network test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Test Network uspěl
 ```
@@ -1901,7 +1901,7 @@ Test Network uspěl
 ```
 Network test failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Test síti se nezdařilo
 ```
@@ -1911,7 +1911,7 @@ Test síti se nezdařilo
 ```
 Disk test failed: could not write to internal storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Test Disk selhal: nemůže zapisovat do interní paměti
 ```
@@ -1921,7 +1921,7 @@ Test Disk selhal: nemůže zapisovat do interní paměti
 ```
 Disk test failed: could not write to external storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Test Disk selhal: nemůže zapisovat do externího úložiště
 ```
@@ -1931,7 +1931,7 @@ Test Disk selhal: nemůže zapisovat do externího úložiště
 ```
 Disk test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Test Disk uspěl
 ```
@@ -1941,7 +1941,7 @@ Test Disk uspěl
 ```
 App failed to start: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 App se nepodařilo %s
 ```
@@ -1951,7 +1951,7 @@ App se nepodařilo %s
 ```
 The file does not exist
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Soubor neexistuje
 ```
@@ -1961,7 +1961,7 @@ Soubor neexistuje
 ```
 Share cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Share mrak mapa
 ```
@@ -1971,7 +1971,7 @@ Share mrak mapa
 ```
 Open the cloud map folder to view its properties and share it with other people
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Otevřete mrak mapu složku, kterou chcete zobrazit jeho vlastnosti a sdílet je s ostatními lidmi
 ```
@@ -1981,7 +1981,7 @@ Otevřete mrak mapu složku, kterou chcete zobrazit jeho vlastnosti a sdílet je
 ```
 Internal file to SD
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Interní soubor na SD
 ```
@@ -1991,7 +1991,7 @@ Interní soubor na SD
 ```
 Copy the app hidden internal files to the sdcard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zkopírujte APP skryté vnitřní soubory do sdcard
 ```
@@ -2001,7 +2001,7 @@ Zkopírujte APP skryté vnitřní soubory do sdcard
 ```
 Enter destination folder path
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zadejte cestu ke složce cílovou
 ```
@@ -2011,7 +2011,7 @@ Zadejte cestu ke složce cílovou
 ```
 Could not create folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nelze vytvořit složku
 ```
@@ -2021,7 +2021,7 @@ Nelze vytvořit složku
 ```
 Files successfully saved to: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Soubory úspěšně uložen %s
 ```
@@ -2031,7 +2031,7 @@ Soubory úspěšně uložen %s
 ```
 View history/Restore
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zobrazit historii / Obnovit
 ```
@@ -2041,7 +2041,7 @@ Zobrazit historii / Obnovit
 ```
 View history of modifications to the cloud folder and select a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zobrazit historii úprav do složky cloud a vyberte verzi obnovení
 ```
@@ -2051,7 +2051,7 @@ Zobrazit historii úprav do složky cloud a vyberte verzi obnovení
 ```
 Create map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vytvořit soubor mapy
 ```
@@ -2061,7 +2061,7 @@ Vytvořit soubor mapy
 ```
 Create a new map file locally or on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vytvořit nový detekční soubor lokálně nebo na oblaku
 ```
@@ -2071,7 +2071,7 @@ Vytvořit nový detekční soubor lokálně nebo na oblaku
 ```
 Open cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Otevřený cloud mapa
 ```
@@ -2081,7 +2081,7 @@ Otevřený cloud mapa
 ```
 Open a map file from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Otevřít soubor mapy z oblaku
 ```
@@ -2091,7 +2091,7 @@ Otevřít soubor mapy z oblaku
 ```
 Map Marker needs the permission to access your location in order to display it on the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker potřebuje oprávnění pro přístup k vaší poloze, aby se zobrazit ji na mapě
 ```
@@ -2101,7 +2101,7 @@ Map Marker potřebuje oprávnění pro přístup k vaší poloze, aby se zobrazi
 ```
 Map Marker needs the permission to access to the storage of your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker potřebuje oprávnění k přístupu k úložišti vašeho zařízení
 ```
@@ -2111,7 +2111,7 @@ Map Marker potřebuje oprávnění k přístupu k úložišti vašeho zařízen�
 ```
 Open settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Otevřít nastavení
 ```
@@ -2121,7 +2121,7 @@ Otevřít nastavení
 ```
 No map folder found on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 No mapa složka nalezen na oblaku
 ```
@@ -2131,7 +2131,7 @@ No mapa složka nalezen na oblaku
 ```
 Auto sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Automatická synchronizace
 ```
@@ -2141,7 +2141,7 @@ Automatická synchronizace
 ```
 Choose a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vyberte si verzi obnovení
 ```
@@ -2151,7 +2151,7 @@ Vyberte si verzi obnovení
 ```
 You must sync first before restoring an older version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Musíte synchronizovat nejprve před obnovením starší verze
 ```
@@ -2161,7 +2161,7 @@ Musíte synchronizovat nejprve před obnovením starší verze
 ```
 Are you sure you want to restore this version?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jste si jisti, že chcete obnovit tuto verzi?
 ```
@@ -2171,7 +2171,7 @@ Jste si jisti, že chcete obnovit tuto verzi?
 ```
 Map Marker lost permissions to write to your cloud account. Sync will always fail until this is fixed. Do you want to fix it now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker ztracené oprávnění k zápisu do vašeho cloud účet. Sync vždy nezdaří, dokud to je pevná. Chcete opravit teď?
 ```
@@ -2181,7 +2181,7 @@ Map Marker ztracené oprávnění k zápisu do vašeho cloud účet. Sync vždy 
 ```
 A sync error occurred. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Došlo k chybě synchronizace. Prosím zkuste to znovu.
 ```
@@ -2191,7 +2191,7 @@ Došlo k chybě synchronizace. Prosím zkuste to znovu.
 ```
 A sync error occurred: network error. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Došlo k chybě synchronizace: Chyba sítě. Prosím zkuste to znovu.
 ```
@@ -2201,7 +2201,7 @@ Došlo k chybě synchronizace: Chyba sítě. Prosím zkuste to znovu.
 ```
 A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Došlo k chybě synchronizace: konflikt, jiné zařízení bylo provedení synchronizace ve stejnou dobu. Prosím zkuste to znovu.
 ```
@@ -2211,7 +2211,7 @@ Došlo k chybě synchronizace: konflikt, jiné zařízení bylo provedení synch
 ```
 Changes are available from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Změny jsou k dispozici z oblaku
 ```
@@ -2221,7 +2221,7 @@ Změny jsou k dispozici z oblaku
 ```
 Changes made from another device were synced on the cloud. You can retrieve those changes by syncing.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Změny provedené z jiného zařízení byly synchronizovány na oblaku. Můžete získat tyto změny a synchronizace.
 ```
@@ -2231,7 +2231,7 @@ Změny provedené z jiného zařízení byly synchronizovány na oblaku. Můžet
 ```
 Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for details on how to restore cloud permissions.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nepodařilo se obnovit oprávnění oblak skladování. Viz "O" -&gt; "FAQ" Podrobnosti o tom, jak obnovit cloud oprávnění.
 ```
@@ -2241,7 +2241,7 @@ Nepodařilo se obnovit oprávnění oblak skladování. Viz "O" -&gt; "FAQ" Podr
 ```
 A sync error occurred: duplicate index, there are at least two files named index.json in the map cloud folder. Remove the duplicates manually and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Došlo k chybě synchronizace: duplicitní index, tam jsou nejméně dva soubory s názvem index.json ve složce mapa oblačnosti. Odstraňte duplicitní ručně a zkuste to znovu.
 ```
@@ -2251,7 +2251,7 @@ Došlo k chybě synchronizace: duplicitní index, tam jsou nejméně dva soubory
 ```
 Phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Telefonní číslo
 ```
@@ -2261,7 +2261,7 @@ Telefonní číslo
 ```
 Edit phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Upravit telefonní číslo
 ```
@@ -2271,7 +2271,7 @@ Upravit telefonní číslo
 ```
 Map Marker needs the permission to make calls on your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker vyžaduje povolení, aby se hovory na vašem zařízení
 ```
@@ -2281,7 +2281,7 @@ Map Marker vyžaduje povolení, aby se hovory na vašem zařízení
 ```
 No phone number is defined for that marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Žádné telefonní číslo je definováno pro tuto značku
 ```
@@ -2291,7 +2291,7 @@ translates to:
 ```
 Navigation options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Možnosti navigace
 ```
@@ -2301,7 +2301,7 @@ Možnosti navigace
 ```
 Open the marker location in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Otevřete umístění značkovací v této aplikaci
 ```
@@ -2311,7 +2311,7 @@ Otevřete umístění značkovací v této aplikaci
 ```
 Open the marker street view in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Otevřete pohled značka ulice v této aplikaci
 ```
@@ -2321,7 +2321,7 @@ Otevřete pohled značka ulice v této aplikaci
 ```
 Enter navigation mode in this app to get directions to the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vstup do režimu navigace v této aplikaci se dostat trasu do značky
 ```
@@ -2331,7 +2331,7 @@ Vstup do režimu navigace v této aplikaci se dostat trasu do značky
 ```
 Other options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Další možnosti
 ```
@@ -2341,7 +2341,7 @@ Další možnosti
 ```
 Share the selected marker as plain text into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Podělte vybranou značku jako prostý text do jiné aplikace
 ```
@@ -2351,7 +2351,7 @@ Podělte vybranou značku jako prostý text do jiné aplikace
 ```
 %1$d markers in %2$d folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d markery %2$d složek
 ```
@@ -2361,7 +2361,7 @@ translates to:
 ```
 A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nastala chyba synchronizace: mrak dat byl aktualizován s novější verzi aplikace. Musíte Map Marker na tomto zařízení pro synchronizaci.
 ```
@@ -2371,7 +2371,7 @@ Nastala chyba synchronizace: mrak dat byl aktualizován s novější verzi aplik
 ```
 Could not find a phone app on this device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nelze najít telefonní aplikace na tomto zařízení.
 ```
@@ -2381,7 +2381,7 @@ Nelze najít telefonní aplikace na tomto zařízení.
 ```
 Phone number options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Možnosti Telefonní číslo
 ```
@@ -2391,7 +2391,7 @@ Možnosti Telefonní číslo
 ```
 Call phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Volat telefonní číslo
 ```
@@ -2401,7 +2401,7 @@ Volat telefonní číslo
 ```
 Dial phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Volte telefonní číslo
 ```
@@ -2411,7 +2411,7 @@ Volte telefonní číslo
 ```
 Text phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Text telefonní číslo
 ```
@@ -2421,7 +2421,7 @@ Text telefonní číslo
 ```
 Default navigation action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Výchozí navigační akce
 ```
@@ -2431,7 +2431,7 @@ Výchozí navigační akce
 ```
 Default phone action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Výchozí akce telefon
 ```
@@ -2441,7 +2441,7 @@ Výchozí akce telefon
 ```
 Ask
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dotázat se
 ```
@@ -2451,7 +2451,7 @@ Dotázat se
 ```
 Premium free trial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Premium zkušební verze zdarma
 ```
@@ -2461,7 +2461,7 @@ Premium zkušební verze zdarma
 ```
 What is the premium upgrade?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Co je upgrade prémie?
 ```
@@ -2471,7 +2471,7 @@ Co je upgrade prémie?
 ```
 Premium free trial started! The trial will expire at the following date: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Premium zkušební verze zdarma začít! Zkušební vyprší na následující data: %s
 ```
@@ -2482,7 +2482,7 @@ Premium zkušební verze zdarma začít! Zkušební vyprší na následující d
 Trial expiration:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vypršení Trial: 
  %s
@@ -2493,7 +2493,7 @@ Vypršení Trial:
 ```
 Trial expired
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 zkušební lhůta uplynula
 ```
@@ -2503,7 +2503,7 @@ zkušební lhůta uplynula
 ```
 Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Synchronizace byla zrušena: budete potřebovat upgrade prémie za účelem provedení synchronizace.
 ```
@@ -2513,7 +2513,7 @@ Synchronizace byla zrušena: budete potřebovat upgrade prémie za účelem prov
 ```
 Error: trial starting in the future!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chyba: Zkušební východiskem do budoucna!
 ```
@@ -2523,7 +2523,7 @@ Chyba: Zkušební východiskem do budoucna!
 ```
 Thank you for your purchase!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Děkuji za Váš nákup!
 ```
@@ -2533,7 +2533,7 @@ Děkuji za Váš nákup!
 ```
 Browse
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Procházet
 ```
@@ -2543,7 +2543,7 @@ Procházet
 ```
 Organize
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Organizovat
 ```
@@ -2553,7 +2553,7 @@ Organizovat
 ```
 Create
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vytvořit
 ```
@@ -2563,7 +2563,7 @@ Vytvořit
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opakovat
 ```
@@ -2573,7 +2573,7 @@ Opakovat
 ```
 Search failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hledání se nezdařilo
 ```
@@ -2583,7 +2583,7 @@ Hledání se nezdařilo
 ```
 Search failed, network error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hledání se nezdařilo, chyba sítě
 ```
@@ -2593,7 +2593,7 @@ Hledání se nezdařilo, chyba sítě
 ```
 Details
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 podrobnosti
 ```
@@ -2603,7 +2603,7 @@ podrobnosti
 ```
 Sync error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 chyba synchronizace
 ```
@@ -2613,7 +2613,7 @@ chyba synchronizace
 ```
 The file already exists, do you want to overwrite it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Soubor již existuje, chcete ho přepsat?
 ```
@@ -2623,7 +2623,7 @@ Soubor již existuje, chcete ho přepsat?
 ```
 Copy markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kopírování markery do složky
 ```
@@ -2633,7 +2633,7 @@ Kopírování markery do složky
 ```
 Error loading the Google Map component. Please restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chyba při načítání Google Map komponenty. Prosím, restartujte aplikaci.
 ```
@@ -2643,7 +2643,7 @@ Chyba při načítání Google Map komponenty. Prosím, restartujte aplikaci.
 ```
 You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Uvidíte seznam svých značek zde. Momentálně nemáte žádné značky ve vybrané složce (y). Můžete přidat novou značku kliknutím na tlačítko níže.
 ```
@@ -2653,7 +2653,7 @@ Uvidíte seznam svých značek zde. Momentálně nemáte žádné značky ve vyb
 ```
 No search results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Žádné výsledky vyhledávání
 ```
@@ -2663,7 +2663,7 @@ translates to:
 ```
 Open Street Map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Open Street Map
 ```
@@ -2673,7 +2673,7 @@ Open Street Map
 ```
 Bing Road
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Road
 ```
@@ -2683,7 +2683,7 @@ Bing Road
 ```
 Bing Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial
 ```
@@ -2693,7 +2693,7 @@ Bing Aerial
 ```
 Bing Aerial With Labels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial pomocí štítků
 ```
@@ -2703,7 +2703,7 @@ Bing Aerial pomocí štítků
 ```
 ArcGIS Server
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ArcGIS Server
 ```
@@ -2713,7 +2713,7 @@ ArcGIS Server
 ```
 Offline maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Offline mapy
 ```
@@ -2723,7 +2723,7 @@ Offline mapy
 ```
 No folder selected
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Žádná složka vybraná
 ```
@@ -2733,7 +2733,7 @@ translates to:
 ```
 Storage folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Složka pro ukládání
 ```
@@ -2744,7 +2744,7 @@ Složka pro ukládání
 Test results of the offline maps folder:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Výsledky zkoušek složky offline mapy: 
  %s
@@ -2755,7 +2755,7 @@ Výsledky zkoušek složky offline mapy:
 ```
 No folder is selected for offline map files. In order to use offline maps, open the settings and select a folder for offline map files.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Žádná složka je vybrána pro off-line map-soubory. Aby bylo možné používat offline mapy, otevřete nastavení a vyberte složku pro offline map-soubory.
 ```
@@ -2765,7 +2765,7 @@ translates to:
 ```
 The selected offline map folder you selected contains no files. Make sure you add the offline map files in that folder before using offline maps, otherwise the map will be empty.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zvolená v režimu offline Mapa Vybraná složka neobsahuje žádné soubory. Ujistěte se, že přidáte map offline soubory v této složce před použitím offline mapy, jinak se mapa bude prázdná.
 ```
@@ -2775,7 +2775,7 @@ Zvolená v režimu offline Mapa Vybraná složka neobsahuje žádné soubory. Uj
 ```
 Success: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Úspěch: %s
 ```
@@ -2785,7 +2785,7 @@ translates to:
 ```
 Failed: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Selhalo: %s
 ```
@@ -2795,7 +2795,7 @@ Selhalo: %s
 ```
 How to do it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jak to udělat?
 ```
@@ -2805,7 +2805,7 @@ Jak to udělat?
 ```
 Click here to open the web page explaining how to obtain those maps.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kliknutím sem otevřete webovou stránku s vysvětlením, jak získat ty mapy.
 ```
@@ -2815,7 +2815,7 @@ Kliknutím sem otevřete webovou stránku s vysvětlením, jak získat ty mapy.
 ```
 Credits
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Credits
 ```
@@ -2825,7 +2825,7 @@ Credits
 ```
 Copyright and legal mentions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Autorská práva a právní zmiňuje
 ```
@@ -2837,7 +2837,7 @@ Legal mentions for other map data than Google Maps:
 
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Právní zmínky o dalších mapových dat než Google Maps : 
  
@@ -2849,7 +2849,7 @@ Právní zmínky o dalších mapových dat než Google Maps :
 ```
 Disable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zakázat Chyba soubor výpisu
 ```
@@ -2859,7 +2859,7 @@ Zakázat Chyba soubor výpisu
 ```
 Disable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zakázat chybami při zápisu aplikací do souboru na SD kartu
 ```
@@ -2869,7 +2869,7 @@ Zakázat chybami při zápisu aplikací do souboru na SD kartu
 ```
 Enable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aktivovat chyba souboru s výpisem
 ```
@@ -2879,7 +2879,7 @@ Aktivovat chyba souboru s výpisem
 ```
 Enable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aktivovat psaní chyby aplikací do souboru na SD kartu
 ```
@@ -2889,7 +2889,7 @@ Aktivovat psaní chyby aplikací do souboru na SD kartu
 ```
 Start background sync…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Začít pozadí synchronizaci&#8230;
 ```
@@ -2899,7 +2899,7 @@ Začít pozadí synchronizaci&#8230;
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nikdy
 ```
@@ -2909,7 +2909,7 @@ Nikdy
 ```
 When app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Když aplikace zadá pozadí
 ```
@@ -2919,7 +2919,7 @@ Když aplikace zadá pozadí
 ```
 %d seconds after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d vteřin poté, co aplikace vstupuje pozadí
 ```
@@ -2929,7 +2929,7 @@ translates to:
 ```
 %d minutes after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d minut po aplikaci vstupuje pozadí
 ```
@@ -2939,7 +2939,7 @@ translates to:
 ```
 Sync starting in %d seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sync začíná v %d sekund
 ```
@@ -2949,7 +2949,7 @@ Sync začíná v %d sekund
 ```
 You can cancel the sync at any time and your data will be synced on next attempt.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Můžete zrušit synchronizaci kdykoliv a vaše data budou synchronizovány na další pokus.
 ```
@@ -2959,7 +2959,7 @@ Můžete zrušit synchronizaci kdykoliv a vaše data budou synchronizovány na d
 ```
 Press back again to exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Stiskněte znovu pro opuštění
 ```
@@ -2969,7 +2969,7 @@ Stiskněte znovu pro opuštění
 ```
 Cannot start sync with no internet access on the device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nelze spustit synchronizaci s žádným přístupem na internet na zařízení.
 ```
@@ -2979,7 +2979,7 @@ Nelze spustit synchronizaci s žádným přístupem na internet na zařízení.
 ```
 Manage map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Správa souborů map
 ```
@@ -2989,7 +2989,7 @@ Správa souborů map
 ```
 Map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 mapa soubory
 ```
@@ -2999,7 +2999,7 @@ mapa soubory
 ```
 Delete map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Smazat detekční soubor
 ```
@@ -3009,7 +3009,7 @@ Smazat detekční soubor
 ```
 This action will delete the map file from this device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tato akce smaže mapový soubor z tohoto zařízení
 ```
@@ -3019,7 +3019,7 @@ Tato akce smaže mapový soubor z tohoto zařízení
 ```
 This action will delete the map file from your device forever. All the markers inside that file will be lost. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tato akce smaže mapový soubor ze zařízení navždy. budou ztraceny všechny značky uvnitř tohoto souboru. Jsi si jistá?
 ```
@@ -3029,7 +3029,7 @@ Tato akce smaže mapový soubor ze zařízení navždy. budou ztraceny všechny 
 ```
 This action will delete the map file from your device forever. All changes not yet synced to the cloud will be lost. The cloud folder will not be affected by this action and you will have to delete it manually. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tato akce smaže mapový soubor ze zařízení navždy. Veškeré změny, které dosud synchronizovány do cloudu budou ztraceny. Složka oblak nebude ovlivněn touto akcí a budete muset odstranit ručně. Jsi si jistá?
 ```
@@ -3039,7 +3039,7 @@ Tato akce smaže mapový soubor ze zařízení navždy. Veškeré změny, které
 ```
 Map file successfully deleted
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Soubor mapy úspěšně smazán
 ```
@@ -3049,7 +3049,7 @@ Soubor mapy úspěšně smazán
 ```
 Could not delete map file: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nelze odstranit soubor mapy: %s
 ```
@@ -3059,7 +3059,7 @@ Nelze odstranit soubor mapy: %s
 ```
 Marker saved in a non visible folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker uložen ve třetím viditelné složce
 ```
@@ -3069,7 +3069,7 @@ Marker uložen ve třetím viditelné složce
 ```
 Your changes have not been synced recently. Make sure you keep your cloud copy up to date. Do you want to sync now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vaše změny nebyly v poslední době synchronizovány. Ujistěte se, že budete mít svůj cloud kopírovat aktuální. Chcete synchronizovat teď?
 ```
@@ -3079,7 +3079,7 @@ Vaše změny nebyly v poslední době synchronizovány. Ujistěte se, že budete
 ```
 The markers of this map file are currently only saved on this device. It is recommended to save your markers on the cloud to avoid losing them. Do you want to save them to the cloud now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tyto markery této mapě souboru jsou v současné době pouze uloženy v tomto zařízení. Je doporučeno uložit své značky na oblaku, aby nedošlo k jejich ztrátě. Chcete je uložit do oblak teď?
 ```
@@ -3089,7 +3089,7 @@ Tyto markery této mapě souboru jsou v současné době pouze uloženy v tomto 
 ```
 Do you want to sync this map file? With manual you will need to sync manually every time. With automatic (recommended) you will select a destination cloud folder and the sync to the cloud will start automatically every time the app enters background.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chcete synchronizovat tento soubor mapy? S ručním budete muset synchronizovat ručně pokaždé. S automatickým (doporučeno) zvolíte cílovou složku mrakem a synchronizaci do cloudu automaticky spustí pokaždé, když aplikace vstoupí do pozadí.
 ```
@@ -3099,7 +3099,7 @@ Chcete synchronizovat tento soubor mapy? S ručním budete muset synchronizovat 
 ```
 Automatic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Automatický
 ```
@@ -3109,7 +3109,7 @@ Automatický
 ```
 Manual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Manuál
 ```
@@ -3119,7 +3119,7 @@ Manuál
 ```
 You can sync a map file on the cloud at any time by clicking on the map file in the side bar and then choosing the "Cloud sync" option.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Můžete synchronizovat mapy soubor na oblaku kdykoliv kliknutím na souboru mapy v postranním panelu a poté zvolte možnost "Cloud SYNC".
 ```
@@ -3129,7 +3129,7 @@ Můžete synchronizovat mapy soubor na oblaku kdykoliv kliknutím na souboru map
 ```
 You can sync a map file manually to the cloud at any time by clicking the "share" button in the main action bar, and then "Other options" and then "All markers and folders" and then by selecting your favorite cloud storage app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Můžete ručně synchronizovat soubor mapy do oblak kdykoliv kliknutím na tlačítko "share" v hlavním panelu akcí a poté "Další volby" a potom "Všechny značky a složky" a pak výběrem vašeho oblíbeného úložný mrak app.
 ```
@@ -3139,7 +3139,7 @@ Můžete ručně synchronizovat soubor mapy do oblak kdykoliv kliknutím na tla�
 ```
 Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Přesunutí mapy kolem umístit body, klikněte na '+' přidat bod, klepněte na tlačítko "-" pro odstranění bod a body přepínání s předchozí / další tlačítka. Nakonec klepněte na tlačítko Uložit uložte tvar.
 ```
@@ -3149,7 +3149,7 @@ Přesunutí mapy kolem umístit body, klikněte na '+' přidat bod, klepněte na
 ```
 There are not enough points to create the shape. Create more points and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Není dostatek místa k vytvoření tvaru. Vytvoření více bodů a zkuste to znovu.
 ```
@@ -3159,7 +3159,7 @@ Není dostatek místa k vytvoření tvaru. Vytvoření více bodů a zkuste to z
 ```
 Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn\'t work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by email (side panel -> about -> send email).
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nelze aktivovat upgrade prémie ze svého účtu Google. Pokud jste si zakoupili prémiový inovaci v poslední době z jiného zařízení, může být nutné počkat trochu na nákup množit, restartování zařízení to mohl udělat rychleji. Pokud to stále nefunguje, ujistěte se, že jste si zakoupili, nainstalovali aplikaci a aktivuje se stejným účtem Google. Pokud problém přetrvává, pomohu ti, co můžu, můžete mě kontaktovat pomocí email (boční panel -&gt; o -&gt; poslat email ).
 ```
@@ -3169,7 +3169,7 @@ Nelze aktivovat upgrade prémie ze svého účtu Google. Pokud jste si zakoupili
 ```
 Distance: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vzdálenosti: %s
 ```
@@ -3180,7 +3180,7 @@ Vzdálenosti: %s
 Perimeter: %1$s
 Area: %2$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Obvodové: %1$s 
  Povrch: %2$s
@@ -3191,7 +3191,7 @@ Obvodové: %1$s
 ```
 Extra information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Informace navíc
 ```
@@ -3201,7 +3201,7 @@ Informace navíc
 ```
 Insert…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vložit…
 ```
@@ -3211,7 +3211,7 @@ Vložit…
 ```
 Replace title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 nahradit titulu
 ```
@@ -3221,7 +3221,7 @@ nahradit titulu
 ```
 Replace description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 nahradit popis
 ```
@@ -3231,7 +3231,7 @@ nahradit popis
 ```
 Unit of distance
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jednotka vzdálenosti
 ```
@@ -3241,7 +3241,7 @@ Jednotka vzdálenosti
 ```
 Unit of area
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jednotka plochy
 ```
@@ -3251,7 +3251,7 @@ Jednotka plochy
 ```
 Metric (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Metric ( %s )
 ```
@@ -3261,7 +3261,7 @@ Metric ( %s )
 ```
 Imperial (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Imperial ( %s )
 ```
@@ -3271,7 +3271,7 @@ Imperial ( %s )
 ```
 Images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 snímky
 ```
@@ -3281,7 +3281,7 @@ snímky
 ```
 Select image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vybrat obrázek
 ```
@@ -3291,7 +3291,7 @@ Vybrat obrázek
 ```
 Imported images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 importované obrazy
 ```
@@ -3301,7 +3301,7 @@ importované obrazy
 ```
 Fit in a %1$sx%2$s square
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vejde do %1$s x %2$s čtvercovým
 ```
@@ -3311,7 +3311,7 @@ Vejde do %1$s x %2$s čtvercovým
 ```
 Full quality
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 plná kvalita
 ```
@@ -3321,7 +3321,7 @@ plná kvalita
 ```
 Mobile data
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mobilní data
 ```
@@ -3331,7 +3331,7 @@ Mobilní data
 ```
 Wifi
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Wifi
 ```
@@ -3341,7 +3341,7 @@ Wifi
 ```
 Disabled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 invalidní
 ```
@@ -3351,7 +3351,7 @@ invalidní
 ```
 Up to %s per sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Až do %s na synchronizaci
 ```
@@ -3361,7 +3361,7 @@ Až do %s na synchronizaci
 ```
 Unlimited
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Neomezený
 ```
@@ -3371,7 +3371,7 @@ Neomezený
 ```
 The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings. You can also click "force sync" to sync just one time without data volume limit.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Synchronizace byla přerušena, protože to bylo překročení povoleného limitu objemu dat. Chcete-li zvýšit nebo změnit limit, jít do nastavení. Také můžete kliknout na "force sync" k synchronizaci pouze jednou bez omezení objemu dat.
 ```
@@ -3381,7 +3381,7 @@ Synchronizace byla přerušena, protože to bylo překročení povoleného limit
 ```
 Force sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 sync Force
 ```
@@ -3391,7 +3391,7 @@ sync Force
 ```
 This will override the usual data limit just for this one time. Force sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 To bude mít přednost před obvyklou datový limit právě pro tento jeden čas. Force synchronizace?
 ```
@@ -3401,7 +3401,7 @@ To bude mít přednost před obvyklou datový limit právě pro tento jeden čas
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opakovat
 ```
@@ -3411,7 +3411,7 @@ Opakovat
 ```
 Add image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Přidat obrázek
 ```
@@ -3421,7 +3421,7 @@ Přidat obrázek
 ```
 From camera
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 z fotoaparátu
 ```
@@ -3431,7 +3431,7 @@ z fotoaparátu
 ```
 From gallery
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 z galerie
 ```
@@ -3441,7 +3441,7 @@ z galerie
 ```
 Importing image…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Import obrázku&#8230;
 ```
@@ -3451,7 +3451,7 @@ Import obrázku&#8230;
 ```
 Offline (Mapsforge BETA)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Offline ( Mapsforge BETA )
 ```
@@ -3461,7 +3461,7 @@ Offline ( Mapsforge BETA )
 ```
 Exporting…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Export&#8230;
 ```
@@ -3471,7 +3471,7 @@ Export&#8230;
 ```
 Export failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Export se nezdařil
 ```
@@ -3481,7 +3481,7 @@ Export se nezdařil
 ```
 Export succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Export uspěl
 ```
@@ -3491,7 +3491,7 @@ Export uspěl
 ```
 KMZ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KMZ
 ```
@@ -3501,7 +3501,7 @@ KMZ
 ```
 KML
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KML
 ```
@@ -3511,7 +3511,7 @@ KML
 ```
 Importing file…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Import souboru&#8230;
 ```
@@ -3521,7 +3521,7 @@ Import souboru&#8230;
 ```
 Show warning icon for sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zobrazit ikonu varování pro synchronizaci
 ```
@@ -3531,7 +3531,7 @@ Zobrazit ikonu varování pro synchronizaci
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Synchronizace byla přerušena, protože jeden z mediálních souborů na oblaku chyběl. Můžete ignorovat chybějící soubory kliknutím na "force sync \". Varování, ignoruje chybějící soubory budou mít za následek jejich odstranění z databáze, což znamená, že jiná zařízení stále mají lokální kopii souboru vymaže ji při synchronizaci.
 ```
@@ -3541,7 +3541,7 @@ Synchronizace byla přerušena, protože jeden z mediálních souborů na oblaku
 ```
 This will force the sync and ignore the missing cloud files. The missing links will be removed from the database. Other devices still owning a local version of the missing cloud files will delete them upon their next sync. Data consumption limits will be ignored for this special sync. Force Sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 To bude vynutit synchronizaci a ignorovat chybějící cloud soubory. Chybějící odkazy budou odstraněny z databáze. Jiná zařízení stále vlastní lokální verzi chybějících cloud soubory smaže je na své příští synchronizaci. Omezení spotřeby údaje budou ignorovány pro tuto speciální synchronizaci. Force Sync?
 ```
@@ -3551,7 +3551,7 @@ To bude vynutit synchronizaci a ignorovat chybějící cloud soubory. Chybějíc
 ```
 Marker media files ignored on import: %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker mediální soubory při importu ignorována: %1$d
 ```
@@ -3561,7 +3561,7 @@ Marker mediální soubory při importu ignorována: %1$d
 ```
 Checking premium status…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kontrola stavu prémiového&#8230;
 ```
@@ -3571,7 +3571,7 @@ Kontrola stavu prémiového&#8230;
 ```
 General
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Generál
 ```
@@ -3581,7 +3581,7 @@ Generál
 ```
 Toilets
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 toalety
 ```
@@ -3591,7 +3591,7 @@ toalety
 ```
 Food
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jídlo
 ```
@@ -3601,7 +3601,7 @@ Jídlo
 ```
 Stores
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Obchody
 ```
@@ -3611,7 +3611,7 @@ Obchody
 ```
 Land activities
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Land činnosti
 ```
@@ -3621,7 +3621,7 @@ Land činnosti
 ```
 Water activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 vodní activies
 ```
@@ -3631,7 +3631,7 @@ vodní activies
 ```
 Winter activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zimní activies
 ```
@@ -3641,7 +3641,7 @@ Zimní activies
 ```
 Transport
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Doprava
 ```
@@ -3651,7 +3651,7 @@ Doprava
 ```
 Health
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zdraví
 ```
@@ -3661,7 +3661,7 @@ Zdraví
 ```
 Entertainment
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zábava
 ```
@@ -3671,7 +3671,7 @@ Zábava
 ```
 Services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 služby
 ```
@@ -3681,7 +3681,7 @@ služby
 ```
 Business
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 obchodní
 ```
@@ -3691,7 +3691,7 @@ obchodní
 ```
 Government
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vláda
 ```
@@ -3701,7 +3701,7 @@ Vláda
 ```
 Religious
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Náboženský
 ```
@@ -3711,7 +3711,7 @@ Náboženský
 ```
 Accessibility
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Přístupnost
 ```
@@ -3721,7 +3721,7 @@ Přístupnost
 ```
 Select icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zvolit ikonu
 ```
@@ -3731,7 +3731,7 @@ Zvolit ikonu
 ```
 Icon and color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ikona a barva
 ```
@@ -3741,7 +3741,7 @@ Ikona a barva
 ```
 Generic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Obecný
 ```
@@ -3751,7 +3751,7 @@ Obecný
 ```
 Beta tester badge: thank you for being a beta tester! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Beta tester odznak: děkuji vám za to, že beta tester! Tento odznak zmizí pouze po odinstalování aplikace nebo vymazání dat aplikace. Tento odznak také vám umožní mít žádné reklamy na app.
 ```
@@ -3761,7 +3761,7 @@ Beta tester odznak: děkuji vám za to, že beta tester! Tento odznak zmizí pou
 ```
 Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Postoupení odznak: Děkuji za pozvání své přátele k aplikaci! Tento odznak zmizí pouze po odinstalování aplikace nebo vymazání dat aplikace. Tento odznak také vám umožní mít žádné reklamy na app.
 ```
@@ -3771,7 +3771,7 @@ Postoupení odznak: Děkuji za pozvání své přátele k aplikaci! Tento odznak
 ```
 Referral
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 postoupení
 ```
@@ -3781,7 +3781,7 @@ postoupení
 ```
 Removing ads: exchange referrals credits with friends to remove ads
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Odstranění reklam: Výměna odkazům úvěry s přáteli na odstranění reklam
 ```
@@ -3791,7 +3791,7 @@ Odstranění reklam: Výměna odkazům úvěry s přáteli na odstranění rekla
 ```
 Sent credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Odeslané kreditů: %s
 ```
@@ -3801,7 +3801,7 @@ Odeslané kreditů: %s
 ```
 Received credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Přijaté úvěry: %s
 ```
@@ -3811,7 +3811,7 @@ Přijaté úvěry: %s
 ```
 Contribute to translations
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Přispět k překladům
 ```
@@ -3821,7 +3821,7 @@ Přispět k překladům
 ```
 You understand English and want to help with translations? Click here
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chápete, anglicky a chcete pomoci s překlady? Klikněte zde
 ```
@@ -3831,7 +3831,7 @@ Chápete, anglicky a chcete pomoci s překlady? Klikněte zde
 ```
 The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Barva nebo ikonu cílové složky je jiný. Chcete aktualizovat značku barvy a ikona?
 ```
@@ -3841,7 +3841,7 @@ Barva nebo ikonu cílové složky je jiný. Chcete aktualizovat značku barvy a 
 ```
 Add color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 přidat barvu
 ```
@@ -3851,7 +3851,7 @@ přidat barvu
 ```
 <![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Co je prémie aktualizovat &lt;/ b&gt; &lt;br&gt; Na vrcholu odstraňování reklam, upgrade prémie odemkne následující exkluzivní prémiové rysy:? &lt;br&gt; • Sync Google Drive nebo Dropbox &lt;br&gt; • spolupracovat přes Google Drive nebo Dropbox &lt;br&gt; • historie Mapa verze a obnovení &lt;br&gt; &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -3861,7 +3861,7 @@ translates to:
 ```
 Marker created from the geo location of the QR code
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker vytvořil z geografického umístění QR kódu
 ```
@@ -3871,7 +3871,7 @@ Marker vytvořil z geografického umístění QR kódu
 ```
 Failed to read QR code as a geo location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nepodařilo se číst QR kód jako geo umístění
 ```
@@ -3881,7 +3881,7 @@ Nepodařilo se číst QR kód jako geo umístění
 ```
 The app for scanning QR codes could not be found. Do you want to install it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aplikace pro skenování QR kódy nebyl nalezen. Chcete ho nainstalovat?
 ```
@@ -3891,7 +3891,7 @@ Aplikace pro skenování QR kódy nebyl nalezen. Chcete ho nainstalovat?
 ```
 Selection action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 výběr akce
 ```
@@ -3901,7 +3901,7 @@ výběr akce
 ```
 Move to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Přesunout doleva
 ```
@@ -3911,7 +3911,7 @@ Přesunout doleva
 ```
 Move to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Přesun na pravé straně
 ```
@@ -3921,7 +3921,7 @@ Přesun na pravé straně
 ```
 Rotate to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Otočit doleva
 ```
@@ -3931,7 +3931,7 @@ Otočit doleva
 ```
 Rotate to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Otočit doprava
 ```
@@ -3941,7 +3941,7 @@ Otočit doprava
 ```
 Delete image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 smazat obrázek
 ```
@@ -3951,7 +3951,7 @@ smazat obrázek
 ```
 From local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Z lokálního souboru
 ```
@@ -3961,7 +3961,7 @@ Z lokálního souboru
 ```
 What format to you want to use to export?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jaký formát, který chcete použít k exportu?
 ```
@@ -3971,7 +3971,7 @@ Jaký formát, který chcete použít k exportu?
 ```
 The data to export contains media(images) that cannot be included with this export format. The data will be exported without the media. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Data pro export obsahuje mediální (obrazy), které nemohou být součástí tohoto exportním formátu. Data budou vyváženy bez médií. Chcete-li exportovat vše, zvolte KMZ formát exportu.
 ```
@@ -3981,7 +3981,7 @@ Data pro export obsahuje mediální (obrazy), které nemohou být součástí to
 ```
 Standard Google Earth format. Cannot contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Standardní Google Earth formát. Nesmí obsahovat média.
 ```
@@ -3991,7 +3991,7 @@ Standardní Google Earth formát. Nesmí obsahovat média.
 ```
 Zip Google Earth format. Can contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zip Google Earth formát. Může obsahovat médium.
 ```
@@ -4001,7 +4001,7 @@ Zip Google Earth formát. Může obsahovat médium.
 ```
 Standard text spreadsheet format. Cannot contain media. Cannot contain lines or polygons.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Standardní formát textu tabulky. Nesmí obsahovat média. Nesmí obsahovat linky nebo polygony.
 ```
@@ -4011,7 +4011,7 @@ Standardní formát textu tabulky. Nesmí obsahovat média. Nesmí obsahovat lin
 ```
 Marker as plain text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker jako prostý text
 ```
@@ -4021,7 +4021,7 @@ Marker jako prostý text
 ```
 Marker as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker jako soubor
 ```
@@ -4031,7 +4031,7 @@ Marker jako soubor
 ```
 Share the selected marker as a file into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sdílet vybranou značku jako soubor do jiné aplikace
 ```
@@ -4041,7 +4041,7 @@ Sdílet vybranou značku jako soubor do jiné aplikace
 ```
 Share as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Podíl jako soubor
 ```
@@ -4051,7 +4051,7 @@ Podíl jako soubor
 ```
 Export to a local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Export do lokálního souboru
 ```
@@ -4061,7 +4061,7 @@ Export do lokálního souboru
 ```
 Import or export markers as files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Import nebo export markery jako soubory
 ```
@@ -4071,7 +4071,7 @@ Import nebo export markery jako soubory
 ```
 The data to export contains complex markers (lines or polygons) that cannot be included with this export format. The data will be exported without those markers. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Data pro export obsahuje složité markerů (linie nebo polygony), které nemohou být součástí tohoto exportním formátu. Data budou vyváženy bez těchto značek. Chcete-li exportovat vše, zvolte KMZ formát exportu.
 ```
@@ -4081,7 +4081,7 @@ Data pro export obsahuje složité markerů (linie nebo polygony), které nemoho
 ```
 Add custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Přidat vlastní pole
 ```
@@ -4091,7 +4091,7 @@ Přidat vlastní pole
 ```
 Information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Informace
 ```
@@ -4101,7 +4101,7 @@ Informace
 ```
 Custom fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vlastní pole
 ```
@@ -4111,7 +4111,7 @@ Vlastní pole
 ```
 Field name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Název pole
 ```
@@ -4121,7 +4121,7 @@ Název pole
 ```
 Delete field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Odstranit pole
 ```
@@ -4131,7 +4131,7 @@ Odstranit pole
 ```
 Attributes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atributy
 ```
@@ -4141,7 +4141,7 @@ Atributy
 ```
 New custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nové vlastní pole
 ```
@@ -4151,7 +4151,7 @@ Nové vlastní pole
 ```
 Modify custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Změňte vlastní pole
 ```
@@ -4161,7 +4161,7 @@ Změňte vlastní pole
 ```
 Field enabled. For folders, if enabled, that field will be added automatically to children POIs on creation. For POIs, if enabled, that field will be visible in the details page.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pole je povoleno. U složek, pokud je povoleno, bude toto pole automaticky přidáno k dětem POI při tvorbě. Pokud jsou pro POI povoleny, toto pole bude viditelné na stránce podrobností.
 ```
@@ -4171,7 +4171,7 @@ Pole je povoleno. U složek, pokud je povoleno, bude toto pole automaticky přid
 ```
 Field info
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Informace o polích
 ```
@@ -4181,7 +4181,7 @@ Informace o polích
 ```
 Select field type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vyberte typ pole
 ```
@@ -4191,7 +4191,7 @@ Vyberte typ pole
 ```
 Boolean (True or False)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Boolean (True or False)
 ```
@@ -4201,7 +4201,7 @@ Boolean (True or False)
 ```
 Default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Výchozí hodnota
 ```
@@ -4211,7 +4211,7 @@ Výchozí hodnota
 ```
 Date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 datum
 ```
@@ -4221,7 +4221,7 @@ datum
 ```
 Email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 E-mailem
 ```
@@ -4231,7 +4231,7 @@ E-mailem
 ```
 Text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Text
 ```
@@ -4241,7 +4241,7 @@ Text
 ```
 Multiple choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Více možností
 ```
@@ -4251,7 +4251,7 @@ Více možností
 ```
 Add choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Přidat volbu
 ```
@@ -4261,7 +4261,7 @@ Přidat volbu
 ```
 Duplicates are not allowed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Duplikáty nejsou povoleny
 ```
@@ -4271,7 +4271,7 @@ Duplikáty nejsou povoleny
 ```
 Phone
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Telefon
 ```
@@ -4281,7 +4281,7 @@ Telefon
 ```
 Web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 webový odkaz
 ```
@@ -4291,7 +4291,7 @@ webový odkaz
 ```
 Choices list
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Seznam voleb
 ```
@@ -4301,7 +4301,7 @@ Seznam voleb
 ```
 Select default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vyberte výchozí hodnotu
 ```
@@ -4311,7 +4311,7 @@ Vyberte výchozí hodnotu
 ```
 Creation date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Datum vzniku
 ```
@@ -4321,7 +4321,7 @@ Datum vzniku
 ```
 POI Options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Možnosti POI
 ```
@@ -4331,7 +4331,7 @@ Možnosti POI
 ```
 Delete POI
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Odstranit POI
 ```
@@ -4341,7 +4341,7 @@ Odstranit POI
 ```
 Select value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vyberte hodnotu
 ```
@@ -4351,7 +4351,7 @@ Vyberte hodnotu
 ```
 Used by folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Používá se složkami
 ```
@@ -4361,7 +4361,7 @@ Používá se složkami
 ```
 Edit field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Upravit pole
 ```
@@ -4371,7 +4371,7 @@ Upravit pole
 ```
 Add folder field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Přidat pole složek
 ```
@@ -4381,7 +4381,7 @@ Přidat pole složek
 ```
 Reorder fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Změňte pole
 ```
@@ -4391,7 +4391,7 @@ Změňte pole
 ```
 Pick the fields you want to apply to this folder\'s POIs
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vyberte políčka, která chcete použít pro důležité POI této složky
 ```
@@ -4401,7 +4401,7 @@ Vyberte políčka, která chcete použít pro důležité POI této složky
 ```
 The destination folder has different field values. Pick the fields you want to apply to moved POIs.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cílová složka má různé hodnoty pole. Vyberte pole, která chcete použít pro přesun POI.
 ```
@@ -4411,7 +4411,7 @@ Cílová složka má různé hodnoty pole. Vyberte pole, která chcete použít 
 ```
 Update color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aktualizovat barvu
 ```
@@ -4421,7 +4421,7 @@ Aktualizovat barvu
 ```
 Update pin icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aktualizovat ikonu pinu
 ```
@@ -4431,7 +4431,7 @@ Aktualizovat ikonu pinu
 ```
 Add field if missing: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Přidat pole, pokud chybí: %s
 ```
@@ -4441,7 +4441,7 @@ Přidat pole, pokud chybí: %s
 ```
 Remove field if present: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Odstraňte pole, pokud je k dispozici: %s
 ```
@@ -4451,7 +4451,7 @@ Odstraňte pole, pokud je k dispozici: %s
 ```
 Update field name if different: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aktualizujte název pole, pokud se liší: %s
 ```
@@ -4461,7 +4461,7 @@ Aktualizujte název pole, pokud se liší: %s
 ```
 More options…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Více možností…
 ```
@@ -4471,7 +4471,7 @@ Více možností…
 ```
 Folder options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Možnosti složky
 ```
@@ -4481,7 +4481,7 @@ Možnosti složky
 ```
 Edit email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Upravit email
 ```
@@ -4491,7 +4491,7 @@ Upravit email
 ```
 Edit web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Upravit odkaz na web
 ```
@@ -4501,7 +4501,7 @@ Upravit odkaz na web
 ```
 Decimal accuracy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Desítková přesnost
 ```
@@ -4511,7 +4511,7 @@ Desítková přesnost
 ```
 Details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Podrobnosti byly zkopírovány do schránky
 ```
@@ -4521,7 +4521,7 @@ Podrobnosti byly zkopírovány do schránky
 ```
 Copy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 kopírovat
 ```
@@ -4531,7 +4531,7 @@ kopírovat
 ```
 Do you want to click here? ^‿^
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chcete zde kliknout? ^ ÷ ^
 ```
@@ -4559,7 +4559,7 @@ And finally, thank you for reading this :-)
 Regards
 Sébastien
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hej, děkuji za tvou zvědavost! 
  
@@ -4587,7 +4587,7 @@ Hej, děkuji za tvou zvědavost!
 ```
 Normal with indoor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Normální s vnitřním
 ```
@@ -4597,7 +4597,7 @@ Normální s vnitřním
 ```
 Floating marker titles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tituly s plovoucími značkami
 ```
@@ -4607,7 +4607,7 @@ Tituly s plovoucími značkami
 ```
 Maximum number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Maximální počet
 ```
@@ -4617,7 +4617,7 @@ Maximální počet
 ```
 Text size
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Velikost textu
 ```
@@ -4627,7 +4627,7 @@ Velikost textu
 ```
 Search failed => %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hledání se nezdařilo =&gt; %s
 ```
@@ -4637,7 +4637,7 @@ Hledání se nezdařilo =&gt; %s
 ```
 API key tutorial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 API key výukový program
 ```
@@ -4647,7 +4647,7 @@ API key výukový program
 ```
 Click here to see details on how to obtain an API key for your account.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kliknutím sem zobrazíte podrobnosti o tom, jak získat účet API key pro váš účet.
 ```
@@ -4657,7 +4657,7 @@ Kliknutím sem zobrazíte podrobnosti o tom, jak získat účet API key pro vá�
 ```
 Personal API key
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Osobní API key
 ```
@@ -4667,7 +4667,7 @@ Osobní API key
 ```
 None
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Žádný
 ```
@@ -4679,7 +4679,7 @@ You can search for places with "Google Places API". This search requires an inte
 
 You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Můžete vyhledat místa s "Google Places API". Toto vyhledávání vyžaduje připojení k internetu.
 
@@ -4691,7 +4691,7 @@ Nakonfigurovali jste svůj osobní klíč Google Places API: vaše vyhledáván�
 ```
 Do you enjoy the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Máte rádi aplikaci?
 ```
@@ -4701,7 +4701,7 @@ Máte rádi aplikaci?
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chtěli byste mi poslat email aby mi řekli, jak mohu zlepšit aplikaci?
 ```
@@ -4711,7 +4711,7 @@ Chtěli byste mi poslat email aby mi řekli, jak mohu zlepšit aplikaci?
 ```
 Display extra POI fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zobrazit další položky POI
 ```
@@ -4721,7 +4721,7 @@ Zobrazit další položky POI
 ```
 IGN plans
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Plány IGN
 ```
@@ -4731,7 +4731,7 @@ Plány IGN
 ```
 IGN maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mapy IGN
 ```
@@ -4741,7 +4741,7 @@ Mapy IGN
 ```
 IGN - Cadastral parcels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - katastrální pozemky
 ```
@@ -4751,7 +4751,7 @@ IGN - katastrální pozemky
 ```
 IGN - Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - letecký
 ```
@@ -4761,7 +4761,7 @@ IGN - letecký
 ```
 Type more and press enter again for refined results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zadejte více a znovu stiskněte znovu pro lepší výsledky
 ```

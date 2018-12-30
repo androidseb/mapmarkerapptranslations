@@ -1,4 +1,4 @@
-# Map Marker translations for no
+# Map Marker translations for Norwegian (no)
 
 You want to help improve this translation file? Read the [main page](https://github.com/androidseb/mapmarkerapptranslations)
 
@@ -7,7 +7,7 @@ You want to help improve this translation file? Read the [main page](https://git
 ```
 OK
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 OK
 ```
@@ -17,7 +17,7 @@ OK
 ```
 Yes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ja
 ```
@@ -27,7 +27,7 @@ Ja
 ```
 No
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ikke
 ```
@@ -37,7 +37,7 @@ Ikke
 ```
 Cancel
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Avbryt
 ```
@@ -47,7 +47,7 @@ Avbryt
 ```
 New marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ny markør
 ```
@@ -57,7 +57,7 @@ Ny markør
 ```
 Title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tittel
 ```
@@ -67,7 +67,7 @@ Tittel
 ```
 Description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Beskrivelse
 ```
@@ -77,7 +77,7 @@ Beskrivelse
 ```
 Do you really want to delete this marker?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Har du virkelig ønsker å slette denne markøren?
 ```
@@ -87,7 +87,7 @@ Har du virkelig ønsker å slette denne markøren?
 ```
 GPS coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GPS-koordinater
 ```
@@ -97,7 +97,7 @@ GPS-koordinater
 ```
 Could not copy coordinates to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kunne ikke kopiere koordinatene til utklippstavle
 ```
@@ -107,7 +107,7 @@ Kunne ikke kopiere koordinatene til utklippstavle
 ```
 Coordinates copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Koordinater kopiert til utklippstavlen
 ```
@@ -117,7 +117,7 @@ Koordinater kopiert til utklippstavlen
 ```
 Failed to access application save directory. Make sure that your device is not being accessed by a computer with the USB cable, and restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kunne ikke få tilgang til applikasjonen lagre katalogen. Sørg for at enheten ikke er i bruk av en datamaskin med USB-kabelen, og start programmet.
 ```
@@ -127,7 +127,7 @@ Kunne ikke få tilgang til applikasjonen lagre katalogen. Sørg for at enheten i
 ```
 Untitled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Untitled
 ```
@@ -137,7 +137,7 @@ Untitled
 ```
 All
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Alt
 ```
@@ -147,7 +147,7 @@ Alt
 ```
 Add folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Legg til mappe
 ```
@@ -157,7 +157,7 @@ Legg til mappe
 ```
 Modify folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Endre mappe
 ```
@@ -167,7 +167,7 @@ Endre mappe
 ```
 Are you sure you want to delete this folder? All markers associated to this folder will be deleted permanently!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Er du sikker på at du vil slette denne mappen? Alle markører knyttet til denne mappen vil bli slettet permanent!
 ```
@@ -177,7 +177,7 @@ Er du sikker på at du vil slette denne mappen? Alle markører knyttet til denne
 ```
 Failed to create new folder, it already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kunne ikke opprette ny mappe, allerede eksisterer det
 ```
@@ -187,7 +187,7 @@ Kunne ikke opprette ny mappe, allerede eksisterer det
 ```
 Failed to rename the folder, the destination name already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kunne ikke gi nytt navn til mappen allerede eksisterer destinasjonsnavnet
 ```
@@ -197,7 +197,7 @@ Kunne ikke gi nytt navn til mappen allerede eksisterer destinasjonsnavnet
 ```
 Latitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Latitude:
 ```
@@ -207,7 +207,7 @@ Latitude:
 ```
 Longitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lengdegrad:
 ```
@@ -217,7 +217,7 @@ Lengdegrad:
 ```
 Could not write file.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klarte ikke skrive fil.
 ```
@@ -227,7 +227,7 @@ Klarte ikke skrive fil.
 ```
 Import/Export
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Import / Eksport
 ```
@@ -237,7 +237,7 @@ Import / Eksport
 ```
 Import markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Import markører
 ```
@@ -247,7 +247,7 @@ Import markører
 ```
 File imported successfully
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Filen er importert
 ```
@@ -257,7 +257,7 @@ Filen er importert
 ```
 File import failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fil import mislyktes
 ```
@@ -267,7 +267,7 @@ Fil import mislyktes
 ```
 Location services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Posisjonstjenester
 ```
@@ -277,7 +277,7 @@ Posisjonstjenester
 ```
 Location services are disabled. To get your current location you must enable them.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Posisjonstjenester er deaktivert. For å få din nåværende posisjon må du aktivere dem.
 ```
@@ -287,7 +287,7 @@ Posisjonstjenester er deaktivert. For å få din nåværende posisjon må du akt
 ```
 Could not find address
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kunne ikke finne adresse
 ```
@@ -297,7 +297,7 @@ Kunne ikke finne adresse
 ```
 Searching&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Søker&#8230;
 ```
@@ -307,7 +307,7 @@ Søker&#8230;
 ```
 Search
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Søk
 ```
@@ -317,7 +317,7 @@ Søk
 ```
 Share via
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Del via
 ```
@@ -327,7 +327,7 @@ Del via
 ```
 Do you want to import the content of this file?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ønsker du å importere innholdet i denne filen?
 ```
@@ -337,7 +337,7 @@ translates to:
 ```
 Folder name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mappenavn
 ```
@@ -347,7 +347,7 @@ Mappenavn
 ```
 Save
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lagre
 ```
@@ -357,7 +357,7 @@ Lagre
 ```
 Close
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lukk
 ```
@@ -367,7 +367,7 @@ Lukk
 ```
 Are you sure you want to delete the selected markers?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Er du sikker på at du vil slette de valgte markører?
 ```
@@ -377,7 +377,7 @@ Er du sikker på at du vil slette de valgte markører?
 ```
 Move markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Flytt markører til mappe
 ```
@@ -387,7 +387,7 @@ Flytt markører til mappe
 ```
 Share
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Del
 ```
@@ -397,7 +397,7 @@ Del
 ```
 Folder:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Folder:
 ```
@@ -407,7 +407,7 @@ Folder:
 ```
 Snapshot of my markers on Map Marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Øyeblikksbilde av mine markører på Map Marker
 ```
@@ -418,7 +418,7 @@ translates to:
 This snapshot was made with the app Map Marker:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dette øyeblikksbildet ble gjort med app Map Marker : 
  %s
@@ -429,7 +429,7 @@ Dette øyeblikksbildet ble gjort med app Map Marker :
 ```
 Processing data&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bearbeiding av data&#8230;
 ```
@@ -439,7 +439,7 @@ Bearbeiding av data&#8230;
 ```
 You have unsaved modifications, do you want to save them?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Du har ulagrede endringer, vil du lagre dem?
 ```
@@ -449,7 +449,7 @@ Du har ulagrede endringer, vil du lagre dem?
 ```
 Use the long press on the map to create a new marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bruke langt trykk på kartet for å skape en ny markør
 ```
@@ -459,7 +459,7 @@ Bruke langt trykk på kartet for å skape en ny markør
 ```
 Map type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Karttype
 ```
@@ -469,7 +469,7 @@ Karttype
 ```
 Normal
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Normal
 ```
@@ -479,7 +479,7 @@ Normal
 ```
 Satellite
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Satellitt
 ```
@@ -489,7 +489,7 @@ Satellitt
 ```
 Terrain
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Terreng
 ```
@@ -499,7 +499,7 @@ Terreng
 ```
 Hybrid
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hybrid
 ```
@@ -510,7 +510,7 @@ Hybrid
 Found a problem? Have an idea of improvement?
 Send me an email :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Funnet et problem? Har du en idé om forbedring? 
  Send meg en email :-)
@@ -521,7 +521,7 @@ Funnet et problem? Har du en idé om forbedring?
 ```
 Send email&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Send email&#8230;
 ```
@@ -532,7 +532,7 @@ Send email&#8230;
 You like the app?
 Rate it 5 stars :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Du liker app? 
  rangere det fem stjerner :-)
@@ -543,7 +543,7 @@ Du liker app?
 ```
 Change folder to&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Endre mappe til&#8230;
 ```
@@ -553,7 +553,7 @@ Endre mappe til&#8230;
 ```
 Directions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Retninger
 ```
@@ -563,7 +563,7 @@ Retninger
 ```
 Acquiring location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Posisjon&#8230;
 ```
@@ -573,7 +573,7 @@ Posisjon&#8230;
 ```
 Meters
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Meter
 ```
@@ -583,7 +583,7 @@ Meter
 ```
 Km
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Km
 ```
@@ -593,7 +593,7 @@ Km
 ```
 Feet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Føtter
 ```
@@ -603,7 +603,7 @@ Føtter
 ```
 Miles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Miles
 ```
@@ -613,7 +613,7 @@ Miles
 ```
 Adjust map camera position when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Justere kartkameraposisjon når guiding til en markør plassering
 ```
@@ -623,7 +623,7 @@ Justere kartkameraposisjon når guiding til en markør plassering
 ```
 Keep screen on when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hold skjermen på når guiding til en markør plassering
 ```
@@ -633,7 +633,7 @@ Hold skjermen på når guiding til en markør plassering
 ```
 Marker details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker detaljer kopiert til utklippstavlen
 ```
@@ -643,7 +643,7 @@ Marker detaljer kopiert til utklippstavlen
 ```
 Long press to drag and move the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Langt trykk for å dra og flytte markøren
 ```
@@ -653,7 +653,7 @@ Langt trykk for å dra og flytte markøren
 ```
 Error starting internal task manager, app will now exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Feil som starter intern oppgave manager, app vil nå exit
 ```
@@ -663,7 +663,7 @@ Feil som starter intern oppgave manager, app vil nå exit
 ```
 Do not show again
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ikke vis igjen
 ```
@@ -673,7 +673,7 @@ Ikke vis igjen
 ```
 Could not create the map capture
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kunne ikke opprette kartet fangst
 ```
@@ -683,7 +683,7 @@ Kunne ikke opprette kartet fangst
 ```
 Metric (Kilometers/Meters)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Metric (Kilometer / Meters)
 ```
@@ -693,7 +693,7 @@ Metric (Kilometer / Meters)
 ```
 Imperial (Miles/Feet)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Imperial (Miles / Feet)
 ```
@@ -703,7 +703,7 @@ Imperial (Miles / Feet)
 ```
 There is a problem with Google Play Services: it needs to be installed, updated or activated. Click OK to try and solve it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Det er et problem med Google Play Services : det må være installert, oppdatert eller aktivert. Klikk OK for å prøve og løse det.
 ```
@@ -713,7 +713,7 @@ Det er et problem med Google Play Services : det må være installert, oppdatert
 ```
 Delete folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Slett mappe
 ```
@@ -723,7 +723,7 @@ Slett mappe
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hvis du liker min app du kan belønne meg ved å ta seg tid til å gi en god vurdering :-)
 ```
@@ -734,7 +734,7 @@ Hvis du liker min app du kan belønne meg ved å ta seg tid til å gi en god vur
 OK take me
 to the Play Store
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 OK ta meg 
  til Play Store
@@ -746,7 +746,7 @@ OK ta meg
 I already
 gave a rating
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jeg har allerede 
  ga en vurdering
@@ -758,7 +758,7 @@ Jeg har allerede
 Maybe later
 remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kanskje senere 
  minne meg
@@ -770,7 +770,7 @@ Kanskje senere
 Maybe later
 do not remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kanskje senere 
  ikke minne meg
@@ -781,7 +781,7 @@ Kanskje senere
 ```
 Could not find the place
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kunne ikke finne sted
 ```
@@ -791,7 +791,7 @@ Kunne ikke finne sted
 ```
 Could not find another map application
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kunne ikke finne et annet kart søknad
 ```
@@ -801,7 +801,7 @@ Kunne ikke finne et annet kart søknad
 ```
 Move the map around to place your marker where you want and click OK to place it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Flytte på kartet for å plassere markøren der du vil ha, og klikk OK for å plassere den
 ```
@@ -811,7 +811,7 @@ Flytte på kartet for å plassere markøren der du vil ha, og klikk OK for å pl
 ```
 Imported marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Importert markør
 ```
@@ -821,7 +821,7 @@ Importert markør
 ```
 Settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Innstillinger
 ```
@@ -831,7 +831,7 @@ Innstillinger
 ```
 Display zoom buttons
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Skjerm zoom-knapper
 ```
@@ -841,7 +841,7 @@ Skjerm zoom-knapper
 ```
 Decimal degrees
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Desimalgrader
 ```
@@ -851,7 +851,7 @@ Desimalgrader
 ```
 Degrees decimal minutes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Grader desimalminutter
 ```
@@ -861,7 +861,7 @@ Grader desimalminutter
 ```
 Degrees minutes seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Grader minutter sekunder
 ```
@@ -871,7 +871,7 @@ Grader minutter sekunder
 ```
 Coordinates format
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Koordinater format
 ```
@@ -881,7 +881,7 @@ Koordinater format
 ```
 GPS and wireless networks only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bare GPS og trådløse nettverk
 ```
@@ -891,7 +891,7 @@ Bare GPS og trådløse nettverk
 ```
 GPS and wireless networks or magnetic sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GPS og trådløse nettverk eller magnetisk sensor
 ```
@@ -901,7 +901,7 @@ GPS og trådløse nettverk eller magnetisk sensor
 ```
 Magnetic sensor only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Magnetisk sensor bare
 ```
@@ -911,7 +911,7 @@ Magnetisk sensor bare
 ```
 Used compass sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Brukte kompass sensor
 ```
@@ -921,7 +921,7 @@ Brukte kompass sensor
 ```
 FAQ/Help
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 FAQ / Hjelp
 ```
@@ -931,7 +931,7 @@ FAQ / Hjelp
 ```
 Folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mapper
 ```
@@ -941,7 +941,7 @@ Mapper
 ```
 Help and settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hjelp og innstillinger
 ```
@@ -951,7 +951,7 @@ Hjelp og innstillinger
 ```
 Language
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Språk
 ```
@@ -961,7 +961,7 @@ Språk
 ```
 Marker popup style
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker popup stil
 ```
@@ -971,7 +971,7 @@ Marker popup stil
 ```
 Bottom
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bottom
 ```
@@ -981,7 +981,7 @@ Bottom
 ```
 Bubble
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Boble
 ```
@@ -991,7 +991,7 @@ Boble
 ```
 Coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Koordinater
 ```
@@ -1001,7 +1001,7 @@ Koordinater
 ```
 Contextual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kontekstuelle
 ```
@@ -1011,7 +1011,7 @@ Kontekstuelle
 ```
 Always
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Alltid
 ```
@@ -1021,7 +1021,7 @@ Alltid
 ```
 Crosshair display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Crosshair skjerm
 ```
@@ -1031,7 +1031,7 @@ Crosshair skjerm
 ```
 Coordinates window
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Koordinater vindu
 ```
@@ -1041,7 +1041,7 @@ Koordinater vindu
 ```
 Lat:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lat:
 ```
@@ -1051,7 +1051,7 @@ Lat:
 ```
 Lng:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lng:
 ```
@@ -1061,7 +1061,7 @@ Lng:
 ```
 Marker instant adding mode
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker instant legge modus
 ```
@@ -1071,7 +1071,7 @@ Marker instant legge modus
 ```
 Advanced
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Avansert
 ```
@@ -1081,7 +1081,7 @@ Avansert
 ```
 Display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Utstilling
 ```
@@ -1091,7 +1091,7 @@ Utstilling
 ```
 Actions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Handlinger
 ```
@@ -1101,7 +1101,7 @@ Handlinger
 ```
 Language and units
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Språk og enheter
 ```
@@ -1111,7 +1111,7 @@ Språk og enheter
 ```
 Markers ignored on import (duplicates): %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Markører ignorert på import (duplikater): %1$d
 ```
@@ -1121,7 +1121,7 @@ Markører ignorert på import (duplikater): %1$d
 ```
 %1$d markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d markører
 ```
@@ -1131,7 +1131,7 @@ translates to:
 ```
 No auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ingen automatisk navngiving
 ```
@@ -1141,7 +1141,7 @@ Ingen automatisk navngiving
 ```
 Auto naming "number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Auto navngiving "nummer"
 ```
@@ -1151,7 +1151,7 @@ Auto navngiving "nummer"
 ```
 Auto naming "Marker number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Auto navngiving "Marker nummer"
 ```
@@ -1161,7 +1161,7 @@ Auto navngiving "Marker nummer"
 ```
 New marker auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ny markør auto navngiving
 ```
@@ -1171,7 +1171,7 @@ Ny markør auto navngiving
 ```
 Marker %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker %1$d
 ```
@@ -1181,7 +1181,7 @@ Marker %1$d
 ```
 Waiting for location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Venter på plassering&#8230;
 ```
@@ -1191,7 +1191,7 @@ Venter på plassering&#8230;
 ```
 Open the help page and see the FAQ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Åpne hjelpesiden og se FAQ
 ```
@@ -1201,7 +1201,7 @@ translates to:
 ```
 Features
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Spesifikasjoner
 ```
@@ -1211,7 +1211,7 @@ Spesifikasjoner
 ```
 View the list of upcoming features for the next app version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Se listen over kommende funksjoner for den neste app versjon
 ```
@@ -1221,7 +1221,7 @@ Se listen over kommende funksjoner for den neste app versjon
 ```
 Help &amp; Feedback
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hjelp og tilbakemelding
 ```
@@ -1231,7 +1231,7 @@ Hjelp og tilbakemelding
 ```
 About
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Omtrent
 ```
@@ -1241,7 +1241,7 @@ Omtrent
 ```
 Distance to %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Avstand til %1$s
 ```
@@ -1251,7 +1251,7 @@ Avstand til %1$s
 ```
 Snapshot
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Øyeblikksbilde
 ```
@@ -1261,7 +1261,7 @@ translates to:
 ```
 Share a snapshot of the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Del et øyeblikksbilde av kartet
 ```
@@ -1271,7 +1271,7 @@ Del et øyeblikksbilde av kartet
 ```
 All markers and folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Alle markører og mapper
 ```
@@ -1281,7 +1281,7 @@ Alle markører og mapper
 ```
 <![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; For å få riktig nord retning for kompasset, må du kalibrere du telefonen ordentlig. &lt;br&gt; Å kalibrere telefonen, bare flytte den rundt ved å tegne en 8 . Flyttingen må være bred og gjentatt ca 3 ganger for bedre effektivitet. &lt;br&gt; Du kan kalibrere du telefonen ved å gjøre dette når som helst. &lt;/ b&gt; &lt;br&gt; kalibrering har sine begrensninger, og kan ikke være nok å motvirke nærliggende forstyrrelser som: &lt;br&gt; • store metallgjenstander &lt;br&gt; • elektroniske enheter &lt;br&gt; • magneter &lt;br&gt; • innsiden av en bil / buss / tog / fly &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -1291,7 +1291,7 @@ translates to:
 ```
 Badges
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Emblemer
 ```
@@ -1301,7 +1301,7 @@ Emblemer
 ```
 Buy a donation badge
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kjøp en donasjon badge
 ```
@@ -1311,7 +1311,7 @@ Kjøp en donasjon badge
 ```
 Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Takk for ditt bidrag! Denne donasjonen badge gir deg tilgang til premium :-)
 ```
@@ -1321,7 +1321,7 @@ Takk for ditt bidrag! Denne donasjonen badge gir deg tilgang til premium :-)
 ```
 Default folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Standardmappe
 ```
@@ -1331,7 +1331,7 @@ Standardmappe
 ```
 Sync options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Synkroniseringsalternativer
 ```
@@ -1341,7 +1341,7 @@ Synkroniseringsalternativer
 ```
 Google Drive
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Google Drive
 ```
@@ -1351,7 +1351,7 @@ Google Drive
 ```
 Dropbox
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dropbox
 ```
@@ -1361,7 +1361,7 @@ Dropbox
 ```
 Configuring&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Konfigurering&#8230;
 ```
@@ -1371,7 +1371,7 @@ Konfigurering&#8230;
 ```
 Sync now
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Synkroniser nå
 ```
@@ -1381,7 +1381,7 @@ Synkroniser nå
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aldri
 ```
@@ -1391,7 +1391,7 @@ Aldri
 ```
 Syncing…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Synkroniserer&#8230;
 ```
@@ -1401,7 +1401,7 @@ Synkroniserer&#8230;
 ```
 Select folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Velg mappe
 ```
@@ -1411,7 +1411,7 @@ Velg mappe
 ```
 Load error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Load feil
 ```
@@ -1421,7 +1421,7 @@ Load feil
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Prøv på nytt
 ```
@@ -1431,7 +1431,7 @@ Prøv på nytt
 ```
 Root
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Root
 ```
@@ -1441,7 +1441,7 @@ Root
 ```
 Shared
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Felles
 ```
@@ -1451,7 +1451,7 @@ Felles
 ```
 Purchase successful!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kjøp vellykket!
 ```
@@ -1461,7 +1461,7 @@ Kjøp vellykket!
 ```
 Purchase failed: %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kjøpet %1$s
 ```
@@ -1471,7 +1471,7 @@ Kjøpet %1$s
 ```
 Premium access available! You currently have access to premium features.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Premium tilgang tilgjengelig! Du har i dag tilgang til premium funksjoner.
 ```
@@ -1481,7 +1481,7 @@ Premium tilgang tilgjengelig! Du har i dag tilgang til premium funksjoner.
 ```
 You cannot select that folder because it contains multiple files named %1$s. The sync requires the folder to contain only one file with that name.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Du kan ikke velge den mappen fordi den inneholder flere filer med %1$s Sync krever mappen skal inneholde kun én fil med det navnet.
 ```
@@ -1491,7 +1491,7 @@ Du kan ikke velge den mappen fordi den inneholder flere filer med %1$s Sync krev
 ```
 It seems sync data already exists in that folder. If you select that folder, your local data will be merged with the folder data when sync is performed. Is that what you want?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Det virker sync data finnes allerede i denne mappen. Hvis du velger denne mappen, vil dine lokale data bli slått sammen med mappen data når synkronisering utføres. Er det det du vil?
 ```
@@ -1501,7 +1501,7 @@ Det virker sync data finnes allerede i denne mappen. Hvis du velger denne mappen
 ```
 File options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fil alternativer
 ```
@@ -1511,7 +1511,7 @@ Fil alternativer
 ```
 Cloud sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cloud sync
 ```
@@ -1521,7 +1521,7 @@ Cloud sync
 ```
 Sync this map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Synkronisere dette kartet fil på skyen
 ```
@@ -1531,7 +1531,7 @@ Synkronisere dette kartet fil på skyen
 ```
 Map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kart fil
 ```
@@ -1541,7 +1541,7 @@ Kart fil
 ```
 Create local map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opprett lokalt kart
 ```
@@ -1551,7 +1551,7 @@ Opprett lokalt kart
 ```
 Create a new map file locally
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opprett et nytt kart fil lokalt
 ```
@@ -1561,7 +1561,7 @@ Opprett et nytt kart fil lokalt
 ```
 Create cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lag sky kart
 ```
@@ -1571,7 +1571,7 @@ Lag sky kart
 ```
 Create a map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lage et kart fil på skyen
 ```
@@ -1581,7 +1581,7 @@ Lage et kart fil på skyen
 ```
 Retrieves changes from the cloud and sends local changes to the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Henter endringer fra skyen og sender lokale endringer i skyen
 ```
@@ -1591,7 +1591,7 @@ Henter endringer fra skyen og sender lokale endringer i skyen
 ```
 Rename
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gi nytt navn
 ```
@@ -1601,7 +1601,7 @@ Gi nytt navn
 ```
 Rename the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Endre navn på kartet
 ```
@@ -1611,7 +1611,7 @@ Endre navn på kartet
 ```
 Enter new name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Skriv inn nytt navn
 ```
@@ -1621,7 +1621,7 @@ Skriv inn nytt navn
 ```
 Enter the new map\'s name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Skriv inn det nye kartet navn
 ```
@@ -1631,7 +1631,7 @@ Skriv inn det nye kartet navn
 ```
 %1$d folders, %2$d markers, size: %3$d KB
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d %2$d markører, %3$d KB
 ```
@@ -1641,7 +1641,7 @@ translates to:
 ```
 Create new folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opprett ny mappe
 ```
@@ -1651,7 +1651,7 @@ Opprett ny mappe
 ```
 Could not create folder: name empty
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kunne ikke opprette mappe: name tom
 ```
@@ -1661,7 +1661,7 @@ Kunne ikke opprette mappe: name tom
 ```
 Could not create folder: error occurred
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kunne ikke opprette mappe: feil oppstod
 ```
@@ -1671,7 +1671,7 @@ Kunne ikke opprette mappe: feil oppstod
 ```
 Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Takk for at du Map Marker Premium :-)
 ```
@@ -1681,7 +1681,7 @@ Takk for at du Map Marker Premium :-)
 ```
 Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Takk for at du viser din interesse ved å hevde din Map Marker :-)
 ```
@@ -1691,7 +1691,7 @@ Takk for at du viser din interesse ved å hevde din Map Marker :-)
 ```
 Premium
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Premium
 ```
@@ -1701,7 +1701,7 @@ Premium
 ```
 Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Oppgradere til premium og dra full nytte Map Marker funksjoner!
 ```
@@ -1711,7 +1711,7 @@ Oppgradere til premium og dra full nytte Map Marker funksjoner!
 ```
 Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Beklager, du må premien oppgradering for å få tilgang til denne funksjonen. Oppgradere til premium og dra full nytte Map Marker funksjoner!
 ```
@@ -1721,7 +1721,7 @@ Beklager, du må premien oppgradering for å få tilgang til denne funksjonen. O
 ```
 You have the premium upgrade for free! You can still purchase it if you want to show your support :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Du har premium oppgradering gratis! Du kan fortsatt kjøpe den hvis du ønsker å vise din :-)
 ```
@@ -1731,7 +1731,7 @@ Du har premium oppgradering gratis! Du kan fortsatt kjøpe den hvis du ønsker �
 ```
 Purchase the premium upgrade
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kjøpe premium oppgradering
 ```
@@ -1741,7 +1741,7 @@ Kjøpe premium oppgradering
 ```
 My Google account already has premium access, activate it!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Google-kontoen min har allerede premium-tilgang, aktivere den!
 ```
@@ -1751,7 +1751,7 @@ Google-kontoen min har allerede premium-tilgang, aktivere den!
 ```
 Troubleshooting
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Feilsøking
 ```
@@ -1761,7 +1761,7 @@ Feilsøking
 ```
 Open a list of actions to solve possible problems
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Åpne en liste over tiltak for å løse mulige problemer
 ```
@@ -1771,7 +1771,7 @@ translates to:
 ```
 Test internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Test internett
 ```
@@ -1781,7 +1781,7 @@ Test internett
 ```
 Checks that the app has access to internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sjekker at appen har tilgang til internett
 ```
@@ -1791,7 +1791,7 @@ Sjekker at appen har tilgang til internett
 ```
 Test file writing
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Test fil skriving
 ```
@@ -1801,7 +1801,7 @@ Test fil skriving
 ```
 Checks that the app can save files on the internal SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sjekker at appen kan lagre filer på den interne SD-kort
 ```
@@ -1811,7 +1811,7 @@ Sjekker at appen kan lagre filer på den interne SD-kort
 ```
 GP Services (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GP Services (app)
 ```
@@ -1821,7 +1821,7 @@ GP Services (app)
 ```
 Open the details of the currently installed Google Play Services app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Åpne detaljer om Google Play Services app
 ```
@@ -1831,7 +1831,7 @@ translates to:
 ```
 GP Services (store)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GP Services (butikk)
 ```
@@ -1841,7 +1841,7 @@ GP Services (butikk)
 ```
 Google Play (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Google Play (app)
 ```
@@ -1851,7 +1851,7 @@ Google Play (app)
 ```
 Contact support
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kontakt support
 ```
@@ -1861,7 +1861,7 @@ Kontakt support
 ```
 Write an email to support with the details of your problem
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Skriv email for å støtte med detaljene for ditt problem
 ```
@@ -1871,7 +1871,7 @@ Skriv email for å støtte med detaljene for ditt problem
 ```
 Device network unavailable
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Device nettverk utilgjengelig
 ```
@@ -1881,7 +1881,7 @@ Device nettverk utilgjengelig
 ```
 Testing&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Testing&#8230;
 ```
@@ -1891,7 +1891,7 @@ Testing&#8230;
 ```
 Network test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Network test lyktes
 ```
@@ -1901,7 +1901,7 @@ Network test lyktes
 ```
 Network test failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Network test mislyktes
 ```
@@ -1911,7 +1911,7 @@ Network test mislyktes
 ```
 Disk test failed: could not write to internal storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Disk test mislyktes: kan ikke skrive til intern lagring
 ```
@@ -1921,7 +1921,7 @@ Disk test mislyktes: kan ikke skrive til intern lagring
 ```
 Disk test failed: could not write to external storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Disk test mislyktes: kan ikke skrive til ekstern lagring
 ```
@@ -1931,7 +1931,7 @@ Disk test mislyktes: kan ikke skrive til ekstern lagring
 ```
 Disk test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Disk test lyktes
 ```
@@ -1941,7 +1941,7 @@ Disk test lyktes
 ```
 App failed to start: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 App startet %s
 ```
@@ -1951,7 +1951,7 @@ App startet %s
 ```
 The file does not exist
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Filen eksisterer ikke
 ```
@@ -1961,7 +1961,7 @@ Filen eksisterer ikke
 ```
 Share cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Del sky kart
 ```
@@ -1971,7 +1971,7 @@ Del sky kart
 ```
 Open the cloud map folder to view its properties and share it with other people
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Åpne skyen kartet mappe for å vise sine egenskaper og dele den med andre mennesker
 ```
@@ -1981,7 +1981,7 @@ translates to:
 ```
 Internal file to SD
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Intern filen til SD
 ```
@@ -1991,7 +1991,7 @@ Intern filen til SD
 ```
 Copy the app hidden internal files to the sdcard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kopier app skjulte interne filer til sdcard
 ```
@@ -2001,7 +2001,7 @@ Kopier app skjulte interne filer til sdcard
 ```
 Enter destination folder path
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Oppgi destinasjon mappebanen
 ```
@@ -2011,7 +2011,7 @@ Oppgi destinasjon mappebanen
 ```
 Could not create folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kunne ikke opprette mappe
 ```
@@ -2021,7 +2021,7 @@ Kunne ikke opprette mappe
 ```
 Files successfully saved to: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Filer lagret %s
 ```
@@ -2031,7 +2031,7 @@ Filer lagret %s
 ```
 View history/Restore
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vis historikk / Restore
 ```
@@ -2041,7 +2041,7 @@ Vis historikk / Restore
 ```
 View history of modifications to the cloud folder and select a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vis historikk over endringer til skyen mappen og velge en versjon for å gjenopprette
 ```
@@ -2051,7 +2051,7 @@ Vis historikk over endringer til skyen mappen og velge en versjon for å gjenopp
 ```
 Create map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lag kart fil
 ```
@@ -2061,7 +2061,7 @@ Lag kart fil
 ```
 Create a new map file locally or on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opprett et nytt kart fil lokalt eller på skyen
 ```
@@ -2071,7 +2071,7 @@ Opprett et nytt kart fil lokalt eller på skyen
 ```
 Open cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Åpne sky kart
 ```
@@ -2081,7 +2081,7 @@ translates to:
 ```
 Open a map file from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Åpne et kart fil fra skyen
 ```
@@ -2091,7 +2091,7 @@ translates to:
 ```
 Map Marker needs the permission to access your location in order to display it on the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker trenger tillatelse for å få tilgang til stedet for å vise den på kartet
 ```
@@ -2101,7 +2101,7 @@ Map Marker trenger tillatelse for å få tilgang til stedet for å vise den på 
 ```
 Map Marker needs the permission to access to the storage of your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker trenger tillatelse for å få tilgang til oppbevaring av enheten
 ```
@@ -2111,7 +2111,7 @@ Map Marker trenger tillatelse for å få tilgang til oppbevaring av enheten
 ```
 Open settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Åpne innstillinger
 ```
@@ -2121,7 +2121,7 @@ translates to:
 ```
 No map folder found on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ingen kart mappe funnet på skyen
 ```
@@ -2131,7 +2131,7 @@ Ingen kart mappe funnet på skyen
 ```
 Auto sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Automatisk synkronisering
 ```
@@ -2141,7 +2141,7 @@ Automatisk synkronisering
 ```
 Choose a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Velg en versjon for å gjenopprette
 ```
@@ -2151,7 +2151,7 @@ Velg en versjon for å gjenopprette
 ```
 You must sync first before restoring an older version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Du må synkronisere først før du gjenoppretter en eldre versjon
 ```
@@ -2161,7 +2161,7 @@ Du må synkronisere først før du gjenoppretter en eldre versjon
 ```
 Are you sure you want to restore this version?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Er du sikker på at du vil gjenopprette denne versjonen?
 ```
@@ -2171,7 +2171,7 @@ Er du sikker på at du vil gjenopprette denne versjonen?
 ```
 Map Marker lost permissions to write to your cloud account. Sync will always fail until this is fixed. Do you want to fix it now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker tapte tillatelser til å skrive til cloud-konto. Sync vil alltid mislykkes før dette er fikset. Ønsker du å fikse det nå?
 ```
@@ -2181,7 +2181,7 @@ Map Marker tapte tillatelser til å skrive til cloud-konto. Sync vil alltid misl
 ```
 A sync error occurred. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 En synkroniseringsfeil. Vær så snill, prøv på nytt.
 ```
@@ -2191,7 +2191,7 @@ En synkroniseringsfeil. Vær så snill, prøv på nytt.
 ```
 A sync error occurred: network error. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 En synkroniseringsfeil: nettverksfeil. Vær så snill, prøv på nytt.
 ```
@@ -2201,7 +2201,7 @@ En synkroniseringsfeil: nettverksfeil. Vær så snill, prøv på nytt.
 ```
 A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 En synkroniseringsfeil: konflikt, en annen enhet ble utført sync samtidig. Vær så snill, prøv på nytt.
 ```
@@ -2211,7 +2211,7 @@ En synkroniseringsfeil: konflikt, en annen enhet ble utført sync samtidig. Vær
 ```
 Changes are available from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Endringer er tilgjengelig fra nettskyen
 ```
@@ -2221,7 +2221,7 @@ Endringer er tilgjengelig fra nettskyen
 ```
 Changes made from another device were synced on the cloud. You can retrieve those changes by syncing.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Endringer som er gjort fra en annen enhet ble synkronisert på skyen. Du kan hente disse endringene ved å synkronisere.
 ```
@@ -2231,7 +2231,7 @@ Endringer som er gjort fra en annen enhet ble synkronisert på skyen. Du kan hen
 ```
 Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for details on how to restore cloud permissions.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klarte ikke å gjenopprette sky lagring tillatelser. Se "Om" -&gt; "Hjelp" for detaljer om hvordan du kan gjenopprette sky tillatelser.
 ```
@@ -2241,7 +2241,7 @@ Klarte ikke å gjenopprette sky lagring tillatelser. Se "Om" -&gt; "Hjelp" for d
 ```
 A sync error occurred: duplicate index, there are at least two files named index.json in the map cloud folder. Remove the duplicates manually and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 En synkroniseringsfeil: duplisere indeks, er det minst to filer som heter index.json i kartet skyen mappen. Fjerne duplikater manuelt og prøv igjen.
 ```
@@ -2251,7 +2251,7 @@ En synkroniseringsfeil: duplisere indeks, er det minst to filer som heter index.
 ```
 Phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Telefonnummer
 ```
@@ -2261,7 +2261,7 @@ Telefonnummer
 ```
 Edit phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Rediger telefonnummer
 ```
@@ -2271,7 +2271,7 @@ Rediger telefonnummer
 ```
 Map Marker needs the permission to make calls on your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker trenger tillatelse til å ringe på enheten
 ```
@@ -2281,7 +2281,7 @@ Map Marker trenger tillatelse til å ringe på enheten
 ```
 No phone number is defined for that marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ingen telefonnummer er definert for at markør
 ```
@@ -2291,7 +2291,7 @@ Ingen telefonnummer er definert for at markør
 ```
 Navigation options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Navigeringsalternativer
 ```
@@ -2301,7 +2301,7 @@ Navigeringsalternativer
 ```
 Open the marker location in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Åpne marker plassering i denne app
 ```
@@ -2311,7 +2311,7 @@ translates to:
 ```
 Open the marker street view in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Åpne marker street view i dette programmet
 ```
@@ -2321,7 +2321,7 @@ translates to:
 ```
 Enter navigation mode in this app to get directions to the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Skriv inn navigeringsmodus i dette programmet for å få veibeskrivelse til markør
 ```
@@ -2331,7 +2331,7 @@ Skriv inn navigeringsmodus i dette programmet for å få veibeskrivelse til mark
 ```
 Other options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Andre alternativer
 ```
@@ -2341,7 +2341,7 @@ Andre alternativer
 ```
 Share the selected marker as plain text into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Del den valgte markør som ren tekst inn i en annen app
 ```
@@ -2351,7 +2351,7 @@ Del den valgte markør som ren tekst inn i en annen app
 ```
 %1$d markers in %2$d folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d markører %2$d mapper
 ```
@@ -2361,7 +2361,7 @@ translates to:
 ```
 A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 En synkroniseringsfeil: skyen data har blitt oppdatert med en nyere versjon av programmet. Du må Map Marker på denne enheten for å synkronisere.
 ```
@@ -2371,7 +2371,7 @@ En synkroniseringsfeil: skyen data har blitt oppdatert med en nyere versjon av p
 ```
 Could not find a phone app on this device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kunne ikke finne en telefon app på denne enheten.
 ```
@@ -2381,7 +2381,7 @@ Kunne ikke finne en telefon app på denne enheten.
 ```
 Phone number options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Telefonnummer alternativer
 ```
@@ -2391,7 +2391,7 @@ Telefonnummer alternativer
 ```
 Call phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Call telefonnummer
 ```
@@ -2401,7 +2401,7 @@ Call telefonnummer
 ```
 Dial phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tast telefonnummer
 ```
@@ -2411,7 +2411,7 @@ Tast telefonnummer
 ```
 Text phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tekst telefonnummer
 ```
@@ -2421,7 +2421,7 @@ Tekst telefonnummer
 ```
 Default navigation action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Standard navigasjon handling
 ```
@@ -2431,7 +2431,7 @@ Standard navigasjon handling
 ```
 Default phone action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Standard telefon handling
 ```
@@ -2441,7 +2441,7 @@ Standard telefon handling
 ```
 Ask
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Spørre
 ```
@@ -2451,7 +2451,7 @@ Spørre
 ```
 Premium free trial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Premium gratis prøve
 ```
@@ -2461,7 +2461,7 @@ Premium gratis prøve
 ```
 What is the premium upgrade?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hva er premien oppgraderingen?
 ```
@@ -2471,7 +2471,7 @@ Hva er premien oppgraderingen?
 ```
 Premium free trial started! The trial will expire at the following date: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Premium gratis prøveversjon i gang! Rettssaken vil utløpe på følgende dato: %s
 ```
@@ -2482,7 +2482,7 @@ Premium gratis prøveversjon i gang! Rettssaken vil utløpe på følgende dato: 
 Trial expiration:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Trial utløps: 
  %s
@@ -2493,7 +2493,7 @@ Trial utløps:
 ```
 Trial expired
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 trial utløpt
 ```
@@ -2503,7 +2503,7 @@ trial utløpt
 ```
 Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sync ble kansellert: du trenger premien oppgradering for å utføre synkronisering.
 ```
@@ -2513,7 +2513,7 @@ Sync ble kansellert: du trenger premien oppgradering for å utføre synkroniseri
 ```
 Error: trial starting in the future!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Feil: rettssaken starter i fremtiden!
 ```
@@ -2523,7 +2523,7 @@ Feil: rettssaken starter i fremtiden!
 ```
 Thank you for your purchase!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Takk for kjøpet!
 ```
@@ -2533,7 +2533,7 @@ Takk for kjøpet!
 ```
 Browse
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Søk
 ```
@@ -2543,7 +2543,7 @@ Søk
 ```
 Organize
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ordne
 ```
@@ -2553,7 +2553,7 @@ Ordne
 ```
 Create
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Skape
 ```
@@ -2563,7 +2563,7 @@ Skape
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Prøv på nytt
 ```
@@ -2573,7 +2573,7 @@ Prøv på nytt
 ```
 Search failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Søk mislyktes
 ```
@@ -2583,7 +2583,7 @@ Søk mislyktes
 ```
 Search failed, network error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Søk mislyktes, nettverksfeil
 ```
@@ -2593,7 +2593,7 @@ Søk mislyktes, nettverksfeil
 ```
 Details
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 detaljer
 ```
@@ -2603,7 +2603,7 @@ detaljer
 ```
 Sync error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 synkroniseringsfeil
 ```
@@ -2613,7 +2613,7 @@ synkroniseringsfeil
 ```
 The file already exists, do you want to overwrite it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Filen finnes allerede, trenger du ønsker å overskrive den?
 ```
@@ -2623,7 +2623,7 @@ Filen finnes allerede, trenger du ønsker å overskrive den?
 ```
 Copy markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kopier markører til mappe
 ```
@@ -2633,7 +2633,7 @@ Kopier markører til mappe
 ```
 Error loading the Google Map component. Please restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Feil lasting av Google Map komponent. Vennligst start programmet.
 ```
@@ -2643,7 +2643,7 @@ Feil lasting av Google Map komponent. Vennligst start programmet.
 ```
 You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Du vil se en liste over dine markører her. Du har for øyeblikket ingen markører i den valgte mappen (e). Du kan legge til en ny markør ved å klikke på knappen nedenfor.
 ```
@@ -2653,7 +2653,7 @@ Du vil se en liste over dine markører her. Du har for øyeblikket ingen markør
 ```
 No search results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ingen søkeresultater
 ```
@@ -2663,7 +2663,7 @@ Ingen søkeresultater
 ```
 Open Street Map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Open Street Map
 ```
@@ -2673,7 +2673,7 @@ Open Street Map
 ```
 Bing Road
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Road
 ```
@@ -2683,7 +2683,7 @@ Bing Road
 ```
 Bing Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial
 ```
@@ -2693,7 +2693,7 @@ Bing Aerial
 ```
 Bing Aerial With Labels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial med etiketter
 ```
@@ -2703,7 +2703,7 @@ Bing Aerial med etiketter
 ```
 ArcGIS Server
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ArcGIS Server
 ```
@@ -2713,7 +2713,7 @@ ArcGIS Server
 ```
 Offline maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 offline kart
 ```
@@ -2723,7 +2723,7 @@ offline kart
 ```
 No folder selected
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ingen mappe valgt
 ```
@@ -2733,7 +2733,7 @@ Ingen mappe valgt
 ```
 Storage folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Storage mappe
 ```
@@ -2744,7 +2744,7 @@ Storage mappe
 Test results of the offline maps folder:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Testresultater fra offline maps mappen: 
  %s
@@ -2755,7 +2755,7 @@ Testresultater fra offline maps mappen:
 ```
 No folder is selected for offline map files. In order to use offline maps, open the settings and select a folder for offline map files.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ingen mappe er valgt for offline kartfiler. For å kunne bruke kart uten å åpne innstillingene og velge en mappe for offline kartfiler.
 ```
@@ -2765,7 +2765,7 @@ Ingen mappe er valgt for offline kartfiler. For å kunne bruke kart uten å åpn
 ```
 The selected offline map folder you selected contains no files. Make sure you add the offline map files in that folder before using offline maps, otherwise the map will be empty.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Den valgte offline kartet mappen du valgte inneholder ingen filer. Pass på at du legger de frakoblede kartfiler i denne mappen før du bruker offline maps, ellers kartet vil være tom.
 ```
@@ -2775,7 +2775,7 @@ Den valgte offline kartet mappen du valgte inneholder ingen filer. Pass på at d
 ```
 Success: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Suksess: %s
 ```
@@ -2785,7 +2785,7 @@ Suksess: %s
 ```
 Failed: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mislyktes: %s
 ```
@@ -2795,7 +2795,7 @@ Mislyktes: %s
 ```
 How to do it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hvordan gjøre det?
 ```
@@ -2805,7 +2805,7 @@ Hvordan gjøre det?
 ```
 Click here to open the web page explaining how to obtain those maps.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klikk her for å åpne web-siden som forklarer hvordan du kan få disse kartene.
 ```
@@ -2815,7 +2815,7 @@ Klikk her for å åpne web-siden som forklarer hvordan du kan få disse kartene.
 ```
 Credits
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 studiepoeng
 ```
@@ -2825,7 +2825,7 @@ studiepoeng
 ```
 Copyright and legal mentions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opphavsrett og juridisk nevner
 ```
@@ -2837,7 +2837,7 @@ Legal mentions for other map data than Google Maps:
 
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Juridisk nevner for andre kartdata enn Google Maps : 
  
@@ -2849,7 +2849,7 @@ Juridisk nevner for andre kartdata enn Google Maps :
 ```
 Disable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Deaktiver feil fil dump
 ```
@@ -2859,7 +2859,7 @@ Deaktiver feil fil dump
 ```
 Disable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Deaktiver skriver app feil til en fil på SD-kortet
 ```
@@ -2869,7 +2869,7 @@ Deaktiver skriver app feil til en fil på SD-kortet
 ```
 Enable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aktiver feil fil dump
 ```
@@ -2879,7 +2879,7 @@ Aktiver feil fil dump
 ```
 Enable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aktiver skriver app feil til en fil på SD-kortet
 ```
@@ -2889,7 +2889,7 @@ Aktiver skriver app feil til en fil på SD-kortet
 ```
 Start background sync…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Begynn bakgrunn sync&#8230;
 ```
@@ -2899,7 +2899,7 @@ Begynn bakgrunn sync&#8230;
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aldri
 ```
@@ -2909,7 +2909,7 @@ Aldri
 ```
 When app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Når programmet går bakgrunn
 ```
@@ -2919,7 +2919,7 @@ Når programmet går bakgrunn
 ```
 %d seconds after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d sekunder etter at app kommer inn bakgrunn
 ```
@@ -2929,7 +2929,7 @@ translates to:
 ```
 %d minutes after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d minutter etter at programmet kommer inn bakgrunn
 ```
@@ -2939,7 +2939,7 @@ translates to:
 ```
 Sync starting in %d seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sync starter i %d sekunder
 ```
@@ -2949,7 +2949,7 @@ Sync starter i %d sekunder
 ```
 You can cancel the sync at any time and your data will be synced on next attempt.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Du kan avbryte synkroniseringen når som helst, og dine data vil bli synkronisert på neste forsøk.
 ```
@@ -2959,7 +2959,7 @@ Du kan avbryte synkroniseringen når som helst, og dine data vil bli synkroniser
 ```
 Press back again to exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Trykk tilbake igjen for å avslutte
 ```
@@ -2969,7 +2969,7 @@ Trykk tilbake igjen for å avslutte
 ```
 Cannot start sync with no internet access on the device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kan ikke starte synkronisering uten Internett-tilgang på enheten.
 ```
@@ -2979,7 +2979,7 @@ Kan ikke starte synkronisering uten Internett-tilgang på enheten.
 ```
 Manage map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Administrer kartfiler
 ```
@@ -2989,7 +2989,7 @@ Administrer kartfiler
 ```
 Map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 kartfiler
 ```
@@ -2999,7 +2999,7 @@ kartfiler
 ```
 Delete map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Slett kart fil
 ```
@@ -3009,7 +3009,7 @@ Slett kart fil
 ```
 This action will delete the map file from this device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Denne handlingen vil slette kartet filen fra denne enheten
 ```
@@ -3019,7 +3019,7 @@ Denne handlingen vil slette kartet filen fra denne enheten
 ```
 This action will delete the map file from your device forever. All the markers inside that file will be lost. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Denne handlingen vil slette kartet fil fra enheten for alltid. Alle markører i den filen vil gå tapt. Er du sikker?
 ```
@@ -3029,7 +3029,7 @@ Denne handlingen vil slette kartet fil fra enheten for alltid. Alle markører i 
 ```
 This action will delete the map file from your device forever. All changes not yet synced to the cloud will be lost. The cloud folder will not be affected by this action and you will have to delete it manually. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Denne handlingen vil slette kartet fil fra enheten for alltid. Alle endringer ennå ikke synkronisert til skyen vil gå tapt. Skyen mappen vil ikke bli berørt av denne handlingen, og du blir nødt til å slette den manuelt. Er du sikker?
 ```
@@ -3039,7 +3039,7 @@ Denne handlingen vil slette kartet fil fra enheten for alltid. Alle endringer en
 ```
 Map file successfully deleted
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kart fil slettet
 ```
@@ -3049,7 +3049,7 @@ Kart fil slettet
 ```
 Could not delete map file: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kunne ikke slette kartet fil: %s
 ```
@@ -3059,7 +3059,7 @@ Kunne ikke slette kartet fil: %s
 ```
 Marker saved in a non visible folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker lagret i et ikke synlig mappe
 ```
@@ -3069,7 +3069,7 @@ Marker lagret i et ikke synlig mappe
 ```
 Your changes have not been synced recently. Make sure you keep your cloud copy up to date. Do you want to sync now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Endringene er ikke synkronisert nylig. Sørg for å holde din sky kopiere oppdatert. Ønsker du å synkronisere nå?
 ```
@@ -3079,7 +3079,7 @@ Endringene er ikke synkronisert nylig. Sørg for å holde din sky kopiere oppdat
 ```
 The markers of this map file are currently only saved on this device. It is recommended to save your markers on the cloud to avoid losing them. Do you want to save them to the cloud now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Markører for dette kartet filen er for tiden bare lagret på denne enheten. Det anbefales å lagre markører på skyen for å unngå å miste dem. Ønsker du å lagre dem til skyen nå?
 ```
@@ -3089,7 +3089,7 @@ Markører for dette kartet filen er for tiden bare lagret på denne enheten. Det
 ```
 Do you want to sync this map file? With manual you will need to sync manually every time. With automatic (recommended) you will select a destination cloud folder and the sync to the cloud will start automatically every time the app enters background.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ønsker du å synkronisere dette kartet fil? Med manuell må du synkronisere manuelt hver gang. Med automatisk (anbefales) vil du velge en destinasjon sky mappe og synkroniserings til skyen vil starte automatisk hver gang programmet går bakgrunnen.
 ```
@@ -3099,7 +3099,7 @@ translates to:
 ```
 Automatic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Automatisk
 ```
@@ -3109,7 +3109,7 @@ Automatisk
 ```
 Manual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Håndbok
 ```
@@ -3119,7 +3119,7 @@ Håndbok
 ```
 You can sync a map file on the cloud at any time by clicking on the map file in the side bar and then choosing the "Cloud sync" option.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Du kan synkronisere et kart fil på skyen når som helst ved å klikke på kartet filen i sidelinjen og deretter velge "Cloud sync" alternativet.
 ```
@@ -3129,7 +3129,7 @@ Du kan synkronisere et kart fil på skyen når som helst ved å klikke på karte
 ```
 You can sync a map file manually to the cloud at any time by clicking the "share" button in the main action bar, and then "Other options" and then "All markers and folders" and then by selecting your favorite cloud storage app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Du kan synkronisere et kart fil manuelt til skyen når som helst ved å klikke på "share" -knappen i hovedhandlingsfeltet, og deretter "Andre alternativer" og deretter "Alle markører og mapper" og deretter ved å velge din favoritt sky lagring app.
 ```
@@ -3139,7 +3139,7 @@ Du kan synkronisere et kart fil manuelt til skyen når som helst ved å klikke p
 ```
 Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Flytt kartet rundt for å plassere punktene, klikk "+" for å legge til et punkt, klikk "-" for å fjerne et punkt og bytte poeng med de forrige / neste knapper. Til slutt klikker du Lagre for å lagre formen.
 ```
@@ -3149,7 +3149,7 @@ Flytt kartet rundt for å plassere punktene, klikk "+" for å legge til et punkt
 ```
 There are not enough points to create the shape. Create more points and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Det er ikke nok poeng til å lage formen. Lag flere poeng og prøv igjen.
 ```
@@ -3159,7 +3159,7 @@ Det er ikke nok poeng til å lage formen. Lag flere poeng og prøv igjen.
 ```
 Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn\'t work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by email (side panel -> about -> send email).
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kunne ikke aktivere premie oppgradering fra Google-kontoen din. Hvis du har kjøpt premium oppgradering nylig fra en annen enhet, må du kanskje vente litt for kjøpet å forplante, starte enheten din kan gjøre det raskere. Hvis det fortsatt ikke fungerer, sørg for at du har kjøpt, installert appen og aktiveres med samme Google-konto. Hvis problemet vedvarer, vil jeg hjelpe deg så godt jeg kan, kan du kontakte meg via email (sidepanel -&gt; om -&gt; sende email ).
 ```
@@ -3169,7 +3169,7 @@ Kunne ikke aktivere premie oppgradering fra Google-kontoen din. Hvis du har kjø
 ```
 Distance: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Avstand: %s
 ```
@@ -3180,7 +3180,7 @@ Avstand: %s
 Perimeter: %1$s
 Area: %2$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Perimeter: %1$s 
  Område: %2$s
@@ -3191,7 +3191,7 @@ Perimeter: %1$s
 ```
 Extra information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ekstra informasjon
 ```
@@ -3201,7 +3201,7 @@ Ekstra informasjon
 ```
 Insert…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sett inn…
 ```
@@ -3211,7 +3211,7 @@ Sett inn…
 ```
 Replace title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Skift tittel
 ```
@@ -3221,7 +3221,7 @@ Skift tittel
 ```
 Replace description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bytt beskrivelse
 ```
@@ -3231,7 +3231,7 @@ Bytt beskrivelse
 ```
 Unit of distance
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Enhet for avstand
 ```
@@ -3241,7 +3241,7 @@ Enhet for avstand
 ```
 Unit of area
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Enhet for området
 ```
@@ -3251,7 +3251,7 @@ Enhet for området
 ```
 Metric (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Metric ( %s )
 ```
@@ -3261,7 +3261,7 @@ Metric ( %s )
 ```
 Imperial (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Imperial ( %s )
 ```
@@ -3271,7 +3271,7 @@ Imperial ( %s )
 ```
 Images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bilder
 ```
@@ -3281,7 +3281,7 @@ Bilder
 ```
 Select image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Velg bilde
 ```
@@ -3291,7 +3291,7 @@ Velg bilde
 ```
 Imported images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 importerte bilder
 ```
@@ -3301,7 +3301,7 @@ importerte bilder
 ```
 Fit in a %1$sx%2$s square
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Passe i en %1$s x %2$s kvadrat
 ```
@@ -3311,7 +3311,7 @@ Passe i en %1$s x %2$s kvadrat
 ```
 Full quality
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Full kvalitet
 ```
@@ -3321,7 +3321,7 @@ Full kvalitet
 ```
 Mobile data
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mobildata
 ```
@@ -3331,7 +3331,7 @@ Mobildata
 ```
 Wifi
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Wifi
 ```
@@ -3341,7 +3341,7 @@ Wifi
 ```
 Disabled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Funksjonshemmet
 ```
@@ -3351,7 +3351,7 @@ Funksjonshemmet
 ```
 Up to %s per sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opp til %s per synkronisering
 ```
@@ -3361,7 +3361,7 @@ Opp til %s per synkronisering
 ```
 Unlimited
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ubegrenset
 ```
@@ -3371,7 +3371,7 @@ ubegrenset
 ```
 The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings. You can also click "force sync" to sync just one time without data volume limit.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Synkroniseringen ble avbrutt fordi det var overstiger den tillatte datavolumgrense. For å øke eller endre grensen, gå til innstillingene. Du kan også klikke "force sync" for å synkronisere bare én gang uten data volumgrense.
 ```
@@ -3381,7 +3381,7 @@ Synkroniseringen ble avbrutt fordi det var overstiger den tillatte datavolumgren
 ```
 Force sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Force sync
 ```
@@ -3391,7 +3391,7 @@ Force sync
 ```
 This will override the usual data limit just for this one time. Force sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dette vil overstyre den vanlige datagrensen bare for denne ene gangen. Force synkronisering?
 ```
@@ -3401,7 +3401,7 @@ Dette vil overstyre den vanlige datagrensen bare for denne ene gangen. Force syn
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Prøv på nytt
 ```
@@ -3411,7 +3411,7 @@ Prøv på nytt
 ```
 Add image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Legg bilde
 ```
@@ -3421,7 +3421,7 @@ Legg bilde
 ```
 From camera
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 fra kamera
 ```
@@ -3431,7 +3431,7 @@ fra kamera
 ```
 From gallery
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 fra galleriet
 ```
@@ -3441,7 +3441,7 @@ fra galleriet
 ```
 Importing image…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Importerer bilde&#8230;
 ```
@@ -3451,7 +3451,7 @@ Importerer bilde&#8230;
 ```
 Offline (Mapsforge BETA)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Offline ( Mapsforge BETA )
 ```
@@ -3461,7 +3461,7 @@ Offline ( Mapsforge BETA )
 ```
 Exporting…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eksporterer&#8230;
 ```
@@ -3471,7 +3471,7 @@ Eksporterer&#8230;
 ```
 Export failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 eksport mislyktes
 ```
@@ -3481,7 +3481,7 @@ eksport mislyktes
 ```
 Export succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 eksport lyktes
 ```
@@ -3491,7 +3491,7 @@ eksport lyktes
 ```
 KMZ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KMZ
 ```
@@ -3501,7 +3501,7 @@ KMZ
 ```
 KML
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KML
 ```
@@ -3511,7 +3511,7 @@ KML
 ```
 Importing file…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Importerer fil&#8230;
 ```
@@ -3521,7 +3521,7 @@ Importerer fil&#8230;
 ```
 Show warning icon for sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vis advarselsikon for synkronisering
 ```
@@ -3531,7 +3531,7 @@ Vis advarselsikon for synkronisering
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Synkroniseringen ble avbrutt fordi en av mediefiler på skyen manglet. Du kan overse manglende filer ved å klikke "force sync \". Advarsel, vil ignorerer manglende filer resultere i å fjerne dem fra databasen, noe som betyr at andre enheter fortsatt å ha en lokal kopi av filen vil slette den ved synkronisering.
 ```
@@ -3541,7 +3541,7 @@ Synkroniseringen ble avbrutt fordi en av mediefiler på skyen manglet. Du kan ov
 ```
 This will force the sync and ignore the missing cloud files. The missing links will be removed from the database. Other devices still owning a local version of the missing cloud files will delete them upon their next sync. Data consumption limits will be ignored for this special sync. Force Sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dette vil tvinge sync og ignorere de manglende cloud-filer. De manglende linker vil bli fjernet fra databasen. Andre enheter fortsatt eie en lokal versjon av de manglende cloud filer sletter dem på deres neste synkronisering. Data forbruksgrenser vil bli ignorert for denne spesielle synkronisering. Force Sync?
 ```
@@ -3551,7 +3551,7 @@ Dette vil tvinge sync og ignorere de manglende cloud-filer. De manglende linker 
 ```
 Marker media files ignored on import: %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker mediefiler ignorert på import: %1$d
 ```
@@ -3561,7 +3561,7 @@ Marker mediefiler ignorert på import: %1$d
 ```
 Checking premium status…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sjekker premium status&#8230;
 ```
@@ -3571,7 +3571,7 @@ Sjekker premium status&#8230;
 ```
 General
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Generell
 ```
@@ -3581,7 +3581,7 @@ Generell
 ```
 Toilets
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 toaletter
 ```
@@ -3591,7 +3591,7 @@ toaletter
 ```
 Food
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mat
 ```
@@ -3601,7 +3601,7 @@ Mat
 ```
 Stores
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 butikker
 ```
@@ -3611,7 +3611,7 @@ butikker
 ```
 Land activities
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 land aktiviteter
 ```
@@ -3621,7 +3621,7 @@ land aktiviteter
 ```
 Water activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 vann~~POS=TRUNC activies
 ```
@@ -3631,7 +3631,7 @@ vann~~POS=TRUNC activies
 ```
 Winter activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vinter activies
 ```
@@ -3641,7 +3641,7 @@ Vinter activies
 ```
 Transport
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Transportere
 ```
@@ -3651,7 +3651,7 @@ Transportere
 ```
 Health
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Helse
 ```
@@ -3661,7 +3661,7 @@ Helse
 ```
 Entertainment
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Underholdning
 ```
@@ -3671,7 +3671,7 @@ Underholdning
 ```
 Services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 tjenester
 ```
@@ -3681,7 +3681,7 @@ tjenester
 ```
 Business
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Virksomhet
 ```
@@ -3691,7 +3691,7 @@ Virksomhet
 ```
 Government
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Regjering
 ```
@@ -3701,7 +3701,7 @@ Regjering
 ```
 Religious
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Religiøs
 ```
@@ -3711,7 +3711,7 @@ Religiøs
 ```
 Accessibility
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 tilgjengelighet
 ```
@@ -3721,7 +3721,7 @@ tilgjengelighet
 ```
 Select icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Velg ikonet
 ```
@@ -3731,7 +3731,7 @@ Velg ikonet
 ```
 Icon and color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ikon og farge
 ```
@@ -3741,7 +3741,7 @@ Ikon og farge
 ```
 Generic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Generisk
 ```
@@ -3751,7 +3751,7 @@ Generisk
 ```
 Beta tester badge: thank you for being a beta tester! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Beta tester badge: takk for å være betatester! Denne utmerkelsen vil forsvinne bare ved å avinstallere app eller fjerne programdata. Denne utmerkelsen kan du også ha noen annonser på programmet.
 ```
@@ -3761,7 +3761,7 @@ Beta tester badge: takk for å være betatester! Denne utmerkelsen vil forsvinne
 ```
 Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Referral badge: takk for å invitere vennene dine til app! Denne utmerkelsen vil forsvinne bare ved å avinstallere app eller fjerne programdata. Denne utmerkelsen kan du også ha noen annonser på programmet.
 ```
@@ -3771,7 +3771,7 @@ Referral badge: takk for å invitere vennene dine til app! Denne utmerkelsen vil
 ```
 Referral
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Referral
 ```
@@ -3781,7 +3781,7 @@ Referral
 ```
 Removing ads: exchange referrals credits with friends to remove ads
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fjerne annonser: utveksle henvisninger kreditter med venner for å fjerne annonser
 ```
@@ -3791,7 +3791,7 @@ Fjerne annonser: utveksle henvisninger kreditter med venner for å fjerne annons
 ```
 Sent credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sendte studiepoeng: %s
 ```
@@ -3801,7 +3801,7 @@ Sendte studiepoeng: %s
 ```
 Received credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mottatt kreditt: %s
 ```
@@ -3811,7 +3811,7 @@ Mottatt kreditt: %s
 ```
 Contribute to translations
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bidra til oversettelser
 ```
@@ -3821,7 +3821,7 @@ Bidra til oversettelser
 ```
 You understand English and want to help with translations? Click here
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Du forstår engelsk og ønsker å hjelpe til med oversettelser? Klikk her
 ```
@@ -3831,7 +3831,7 @@ Du forstår engelsk og ønsker å hjelpe til med oversettelser? Klikk her
 ```
 The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Målmappen er fargen eller ikonet er annerledes. Ønsker du å oppdatere markør farge og ikon?
 ```
@@ -3841,7 +3841,7 @@ Målmappen er fargen eller ikonet er annerledes. Ønsker du å oppdatere markør
 ```
 Add color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Legg til farge
 ```
@@ -3851,7 +3851,7 @@ Legg til farge
 ```
 <![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Hva er premien oppgradere &lt;/ b&gt; &lt;br&gt; På toppen av fjerne annonser, låser premien oppgraderingen følgende eksklusive premium-funksjoner:? &lt;br&gt; • Sync på Google Drive eller Dropbox &lt;br&gt; • Samarbeid via Google Drive eller Dropbox &lt;br&gt; • Kart versjoner historien og gjenopprette &lt;br&gt; &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -3861,7 +3861,7 @@ translates to:
 ```
 Marker created from the geo location of the QR code
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker opprettet fra geografisk plassering av QR-koden
 ```
@@ -3871,7 +3871,7 @@ Marker opprettet fra geografisk plassering av QR-koden
 ```
 Failed to read QR code as a geo location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kunne ikke lese QR-kode som en geografisk plassering
 ```
@@ -3881,7 +3881,7 @@ Kunne ikke lese QR-kode som en geografisk plassering
 ```
 The app for scanning QR codes could not be found. Do you want to install it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Den app for skanning QR-koder ble ikke funnet. Ønsker du å installere det?
 ```
@@ -3891,7 +3891,7 @@ Den app for skanning QR-koder ble ikke funnet. Ønsker du å installere det?
 ```
 Selection action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 utvalg handling
 ```
@@ -3901,7 +3901,7 @@ utvalg handling
 ```
 Move to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Flytt til venstre
 ```
@@ -3911,7 +3911,7 @@ Flytt til venstre
 ```
 Move to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Flytt til høyre
 ```
@@ -3921,7 +3921,7 @@ Flytt til høyre
 ```
 Rotate to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Roter mot venstre
 ```
@@ -3931,7 +3931,7 @@ Roter mot venstre
 ```
 Rotate to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Roter til høyre
 ```
@@ -3941,7 +3941,7 @@ Roter til høyre
 ```
 Delete image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Slett bilde
 ```
@@ -3951,7 +3951,7 @@ Slett bilde
 ```
 From local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fra lokal fil
 ```
@@ -3961,7 +3961,7 @@ Fra lokal fil
 ```
 What format to you want to use to export?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hva format til du vil bruke til å eksportere?
 ```
@@ -3971,7 +3971,7 @@ Hva format til du vil bruke til å eksportere?
 ```
 The data to export contains media(images) that cannot be included with this export format. The data will be exported without the media. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dataene til eksport inneholder medie (bilder) som ikke kan inkluderes med dette eksportformat. Dataene vil bli eksportert uten media. For å eksportere alt, velger KMZ eksportformat.
 ```
@@ -3981,7 +3981,7 @@ Dataene til eksport inneholder medie (bilder) som ikke kan inkluderes med dette 
 ```
 Standard Google Earth format. Cannot contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Standard Google Earth format. Kan ikke inneholde media.
 ```
@@ -3991,7 +3991,7 @@ Standard Google Earth format. Kan ikke inneholde media.
 ```
 Zip Google Earth format. Can contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zip Google Earth format. Kan inneholde media.
 ```
@@ -4001,7 +4001,7 @@ Zip Google Earth format. Kan inneholde media.
 ```
 Standard text spreadsheet format. Cannot contain media. Cannot contain lines or polygons.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Standard tekst regnearkformat. Kan ikke inneholde media. Kan ikke inneholde linjer eller polygoner.
 ```
@@ -4011,7 +4011,7 @@ Standard tekst regnearkformat. Kan ikke inneholde media. Kan ikke inneholde linj
 ```
 Marker as plain text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker som ren tekst
 ```
@@ -4021,7 +4021,7 @@ Marker som ren tekst
 ```
 Marker as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker som fil
 ```
@@ -4031,7 +4031,7 @@ Marker som fil
 ```
 Share the selected marker as a file into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Del den valgte markør som en fil til en annen app
 ```
@@ -4041,7 +4041,7 @@ Del den valgte markør som en fil til en annen app
 ```
 Share as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Del som fil
 ```
@@ -4051,7 +4051,7 @@ Del som fil
 ```
 Export to a local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eksporter til en lokal fil
 ```
@@ -4061,7 +4061,7 @@ Eksporter til en lokal fil
 ```
 Import or export markers as files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Importere eller eksportere markører som filer
 ```
@@ -4071,7 +4071,7 @@ Importere eller eksportere markører som filer
 ```
 The data to export contains complex markers (lines or polygons) that cannot be included with this export format. The data will be exported without those markers. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dataene til eksport inneholder komplekse markører (linjer eller polygoner) som ikke kan inkluderes med dette eksportformat. Dataene vil bli eksportert uten disse markørene. For å eksportere alt, velger KMZ eksportformat.
 ```
@@ -4081,7 +4081,7 @@ Dataene til eksport inneholder komplekse markører (linjer eller polygoner) som 
 ```
 Add custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Legg til egendefinert felt
 ```
@@ -4091,7 +4091,7 @@ Legg til egendefinert felt
 ```
 Information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Informasjon
 ```
@@ -4101,7 +4101,7 @@ Informasjon
 ```
 Custom fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Egendefinerte felt
 ```
@@ -4111,7 +4111,7 @@ Egendefinerte felt
 ```
 Field name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Feltnavn
 ```
@@ -4121,7 +4121,7 @@ Feltnavn
 ```
 Delete field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Slett felt
 ```
@@ -4131,7 +4131,7 @@ Slett felt
 ```
 Attributes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Attributter
 ```
@@ -4141,7 +4141,7 @@ Attributter
 ```
 New custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nytt tilpasset felt
 ```
@@ -4151,7 +4151,7 @@ Nytt tilpasset felt
 ```
 Modify custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Endre tilpasset felt
 ```
@@ -4161,7 +4161,7 @@ Endre tilpasset felt
 ```
 Field enabled. For folders, if enabled, that field will be added automatically to children POIs on creation. For POIs, if enabled, that field will be visible in the details page.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Felt aktivert. For mapper, hvis aktivert, blir dette feltet automatisk lagt til POIer for barn ved opprettelsen. For interessepunkter, hvis dette er aktivert, vil dette feltet være synlig på informasjonssiden.
 ```
@@ -4171,7 +4171,7 @@ Felt aktivert. For mapper, hvis aktivert, blir dette feltet automatisk lagt til 
 ```
 Field info
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Feltinfo
 ```
@@ -4181,7 +4181,7 @@ Feltinfo
 ```
 Select field type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Velg felttype
 ```
@@ -4191,7 +4191,7 @@ Velg felttype
 ```
 Boolean (True or False)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Boolsk (sann eller falsk)
 ```
@@ -4201,7 +4201,7 @@ Boolsk (sann eller falsk)
 ```
 Default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Standardverdi
 ```
@@ -4211,7 +4211,7 @@ Standardverdi
 ```
 Date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dato
 ```
@@ -4221,7 +4221,7 @@ Dato
 ```
 Email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 e-post
 ```
@@ -4231,7 +4231,7 @@ e-post
 ```
 Text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tekst
 ```
@@ -4241,7 +4241,7 @@ Tekst
 ```
 Multiple choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Flere valg
 ```
@@ -4251,7 +4251,7 @@ Flere valg
 ```
 Add choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Legg til valg
 ```
@@ -4261,7 +4261,7 @@ Legg til valg
 ```
 Duplicates are not allowed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Duplikater er ikke tillatt
 ```
@@ -4271,7 +4271,7 @@ Duplikater er ikke tillatt
 ```
 Phone
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 telefon
 ```
@@ -4281,7 +4281,7 @@ telefon
 ```
 Web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Weblink
 ```
@@ -4291,7 +4291,7 @@ Weblink
 ```
 Choices list
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Valgliste
 ```
@@ -4301,7 +4301,7 @@ Valgliste
 ```
 Select default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Velg standard verdi
 ```
@@ -4311,7 +4311,7 @@ Velg standard verdi
 ```
 Creation date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opprettelsesdato
 ```
@@ -4321,7 +4321,7 @@ Opprettelsesdato
 ```
 POI Options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 POI-alternativer
 ```
@@ -4331,7 +4331,7 @@ POI-alternativer
 ```
 Delete POI
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Slett POI
 ```
@@ -4341,7 +4341,7 @@ Slett POI
 ```
 Select value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Velg verdi
 ```
@@ -4351,7 +4351,7 @@ Velg verdi
 ```
 Used by folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Brukes av mapper
 ```
@@ -4361,7 +4361,7 @@ Brukes av mapper
 ```
 Edit field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Rediger felt
 ```
@@ -4371,7 +4371,7 @@ Rediger felt
 ```
 Add folder field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Legg til mappefelt
 ```
@@ -4381,7 +4381,7 @@ Legg til mappefelt
 ```
 Reorder fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Omorganiser feltene
 ```
@@ -4391,7 +4391,7 @@ Omorganiser feltene
 ```
 Pick the fields you want to apply to this folder\'s POIs
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Velg de feltene du vil bruke på denne mappens POIer
 ```
@@ -4401,7 +4401,7 @@ Velg de feltene du vil bruke på denne mappens POIer
 ```
 The destination folder has different field values. Pick the fields you want to apply to moved POIs.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Målmappen har forskjellige feltverdier. Velg feltene du vil søke på flyttede interessepunkter.
 ```
@@ -4411,7 +4411,7 @@ Målmappen har forskjellige feltverdier. Velg feltene du vil søke på flyttede 
 ```
 Update color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Oppdater farge
 ```
@@ -4421,7 +4421,7 @@ Oppdater farge
 ```
 Update pin icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Oppdater pinneikonet
 ```
@@ -4431,7 +4431,7 @@ Oppdater pinneikonet
 ```
 Add field if missing: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Legg til felt hvis du mangler: %s
 ```
@@ -4441,7 +4441,7 @@ Legg til felt hvis du mangler: %s
 ```
 Remove field if present: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fjern felt hvis det finnes: %s
 ```
@@ -4451,7 +4451,7 @@ Fjern felt hvis det finnes: %s
 ```
 Update field name if different: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Oppdater feltnavn hvis annet: %s
 ```
@@ -4461,7 +4461,7 @@ Oppdater feltnavn hvis annet: %s
 ```
 More options…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Flere valg…
 ```
@@ -4471,7 +4471,7 @@ Flere valg…
 ```
 Folder options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mappealternativer
 ```
@@ -4481,7 +4481,7 @@ Mappealternativer
 ```
 Edit email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Rediger email
 ```
@@ -4491,7 +4491,7 @@ Rediger email
 ```
 Edit web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Rediger webkobling
 ```
@@ -4501,7 +4501,7 @@ Rediger webkobling
 ```
 Decimal accuracy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Decimal nøyaktighet
 ```
@@ -4511,7 +4511,7 @@ Decimal nøyaktighet
 ```
 Details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Detaljer kopiert til utklippstavlen
 ```
@@ -4521,7 +4521,7 @@ Detaljer kopiert til utklippstavlen
 ```
 Copy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kopiere
 ```
@@ -4531,7 +4531,7 @@ Kopiere
 ```
 Do you want to click here? ^‿^
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vil du klikke her? ^ ‿ ^
 ```
@@ -4559,7 +4559,7 @@ And finally, thank you for reading this :-)
 Regards
 Sébastien
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hei, takk for nysgjerrigheten din! 
  
@@ -4587,7 +4587,7 @@ Hei, takk for nysgjerrigheten din!
 ```
 Normal with indoor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Normal med innendørs
 ```
@@ -4597,7 +4597,7 @@ Normal med innendørs
 ```
 Floating marker titles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Flytende markertitler
 ```
@@ -4607,7 +4607,7 @@ Flytende markertitler
 ```
 Maximum number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Maks antall
 ```
@@ -4617,7 +4617,7 @@ Maks antall
 ```
 Text size
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tekststørrelse
 ```
@@ -4627,7 +4627,7 @@ Tekststørrelse
 ```
 Search failed => %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Søket mislyktes =&gt; %s
 ```
@@ -4637,7 +4637,7 @@ Søket mislyktes =&gt; %s
 ```
 API key tutorial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 API key opplæring
 ```
@@ -4647,7 +4647,7 @@ API key opplæring
 ```
 Click here to see details on how to obtain an API key for your account.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klikk her for å se detaljer om hvordan du skaffer en API key for din konto.
 ```
@@ -4657,7 +4657,7 @@ Klikk her for å se detaljer om hvordan du skaffer en API key for din konto.
 ```
 Personal API key
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Personlig API key
 ```
@@ -4667,7 +4667,7 @@ Personlig API key
 ```
 None
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ingen
 ```
@@ -4679,7 +4679,7 @@ You can search for places with "Google Places API". This search requires an inte
 
 You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Du kan søke etter steder med "Google Places API". Dette søket krever en Internett-tilkobling.
 
@@ -4691,7 +4691,7 @@ Du har konfigurert din personlige Google Places API nøkkel: Søket ditt vil bru
 ```
 Do you enjoy the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Liker du appen?
 ```
@@ -4701,7 +4701,7 @@ Liker du appen?
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vil du sende meg en email for å fortelle meg hvordan jeg kunne forbedre appen?
 ```
@@ -4711,7 +4711,7 @@ Vil du sende meg en email for å fortelle meg hvordan jeg kunne forbedre appen?
 ```
 Display extra POI fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vis flere POI-felt
 ```
@@ -4721,7 +4721,7 @@ Vis flere POI-felt
 ```
 IGN plans
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN planer
 ```
@@ -4731,7 +4731,7 @@ IGN planer
 ```
 IGN maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN kart
 ```
@@ -4741,7 +4741,7 @@ IGN kart
 ```
 IGN - Cadastral parcels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - Cadastral pakker
 ```
@@ -4751,7 +4751,7 @@ IGN - Cadastral pakker
 ```
 IGN - Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - Antenn
 ```
@@ -4761,7 +4761,7 @@ IGN - Antenn
 ```
 Type more and press enter again for refined results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Skriv inn mer og trykk enter igjen for raffinerte resultater
 ```

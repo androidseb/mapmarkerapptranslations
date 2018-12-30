@@ -1,4 +1,4 @@
-# Map Marker translations for tr
+# Map Marker translations for Turkish (tr)
 
 You want to help improve this translation file? Read the [main page](https://github.com/androidseb/mapmarkerapptranslations)
 
@@ -7,7 +7,7 @@ You want to help improve this translation file? Read the [main page](https://git
 ```
 OK
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 TAMAM
 ```
@@ -17,7 +17,7 @@ TAMAM
 ```
 Yes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Evet
 ```
@@ -27,7 +27,7 @@ Evet
 ```
 No
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hayır
 ```
@@ -37,7 +37,7 @@ Hayır
 ```
 Cancel
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Iptal
 ```
@@ -47,7 +47,7 @@ Iptal
 ```
 New marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yeni işaretleyici
 ```
@@ -57,7 +57,7 @@ Yeni işaretleyici
 ```
 Title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Başlık
 ```
@@ -67,7 +67,7 @@ Başlık
 ```
 Description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tanım
 ```
@@ -77,7 +77,7 @@ Tanım
 ```
 Do you really want to delete this marker?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eğer gerçekten bu işaretleyici silmek istiyor musunuz?
 ```
@@ -87,7 +87,7 @@ Eğer gerçekten bu işaretleyici silmek istiyor musunuz?
 ```
 GPS coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GPS koordinatlarının
 ```
@@ -97,7 +97,7 @@ GPS koordinatlarının
 ```
 Could not copy coordinates to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Panoya kopyalama koordinatları Could
 ```
@@ -107,7 +107,7 @@ Panoya kopyalama koordinatları Could
 ```
 Coordinates copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Panoya kopyalanan koordinatları
 ```
@@ -117,7 +117,7 @@ Panoya kopyalanan koordinatları
 ```
 Failed to access application save directory. Make sure that your device is not being accessed by a computer with the USB cable, and restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dizininde kaydetmek uygulamaya erişmek için başarısız oldu. Cihazınız USB kablosu ile bir bilgisayar tarafından erişilen olmadığından emin olun, ve uygulamayı yeniden başlatın.
 ```
@@ -127,7 +127,7 @@ Dizininde kaydetmek uygulamaya erişmek için başarısız oldu. Cihazınız USB
 ```
 Untitled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Başlıksız
 ```
@@ -137,7 +137,7 @@ Başlıksız
 ```
 All
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tüm
 ```
@@ -147,7 +147,7 @@ Tüm
 ```
 Add folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klasör ekle
 ```
@@ -157,7 +157,7 @@ Klasör ekle
 ```
 Modify folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klasörü değiştirin
 ```
@@ -167,7 +167,7 @@ Klasörü değiştirin
 ```
 Are you sure you want to delete this folder? All markers associated to this folder will be deleted permanently!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bu klasörü silmek istediğinizden emin misiniz? Bu klasöre ilgili tüm belirteçler kalıcı olarak silinecektir!
 ```
@@ -177,7 +177,7 @@ Bu klasörü silmek istediğinizden emin misiniz? Bu klasöre ilgili tüm belirt
 ```
 Failed to create new folder, it already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yeni klasör oluşturulamadı, zaten var
 ```
@@ -187,7 +187,7 @@ Yeni klasör oluşturulamadı, zaten var
 ```
 Failed to rename the folder, the destination name already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klasörü yeniden adlandırmak için başarısız oldu, hedef adı zaten var
 ```
@@ -197,7 +197,7 @@ Klasörü yeniden adlandırmak için başarısız oldu, hedef adı zaten var
 ```
 Latitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Enlem:
 ```
@@ -207,7 +207,7 @@ Enlem:
 ```
 Longitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Boylam:
 ```
@@ -217,7 +217,7 @@ Boylam:
 ```
 Could not write file.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dosyayı yazamıyordum.
 ```
@@ -227,7 +227,7 @@ Dosyayı yazamıyordum.
 ```
 Import/Export
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 İthalat İhracat
 ```
@@ -237,7 +237,7 @@ translates to:
 ```
 Import markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 İthalat belirteçleri
 ```
@@ -247,7 +247,7 @@ translates to:
 ```
 File imported successfully
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dosya başarıyla ithal
 ```
@@ -257,7 +257,7 @@ Dosya başarıyla ithal
 ```
 File import failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dosya ithalat başarısız
 ```
@@ -267,7 +267,7 @@ Dosya ithalat başarısız
 ```
 Location services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yer hizmetleri
 ```
@@ -277,7 +277,7 @@ Yer hizmetleri
 ```
 Location services are disabled. To get your current location you must enable them.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Konum servisleri devre dışı bırakılır. Geçerli konumunuzu almak için bunları etkinleştirmeniz gerekir.
 ```
@@ -287,7 +287,7 @@ Konum servisleri devre dışı bırakılır. Geçerli konumunuzu almak için bun
 ```
 Could not find address
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Adresi bulunamadı
 ```
@@ -297,7 +297,7 @@ Adresi bulunamadı
 ```
 Searching&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Arama&#8230;
 ```
@@ -307,7 +307,7 @@ Arama&#8230;
 ```
 Search
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Arama
 ```
@@ -317,7 +317,7 @@ Arama
 ```
 Share via
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ile paylaş
 ```
@@ -327,7 +327,7 @@ Ile paylaş
 ```
 Do you want to import the content of this file?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bu dosyanın içeriğini almak istiyor musunuz?
 ```
@@ -337,7 +337,7 @@ Bu dosyanın içeriğini almak istiyor musunuz?
 ```
 Folder name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klasör adı
 ```
@@ -347,7 +347,7 @@ Klasör adı
 ```
 Save
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kaydet
 ```
@@ -357,7 +357,7 @@ Kaydet
 ```
 Close
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yakın
 ```
@@ -367,7 +367,7 @@ Yakın
 ```
 Are you sure you want to delete the selected markers?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Seçilen işaretçileri silmek istediğinizden emin misiniz?
 ```
@@ -377,7 +377,7 @@ Seçilen işaretçileri silmek istediğinizden emin misiniz?
 ```
 Move markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klasöre işaretçileri taşı
 ```
@@ -387,7 +387,7 @@ Klasöre işaretçileri taşı
 ```
 Share
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pay
 ```
@@ -397,7 +397,7 @@ Pay
 ```
 Folder:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klasör:
 ```
@@ -407,7 +407,7 @@ Klasör:
 ```
 Snapshot of my markers on Map Marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Benim belirteçlerin Anlık Map Marker
 ```
@@ -418,7 +418,7 @@ Benim belirteçlerin Anlık Map Marker
 This snapshot was made with the app Map Marker:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bu anlık uygulaması ile yapılan Map Marker : 
  %s
@@ -429,7 +429,7 @@ Bu anlık uygulaması ile yapılan Map Marker :
 ```
 Processing data&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 İşleme verileri&#8230;
 ```
@@ -439,7 +439,7 @@ translates to:
 ```
 You have unsaved modifications, do you want to save them?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sen, kaydedilmemiş değişiklikler var bunları kaydetmek ister misiniz?
 ```
@@ -449,7 +449,7 @@ Sen, kaydedilmemiş değişiklikler var bunları kaydetmek ister misiniz?
 ```
 Use the long press on the map to create a new marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yeni bir işaretleyici oluşturmak için harita üzerinde uzun basın kullanın
 ```
@@ -459,7 +459,7 @@ Yeni bir işaretleyici oluşturmak için harita üzerinde uzun basın kullanın
 ```
 Map type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Harita tipi
 ```
@@ -469,7 +469,7 @@ Harita tipi
 ```
 Normal
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Normal
 ```
@@ -479,7 +479,7 @@ Normal
 ```
 Satellite
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Uydu
 ```
@@ -489,7 +489,7 @@ Uydu
 ```
 Terrain
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Arazi
 ```
@@ -499,7 +499,7 @@ Arazi
 ```
 Hybrid
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Melez
 ```
@@ -510,7 +510,7 @@ Melez
 Found a problem? Have an idea of improvement?
 Send me an email :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bir sorun buldunuz? Iyileştirme bir fikriniz mi var? 
  bana gönder email :-)
@@ -521,7 +521,7 @@ Bir sorun buldunuz? Iyileştirme bir fikriniz mi var?
 ```
 Send email&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gönder email&#8230;
 ```
@@ -532,7 +532,7 @@ Gönder email&#8230;
 You like the app?
 Rate it 5 stars :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sen app gibi? 
  Ver 5 yıldız :-)
@@ -543,7 +543,7 @@ Sen app gibi?
 ```
 Change folder to&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klasörü değiştirin&#8230;
 ```
@@ -553,7 +553,7 @@ Klasörü değiştirin&#8230;
 ```
 Directions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yol
 ```
@@ -563,7 +563,7 @@ Yol
 ```
 Acquiring location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Konumu alınıyor&#8230;
 ```
@@ -573,7 +573,7 @@ Konumu alınıyor&#8230;
 ```
 Meters
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Metre
 ```
@@ -583,7 +583,7 @@ Metre
 ```
 Km
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Km
 ```
@@ -593,7 +593,7 @@ Km
 ```
 Feet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ayaklar
 ```
@@ -603,7 +603,7 @@ Ayaklar
 ```
 Miles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Miles
 ```
@@ -613,7 +613,7 @@ Miles
 ```
 Adjust map camera position when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bir işaretleyici konumu rehberlik, harita kamera konumunu ayarlayın
 ```
@@ -623,7 +623,7 @@ Bir işaretleyici konumu rehberlik, harita kamera konumunu ayarlayın
 ```
 Keep screen on when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bir işaretleyici konumu rehberlik yaparken ekranı tutun
 ```
@@ -633,7 +633,7 @@ Bir işaretleyici konumu rehberlik yaparken ekranı tutun
 ```
 Marker details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker ayrıntıları panoya kopyalanan
 ```
@@ -643,7 +643,7 @@ Marker ayrıntıları panoya kopyalanan
 ```
 Long press to drag and move the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Uzun basın sürüklemek ve işaretleyici hareket
 ```
@@ -653,7 +653,7 @@ Uzun basın sürüklemek ve işaretleyici hareket
 ```
 Error starting internal task manager, app will now exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Iç görev yöneticisi başlatma hatası uygulama çıkış şimdi olacak
 ```
@@ -663,7 +663,7 @@ Iç görev yöneticisi başlatma hatası uygulama çıkış şimdi olacak
 ```
 Do not show again
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tekrar gösterme
 ```
@@ -673,7 +673,7 @@ Tekrar gösterme
 ```
 Could not create the map capture
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Harita yakalama oluşturulamadı
 ```
@@ -683,7 +683,7 @@ Harita yakalama oluşturulamadı
 ```
 Metric (Kilometers/Meters)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Metrik (Kilometre / Metre)
 ```
@@ -693,7 +693,7 @@ Metrik (Kilometre / Metre)
 ```
 Imperial (Miles/Feet)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 İmparatorluk (Mil / Feet)
 ```
@@ -703,7 +703,7 @@ translates to:
 ```
 There is a problem with Google Play Services: it needs to be installed, updated or activated. Click OK to try and solve it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bir sorun var Google Play Services : o, yüklü güncellenmiş veya aktif olması gerekiyor. Deneyin ve bunu çözmek için Tamam'a tıklayın.
 ```
@@ -713,7 +713,7 @@ Bir sorun var Google Play Services : o, yüklü güncellenmiş veya aktif olmas�
 ```
 Delete folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klasörü silin
 ```
@@ -723,7 +723,7 @@ Klasörü silin
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eğer benim app gibi Eğer iyi bir derece vermek için zaman ayırdığınız beni ödüllendirmek yapabilirsiniz :-)
 ```
@@ -734,7 +734,7 @@ Eğer benim app gibi Eğer iyi bir derece vermek için zaman ayırdığınız be
 OK take me
 to the Play Store
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tamam bana almak 
  için Play Store
@@ -746,7 +746,7 @@ Tamam bana almak
 I already
 gave a rating
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ben zaten 
  bir değerlendirme verdi
@@ -758,7 +758,7 @@ Ben zaten
 Maybe later
 remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Belki daha sonra 
  hatırlat
@@ -770,7 +770,7 @@ Belki daha sonra
 Maybe later
 do not remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Belki daha sonra 
  hatırlatıyor yok
@@ -781,7 +781,7 @@ Belki daha sonra
 ```
 Could not find the place
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yer bulamadı
 ```
@@ -791,7 +791,7 @@ Yer bulamadı
 ```
 Could not find another map application
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Başka bir harita uygulaması bulamadı
 ```
@@ -801,7 +801,7 @@ Başka bir harita uygulaması bulamadı
 ```
 Move the map around to place your marker where you want and click OK to place it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eğer istediğiniz işaret yerleştirmek çevresindeki haritayı hareket ettirin ve bunu yerleştirmek için Tamam'a tıklayın
 ```
@@ -811,7 +811,7 @@ Eğer istediğiniz işaret yerleştirmek çevresindeki haritayı hareket ettirin
 ```
 Imported marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 İthal işaretleyici
 ```
@@ -821,7 +821,7 @@ translates to:
 ```
 Settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ayarlar
 ```
@@ -831,7 +831,7 @@ Ayarlar
 ```
 Display zoom buttons
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ekran yakınlaştırma düğmeleri
 ```
@@ -841,7 +841,7 @@ Ekran yakınlaştırma düğmeleri
 ```
 Decimal degrees
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ondalık derece
 ```
@@ -851,7 +851,7 @@ Ondalık derece
 ```
 Degrees decimal minutes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ondalık dakika Dereceler
 ```
@@ -861,7 +861,7 @@ Ondalık dakika Dereceler
 ```
 Degrees minutes seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dakikalar saniye Dereceler
 ```
@@ -871,7 +871,7 @@ Dakikalar saniye Dereceler
 ```
 Coordinates format
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Koordinatlar biçimi
 ```
@@ -881,7 +881,7 @@ Koordinatlar biçimi
 ```
 GPS and wireless networks only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GPS ve kablosuz ağlar sadece
 ```
@@ -891,7 +891,7 @@ GPS ve kablosuz ağlar sadece
 ```
 GPS and wireless networks or magnetic sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GPS ve kablosuz ağlar ya da manyetik sensör
 ```
@@ -901,7 +901,7 @@ GPS ve kablosuz ağlar ya da manyetik sensör
 ```
 Magnetic sensor only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Manyetik sensör sadece
 ```
@@ -911,7 +911,7 @@ Manyetik sensör sadece
 ```
 Used compass sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 İkinci pusula sensörü
 ```
@@ -921,7 +921,7 @@ translates to:
 ```
 FAQ/Help
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 SSS / Yardım
 ```
@@ -931,7 +931,7 @@ SSS / Yardım
 ```
 Folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klasörler
 ```
@@ -941,7 +941,7 @@ Klasörler
 ```
 Help and settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yardım ve ayarları
 ```
@@ -951,7 +951,7 @@ Yardım ve ayarları
 ```
 Language
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dil
 ```
@@ -961,7 +961,7 @@ Dil
 ```
 Marker popup style
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker açılan tarzı
 ```
@@ -971,7 +971,7 @@ Marker açılan tarzı
 ```
 Bottom
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Alt
 ```
@@ -981,7 +981,7 @@ Alt
 ```
 Bubble
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kabarcık
 ```
@@ -991,7 +991,7 @@ Kabarcık
 ```
 Coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Koordinatlar
 ```
@@ -1001,7 +1001,7 @@ Koordinatlar
 ```
 Contextual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 İçeriğe
 ```
@@ -1011,7 +1011,7 @@ translates to:
 ```
 Always
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Her zaman
 ```
@@ -1021,7 +1021,7 @@ Her zaman
 ```
 Crosshair display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Crosshair ekran
 ```
@@ -1031,7 +1031,7 @@ Crosshair ekran
 ```
 Coordinates window
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Koordinatlar penceresi
 ```
@@ -1041,7 +1041,7 @@ Koordinatlar penceresi
 ```
 Lat:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Enlem:
 ```
@@ -1051,7 +1051,7 @@ Enlem:
 ```
 Lng:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ing:
 ```
@@ -1061,7 +1061,7 @@ Ing:
 ```
 Marker instant adding mode
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Modunu ekleyerek Marker anlık
 ```
@@ -1071,7 +1071,7 @@ Modunu ekleyerek Marker anlık
 ```
 Advanced
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gelişmiş
 ```
@@ -1081,7 +1081,7 @@ Gelişmiş
 ```
 Display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ekran
 ```
@@ -1091,7 +1091,7 @@ Ekran
 ```
 Actions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eylemler
 ```
@@ -1101,7 +1101,7 @@ Eylemler
 ```
 Language and units
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dil ve birimler
 ```
@@ -1111,7 +1111,7 @@ Dil ve birimler
 ```
 Markers ignored on import (duplicates): %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ithalat göz ardı İşaretleyiciler (çiftleri): %1$d
 ```
@@ -1121,7 +1121,7 @@ Ithalat göz ardı İşaretleyiciler (çiftleri): %1$d
 ```
 %1$d markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d belirteçleri
 ```
@@ -1131,7 +1131,7 @@ translates to:
 ```
 No auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hiçbir otomatik adlandırma
 ```
@@ -1141,7 +1141,7 @@ Hiçbir otomatik adlandırma
 ```
 Auto naming "number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Otomatik adlandırma "sayı"
 ```
@@ -1151,7 +1151,7 @@ Otomatik adlandırma "sayı"
 ```
 Auto naming "Marker number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Otomatik adlandırma "Marker numarası"
 ```
@@ -1161,7 +1161,7 @@ Otomatik adlandırma "Marker numarası"
 ```
 New marker auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yeni işaretleyici otomatik adlandırma
 ```
@@ -1171,7 +1171,7 @@ Yeni işaretleyici otomatik adlandırma
 ```
 Marker %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker %1$d
 ```
@@ -1181,7 +1181,7 @@ Marker %1$d
 ```
 Waiting for location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Konum bekleniyor&#8230;
 ```
@@ -1191,7 +1191,7 @@ Konum bekleniyor&#8230;
 ```
 Open the help page and see the FAQ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yardım sayfasını açın ve SSS bakınız
 ```
@@ -1201,7 +1201,7 @@ Yardım sayfasını açın ve SSS bakınız
 ```
 Features
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Özellikler
 ```
@@ -1211,7 +1211,7 @@ translates to:
 ```
 View the list of upcoming features for the next app version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bir sonraki uygulama sürümü için yaklaşan özelliklerin listesini görüntüle
 ```
@@ -1221,7 +1221,7 @@ Bir sonraki uygulama sürümü için yaklaşan özelliklerin listesini görünt�
 ```
 Help &amp; Feedback
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yardım ve Geribildirim
 ```
@@ -1231,7 +1231,7 @@ Yardım ve Geribildirim
 ```
 About
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hakkında
 ```
@@ -1241,7 +1241,7 @@ Hakkında
 ```
 Distance to %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mesafe %1$s
 ```
@@ -1251,7 +1251,7 @@ Mesafe %1$s
 ```
 Snapshot
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Enstantane fotoğraf
 ```
@@ -1261,7 +1261,7 @@ Enstantane fotoğraf
 ```
 Share a snapshot of the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Haritanın bir anlık paylaşın
 ```
@@ -1271,7 +1271,7 @@ Haritanın bir anlık paylaşın
 ```
 All markers and folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tüm belirteçler ve klasörler
 ```
@@ -1281,7 +1281,7 @@ Tüm belirteçler ve klasörler
 ```
 <![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; pusula için uygun kuzey yönünü almak için, düzgün, size telefon kalibre etmek gerekiyor. Telefonunuzu kalibre etmek için &lt;br&gt; sadece 8 çizerek etrafında taşımak . hareket genişliğinde ve iyi verimlilik için yaklaşık 3 kez tekrarlandı olmalıdır. Eğer herhangi bir zamanda bu yaparak size telefon kalibre edebilirsiniz otelleri. &lt;/ b&gt; &lt;br&gt; kalibrasyon kendi sınırlamaları vardır ve yeterli olmayabilir &lt;br&gt; • büyük metal nesneler &lt;br&gt; bir araba / otobüs / tren / uçağın iç • • mıknatıslar &lt;br&gt; • elektronik cihazlar &lt;/ body&gt; &lt;/ html&gt;: gibi yakın müdahaleler karşı
 ```
@@ -1291,7 +1291,7 @@ translates to:
 ```
 Badges
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Rozetler
 ```
@@ -1301,7 +1301,7 @@ Rozetler
 ```
 Buy a donation badge
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bağış rozeti satın al
 ```
@@ -1311,7 +1311,7 @@ Bağış rozeti satın al
 ```
 Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Senin bağış için teşekkür ederiz! Eğer prim erişmenizi Bu bağış rozeti hibe :-)
 ```
@@ -1321,7 +1321,7 @@ Senin bağış için teşekkür ederiz! Eğer prim erişmenizi Bu bağış rozet
 ```
 Default folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Varsayılan klasör
 ```
@@ -1331,7 +1331,7 @@ Varsayılan klasör
 ```
 Sync options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eşitleme seçenekleri
 ```
@@ -1341,7 +1341,7 @@ Eşitleme seçenekleri
 ```
 Google Drive
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Google sürücü
 ```
@@ -1351,7 +1351,7 @@ Google sürücü
 ```
 Dropbox
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dropbox
 ```
@@ -1361,7 +1361,7 @@ Dropbox
 ```
 Configuring&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yapılandırma&#8230;
 ```
@@ -1371,7 +1371,7 @@ Yapılandırma&#8230;
 ```
 Sync now
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sync şimdi
 ```
@@ -1381,7 +1381,7 @@ Sync şimdi
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Asla
 ```
@@ -1391,7 +1391,7 @@ Asla
 ```
 Syncing…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Senkronize ediliyor&#8230;
 ```
@@ -1401,7 +1401,7 @@ Senkronize ediliyor&#8230;
 ```
 Select folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klasör seç
 ```
@@ -1411,7 +1411,7 @@ Klasör seç
 ```
 Load error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yük hatası
 ```
@@ -1421,7 +1421,7 @@ Yük hatası
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tekrar dene
 ```
@@ -1431,7 +1431,7 @@ Tekrar dene
 ```
 Root
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Temel
 ```
@@ -1441,7 +1441,7 @@ Temel
 ```
 Shared
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Paylaşılan
 ```
@@ -1451,7 +1451,7 @@ Paylaşılan
 ```
 Purchase successful!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Başarılı Satınalma!
 ```
@@ -1461,7 +1461,7 @@ Başarılı Satınalma!
 ```
 Purchase failed: %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Satın alma başarısız %1$s
 ```
@@ -1471,7 +1471,7 @@ Satın alma başarısız %1$s
 ```
 Premium access available! You currently have access to premium features.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Premium erişimi mevcuttur! Şu anda prim özelliklere erişimi var.
 ```
@@ -1481,7 +1481,7 @@ Premium erişimi mevcuttur! Şu anda prim özelliklere erişimi var.
 ```
 You cannot select that folder because it contains multiple files named %1$s. The sync requires the folder to contain only one file with that name.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Adlandırılmış birden fazla dosya içerdiğinden bu klasörü %1$s Senkronizasyon o isimde yalnızca bir dosya içeren klasörü gerektirir.
 ```
@@ -1491,7 +1491,7 @@ Adlandırılmış birden fazla dosya içerdiğinden bu klasörü %1$s Senkroniza
 ```
 It seems sync data already exists in that folder. If you select that folder, your local data will be merged with the folder data when sync is performed. Is that what you want?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bu senkron veri zaten klasöründe bulunmaktadır görünüyor. O klasörü seçerseniz eşitleme gerçekleştirildiğinde, yerel veri klasörü verileri ile birleştirilecektir. İstediğin bu mu?
 ```
@@ -1501,7 +1501,7 @@ Bu senkron veri zaten klasöründe bulunmaktadır görünüyor. O klasörü seç
 ```
 File options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dosya seçenekleri
 ```
@@ -1511,7 +1511,7 @@ Dosya seçenekleri
 ```
 Cloud sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bulut senkronizasyon
 ```
@@ -1521,7 +1521,7 @@ Bulut senkronizasyon
 ```
 Sync this map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bulut üzerinde bu harita dosyasını Sync
 ```
@@ -1531,7 +1531,7 @@ Bulut üzerinde bu harita dosyasını Sync
 ```
 Map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Harita dosyası
 ```
@@ -1541,7 +1541,7 @@ Harita dosyası
 ```
 Create local map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yerel harita oluşturun
 ```
@@ -1551,7 +1551,7 @@ Yerel harita oluşturun
 ```
 Create a new map file locally
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yerel yeni bir harita dosyası oluşturun
 ```
@@ -1561,7 +1561,7 @@ Yerel yeni bir harita dosyası oluşturun
 ```
 Create cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bulut haritası oluşturma
 ```
@@ -1571,7 +1571,7 @@ Bulut haritası oluşturma
 ```
 Create a map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bulut üzerinde bir harita dosyası oluşturun
 ```
@@ -1581,7 +1581,7 @@ Bulut üzerinde bir harita dosyası oluşturun
 ```
 Retrieves changes from the cloud and sends local changes to the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bulut değişiklikleri alır ve bulut yerel değişiklikleri gönderir
 ```
@@ -1591,7 +1591,7 @@ Bulut değişiklikleri alır ve bulut yerel değişiklikleri gönderir
 ```
 Rename
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Rename
 ```
@@ -1601,7 +1601,7 @@ Rename
 ```
 Rename the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Haritayı yeniden adlandırın
 ```
@@ -1611,7 +1611,7 @@ Haritayı yeniden adlandırın
 ```
 Enter new name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yeni bir ad girin
 ```
@@ -1621,7 +1621,7 @@ Yeni bir ad girin
 ```
 Enter the new map\'s name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yeni haritanın adını girin
 ```
@@ -1631,7 +1631,7 @@ Yeni haritanın adını girin
 ```
 %1$d folders, %2$d markers, size: %3$d KB
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d %2$d belirteçleri, %3$d KB
 ```
@@ -1641,7 +1641,7 @@ translates to:
 ```
 Create new folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yeni klasör oluştur
 ```
@@ -1651,7 +1651,7 @@ Yeni klasör oluştur
 ```
 Could not create folder: name empty
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klasörü oluşturulamadı: Boş isim
 ```
@@ -1661,7 +1661,7 @@ Klasörü oluşturulamadı: Boş isim
 ```
 Could not create folder: error occurred
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klasörü oluşturulamadı: hata oluştu
 ```
@@ -1671,7 +1671,7 @@ Klasörü oluşturulamadı: hata oluştu
 ```
 Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aldığınız için teşekkür ederiz Map Marker Premium :-)
 ```
@@ -1681,7 +1681,7 @@ Aldığınız için teşekkür ederiz Map Marker Premium :-)
 ```
 Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ücretsiz iddia ederek ilgi gösteren için teşekkür ederiz Map Marker :-)
 ```
@@ -1691,7 +1691,7 @@ translates to:
 ```
 Premium
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Premium
 ```
@@ -1701,7 +1701,7 @@ Premium
 ```
 Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Prim yükseltme ve tam olarak Map Marker özellikler!
 ```
@@ -1711,7 +1711,7 @@ Prim yükseltme ve tam olarak Map Marker özellikler!
 ```
 Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Üzgünüz, bu özelliğe erişmek için prim yükseltme gerekir. Prim yükseltme ve tam olarak Map Marker özellikler!
 ```
@@ -1721,7 +1721,7 @@ translates to:
 ```
 You have the premium upgrade for free! You can still purchase it if you want to show your support :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ücretsiz olarak prim yükseltme var! Eğer destek göstermek istiyorsanız hala satın :-)
 ```
@@ -1731,7 +1731,7 @@ translates to:
 ```
 Purchase the premium upgrade
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Prim yükseltme satın
 ```
@@ -1741,7 +1741,7 @@ Prim yükseltme satın
 ```
 My Google account already has premium access, activate it!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Benim Google hesabı zaten prim erişimi, etkinleştirmek!
 ```
@@ -1751,7 +1751,7 @@ Benim Google hesabı zaten prim erişimi, etkinleştirmek!
 ```
 Troubleshooting
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sorun giderme
 ```
@@ -1761,7 +1761,7 @@ Sorun giderme
 ```
 Open a list of actions to solve possible problems
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Olası sorunları çözmek için eylemlerin bir listesini açın
 ```
@@ -1771,7 +1771,7 @@ Olası sorunları çözmek için eylemlerin bir listesini açın
 ```
 Test internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Test internet
 ```
@@ -1781,7 +1781,7 @@ Test internet
 ```
 Checks that the app has access to internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 App internet erişimi olup olmadığını denetler
 ```
@@ -1791,7 +1791,7 @@ App internet erişimi olup olmadığını denetler
 ```
 Test file writing
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Test dosyası yazma
 ```
@@ -1801,7 +1801,7 @@ Test dosyası yazma
 ```
 Checks that the app can save files on the internal SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Uygulamaya, dahili SD kart üzerindeki dosyaları kaydedebilirsiniz denetler
 ```
@@ -1811,7 +1811,7 @@ Uygulamaya, dahili SD kart üzerindeki dosyaları kaydedebilirsiniz denetler
 ```
 GP Services (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GP Hizmetleri (app)
 ```
@@ -1821,7 +1821,7 @@ GP Hizmetleri (app)
 ```
 Open the details of the currently installed Google Play Services app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Şu anda yüklü ayrıntılarını Google Play Services uygulaması
 ```
@@ -1831,7 +1831,7 @@ translates to:
 ```
 GP Services (store)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GP Hizmetleri (mağaza)
 ```
@@ -1841,7 +1841,7 @@ GP Hizmetleri (mağaza)
 ```
 Google Play (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Google Play (app)
 ```
@@ -1851,7 +1851,7 @@ Google Play (app)
 ```
 Contact support
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 İletişim desteği
 ```
@@ -1861,7 +1861,7 @@ translates to:
 ```
 Write an email to support with the details of your problem
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bir email sorunun ayrıntıları ile desteklemek
 ```
@@ -1871,7 +1871,7 @@ Bir email sorunun ayrıntıları ile desteklemek
 ```
 Device network unavailable
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cihaz şebeke kullanılamıyor
 ```
@@ -1881,7 +1881,7 @@ Cihaz şebeke kullanılamıyor
 ```
 Testing&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Test&#8230;
 ```
@@ -1891,7 +1891,7 @@ Test&#8230;
 ```
 Network test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ağ testi başarılı
 ```
@@ -1901,7 +1901,7 @@ Ağ testi başarılı
 ```
 Network test failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ağ testi başarısız
 ```
@@ -1911,7 +1911,7 @@ Ağ testi başarısız
 ```
 Disk test failed: could not write to internal storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Disk testi başarısız oldu: dahili depolama yazamadı
 ```
@@ -1921,7 +1921,7 @@ Disk testi başarısız oldu: dahili depolama yazamadı
 ```
 Disk test failed: could not write to external storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Disk testi başarısız oldu: harici depolama yazamadı
 ```
@@ -1931,7 +1931,7 @@ Disk testi başarısız oldu: harici depolama yazamadı
 ```
 Disk test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Disk testi başarılı
 ```
@@ -1941,7 +1941,7 @@ Disk testi başarılı
 ```
 App failed to start: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 App %s
 ```
@@ -1951,7 +1951,7 @@ App %s
 ```
 The file does not exist
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dosya yok
 ```
@@ -1961,7 +1961,7 @@ Dosya yok
 ```
 Share cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hisse bulut haritası
 ```
@@ -1971,7 +1971,7 @@ Hisse bulut haritası
 ```
 Open the cloud map folder to view its properties and share it with other people
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Özelliklerini görüntülemek için bulut haritası klasörünü açın ve diğer insanlarla paylaşabilirsiniz
 ```
@@ -1981,7 +1981,7 @@ translates to:
 ```
 Internal file to SD
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 SD iç dosya
 ```
@@ -1991,7 +1991,7 @@ SD iç dosya
 ```
 Copy the app hidden internal files to the sdcard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sdcard app gizli iç dosyaları kopyalayın
 ```
@@ -2001,7 +2001,7 @@ Sdcard app gizli iç dosyaları kopyalayın
 ```
 Enter destination folder path
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hedef klasör yolunu girin
 ```
@@ -2011,7 +2011,7 @@ Hedef klasör yolunu girin
 ```
 Could not create folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klasör oluşturulamadı
 ```
@@ -2021,7 +2021,7 @@ Klasör oluşturulamadı
 ```
 Files successfully saved to: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dosyalar başarıyla %s
 ```
@@ -2031,7 +2031,7 @@ Dosyalar başarıyla %s
 ```
 View history/Restore
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Geçmişi görüntüle / Restore
 ```
@@ -2041,7 +2041,7 @@ Geçmişi görüntüle / Restore
 ```
 View history of modifications to the cloud folder and select a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bulut klasörüne değişikliklerin geçmişini görüntülemek ve geri yüklemek için bir sürümünü seçmek
 ```
@@ -2051,7 +2051,7 @@ Bulut klasörüne değişikliklerin geçmişini görüntülemek ve geri yükleme
 ```
 Create map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Harita dosyası oluşturun
 ```
@@ -2061,7 +2061,7 @@ Harita dosyası oluşturun
 ```
 Create a new map file locally or on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yerel olarak veya bulut üzerinde yeni bir harita dosyası oluşturun
 ```
@@ -2071,7 +2071,7 @@ Yerel olarak veya bulut üzerinde yeni bir harita dosyası oluşturun
 ```
 Open cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Açık bulut haritası
 ```
@@ -2081,7 +2081,7 @@ Açık bulut haritası
 ```
 Open a map file from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Buluttan bir harita dosyasını açın
 ```
@@ -2091,7 +2091,7 @@ Buluttan bir harita dosyasını açın
 ```
 Map Marker needs the permission to access your location in order to display it on the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker harita üzerinde görüntülemek için konumunuza erişmesine izin alması gerekiyor
 ```
@@ -2101,7 +2101,7 @@ Map Marker harita üzerinde görüntülemek için konumunuza erişmesine izin al
 ```
 Map Marker needs the permission to access to the storage of your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker cihazınızın depolama erişmek için izin alması gerekiyor
 ```
@@ -2111,7 +2111,7 @@ Map Marker cihazınızın depolama erişmek için izin alması gerekiyor
 ```
 Open settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Açık ayarları
 ```
@@ -2121,7 +2121,7 @@ Açık ayarları
 ```
 No map folder found on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bulut bulunamadı harita klasörü
 ```
@@ -2131,7 +2131,7 @@ Bulut bulunamadı harita klasörü
 ```
 Auto sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Otomatik senkronizasyon
 ```
@@ -2141,7 +2141,7 @@ Otomatik senkronizasyon
 ```
 Choose a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Geri yüklemek için bir sürüm seçin
 ```
@@ -2151,7 +2151,7 @@ Geri yüklemek için bir sürüm seçin
 ```
 You must sync first before restoring an older version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 İlk eski bir sürümünü geri yüklemeden önce senkronize olmalıdır
 ```
@@ -2161,7 +2161,7 @@ translates to:
 ```
 Are you sure you want to restore this version?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bu sürümü geri yüklemek istediğiniz emin misiniz?
 ```
@@ -2171,7 +2171,7 @@ Bu sürümü geri yüklemek istediğiniz emin misiniz?
 ```
 Map Marker lost permissions to write to your cloud account. Sync will always fail until this is fixed. Do you want to fix it now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker kayıp izinler bulut hesabınıza yazmak için. Bu çözülene kadar Sync her zaman başarısız olur. Şimdi bunu düzeltmek istiyor musunuz?
 ```
@@ -2181,7 +2181,7 @@ Map Marker kayıp izinler bulut hesabınıza yazmak için. Bu çözülene kadar 
 ```
 A sync error occurred. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bir eşitleme hatası oluştu. Lütfen tekrar deneyin.
 ```
@@ -2191,7 +2191,7 @@ Bir eşitleme hatası oluştu. Lütfen tekrar deneyin.
 ```
 A sync error occurred: network error. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bir eşitleme hatası oluştu: ağ hatası. Lütfen tekrar deneyin.
 ```
@@ -2201,7 +2201,7 @@ Bir eşitleme hatası oluştu: ağ hatası. Lütfen tekrar deneyin.
 ```
 A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bir eşitleme hatası oluştu: çatışma, başka bir cihazın aynı anda senkron sahne oldu. Lütfen tekrar deneyin.
 ```
@@ -2211,7 +2211,7 @@ Bir eşitleme hatası oluştu: çatışma, başka bir cihazın aynı anda senkro
 ```
 Changes are available from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Değişiklikler bulut edinilebilir
 ```
@@ -2221,7 +2221,7 @@ Değişiklikler bulut edinilebilir
 ```
 Changes made from another device were synced on the cloud. You can retrieve those changes by syncing.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Başka bir cihazdan yapılan değişiklikler bulut senkronize edildi. Sen senkronize ederek bu değişiklikleri geri alabilirsiniz.
 ```
@@ -2231,7 +2231,7 @@ Başka bir cihazdan yapılan değişiklikler bulut senkronize edildi. Sen senkro
 ```
 Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for details on how to restore cloud permissions.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bulut depolama izinleri geri yüklemek için başarısız oldu. Bulut izinlerini geri yükleme hakkında ayrıntılı bilgi için&gt; "Sıkça Sorulan Sorular" - "Hakkında" bölümüne bakın.
 ```
@@ -2241,7 +2241,7 @@ Bulut depolama izinleri geri yüklemek için başarısız oldu. Bulut izinlerini
 ```
 A sync error occurred: duplicate index, there are at least two files named index.json in the map cloud folder. Remove the duplicates manually and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bir eşitleme hatası oluştu: Harita bulut klasöründe index.json adlı en az iki dosya vardır, indeks çoğaltmak. Manuel çiftleri kaldırın ve yeniden deneyin.
 ```
@@ -2251,7 +2251,7 @@ Bir eşitleme hatası oluştu: Harita bulut klasöründe index.json adlı en az 
 ```
 Phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Telefon numarası
 ```
@@ -2261,7 +2261,7 @@ Telefon numarası
 ```
 Edit phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Düzenleme telefon numarası
 ```
@@ -2271,7 +2271,7 @@ Düzenleme telefon numarası
 ```
 Map Marker needs the permission to make calls on your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker cihazınızda arama yapmak için izin alması gerekiyor
 ```
@@ -2281,7 +2281,7 @@ Map Marker cihazınızda arama yapmak için izin alması gerekiyor
 ```
 No phone number is defined for that marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hiçbir telefon numarası o marker için tanımlanan
 ```
@@ -2291,7 +2291,7 @@ Hiçbir telefon numarası o marker için tanımlanan
 ```
 Navigation options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gezinme seçenekleri
 ```
@@ -2301,7 +2301,7 @@ Gezinme seçenekleri
 ```
 Open the marker location in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bu app işaretleyici konumu açın
 ```
@@ -2311,7 +2311,7 @@ Bu app işaretleyici konumu açın
 ```
 Open the marker street view in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bu app işaretleyici sokak görünümü açın
 ```
@@ -2321,7 +2321,7 @@ Bu app işaretleyici sokak görünümü açın
 ```
 Enter navigation mode in this app to get directions to the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Işaretleyici tarifi almak için bu app navigasyon moduna girin
 ```
@@ -2331,7 +2331,7 @@ Işaretleyici tarifi almak için bu app navigasyon moduna girin
 ```
 Other options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Diğer seçenekler
 ```
@@ -2341,7 +2341,7 @@ Diğer seçenekler
 ```
 Share the selected marker as plain text into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Başka bir app düz metin olarak seçilen işaretleyici paylaşın
 ```
@@ -2351,7 +2351,7 @@ Başka bir app düz metin olarak seçilen işaretleyici paylaşın
 ```
 %1$d markers in %2$d folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d %2$d klasörleri
 ```
@@ -2361,7 +2361,7 @@ translates to:
 ```
 A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bir eşitleme hatası oluştu: bulut veri uygulaması daha yeni bir sürümü ile güncellendi. Sen güncellemeniz Map Marker eşitlemek için bu cihazda.
 ```
@@ -2371,7 +2371,7 @@ Bir eşitleme hatası oluştu: bulut veri uygulaması daha yeni bir sürümü il
 ```
 Could not find a phone app on this device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bu cihazda bir telefon uygulaması bulamadı.
 ```
@@ -2381,7 +2381,7 @@ Bu cihazda bir telefon uygulaması bulamadı.
 ```
 Phone number options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Telefon numarası seçenekleri
 ```
@@ -2391,7 +2391,7 @@ Telefon numarası seçenekleri
 ```
 Call phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Çağrı telefon numarası
 ```
@@ -2401,7 +2401,7 @@ translates to:
 ```
 Dial phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Telefon numarasını çevirin
 ```
@@ -2411,7 +2411,7 @@ Telefon numarasını çevirin
 ```
 Text phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Metin telefonu numarası
 ```
@@ -2421,7 +2421,7 @@ Metin telefonu numarası
 ```
 Default navigation action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Standart navigasyon eylem
 ```
@@ -2431,7 +2431,7 @@ Standart navigasyon eylem
 ```
 Default phone action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Standart telefon eylem
 ```
@@ -2441,7 +2441,7 @@ Standart telefon eylem
 ```
 Ask
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sormak
 ```
@@ -2451,7 +2451,7 @@ Sormak
 ```
 Premium free trial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Premium ücretsiz deneme
 ```
@@ -2461,7 +2461,7 @@ Premium ücretsiz deneme
 ```
 What is the premium upgrade?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 prim yükseltme nedir?
 ```
@@ -2471,7 +2471,7 @@ prim yükseltme nedir?
 ```
 Premium free trial started! The trial will expire at the following date: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Premium ücretsiz deneme başladı! Deneme şu tarihte sona erecek: %s
 ```
@@ -2482,7 +2482,7 @@ Premium ücretsiz deneme başladı! Deneme şu tarihte sona erecek: %s
 Trial expiration:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Deneme son: 
  %s
@@ -2493,7 +2493,7 @@ Deneme son:
 ```
 Trial expired
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Deneme süresi sona erdi
 ```
@@ -2503,7 +2503,7 @@ Deneme süresi sona erdi
 ```
 Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eşitleme iptal edildi: senkronizasyonu gerçekleştirmek için prim yükseltme gerekir.
 ```
@@ -2513,7 +2513,7 @@ Eşitleme iptal edildi: senkronizasyonu gerçekleştirmek için prim yükseltme 
 ```
 Error: trial starting in the future!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hata: Gelecekte deneme başlangıç!
 ```
@@ -2523,7 +2523,7 @@ Hata: Gelecekte deneme başlangıç!
 ```
 Thank you for your purchase!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Satın aldığınız için teşekkür ederiz!
 ```
@@ -2533,7 +2533,7 @@ Satın aldığınız için teşekkür ederiz!
 ```
 Browse
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Araştır
 ```
@@ -2543,7 +2543,7 @@ Araştır
 ```
 Organize
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 düzenlemek
 ```
@@ -2553,7 +2553,7 @@ düzenlemek
 ```
 Create
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 oluşturmak
 ```
@@ -2563,7 +2563,7 @@ oluşturmak
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tekrar dene
 ```
@@ -2573,7 +2573,7 @@ Tekrar dene
 ```
 Search failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Arama başarısız oldu
 ```
@@ -2583,7 +2583,7 @@ Arama başarısız oldu
 ```
 Search failed, network error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Arama başarısız oldu, ağ hatası
 ```
@@ -2593,7 +2593,7 @@ Arama başarısız oldu, ağ hatası
 ```
 Details
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ayrıntılar
 ```
@@ -2603,7 +2603,7 @@ ayrıntılar
 ```
 Sync error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Senkronizasyon hatası
 ```
@@ -2613,7 +2613,7 @@ Senkronizasyon hatası
 ```
 The file already exists, do you want to overwrite it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 dosya zaten bunu üzerine yazmak istiyor musunuz, var?
 ```
@@ -2623,7 +2623,7 @@ dosya zaten bunu üzerine yazmak istiyor musunuz, var?
 ```
 Copy markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kopya işaretçileri klasöre
 ```
@@ -2633,7 +2633,7 @@ Kopya işaretçileri klasöre
 ```
 Error loading the Google Map component. Please restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yüklenirken hata Google Map bileşeni. Uygulamayı yeniden başlatın.
 ```
@@ -2643,7 +2643,7 @@ Yüklenirken hata Google Map bileşeni. Uygulamayı yeniden başlatın.
 ```
 You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Burada senin belirteçlerin listesini göreceksiniz. Şu anda seçili klasör (ler) hiçbir işaretleri var. Aşağıdaki butona tıklayarak yeni bir işaretçisi ekleyebilirsiniz.
 ```
@@ -2653,7 +2653,7 @@ Burada senin belirteçlerin listesini göreceksiniz. Şu anda seçili klasör (l
 ```
 No search results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Arama sonucu bulunamadı
 ```
@@ -2663,7 +2663,7 @@ Arama sonucu bulunamadı
 ```
 Open Street Map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Open Street Map
 ```
@@ -2673,7 +2673,7 @@ Open Street Map
 ```
 Bing Road
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Road
 ```
@@ -2683,7 +2683,7 @@ Bing Road
 ```
 Bing Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial
 ```
@@ -2693,7 +2693,7 @@ Bing Aerial
 ```
 Bing Aerial With Labels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial Etiketler ile
 ```
@@ -2703,7 +2703,7 @@ Bing Aerial Etiketler ile
 ```
 ArcGIS Server
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ArcGIS Server
 ```
@@ -2713,7 +2713,7 @@ ArcGIS Server
 ```
 Offline maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Çevrimdışı haritalar
 ```
@@ -2723,7 +2723,7 @@ translates to:
 ```
 No folder selected
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Seçilen bir klasör
 ```
@@ -2733,7 +2733,7 @@ Seçilen bir klasör
 ```
 Storage folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 depolama klasörü
 ```
@@ -2744,7 +2744,7 @@ depolama klasörü
 Test results of the offline maps folder:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Çevrimdışı haritalar klasörü Test sonuçları: 
  %s
@@ -2755,7 +2755,7 @@ translates to:
 ```
 No folder is selected for offline map files. In order to use offline maps, open the settings and select a folder for offline map files.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hiçbir klasör çevrimdışı harita dosyaları için seçilir. Çevrimdışı haritaları kullanmak ayarlarını açın ve çevrimdışı harita dosyalar için bir klasör seçmek için.
 ```
@@ -2765,7 +2765,7 @@ Hiçbir klasör çevrimdışı harita dosyaları için seçilir. Çevrimdışı 
 ```
 The selected offline map folder you selected contains no files. Make sure you add the offline map files in that folder before using offline maps, otherwise the map will be empty.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Seçtiğiniz seçilen çevrimdışı harita klasörü hiçbir dosyaları içerir. Aksi takdirde harita boş olacaktır, çevrimdışı haritaları kullanmadan önce o klasördeki çevrimdışı harita dosyaları eklemek emin olun.
 ```
@@ -2775,7 +2775,7 @@ Seçtiğiniz seçilen çevrimdışı harita klasörü hiçbir dosyaları içerir
 ```
 Success: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Başarı: %s
 ```
@@ -2785,7 +2785,7 @@ Başarı: %s
 ```
 Failed: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Başarısız: %s
 ```
@@ -2795,7 +2795,7 @@ Başarısız: %s
 ```
 How to do it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nasıl yapılır?
 ```
@@ -2805,7 +2805,7 @@ Nasıl yapılır?
 ```
 Click here to open the web page explaining how to obtain those maps.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bu haritalar edinme açıklayan web sayfasını açmak için buraya tıklayın.
 ```
@@ -2815,7 +2815,7 @@ Bu haritalar edinme açıklayan web sayfasını açmak için buraya tıklayın.
 ```
 Credits
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kredi
 ```
@@ -2825,7 +2825,7 @@ Kredi
 ```
 Copyright and legal mentions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Telif hakkı ve yasal bahseder
 ```
@@ -2837,7 +2837,7 @@ Legal mentions for other map data than Google Maps:
 
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yasal dışındaki harita verileri için söz Google Maps : 
  
@@ -2849,7 +2849,7 @@ Yasal dışındaki harita verileri için söz Google Maps :
 ```
 Disable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Devre Dışı hata dosya dökümü
 ```
@@ -2859,7 +2859,7 @@ Devre Dışı hata dosya dökümü
 ```
 Disable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 SD kartında bir dosyaya uygulama yazma hataları devre dışı bırak
 ```
@@ -2869,7 +2869,7 @@ SD kartında bir dosyaya uygulama yazma hataları devre dışı bırak
 ```
 Enable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hata dosyası dökümü etkinleştirme
 ```
@@ -2879,7 +2879,7 @@ Hata dosyası dökümü etkinleştirme
 ```
 Enable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 SD kartında bir dosyaya uygulama yazma hataları etkinleştirin
 ```
@@ -2889,7 +2889,7 @@ SD kartında bir dosyaya uygulama yazma hataları etkinleştirin
 ```
 Start background sync…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 arka plan senkronizasyonu başlatın&#8230;
 ```
@@ -2899,7 +2899,7 @@ arka plan senkronizasyonu başlatın&#8230;
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Asla
 ```
@@ -2909,7 +2909,7 @@ Asla
 ```
 When app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ne zaman uygulama arka plan girer
 ```
@@ -2919,7 +2919,7 @@ Ne zaman uygulama arka plan girer
 ```
 %d seconds after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d saniye uygulaması arka girdikten sonra
 ```
@@ -2929,7 +2929,7 @@ translates to:
 ```
 %d minutes after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d dakika uygulaması arka girdikten sonra
 ```
@@ -2939,7 +2939,7 @@ translates to:
 ```
 Sync starting in %d seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eşitleme başlayan %d saniye
 ```
@@ -2949,7 +2949,7 @@ Eşitleme başlayan %d saniye
 ```
 You can cancel the sync at any time and your data will be synced on next attempt.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 İstediğiniz zaman senkronizasyonu iptal edebilir ve veri bir sonraki denemede senkronize edilir.
 ```
@@ -2959,7 +2959,7 @@ translates to:
 ```
 Press back again to exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Basın tekrar çıkmak için
 ```
@@ -2969,7 +2969,7 @@ Basın tekrar çıkmak için
 ```
 Cannot start sync with no internet access on the device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cihaz üzerinde internet erişimine sahip senkronizasyonu başlatılamıyor.
 ```
@@ -2979,7 +2979,7 @@ Cihaz üzerinde internet erişimine sahip senkronizasyonu başlatılamıyor.
 ```
 Manage map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 harita dosyaları yönetin
 ```
@@ -2989,7 +2989,7 @@ harita dosyaları yönetin
 ```
 Map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Harita dosyaları
 ```
@@ -2999,7 +2999,7 @@ Harita dosyaları
 ```
 Delete map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 harita dosyasını silin
 ```
@@ -3009,7 +3009,7 @@ harita dosyasını silin
 ```
 This action will delete the map file from this device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bu işlem, bu cihazdan harita dosyasını silecektir
 ```
@@ -3019,7 +3019,7 @@ Bu işlem, bu cihazdan harita dosyasını silecektir
 ```
 This action will delete the map file from your device forever. All the markers inside that file will be lost. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bu işlem sonsuza kadar cihazınızdan harita dosyayı silecektir. o dosyanın içinde tüm belirteçler kaybolacaktır. Emin misiniz?
 ```
@@ -3029,7 +3029,7 @@ Bu işlem sonsuza kadar cihazınızdan harita dosyayı silecektir. o dosyanın i
 ```
 This action will delete the map file from your device forever. All changes not yet synced to the cloud will be lost. The cloud folder will not be affected by this action and you will have to delete it manually. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bu işlem sonsuza kadar cihazınızdan harita dosyayı silecektir. Henüz bulutla senkronize değil tüm değişiklikler kaybolur. bulut klasörü bu eylemden etkilenmez olmayacak ve el ile silmeniz gerekir. Emin misiniz?
 ```
@@ -3039,7 +3039,7 @@ Bu işlem sonsuza kadar cihazınızdan harita dosyayı silecektir. Henüz bulutl
 ```
 Map file successfully deleted
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Harita dosyası başarıyla silindi
 ```
@@ -3049,7 +3049,7 @@ Harita dosyası başarıyla silindi
 ```
 Could not delete map file: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Harita dosyası silinemedi: %s
 ```
@@ -3059,7 +3059,7 @@ Harita dosyası silinemedi: %s
 ```
 Marker saved in a non visible folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker olmayan bir görünür klasöre kaydedilir
 ```
@@ -3069,7 +3069,7 @@ Marker olmayan bir görünür klasöre kaydedilir
 ```
 Your changes have not been synced recently. Make sure you keep your cloud copy up to date. Do you want to sync now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yaptığınız değişiklikler son zamanlarda senkronize edilmemiştir. Bulut güncel kopya tutmak emin olun. Şimdi senkronize etmek istiyorsun?
 ```
@@ -3079,7 +3079,7 @@ Yaptığınız değişiklikler son zamanlarda senkronize edilmemiştir. Bulut g�
 ```
 The markers of this map file are currently only saved on this device. It is recommended to save your markers on the cloud to avoid losing them. Do you want to save them to the cloud now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bu haritayı dosyasının belirteçleri şu anda sadece bu cihazda kaydedilir. Bunları kaybetmemek için bulut üzerinde belirteçleri kaydetmek için tavsiye edilir. Şimdi buluta bunları kaydetmek istiyor musunuz?
 ```
@@ -3089,7 +3089,7 @@ Bu haritayı dosyasının belirteçleri şu anda sadece bu cihazda kaydedilir. B
 ```
 Do you want to sync this map file? With manual you will need to sync manually every time. With automatic (recommended) you will select a destination cloud folder and the sync to the cloud will start automatically every time the app enters background.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bu haritayı dosyayı senkronize etmek istiyor musunuz? kılavuzda ile her seferinde elle senkronize etmek gerekir. Otomatik (önerilir) ile bir hedef bulut klasör ve otomatik olarak uygulama arka giren her zaman başlayacak bulut senkronizasyonu seçecektir.
 ```
@@ -3099,7 +3099,7 @@ Bu haritayı dosyayı senkronize etmek istiyor musunuz? kılavuzda ile her sefer
 ```
 Automatic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Otomatik
 ```
@@ -3109,7 +3109,7 @@ Otomatik
 ```
 Manual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Manuel
 ```
@@ -3119,7 +3119,7 @@ Manuel
 ```
 You can sync a map file on the cloud at any time by clicking on the map file in the side bar and then choosing the "Cloud sync" option.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yan çubuğundaki harita dosyası tıklayarak ve ardından "Bulut eşitleme" seçeneğini seçerek herhangi bir zamanda bulut bir harita dosyasını senkronize edebilirsiniz.
 ```
@@ -3129,7 +3129,7 @@ Yan çubuğundaki harita dosyası tıklayarak ve ardından "Bulut eşitleme" se�
 ```
 You can sync a map file manually to the cloud at any time by clicking the "share" button in the main action bar, and then "Other options" and then "All markers and folders" and then by selecting your favorite cloud storage app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 En sevdiğiniz bulut depolama uygulamayı seçerek daha sonra "Diğer seçenekler" ve ardından "Tüm işaretleri ve klasörler" ve ana eylem çubuğunda "pay" butonuna tıklayarak istediğiniz zaman bulut elle harita dosyasını senkronize edebilirsiniz.
 ```
@@ -3139,7 +3139,7 @@ En sevdiğiniz bulut depolama uygulamayı seçerek daha sonra "Diğer seçenekle
 ```
 Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 tıklayın, bir nokta eklemek için '+' tıklayın noktaları yerleştirmek için etrafında harita Taşı '-' Bir sonraki / önceki düğmeleri ile puan bir noktaya çıkarmak ve geçiş yapmak için. Nihayet şekil kaydetmek için kaydetmek tıklayın.
 ```
@@ -3149,7 +3149,7 @@ tıklayın, bir nokta eklemek için '+' tıklayın noktaları yerleştirmek içi
 ```
 There are not enough points to create the shape. Create more points and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 şekil oluşturmak için yeterli puan yoktur. Daha fazla puan oluşturun ve yeniden deneyin.
 ```
@@ -3159,7 +3159,7 @@ translates to:
 ```
 Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn\'t work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by email (side panel -> about -> send email).
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Google hesabınızdaki prim yükseltme aktive edemedi. Başka bir cihazdan son zamanlarda prim yükseltme satın aldıysanız satın yaymak için, cihazınızı yeniden başlatmayı daha hızlı yapabilir, biraz beklemeniz gerekebilir. Hala işe yaramazsa, uygulamayı yüklü, satın alınan ve aynı Google hesabı ile aktif olduğundan emin olun. Sorun devam ederse, sana elimden gelenin en yardımcı olacak, sen bana ulaşabilirsiniz email (yan panel -&gt; hakkında -&gt; göndermek email ).
 ```
@@ -3169,7 +3169,7 @@ Google hesabınızdaki prim yükseltme aktive edemedi. Başka bir cihazdan son z
 ```
 Distance: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mesafe: %s
 ```
@@ -3180,7 +3180,7 @@ Mesafe: %s
 Perimeter: %1$s
 Area: %2$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Çevre: %1$s 
  Alan: %2$s
@@ -3191,7 +3191,7 @@ translates to:
 ```
 Extra information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ekstra bilgiler
 ```
@@ -3201,7 +3201,7 @@ ekstra bilgiler
 ```
 Insert…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yerleştirin&#8230;
 ```
@@ -3211,7 +3211,7 @@ Yerleştirin&#8230;
 ```
 Replace title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 başlığı değiştirin
 ```
@@ -3221,7 +3221,7 @@ başlığı değiştirin
 ```
 Replace description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 açıklamasını değiştirin
 ```
@@ -3231,7 +3231,7 @@ açıklamasını değiştirin
 ```
 Unit of distance
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 mesafe birimi
 ```
@@ -3241,7 +3241,7 @@ mesafe birimi
 ```
 Unit of area
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 birim alan
 ```
@@ -3251,7 +3251,7 @@ birim alan
 ```
 Metric (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Metrik ( %s )
 ```
@@ -3261,7 +3261,7 @@ Metrik ( %s )
 ```
 Imperial (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Imperial ( %s )
 ```
@@ -3271,7 +3271,7 @@ Imperial ( %s )
 ```
 Images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Görüntüler
 ```
@@ -3281,7 +3281,7 @@ Görüntüler
 ```
 Select image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 seçin görüntü
 ```
@@ -3291,7 +3291,7 @@ seçin görüntü
 ```
 Imported images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ithal görüntüler
 ```
@@ -3301,7 +3301,7 @@ ithal görüntüler
 ```
 Fit in a %1$sx%2$s square
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bir uyum %1$s x %2$s kare
 ```
@@ -3311,7 +3311,7 @@ Bir uyum %1$s x %2$s kare
 ```
 Full quality
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 tam kalite
 ```
@@ -3321,7 +3321,7 @@ tam kalite
 ```
 Mobile data
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mobil veri
 ```
@@ -3331,7 +3331,7 @@ Mobil veri
 ```
 Wifi
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Wifi
 ```
@@ -3341,7 +3341,7 @@ Wifi
 ```
 Disabled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 engelli
 ```
@@ -3351,7 +3351,7 @@ engelli
 ```
 Up to %s per sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kadar %s senkronize başına
 ```
@@ -3361,7 +3361,7 @@ Kadar %s senkronize başına
 ```
 Unlimited
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sınırsız
 ```
@@ -3371,7 +3371,7 @@ Sınırsız
 ```
 The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings. You can also click "force sync" to sync just one time without data volume limit.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 buna izin veri hacmi limitini aşan çünkü eşitleme iptal edildi. ayarlarına gidin, artırmak veya sınırını değiştirmek için. Ayrıca veri hacmi sınırı olmadan sadece bir kez senkronize etmek "kuvvet eşitleme" tıklayabilirsiniz.
 ```
@@ -3381,7 +3381,7 @@ buna izin veri hacmi limitini aşan çünkü eşitleme iptal edildi. ayarlarına
 ```
 Force sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 kuvvet senkronizasyon
 ```
@@ -3391,7 +3391,7 @@ kuvvet senkronizasyon
 ```
 This will override the usual data limit just for this one time. Force sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bu sadece bir seferlik zamanki veri limitini geçersiz kılar. Kuvvet senkronizasyon?
 ```
@@ -3401,7 +3401,7 @@ Bu sadece bir seferlik zamanki veri limitini geçersiz kılar. Kuvvet senkroniza
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tekrar dene
 ```
@@ -3411,7 +3411,7 @@ Tekrar dene
 ```
 Add image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Resim eklemek
 ```
@@ -3421,7 +3421,7 @@ Resim eklemek
 ```
 From camera
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 kameradan
 ```
@@ -3431,7 +3431,7 @@ kameradan
 ```
 From gallery
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 galeriden
 ```
@@ -3441,7 +3441,7 @@ galeriden
 ```
 Importing image…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Görüntüyü içe&#8230;
 ```
@@ -3451,7 +3451,7 @@ Görüntüyü içe&#8230;
 ```
 Offline (Mapsforge BETA)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Çevrimdışı ( Mapsforge BETA )
 ```
@@ -3461,7 +3461,7 @@ translates to:
 ```
 Exporting…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 İhracat&#8230;
 ```
@@ -3471,7 +3471,7 @@ translates to:
 ```
 Export failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ihracat başarısız
 ```
@@ -3481,7 +3481,7 @@ ihracat başarısız
 ```
 Export succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ihracat başarılı
 ```
@@ -3491,7 +3491,7 @@ ihracat başarılı
 ```
 KMZ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KMZ
 ```
@@ -3501,7 +3501,7 @@ KMZ
 ```
 KML
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KML
 ```
@@ -3511,7 +3511,7 @@ KML
 ```
 Importing file…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 dosyasını içe&#8230;
 ```
@@ -3521,7 +3521,7 @@ dosyasını içe&#8230;
 ```
 Show warning icon for sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Senkronizasyon için uyarı simgesi göster
 ```
@@ -3531,7 +3531,7 @@ Senkronizasyon için uyarı simgesi göster
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 bulut medya dosyalardan biri eksik olduğundan eşitleme iptal edildi. Sen "kuvvet senkronizasyon \" tıklayarak dosyaları eksik yok sayabilirsiniz. Uyarı, ihmal eksik dosyalar diğer cihazlar hala senkronize üzerine onu silecektir dosyanın yerel kopyasını sahip olduğu anlamına gelir veritabanı çıkardıktan neden olacaktır.
 ```
@@ -3541,7 +3541,7 @@ bulut medya dosyalardan biri eksik olduğundan eşitleme iptal edildi. Sen "kuvv
 ```
 This will force the sync and ignore the missing cloud files. The missing links will be removed from the database. Other devices still owning a local version of the missing cloud files will delete them upon their next sync. Data consumption limits will be ignored for this special sync. Force Sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bu senkronizasyon zorlamak ve eksik bulut dosyaları yok sayacaktır. Eksik bağlantılar veritabanından silinecektir. Diğer cihazlar hala sonraki eşitleme sırasında bunları silecektir eksik bulut dosyaları yerel bir sürümünü sahibi. Veri tüketim sınırları bu özel senkronizasyon için göz ardı edilecektir. Kuvvet Sync?
 ```
@@ -3551,7 +3551,7 @@ Bu senkronizasyon zorlamak ve eksik bulut dosyaları yok sayacaktır. Eksik bağ
 ```
 Marker media files ignored on import: %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ithalatına göz ardı Marker medya dosyaları: %1$d
 ```
@@ -3561,7 +3561,7 @@ Ithalatına göz ardı Marker medya dosyaları: %1$d
 ```
 Checking premium status…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 prim durumunu kontrol etme&#8230;
 ```
@@ -3571,7 +3571,7 @@ prim durumunu kontrol etme&#8230;
 ```
 General
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Genel
 ```
@@ -3581,7 +3581,7 @@ Genel
 ```
 Toilets
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 tuvaletler
 ```
@@ -3591,7 +3591,7 @@ tuvaletler
 ```
 Food
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gıda
 ```
@@ -3601,7 +3601,7 @@ Gıda
 ```
 Stores
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mağazalar
 ```
@@ -3611,7 +3611,7 @@ Mağazalar
 ```
 Land activities
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 arazi faaliyetleri
 ```
@@ -3621,7 +3621,7 @@ arazi faaliyetleri
 ```
 Water activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 su Çalışanlarımızdan
 ```
@@ -3631,7 +3631,7 @@ su Çalışanlarımızdan
 ```
 Winter activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kış Çalışanlarımızdan
 ```
@@ -3641,7 +3641,7 @@ Kış Çalışanlarımızdan
 ```
 Transport
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 taşıma
 ```
@@ -3651,7 +3651,7 @@ taşıma
 ```
 Health
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sağlık
 ```
@@ -3661,7 +3661,7 @@ Sağlık
 ```
 Entertainment
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eğlence
 ```
@@ -3671,7 +3671,7 @@ Eğlence
 ```
 Services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hizmetler
 ```
@@ -3681,7 +3681,7 @@ Hizmetler
 ```
 Business
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 iş
 ```
@@ -3691,7 +3691,7 @@ iş
 ```
 Government
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 hükümet
 ```
@@ -3701,7 +3701,7 @@ hükümet
 ```
 Religious
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dini
 ```
@@ -3711,7 +3711,7 @@ Dini
 ```
 Accessibility
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ulaşılabilirlik
 ```
@@ -3721,7 +3721,7 @@ Ulaşılabilirlik
 ```
 Select icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 seç simgesi
 ```
@@ -3731,7 +3731,7 @@ seç simgesi
 ```
 Icon and color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Simge ve renk
 ```
@@ -3741,7 +3741,7 @@ Simge ve renk
 ```
 Generic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 genel
 ```
@@ -3751,7 +3751,7 @@ genel
 ```
 Beta tester badge: thank you for being a beta tester! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Beta tester rozeti: bir beta test olmak için teşekkür ederiz! Bu rozet yalnızca uygulamayı kaldırmayı veya uygulama verilerini temizleyerek üzerine kaybolur. Bu rozet ayrıca app hiç reklam olmasını sağlar.
 ```
@@ -3761,7 +3761,7 @@ Beta tester rozeti: bir beta test olmak için teşekkür ederiz! Bu rozet yalnı
 ```
 Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sevk rozet: app arkadaşlarınızı davet için teşekkür ederiz! Bu rozet yalnızca uygulamayı kaldırmayı veya uygulama verilerini temizleyerek üzerine kaybolur. Bu rozet ayrıca app hiç reklam olmasını sağlar.
 ```
@@ -3771,7 +3771,7 @@ Sevk rozet: app arkadaşlarınızı davet için teşekkür ederiz! Bu rozet yaln
 ```
 Referral
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Referans
 ```
@@ -3781,7 +3781,7 @@ Referans
 ```
 Removing ads: exchange referrals credits with friends to remove ads
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 reklamları kaldırmak için arkadaşları ile değişim sevk kredisi: reklamların kaldırılmasını
 ```
@@ -3791,7 +3791,7 @@ reklamları kaldırmak için arkadaşları ile değişim sevk kredisi: reklamlar
 ```
 Sent credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gönderilen kredisi: %s
 ```
@@ -3801,7 +3801,7 @@ Gönderilen kredisi: %s
 ```
 Received credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Alınan krediler: %s
 ```
@@ -3811,7 +3811,7 @@ Alınan krediler: %s
 ```
 Contribute to translations
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 çeviriler katkıda bulunmak
 ```
@@ -3821,7 +3821,7 @@ translates to:
 ```
 You understand English and want to help with translations? Click here
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eğer İngilizce anlamak ve çevirileri ile yardım etmek ister misin? Buraya Tıkla
 ```
@@ -3831,7 +3831,7 @@ Eğer İngilizce anlamak ve çevirileri ile yardım etmek ister misin? Buraya T�
 ```
 The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hedef klasörün rengi veya simge farklıdır. marker renk ve simge güncellemek istiyor musunuz?
 ```
@@ -3841,7 +3841,7 @@ Hedef klasörün rengi veya simge farklıdır. marker renk ve simge güncellemek
 ```
 Add color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 renk ekleme
 ```
@@ -3851,7 +3851,7 @@ renk ekleme
 ```
 <![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; prim yükseltme nedir &lt;/ b&gt; kaldırma reklamların üstüne, prim yükseltme aşağıdaki özel premium özellikler kilidini &lt;br&gt;:? &lt;br&gt; • Sync Google Drive ya da Dropbox &lt;br&gt; • İşbirliği yoluyla Google Drive ya da Dropbox &lt;br&gt; • Harita versiyonları geçmiş ve geri yükleme &lt;br&gt; &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -3861,7 +3861,7 @@ translates to:
 ```
 Marker created from the geo location of the QR code
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 QR kod coğrafi konumu oluşturulan Marker
 ```
@@ -3871,7 +3871,7 @@ QR kod coğrafi konumu oluşturulan Marker
 ```
 Failed to read QR code as a geo location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 bir coğrafi konum olarak QR kodu okunamadı
 ```
@@ -3881,7 +3881,7 @@ bir coğrafi konum olarak QR kodu okunamadı
 ```
 The app for scanning QR codes could not be found. Do you want to install it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tarama QR kodları için uygulama bulunamadı. Bunu yüklemek istiyor musunuz?
 ```
@@ -3891,7 +3891,7 @@ Tarama QR kodları için uygulama bulunamadı. Bunu yüklemek istiyor musunuz?
 ```
 Selection action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Seçim eylem
 ```
@@ -3901,7 +3901,7 @@ Seçim eylem
 ```
 Move to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 sola doğru hareket
 ```
@@ -3911,7 +3911,7 @@ sola doğru hareket
 ```
 Move to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 sağa doğru hareket
 ```
@@ -3921,7 +3921,7 @@ sağa doğru hareket
 ```
 Rotate to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 sola döndürün
 ```
@@ -3931,7 +3931,7 @@ sola döndürün
 ```
 Rotate to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 sağa döndürme
 ```
@@ -3941,7 +3941,7 @@ sağa döndürme
 ```
 Delete image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 görüntüyü sil
 ```
@@ -3951,7 +3951,7 @@ görüntüyü sil
 ```
 From local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 yerel dosya
 ```
@@ -3961,7 +3961,7 @@ yerel dosya
 ```
 What format to you want to use to export?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Size ne biçim vermek için kullanmak istediğiniz?
 ```
@@ -3971,7 +3971,7 @@ Size ne biçim vermek için kullanmak istediğiniz?
 ```
 The data to export contains media(images) that cannot be included with this export format. The data will be exported without the media. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ihracat verileri, bu ihracat biçimi ile dahil edilemez medya (resim) içerir. veri medya olmadan ihraç edilecek. Her şeyi vermek için, seçim KMZ ihracat biçimi.
 ```
@@ -3981,7 +3981,7 @@ ihracat verileri, bu ihracat biçimi ile dahil edilemez medya (resim) içerir. v
 ```
 Standard Google Earth format. Cannot contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Standart Google Earth biçimi. medyayı içeremez.
 ```
@@ -3991,7 +3991,7 @@ Standart Google Earth biçimi. medyayı içeremez.
 ```
 Zip Google Earth format. Can contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zip Google Earth biçimi. medyayı içerebilir.
 ```
@@ -4001,7 +4001,7 @@ Zip Google Earth biçimi. medyayı içerebilir.
 ```
 Standard text spreadsheet format. Cannot contain media. Cannot contain lines or polygons.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Standart kısa tablo biçimi. medyayı içeremez. çizgiler veya poligonlar içeremez.
 ```
@@ -4011,7 +4011,7 @@ Standart kısa tablo biçimi. medyayı içeremez. çizgiler veya poligonlar içe
 ```
 Marker as plain text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 düz metin olarak Marker
 ```
@@ -4021,7 +4021,7 @@ düz metin olarak Marker
 ```
 Marker as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 dosyası olarak Marker
 ```
@@ -4031,7 +4031,7 @@ dosyası olarak Marker
 ```
 Share the selected marker as a file into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 başka bir uygulamanın içine bir dosya olarak seçilen işaretleyici paylaş
 ```
@@ -4041,7 +4041,7 @@ başka bir uygulamanın içine bir dosya olarak seçilen işaretleyici paylaş
 ```
 Share as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 dosyası olarak paylaş
 ```
@@ -4051,7 +4051,7 @@ dosyası olarak paylaş
 ```
 Export to a local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 yerel bir dosyaya aktar
 ```
@@ -4061,7 +4061,7 @@ yerel bir dosyaya aktar
 ```
 Import or export markers as files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 dosyaları olarak içe veya dışa aktarma belirteçleri
 ```
@@ -4071,7 +4071,7 @@ dosyaları olarak içe veya dışa aktarma belirteçleri
 ```
 The data to export contains complex markers (lines or polygons) that cannot be included with this export format. The data will be exported without those markers. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ihracat verileri, bu ihracat biçimi ile dahil edilemez karmaşık belirteçleri (çizgiler veya poligonlar) içeriyor. veriler bu belirteçler olmadan ihraç edilecek. Her şeyi vermek için, seçim KMZ ihracat biçimi.
 ```
@@ -4081,7 +4081,7 @@ ihracat verileri, bu ihracat biçimi ile dahil edilemez karmaşık belirteçleri
 ```
 Add custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Özel alan ekle
 ```
@@ -4091,7 +4091,7 @@ translates to:
 ```
 Information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bilgi
 ```
@@ -4101,7 +4101,7 @@ Bilgi
 ```
 Custom fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Özel Alanlar
 ```
@@ -4111,7 +4111,7 @@ translates to:
 ```
 Field name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Alan adı
 ```
@@ -4121,7 +4121,7 @@ Alan adı
 ```
 Delete field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Alanı sil
 ```
@@ -4131,7 +4131,7 @@ Alanı sil
 ```
 Attributes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Öznitellikler
 ```
@@ -4141,7 +4141,7 @@ translates to:
 ```
 New custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yeni özel alan
 ```
@@ -4151,7 +4151,7 @@ Yeni özel alan
 ```
 Modify custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Özel alanı değiştir
 ```
@@ -4161,7 +4161,7 @@ translates to:
 ```
 Field enabled. For folders, if enabled, that field will be added automatically to children POIs on creation. For POIs, if enabled, that field will be visible in the details page.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Alan etkinleştirildi. Klasörler için etkinse, bu alan otomatik olarak çocuk İÇY'lerine eklenir. İÇN'ler için etkinse, o alan ayrıntılar sayfasında görünür olur.
 ```
@@ -4171,7 +4171,7 @@ Alan etkinleştirildi. Klasörler için etkinse, bu alan otomatik olarak çocuk 
 ```
 Field info
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Alan bilgisi
 ```
@@ -4181,7 +4181,7 @@ Alan bilgisi
 ```
 Select field type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Alan türünü seçin
 ```
@@ -4191,7 +4191,7 @@ Alan türünü seçin
 ```
 Boolean (True or False)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Boolean (Doğru veya Yanlış)
 ```
@@ -4201,7 +4201,7 @@ Boolean (Doğru veya Yanlış)
 ```
 Default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Varsayılan değer
 ```
@@ -4211,7 +4211,7 @@ Varsayılan değer
 ```
 Date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 tarih
 ```
@@ -4221,7 +4221,7 @@ tarih
 ```
 Email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 E-posta
 ```
@@ -4231,7 +4231,7 @@ E-posta
 ```
 Text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Metin
 ```
@@ -4241,7 +4241,7 @@ Metin
 ```
 Multiple choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Çoktan seçmeli
 ```
@@ -4251,7 +4251,7 @@ translates to:
 ```
 Add choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Seçim ekle
 ```
@@ -4261,7 +4261,7 @@ Seçim ekle
 ```
 Duplicates are not allowed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yinelemelere izin verilmiyor
 ```
@@ -4271,7 +4271,7 @@ Yinelemelere izin verilmiyor
 ```
 Phone
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Telefon
 ```
@@ -4281,7 +4281,7 @@ Telefon
 ```
 Web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Web bağlantısı
 ```
@@ -4291,7 +4291,7 @@ Web bağlantısı
 ```
 Choices list
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Seçim listesi
 ```
@@ -4301,7 +4301,7 @@ Seçim listesi
 ```
 Select default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Varsayılan değeri seçin
 ```
@@ -4311,7 +4311,7 @@ Varsayılan değeri seçin
 ```
 Creation date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Oluşturulma tarihi
 ```
@@ -4321,7 +4321,7 @@ Oluşturulma tarihi
 ```
 POI Options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 İÇN Seçenekleri
 ```
@@ -4331,7 +4331,7 @@ translates to:
 ```
 Delete POI
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 İÇN'yi sil
 ```
@@ -4341,7 +4341,7 @@ translates to:
 ```
 Select value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Değeri seç
 ```
@@ -4351,7 +4351,7 @@ Değeri seç
 ```
 Used by folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klasörler tarafından kullanılır
 ```
@@ -4361,7 +4361,7 @@ Klasörler tarafından kullanılır
 ```
 Edit field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Alanı düzenle
 ```
@@ -4371,7 +4371,7 @@ Alanı düzenle
 ```
 Add folder field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klasör ekle alanı
 ```
@@ -4381,7 +4381,7 @@ Klasör ekle alanı
 ```
 Reorder fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Alanları yeniden sıralama
 ```
@@ -4391,7 +4391,7 @@ Alanları yeniden sıralama
 ```
 Pick the fields you want to apply to this folder\'s POIs
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bu klasöre \ 'nin İÇN'lerine uygulamak istediğiniz alanları seçin
 ```
@@ -4401,7 +4401,7 @@ Bu klasöre \ 'nin İÇN'lerine uygulamak istediğiniz alanları seçin
 ```
 The destination folder has different field values. Pick the fields you want to apply to moved POIs.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hedef klasörü farklı alan değerlerine sahiptir. Taşınan İÇN'lere uygulamak istediğiniz alanları seçin.
 ```
@@ -4411,7 +4411,7 @@ Hedef klasörü farklı alan değerlerine sahiptir. Taşınan İÇN'lere uygulam
 ```
 Update color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Rengi güncelle
 ```
@@ -4421,7 +4421,7 @@ Rengi güncelle
 ```
 Update pin icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bant güncelleme simgesi
 ```
@@ -4431,7 +4431,7 @@ Bant güncelleme simgesi
 ```
 Add field if missing: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eksikse alanı ekle: %s
 ```
@@ -4441,7 +4441,7 @@ Eksikse alanı ekle: %s
 ```
 Remove field if present: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Varsa alanı kaldır: %s
 ```
@@ -4451,7 +4451,7 @@ Varsa alanı kaldır: %s
 ```
 Update field name if different: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Farklıysa, alan adını güncelleyin: %s
 ```
@@ -4461,7 +4461,7 @@ Farklıysa, alan adını güncelleyin: %s
 ```
 More options…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Daha fazla seçenek…
 ```
@@ -4471,7 +4471,7 @@ Daha fazla seçenek…
 ```
 Folder options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dosya seçenekleri
 ```
@@ -4481,7 +4481,7 @@ Dosya seçenekleri
 ```
 Edit email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 email
 ```
@@ -4491,7 +4491,7 @@ email
 ```
 Edit web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Web bağlantısı düzenle
 ```
@@ -4501,7 +4501,7 @@ Web bağlantısı düzenle
 ```
 Decimal accuracy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ondalık doğruluğu
 ```
@@ -4511,7 +4511,7 @@ Ondalık doğruluğu
 ```
 Details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Detaylar panoya kopyalandı
 ```
@@ -4521,7 +4521,7 @@ Detaylar panoya kopyalandı
 ```
 Copy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 kopya
 ```
@@ -4531,7 +4531,7 @@ kopya
 ```
 Do you want to click here? ^‿^
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Buraya ulaşmak ister misiniz? ^ ‿ ^
 ```
@@ -4559,7 +4559,7 @@ And finally, thank you for reading this :-)
 Regards
 Sébastien
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hey, merakın için teşekkürler! 
  
@@ -4587,7 +4587,7 @@ Hey, merakın için teşekkürler!
 ```
 Normal with indoor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kapalı normal
 ```
@@ -4597,7 +4597,7 @@ Kapalı normal
 ```
 Floating marker titles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kayan işaretleme başlıkları
 ```
@@ -4607,7 +4607,7 @@ Kayan işaretleme başlıkları
 ```
 Maximum number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Azami sayı
 ```
@@ -4617,7 +4617,7 @@ Azami sayı
 ```
 Text size
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yazı Boyutu
 ```
@@ -4627,7 +4627,7 @@ Yazı Boyutu
 ```
 Search failed => %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Arama başarısız =&gt; %s
 ```
@@ -4637,7 +4637,7 @@ Arama başarısız =&gt; %s
 ```
 API key tutorial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 API key öğretici
 ```
@@ -4647,7 +4647,7 @@ API key öğretici
 ```
 Click here to see details on how to obtain an API key for your account.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hesabınız için nasıl API key alacağınızla ilgili ayrıntıları görmek için burayı tıklayın.
 ```
@@ -4657,7 +4657,7 @@ Hesabınız için nasıl API key alacağınızla ilgili ayrıntıları görmek i
 ```
 Personal API key
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kişisel API key
 ```
@@ -4667,7 +4667,7 @@ Kişisel API key
 ```
 None
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Yok
 ```
@@ -4679,7 +4679,7 @@ You can search for places with "Google Places API". This search requires an inte
 
 You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 "Google Places API" ile yerleri arayabilirsiniz. Bu arama internet bağlantısı gerektiriyor.
 
@@ -4691,7 +4691,7 @@ Kişisel Google Places API anahtarınızı yapılandırdınız: aramanız kişis
 ```
 Do you enjoy the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Uygulamayı seviyor musunuz?
 ```
@@ -4701,7 +4701,7 @@ Uygulamayı seviyor musunuz?
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Uygulamayı nasıl geliştirebileceğimi söylemek için bana bir email göndermek ister misiniz?
 ```
@@ -4711,7 +4711,7 @@ Uygulamayı nasıl geliştirebileceğimi söylemek için bana bir email gönderm
 ```
 Display extra POI fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ekstra İÇN alanları göster
 ```
@@ -4721,7 +4721,7 @@ Ekstra İÇN alanları göster
 ```
 IGN plans
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN planları
 ```
@@ -4731,7 +4731,7 @@ IGN planları
 ```
 IGN maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN haritaları
 ```
@@ -4741,7 +4741,7 @@ IGN haritaları
 ```
 IGN - Cadastral parcels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - Kadastro parselleri
 ```
@@ -4751,7 +4751,7 @@ IGN - Kadastro parselleri
 ```
 IGN - Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - Hava
 ```
@@ -4761,7 +4761,7 @@ IGN - Hava
 ```
 Type more and press enter again for refined results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Daha fazla yazın ve hassas sonuçlar için tekrar enter tuşuna basın
 ```

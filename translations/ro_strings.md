@@ -1,4 +1,4 @@
-# Map Marker translations for ro
+# Map Marker translations for Romanian (ro)
 
 You want to help improve this translation file? Read the [main page](https://github.com/androidseb/mapmarkerapptranslations)
 
@@ -7,7 +7,7 @@ You want to help improve this translation file? Read the [main page](https://git
 ```
 OK
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 OK
 ```
@@ -17,7 +17,7 @@ OK
 ```
 Yes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Da
 ```
@@ -27,7 +27,7 @@ Da
 ```
 No
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu
 ```
@@ -37,7 +37,7 @@ Nu
 ```
 Cancel
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Anula
 ```
@@ -47,7 +47,7 @@ Anula
 ```
 New marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Îi trimită nou
 ```
@@ -57,7 +57,7 @@ translates to:
 ```
 Title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Titlu
 ```
@@ -67,7 +67,7 @@ Titlu
 ```
 Description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Descriere
 ```
@@ -77,7 +77,7 @@ Descriere
 ```
 Do you really want to delete this marker?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chiar vrei să ștergeți acest marker?
 ```
@@ -87,7 +87,7 @@ Chiar vrei să ștergeți acest marker?
 ```
 GPS coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Coordonatele GPS
 ```
@@ -97,7 +97,7 @@ Coordonatele GPS
 ```
 Could not copy coordinates to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu sa putut copia coordonatele în clipboard
 ```
@@ -107,7 +107,7 @@ Nu sa putut copia coordonatele în clipboard
 ```
 Coordinates copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Coordonatele copiat în clipboard
 ```
@@ -117,7 +117,7 @@ Coordonatele copiat în clipboard
 ```
 Failed to access application save directory. Make sure that your device is not being accessed by a computer with the USB cable, and restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu a reușit să acceseze cerere salva director. Asigurați-vă că aparatul nu este accesat de un calculator cu ajutorul cablului USB și reporniți aplicația.
 ```
@@ -127,7 +127,7 @@ Nu a reușit să acceseze cerere salva director. Asigurați-vă că aparatul nu 
 ```
 Untitled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fără titlu
 ```
@@ -137,7 +137,7 @@ Fără titlu
 ```
 All
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Toate
 ```
@@ -147,7 +147,7 @@ Toate
 ```
 Add folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Adaugă folder
 ```
@@ -157,7 +157,7 @@ Adaugă folder
 ```
 Modify folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Modifică dosar
 ```
@@ -167,7 +167,7 @@ Modifică dosar
 ```
 Are you sure you want to delete this folder? All markers associated to this folder will be deleted permanently!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sunteți sigur că doriți să ștergeți acest dosar? Toate markeri asociați la acest dosar vor fi șterse definitiv!
 ```
@@ -177,7 +177,7 @@ Sunteți sigur că doriți să ștergeți acest dosar? Toate markeri asociați l
 ```
 Failed to create new folder, it already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu a reușit să creeze folder nou, ea există deja
 ```
@@ -187,7 +187,7 @@ Nu a reușit să creeze folder nou, ea există deja
 ```
 Failed to rename the folder, the destination name already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu a reușit să redenumiți folderul, numele destinație există deja
 ```
@@ -197,7 +197,7 @@ Nu a reușit să redenumiți folderul, numele destinație există deja
 ```
 Latitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Latitudine:
 ```
@@ -207,7 +207,7 @@ Latitudine:
 ```
 Longitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Longitudine:
 ```
@@ -217,7 +217,7 @@ Longitudine:
 ```
 Could not write file.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu am putut scrie fișierul.
 ```
@@ -227,7 +227,7 @@ Nu am putut scrie fișierul.
 ```
 Import/Export
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Import / Export
 ```
@@ -237,7 +237,7 @@ Import / Export
 ```
 Import markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Markeri de import
 ```
@@ -247,7 +247,7 @@ Markeri de import
 ```
 File imported successfully
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fișier importat cu succes
 ```
@@ -257,7 +257,7 @@ Fișier importat cu succes
 ```
 File import failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fișier de import a eșuat
 ```
@@ -267,7 +267,7 @@ Fișier de import a eșuat
 ```
 Location services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Servicii de localizare
 ```
@@ -277,7 +277,7 @@ Servicii de localizare
 ```
 Location services are disabled. To get your current location you must enable them.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Servicii de localizare sunt dezactivate. Pentru a obține locația curentă trebuie să le permită.
 ```
@@ -287,7 +287,7 @@ Servicii de localizare sunt dezactivate. Pentru a obține locația curentă treb
 ```
 Could not find address
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu sa putut găsi adresa
 ```
@@ -297,7 +297,7 @@ Nu sa putut găsi adresa
 ```
 Searching&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Căutare&#8230;
 ```
@@ -307,7 +307,7 @@ Căutare&#8230;
 ```
 Search
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Căutare
 ```
@@ -317,7 +317,7 @@ Căutare
 ```
 Share via
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Spune-le prietenilor prin
 ```
@@ -327,7 +327,7 @@ Spune-le prietenilor prin
 ```
 Do you want to import the content of this file?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vrei să importați conținutul acestui fișier?
 ```
@@ -337,7 +337,7 @@ Vrei să importați conținutul acestui fișier?
 ```
 Folder name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nume folder
 ```
@@ -347,7 +347,7 @@ Nume folder
 ```
 Save
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Salvați
 ```
@@ -357,7 +357,7 @@ Salvați
 ```
 Close
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Închidere
 ```
@@ -367,7 +367,7 @@ translates to:
 ```
 Are you sure you want to delete the selected markers?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sunteți sigur că doriți să ștergeți marcajele selectate?
 ```
@@ -377,7 +377,7 @@ Sunteți sigur că doriți să ștergeți marcajele selectate?
 ```
 Move markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mutare markeri în dosar
 ```
@@ -387,7 +387,7 @@ Mutare markeri în dosar
 ```
 Share
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Acțiune
 ```
@@ -397,7 +397,7 @@ Acțiune
 ```
 Folder:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dosar:
 ```
@@ -407,7 +407,7 @@ Dosar:
 ```
 Snapshot of my markers on Map Marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Instantaneu de markeri mele pe Map Marker
 ```
@@ -418,7 +418,7 @@ Instantaneu de markeri mele pe Map Marker
 This snapshot was made with the app Map Marker:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Acest instantaneu a fost făcut cu aplicația Map Marker : 
  %s
@@ -429,7 +429,7 @@ Acest instantaneu a fost făcut cu aplicația Map Marker :
 ```
 Processing data&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Prelucrarea datelor&#8230;
 ```
@@ -439,7 +439,7 @@ Prelucrarea datelor&#8230;
 ```
 You have unsaved modifications, do you want to save them?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ai modificări nesalvate, vrei să-i salveze?
 ```
@@ -449,7 +449,7 @@ Ai modificări nesalvate, vrei să-i salveze?
 ```
 Use the long press on the map to create a new marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Folosiți presa lung pe harta pentru a crea un nou marcator
 ```
@@ -459,7 +459,7 @@ Folosiți presa lung pe harta pentru a crea un nou marcator
 ```
 Map type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tipul Harta
 ```
@@ -469,7 +469,7 @@ Tipul Harta
 ```
 Normal
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Normal
 ```
@@ -479,7 +479,7 @@ Normal
 ```
 Satellite
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Satelit
 ```
@@ -489,7 +489,7 @@ Satelit
 ```
 Terrain
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Teren
 ```
@@ -499,7 +499,7 @@ Teren
 ```
 Hybrid
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hibrid
 ```
@@ -510,7 +510,7 @@ Hibrid
 Found a problem? Have an idea of improvement?
 Send me an email :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 S-au găsit o problemă? Au o idee de îmbunătățire? 
  Trimite-mi un email :-)
@@ -521,7 +521,7 @@ S-au găsit o problemă? Au o idee de îmbunătățire?
 ```
 Send email&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Trimite email&#8230;
 ```
@@ -532,7 +532,7 @@ Trimite email&#8230;
 You like the app?
 Rate it 5 stars :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Iti place aplicația? 
  o nota 5 stele :-)
@@ -543,7 +543,7 @@ Iti place aplicația?
 ```
 Change folder to&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Schimbarea dosar de&#8230;
 ```
@@ -553,7 +553,7 @@ Schimbarea dosar de&#8230;
 ```
 Directions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Direcții
 ```
@@ -563,7 +563,7 @@ Direcții
 ```
 Acquiring location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dobândirea locație&#8230;
 ```
@@ -573,7 +573,7 @@ Dobândirea locație&#8230;
 ```
 Meters
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Contoare
 ```
@@ -583,7 +583,7 @@ Contoare
 ```
 Km
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Km
 ```
@@ -593,7 +593,7 @@ Km
 ```
 Feet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Picioare
 ```
@@ -603,7 +603,7 @@ Picioare
 ```
 Miles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Miles
 ```
@@ -613,7 +613,7 @@ Miles
 ```
 Adjust map camera position when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Reglați hartă poziția camerei când ghidare într-o locație marcator
 ```
@@ -623,7 +623,7 @@ Reglați hartă poziția camerei când ghidare într-o locație marcator
 ```
 Keep screen on when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Păstrați ecranul atunci când ghidare într-o locație marcator
 ```
@@ -633,7 +633,7 @@ Păstrați ecranul atunci când ghidare într-o locație marcator
 ```
 Marker details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Detalii marker copiat în clipboard
 ```
@@ -643,7 +643,7 @@ Detalii marker copiat în clipboard
 ```
 Long press to drag and move the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Apăsați lung pentru a trage și pentru a muta marcatorul
 ```
@@ -653,7 +653,7 @@ Apăsați lung pentru a trage și pentru a muta marcatorul
 ```
 Error starting internal task manager, app will now exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eroare începând task manager intern, aplicație va acum ieșire
 ```
@@ -663,7 +663,7 @@ Eroare începând task manager intern, aplicație va acum ieșire
 ```
 Do not show again
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu arata din nou
 ```
@@ -673,7 +673,7 @@ Nu arata din nou
 ```
 Could not create the map capture
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu am putut crea captare hartă
 ```
@@ -683,7 +683,7 @@ Nu am putut crea captare hartă
 ```
 Metric (Kilometers/Meters)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Metric (kilometri / metri)
 ```
@@ -693,7 +693,7 @@ Metric (kilometri / metri)
 ```
 Imperial (Miles/Feet)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Imperial (Miles / picioare)
 ```
@@ -703,7 +703,7 @@ Imperial (Miles / picioare)
 ```
 There is a problem with Google Play Services: it needs to be installed, updated or activated. Click OK to try and solve it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Există o problemă cu Google Play Services : aceasta trebuie să fie instalat, actualizat sau activat. Faceți clic pe OK pentru a încerca și de a rezolva o.
 ```
@@ -713,7 +713,7 @@ Există o problemă cu Google Play Services : aceasta trebuie să fie instalat, 
 ```
 Delete folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ștergeți dosar
 ```
@@ -723,7 +723,7 @@ translates to:
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dacă vă place aplicația mea ma poti recompensa de a lua timp pentru a da un bun rating de :-)
 ```
@@ -734,7 +734,7 @@ Dacă vă place aplicația mea ma poti recompensa de a lua timp pentru a da un b
 OK take me
 to the Play Store
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 OK ia-mă 
  la Play Store
@@ -746,7 +746,7 @@ OK ia-mă
 I already
 gave a rating
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Am deja 
  -a dat o evaluare
@@ -758,7 +758,7 @@ Am deja
 Maybe later
 remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Poate mai târziu 
  -mi amintească
@@ -770,7 +770,7 @@ Poate mai târziu
 Maybe later
 do not remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Poate mai târziu 
  nu-mi amintesc
@@ -781,7 +781,7 @@ Poate mai târziu
 ```
 Could not find the place
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu am găsit locul
 ```
@@ -791,7 +791,7 @@ Nu am găsit locul
 ```
 Could not find another map application
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu am putut găsi o altă aplicație hartă
 ```
@@ -801,7 +801,7 @@ Nu am putut găsi o altă aplicație hartă
 ```
 Move the map around to place your marker where you want and click OK to place it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mutați harta în jurul valorii de a plasa îi trimită dumneavoastră în cazul în care doriți și faceți clic pe OK de introducere
 ```
@@ -811,7 +811,7 @@ Mutați harta în jurul valorii de a plasa îi trimită dumneavoastră în cazul
 ```
 Imported marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Îi trimită Importate
 ```
@@ -821,7 +821,7 @@ translates to:
 ```
 Settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Setări
 ```
@@ -831,7 +831,7 @@ Setări
 ```
 Display zoom buttons
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Butoanele zoom de afișare
 ```
@@ -841,7 +841,7 @@ Butoanele zoom de afișare
 ```
 Decimal degrees
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Grade zecimale
 ```
@@ -851,7 +851,7 @@ Grade zecimale
 ```
 Degrees decimal minutes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Grade minute zecimale
 ```
@@ -861,7 +861,7 @@ Grade minute zecimale
 ```
 Degrees minutes seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Grade minute secunde
 ```
@@ -871,7 +871,7 @@ Grade minute secunde
 ```
 Coordinates format
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Format Coordonate
 ```
@@ -881,7 +881,7 @@ Format Coordonate
 ```
 GPS and wireless networks only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Numai rețelele GPS și fără fir
 ```
@@ -891,7 +891,7 @@ Numai rețelele GPS și fără fir
 ```
 GPS and wireless networks or magnetic sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Rețele GPS și fără fir sau senzor magnetic
 ```
@@ -901,7 +901,7 @@ Rețele GPS și fără fir sau senzor magnetic
 ```
 Magnetic sensor only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Numai senzor magnetic
 ```
@@ -911,7 +911,7 @@ Numai senzor magnetic
 ```
 Used compass sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Senzor busolă second hand
 ```
@@ -921,7 +921,7 @@ Senzor busolă second hand
 ```
 FAQ/Help
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Intrebari frecvente / Ajutor
 ```
@@ -931,7 +931,7 @@ Intrebari frecvente / Ajutor
 ```
 Folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dosare
 ```
@@ -941,7 +941,7 @@ Dosare
 ```
 Help and settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ajutor și setările
 ```
@@ -951,7 +951,7 @@ Ajutor și setările
 ```
 Language
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Limbă
 ```
@@ -961,7 +961,7 @@ Limbă
 ```
 Marker popup style
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker stil pop-up
 ```
@@ -971,7 +971,7 @@ Marker stil pop-up
 ```
 Bottom
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fund
 ```
@@ -981,7 +981,7 @@ Fund
 ```
 Bubble
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Balon
 ```
@@ -991,7 +991,7 @@ Balon
 ```
 Coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Coordonate
 ```
@@ -1001,7 +1001,7 @@ Coordonate
 ```
 Contextual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Contextual
 ```
@@ -1011,7 +1011,7 @@ Contextual
 ```
 Always
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mereu
 ```
@@ -1021,7 +1021,7 @@ Mereu
 ```
 Crosshair display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Afișare Crosshair
 ```
@@ -1031,7 +1031,7 @@ Afișare Crosshair
 ```
 Coordinates window
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fereastră Coordonate
 ```
@@ -1041,7 +1041,7 @@ Fereastră Coordonate
 ```
 Lat:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lat:
 ```
@@ -1051,7 +1051,7 @@ Lat:
 ```
 Lng:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GNL:
 ```
@@ -1061,7 +1061,7 @@ GNL:
 ```
 Marker instant adding mode
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker instant Mod de adăugare
 ```
@@ -1071,7 +1071,7 @@ Marker instant Mod de adăugare
 ```
 Advanced
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Avansat
 ```
@@ -1081,7 +1081,7 @@ Avansat
 ```
 Display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Afișa
 ```
@@ -1091,7 +1091,7 @@ Afișa
 ```
 Actions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Oferte
 ```
@@ -1101,7 +1101,7 @@ Oferte
 ```
 Language and units
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Limbă și Unități
 ```
@@ -1111,7 +1111,7 @@ Limbă și Unități
 ```
 Markers ignored on import (duplicates): %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Markerii ignorate la import (dubluri): %1$d
 ```
@@ -1121,7 +1121,7 @@ Markerii ignorate la import (dubluri): %1$d
 ```
 %1$d markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d markeri
 ```
@@ -1131,7 +1131,7 @@ translates to:
 ```
 No auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nr denumire auto
 ```
@@ -1141,7 +1141,7 @@ Nr denumire auto
 ```
 Auto naming "number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Auto denumire "număr"
 ```
@@ -1151,7 +1151,7 @@ Auto denumire "număr"
 ```
 Auto naming "Marker number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Auto denumire "număr Marker"
 ```
@@ -1161,7 +1161,7 @@ Auto denumire "număr Marker"
 ```
 New marker auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Îi trimită nou auto denumire
 ```
@@ -1171,7 +1171,7 @@ translates to:
 ```
 Marker %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker %1$d
 ```
@@ -1181,7 +1181,7 @@ Marker %1$d
 ```
 Waiting for location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Se așteaptă locație&#8230;
 ```
@@ -1191,7 +1191,7 @@ Se așteaptă locație&#8230;
 ```
 Open the help page and see the FAQ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Deschideți pagina de ajutor și a vedea FAQ
 ```
@@ -1201,7 +1201,7 @@ Deschideți pagina de ajutor și a vedea FAQ
 ```
 Features
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Caracteristici
 ```
@@ -1211,7 +1211,7 @@ Caracteristici
 ```
 View the list of upcoming features for the next app version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vezi lista de caracteristici viitoare pentru urmatoarea versiune app
 ```
@@ -1221,7 +1221,7 @@ Vezi lista de caracteristici viitoare pentru urmatoarea versiune app
 ```
 Help &amp; Feedback
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ajutor &amp; Feedback
 ```
@@ -1231,7 +1231,7 @@ Ajutor &amp; Feedback
 ```
 About
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Despre
 ```
@@ -1241,7 +1241,7 @@ Despre
 ```
 Distance to %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Distanța până la %1$s
 ```
@@ -1251,7 +1251,7 @@ Distanța până la %1$s
 ```
 Snapshot
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Instantaneu
 ```
@@ -1261,7 +1261,7 @@ Instantaneu
 ```
 Share a snapshot of the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Distribuie o imagine de pe harta
 ```
@@ -1271,7 +1271,7 @@ Distribuie o imagine de pe harta
 ```
 All markers and folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Toate markeri și foldere
 ```
@@ -1281,7 +1281,7 @@ Toate markeri și foldere
 ```
 <![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Pentru a direcției de nord adecvat pentru busola, aveți nevoie pentru a vă calibra telefon corect. &lt;br&gt; Pentru a calibra telefonul, pur și simplu deplasa prin tragere la un 8 . Măsura trebuie să fie larg și repetat de aproximativ 3 ori mai bună eficiență. &lt;br&gt; Puteți să vă calibra telefon de a face acest lucru în orice moment. &lt;/ b&gt; Site-ul de calibrare are limitările sale și ar putea să nu fie suficient de pentru a contracara interferențe din apropiere, cum ar fi: &lt;br&gt; • obiecte metalice mari &lt;br&gt; • dispozitive electronice &lt;br&gt; • magneții &lt;br&gt; • interiorul unei mașini / autobuz / tren / avion &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -1291,7 +1291,7 @@ translates to:
 ```
 Badges
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Insigne
 ```
@@ -1301,7 +1301,7 @@ Insigne
 ```
 Buy a donation badge
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cumpăra o insignă donație
 ```
@@ -1311,7 +1311,7 @@ Cumpăra o insignă donație
 ```
 Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vă mulțumim pentru donație! Aceasta donatie subvenții insigna acces la caracteristici :-)
 ```
@@ -1321,7 +1321,7 @@ Vă mulțumim pentru donație! Aceasta donatie subvenții insigna acces la carac
 ```
 Default folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Folder implicit
 ```
@@ -1331,7 +1331,7 @@ Folder implicit
 ```
 Sync options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opțiuni de sincronizare
 ```
@@ -1341,7 +1341,7 @@ Opțiuni de sincronizare
 ```
 Google Drive
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Google Drive
 ```
@@ -1351,7 +1351,7 @@ Google Drive
 ```
 Dropbox
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dropbox
 ```
@@ -1361,7 +1361,7 @@ Dropbox
 ```
 Configuring&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Configurarea&#8230;
 ```
@@ -1371,7 +1371,7 @@ Configurarea&#8230;
 ```
 Sync now
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sincronizare acum
 ```
@@ -1381,7 +1381,7 @@ Sincronizare acum
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu
 ```
@@ -1391,7 +1391,7 @@ Nu
 ```
 Syncing…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Se sincronizează&#8230;
 ```
@@ -1401,7 +1401,7 @@ Se sincronizează&#8230;
 ```
 Select folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Selectati directorul
 ```
@@ -1411,7 +1411,7 @@ Selectati directorul
 ```
 Load error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eroare de încărcare
 ```
@@ -1421,7 +1421,7 @@ Eroare de încărcare
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Reîncercați
 ```
@@ -1431,7 +1431,7 @@ Reîncercați
 ```
 Root
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Rădăcină
 ```
@@ -1441,7 +1441,7 @@ Rădăcină
 ```
 Shared
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Comună
 ```
@@ -1451,7 +1451,7 @@ Comună
 ```
 Purchase successful!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Achiziționa de succes!
 ```
@@ -1461,7 +1461,7 @@ Achiziționa de succes!
 ```
 Purchase failed: %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cumpărare nu a %1$s
 ```
@@ -1471,7 +1471,7 @@ Cumpărare nu a %1$s
 ```
 Premium access available! You currently have access to premium features.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Acces premium disponibil! Aveți în prezent acces la caracteristici premium.
 ```
@@ -1481,7 +1481,7 @@ Acces premium disponibil! Aveți în prezent acces la caracteristici premium.
 ```
 You cannot select that folder because it contains multiple files named %1$s. The sync requires the folder to contain only one file with that name.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu puteți selecta acel dosar, deoarece conține mai multe fișiere cu %1$s Sincronizare cere dosarul să conțină doar un fișier cu acest nume.
 ```
@@ -1491,7 +1491,7 @@ Nu puteți selecta acel dosar, deoarece conține mai multe fișiere cu %1$s Sinc
 ```
 It seems sync data already exists in that folder. If you select that folder, your local data will be merged with the folder data when sync is performed. Is that what you want?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Se pare că datele de sincronizare există deja în acel folder. Dacă selectați acel dosar, datele dvs. locale vor fi fuzionat cu datele folder atunci când sincronizarea este efectuată. Este că ceea ce vrei?
 ```
@@ -1501,7 +1501,7 @@ Se pare că datele de sincronizare există deja în acel folder. Dacă selectaț
 ```
 File options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opțiuni fișier
 ```
@@ -1511,7 +1511,7 @@ Opțiuni fișier
 ```
 Cloud sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nor de sincronizare
 ```
@@ -1521,7 +1521,7 @@ Nor de sincronizare
 ```
 Sync this map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sincroniza acest fișier hartă pe nor
 ```
@@ -1531,7 +1531,7 @@ Sincroniza acest fișier hartă pe nor
 ```
 Map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fișier hartă
 ```
@@ -1541,7 +1541,7 @@ Fișier hartă
 ```
 Create local map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Creați harta locală
 ```
@@ -1551,7 +1551,7 @@ Creați harta locală
 ```
 Create a new map file locally
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Creați un nou fișier hartă la nivel local
 ```
@@ -1561,7 +1561,7 @@ Creați un nou fișier hartă la nivel local
 ```
 Create cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Creați harta nor
 ```
@@ -1571,7 +1571,7 @@ Creați harta nor
 ```
 Create a map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Creați un fișier hartă pe nor
 ```
@@ -1581,7 +1581,7 @@ Creați un fișier hartă pe nor
 ```
 Retrieves changes from the cloud and sends local changes to the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Preia modificări din nor și trimite modificările locale la nor
 ```
@@ -1591,7 +1591,7 @@ Preia modificări din nor și trimite modificările locale la nor
 ```
 Rename
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Redenumiți
 ```
@@ -1601,7 +1601,7 @@ Redenumiți
 ```
 Rename the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Redenumiți harta
 ```
@@ -1611,7 +1611,7 @@ Redenumiți harta
 ```
 Enter new name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Introduceți numele nou
 ```
@@ -1621,7 +1621,7 @@ Introduceți numele nou
 ```
 Enter the new map\'s name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Introduceți noul nume hartă lui
 ```
@@ -1631,7 +1631,7 @@ Introduceți noul nume hartă lui
 ```
 %1$d folders, %2$d markers, size: %3$d KB
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d %2$d markeri, %3$d KB
 ```
@@ -1641,7 +1641,7 @@ translates to:
 ```
 Create new folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Creați director nou
 ```
@@ -1651,7 +1651,7 @@ Creați director nou
 ```
 Could not create folder: name empty
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu am putut crea dosarul: nume gol
 ```
@@ -1661,7 +1661,7 @@ Nu am putut crea dosarul: nume gol
 ```
 Could not create folder: error occurred
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu am putut crea dosarul: eroare
 ```
@@ -1671,7 +1671,7 @@ Nu am putut crea dosarul: eroare
 ```
 Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vă mulțumim pentru Map Marker de upgrade :-)
 ```
@@ -1681,7 +1681,7 @@ Vă mulțumim pentru Map Marker de upgrade :-)
 ```
 Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vă mulțumim pentru interesul arătat față de acordarea de Map Marker :-)
 ```
@@ -1691,7 +1691,7 @@ Vă mulțumim pentru interesul arătat față de acordarea de Map Marker :-)
 ```
 Premium
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Premium
 ```
@@ -1701,7 +1701,7 @@ Premium
 ```
 Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Upgrade premium și să profite pe deplin Map Marker caracteristici!
 ```
@@ -1711,7 +1711,7 @@ Upgrade premium și să profite pe deplin Map Marker caracteristici!
 ```
 Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ne pare rău, ai nevoie de upgrade-ul premium pentru a accesa această funcție. Upgrade premium și să profite pe deplin Map Marker caracteristici!
 ```
@@ -1721,7 +1721,7 @@ Ne pare rău, ai nevoie de upgrade-ul premium pentru a accesa această funcție.
 ```
 You have the premium upgrade for free! You can still purchase it if you want to show your support :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ai upgrade-ul premium pentru gratuit! Puteți să-l cumpere în continuare, dacă doriți să arate sprijinul :-)
 ```
@@ -1731,7 +1731,7 @@ Ai upgrade-ul premium pentru gratuit! Puteți să-l cumpere în continuare, dac�
 ```
 Purchase the premium upgrade
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Achiziționa upgrade-ul premium
 ```
@@ -1741,7 +1741,7 @@ Achiziționa upgrade-ul premium
 ```
 My Google account already has premium access, activate it!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Contul meu Google are deja acces premium, al activa!
 ```
@@ -1751,7 +1751,7 @@ Contul meu Google are deja acces premium, al activa!
 ```
 Troubleshooting
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Depanare
 ```
@@ -1761,7 +1761,7 @@ Depanare
 ```
 Open a list of actions to solve possible problems
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Deschideți o listă de acțiuni pentru a rezolva eventualele probleme
 ```
@@ -1771,7 +1771,7 @@ Deschideți o listă de acțiuni pentru a rezolva eventualele probleme
 ```
 Test internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Internet de testare
 ```
@@ -1781,7 +1781,7 @@ Internet de testare
 ```
 Checks that the app has access to internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Verifică dacă aplicația are acces la internet
 ```
@@ -1791,7 +1791,7 @@ Verifică dacă aplicația are acces la internet
 ```
 Test file writing
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Scris fișier de test
 ```
@@ -1801,7 +1801,7 @@ Scris fișier de test
 ```
 Checks that the app can save files on the internal SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Verifică dacă aplicația poate salva fișiere de pe cardul SD intern
 ```
@@ -1811,7 +1811,7 @@ Verifică dacă aplicația poate salva fișiere de pe cardul SD intern
 ```
 GP Services (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GP Servicii (app)
 ```
@@ -1821,7 +1821,7 @@ GP Servicii (app)
 ```
 Open the details of the currently installed Google Play Services app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Deschide detaliile Google Play Services app
 ```
@@ -1831,7 +1831,7 @@ Deschide detaliile Google Play Services app
 ```
 GP Services (store)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GP Servicii (magazin)
 ```
@@ -1841,7 +1841,7 @@ GP Servicii (magazin)
 ```
 Google Play (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Google Play (app)
 ```
@@ -1851,7 +1851,7 @@ Google Play (app)
 ```
 Contact support
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Suport de contact
 ```
@@ -1861,7 +1861,7 @@ Suport de contact
 ```
 Write an email to support with the details of your problem
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Scrie email pentru a sprijini cu detaliile problema ta
 ```
@@ -1871,7 +1871,7 @@ Scrie email pentru a sprijini cu detaliile problema ta
 ```
 Device network unavailable
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Rețea indisponibil dispozitiv
 ```
@@ -1881,7 +1881,7 @@ Rețea indisponibil dispozitiv
 ```
 Testing&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Testarea&#8230;
 ```
@@ -1891,7 +1891,7 @@ Testarea&#8230;
 ```
 Network test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Încercare de rețea a reușit
 ```
@@ -1901,7 +1901,7 @@ translates to:
 ```
 Network test failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Încercare de rețea nu a reușit
 ```
@@ -1911,7 +1911,7 @@ translates to:
 ```
 Disk test failed: could not write to internal storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Încercare Disk nu a reușit: nu a putut scrie în memoria internă
 ```
@@ -1921,7 +1921,7 @@ translates to:
 ```
 Disk test failed: could not write to external storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Încercare Disk nu a reușit: nu a putut scrie de stocare extern
 ```
@@ -1931,7 +1931,7 @@ translates to:
 ```
 Disk test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Încercare Disk reușit
 ```
@@ -1941,7 +1941,7 @@ translates to:
 ```
 App failed to start: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 App nu a reușit să %s
 ```
@@ -1951,7 +1951,7 @@ App nu a reușit să %s
 ```
 The file does not exist
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fișierul nu există
 ```
@@ -1961,7 +1961,7 @@ Fișierul nu există
 ```
 Share cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Spune-le prietenilor nor harta
 ```
@@ -1971,7 +1971,7 @@ Spune-le prietenilor nor harta
 ```
 Open the cloud map folder to view its properties and share it with other people
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Deschideți folderul harta nor pentru a vizualiza proprietățile sale și să o împărtășească cu alte persoane
 ```
@@ -1981,7 +1981,7 @@ Deschideți folderul harta nor pentru a vizualiza proprietățile sale și să o
 ```
 Internal file to SD
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fișier intern la SD
 ```
@@ -1991,7 +1991,7 @@ Fișier intern la SD
 ```
 Copy the app hidden internal files to the sdcard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Copiați fișiere interne ascunse aplicației să sdcard
 ```
@@ -2001,7 +2001,7 @@ Copiați fișiere interne ascunse aplicației să sdcard
 ```
 Enter destination folder path
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Introduceți destinație cale de folder
 ```
@@ -2011,7 +2011,7 @@ Introduceți destinație cale de folder
 ```
 Could not create folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu am putut crea dosarul
 ```
@@ -2021,7 +2021,7 @@ Nu am putut crea dosarul
 ```
 Files successfully saved to: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fișierele salvate cu succes %s
 ```
@@ -2031,7 +2031,7 @@ Fișierele salvate cu succes %s
 ```
 View history/Restore
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Istoric / Restaurare
 ```
@@ -2041,7 +2041,7 @@ Istoric / Restaurare
 ```
 View history of modifications to the cloud folder and select a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vezi istoria modificărilor în folderul nor și selectați o versiune pentru a restabili la
 ```
@@ -2051,7 +2051,7 @@ Vezi istoria modificărilor în folderul nor și selectați o versiune pentru a 
 ```
 Create map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Creați harta fișier
 ```
@@ -2061,7 +2061,7 @@ Creați harta fișier
 ```
 Create a new map file locally or on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Creați un nou fișier hartă la nivel local sau pe nor
 ```
@@ -2071,7 +2071,7 @@ Creați un nou fișier hartă la nivel local sau pe nor
 ```
 Open cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Deschideți harta nor
 ```
@@ -2081,7 +2081,7 @@ Deschideți harta nor
 ```
 Open a map file from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Deschiderea unui fișier hartă de nor
 ```
@@ -2091,7 +2091,7 @@ Deschiderea unui fișier hartă de nor
 ```
 Map Marker needs the permission to access your location in order to display it on the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker are nevoie de permisiunea de a accesa locația dvs., în scopul de a afișa pe hartă
 ```
@@ -2101,7 +2101,7 @@ Map Marker are nevoie de permisiunea de a accesa locația dvs., în scopul de a 
 ```
 Map Marker needs the permission to access to the storage of your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker are nevoie de permisiunea de a accesa la stocare a dispozitivului
 ```
@@ -2111,7 +2111,7 @@ Map Marker are nevoie de permisiunea de a accesa la stocare a dispozitivului
 ```
 Open settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Setările deschise
 ```
@@ -2121,7 +2121,7 @@ Setările deschise
 ```
 No map folder found on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu folder harta găsit pe nor
 ```
@@ -2131,7 +2131,7 @@ Nu folder harta găsit pe nor
 ```
 Auto sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Auto Sincronizare
 ```
@@ -2141,7 +2141,7 @@ Auto Sincronizare
 ```
 Choose a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Alege o versiune pentru a restabili la
 ```
@@ -2151,7 +2151,7 @@ Alege o versiune pentru a restabili la
 ```
 You must sync first before restoring an older version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Trebuie să sincronizați înainte de restabilirea o versiune mai veche
 ```
@@ -2161,7 +2161,7 @@ Trebuie să sincronizați înainte de restabilirea o versiune mai veche
 ```
 Are you sure you want to restore this version?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sigur doriți să restabiliți această versiune?
 ```
@@ -2171,7 +2171,7 @@ Sigur doriți să restabiliți această versiune?
 ```
 Map Marker lost permissions to write to your cloud account. Sync will always fail until this is fixed. Do you want to fix it now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker permisiuni pierdute pentru a scrie la contul dvs. de nor. Sync va eșua întotdeauna până când această este fixată. Vrei să-l Fix acum?
 ```
@@ -2181,7 +2181,7 @@ Map Marker permisiuni pierdute pentru a scrie la contul dvs. de nor. Sync va eș
 ```
 A sync error occurred. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A avut loc o eroare de sincronizare. Vă rugăm să încercați din nou.
 ```
@@ -2191,7 +2191,7 @@ A avut loc o eroare de sincronizare. Vă rugăm să încercați din nou.
 ```
 A sync error occurred: network error. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 O eroare de sincronizare a apărut: eroare de rețea. Vă rugăm să încercați din nou.
 ```
@@ -2201,7 +2201,7 @@ O eroare de sincronizare a apărut: eroare de rețea. Vă rugăm să încercați
 ```
 A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 O eroare de sincronizare a avut loc: un conflict, un alt dispozitiv a fost efectuarea sincronizare, în același timp. Vă rugăm să încercați din nou.
 ```
@@ -2211,7 +2211,7 @@ O eroare de sincronizare a avut loc: un conflict, un alt dispozitiv a fost efect
 ```
 Changes are available from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Modificările sunt disponibile din nor
 ```
@@ -2221,7 +2221,7 @@ Modificările sunt disponibile din nor
 ```
 Changes made from another device were synced on the cloud. You can retrieve those changes by syncing.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Modificările efectuate de la un alt aparat s-au sincronizate pe nor. Puteți prelua aceste schimbări de sincronizarea.
 ```
@@ -2231,7 +2231,7 @@ Modificările efectuate de la un alt aparat s-au sincronizate pe nor. Puteți pr
 ```
 Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for details on how to restore cloud permissions.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu a reușit să restabilească permisiunile stocare cloud. Vă rugăm să consultați "Despre" -&gt; "Întrebări frecvente" pentru detalii cu privire la modul de a restabili permisiunile cloud.
 ```
@@ -2241,7 +2241,7 @@ Nu a reușit să restabilească permisiunile stocare cloud. Vă rugăm să consu
 ```
 A sync error occurred: duplicate index, there are at least two files named index.json in the map cloud folder. Remove the duplicates manually and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 O eroare de sincronizare a avut loc: duplicat index, există cel puțin două fișiere numite index.json în dosarul hartă nor. Scoateți duplicatele manual și încercați din nou.
 ```
@@ -2251,7 +2251,7 @@ O eroare de sincronizare a avut loc: duplicat index, există cel puțin două fi
 ```
 Phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Numar de telefon
 ```
@@ -2261,7 +2261,7 @@ Numar de telefon
 ```
 Edit phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Editare număr de telefon
 ```
@@ -2271,7 +2271,7 @@ Editare număr de telefon
 ```
 Map Marker needs the permission to make calls on your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker are nevoie de permisiunea de a efectua apeluri de pe dispozitivul dvs.
 ```
@@ -2281,7 +2281,7 @@ Map Marker are nevoie de permisiunea de a efectua apeluri de pe dispozitivul dvs
 ```
 No phone number is defined for that marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nici un număr de telefon este definit pentru că îi trimită
 ```
@@ -2291,7 +2291,7 @@ Nici un număr de telefon este definit pentru că îi trimită
 ```
 Navigation options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opțiuni de navigare
 ```
@@ -2301,7 +2301,7 @@ Opțiuni de navigare
 ```
 Open the marker location in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Deschideți locația îi trimită în această aplicație
 ```
@@ -2311,7 +2311,7 @@ Deschideți locația îi trimită în această aplicație
 ```
 Open the marker street view in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Deschideți ecranul stradă să îi trimită în această aplicație
 ```
@@ -2321,7 +2321,7 @@ Deschideți ecranul stradă să îi trimită în această aplicație
 ```
 Enter navigation mode in this app to get directions to the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Intra în modul de navigare în această aplicație pentru a traseu la markerul
 ```
@@ -2331,7 +2331,7 @@ Intra în modul de navigare în această aplicație pentru a traseu la markerul
 ```
 Other options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Alte opțiuni
 ```
@@ -2341,7 +2341,7 @@ Alte opțiuni
 ```
 Share the selected marker as plain text into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Împărtășesc markerul selectat ca text simplu în altă aplicație
 ```
@@ -2351,7 +2351,7 @@ translates to:
 ```
 %1$d markers in %2$d folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d markeri %2$d dosare
 ```
@@ -2361,7 +2361,7 @@ translates to:
 ```
 A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 O eroare de sincronizare a avut loc: datele de nor a fost actualizat cu o versiune mai recentă a aplicației. Trebuie să Map Marker pe acest dispozitiv pentru a sincroniza.
 ```
@@ -2371,7 +2371,7 @@ O eroare de sincronizare a avut loc: datele de nor a fost actualizat cu o versiu
 ```
 Could not find a phone app on this device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu a putut găsi o aplicație de telefon de pe acest dispozitiv.
 ```
@@ -2381,7 +2381,7 @@ Nu a putut găsi o aplicație de telefon de pe acest dispozitiv.
 ```
 Phone number options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opțiuni numărul de telefon
 ```
@@ -2391,7 +2391,7 @@ Opțiuni numărul de telefon
 ```
 Call phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Numărul de telefon al Call
 ```
@@ -2401,7 +2401,7 @@ Numărul de telefon al Call
 ```
 Dial phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Formați numărul de telefon
 ```
@@ -2411,7 +2411,7 @@ Formați numărul de telefon
 ```
 Text phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Numărul de telefon al text
 ```
@@ -2421,7 +2421,7 @@ Numărul de telefon al text
 ```
 Default navigation action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Acțiune de navigare implicit
 ```
@@ -2431,7 +2431,7 @@ Acțiune de navigare implicit
 ```
 Default phone action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Acțiune de telefon implicit
 ```
@@ -2441,7 +2441,7 @@ Acțiune de telefon implicit
 ```
 Ask
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cere
 ```
@@ -2451,7 +2451,7 @@ Cere
 ```
 Premium free trial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 încercare gratuită premium
 ```
@@ -2461,7 +2461,7 @@ translates to:
 ```
 What is the premium upgrade?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Care este upgrade premium?
 ```
@@ -2471,7 +2471,7 @@ Care este upgrade premium?
 ```
 Premium free trial started! The trial will expire at the following date: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 încercare gratuită premium a început! Procesul va expira la data următoare: %s
 ```
@@ -2482,7 +2482,7 @@ translates to:
 Trial expiration:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Expirare de încercare: 
  %s
@@ -2493,7 +2493,7 @@ Expirare de încercare:
 ```
 Trial expired
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 trial a expirat
 ```
@@ -2503,7 +2503,7 @@ trial a expirat
 ```
 Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sincronizarea a fost anulat: aveți nevoie de upgrade-premium, în scopul de a efectua sincronizarea.
 ```
@@ -2513,7 +2513,7 @@ Sincronizarea a fost anulat: aveți nevoie de upgrade-premium, în scopul de a e
 ```
 Error: trial starting in the future!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eroare: pornire proces în viitor!
 ```
@@ -2523,7 +2523,7 @@ Eroare: pornire proces în viitor!
 ```
 Thank you for your purchase!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Multumesc pentru cumparaturile facute!
 ```
@@ -2533,7 +2533,7 @@ Multumesc pentru cumparaturile facute!
 ```
 Browse
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Naviga
 ```
@@ -2543,7 +2543,7 @@ Naviga
 ```
 Organize
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Organiza
 ```
@@ -2553,7 +2553,7 @@ Organiza
 ```
 Create
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Crea
 ```
@@ -2563,7 +2563,7 @@ Crea
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 reîncerca
 ```
@@ -2573,7 +2573,7 @@ reîncerca
 ```
 Search failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 căutarea a eșuat
 ```
@@ -2583,7 +2583,7 @@ căutarea a eșuat
 ```
 Search failed, network error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Căutarea nu a reușit, eroare de rețea
 ```
@@ -2593,7 +2593,7 @@ Căutarea nu a reușit, eroare de rețea
 ```
 Details
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Detalii
 ```
@@ -2603,7 +2603,7 @@ Detalii
 ```
 Sync error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 eroare de sincronizare
 ```
@@ -2613,7 +2613,7 @@ eroare de sincronizare
 ```
 The file already exists, do you want to overwrite it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fișierul există deja, nu doriți să-l suprascrie?
 ```
@@ -2623,7 +2623,7 @@ Fișierul există deja, nu doriți să-l suprascrie?
 ```
 Copy markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Markerii Copiere în dosarul
 ```
@@ -2633,7 +2633,7 @@ Markerii Copiere în dosarul
 ```
 Error loading the Google Map component. Please restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eroare la încărcarea Google Map pentru componente. Vă rugăm să reporniți aplicația.
 ```
@@ -2643,7 +2643,7 @@ Eroare la încărcarea Google Map pentru componente. Vă rugăm să reporniți a
 ```
 You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Veți vedea lista marcatorii aici. În prezent nu aveți markeri în directorul selectat (e). Aveți posibilitatea să adăugați un marker nou, făcând clic pe butonul de mai jos.
 ```
@@ -2653,7 +2653,7 @@ Veți vedea lista marcatorii aici. În prezent nu aveți markeri în directorul 
 ```
 No search results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu există rezultate ale căutării
 ```
@@ -2663,7 +2663,7 @@ Nu există rezultate ale căutării
 ```
 Open Street Map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Open Street Map
 ```
@@ -2673,7 +2673,7 @@ Open Street Map
 ```
 Bing Road
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Road
 ```
@@ -2683,7 +2683,7 @@ Bing Road
 ```
 Bing Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial
 ```
@@ -2693,7 +2693,7 @@ Bing Aerial
 ```
 Bing Aerial With Labels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial , cu etichete
 ```
@@ -2703,7 +2703,7 @@ Bing Aerial , cu etichete
 ```
 ArcGIS Server
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ArcGIS Server
 ```
@@ -2713,7 +2713,7 @@ ArcGIS Server
 ```
 Offline maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 hărţi offline
 ```
@@ -2723,7 +2723,7 @@ hărţi offline
 ```
 No folder selected
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Niciun dosar selectat
 ```
@@ -2733,7 +2733,7 @@ Niciun dosar selectat
 ```
 Storage folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 dosar de stocare
 ```
@@ -2744,7 +2744,7 @@ dosar de stocare
 Test results of the offline maps folder:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Rezultatele testului folderului hărți offline: 
  %s
@@ -2755,7 +2755,7 @@ Rezultatele testului folderului hărți offline:
 ```
 No folder is selected for offline map files. In order to use offline maps, open the settings and select a folder for offline map files.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nici un director este selectat pentru fișiere offline de pe hartă. În scopul de a utiliza hărți offline, deschideți setările și selectați un dosar pentru fișiere offline de pe hartă.
 ```
@@ -2765,7 +2765,7 @@ Nici un director este selectat pentru fișiere offline de pe hartă. În scopul 
 ```
 The selected offline map folder you selected contains no files. Make sure you add the offline map files in that folder before using offline maps, otherwise the map will be empty.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Selectat hartă offline folderul pe care ați selectat nu conține fișiere. Asigurați-vă că adăugați fișierele offline de pe hartă în acel dosar înainte de a utiliza hărți offline, în caz contrar harta va fi goală.
 ```
@@ -2775,7 +2775,7 @@ Selectat hartă offline folderul pe care ați selectat nu conține fișiere. Asi
 ```
 Success: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Succesul: %s
 ```
@@ -2785,7 +2785,7 @@ Succesul: %s
 ```
 Failed: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A eșuat: %s
 ```
@@ -2795,7 +2795,7 @@ A eșuat: %s
 ```
 How to do it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cum să o facă?
 ```
@@ -2805,7 +2805,7 @@ Cum să o facă?
 ```
 Click here to open the web page explaining how to obtain those maps.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Apasa aici pentru a deschide pagina web care explică modul de obținere a acestor hărți.
 ```
@@ -2815,7 +2815,7 @@ Apasa aici pentru a deschide pagina web care explică modul de obținere a acest
 ```
 Credits
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 credite
 ```
@@ -2825,7 +2825,7 @@ credite
 ```
 Copyright and legal mentions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dreptul de autor și juridice menționează
 ```
@@ -2837,7 +2837,7 @@ Legal mentions for other map data than Google Maps:
 
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mențiuni legale pentru alte date cartografice decât Google Maps : 
  
@@ -2849,7 +2849,7 @@ Mențiuni legale pentru alte date cartografice decât Google Maps :
 ```
 Disable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 utilitară benă fișier de eroare Dezactivați
 ```
@@ -2859,7 +2859,7 @@ utilitară benă fișier de eroare Dezactivați
 ```
 Disable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dezactiva scrierea de erori ale aplicației într-un fișier de pe card SD
 ```
@@ -2869,7 +2869,7 @@ Dezactiva scrierea de erori ale aplicației într-un fișier de pe card SD
 ```
 Enable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Activați haldei fișier de eroare
 ```
@@ -2879,7 +2879,7 @@ Activați haldei fișier de eroare
 ```
 Enable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Activați scrierea de erori ale aplicației într-un fișier de pe card SD
 ```
@@ -2889,7 +2889,7 @@ Activați scrierea de erori ale aplicației într-un fișier de pe card SD
 ```
 Start background sync…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pornire sincronizare fundal&#8230;
 ```
@@ -2899,7 +2899,7 @@ Pornire sincronizare fundal&#8230;
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu
 ```
@@ -2909,7 +2909,7 @@ Nu
 ```
 When app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atunci când aplicația intră în fundal
 ```
@@ -2919,7 +2919,7 @@ Atunci când aplicația intră în fundal
 ```
 %d seconds after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d secunde după aplicația de fundal intră
 ```
@@ -2929,7 +2929,7 @@ translates to:
 ```
 %d minutes after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d minute după aplicația de fundal intră
 ```
@@ -2939,7 +2939,7 @@ translates to:
 ```
 Sync starting in %d seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sincronizare pornire in %d secunde
 ```
@@ -2949,7 +2949,7 @@ Sincronizare pornire in %d secunde
 ```
 You can cancel the sync at any time and your data will be synced on next attempt.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Puteți anula sincronizarea în orice moment, iar datele vor fi sincronizate pe această încercare următoare.
 ```
@@ -2959,7 +2959,7 @@ Puteți anula sincronizarea în orice moment, iar datele vor fi sincronizate pe 
 ```
 Press back again to exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Apăsați din nou pentru a ieși
 ```
@@ -2969,7 +2969,7 @@ Apăsați din nou pentru a ieși
 ```
 Cannot start sync with no internet access on the device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu se poate porni sincronizarea fără să aibă acces la internet de pe aparat.
 ```
@@ -2979,7 +2979,7 @@ Nu se poate porni sincronizarea fără să aibă acces la internet de pe aparat.
 ```
 Manage map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gestionați fișierele hartă
 ```
@@ -2989,7 +2989,7 @@ Gestionați fișierele hartă
 ```
 Map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 fişierele hartă
 ```
@@ -2999,7 +2999,7 @@ fişierele hartă
 ```
 Delete map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Șterge fișier hartă
 ```
@@ -3009,7 +3009,7 @@ translates to:
 ```
 This action will delete the map file from this device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Această acțiune va șterge fișierul hartă de pe acest dispozitiv
 ```
@@ -3019,7 +3019,7 @@ Această acțiune va șterge fișierul hartă de pe acest dispozitiv
 ```
 This action will delete the map file from your device forever. All the markers inside that file will be lost. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Această acțiune va șterge fișierul hartă de pe aparat pentru totdeauna. Toate markerii din interiorul acelui fișier vor fi pierdute. Esti sigur?
 ```
@@ -3029,7 +3029,7 @@ Această acțiune va șterge fișierul hartă de pe aparat pentru totdeauna. Toa
 ```
 This action will delete the map file from your device forever. All changes not yet synced to the cloud will be lost. The cloud folder will not be affected by this action and you will have to delete it manually. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Această acțiune va șterge fișierul hartă de pe aparat pentru totdeauna. Toate modificările care nu sunt încă sincronizate în cloud vor fi pierdute. Folderul nor nu va fi afectat de această acțiune și va trebui să-l ștergeți manual. Esti sigur?
 ```
@@ -3039,7 +3039,7 @@ Această acțiune va șterge fișierul hartă de pe aparat pentru totdeauna. Toa
 ```
 Map file successfully deleted
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 fișier hartă șters cu succes
 ```
@@ -3049,7 +3049,7 @@ fișier hartă șters cu succes
 ```
 Could not delete map file: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu a putut șterge fișierul de mapare: %s
 ```
@@ -3059,7 +3059,7 @@ Nu a putut șterge fișierul de mapare: %s
 ```
 Marker saved in a non visible folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marcator salvat într-un dosar non vizibil
 ```
@@ -3069,7 +3069,7 @@ Marcator salvat într-un dosar non vizibil
 ```
 Your changes have not been synced recently. Make sure you keep your cloud copy up to date. Do you want to sync now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Modificările dvs. nu au fost sincronizate recent. Asigurați-vă că vă păstrați nor de copiere de până la zi. Doriți să sincronizați acum?
 ```
@@ -3079,7 +3079,7 @@ Modificările dvs. nu au fost sincronizate recent. Asigurați-vă că vă păstr
 ```
 The markers of this map file are currently only saved on this device. It is recommended to save your markers on the cloud to avoid losing them. Do you want to save them to the cloud now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Markerii acestui fișier hartă sunt în prezent salvate numai pe acest aparat. Se recomandă să salvați marcatorii pe nor, pentru a evita pierderea lor. Doriți să le salvați în cloud acum?
 ```
@@ -3089,7 +3089,7 @@ Markerii acestui fișier hartă sunt în prezent salvate numai pe acest aparat. 
 ```
 Do you want to sync this map file? With manual you will need to sync manually every time. With automatic (recommended) you will select a destination cloud folder and the sync to the cloud will start automatically every time the app enters background.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Doriți să sincronizați acest fișier hartă? Cu manual, va trebui să sincronizați manual de fiecare dată. Cu automate (recomandat) va selecta un director nor de destinație și de sincronizare la nor va porni automat de fiecare dată când aplicația intră în fundal.
 ```
@@ -3099,7 +3099,7 @@ Doriți să sincronizați acest fișier hartă? Cu manual, va trebui să sincron
 ```
 Automatic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Automat
 ```
@@ -3109,7 +3109,7 @@ Automat
 ```
 Manual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Manual
 ```
@@ -3119,7 +3119,7 @@ Manual
 ```
 You can sync a map file on the cloud at any time by clicking on the map file in the side bar and then choosing the "Cloud sync" option.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aveți posibilitatea să sincronizați un fișier de hartă pe nor, în orice moment, făcând clic pe fișierul hartă în bara laterală și apoi alegând opțiunea "Cloud sincronizare".
 ```
@@ -3129,7 +3129,7 @@ Aveți posibilitatea să sincronizați un fișier de hartă pe nor, în orice mo
 ```
 You can sync a map file manually to the cloud at any time by clicking the "share" button in the main action bar, and then "Other options" and then "All markers and folders" and then by selecting your favorite cloud storage app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aveți posibilitatea să sincronizați un fișier de hartă manual în nor, în orice moment, făcând clic pe butonul "share" din bara de acțiuni principale, și apoi "Alte opțiuni" și apoi "Toate markere și folderele" și apoi prin selectarea preferată a aplicației de stocare în cloud.
 ```
@@ -3139,7 +3139,7 @@ Aveți posibilitatea să sincronizați un fișier de hartă manual în nor, în 
 ```
 Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 A muta harta pentru a plasa puncte, faceți clic pe "+" pentru a adăuga un punct, faceți clic pe "-" pentru a elimina un punct și a punctelor de comutare cu ajutorul butoanelor anterioare / următoare. În cele din urmă faceți clic pe Salvare pentru a salva forma.
 ```
@@ -3149,7 +3149,7 @@ A muta harta pentru a plasa puncte, faceți clic pe "+" pentru a adăuga un punc
 ```
 There are not enough points to create the shape. Create more points and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu sunt suficiente puncte pentru a crea forma. Creați mai multe puncte și încercați din nou.
 ```
@@ -3159,7 +3159,7 @@ Nu sunt suficiente puncte pentru a crea forma. Creați mai multe puncte și înc
 ```
 Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn\'t work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by email (side panel -> about -> send email).
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu ar putea activa upgrade-ul premium din contul dvs. Google. Dacă ați achiziționat upgrade premium recent de la un alt dispozitiv, poate fi necesar să așteptați un pic pentru achiziționarea de a se propaga, reporniți dispozitivul ar putea face mai repede. În cazul în care încă nu funcționează, asigurați-vă că ați achiziționat, instalat aplicația și activat cu același cont Google. Dacă problema persistă, vă voi ajuta tot ce pot, puteți să mă contactați email (panoul lateral -&gt; aproximativ -&gt; a trimite email ).
 ```
@@ -3169,7 +3169,7 @@ Nu ar putea activa upgrade-ul premium din contul dvs. Google. Dacă ați achizi�
 ```
 Distance: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Distanță: %s
 ```
@@ -3180,7 +3180,7 @@ Distanță: %s
 Perimeter: %1$s
 Area: %2$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Perimetrale: %1$s 
  Zona: %2$s
@@ -3191,7 +3191,7 @@ Perimetrale: %1$s
 ```
 Extra information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Informații suplimentare
 ```
@@ -3201,7 +3201,7 @@ Informații suplimentare
 ```
 Insert…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Introduce…
 ```
@@ -3211,7 +3211,7 @@ Introduce…
 ```
 Replace title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Se înlocuiește din titlu
 ```
@@ -3221,7 +3221,7 @@ Se înlocuiește din titlu
 ```
 Replace description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Se înlocuiește descrierea
 ```
@@ -3231,7 +3231,7 @@ Se înlocuiește descrierea
 ```
 Unit of distance
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Unitate de distanță
 ```
@@ -3241,7 +3241,7 @@ Unitate de distanță
 ```
 Unit of area
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Unitate de suprafață
 ```
@@ -3251,7 +3251,7 @@ Unitate de suprafață
 ```
 Metric (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Metric ( %s )
 ```
@@ -3261,7 +3261,7 @@ Metric ( %s )
 ```
 Imperial (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Imperial ( %s )
 ```
@@ -3271,7 +3271,7 @@ Imperial ( %s )
 ```
 Images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 imagini
 ```
@@ -3281,7 +3281,7 @@ imagini
 ```
 Select image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Selectați o imagine
 ```
@@ -3291,7 +3291,7 @@ Selectați o imagine
 ```
 Imported images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 imagini importate
 ```
@@ -3301,7 +3301,7 @@ imagini importate
 ```
 Fit in a %1$sx%2$s square
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Încăpea într - o %1$s x %2$s pătrat
 ```
@@ -3311,7 +3311,7 @@ translates to:
 ```
 Full quality
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 calitate deplină
 ```
@@ -3321,7 +3321,7 @@ calitate deplină
 ```
 Mobile data
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 De date mobile
 ```
@@ -3331,7 +3331,7 @@ De date mobile
 ```
 Wifi
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Wifi
 ```
@@ -3341,7 +3341,7 @@ Wifi
 ```
 Disabled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 invalid
 ```
@@ -3351,7 +3351,7 @@ invalid
 ```
 Up to %s per sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Până la %s per sincronizare
 ```
@@ -3361,7 +3361,7 @@ Până la %s per sincronizare
 ```
 Unlimited
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nelimitat
 ```
@@ -3371,7 +3371,7 @@ Nelimitat
 ```
 The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings. You can also click "force sync" to sync just one time without data volume limit.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sincronizarea a fost anulată deoarece a fost depășirea limitei de volum de date permise. Pentru a mări sau a modifica limita, du-te la setările. De asemenea, puteți să faceți clic pe "sincronizare forță" pentru a sincroniza doar o singură dată, fără limită de volum de date.
 ```
@@ -3381,7 +3381,7 @@ Sincronizarea a fost anulată deoarece a fost depășirea limitei de volum de da
 ```
 Force sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 sincronizare forță
 ```
@@ -3391,7 +3391,7 @@ sincronizare forță
 ```
 This will override the usual data limit just for this one time. Force sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Acest lucru va trece peste limita de date de obicei doar pentru o singură dată. Forța de sincronizare?
 ```
@@ -3401,7 +3401,7 @@ Acest lucru va trece peste limita de date de obicei doar pentru o singură dată
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 reîncerca
 ```
@@ -3411,7 +3411,7 @@ reîncerca
 ```
 Add image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Adauga imagine
 ```
@@ -3421,7 +3421,7 @@ Adauga imagine
 ```
 From camera
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 de la camera foto
 ```
@@ -3431,7 +3431,7 @@ de la camera foto
 ```
 From gallery
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 din galerie
 ```
@@ -3441,7 +3441,7 @@ din galerie
 ```
 Importing image…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Se importă imaginea&#8230;
 ```
@@ -3451,7 +3451,7 @@ Se importă imaginea&#8230;
 ```
 Offline (Mapsforge BETA)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Offline ( Mapsforge BETA )
 ```
@@ -3461,7 +3461,7 @@ Offline ( Mapsforge BETA )
 ```
 Exporting…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Exportator…
 ```
@@ -3471,7 +3471,7 @@ Exportator…
 ```
 Export failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 export nu a reușit
 ```
@@ -3481,7 +3481,7 @@ export nu a reușit
 ```
 Export succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 export a reușit
 ```
@@ -3491,7 +3491,7 @@ export a reușit
 ```
 KMZ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KMZ
 ```
@@ -3501,7 +3501,7 @@ KMZ
 ```
 KML
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KML
 ```
@@ -3511,7 +3511,7 @@ KML
 ```
 Importing file…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Se importă fișierul&#8230;
 ```
@@ -3521,7 +3521,7 @@ Se importă fișierul&#8230;
 ```
 Show warning icon for sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Afișați pictograma de avertizare pentru sincronizare
 ```
@@ -3531,7 +3531,7 @@ Afișați pictograma de avertizare pentru sincronizare
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sincronizarea a fost abandonată, deoarece unul dintre fișierele media de pe nor lipsea. Puteți ignora fișierele lipsă făcând clic pe "forță de sincronizare \". De avertizare, ignorând fișiere lipsă va avea ca rezultat scoaterea lor din baza de date, ceea ce înseamnă că alte dispozitive în continuare o copie locală a fișierului se va șterge după sincronizare.
 ```
@@ -3541,7 +3541,7 @@ Sincronizarea a fost abandonată, deoarece unul dintre fișierele media de pe no
 ```
 This will force the sync and ignore the missing cloud files. The missing links will be removed from the database. Other devices still owning a local version of the missing cloud files will delete them upon their next sync. Data consumption limits will be ignored for this special sync. Force Sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Acest lucru va forța de sincronizare și ignora fișierele lipsă de nor. Link-urile care lipsesc vor fi eliminate din baza de date. Alte aparate încă care deține o versiune locală a fișierelor nor lipsă le va șterge pe urmatoarea sincronizare a acestora. Limitele de consum de date vor fi ignorate pentru această sincronizare specială. Forța de sincronizare?
 ```
@@ -3551,7 +3551,7 @@ Acest lucru va forța de sincronizare și ignora fișierele lipsă de nor. Link-
 ```
 Marker media files ignored on import: %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fișiere media de marcare ignorate la import: %1$d
 ```
@@ -3561,7 +3561,7 @@ Fișiere media de marcare ignorate la import: %1$d
 ```
 Checking premium status…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Verificarea stării premium&#8230;
 ```
@@ -3571,7 +3571,7 @@ Verificarea stării premium&#8230;
 ```
 General
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 General
 ```
@@ -3581,7 +3581,7 @@ General
 ```
 Toilets
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 wC
 ```
@@ -3591,7 +3591,7 @@ wC
 ```
 Food
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Alimente
 ```
@@ -3601,7 +3601,7 @@ Alimente
 ```
 Stores
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Magazine
 ```
@@ -3611,7 +3611,7 @@ Magazine
 ```
 Land activities
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 activități de teren
 ```
@@ -3621,7 +3621,7 @@ activități de teren
 ```
 Water activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 activies de apa
 ```
@@ -3631,7 +3631,7 @@ activies de apa
 ```
 Winter activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 activies de iarnă
 ```
@@ -3641,7 +3641,7 @@ activies de iarnă
 ```
 Transport
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Transport
 ```
@@ -3651,7 +3651,7 @@ Transport
 ```
 Health
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sănătate
 ```
@@ -3661,7 +3661,7 @@ Sănătate
 ```
 Entertainment
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Divertisment
 ```
@@ -3671,7 +3671,7 @@ Divertisment
 ```
 Services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Servicii
 ```
@@ -3681,7 +3681,7 @@ Servicii
 ```
 Business
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Afaceri
 ```
@@ -3691,7 +3691,7 @@ Afaceri
 ```
 Government
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Guvern
 ```
@@ -3701,7 +3701,7 @@ Guvern
 ```
 Religious
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Religios
 ```
@@ -3711,7 +3711,7 @@ Religios
 ```
 Accessibility
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Accesibilitate
 ```
@@ -3721,7 +3721,7 @@ Accesibilitate
 ```
 Select icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Selectați pictograma
 ```
@@ -3731,7 +3731,7 @@ Selectați pictograma
 ```
 Icon and color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pictograma și culoare
 ```
@@ -3741,7 +3741,7 @@ Pictograma și culoare
 ```
 Generic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Generic
 ```
@@ -3751,7 +3751,7 @@ Generic
 ```
 Beta tester badge: thank you for being a beta tester! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 tester beta insigna: vă mulțumesc pentru a fi un tester beta! Această emblemă va dispărea numai după dezinstalarea aplicației sau ștergerea datelor aplicației. De asemenea, insigna vă permite să aveți anunțuri pe app.
 ```
@@ -3761,7 +3761,7 @@ tester beta insigna: vă mulțumesc pentru a fi un tester beta! Această emblem�
 ```
 Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 insigna de trimitere: vă mulțumesc pentru invitarea prietenilor la app! Această emblemă va dispărea numai după dezinstalarea aplicației sau ștergerea datelor aplicației. De asemenea, insigna vă permite să aveți anunțuri pe app.
 ```
@@ -3771,7 +3771,7 @@ insigna de trimitere: vă mulțumesc pentru invitarea prietenilor la app! Aceast
 ```
 Referral
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Trimitere
 ```
@@ -3781,7 +3781,7 @@ Trimitere
 ```
 Removing ads: exchange referrals credits with friends to remove ads
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eliminarea anunțurilor: credite referrals schimb cu prietenii pentru a elimina anunțurile
 ```
@@ -3791,7 +3791,7 @@ Eliminarea anunțurilor: credite referrals schimb cu prietenii pentru a elimina 
 ```
 Sent credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Credite trimise: %s
 ```
@@ -3801,7 +3801,7 @@ Credite trimise: %s
 ```
 Received credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Credite primite: %s
 ```
@@ -3811,7 +3811,7 @@ Credite primite: %s
 ```
 Contribute to translations
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Contribuie la traducerile
 ```
@@ -3821,7 +3821,7 @@ Contribuie la traducerile
 ```
 You understand English and want to help with translations? Click here
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ai înțeles limba engleză și doresc să ajute cu traduceri? Click aici
 ```
@@ -3831,7 +3831,7 @@ Ai înțeles limba engleză și doresc să ajute cu traduceri? Click aici
 ```
 The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 culoare sau pictograma folderului de destinație este diferită. Doriți să actualizați culoarea marcator și pictograma?
 ```
@@ -3841,7 +3841,7 @@ culoare sau pictograma folderului de destinație este diferită. Doriți să act
 ```
 Add color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 adauga culoare
 ```
@@ -3851,7 +3851,7 @@ adauga culoare
 ```
 <![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Ce este să faceți upgrade prima &lt;/ b&gt; &lt;br&gt; Pe deasupra anunțurilor prin eliminarea, actualizarea premium deschide următoarele caracteristici premium exclusive:? &lt;br&gt; • Sincronizare pe Google Drive sau Dropbox &lt;br&gt; • Colaboreaza prin Google Drive sau Dropbox &lt;br&gt; • Istoricul versiunilor Harta si restaurare &lt;br&gt; &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -3861,7 +3861,7 @@ translates to:
 ```
 Marker created from the geo location of the QR code
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marcator creat din locația geografică a codului QR
 ```
@@ -3871,7 +3871,7 @@ Marcator creat din locația geografică a codului QR
 ```
 Failed to read QR code as a geo location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu s-a citit codul QR ca locație geografică
 ```
@@ -3881,7 +3881,7 @@ Nu s-a citit codul QR ca locație geografică
 ```
 The app for scanning QR codes could not be found. Do you want to install it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aplicația pentru codurile de scanare QR nu a putut fi găsită. Nu doriți să-l instalați?
 ```
@@ -3891,7 +3891,7 @@ Aplicația pentru codurile de scanare QR nu a putut fi găsită. Nu doriți să-
 ```
 Selection action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 acțiunea de selecție
 ```
@@ -3901,7 +3901,7 @@ acțiunea de selecție
 ```
 Move to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Deplasa spre stânga
 ```
@@ -3911,7 +3911,7 @@ Deplasa spre stânga
 ```
 Move to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Deplasa spre dreapta
 ```
@@ -3921,7 +3921,7 @@ Deplasa spre dreapta
 ```
 Rotate to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Rotiți spre stânga
 ```
@@ -3931,7 +3931,7 @@ Rotiți spre stânga
 ```
 Rotate to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Roti spre dreapta
 ```
@@ -3941,7 +3941,7 @@ Roti spre dreapta
 ```
 Delete image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ştergeţi imaginea
 ```
@@ -3951,7 +3951,7 @@ translates to:
 ```
 From local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Din fișierul local
 ```
@@ -3961,7 +3961,7 @@ Din fișierul local
 ```
 What format to you want to use to export?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ce format să doriți să utilizați pentru a exporta?
 ```
@@ -3971,7 +3971,7 @@ Ce format să doriți să utilizați pentru a exporta?
 ```
 The data to export contains media(images) that cannot be included with this export format. The data will be exported without the media. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Datele de la export conține media (imagini) care nu pot fi incluse în acest format de export. Datele vor fi exportate fără a mass-media. Pentru a exporta totul, alege KMZ formatul de export.
 ```
@@ -3981,7 +3981,7 @@ Datele de la export conține media (imagini) care nu pot fi incluse în acest fo
 ```
 Standard Google Earth format. Cannot contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Standard Google Earth format. Nu pot conține mass-media.
 ```
@@ -3991,7 +3991,7 @@ Standard Google Earth format. Nu pot conține mass-media.
 ```
 Zip Google Earth format. Can contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zip Google Earth format. Poate conține mass-media.
 ```
@@ -4001,7 +4001,7 @@ Zip Google Earth format. Poate conține mass-media.
 ```
 Standard text spreadsheet format. Cannot contain media. Cannot contain lines or polygons.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Format text standard de calcul tabelar. Nu pot conține mass-media. Nu pot conține linii sau de poligon.
 ```
@@ -4011,7 +4011,7 @@ Format text standard de calcul tabelar. Nu pot conține mass-media. Nu pot conț
 ```
 Marker as plain text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marcator ca text simplu
 ```
@@ -4021,7 +4021,7 @@ Marcator ca text simplu
 ```
 Marker as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marcator ca fișier
 ```
@@ -4031,7 +4031,7 @@ Marcator ca fișier
 ```
 Share the selected marker as a file into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Distribuiți marcatorul selectat ca un fișier într-o altă aplicație
 ```
@@ -4041,7 +4041,7 @@ Distribuiți marcatorul selectat ca un fișier într-o altă aplicație
 ```
 Share as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Spune-le prietenilor ca fișier
 ```
@@ -4051,7 +4051,7 @@ Spune-le prietenilor ca fișier
 ```
 Export to a local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Export într-un fișier local
 ```
@@ -4061,7 +4061,7 @@ Export într-un fișier local
 ```
 Import or export markers as files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 De import sau de export markeri sub formă de fișiere
 ```
@@ -4071,7 +4071,7 @@ De import sau de export markeri sub formă de fișiere
 ```
 The data to export contains complex markers (lines or polygons) that cannot be included with this export format. The data will be exported without those markers. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Datele de la export conține marcatori complexe (linii sau de poligon) care nu pot fi incluse în acest format de export. Datele vor fi exportate fără aceste markeri. Pentru a exporta totul, alege KMZ formatul de export.
 ```
@@ -4081,7 +4081,7 @@ Datele de la export conține marcatori complexe (linii sau de poligon) care nu p
 ```
 Add custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Adăugați câmpuri personalizate
 ```
@@ -4091,7 +4091,7 @@ Adăugați câmpuri personalizate
 ```
 Information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 informație
 ```
@@ -4101,7 +4101,7 @@ informație
 ```
 Custom fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Câmpuri customizate
 ```
@@ -4111,7 +4111,7 @@ Câmpuri customizate
 ```
 Field name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Numele domeniului
 ```
@@ -4121,7 +4121,7 @@ Numele domeniului
 ```
 Delete field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ștergeți câmpul
 ```
@@ -4131,7 +4131,7 @@ translates to:
 ```
 Attributes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 atribute
 ```
@@ -4141,7 +4141,7 @@ atribute
 ```
 New custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Noul câmp personalizat
 ```
@@ -4151,7 +4151,7 @@ Noul câmp personalizat
 ```
 Modify custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Modificați câmpul personalizat
 ```
@@ -4161,7 +4161,7 @@ Modificați câmpul personalizat
 ```
 Field enabled. For folders, if enabled, that field will be added automatically to children POIs on creation. For POIs, if enabled, that field will be visible in the details page.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Câmp activat. Pentru foldere, dacă este activată, acel câmp va fi adăugat automat la POI-urile pentru copii create. Pentru POI-uri, dacă este activat, acest câmp va fi vizibil în pagina cu detalii.
 ```
@@ -4171,7 +4171,7 @@ Câmp activat. Pentru foldere, dacă este activată, acel câmp va fi adăugat a
 ```
 Field info
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Informații despre câmp
 ```
@@ -4181,7 +4181,7 @@ Informații despre câmp
 ```
 Select field type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Selectați tipul de câmp
 ```
@@ -4191,7 +4191,7 @@ Selectați tipul de câmp
 ```
 Boolean (True or False)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Boolean (Adevărat sau Fals)
 ```
@@ -4201,7 +4201,7 @@ Boolean (Adevărat sau Fals)
 ```
 Default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Valoare implicită
 ```
@@ -4211,7 +4211,7 @@ Valoare implicită
 ```
 Date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Data
 ```
@@ -4221,7 +4221,7 @@ Data
 ```
 Email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 E-mail
 ```
@@ -4231,7 +4231,7 @@ E-mail
 ```
 Text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Text
 ```
@@ -4241,7 +4241,7 @@ Text
 ```
 Multiple choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mai multe opțiuni
 ```
@@ -4251,7 +4251,7 @@ Mai multe opțiuni
 ```
 Add choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Adăugați o alegere
 ```
@@ -4261,7 +4261,7 @@ Adăugați o alegere
 ```
 Duplicates are not allowed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nu sunt permise duplicate
 ```
@@ -4271,7 +4271,7 @@ Nu sunt permise duplicate
 ```
 Phone
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Telefon
 ```
@@ -4281,7 +4281,7 @@ Telefon
 ```
 Web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Link Web
 ```
@@ -4291,7 +4291,7 @@ Link Web
 ```
 Choices list
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lista de opțiuni
 ```
@@ -4301,7 +4301,7 @@ Lista de opțiuni
 ```
 Select default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Selectați valoarea implicită
 ```
@@ -4311,7 +4311,7 @@ Selectați valoarea implicită
 ```
 Creation date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Data crearii
 ```
@@ -4321,7 +4321,7 @@ Data crearii
 ```
 POI Options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opțiunile pentru POI
 ```
@@ -4331,7 +4331,7 @@ Opțiunile pentru POI
 ```
 Delete POI
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ștergeți POI
 ```
@@ -4341,7 +4341,7 @@ translates to:
 ```
 Select value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Selectați valoarea
 ```
@@ -4351,7 +4351,7 @@ Selectați valoarea
 ```
 Used by folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Folosit de foldere
 ```
@@ -4361,7 +4361,7 @@ Folosit de foldere
 ```
 Edit field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Editați câmpul
 ```
@@ -4371,7 +4371,7 @@ Editați câmpul
 ```
 Add folder field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Adăugați câmpul dosarului
 ```
@@ -4381,7 +4381,7 @@ Adăugați câmpul dosarului
 ```
 Reorder fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Reordonați câmpurile
 ```
@@ -4391,7 +4391,7 @@ Reordonați câmpurile
 ```
 Pick the fields you want to apply to this folder\'s POIs
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Alegeți câmpurile pe care doriți să le aplicați punctelor de interes ale acestui folder
 ```
@@ -4401,7 +4401,7 @@ Alegeți câmpurile pe care doriți să le aplicați punctelor de interes ale ac
 ```
 The destination folder has different field values. Pick the fields you want to apply to moved POIs.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dosarul destinație are valori diferite ale câmpului. Alegeți câmpurile pe care doriți să le aplicați POI-urilor mutate.
 ```
@@ -4411,7 +4411,7 @@ Dosarul destinație are valori diferite ale câmpului. Alegeți câmpurile pe ca
 ```
 Update color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Actualizați culoarea
 ```
@@ -4421,7 +4421,7 @@ Actualizați culoarea
 ```
 Update pin icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Actualizați pictograma PIN
 ```
@@ -4431,7 +4431,7 @@ Actualizați pictograma PIN
 ```
 Add field if missing: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Adăugați câmpul dacă lipsește: %s
 ```
@@ -4441,7 +4441,7 @@ Adăugați câmpul dacă lipsește: %s
 ```
 Remove field if present: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Eliminați câmpul dacă este prezent: %s
 ```
@@ -4451,7 +4451,7 @@ Eliminați câmpul dacă este prezent: %s
 ```
 Update field name if different: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Actualizați numele câmpului dacă este diferit: %s
 ```
@@ -4461,7 +4461,7 @@ Actualizați numele câmpului dacă este diferit: %s
 ```
 More options…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mai multe opțiuni…
 ```
@@ -4471,7 +4471,7 @@ Mai multe opțiuni…
 ```
 Folder options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Opțiuni pentru foldere
 ```
@@ -4481,7 +4481,7 @@ Opțiuni pentru foldere
 ```
 Edit email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Editați email
 ```
@@ -4491,7 +4491,7 @@ Editați email
 ```
 Edit web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Editați link-ul web
 ```
@@ -4501,7 +4501,7 @@ Editați link-ul web
 ```
 Decimal accuracy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Precizia zecimală
 ```
@@ -4511,7 +4511,7 @@ Precizia zecimală
 ```
 Details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Detalii copiate în clipboard
 ```
@@ -4521,7 +4521,7 @@ Detalii copiate în clipboard
 ```
 Copy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Copie
 ```
@@ -4531,7 +4531,7 @@ Copie
 ```
 Do you want to click here? ^‿^
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Doriți să faceți clic aici? ^ ‿ ^
 ```
@@ -4559,7 +4559,7 @@ And finally, thank you for reading this :-)
 Regards
 Sébastien
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hei, mulțumesc pentru curiozitatea ta! 
  
@@ -4587,7 +4587,7 @@ Hei, mulțumesc pentru curiozitatea ta!
 ```
 Normal with indoor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Normal cu interior
 ```
@@ -4597,7 +4597,7 @@ Normal cu interior
 ```
 Floating marker titles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Titluri de marcaje plutitoare
 ```
@@ -4607,7 +4607,7 @@ Titluri de marcaje plutitoare
 ```
 Maximum number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Numărul maxim
 ```
@@ -4617,7 +4617,7 @@ Numărul maxim
 ```
 Text size
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mărimea textului
 ```
@@ -4627,7 +4627,7 @@ Mărimea textului
 ```
 Search failed => %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Căutarea nu a reușit =&gt; %s
 ```
@@ -4637,7 +4637,7 @@ Căutarea nu a reușit =&gt; %s
 ```
 API key tutorial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 API key tutorial
 ```
@@ -4647,7 +4647,7 @@ API key tutorial
 ```
 Click here to see details on how to obtain an API key for your account.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Faceți clic aici pentru a vedea detalii despre cum puteți obține un API key pentru contul dvs.
 ```
@@ -4657,7 +4657,7 @@ Faceți clic aici pentru a vedea detalii despre cum puteți obține un API key p
 ```
 Personal API key
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Personal API key
 ```
@@ -4667,7 +4667,7 @@ Personal API key
 ```
 None
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nici unul
 ```
@@ -4679,7 +4679,7 @@ You can search for places with "Google Places API". This search requires an inte
 
 You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Puteți căuta locații cu "Google Places API". Această căutare necesită o conexiune la internet.
 
@@ -4691,7 +4691,7 @@ Ați configurat cheia personală Google Places API: căutarea dvs. va utiliza co
 ```
 Do you enjoy the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Îți place aplicația?
 ```
@@ -4701,7 +4701,7 @@ translates to:
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vrei să-mi trimiți un email să-mi spui cum aș putea îmbunătăți aplicația?
 ```
@@ -4711,7 +4711,7 @@ Vrei să-mi trimiți un email să-mi spui cum aș putea îmbunătăți aplicați
 ```
 Display extra POI fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Afișați câmpuri de POI suplimentare
 ```
@@ -4721,7 +4721,7 @@ Afișați câmpuri de POI suplimentare
 ```
 IGN plans
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Planurile IGN
 ```
@@ -4731,7 +4731,7 @@ Planurile IGN
 ```
 IGN maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hărți IGN
 ```
@@ -4741,7 +4741,7 @@ Hărți IGN
 ```
 IGN - Cadastral parcels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - Parcele cadastrale
 ```
@@ -4751,7 +4751,7 @@ IGN - Parcele cadastrale
 ```
 IGN - Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - Aerian
 ```
@@ -4761,7 +4761,7 @@ IGN - Aerian
 ```
 Type more and press enter again for refined results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Introduceți mai mult și apăsați din nou tasta Enter pentru rezultate rafinate
 ```

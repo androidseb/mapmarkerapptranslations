@@ -1,4 +1,4 @@
-# Map Marker translations for vi
+# Map Marker translations for Vietnamese (vi)
 
 You want to help improve this translation file? Read the [main page](https://github.com/androidseb/mapmarkerapptranslations)
 
@@ -7,7 +7,7 @@ You want to help improve this translation file? Read the [main page](https://git
 ```
 OK
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ĐƯỢC
 ```
@@ -17,7 +17,7 @@ translates to:
 ```
 Yes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vâng
 ```
@@ -27,7 +27,7 @@ Vâng
 ```
 No
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không
 ```
@@ -37,7 +37,7 @@ Không
 ```
 Cancel
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hủy bỏ
 ```
@@ -47,7 +47,7 @@ Hủy bỏ
 ```
 New marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker mới
 ```
@@ -57,7 +57,7 @@ Marker mới
 ```
 Title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tiêu đề
 ```
@@ -67,7 +67,7 @@ Tiêu đề
 ```
 Description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Miêu tả
 ```
@@ -77,7 +77,7 @@ Miêu tả
 ```
 Do you really want to delete this marker?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bạn có thực sự muốn xóa dấu này?
 ```
@@ -87,7 +87,7 @@ Bạn có thực sự muốn xóa dấu này?
 ```
 GPS coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tọa độ GPS
 ```
@@ -97,7 +97,7 @@ Tọa độ GPS
 ```
 Could not copy coordinates to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không thể sao chép vào clipboard tọa độ
 ```
@@ -107,7 +107,7 @@ Không thể sao chép vào clipboard tọa độ
 ```
 Coordinates copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tọa độ sao chép vào clipboard
 ```
@@ -117,7 +117,7 @@ Tọa độ sao chép vào clipboard
 ```
 Failed to access application save directory. Make sure that your device is not being accessed by a computer with the USB cable, and restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không thể truy cập ứng dụng tiết kiệm mục. Hãy chắc chắn rằng thiết bị của bạn không được truy cập bởi một máy tính bằng cáp USB, và khởi động lại ứng dụng.
 ```
@@ -127,7 +127,7 @@ Không thể truy cập ứng dụng tiết kiệm mục. Hãy chắc chắn r�
 ```
 Untitled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Untitled
 ```
@@ -137,7 +137,7 @@ Untitled
 ```
 All
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tất cả
 ```
@@ -147,7 +147,7 @@ Tất cả
 ```
 Add folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thêm thư mục
 ```
@@ -157,7 +157,7 @@ Thêm thư mục
 ```
 Modify folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sửa đổi thư mục
 ```
@@ -167,7 +167,7 @@ Sửa đổi thư mục
 ```
 Are you sure you want to delete this folder? All markers associated to this folder will be deleted permanently!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bạn có chắc chắn muốn xóa thư mục này? Tất cả các dấu hiệu liên quan đến thư mục này sẽ bị xóa vĩnh viễn!
 ```
@@ -177,7 +177,7 @@ Bạn có chắc chắn muốn xóa thư mục này? Tất cả các dấu hiệ
 ```
 Failed to create new folder, it already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không thể tạo thư mục mới, nó đã tồn tại
 ```
@@ -187,7 +187,7 @@ Không thể tạo thư mục mới, nó đã tồn tại
 ```
 Failed to rename the folder, the destination name already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không thể đổi tên thư mục, tên đích đã tồn tại
 ```
@@ -197,7 +197,7 @@ Không thể đổi tên thư mục, tên đích đã tồn tại
 ```
 Latitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Latitude:
 ```
@@ -207,7 +207,7 @@ Latitude:
 ```
 Longitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kinh độ:
 ```
@@ -217,7 +217,7 @@ Kinh độ:
 ```
 Could not write file.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không thể ghi tập tin.
 ```
@@ -227,7 +227,7 @@ Không thể ghi tập tin.
 ```
 Import/Export
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nhập Khẩu Xuất Khẩu
 ```
@@ -237,7 +237,7 @@ Nhập Khẩu Xuất Khẩu
 ```
 Import markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dấu nhập khẩu
 ```
@@ -247,7 +247,7 @@ Dấu nhập khẩu
 ```
 File imported successfully
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tập tin nhập thành công
 ```
@@ -257,7 +257,7 @@ Tập tin nhập thành công
 ```
 File import failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tập tin nhập
 ```
@@ -267,7 +267,7 @@ Tập tin nhập
 ```
 Location services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dịch vụ định vị
 ```
@@ -277,7 +277,7 @@ Dịch vụ định vị
 ```
 Location services are disabled. To get your current location you must enable them.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dịch vụ định vị là người khuyết tật. Để có được vị trí hiện tại của bạn, bạn phải kích hoạt chúng.
 ```
@@ -287,7 +287,7 @@ Dịch vụ định vị là người khuyết tật. Để có được vị tr
 ```
 Could not find address
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không thể tìm thấy địa chỉ
 ```
@@ -297,7 +297,7 @@ Không thể tìm thấy địa chỉ
 ```
 Searching&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tìm kiếm&#8230;
 ```
@@ -307,7 +307,7 @@ Tìm kiếm&#8230;
 ```
 Search
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tìm kiếm
 ```
@@ -317,7 +317,7 @@ Tìm kiếm
 ```
 Share via
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chia sẻ qua
 ```
@@ -327,7 +327,7 @@ Chia sẻ qua
 ```
 Do you want to import the content of this file?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bạn có muốn nhập khẩu các nội dung của tập tin này?
 ```
@@ -337,7 +337,7 @@ Bạn có muốn nhập khẩu các nội dung của tập tin này?
 ```
 Folder name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tên thư mục
 ```
@@ -347,7 +347,7 @@ Tên thư mục
 ```
 Save
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Save
 ```
@@ -357,7 +357,7 @@ Save
 ```
 Close
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gần
 ```
@@ -367,7 +367,7 @@ Gần
 ```
 Are you sure you want to delete the selected markers?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bạn có chắc chắn muốn xóa các dấu chọn?
 ```
@@ -377,7 +377,7 @@ Bạn có chắc chắn muốn xóa các dấu chọn?
 ```
 Move markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Di chuyển vào thư mục đánh dấu
 ```
@@ -387,7 +387,7 @@ Di chuyển vào thư mục đánh dấu
 ```
 Share
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Phần
 ```
@@ -397,7 +397,7 @@ Phần
 ```
 Folder:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Folder:
 ```
@@ -407,7 +407,7 @@ Folder:
 ```
 Snapshot of my markers on Map Marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ảnh chụp của các dấu hiệu của tôi trên Map Marker
 ```
@@ -418,7 +418,7 @@ translates to:
 This snapshot was made with the app Map Marker:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ảnh chụp này được thực hiện với các ứng dụng Map Marker : 
  %s
@@ -429,7 +429,7 @@ translates to:
 ```
 Processing data&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xử lý dữ liệu&#8230;
 ```
@@ -439,7 +439,7 @@ Xử lý dữ liệu&#8230;
 ```
 You have unsaved modifications, do you want to save them?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bạn có thay đổi chưa được lưu, bạn có muốn lưu lại?
 ```
@@ -449,7 +449,7 @@ Bạn có thay đổi chưa được lưu, bạn có muốn lưu lại?
 ```
 Use the long press on the map to create a new marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sử dụng báo chí dài trên bản đồ để tạo ra một dấu mới
 ```
@@ -459,7 +459,7 @@ Sử dụng báo chí dài trên bản đồ để tạo ra một dấu mới
 ```
 Map type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Loại bản đồ
 ```
@@ -469,7 +469,7 @@ Loại bản đồ
 ```
 Normal
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bình thường
 ```
@@ -479,7 +479,7 @@ Bình thường
 ```
 Satellite
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Truyền hình vệ tinh
 ```
@@ -489,7 +489,7 @@ Truyền hình vệ tinh
 ```
 Terrain
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Địa thế
 ```
@@ -499,7 +499,7 @@ translates to:
 ```
 Hybrid
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lai
 ```
@@ -510,7 +510,7 @@ Lai
 Found a problem? Have an idea of improvement?
 Send me an email :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tìm thấy một vấn đề? Có một ý tưởng về cải thiện? 
  Gửi cho tôi một email :-)
@@ -521,7 +521,7 @@ Tìm thấy một vấn đề? Có một ý tưởng về cải thiện?
 ```
 Send email&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gửi email&#8230;
 ```
@@ -532,7 +532,7 @@ Gửi email&#8230;
 You like the app?
 Rate it 5 stars :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bạn thích các ứng dụng? 
  Rate lên 5 sao :-)
@@ -543,7 +543,7 @@ Bạn thích các ứng dụng?
 ```
 Change folder to&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thay đổi thư mục để&#8230;
 ```
@@ -553,7 +553,7 @@ Thay đổi thư mục để&#8230;
 ```
 Directions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chỉ Dẫn
 ```
@@ -563,7 +563,7 @@ Chỉ Dẫn
 ```
 Acquiring location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vị trí&#8230;
 ```
@@ -573,7 +573,7 @@ Vị trí&#8230;
 ```
 Meters
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Meters
 ```
@@ -583,7 +583,7 @@ Meters
 ```
 Km
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Km
 ```
@@ -593,7 +593,7 @@ Km
 ```
 Feet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Feet
 ```
@@ -603,7 +603,7 @@ Feet
 ```
 Miles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Miles
 ```
@@ -613,7 +613,7 @@ Miles
 ```
 Adjust map camera position when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Điều chỉnh bản đồ vị trí máy ảnh khi hướng dẫn cho vị trí đánh dấu
 ```
@@ -623,7 +623,7 @@ translates to:
 ```
 Keep screen on when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Giữ màn hình trên khi hướng dẫn cho vị trí đánh dấu
 ```
@@ -633,7 +633,7 @@ Giữ màn hình trên khi hướng dẫn cho vị trí đánh dấu
 ```
 Marker details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chi tiết Marker sao chép vào clipboard
 ```
@@ -643,7 +643,7 @@ Chi tiết Marker sao chép vào clipboard
 ```
 Long press to drag and move the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nhấn và giữ để kéo và di chuyển các điểm đánh dấu
 ```
@@ -653,7 +653,7 @@ Nhấn và giữ để kéo và di chuyển các điểm đánh dấu
 ```
 Error starting internal task manager, app will now exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lỗi bắt đầu công việc quản lý nội bộ, ứng dụng bây giờ sẽ xuất cảnh
 ```
@@ -663,7 +663,7 @@ Lỗi bắt đầu công việc quản lý nội bộ, ứng dụng bây giờ s
 ```
 Do not show again
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không hiển thị lần nữa
 ```
@@ -673,7 +673,7 @@ Không hiển thị lần nữa
 ```
 Could not create the map capture
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không thể tạo ra các bản đồ chụp
 ```
@@ -683,7 +683,7 @@ Không thể tạo ra các bản đồ chụp
 ```
 Metric (Kilometers/Meters)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Metric (Ki lô mét / Meters)
 ```
@@ -693,7 +693,7 @@ Metric (Ki lô mét / Meters)
 ```
 Imperial (Miles/Feet)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Imperial (Miles / Feet)
 ```
@@ -703,7 +703,7 @@ Imperial (Miles / Feet)
 ```
 There is a problem with Google Play Services: it needs to be installed, updated or activated. Click OK to try and solve it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Có một vấn đề với Google Play Services : nó cần phải được cài đặt, cập nhật hoặc kích hoạt. Nhấn OK để thử và giải quyết nó.
 ```
@@ -713,7 +713,7 @@ Có một vấn đề với Google Play Services : nó cần phải được cà
 ```
 Delete folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xóa thư mục
 ```
@@ -723,7 +723,7 @@ Xóa thư mục
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nếu bạn thích ứng dụng của tôi, bạn có thể thưởng cho tôi bằng cách dành thời gian để đưa ra một đánh giá tốt :-)
 ```
@@ -734,7 +734,7 @@ Nếu bạn thích ứng dụng của tôi, bạn có thể thưởng cho tôi b
 OK take me
 to the Play Store
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 OK đưa tôi 
  đến Play Store
@@ -746,7 +746,7 @@ OK đưa tôi
 I already
 gave a rating
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tôi đã 
  đã được đánh giá
@@ -758,7 +758,7 @@ Tôi đã
 Maybe later
 remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Có thể sau này 
  nhắc nhở tôi
@@ -770,7 +770,7 @@ Có thể sau này
 Maybe later
 do not remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Có thể sau này 
  không nhắc nhở tôi
@@ -781,7 +781,7 @@ Có thể sau này
 ```
 Could not find the place
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không thể tìm thấy nơi
 ```
@@ -791,7 +791,7 @@ Không thể tìm thấy nơi
 ```
 Could not find another map application
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không thể tìm thấy một ứng dụng bản đồ
 ```
@@ -801,7 +801,7 @@ Không thể tìm thấy một ứng dụng bản đồ
 ```
 Move the map around to place your marker where you want and click OK to place it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Di chuyển bản đồ xung quanh để đặt dấu của bạn, nơi bạn muốn và nhấn OK để đặt nó
 ```
@@ -811,7 +811,7 @@ Di chuyển bản đồ xung quanh để đặt dấu của bạn, nơi bạn mu
 ```
 Imported marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker nhập khẩu
 ```
@@ -821,7 +821,7 @@ Marker nhập khẩu
 ```
 Settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cài đặt
 ```
@@ -831,7 +831,7 @@ Cài đặt
 ```
 Display zoom buttons
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hiển thị nút zoom
 ```
@@ -841,7 +841,7 @@ Hiển thị nút zoom
 ```
 Decimal degrees
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Độ thập phân
 ```
@@ -851,7 +851,7 @@ translates to:
 ```
 Degrees decimal minutes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bằng Cấp phút thập phân
 ```
@@ -861,7 +861,7 @@ Bằng Cấp phút thập phân
 ```
 Degrees minutes seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bằng phút giây
 ```
@@ -871,7 +871,7 @@ Bằng phút giây
 ```
 Coordinates format
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Định dạng tọa độ
 ```
@@ -881,7 +881,7 @@ translates to:
 ```
 GPS and wireless networks only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GPS và mạng không dây chỉ
 ```
@@ -891,7 +891,7 @@ GPS và mạng không dây chỉ
 ```
 GPS and wireless networks or magnetic sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GPS và mạng không dây hoặc cảm biến từ tính
 ```
@@ -901,7 +901,7 @@ GPS và mạng không dây hoặc cảm biến từ tính
 ```
 Magnetic sensor only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cảm biến từ tính chỉ
 ```
@@ -911,7 +911,7 @@ Cảm biến từ tính chỉ
 ```
 Used compass sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cảm biến la bàn đã qua sử dụng
 ```
@@ -921,7 +921,7 @@ Cảm biến la bàn đã qua sử dụng
 ```
 FAQ/Help
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hỏi đáp / Trợ giúp
 ```
@@ -931,7 +931,7 @@ Hỏi đáp / Trợ giúp
 ```
 Folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Folders
 ```
@@ -941,7 +941,7 @@ Folders
 ```
 Help and settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Trợ giúp và thiết lập
 ```
@@ -951,7 +951,7 @@ Trợ giúp và thiết lập
 ```
 Language
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ngôn ngữ
 ```
@@ -961,7 +961,7 @@ Ngôn ngữ
 ```
 Marker popup style
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker bật lên phong cách
 ```
@@ -971,7 +971,7 @@ Marker bật lên phong cách
 ```
 Bottom
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Đáy
 ```
@@ -981,7 +981,7 @@ translates to:
 ```
 Bubble
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bọt nước
 ```
@@ -991,7 +991,7 @@ Bọt nước
 ```
 Coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tọa độ
 ```
@@ -1001,7 +1001,7 @@ Tọa độ
 ```
 Contextual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Theo ngữ cảnh
 ```
@@ -1011,7 +1011,7 @@ Theo ngữ cảnh
 ```
 Always
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Luôn luôn
 ```
@@ -1021,7 +1021,7 @@ Luôn luôn
 ```
 Crosshair display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Crosshair màn hình
 ```
@@ -1031,7 +1031,7 @@ Crosshair màn hình
 ```
 Coordinates window
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tọa độ cửa sổ
 ```
@@ -1041,7 +1041,7 @@ Tọa độ cửa sổ
 ```
 Lat:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lạt:
 ```
@@ -1051,7 +1051,7 @@ Lạt:
 ```
 Lng:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lng:
 ```
@@ -1061,7 +1061,7 @@ Lng:
 ```
 Marker instant adding mode
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker tức chế độ thêm
 ```
@@ -1071,7 +1071,7 @@ Marker tức chế độ thêm
 ```
 Advanced
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nâng cao
 ```
@@ -1081,7 +1081,7 @@ Nâng cao
 ```
 Display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Trưng bày
 ```
@@ -1091,7 +1091,7 @@ Trưng bày
 ```
 Actions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hoạt động
 ```
@@ -1101,7 +1101,7 @@ Hoạt động
 ```
 Language and units
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ngôn ngữ và đơn vị
 ```
@@ -1111,7 +1111,7 @@ Ngôn ngữ và đơn vị
 ```
 Markers ignored on import (duplicates): %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Markers bỏ qua khi nhập (bản sao): %1$d
 ```
@@ -1121,7 +1121,7 @@ Markers bỏ qua khi nhập (bản sao): %1$d
 ```
 %1$d markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d dấu
 ```
@@ -1131,7 +1131,7 @@ translates to:
 ```
 No auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không đặt tên tự động
 ```
@@ -1141,7 +1141,7 @@ Không đặt tên tự động
 ```
 Auto naming "number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Auto đặt tên "số"
 ```
@@ -1151,7 +1151,7 @@ Auto đặt tên "số"
 ```
 Auto naming "Marker number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Auto đặt tên "số Marker"
 ```
@@ -1161,7 +1161,7 @@ Auto đặt tên "số Marker"
 ```
 New marker auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Đánh dấu tự động mới sẽ đặt tên
 ```
@@ -1171,7 +1171,7 @@ translates to:
 ```
 Marker %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker %1$d
 ```
@@ -1181,7 +1181,7 @@ Marker %1$d
 ```
 Waiting for location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Đang chờ vị trí&#8230;
 ```
@@ -1191,7 +1191,7 @@ translates to:
 ```
 Open the help page and see the FAQ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mở trang trợ giúp và xem các câu hỏi thường gặp
 ```
@@ -1201,7 +1201,7 @@ Mở trang trợ giúp và xem các câu hỏi thường gặp
 ```
 Features
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tính năng
 ```
@@ -1211,7 +1211,7 @@ Tính năng
 ```
 View the list of upcoming features for the next app version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xem danh sách các tính năng sắp tới cho các phiên bản ứng dụng tiếp theo
 ```
@@ -1221,7 +1221,7 @@ Xem danh sách các tính năng sắp tới cho các phiên bản ứng dụng t
 ```
 Help &amp; Feedback
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Help &amp; Feedback
 ```
@@ -1231,7 +1231,7 @@ Help &amp; Feedback
 ```
 About
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Về
 ```
@@ -1241,7 +1241,7 @@ Về
 ```
 Distance to %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Khoảng cách đến %1$s
 ```
@@ -1251,7 +1251,7 @@ Khoảng cách đến %1$s
 ```
 Snapshot
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Snapshot
 ```
@@ -1261,7 +1261,7 @@ Snapshot
 ```
 Share a snapshot of the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chia sẻ một bản chụp của bản đồ
 ```
@@ -1271,7 +1271,7 @@ Chia sẻ một bản chụp của bản đồ
 ```
 All markers and folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tất cả các dấu hiệu và thư mục
 ```
@@ -1281,7 +1281,7 @@ Tất cả các dấu hiệu và thư mục
 ```
 <![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Để có được sự hướng bắc thích hợp cho la bàn, bạn cần phải hiệu chỉnh điện thoại của bạn đúng cách. &lt;br&gt; Để hiệu chỉnh điện thoại của bạn, chỉ cần di chuyển nó xung quanh bằng cách vẽ một 8 . Động thái này phải rộng và lặp lại khoảng 3 lần cho hiệu quả tốt hơn. &lt;br&gt; Bạn có thể hiệu chỉnh điện thoại của bạn bằng cách làm này bất cứ lúc nào. &lt;/ b&gt; &lt;br&gt; Các hiệu chuẩn có những hạn chế của nó và có thể không đủ để chống nhiễu lân cận như: • &lt;br&gt; vật bằng kim loại lớn &lt;br&gt; • thiết bị điện tử &lt;br&gt; • châm &lt;br&gt; • bên trong một chiếc xe hơi / bus / tàu / máy bay &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -1291,7 +1291,7 @@ translates to:
 ```
 Badges
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Badges
 ```
@@ -1301,7 +1301,7 @@ Badges
 ```
 Buy a donation badge
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mua một tặng huy hiệu
 ```
@@ -1311,7 +1311,7 @@ Mua một tặng huy hiệu
 ```
 Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cám ơn bạn đã đóng góp của bạn! Tặng huy hiệu này tài trợ bạn truy cập vào các tính năng cao :-)
 ```
@@ -1321,7 +1321,7 @@ Cám ơn bạn đã đóng góp của bạn! Tặng huy hiệu này tài trợ b
 ```
 Default folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thư mục mặc định
 ```
@@ -1331,7 +1331,7 @@ Thư mục mặc định
 ```
 Sync options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lựa chọn đồng bộ
 ```
@@ -1341,7 +1341,7 @@ Lựa chọn đồng bộ
 ```
 Google Drive
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Google Drive
 ```
@@ -1351,7 +1351,7 @@ Google Drive
 ```
 Dropbox
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dropbox
 ```
@@ -1361,7 +1361,7 @@ Dropbox
 ```
 Configuring&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cấu hình&#8230;
 ```
@@ -1371,7 +1371,7 @@ Cấu hình&#8230;
 ```
 Sync now
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sync với doanh nghiệp
 ```
@@ -1381,7 +1381,7 @@ Sync với doanh nghiệp
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không bao giờ
 ```
@@ -1391,7 +1391,7 @@ Không bao giờ
 ```
 Syncing…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Đồng bộ hoá&#8230;
 ```
@@ -1401,7 +1401,7 @@ translates to:
 ```
 Select folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chọn thư mục
 ```
@@ -1411,7 +1411,7 @@ Chọn thư mục
 ```
 Load error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lỗi tải
 ```
@@ -1421,7 +1421,7 @@ Lỗi tải
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thử lại
 ```
@@ -1431,7 +1431,7 @@ Thử lại
 ```
 Root
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gốc cây
 ```
@@ -1441,7 +1441,7 @@ Gốc cây
 ```
 Shared
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chia sẻ
 ```
@@ -1451,7 +1451,7 @@ Chia sẻ
 ```
 Purchase successful!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mua thành công!
 ```
@@ -1461,7 +1461,7 @@ Mua thành công!
 ```
 Purchase failed: %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mua thất %1$s
 ```
@@ -1471,7 +1471,7 @@ Mua thất %1$s
 ```
 Premium access available! You currently have access to premium features.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Truy cập cao cấp có sẵn! Bạn hiện đang có quyền truy cập vào các tính năng cao cấp.
 ```
@@ -1481,7 +1481,7 @@ Truy cập cao cấp có sẵn! Bạn hiện đang có quyền truy cập vào c
 ```
 You cannot select that folder because it contains multiple files named %1$s. The sync requires the folder to contain only one file with that name.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bạn không thể chọn thư mục đó vì nó chứa nhiều tập tin có %1$s Các yêu cầu đồng bộ thư mục để chứa chỉ có một tập tin với tên đó.
 ```
@@ -1491,7 +1491,7 @@ Bạn không thể chọn thư mục đó vì nó chứa nhiều tập tin có %
 ```
 It seems sync data already exists in that folder. If you select that folder, your local data will be merged with the folder data when sync is performed. Is that what you want?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Có vẻ như đồng bộ hóa dữ liệu đã tồn tại trong thư mục đó. Nếu bạn chọn thư mục đó, dữ liệu địa phương của bạn sẽ được sáp nhập với các dữ liệu thư mục khi sync được thực hiện. Đó là điều bạn muốn?
 ```
@@ -1501,7 +1501,7 @@ Có vẻ như đồng bộ hóa dữ liệu đã tồn tại trong thư mục đ
 ```
 File options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tùy chọn tập tin
 ```
@@ -1511,7 +1511,7 @@ Tùy chọn tập tin
 ```
 Cloud sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mây đồng bộ
 ```
@@ -1521,7 +1521,7 @@ Mây đồng bộ
 ```
 Sync this map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Đồng bộ hóa tập tin bản đồ trên điện toán đám mây
 ```
@@ -1531,7 +1531,7 @@ translates to:
 ```
 Map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bản đồ tập tin
 ```
@@ -1541,7 +1541,7 @@ Bản đồ tập tin
 ```
 Create local map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tạo bản đồ địa phương
 ```
@@ -1551,7 +1551,7 @@ Tạo bản đồ địa phương
 ```
 Create a new map file locally
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tạo một tập tin bản đồ mới tại địa phương
 ```
@@ -1561,7 +1561,7 @@ Tạo một tập tin bản đồ mới tại địa phương
 ```
 Create cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tạo bản đồ mây
 ```
@@ -1571,7 +1571,7 @@ Tạo bản đồ mây
 ```
 Create a map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tạo một tập tin bản đồ trên điện toán đám mây
 ```
@@ -1581,7 +1581,7 @@ Tạo một tập tin bản đồ trên điện toán đám mây
 ```
 Retrieves changes from the cloud and sends local changes to the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lấy thay đổi từ các đám mây và gửi thay đổi địa phương đến các đám mây
 ```
@@ -1591,7 +1591,7 @@ Lấy thay đổi từ các đám mây và gửi thay đổi địa phương đ�
 ```
 Rename
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Đổi tên
 ```
@@ -1601,7 +1601,7 @@ translates to:
 ```
 Rename the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Đổi tên bản đồ
 ```
@@ -1611,7 +1611,7 @@ translates to:
 ```
 Enter new name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nhập tên mới
 ```
@@ -1621,7 +1621,7 @@ Nhập tên mới
 ```
 Enter the new map\'s name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nhập tên bản đồ mới
 ```
@@ -1631,7 +1631,7 @@ Nhập tên bản đồ mới
 ```
 %1$d folders, %2$d markers, size: %3$d KB
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d thư %2$d dấu, %3$d KB
 ```
@@ -1641,7 +1641,7 @@ translates to:
 ```
 Create new folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tạo thư mục mới
 ```
@@ -1651,7 +1651,7 @@ Tạo thư mục mới
 ```
 Could not create folder: name empty
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không thể tạo thư mục: tên sản phẩm nào
 ```
@@ -1661,7 +1661,7 @@ Không thể tạo thư mục: tên sản phẩm nào
 ```
 Could not create folder: error occurred
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không thể tạo thư mục: xảy ra lỗi
 ```
@@ -1671,7 +1671,7 @@ Không thể tạo thư mục: xảy ra lỗi
 ```
 Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cảm ơn bạn đã Map Marker cao cấp nâng :-)
 ```
@@ -1681,7 +1681,7 @@ Cảm ơn bạn đã Map Marker cao cấp nâng :-)
 ```
 Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cảm ơn bạn đã cho thấy sự quan tâm của bạn bằng cách tuyên bố miễn phí của Map Marker cao :-)
 ```
@@ -1691,7 +1691,7 @@ Cảm ơn bạn đã cho thấy sự quan tâm của bạn bằng cách tuyên b
 ```
 Premium
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Phí bảo hiểm
 ```
@@ -1701,7 +1701,7 @@ Phí bảo hiểm
 ```
 Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nâng cấp lên cao cấp và tận dụng lợi thế đầy đủ Map Marker tính năng!
 ```
@@ -1711,7 +1711,7 @@ Nâng cấp lên cao cấp và tận dụng lợi thế đầy đủ Map Marker 
 ```
 Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xin lỗi, bạn cần phải nâng cấp cao cấp để truy cập vào tính năng này. Nâng cấp lên cao cấp và tận dụng lợi thế đầy đủ Map Marker tính năng!
 ```
@@ -1721,7 +1721,7 @@ Xin lỗi, bạn cần phải nâng cấp cao cấp để truy cập vào tính 
 ```
 You have the premium upgrade for free! You can still purchase it if you want to show your support :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bạn có nâng cấp bảo hiểm cho miễn phí! Bạn vẫn có thể mua nó nếu bạn muốn hiển thị hỗ trợ của :-)
 ```
@@ -1731,7 +1731,7 @@ Bạn có nâng cấp bảo hiểm cho miễn phí! Bạn vẫn có thể mua n�
 ```
 Purchase the premium upgrade
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mua các nâng cấp bảo hiểm
 ```
@@ -1741,7 +1741,7 @@ Mua các nâng cấp bảo hiểm
 ```
 My Google account already has premium access, activate it!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tài khoản Google của tôi đã có quyền truy cập cao cấp, kích hoạt nó!
 ```
@@ -1751,7 +1751,7 @@ Tài khoản Google của tôi đã có quyền truy cập cao cấp, kích ho�
 ```
 Troubleshooting
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xử lý sự cố
 ```
@@ -1761,7 +1761,7 @@ Xử lý sự cố
 ```
 Open a list of actions to solve possible problems
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mở danh sách các hành động để giải quyết vấn đề có thể
 ```
@@ -1771,7 +1771,7 @@ Mở danh sách các hành động để giải quyết vấn đề có thể
 ```
 Test internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Internet kiểm tra
 ```
@@ -1781,7 +1781,7 @@ Internet kiểm tra
 ```
 Checks that the app has access to internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kiểm tra rằng các ứng dụng này có quyền truy cập vào internet
 ```
@@ -1791,7 +1791,7 @@ Kiểm tra rằng các ứng dụng này có quyền truy cập vào internet
 ```
 Test file writing
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tập tin thử nghiệm bằng văn bản
 ```
@@ -1801,7 +1801,7 @@ Tập tin thử nghiệm bằng văn bản
 ```
 Checks that the app can save files on the internal SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kiểm tra xem các ứng dụng có thể lưu các tập tin trên thẻ SD nội bộ
 ```
@@ -1811,7 +1811,7 @@ Kiểm tra xem các ứng dụng có thể lưu các tập tin trên thẻ SD n�
 ```
 GP Services (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GP Dịch vụ (ứng dụng)
 ```
@@ -1821,7 +1821,7 @@ GP Dịch vụ (ứng dụng)
 ```
 Open the details of the currently installed Google Play Services app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mở chi tiết của đang được Google Play Services ứng dụng
 ```
@@ -1831,7 +1831,7 @@ Mở chi tiết của đang được Google Play Services ứng dụng
 ```
 GP Services (store)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GP Dịch vụ (cửa hàng)
 ```
@@ -1841,7 +1841,7 @@ GP Dịch vụ (cửa hàng)
 ```
 Google Play (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Google Play (app)
 ```
@@ -1851,7 +1851,7 @@ Google Play (app)
 ```
 Contact support
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Liên hệ hỗ trợ
 ```
@@ -1861,7 +1861,7 @@ Liên hệ hỗ trợ
 ```
 Write an email to support with the details of your problem
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Viết email để hỗ trợ với các chi tiết của vấn đề của bạn
 ```
@@ -1871,7 +1871,7 @@ Viết email để hỗ trợ với các chi tiết của vấn đề của bạ
 ```
 Device network unavailable
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thiết bị mạng không có sẵn
 ```
@@ -1881,7 +1881,7 @@ Thiết bị mạng không có sẵn
 ```
 Testing&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thử nghiệm&#8230;
 ```
@@ -1891,7 +1891,7 @@ Thử nghiệm&#8230;
 ```
 Network test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thử nghiệm thành công mạng
 ```
@@ -1901,7 +1901,7 @@ Thử nghiệm thành công mạng
 ```
 Network test failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thử nghiệm mạng không thành công
 ```
@@ -1911,7 +1911,7 @@ Thử nghiệm mạng không thành công
 ```
 Disk test failed: could not write to internal storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kiểm tra đĩa thất bại: không thể ghi vào lưu trữ nội bộ
 ```
@@ -1921,7 +1921,7 @@ Kiểm tra đĩa thất bại: không thể ghi vào lưu trữ nội bộ
 ```
 Disk test failed: could not write to external storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kiểm tra đĩa thất bại: không thể ghi vào lưu trữ bên ngoài
 ```
@@ -1931,7 +1931,7 @@ Kiểm tra đĩa thất bại: không thể ghi vào lưu trữ bên ngoài
 ```
 Disk test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kiểm tra đĩa thành công
 ```
@@ -1941,7 +1941,7 @@ Kiểm tra đĩa thành công
 ```
 App failed to start: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 App không để bắt %s
 ```
@@ -1951,7 +1951,7 @@ App không để bắt %s
 ```
 The file does not exist
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Các tập tin không tồn tại
 ```
@@ -1961,7 +1961,7 @@ Các tập tin không tồn tại
 ```
 Share cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chia sẻ bản đồ mây
 ```
@@ -1971,7 +1971,7 @@ Chia sẻ bản đồ mây
 ```
 Open the cloud map folder to view its properties and share it with other people
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mở thư mục bản đồ đám mây để xem các thuộc tính của nó và chia sẻ nó với những người khác
 ```
@@ -1981,7 +1981,7 @@ Mở thư mục bản đồ đám mây để xem các thuộc tính của nó v�
 ```
 Internal file to SD
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tập tin nội bộ để SD
 ```
@@ -1991,7 +1991,7 @@ Tập tin nội bộ để SD
 ```
 Copy the app hidden internal files to the sdcard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sao chép các tập tin nội bộ ứng dụng ẩn vào sdcard
 ```
@@ -2001,7 +2001,7 @@ Sao chép các tập tin nội bộ ứng dụng ẩn vào sdcard
 ```
 Enter destination folder path
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nhập điểm đến đường dẫn thư mục
 ```
@@ -2011,7 +2011,7 @@ Nhập điểm đến đường dẫn thư mục
 ```
 Could not create folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không thể tạo thư mục
 ```
@@ -2021,7 +2021,7 @@ Không thể tạo thư mục
 ```
 Files successfully saved to: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tập tin được lưu thành %s
 ```
@@ -2031,7 +2031,7 @@ Tập tin được lưu thành %s
 ```
 View history/Restore
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xem lịch sử / Restore
 ```
@@ -2041,7 +2041,7 @@ Xem lịch sử / Restore
 ```
 View history of modifications to the cloud folder and select a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xem lịch sử sửa đổi các thư mục điện toán đám mây và chọn phiên bản để khôi phục lại
 ```
@@ -2051,7 +2051,7 @@ Xem lịch sử sửa đổi các thư mục điện toán đám mây và chọn
 ```
 Create map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tạo tập tin bản đồ
 ```
@@ -2061,7 +2061,7 @@ Tạo tập tin bản đồ
 ```
 Create a new map file locally or on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tạo một tập tin bản đồ mới tại địa phương hoặc trên đám mây
 ```
@@ -2071,7 +2071,7 @@ Tạo một tập tin bản đồ mới tại địa phương hoặc trên đám
 ```
 Open cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mở bản đồ mây
 ```
@@ -2081,7 +2081,7 @@ Mở bản đồ mây
 ```
 Open a map file from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mở một tập tin bản đồ từ các đám mây
 ```
@@ -2091,7 +2091,7 @@ Mở một tập tin bản đồ từ các đám mây
 ```
 Map Marker needs the permission to access your location in order to display it on the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker cần sự cho phép truy cập vị trí của bạn để hiển thị nó trên bản đồ
 ```
@@ -2101,7 +2101,7 @@ Map Marker cần sự cho phép truy cập vị trí của bạn để hiển th
 ```
 Map Marker needs the permission to access to the storage of your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker cần sự cho phép để truy cập vào các lưu trữ của thiết bị của bạn
 ```
@@ -2111,7 +2111,7 @@ Map Marker cần sự cho phép để truy cập vào các lưu trữ của thi�
 ```
 Open settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mở cài đặt
 ```
@@ -2121,7 +2121,7 @@ Mở cài đặt
 ```
 No map folder found on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không có thư mục bản đồ được tìm thấy trên các đám mây
 ```
@@ -2131,7 +2131,7 @@ Không có thư mục bản đồ được tìm thấy trên các đám mây
 ```
 Auto sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Đồng bộ tự động
 ```
@@ -2141,7 +2141,7 @@ translates to:
 ```
 Choose a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chọn một phiên bản để khôi phục lại
 ```
@@ -2151,7 +2151,7 @@ Chọn một phiên bản để khôi phục lại
 ```
 You must sync first before restoring an older version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bạn phải đồng bộ hóa đầu tiên trước khi khôi phục một phiên bản cũ
 ```
@@ -2161,7 +2161,7 @@ Bạn phải đồng bộ hóa đầu tiên trước khi khôi phục một phi�
 ```
 Are you sure you want to restore this version?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bạn có chắc chắn muốn khôi phục lại phiên bản này?
 ```
@@ -2171,7 +2171,7 @@ Bạn có chắc chắn muốn khôi phục lại phiên bản này?
 ```
 Map Marker lost permissions to write to your cloud account. Sync will always fail until this is fixed. Do you want to fix it now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker quyền đã mất để ghi vào tài khoản đám mây của bạn. Sync sẽ luôn luôn thất bại cho đến khi điều này được cố định. Bạn có muốn sửa chữa nó bây giờ?
 ```
@@ -2181,7 +2181,7 @@ Map Marker quyền đã mất để ghi vào tài khoản đám mây của bạn
 ```
 A sync error occurred. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xảy ra lỗi đồng bộ. Vui lòng thử lại.
 ```
@@ -2191,7 +2191,7 @@ Xảy ra lỗi đồng bộ. Vui lòng thử lại.
 ```
 A sync error occurred: network error. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xảy ra lỗi đồng bộ: lỗi mạng. Vui lòng thử lại.
 ```
@@ -2201,7 +2201,7 @@ Xảy ra lỗi đồng bộ: lỗi mạng. Vui lòng thử lại.
 ```
 A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xảy ra lỗi đồng bộ: xung đột, một thiết bị khác đã được thực hiện đồng bộ cùng một lúc. Vui lòng thử lại.
 ```
@@ -2211,7 +2211,7 @@ Xảy ra lỗi đồng bộ: xung đột, một thiết bị khác đã được
 ```
 Changes are available from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Những thay đổi có sẵn từ các đám mây
 ```
@@ -2221,7 +2221,7 @@ Những thay đổi có sẵn từ các đám mây
 ```
 Changes made from another device were synced on the cloud. You can retrieve those changes by syncing.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thay đổi thực hiện từ một thiết bị khác đã được đồng bộ hóa trên các đám mây. Bạn có thể lấy lại những thay đổi bằng cách đồng bộ.
 ```
@@ -2231,7 +2231,7 @@ Thay đổi thực hiện từ một thiết bị khác đã được đồng b�
 ```
 Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for details on how to restore cloud permissions.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không thể khôi phục lại quyền truy cập lưu trữ đám mây. Xin vui lòng xem "Về" -&gt; "Hỏi đáp" để biết chi tiết về làm thế nào để khôi phục quyền truy cập đám mây.
 ```
@@ -2241,7 +2241,7 @@ Không thể khôi phục lại quyền truy cập lưu trữ đám mây. Xin vu
 ```
 A sync error occurred: duplicate index, there are at least two files named index.json in the map cloud folder. Remove the duplicates manually and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xảy ra lỗi đồng bộ: nhân đôi chỉ số, có ít nhất hai tập tin có tên index.json trong thư mục bản đồ đám mây. Loại bỏ các bản sao bằng tay và thử lại.
 ```
@@ -2251,7 +2251,7 @@ Xảy ra lỗi đồng bộ: nhân đôi chỉ số, có ít nhất hai tập ti
 ```
 Phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Số điện thoại
 ```
@@ -2261,7 +2261,7 @@ Số điện thoại
 ```
 Edit phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sửa số điện thoại
 ```
@@ -2271,7 +2271,7 @@ Sửa số điện thoại
 ```
 Map Marker needs the permission to make calls on your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker cần sự cho phép để thực hiện cuộc gọi trên thiết bị của bạn
 ```
@@ -2281,7 +2281,7 @@ Map Marker cần sự cho phép để thực hiện cuộc gọi trên thiết b
 ```
 No phone number is defined for that marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không có số điện thoại được xác định cho điểm đánh dấu đó
 ```
@@ -2291,7 +2291,7 @@ Không có số điện thoại được xác định cho điểm đánh dấu �
 ```
 Navigation options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tùy chọn điều hướng
 ```
@@ -2301,7 +2301,7 @@ Tùy chọn điều hướng
 ```
 Open the marker location in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mở vị trí đánh dấu trong ứng dụng này
 ```
@@ -2311,7 +2311,7 @@ Mở vị trí đánh dấu trong ứng dụng này
 ```
 Open the marker street view in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mở giao diện đánh dấu đường phố trong ứng dụng này
 ```
@@ -2321,7 +2321,7 @@ Mở giao diện đánh dấu đường phố trong ứng dụng này
 ```
 Enter navigation mode in this app to get directions to the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vào chế độ điều hướng trong ứng dụng này để nhận được hướng dẫn để đánh dấu
 ```
@@ -2331,7 +2331,7 @@ Vào chế độ điều hướng trong ứng dụng này để nhận được 
 ```
 Other options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Các tùy chọn khác
 ```
@@ -2341,7 +2341,7 @@ Các tùy chọn khác
 ```
 Share the selected marker as plain text into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chia sẻ các điểm đánh dấu chọn như văn bản gốc vào ứng dụng khác
 ```
@@ -2351,7 +2351,7 @@ Chia sẻ các điểm đánh dấu chọn như văn bản gốc vào ứng dụ
 ```
 %1$d markers in %2$d folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d đánh dấu %2$d thư mục
 ```
@@ -2361,7 +2361,7 @@ translates to:
 ```
 A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xảy ra lỗi đồng bộ: các dữ liệu điện toán đám mây đã được cập nhật với một phiên bản mới hơn của các ứng dụng. Bạn phải cập Map Marker trên thiết bị này để đồng bộ.
 ```
@@ -2371,7 +2371,7 @@ Xảy ra lỗi đồng bộ: các dữ liệu điện toán đám mây đã đư
 ```
 Could not find a phone app on this device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không thể tìm thấy một ứng dụng điện thoại trên thiết bị này.
 ```
@@ -2381,7 +2381,7 @@ Không thể tìm thấy một ứng dụng điện thoại trên thiết bị n
 ```
 Phone number options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tùy chọn số điện thoại
 ```
@@ -2391,7 +2391,7 @@ Tùy chọn số điện thoại
 ```
 Call phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Số điện thoại cuộc gọi
 ```
@@ -2401,7 +2401,7 @@ Số điện thoại cuộc gọi
 ```
 Dial phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Quay số điện thoại
 ```
@@ -2411,7 +2411,7 @@ Quay số điện thoại
 ```
 Text phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Số điện thoại của văn bản
 ```
@@ -2421,7 +2421,7 @@ Số điện thoại của văn bản
 ```
 Default navigation action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mặc định chuyển hướng hành động
 ```
@@ -2431,7 +2431,7 @@ Mặc định chuyển hướng hành động
 ```
 Default phone action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mặc định hành động điện thoại
 ```
@@ -2441,7 +2441,7 @@ Mặc định hành động điện thoại
 ```
 Ask
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hỏi
 ```
@@ -2451,7 +2451,7 @@ Hỏi
 ```
 Premium free trial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 thử nghiệm miễn phí cao cấp
 ```
@@ -2461,7 +2461,7 @@ thử nghiệm miễn phí cao cấp
 ```
 What is the premium upgrade?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 nâng cấp bảo hiểm là gì?
 ```
@@ -2471,7 +2471,7 @@ nâng cấp bảo hiểm là gì?
 ```
 Premium free trial started! The trial will expire at the following date: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 thử nghiệm miễn phí phí ​​bảo hiểm bắt đầu! Cuộc thử nghiệm sẽ hết hiệu lực vào ngày sau: %s
 ```
@@ -2482,7 +2482,7 @@ thử nghiệm miễn phí phí ​​bảo hiểm bắt đầu! Cuộc thử ng
 Trial expiration:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hết hạn dùng thử: 
  %s
@@ -2493,7 +2493,7 @@ Hết hạn dùng thử:
 ```
 Trial expired
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Trial hết hạn
 ```
@@ -2503,7 +2503,7 @@ Trial hết hạn
 ```
 Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sync đã bị hủy bỏ: bạn cần nâng cấp bảo hiểm để thực hiện đồng bộ.
 ```
@@ -2513,7 +2513,7 @@ Sync đã bị hủy bỏ: bạn cần nâng cấp bảo hiểm để thực hi�
 ```
 Error: trial starting in the future!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lỗi: bắt đầu thử nghiệm trong tương lai!
 ```
@@ -2523,7 +2523,7 @@ Lỗi: bắt đầu thử nghiệm trong tương lai!
 ```
 Thank you for your purchase!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cám ơn vì đã mua hàng!
 ```
@@ -2533,7 +2533,7 @@ Cám ơn vì đã mua hàng!
 ```
 Browse
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Duyệt
 ```
@@ -2543,7 +2543,7 @@ Duyệt
 ```
 Organize
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sắp xếp
 ```
@@ -2553,7 +2553,7 @@ Sắp xếp
 ```
 Create
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tạo ra
 ```
@@ -2563,7 +2563,7 @@ Tạo ra
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thử lại
 ```
@@ -2573,7 +2573,7 @@ Thử lại
 ```
 Search failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tìm kiếm thất bại
 ```
@@ -2583,7 +2583,7 @@ Tìm kiếm thất bại
 ```
 Search failed, network error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tìm kiếm thất bại, lỗi mạng
 ```
@@ -2593,7 +2593,7 @@ Tìm kiếm thất bại, lỗi mạng
 ```
 Details
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thông tin chi tiết
 ```
@@ -2603,7 +2603,7 @@ Thông tin chi tiết
 ```
 Sync error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 lỗi đồng bộ
 ```
@@ -2613,7 +2613,7 @@ lỗi đồng bộ
 ```
 The file already exists, do you want to overwrite it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Các tập tin đã tồn tại, bạn có muốn ghi đè không?
 ```
@@ -2623,7 +2623,7 @@ Các tập tin đã tồn tại, bạn có muốn ghi đè không?
 ```
 Copy markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sao chép đánh dấu vào thư mục
 ```
@@ -2633,7 +2633,7 @@ Sao chép đánh dấu vào thư mục
 ```
 Error loading the Google Map component. Please restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lỗi tải Google Map thành phần. Hãy khởi động lại ứng dụng.
 ```
@@ -2643,7 +2643,7 @@ Lỗi tải Google Map thành phần. Hãy khởi động lại ứng dụng.
 ```
 You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bạn sẽ thấy danh sách các đánh dấu của bạn ở đây. Bạn hiện không có đánh dấu trong thư mục đã chọn (s). Bạn có thể thêm một dấu ấn mới bằng cách nhấn vào nút bên dưới.
 ```
@@ -2653,7 +2653,7 @@ Bạn sẽ thấy danh sách các đánh dấu của bạn ở đây. Bạn hi�
 ```
 No search results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không có kết quả tìm kiếm
 ```
@@ -2663,7 +2663,7 @@ Không có kết quả tìm kiếm
 ```
 Open Street Map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Open Street Map
 ```
@@ -2673,7 +2673,7 @@ Open Street Map
 ```
 Bing Road
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Road
 ```
@@ -2683,7 +2683,7 @@ Bing Road
 ```
 Bing Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial
 ```
@@ -2693,7 +2693,7 @@ Bing Aerial
 ```
 Bing Aerial With Labels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial Với Nhãn
 ```
@@ -2703,7 +2703,7 @@ Bing Aerial Với Nhãn
 ```
 ArcGIS Server
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ArcGIS Server
 ```
@@ -2713,7 +2713,7 @@ ArcGIS Server
 ```
 Offline maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 bản đồ ngoại
 ```
@@ -2723,7 +2723,7 @@ bản đồ ngoại
 ```
 No folder selected
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không có thư mục được lựa chọn
 ```
@@ -2733,7 +2733,7 @@ Không có thư mục được lựa chọn
 ```
 Storage folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 thư mục lưu trữ
 ```
@@ -2744,7 +2744,7 @@ thư mục lưu trữ
 Test results of the offline maps folder:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kết quả thử nghiệm của ẩn thư mục bản đồ: 
  %s
@@ -2755,7 +2755,7 @@ Kết quả thử nghiệm của ẩn thư mục bản đồ:
 ```
 No folder is selected for offline map files. In order to use offline maps, open the settings and select a folder for offline map files.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không có thư mục được lựa chọn cho các tập tin bản đồ ngoại tuyến. Để sử dụng bản đồ ngoại tuyến, mở cài đặt và chọn một thư mục cho các tập tin bản đồ ngoại tuyến.
 ```
@@ -2765,7 +2765,7 @@ Không có thư mục được lựa chọn cho các tập tin bản đồ ngo�
 ```
 The selected offline map folder you selected contains no files. Make sure you add the offline map files in that folder before using offline maps, otherwise the map will be empty.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Các lựa chọn bản đồ ngoại tuyến thư mục mà bạn chọn không chứa tập tin. Hãy chắc chắn rằng bạn thêm các tập tin bản đồ ẩn trong thư mục đó trước khi sử dụng bản đồ ngoại tuyến, nếu không thì bản đồ sẽ được bỏ trống.
 ```
@@ -2775,7 +2775,7 @@ Các lựa chọn bản đồ ngoại tuyến thư mục mà bạn chọn không
 ```
 Success: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thành công: %s
 ```
@@ -2785,7 +2785,7 @@ Thành công: %s
 ```
 Failed: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không: %s
 ```
@@ -2795,7 +2795,7 @@ Không: %s
 ```
 How to do it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Làm thế nào để làm nó?
 ```
@@ -2805,7 +2805,7 @@ Làm thế nào để làm nó?
 ```
 Click here to open the web page explaining how to obtain those maps.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nhấn vào đây để mở các trang web giải thích làm thế nào để có được những bản đồ.
 ```
@@ -2815,7 +2815,7 @@ Nhấn vào đây để mở các trang web giải thích làm thế nào để 
 ```
 Credits
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tín dụng
 ```
@@ -2825,7 +2825,7 @@ Tín dụng
 ```
 Copyright and legal mentions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bản quyền và pháp lý đề cập đến
 ```
@@ -2837,7 +2837,7 @@ Legal mentions for other map data than Google Maps:
 
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pháp lý đề cập cho dữ liệu bản đồ khác so với Google Maps : 
  
@@ -2849,7 +2849,7 @@ Pháp lý đề cập cho dữ liệu bản đồ khác so với Google Maps :
 ```
 Disable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vô hiệu hóa tập tin dump lỗi
 ```
@@ -2859,7 +2859,7 @@ Vô hiệu hóa tập tin dump lỗi
 ```
 Disable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vô hiệu hóa bằng văn bản các lỗi ứng dụng vào một tập tin trên thẻ SD
 ```
@@ -2869,7 +2869,7 @@ Vô hiệu hóa bằng văn bản các lỗi ứng dụng vào một tập tin t
 ```
 Enable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lỗi kích hoạt tập tin dump
 ```
@@ -2879,7 +2879,7 @@ Lỗi kích hoạt tập tin dump
 ```
 Enable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kích hoạt tính năng viết các lỗi ứng dụng vào một tập tin trên thẻ SD
 ```
@@ -2889,7 +2889,7 @@ Kích hoạt tính năng viết các lỗi ứng dụng vào một tập tin tr�
 ```
 Start background sync…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bắt đầu đồng bộ hóa nền&#8230;
 ```
@@ -2899,7 +2899,7 @@ Bắt đầu đồng bộ hóa nền&#8230;
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không bao giờ
 ```
@@ -2909,7 +2909,7 @@ Không bao giờ
 ```
 When app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Khi ứng dụng vào nền
 ```
@@ -2919,7 +2919,7 @@ Khi ứng dụng vào nền
 ```
 %d seconds after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d giây sau khi ứng dụng vào nền
 ```
@@ -2929,7 +2929,7 @@ translates to:
 ```
 %d minutes after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d phút sau khi ứng dụng vào nền
 ```
@@ -2939,7 +2939,7 @@ translates to:
 ```
 Sync starting in %d seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Đồng bộ hóa bắt đầu trong %d giây
 ```
@@ -2949,7 +2949,7 @@ translates to:
 ```
 You can cancel the sync at any time and your data will be synced on next attempt.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bạn có thể hủy việc đồng bộ bất cứ lúc nào và dữ liệu của bạn sẽ được đồng bộ hóa trên nỗ lực tiếp theo.
 ```
@@ -2959,7 +2959,7 @@ Bạn có thể hủy việc đồng bộ bất cứ lúc nào và dữ liệu c
 ```
 Press back again to exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nhấn lại lần nữa để thoát
 ```
@@ -2969,7 +2969,7 @@ Nhấn lại lần nữa để thoát
 ```
 Cannot start sync with no internet access on the device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không thể bắt đầu đồng bộ hóa không có truy cập internet trên thiết bị.
 ```
@@ -2979,7 +2979,7 @@ Không thể bắt đầu đồng bộ hóa không có truy cập internet trên
 ```
 Manage map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Quản lý các file bản đồ
 ```
@@ -2989,7 +2989,7 @@ Quản lý các file bản đồ
 ```
 Map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 file bản đồ
 ```
@@ -2999,7 +2999,7 @@ file bản đồ
 ```
 Delete map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xóa tập tin bản đồ
 ```
@@ -3009,7 +3009,7 @@ Xóa tập tin bản đồ
 ```
 This action will delete the map file from this device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hành động này sẽ xóa các tập tin bản đồ từ thiết bị này
 ```
@@ -3019,7 +3019,7 @@ Hành động này sẽ xóa các tập tin bản đồ từ thiết bị này
 ```
 This action will delete the map file from your device forever. All the markers inside that file will be lost. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hành động này sẽ xóa các tập tin bản đồ từ thiết bị của bạn mãi mãi. Tất cả các dấu hiệu bên trong tập tin đó sẽ bị mất. Bạn có chắc không?
 ```
@@ -3029,7 +3029,7 @@ Hành động này sẽ xóa các tập tin bản đồ từ thiết bị của 
 ```
 This action will delete the map file from your device forever. All changes not yet synced to the cloud will be lost. The cloud folder will not be affected by this action and you will have to delete it manually. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hành động này sẽ xóa các tập tin bản đồ từ thiết bị của bạn mãi mãi. Tất cả những thay đổi chưa được đồng bộ hóa với điện toán đám mây sẽ bị mất. Các thư mục điện toán đám mây sẽ không bị ảnh hưởng bởi hành động này và bạn sẽ phải xóa nó bằng tay. Bạn có chắc không?
 ```
@@ -3039,7 +3039,7 @@ Hành động này sẽ xóa các tập tin bản đồ từ thiết bị của 
 ```
 Map file successfully deleted
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bản đồ tập tin đã xóa thành công
 ```
@@ -3049,7 +3049,7 @@ Bản đồ tập tin đã xóa thành công
 ```
 Could not delete map file: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không thể xóa tập tin bản đồ: %s
 ```
@@ -3059,7 +3059,7 @@ Không thể xóa tập tin bản đồ: %s
 ```
 Marker saved in a non visible folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker lưu trong một thư mục không thể nhìn thấy
 ```
@@ -3069,7 +3069,7 @@ Marker lưu trong một thư mục không thể nhìn thấy
 ```
 Your changes have not been synced recently. Make sure you keep your cloud copy up to date. Do you want to sync now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 thay đổi của bạn đã không được đồng bộ hóa thời gian gần đây. Hãy chắc chắn rằng bạn giữ cho đám mây của bạn sao chép cập nhật. Bạn có muốn đồng bộ hóa bây giờ?
 ```
@@ -3079,7 +3079,7 @@ thay đổi của bạn đã không được đồng bộ hóa thời gian gần
 ```
 The markers of this map file are currently only saved on this device. It is recommended to save your markers on the cloud to avoid losing them. Do you want to save them to the cloud now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Các dấu hiệu của tập tin bản đồ này hiện chỉ được lưu trên thiết bị này. Đó là đề nghị để lưu dấu của bạn trên các đám mây để tránh mất chúng. Bạn có muốn lưu chúng vào các đám mây bây giờ?
 ```
@@ -3089,7 +3089,7 @@ Các dấu hiệu của tập tin bản đồ này hiện chỉ được lưu tr
 ```
 Do you want to sync this map file? With manual you will need to sync manually every time. With automatic (recommended) you will select a destination cloud folder and the sync to the cloud will start automatically every time the app enters background.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bạn có muốn đồng bộ hóa tập tin bản đồ này? Với hướng dẫn bạn sẽ cần phải đồng bộ bằng tay mỗi lần. Với tự động (đề nghị), bạn sẽ chọn một thư mục đích đám mây và đồng bộ hóa với điện toán đám mây sẽ tự khởi động mỗi khi ứng dụng vào nền.
 ```
@@ -3099,7 +3099,7 @@ Bạn có muốn đồng bộ hóa tập tin bản đồ này? Với hướng d�
 ```
 Automatic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tự động
 ```
@@ -3109,7 +3109,7 @@ Tự động
 ```
 Manual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hướng dẫn sử dụng
 ```
@@ -3119,7 +3119,7 @@ Hướng dẫn sử dụng
 ```
 You can sync a map file on the cloud at any time by clicking on the map file in the side bar and then choosing the "Cloud sync" option.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bạn có thể đồng bộ hóa một tập tin bản đồ trên điện toán đám mây bất cứ lúc nào bằng cách nhấp vào tập tin bản đồ trong thanh bên và sau đó chọn "Cloud đồng bộ hóa" tùy chọn.
 ```
@@ -3129,7 +3129,7 @@ Bạn có thể đồng bộ hóa một tập tin bản đồ trên điện toá
 ```
 You can sync a map file manually to the cloud at any time by clicking the "share" button in the main action bar, and then "Other options" and then "All markers and folders" and then by selecting your favorite cloud storage app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bạn có thể đồng bộ hóa một tập tin bản đồ bằng tay để các đám mây bất cứ lúc nào bằng cách nhấn vào nút "chia sẻ" trong thanh hành động chính, và sau đó "Tùy chọn khác" và sau đó "Tất cả các dấu hiệu và thư mục" và sau đó bằng cách chọn ứng dụng lưu trữ đám mây mà bạn yêu thích.
 ```
@@ -3139,7 +3139,7 @@ Bạn có thể đồng bộ hóa một tập tin bản đồ bằng tay để c
 ```
 Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Di chuyển bản đồ xung quanh để đặt các điểm, nhấp vào '+' để thêm một điểm, nhấp vào '-' để loại bỏ một điểm và chuyển điểm với các nút trước / sau. Cuối cùng nhấn lưu để lưu các hình dạng.
 ```
@@ -3149,7 +3149,7 @@ Di chuyển bản đồ xung quanh để đặt các điểm, nhấp vào '+' đ
 ```
 There are not enough points to create the shape. Create more points and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Có không đủ điểm để tạo ra hình dạng. Tạo điểm nhiều hơn và thử lại.
 ```
@@ -3159,7 +3159,7 @@ Có không đủ điểm để tạo ra hình dạng. Tạo điểm nhiều hơn
 ```
 Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn\'t work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by email (side panel -> about -> send email).
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không thể kích hoạt các nâng cấp bảo hiểm từ tài khoản Google của bạn. Nếu bạn mua các nâng cấp bảo hiểm gần đây từ một thiết bị khác, bạn có thể cần phải chờ một chút để mua để tuyên truyền, khởi động lại thiết bị của bạn có thể làm cho nó nhanh hơn. Nếu nó vẫn không làm việc, hãy chắc chắn rằng bạn đã mua, cài đặt các ứng dụng và kích hoạt với cùng một tài khoản Google. Nếu vấn đề vẫn còn, tôi sẽ giúp bạn tốt nhất mà tôi có thể, bạn có thể liên hệ với tôi bằng email (bảng phụ -&gt; about -&gt; gửi email ).
 ```
@@ -3169,7 +3169,7 @@ Không thể kích hoạt các nâng cấp bảo hiểm từ tài khoản Google
 ```
 Distance: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Khỏang cách: %s
 ```
@@ -3180,7 +3180,7 @@ Khỏang cách: %s
 Perimeter: %1$s
 Area: %2$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chu vi: %1$s 
  Diện tích: %2$s
@@ -3191,7 +3191,7 @@ Chu vi: %1$s
 ```
 Extra information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thông tin bổ sung
 ```
@@ -3201,7 +3201,7 @@ Thông tin bổ sung
 ```
 Insert…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chèn…
 ```
@@ -3211,7 +3211,7 @@ Chèn…
 ```
 Replace title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 thay thế tiêu đề
 ```
@@ -3221,7 +3221,7 @@ thay thế tiêu đề
 ```
 Replace description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 thay thế mô tả
 ```
@@ -3231,7 +3231,7 @@ thay thế mô tả
 ```
 Unit of distance
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Đơn vị khoảng cách
 ```
@@ -3241,7 +3241,7 @@ translates to:
 ```
 Unit of area
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Đơn vị diện tích
 ```
@@ -3251,7 +3251,7 @@ translates to:
 ```
 Metric (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Metric ( %s )
 ```
@@ -3261,7 +3261,7 @@ Metric ( %s )
 ```
 Imperial (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Imperial ( %s )
 ```
@@ -3271,7 +3271,7 @@ Imperial ( %s )
 ```
 Images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 hình ảnh
 ```
@@ -3281,7 +3281,7 @@ hình ảnh
 ```
 Select image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chọn hình ảnh
 ```
@@ -3291,7 +3291,7 @@ Chọn hình ảnh
 ```
 Imported images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 hình ảnh nhập khẩu
 ```
@@ -3301,7 +3301,7 @@ hình ảnh nhập khẩu
 ```
 Fit in a %1$sx%2$s square
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Phù hợp với một %1$s x %2$s vuông
 ```
@@ -3311,7 +3311,7 @@ Phù hợp với một %1$s x %2$s vuông
 ```
 Full quality
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 chất lượng Full
 ```
@@ -3321,7 +3321,7 @@ chất lượng Full
 ```
 Mobile data
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 dữ liệu di động
 ```
@@ -3331,7 +3331,7 @@ dữ liệu di động
 ```
 Wifi
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Wifi
 ```
@@ -3341,7 +3341,7 @@ Wifi
 ```
 Disabled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tàn tật
 ```
@@ -3351,7 +3351,7 @@ Tàn tật
 ```
 Up to %s per sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lên đến %s cho mỗi đồng bộ
 ```
@@ -3361,7 +3361,7 @@ Lên đến %s cho mỗi đồng bộ
 ```
 Unlimited
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vô hạn
 ```
@@ -3371,7 +3371,7 @@ Vô hạn
 ```
 The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings. You can also click "force sync" to sync just one time without data volume limit.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Việc đồng bộ hóa đã bị hủy bỏ bởi vì nó đã vượt quá giới hạn khối lượng dữ liệu cho phép. Để tăng hoặc thay đổi giới hạn, đi đến các thiết lập. Bạn cũng có thể bấm vào nút "đồng bộ lực lượng" đồng bộ hóa chỉ là một thời gian không giới hạn dung lượng dữ liệu.
 ```
@@ -3381,7 +3381,7 @@ Việc đồng bộ hóa đã bị hủy bỏ bởi vì nó đã vượt quá gi
 ```
 Force sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 đồng bộ hóa quân
 ```
@@ -3391,7 +3391,7 @@ translates to:
 ```
 This will override the usual data limit just for this one time. Force sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Điều này sẽ ghi đè lên các giới hạn dữ liệu thông thường chỉ cho một lần này. Lực lượng đồng bộ?
 ```
@@ -3401,7 +3401,7 @@ translates to:
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thử lại
 ```
@@ -3411,7 +3411,7 @@ Thử lại
 ```
 Add image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thêm hình ảnh
 ```
@@ -3421,7 +3421,7 @@ Thêm hình ảnh
 ```
 From camera
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 từ máy ảnh
 ```
@@ -3431,7 +3431,7 @@ từ máy ảnh
 ```
 From gallery
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 từ bộ sưu tập
 ```
@@ -3441,7 +3441,7 @@ từ bộ sưu tập
 ```
 Importing image…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nhập khẩu hình ảnh&#8230;
 ```
@@ -3451,7 +3451,7 @@ Nhập khẩu hình ảnh&#8230;
 ```
 Offline (Mapsforge BETA)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ẩn ( Mapsforge BETA )
 ```
@@ -3461,7 +3461,7 @@ translates to:
 ```
 Exporting…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xuất khẩu&#8230;
 ```
@@ -3471,7 +3471,7 @@ Xuất khẩu&#8230;
 ```
 Export failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xuất không thành công
 ```
@@ -3481,7 +3481,7 @@ Xuất không thành công
 ```
 Export succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xuất khẩu thành công
 ```
@@ -3491,7 +3491,7 @@ Xuất khẩu thành công
 ```
 KMZ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KMZ
 ```
@@ -3501,7 +3501,7 @@ KMZ
 ```
 KML
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KML
 ```
@@ -3511,7 +3511,7 @@ KML
 ```
 Importing file…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nhập khẩu tập tin&#8230;
 ```
@@ -3521,7 +3521,7 @@ Nhập khẩu tập tin&#8230;
 ```
 Show warning icon for sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hiển thị biểu tượng cảnh báo cho đồng bộ
 ```
@@ -3531,7 +3531,7 @@ Hiển thị biểu tượng cảnh báo cho đồng bộ
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Việc đồng bộ hóa đã bị hủy bỏ vì một trong những tập tin media trên điện toán đám mây đã mất tích. Bạn có thể bỏ qua các file bị thiếu bằng cách nhấn "lực lượng đồng bộ \". Cảnh báo, bỏ qua các file bị mất sẽ cho kết quả trong việc loại bỏ chúng ra khỏi cơ sở dữ liệu, có nghĩa là các thiết bị khác vẫn có một bản sao địa phương của tập tin sẽ xóa nó khi đồng bộ hóa.
 ```
@@ -3541,7 +3541,7 @@ Việc đồng bộ hóa đã bị hủy bỏ vì một trong những tập tin 
 ```
 This will force the sync and ignore the missing cloud files. The missing links will be removed from the database. Other devices still owning a local version of the missing cloud files will delete them upon their next sync. Data consumption limits will be ignored for this special sync. Force Sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Điều này sẽ buộc các đồng bộ và bỏ qua các tập tin đám mây mất tích. Các liên kết còn thiếu sẽ được loại bỏ khỏi cơ sở dữ liệu. Các thiết bị khác vẫn sở hữu một phiên bản địa phương của các tập tin đám mây thiếu sẽ xóa chúng khi đồng bộ tiếp theo của họ. giới hạn tiêu thụ dữ liệu sẽ bị bỏ qua cho đồng bộ hóa đặc biệt này. Force Sync?
 ```
@@ -3551,7 +3551,7 @@ translates to:
 ```
 Marker media files ignored on import: %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Các tập tin media Marker bỏ qua khi nhập: %1$d
 ```
@@ -3561,7 +3561,7 @@ Các tập tin media Marker bỏ qua khi nhập: %1$d
 ```
 Checking premium status…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kiểm tra trạng thái cao cấp&#8230;
 ```
@@ -3571,7 +3571,7 @@ Kiểm tra trạng thái cao cấp&#8230;
 ```
 General
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chung
 ```
@@ -3581,7 +3581,7 @@ Chung
 ```
 Toilets
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 nhà vệ sinh
 ```
@@ -3591,7 +3591,7 @@ nhà vệ sinh
 ```
 Food
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Món ăn
 ```
@@ -3601,7 +3601,7 @@ Món ăn
 ```
 Stores
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 cửa hàng
 ```
@@ -3611,7 +3611,7 @@ cửa hàng
 ```
 Land activities
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 hoạt động dưới nước
 ```
@@ -3621,7 +3621,7 @@ hoạt động dưới nước
 ```
 Water activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 activies nước
 ```
@@ -3631,7 +3631,7 @@ activies nước
 ```
 Winter activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 activies mùa đông
 ```
@@ -3641,7 +3641,7 @@ activies mùa đông
 ```
 Transport
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Vận chuyển
 ```
@@ -3651,7 +3651,7 @@ Vận chuyển
 ```
 Health
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sức khỏe
 ```
@@ -3661,7 +3661,7 @@ Sức khỏe
 ```
 Entertainment
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sự giải trí
 ```
@@ -3671,7 +3671,7 @@ Sự giải trí
 ```
 Services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dịch vụ
 ```
@@ -3681,7 +3681,7 @@ Dịch vụ
 ```
 Business
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Doanh nhân
 ```
@@ -3691,7 +3691,7 @@ Doanh nhân
 ```
 Government
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chính quyền
 ```
@@ -3701,7 +3701,7 @@ Chính quyền
 ```
 Religious
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tôn giáo
 ```
@@ -3711,7 +3711,7 @@ Tôn giáo
 ```
 Accessibility
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Khả năng tiếp cận
 ```
@@ -3721,7 +3721,7 @@ Khả năng tiếp cận
 ```
 Select icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chọn biểu tượng
 ```
@@ -3731,7 +3731,7 @@ Chọn biểu tượng
 ```
 Icon and color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Biểu tượng và màu sắc
 ```
@@ -3741,7 +3741,7 @@ Biểu tượng và màu sắc
 ```
 Generic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chung
 ```
@@ -3751,7 +3751,7 @@ Chung
 ```
 Beta tester badge: thank you for being a beta tester! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 huy hiệu thử nghiệm Beta: cảm ơn bạn vì đã là một thử nghiệm phiên bản beta! huy hiệu này sẽ biến mất chỉ sau khi gỡ bỏ cài đặt các ứng dụng hoặc xóa dữ liệu ứng dụng. huy hiệu này cũng cho phép bạn không có quảng cáo trên ứng dụng.
 ```
@@ -3761,7 +3761,7 @@ huy hiệu thử nghiệm Beta: cảm ơn bạn vì đã là một thử nghiệ
 ```
 Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 huy hiệu Giới thiệu: cảm ơn bạn đã mời bạn bè của bạn để các ứng dụng! huy hiệu này sẽ biến mất chỉ sau khi gỡ bỏ cài đặt các ứng dụng hoặc xóa dữ liệu ứng dụng. huy hiệu này cũng cho phép bạn không có quảng cáo trên ứng dụng.
 ```
@@ -3771,7 +3771,7 @@ huy hiệu Giới thiệu: cảm ơn bạn đã mời bạn bè của bạn đ�
 ```
 Referral
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Giới thiệu
 ```
@@ -3781,7 +3781,7 @@ Giới thiệu
 ```
 Removing ads: exchange referrals credits with friends to remove ads
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Loại bỏ quảng cáo: giới thiệu trao đổi tín dụng với bạn bè để loại bỏ quảng cáo
 ```
@@ -3791,7 +3791,7 @@ Loại bỏ quảng cáo: giới thiệu trao đổi tín dụng với bạn bè
 ```
 Sent credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tín dụng gửi: %s
 ```
@@ -3801,7 +3801,7 @@ Tín dụng gửi: %s
 ```
 Received credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Các khoản tín dụng đã nhận: %s
 ```
@@ -3811,7 +3811,7 @@ Các khoản tín dụng đã nhận: %s
 ```
 Contribute to translations
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Đóng góp bản dịch
 ```
@@ -3821,7 +3821,7 @@ translates to:
 ```
 You understand English and want to help with translations? Click here
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bạn hiểu tiếng Anh và muốn giúp đỡ với các bản dịch? Bấm vào đây
 ```
@@ -3831,7 +3831,7 @@ Bạn hiểu tiếng Anh và muốn giúp đỡ với các bản dịch? Bấm v
 ```
 The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 màu hoặc biểu tượng thư mục đích là khác nhau. Bạn có muốn cập nhật những màu đánh dấu và biểu tượng?
 ```
@@ -3841,7 +3841,7 @@ màu hoặc biểu tượng thư mục đích là khác nhau. Bạn có muốn c
 ```
 Add color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thêm màu sắc
 ```
@@ -3851,7 +3851,7 @@ Thêm màu sắc
 ```
 <![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; là gì nâng cấp bảo hiểm &lt;/ b&gt; &lt;br&gt; Ngày đầu của quảng cáo loại bỏ, các nâng cấp bảo hiểm mở ra các tính năng cao cấp độc quyền sau đây:? &lt;br&gt; • Sync trên Google Drive hoặc Dropbox &lt;br&gt; • Phối hợp thông qua Google Drive hoặc Dropbox &lt;br&gt; • phiên bản đồ lịch sử và phục hồi &lt;br&gt; &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -3861,7 +3861,7 @@ translates to:
 ```
 Marker created from the geo location of the QR code
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker tạo ra từ các vị trí địa lý của mã QR
 ```
@@ -3871,7 +3871,7 @@ Marker tạo ra từ các vị trí địa lý của mã QR
 ```
 Failed to read QR code as a geo location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không thể đọc mã QR là một vị trí địa lý
 ```
@@ -3881,7 +3881,7 @@ Không thể đọc mã QR là một vị trí địa lý
 ```
 The app for scanning QR codes could not be found. Do you want to install it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Các ứng dụng cho các mã quét QR không thể tìm được. Bạn có muốn cài đặt nó?
 ```
@@ -3891,7 +3891,7 @@ Các ứng dụng cho các mã quét QR không thể tìm được. Bạn có mu
 ```
 Selection action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 hành động lựa chọn
 ```
@@ -3901,7 +3901,7 @@ hành động lựa chọn
 ```
 Move to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Di chuyển sang trái
 ```
@@ -3911,7 +3911,7 @@ Di chuyển sang trái
 ```
 Move to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Di chuyển sang phải
 ```
@@ -3921,7 +3921,7 @@ Di chuyển sang phải
 ```
 Rotate to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xoay sang trái
 ```
@@ -3931,7 +3931,7 @@ Xoay sang trái
 ```
 Rotate to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xoay sang phải
 ```
@@ -3941,7 +3941,7 @@ Xoay sang phải
 ```
 Delete image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 xóa ảnh
 ```
@@ -3951,7 +3951,7 @@ xóa ảnh
 ```
 From local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Từ tập tin địa phương
 ```
@@ -3961,7 +3961,7 @@ Từ tập tin địa phương
 ```
 What format to you want to use to export?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Định dạng gì để bạn muốn sử dụng để xuất khẩu?
 ```
@@ -3971,7 +3971,7 @@ translates to:
 ```
 The data to export contains media(images) that cannot be included with this export format. The data will be exported without the media. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Các dữ liệu để xuất khẩu có chứa media (hình ảnh) mà không thể được bao gồm với các định dạng xuất khẩu này. Các dữ liệu sẽ được xuất khẩu mà không có phương tiện truyền thông. Để xuất tất cả mọi thứ, chọn KMZ định dạng xuất khẩu.
 ```
@@ -3981,7 +3981,7 @@ Các dữ liệu để xuất khẩu có chứa media (hình ảnh) mà không t
 ```
 Standard Google Earth format. Cannot contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chuẩn Google Earth định dạng. Không thể có phương tiện truyền thông.
 ```
@@ -3991,7 +3991,7 @@ Chuẩn Google Earth định dạng. Không thể có phương tiện truyền t
 ```
 Zip Google Earth format. Can contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zip Google Earth định dạng. Có thể chứa các phương tiện truyền thông.
 ```
@@ -4001,7 +4001,7 @@ Zip Google Earth định dạng. Có thể chứa các phương tiện truyền 
 ```
 Standard text spreadsheet format. Cannot contain media. Cannot contain lines or polygons.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tiêu chuẩn định dạng bảng tính văn bản. Không thể có phương tiện truyền thông. không thể chứa đường hoặc đa giác.
 ```
@@ -4011,7 +4011,7 @@ Tiêu chuẩn định dạng bảng tính văn bản. Không thể có phương 
 ```
 Marker as plain text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker như văn bản gốc
 ```
@@ -4021,7 +4021,7 @@ Marker như văn bản gốc
 ```
 Marker as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker như tập tin
 ```
@@ -4031,7 +4031,7 @@ Marker như tập tin
 ```
 Share the selected marker as a file into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chia sẻ các điểm đánh dấu chọn là một tập tin vào ứng dụng khác
 ```
@@ -4041,7 +4041,7 @@ Chia sẻ các điểm đánh dấu chọn là một tập tin vào ứng dụng
 ```
 Share as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chia sẻ tập tin như
 ```
@@ -4051,7 +4051,7 @@ Chia sẻ tập tin như
 ```
 Export to a local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xuất khẩu sang một tập tin địa phương
 ```
@@ -4061,7 +4061,7 @@ Xuất khẩu sang một tập tin địa phương
 ```
 Import or export markers as files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nhập khẩu hoặc xuất khẩu là dấu mốc file
 ```
@@ -4071,7 +4071,7 @@ Nhập khẩu hoặc xuất khẩu là dấu mốc file
 ```
 The data to export contains complex markers (lines or polygons) that cannot be included with this export format. The data will be exported without those markers. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Các dữ liệu để xuất khẩu có dấu hiệu phức tạp (đường hoặc đa giác) mà không thể được bao gồm với các định dạng xuất khẩu này. Các dữ liệu sẽ được xuất khẩu mà không có những dấu hiệu. Để xuất tất cả mọi thứ, chọn KMZ định dạng xuất khẩu.
 ```
@@ -4081,7 +4081,7 @@ Các dữ liệu để xuất khẩu có dấu hiệu phức tạp (đường ho
 ```
 Add custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thêm trường tùy chỉnh
 ```
@@ -4091,7 +4091,7 @@ Thêm trường tùy chỉnh
 ```
 Information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thông tin
 ```
@@ -4101,7 +4101,7 @@ Thông tin
 ```
 Custom fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Trường tùy chỉnh
 ```
@@ -4111,7 +4111,7 @@ Trường tùy chỉnh
 ```
 Field name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tên trường
 ```
@@ -4121,7 +4121,7 @@ Tên trường
 ```
 Delete field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xóa trường
 ```
@@ -4131,7 +4131,7 @@ Xóa trường
 ```
 Attributes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thuộc tính
 ```
@@ -4141,7 +4141,7 @@ Thuộc tính
 ```
 New custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Trường tùy chỉnh mới
 ```
@@ -4151,7 +4151,7 @@ Trường tùy chỉnh mới
 ```
 Modify custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sửa đổi trường tùy chỉnh
 ```
@@ -4161,7 +4161,7 @@ Sửa đổi trường tùy chỉnh
 ```
 Field enabled. For folders, if enabled, that field will be added automatically to children POIs on creation. For POIs, if enabled, that field will be visible in the details page.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Đã bật trường. Đối với các thư mục, nếu được bật, trường đó sẽ được tự động thêm vào các POIs trẻ em khi tạo. Đối với POIs, nếu được bật, trường đó sẽ được hiển thị trong trang chi tiết.
 ```
@@ -4171,7 +4171,7 @@ translates to:
 ```
 Field info
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thông tin hiện trường
 ```
@@ -4181,7 +4181,7 @@ Thông tin hiện trường
 ```
 Select field type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chọn loại trường
 ```
@@ -4191,7 +4191,7 @@ Chọn loại trường
 ```
 Boolean (True or False)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Boolean (Đúng hay Sai)
 ```
@@ -4201,7 +4201,7 @@ Boolean (Đúng hay Sai)
 ```
 Default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Giá trị mặc định
 ```
@@ -4211,7 +4211,7 @@ Giá trị mặc định
 ```
 Date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ngày
 ```
@@ -4221,7 +4221,7 @@ Ngày
 ```
 Email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 E-mail
 ```
@@ -4231,7 +4231,7 @@ E-mail
 ```
 Text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bản văn
 ```
@@ -4241,7 +4241,7 @@ Bản văn
 ```
 Multiple choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nhiều lựa chọn
 ```
@@ -4251,7 +4251,7 @@ Nhiều lựa chọn
 ```
 Add choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thêm sự lựa chọn
 ```
@@ -4261,7 +4261,7 @@ Thêm sự lựa chọn
 ```
 Duplicates are not allowed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Không cho phép trùng lặp
 ```
@@ -4271,7 +4271,7 @@ Không cho phép trùng lặp
 ```
 Phone
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Điện thoại
 ```
@@ -4281,7 +4281,7 @@ translates to:
 ```
 Web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Liên kết web
 ```
@@ -4291,7 +4291,7 @@ Liên kết web
 ```
 Choices list
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Danh sách lựa chọn
 ```
@@ -4301,7 +4301,7 @@ Danh sách lựa chọn
 ```
 Select default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chọn giá trị mặc định
 ```
@@ -4311,7 +4311,7 @@ Chọn giá trị mặc định
 ```
 Creation date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ngày thành lập
 ```
@@ -4321,7 +4321,7 @@ Ngày thành lập
 ```
 POI Options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tùy chọn POI
 ```
@@ -4331,7 +4331,7 @@ Tùy chọn POI
 ```
 Delete POI
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xóa POI
 ```
@@ -4341,7 +4341,7 @@ Xóa POI
 ```
 Select value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chọn giá trị
 ```
@@ -4351,7 +4351,7 @@ Chọn giá trị
 ```
 Used by folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Được sử dụng bởi các thư mục
 ```
@@ -4361,7 +4361,7 @@ translates to:
 ```
 Edit field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chỉnh sửa trường
 ```
@@ -4371,7 +4371,7 @@ Chỉnh sửa trường
 ```
 Add folder field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thêm trường thư mục
 ```
@@ -4381,7 +4381,7 @@ Thêm trường thư mục
 ```
 Reorder fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sắp xếp lại trường
 ```
@@ -4391,7 +4391,7 @@ Sắp xếp lại trường
 ```
 Pick the fields you want to apply to this folder\'s POIs
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chọn các trường bạn muốn áp dụng cho các POIs của thư mục này
 ```
@@ -4401,7 +4401,7 @@ Chọn các trường bạn muốn áp dụng cho các POIs của thư mục nà
 ```
 The destination folder has different field values. Pick the fields you want to apply to moved POIs.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thư mục đích có các giá trị trường khác nhau. Chọn các trường bạn muốn áp dụng cho POIs đã chuyển.
 ```
@@ -4411,7 +4411,7 @@ Thư mục đích có các giá trị trường khác nhau. Chọn các trườn
 ```
 Update color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cập nhật màu
 ```
@@ -4421,7 +4421,7 @@ Cập nhật màu
 ```
 Update pin icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cập nhật biểu tượng pin
 ```
@@ -4431,7 +4431,7 @@ Cập nhật biểu tượng pin
 ```
 Add field if missing: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Thêm trường nếu thiếu: %s
 ```
@@ -4441,7 +4441,7 @@ Thêm trường nếu thiếu: %s
 ```
 Remove field if present: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Xóa trường nếu có: %s
 ```
@@ -4451,7 +4451,7 @@ Xóa trường nếu có: %s
 ```
 Update field name if different: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cập nhật tên trường nếu khác: %s
 ```
@@ -4461,7 +4461,7 @@ Cập nhật tên trường nếu khác: %s
 ```
 More options…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lựa chọn khác…
 ```
@@ -4471,7 +4471,7 @@ Lựa chọn khác…
 ```
 Folder options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tùy chọn thư mục
 ```
@@ -4481,7 +4481,7 @@ Tùy chọn thư mục
 ```
 Edit email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chỉnh sửa email
 ```
@@ -4491,7 +4491,7 @@ Chỉnh sửa email
 ```
 Edit web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Chỉnh sửa liên kết web
 ```
@@ -4501,7 +4501,7 @@ Chỉnh sửa liên kết web
 ```
 Decimal accuracy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Độ chính xác thập phân
 ```
@@ -4511,7 +4511,7 @@ translates to:
 ```
 Details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Đã sao chép chi tiết vào khay nhớ tạm
 ```
@@ -4521,7 +4521,7 @@ translates to:
 ```
 Copy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sao chép
 ```
@@ -4531,7 +4531,7 @@ Sao chép
 ```
 Do you want to click here? ^‿^
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bạn có muốn bấm vào đây không? ^ ‿ ^
 ```
@@ -4559,7 +4559,7 @@ And finally, thank you for reading this :-)
 Regards
 Sébastien
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hey, cảm ơn vì sự tò mò của bạn! 
  
@@ -4587,7 +4587,7 @@ Hey, cảm ơn vì sự tò mò của bạn!
 ```
 Normal with indoor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bình thường với trong nhà
 ```
@@ -4597,7 +4597,7 @@ Bình thường với trong nhà
 ```
 Floating marker titles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tiêu đề đánh dấu nổi
 ```
@@ -4607,7 +4607,7 @@ Tiêu đề đánh dấu nổi
 ```
 Maximum number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Số lớn nhất
 ```
@@ -4617,7 +4617,7 @@ Số lớn nhất
 ```
 Text size
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cỡ chữ
 ```
@@ -4627,7 +4627,7 @@ Cỡ chữ
 ```
 Search failed => %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tìm kiếm không thành công =&gt; %s
 ```
@@ -4637,7 +4637,7 @@ Tìm kiếm không thành công =&gt; %s
 ```
 API key tutorial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hướng dẫn API key
 ```
@@ -4647,7 +4647,7 @@ Hướng dẫn API key
 ```
 Click here to see details on how to obtain an API key for your account.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nhấp vào đây để xem chi tiết về cách lấy API key cho tài khoản của bạn.
 ```
@@ -4657,7 +4657,7 @@ Nhấp vào đây để xem chi tiết về cách lấy API key cho tài khoản
 ```
 Personal API key
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cá nhân API key
 ```
@@ -4667,7 +4667,7 @@ Cá nhân API key
 ```
 None
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 không ai
 ```
@@ -4679,7 +4679,7 @@ You can search for places with "Google Places API". This search requires an inte
 
 You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bạn có thể tìm kiếm địa điểm với "Google Places API". Tìm kiếm này yêu cầu kết nối internet.
 
@@ -4691,7 +4691,7 @@ Bạn đã định cấu hình khóa Google Places API cá nhân của mình: t�
 ```
 Do you enjoy the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bạn có thích ứng dụng này không?
 ```
@@ -4701,7 +4701,7 @@ Bạn có thích ứng dụng này không?
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bạn có muốn gửi cho tôi một email để cho tôi biết làm thế nào tôi có thể cải thiện ứng dụng không?
 ```
@@ -4711,7 +4711,7 @@ Bạn có muốn gửi cho tôi một email để cho tôi biết làm thế nà
 ```
 Display extra POI fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hiển thị các trường POI bổ sung
 ```
@@ -4721,7 +4721,7 @@ Hiển thị các trường POI bổ sung
 ```
 IGN plans
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kế hoạch IGN
 ```
@@ -4731,7 +4731,7 @@ Kế hoạch IGN
 ```
 IGN maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bản đồ IGN
 ```
@@ -4741,7 +4741,7 @@ Bản đồ IGN
 ```
 IGN - Cadastral parcels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - bưu kiện địa chính
 ```
@@ -4751,7 +4751,7 @@ IGN - bưu kiện địa chính
 ```
 IGN - Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - Trên không
 ```
@@ -4761,7 +4761,7 @@ IGN - Trên không
 ```
 Type more and press enter again for refined results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nhập thêm và nhấn enter lần nữa để có kết quả tinh tế
 ```

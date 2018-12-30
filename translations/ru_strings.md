@@ -1,4 +1,4 @@
-# Map Marker translations for ru
+# Map Marker translations for Russian (ru)
 
 You want to help improve this translation file? Read the [main page](https://github.com/androidseb/mapmarkerapptranslations)
 
@@ -7,7 +7,7 @@ You want to help improve this translation file? Read the [main page](https://git
 ```
 OK
 ```
-translates to:
+translated (by human 👀) as:
 ```
 ОК
 ```
@@ -17,7 +17,7 @@ translates to:
 ```
 Yes
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Да
 ```
@@ -27,7 +27,7 @@ translates to:
 ```
 No
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Нет
 ```
@@ -37,7 +37,7 @@ translates to:
 ```
 Cancel
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Отмена
 ```
@@ -47,7 +47,7 @@ translates to:
 ```
 New marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Новый маркер
 ```
@@ -57,7 +57,7 @@ translates to:
 ```
 Title
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Название
 ```
@@ -67,7 +67,7 @@ translates to:
 ```
 Description
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Описание
 ```
@@ -77,7 +77,7 @@ translates to:
 ```
 Do you really want to delete this marker?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Вы действительно хотите удалить этот маркер?
 ```
@@ -87,7 +87,7 @@ translates to:
 ```
 GPS coordinates
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Координаты GPS
 ```
@@ -97,7 +97,7 @@ translates to:
 ```
 Could not copy coordinates to clipboard
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не удалось скопировать координаты в буфер обмена
 ```
@@ -107,7 +107,7 @@ translates to:
 ```
 Coordinates copied to clipboard
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Координаты скопированы
 ```
@@ -117,7 +117,7 @@ translates to:
 ```
 Failed to access application save directory. Make sure that your device is not being accessed by a computer with the USB cable, and restart the app.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не удалось получить доступ к директории приложения. Убедитесь, что ваше устройство не подключено к компьютеру через USB и перезапустите приложение.
 ```
@@ -127,7 +127,7 @@ translates to:
 ```
 Untitled
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Без названия
 ```
@@ -137,7 +137,7 @@ translates to:
 ```
 All
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Все
 ```
@@ -147,7 +147,7 @@ translates to:
 ```
 Add folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Добавить папку
 ```
@@ -157,7 +157,7 @@ translates to:
 ```
 Modify folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Изменить папку
 ```
@@ -167,7 +167,7 @@ translates to:
 ```
 Are you sure you want to delete this folder? All markers associated to this folder will be deleted permanently!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Вы уверены, что хотите удалить эту папку? Все маркеры в этой папке будут удалены навсегда!
 ```
@@ -177,7 +177,7 @@ translates to:
 ```
 Failed to create new folder, it already exists
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ошибка! Папка уже существует
 ```
@@ -187,7 +187,7 @@ translates to:
 ```
 Failed to rename the folder, the destination name already exists
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ошибка! Папка с таким именем уже есть
 ```
@@ -197,7 +197,7 @@ translates to:
 ```
 Latitude:
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Широта:
 ```
@@ -207,7 +207,7 @@ translates to:
 ```
 Longitude:
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Долгота:
 ```
@@ -217,7 +217,7 @@ translates to:
 ```
 Could not write file.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не удалось записать файл.
 ```
@@ -227,7 +227,7 @@ translates to:
 ```
 Import/Export
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Импорт/Экспорт
 ```
@@ -237,7 +237,7 @@ translates to:
 ```
 Import markers
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Импортировать маркеры
 ```
@@ -247,7 +247,7 @@ translates to:
 ```
 File imported successfully
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Файл успешно импортирован
 ```
@@ -257,7 +257,7 @@ translates to:
 ```
 File import failed
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не удалось импортировать файл
 ```
@@ -267,7 +267,7 @@ translates to:
 ```
 Location services
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Службы определения местоположения
 ```
@@ -277,7 +277,7 @@ translates to:
 ```
 Location services are disabled. To get your current location you must enable them.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Службы определения местоположения выключены. Включите их, чтобы получить текущее местоположение.
 ```
@@ -287,7 +287,7 @@ translates to:
 ```
 Could not find address
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не удалось найти адрес
 ```
@@ -297,7 +297,7 @@ translates to:
 ```
 Searching&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Поиск&#8230;
 ```
@@ -307,7 +307,7 @@ translates to:
 ```
 Search
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Поиск
 ```
@@ -317,7 +317,7 @@ translates to:
 ```
 Share via
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Отправить как
 ```
@@ -327,7 +327,7 @@ translates to:
 ```
 Do you want to import the content of this file?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Вы хотите импортировать содержимое этого файла?
 ```
@@ -337,7 +337,7 @@ translates to:
 ```
 Folder name
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Имя папки
 ```
@@ -347,7 +347,7 @@ translates to:
 ```
 Save
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Сохранить
 ```
@@ -357,7 +357,7 @@ translates to:
 ```
 Close
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Закрыть
 ```
@@ -367,7 +367,7 @@ translates to:
 ```
 Are you sure you want to delete the selected markers?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Вы уверены, что хотите удалить выбранные маркеры?
 ```
@@ -377,7 +377,7 @@ translates to:
 ```
 Move markers to folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Переместить в папку
 ```
@@ -387,7 +387,7 @@ translates to:
 ```
 Share
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Поделиться
 ```
@@ -397,7 +397,7 @@ translates to:
 ```
 Folder:
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Папка:
 ```
@@ -407,7 +407,7 @@ translates to:
 ```
 Snapshot of my markers on Map Marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Снимок моим маркеров в Map Marker
 ```
@@ -418,7 +418,7 @@ translates to:
 This snapshot was made with the app Map Marker:
 %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Этот снимок был сделан в приложении Map Marker:
  %s
@@ -429,7 +429,7 @@ translates to:
 ```
 Processing data&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Обработка данных&#8230;
 ```
@@ -439,7 +439,7 @@ translates to:
 ```
 You have unsaved modifications, do you want to save them?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Вы не сохранили изменения, сохранить их прямо сейчас?
 ```
@@ -449,7 +449,7 @@ translates to:
 ```
 Use the long press on the map to create a new marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Нажмите и удерживайте место на карте, чтобы создать маркер
 ```
@@ -459,7 +459,7 @@ translates to:
 ```
 Map type
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Тип карты
 ```
@@ -469,7 +469,7 @@ translates to:
 ```
 Normal
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Схема
 ```
@@ -479,7 +479,7 @@ translates to:
 ```
 Satellite
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Спутник
 ```
@@ -489,7 +489,7 @@ translates to:
 ```
 Terrain
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Рельеф
 ```
@@ -499,7 +499,7 @@ translates to:
 ```
 Hybrid
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Гибрид
 ```
@@ -510,7 +510,7 @@ translates to:
 Found a problem? Have an idea of improvement?
 Send me an email :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Нашли проблему? Есть хорошая идея?
 Отправьте мне эл. письмо :-)
@@ -521,7 +521,7 @@ translates to:
 ```
 Send email&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Отправить письмо&#8230;
 ```
@@ -532,7 +532,7 @@ translates to:
 You like the app?
 Rate it 5 stars :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Нравится приложение?
 Ставьте 5 звезд :-)
@@ -543,7 +543,7 @@ translates to:
 ```
 Change folder to&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Сменить папку&#8230;
 ```
@@ -553,7 +553,7 @@ translates to:
 ```
 Directions
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Направления
 ```
@@ -563,7 +563,7 @@ translates to:
 ```
 Acquiring location&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Определение местоположения&#8230;
 ```
@@ -573,7 +573,7 @@ translates to:
 ```
 Meters
 ```
-translates to:
+translated (by human 👀) as:
 ```
 м
 ```
@@ -583,7 +583,7 @@ translates to:
 ```
 Km
 ```
-translates to:
+translated (by human 👀) as:
 ```
 км
 ```
@@ -593,7 +593,7 @@ translates to:
 ```
 Feet
 ```
-translates to:
+translated (by human 👀) as:
 ```
 фут
 ```
@@ -603,7 +603,7 @@ translates to:
 ```
 Miles
 ```
-translates to:
+translated (by human 👀) as:
 ```
 миль
 ```
@@ -613,7 +613,7 @@ translates to:
 ```
 Adjust map camera position when guiding to a marker location
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Выравнивать обзор в режиме навигации
 ```
@@ -623,7 +623,7 @@ translates to:
 ```
 Keep screen on when guiding to a marker location
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не выключать экран в режиме навигации
 ```
@@ -633,7 +633,7 @@ translates to:
 ```
 Marker details copied to clipboard
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Детали маркера скопированы в буфер обмена
 ```
@@ -643,7 +643,7 @@ translates to:
 ```
 Long press to drag and move the marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Удерживайте, чтобы переместить маркер
 ```
@@ -653,7 +653,7 @@ translates to:
 ```
 Error starting internal task manager, app will now exit
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ошибка при запуске внутреннего диспетчера задач, приложение будет закрыто
 ```
@@ -663,7 +663,7 @@ translates to:
 ```
 Do not show again
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не показывать снова
 ```
@@ -673,7 +673,7 @@ translates to:
 ```
 Could not create the map capture
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Could not create the map capture
 ```
@@ -683,7 +683,7 @@ Could not create the map capture
 ```
 Metric (Kilometers/Meters)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Метрическая (км/м)
 ```
@@ -693,7 +693,7 @@ translates to:
 ```
 Imperial (Miles/Feet)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Английская (миль/фут)
 ```
@@ -703,7 +703,7 @@ translates to:
 ```
 There is a problem with Google Play Services: it needs to be installed, updated or activated. Click OK to try and solve it.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Проблема с сервисами Google Play: они должны быть установлены, обновлены или активированы. Нажмите OK, чтобы попытаться решить эту проблему.
 ```
@@ -713,7 +713,7 @@ translates to:
 ```
 Delete folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Удалить папку
 ```
@@ -723,7 +723,7 @@ translates to:
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Если вам нравится мое приложение, можете вознаградить меня хорошей оценкой :-)
 ```
@@ -734,7 +734,7 @@ translates to:
 OK take me
 to the Play Store
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Перейти в магазин
 Google Play
@@ -746,7 +746,7 @@ Google Play
 I already
 gave a rating
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Готово
 ```
@@ -757,7 +757,7 @@ translates to:
 Maybe later
 remind me
 ```
-translates to:
+translated (by human 👀) as:
 ```
 В другой раз
 ```
@@ -768,7 +768,7 @@ translates to:
 Maybe later
 do not remind me
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не показывать снова
 ```
@@ -778,7 +778,7 @@ translates to:
 ```
 Could not find the place
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не удалось найти место
 ```
@@ -788,7 +788,7 @@ translates to:
 ```
 Could not find another map application
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не удалось найти другие приложения для навигации
 ```
@@ -798,7 +798,7 @@ translates to:
 ```
 Move the map around to place your marker where you want and click OK to place it.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Перемещайтесь туда, где хотите установить маркер, и нажмите ОК.
 ```
@@ -808,7 +808,7 @@ translates to:
 ```
 Imported marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Импортированный маркер
 ```
@@ -818,7 +818,7 @@ translates to:
 ```
 Settings
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Настройки
 ```
@@ -828,7 +828,7 @@ translates to:
 ```
 Display zoom buttons
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Кнопки масштабирования
 ```
@@ -838,7 +838,7 @@ translates to:
 ```
 Decimal degrees
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Десятичные градусы
 ```
@@ -848,7 +848,7 @@ translates to:
 ```
 Degrees decimal minutes
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Градусы и десятичные минуты
 ```
@@ -858,7 +858,7 @@ translates to:
 ```
 Degrees minutes seconds
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Градусы минуты секунды
 ```
@@ -868,7 +868,7 @@ translates to:
 ```
 Coordinates format
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Формат координат
 ```
@@ -878,7 +878,7 @@ translates to:
 ```
 GPS and wireless networks only
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Только GPS и беспроводные сети
 ```
@@ -888,7 +888,7 @@ translates to:
 ```
 GPS and wireless networks or magnetic sensor
 ```
-translates to:
+translated (by human 👀) as:
 ```
 GPS и беспроводные сети или магнитный датчик
 ```
@@ -898,7 +898,7 @@ GPS и беспроводные сети или магнитный датчик
 ```
 Magnetic sensor only
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Только магнитный датчик
 ```
@@ -908,7 +908,7 @@ translates to:
 ```
 Used compass sensor
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Используемый акселерометр
 ```
@@ -918,7 +918,7 @@ translates to:
 ```
 FAQ/Help
 ```
-translates to:
+translated (by human 👀) as:
 ```
 FAQ/Помощь
 ```
@@ -928,7 +928,7 @@ FAQ/Помощь
 ```
 Folders
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Папки
 ```
@@ -938,7 +938,7 @@ translates to:
 ```
 Help and settings
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Помощь и настройки
 ```
@@ -948,7 +948,7 @@ translates to:
 ```
 Language
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Язык
 ```
@@ -958,7 +958,7 @@ translates to:
 ```
 Marker popup style
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Стиль панели маркера
 ```
@@ -968,7 +968,7 @@ translates to:
 ```
 Bottom
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Снизу
 ```
@@ -978,7 +978,7 @@ translates to:
 ```
 Bubble
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Всплывающая
 ```
@@ -988,7 +988,7 @@ translates to:
 ```
 Coordinates
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Координаты
 ```
@@ -998,7 +998,7 @@ translates to:
 ```
 Contextual
 ```
-translates to:
+translated (by human 👀) as:
 ```
 По умолчанию
 ```
@@ -1008,7 +1008,7 @@ translates to:
 ```
 Always
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Всегда
 ```
@@ -1018,7 +1018,7 @@ translates to:
 ```
 Crosshair display
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Показывать перекрестие
 ```
@@ -1028,7 +1028,7 @@ translates to:
 ```
 Coordinates window
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Показывать координаты
 ```
@@ -1038,7 +1038,7 @@ translates to:
 ```
 Lat:
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ш:
 ```
@@ -1048,7 +1048,7 @@ translates to:
 ```
 Lng:
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Д:
 ```
@@ -1058,7 +1058,7 @@ translates to:
 ```
 Marker instant adding mode
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Добавлять маркер сразу
 ```
@@ -1068,7 +1068,7 @@ translates to:
 ```
 Advanced
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Дополнительно
 ```
@@ -1078,7 +1078,7 @@ translates to:
 ```
 Display
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Внешний вид
 ```
@@ -1088,7 +1088,7 @@ translates to:
 ```
 Actions
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Действия
 ```
@@ -1098,7 +1098,7 @@ translates to:
 ```
 Language and units
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Язык и единицы измерения
 ```
@@ -1108,7 +1108,7 @@ translates to:
 ```
 Markers ignored on import (duplicates): %1$d
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Пропущенные маркеры при импорте (дубликаты): %1$d
 ```
@@ -1118,7 +1118,7 @@ translates to:
 ```
 %1$d markers
 ```
-translates to:
+translated (by human 👀) as:
 ```
 %1$d
 ```
@@ -1128,7 +1128,7 @@ translates to:
 ```
 No auto naming
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не задавать имена автоматически
 ```
@@ -1138,7 +1138,7 @@ translates to:
 ```
 Auto naming "number"
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Задать номер
 ```
@@ -1148,7 +1148,7 @@ translates to:
 ```
 Auto naming "Marker number"
 ```
-translates to:
+translated (by human 👀) as:
 ```
 "Маркер &lt;номер&gt;"
 ```
@@ -1158,7 +1158,7 @@ translates to:
 ```
 New marker auto naming
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Название нового маркера
 ```
@@ -1168,7 +1168,7 @@ translates to:
 ```
 Marker %1$d
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Маркер %1$d
 ```
@@ -1178,7 +1178,7 @@ translates to:
 ```
 Waiting for location&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Поиск местоположения&#8230;
 ```
@@ -1188,7 +1188,7 @@ translates to:
 ```
 Open the help page and see the FAQ
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Зайти в справку и посмотреть FAQ
 ```
@@ -1198,7 +1198,7 @@ translates to:
 ```
 Features
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Возможности
 ```
@@ -1208,7 +1208,7 @@ translates to:
 ```
 View the list of upcoming features for the next app version
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Открыть список новых возможностей будущих версий
 ```
@@ -1218,7 +1218,7 @@ translates to:
 ```
 Help &amp; Feedback
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Помощь и обратная связь
 ```
@@ -1228,7 +1228,7 @@ translates to:
 ```
 About
 ```
-translates to:
+translated (by human 👀) as:
 ```
 О программе
 ```
@@ -1238,7 +1238,7 @@ translates to:
 ```
 Distance to %1$s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Расстояние до %1$s
 ```
@@ -1248,7 +1248,7 @@ translates to:
 ```
 Snapshot
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Снимок
 ```
@@ -1258,7 +1258,7 @@ translates to:
 ```
 Share a snapshot of the map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Отправить снимок карты
 ```
@@ -1268,7 +1268,7 @@ translates to:
 ```
 All markers and folders
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Все маркеры и папки
 ```
@@ -1278,7 +1278,7 @@ translates to:
 ```
 <![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
 ```
-translates to:
+translated (by human 👀) as:
 ```
 <![CDATA[<html><body><b>Чтобы компас правильно указывал на север, нужно правильно откалибровать устройство.<br>Для этого просто перемещайте его, рисуя восьмёрку. Двигайте достаточно широко, повторите так раза 3 для большей эффективности.<br>Можете выполнить калибровку, сделав это в любое время.</b><br><br>Калибровка имеет свои ограничения, её может быть недостаточно, чтобы противостоять близлежащим помехам, таким как: :<br>&bull; большие металлические объекты<br>&bull; электронные устройства<br>&bull; магниты<br>&bull; пространство внутри автомобиля/автобуса/поезда/самолета</body></html>]]>
 ```
@@ -1288,7 +1288,7 @@ translates to:
 ```
 Badges
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Значки
 ```
@@ -1298,7 +1298,7 @@ translates to:
 ```
 Buy a donation badge
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Купить значок пожертвования
 ```
@@ -1308,7 +1308,7 @@ translates to:
 ```
 Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Благодарим за пожертвование! Это пожертвование дарит Вам доступ к премиум-функциям :-)
 ```
@@ -1318,7 +1318,7 @@ translates to:
 ```
 Default folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Папка по умолчанию
 ```
@@ -1328,7 +1328,7 @@ translates to:
 ```
 Sync options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Настройки синхронизации
 ```
@@ -1338,7 +1338,7 @@ translates to:
 ```
 Google Drive
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Google Диск
 ```
@@ -1348,7 +1348,7 @@ Google Диск
 ```
 Dropbox
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dropbox
 ```
@@ -1358,7 +1358,7 @@ Dropbox
 ```
 Configuring&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Конфигурация&#8230;
 ```
@@ -1368,7 +1368,7 @@ translates to:
 ```
 Sync now
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Синхронизировать
 ```
@@ -1378,7 +1378,7 @@ translates to:
 ```
 Never
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Никогда
 ```
@@ -1388,7 +1388,7 @@ translates to:
 ```
 Syncing…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Синхронизация…
 ```
@@ -1398,7 +1398,7 @@ translates to:
 ```
 Select folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Выберите папку
 ```
@@ -1408,7 +1408,7 @@ translates to:
 ```
 Load error
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ошибка загрузки
 ```
@@ -1418,7 +1418,7 @@ translates to:
 ```
 Retry
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Повтор
 ```
@@ -1428,7 +1428,7 @@ translates to:
 ```
 Root
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Корень
 ```
@@ -1438,7 +1438,7 @@ translates to:
 ```
 Shared
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Общие
 ```
@@ -1448,7 +1448,7 @@ translates to:
 ```
 Purchase successful!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Покупка совершена!
 ```
@@ -1458,7 +1458,7 @@ translates to:
 ```
 Purchase failed: %1$s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ошибка при покупке %1$s
 ```
@@ -1468,7 +1468,7 @@ translates to:
 ```
 Premium access available! You currently have access to premium features.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Открыт премиум-доступ! Теперь у Вас есть премиум-функции.
 ```
@@ -1478,7 +1478,7 @@ translates to:
 ```
 You cannot select that folder because it contains multiple files named %1$s. The sync requires the folder to contain only one file with that name.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Нельзя выбрать папку, она содержит несколько файлов с таким названием %1$s. Для синхронизации требуется папка только с одним таким файлом.
 ```
@@ -1488,7 +1488,7 @@ translates to:
 ```
 It seems sync data already exists in that folder. If you select that folder, your local data will be merged with the folder data when sync is performed. Is that what you want?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Кажется, в папке уже есть эти данные синхронизации. Если Вы выберите эту папку, Ваши локальные данные объединятся с данными папки при синхронизации. Вы хотите этого?
 ```
@@ -1498,7 +1498,7 @@ translates to:
 ```
 File options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Опции файлов
 ```
@@ -1508,7 +1508,7 @@ translates to:
 ```
 Cloud sync
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Облачная синхронизация
 ```
@@ -1518,7 +1518,7 @@ translates to:
 ```
 Sync this map file on the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Синхронизировать файл карты в облаке
 ```
@@ -1528,7 +1528,7 @@ translates to:
 ```
 Map file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Файл карты
 ```
@@ -1538,7 +1538,7 @@ translates to:
 ```
 Create local map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Создать локальную карту
 ```
@@ -1548,7 +1548,7 @@ translates to:
 ```
 Create a new map file locally
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Создать файл новой карты локально
 ```
@@ -1558,7 +1558,7 @@ translates to:
 ```
 Create cloud map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Создать облачную карту
 ```
@@ -1568,7 +1568,7 @@ translates to:
 ```
 Create a map file on the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Создать файл карты в облаке
 ```
@@ -1578,7 +1578,7 @@ translates to:
 ```
 Retrieves changes from the cloud and sends local changes to the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Получает изменения из облака и отправляет локальные изменения в облако
 ```
@@ -1588,7 +1588,7 @@ translates to:
 ```
 Rename
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Переименовать
 ```
@@ -1598,7 +1598,7 @@ translates to:
 ```
 Rename the map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Переименовать карту
 ```
@@ -1608,7 +1608,7 @@ translates to:
 ```
 Enter new name
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Введите новое имя
 ```
@@ -1618,7 +1618,7 @@ translates to:
 ```
 Enter the new map\'s name
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Введите новое имя карты
 ```
@@ -1628,7 +1628,7 @@ translates to:
 ```
 %1$d folders, %2$d markers, size: %3$d KB
 ```
-translates to:
+translated (by human 👀) as:
 ```
 %1$d папок, %2$d маркеров, %3$d Кб
 ```
@@ -1638,7 +1638,7 @@ translates to:
 ```
 Create new folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Создать новую папку
 ```
@@ -1648,7 +1648,7 @@ translates to:
 ```
 Could not create folder: name empty
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не удалось создать папку: пустое имя
 ```
@@ -1658,7 +1658,7 @@ translates to:
 ```
 Could not create folder: error occurred
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не удалось создать папку: произошел сбой
 ```
@@ -1668,7 +1668,7 @@ translates to:
 ```
 Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Спасибо за покупку Map Marker Premium :-)
 ```
@@ -1678,7 +1678,7 @@ translates to:
 ```
 Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Спасибо за проявленный интерес к бесплатной Map Marker Premium :-)
 ```
@@ -1688,7 +1688,7 @@ translates to:
 ```
 Premium
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Premium
 ```
@@ -1698,7 +1698,7 @@ Premium
 ```
 Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Получите премиум-доступ и используйте максимум возможностей Map Marker!
 ```
@@ -1708,7 +1708,7 @@ translates to:
 ```
 Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 К сожалению, для этой возможности необходим премиум-доступ. Получите его и используйте максимум возможностей Map Marker!
 ```
@@ -1718,7 +1718,7 @@ translates to:
 ```
 You have the premium upgrade for free! You can still purchase it if you want to show your support :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 У вас есть бесплатное обновление до премиум! Если хотите оказать поддержку, то можете его оплатить :-)
 ```
@@ -1728,7 +1728,7 @@ translates to:
 ```
 Purchase the premium upgrade
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Оплатить обновление до премиум
 ```
@@ -1738,7 +1738,7 @@ translates to:
 ```
 My Google account already has premium access, activate it!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Моя учетная запись Google уже имеет премиум-доступ, активировать его!
 ```
@@ -1748,7 +1748,7 @@ translates to:
 ```
 Troubleshooting
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Устранение неполадок
 ```
@@ -1758,7 +1758,7 @@ translates to:
 ```
 Open a list of actions to solve possible problems
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Просмотреть список действий для решения возможных проблем
 ```
@@ -1768,7 +1768,7 @@ translates to:
 ```
 Test internet
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Проверить Интернет
 ```
@@ -1778,7 +1778,7 @@ translates to:
 ```
 Checks that the app has access to internet
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Проверяет доступ приложения к Интернету
 ```
@@ -1788,7 +1788,7 @@ translates to:
 ```
 Test file writing
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Проверить запись файла
 ```
@@ -1798,7 +1798,7 @@ translates to:
 ```
 Checks that the app can save files on the internal SD card
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Проверяет, что приложение может сохранять файлы на внутреннюю карту памяти
 ```
@@ -1808,7 +1808,7 @@ translates to:
 ```
 GP Services (app)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Сервисы Google Play (приложение)
 ```
@@ -1818,7 +1818,7 @@ translates to:
 ```
 Open the details of the currently installed Google Play Services app
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Открыть подробности установленного приложения Google Play Services
 ```
@@ -1828,7 +1828,7 @@ translates to:
 ```
 GP Services (store)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Сервисы Google Play (магазин)
 ```
@@ -1838,7 +1838,7 @@ translates to:
 ```
 Google Play (app)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Google Play (приложение)
 ```
@@ -1848,7 +1848,7 @@ Google Play (приложение)
 ```
 Contact support
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Связаться со службой поддержки
 ```
@@ -1858,7 +1858,7 @@ translates to:
 ```
 Write an email to support with the details of your problem
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Отправить в поддержку письмо с деталями проблемы
 ```
@@ -1868,7 +1868,7 @@ translates to:
 ```
 Device network unavailable
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Сеть недоступна
 ```
@@ -1878,7 +1878,7 @@ translates to:
 ```
 Testing&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Тестирую&#8230;
 ```
@@ -1888,7 +1888,7 @@ translates to:
 ```
 Network test succeeded
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Проверка сети успешно завершена
 ```
@@ -1898,7 +1898,7 @@ translates to:
 ```
 Network test failed
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Безуспешная проверка сети
 ```
@@ -1908,7 +1908,7 @@ translates to:
 ```
 Disk test failed: could not write to internal storage
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Безуспешная проверка диска: ошибка при записи во внутреннюю память
 ```
@@ -1918,7 +1918,7 @@ translates to:
 ```
 Disk test failed: could not write to external storage
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Безуспешная проверка диска: ошибка при записи во внешнюю память
 ```
@@ -1928,7 +1928,7 @@ translates to:
 ```
 Disk test succeeded
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Проверка диска успешно завершена
 ```
@@ -1938,7 +1938,7 @@ translates to:
 ```
 App failed to start: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ошибка при запуске приложения %s
 ```
@@ -1948,7 +1948,7 @@ translates to:
 ```
 The file does not exist
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Файл не существует
 ```
@@ -1958,7 +1958,7 @@ translates to:
 ```
 Share cloud map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Поделиться облачной картой
 ```
@@ -1968,7 +1968,7 @@ translates to:
 ```
 Open the cloud map folder to view its properties and share it with other people
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Открыть папку с облачной картой, чтобы просмотреть ее свойства и поделиться картой с другими людьми
 ```
@@ -1978,7 +1978,7 @@ translates to:
 ```
 Internal file to SD
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Внутренний файл на SD
 ```
@@ -1988,7 +1988,7 @@ translates to:
 ```
 Copy the app hidden internal files to the sdcard
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Копировать скрытые внутренние файлы приложения в SD-карту
 ```
@@ -1998,7 +1998,7 @@ translates to:
 ```
 Enter destination folder path
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Введите путь к папке
 ```
@@ -2008,7 +2008,7 @@ translates to:
 ```
 Could not create folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не удалось создать папку
 ```
@@ -2018,7 +2018,7 @@ translates to:
 ```
 Files successfully saved to: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Файлы успешно сохранены в: %s
 ```
@@ -2028,7 +2028,7 @@ translates to:
 ```
 View history/Restore
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Просмотреть историю/Восстановить
 ```
@@ -2038,7 +2038,7 @@ translates to:
 ```
 View history of modifications to the cloud folder and select a version to restore to
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Просмотреть историю изменений и выбрать версию для восстановления
 ```
@@ -2048,7 +2048,7 @@ translates to:
 ```
 Create map file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Создать файл карты
 ```
@@ -2058,7 +2058,7 @@ translates to:
 ```
 Create a new map file locally or on the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Создать новый файл карты локально или в облаке
 ```
@@ -2068,7 +2068,7 @@ translates to:
 ```
 Open cloud map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Открыть облачную карту
 ```
@@ -2078,7 +2078,7 @@ translates to:
 ```
 Open a map file from the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Открыть файл карты в облаке
 ```
@@ -2088,7 +2088,7 @@ translates to:
 ```
 Map Marker needs the permission to access your location in order to display it on the map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Приложению Map Marker необходимо разрешение на доступ к местоположению, чтобы отобразить его на карте
 ```
@@ -2098,7 +2098,7 @@ translates to:
 ```
 Map Marker needs the permission to access to the storage of your device
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Приложению Map Marker необходимо разрешение на доступ к хранилищу устройства
 ```
@@ -2108,7 +2108,7 @@ translates to:
 ```
 Open settings
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Открыть настройки
 ```
@@ -2118,7 +2118,7 @@ translates to:
 ```
 No map folder found on the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 В облаке не найдено ни одной папки с картами
 ```
@@ -2128,7 +2128,7 @@ translates to:
 ```
 Auto sync
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Автосинхронизация
 ```
@@ -2138,7 +2138,7 @@ translates to:
 ```
 Choose a version to restore to
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Выберите версию, которую хотите восстановить
 ```
@@ -2148,7 +2148,7 @@ translates to:
 ```
 You must sync first before restoring an older version
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Нужно выполнить синхронизацию перед восстановлением
 ```
@@ -2158,7 +2158,7 @@ translates to:
 ```
 Are you sure you want to restore this version?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Вы уверены, что хотите восстановить эту версию?
 ```
@@ -2168,7 +2168,7 @@ translates to:
 ```
 Map Marker lost permissions to write to your cloud account. Sync will always fail until this is fixed. Do you want to fix it now?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Приложение Map Marker лишился права на запись данных в облаке Вашего аккаунта. Синхронизация также не будет работать. Вы хотите исправить это сейчас?
 ```
@@ -2178,7 +2178,7 @@ translates to:
 ```
 A sync error occurred. Please try again.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Произошла ошибка синхронизации. Пожалуйста, попробуйте ещё раз.
 ```
@@ -2188,7 +2188,7 @@ translates to:
 ```
 A sync error occurred: network error. Please try again.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Произошла ошибка синхронизации: ошибка сети. Пожалуйста, попробуйте ещё раз.
 ```
@@ -2198,7 +2198,7 @@ translates to:
 ```
 A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Произошла ошибка синхронизации: конфликт, другое устройство пытается синхронизировать одновременно. Пожалуйста, попробуйте ещё раз.
 ```
@@ -2208,7 +2208,7 @@ translates to:
 ```
 Changes are available from the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 В облаке доступны новые изменения
 ```
@@ -2218,7 +2218,7 @@ translates to:
 ```
 Changes made from another device were synced on the cloud. You can retrieve those changes by syncing.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 В облаке были синхронизированы изменения, сделанные на другом устройстве. Вы можете получить эти изменения путём синхронизации.
 ```
@@ -2228,7 +2228,7 @@ translates to:
 ```
 Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for details on how to restore cloud permissions.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не удалось восстановить права на хранение в облаке. Пожалуйста, перейдите в раздел "О программе" -> "FAQ" для подробной информации о том, как восстановить права.
 ```
@@ -2238,7 +2238,7 @@ translates to:
 ```
 A sync error occurred: duplicate index, there are at least two files named index.json in the map cloud folder. Remove the duplicates manually and try again.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Произошла ошибка синхронизации: в облачной папке найдено несколько файлов index.json. Удалите дубликаты и попробуйте ещё раз.
 ```
@@ -2248,7 +2248,7 @@ translates to:
 ```
 Phone number
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Номер телефона
 ```
@@ -2258,7 +2258,7 @@ translates to:
 ```
 Edit phone number
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Изменить номер телефона
 ```
@@ -2268,7 +2268,7 @@ translates to:
 ```
 Map Marker needs the permission to make calls on your device
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Приложению Map Marker необходимо разрешение на совершение звонков в вашем устройстве
 ```
@@ -2278,7 +2278,7 @@ translates to:
 ```
 No phone number is defined for that marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Отсутствуют телефонные номера для этого маркера
 ```
@@ -2288,7 +2288,7 @@ translates to:
 ```
 Navigation options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Настройки навигации
 ```
@@ -2298,7 +2298,7 @@ translates to:
 ```
 Open the marker location in this app
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Показать маркер в этом приложении
 ```
@@ -2308,7 +2308,7 @@ translates to:
 ```
 Open the marker street view in this app
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Показать панораму в этом приложении
 ```
@@ -2318,7 +2318,7 @@ translates to:
 ```
 Enter navigation mode in this app to get directions to the marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Запустить режим навигации в этом приложении, чтобы построить маршрут
 ```
@@ -2328,7 +2328,7 @@ translates to:
 ```
 Other options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ещё
 ```
@@ -2338,7 +2338,7 @@ translates to:
 ```
 Share the selected marker as plain text into another app
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Отправить выбранный маркер как текст в другое приложение
 ```
@@ -2348,7 +2348,7 @@ translates to:
 ```
 %1$d markers in %2$d folders
 ```
-translates to:
+translated (by human 👀) as:
 ```
 %1$d маркеров в %2$d папках
 ```
@@ -2358,7 +2358,7 @@ translates to:
 ```
 A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Произошла ошибка синхронизации: данные облака былы обновлены более поздней версией приложения. Для синхронизации обновите Map Marker на этом устройстве.
 ```
@@ -2368,7 +2368,7 @@ translates to:
 ```
 Could not find a phone app on this device.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не удалось найти приложение для звонков на этом устройстве.
 ```
@@ -2378,7 +2378,7 @@ translates to:
 ```
 Phone number options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Настройки номера телефона
 ```
@@ -2388,7 +2388,7 @@ translates to:
 ```
 Call phone number
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Вызов
 ```
@@ -2398,7 +2398,7 @@ translates to:
 ```
 Dial phone number
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Набрать номер
 ```
@@ -2408,7 +2408,7 @@ translates to:
 ```
 Text phone number
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Написать
 ```
@@ -2418,7 +2418,7 @@ translates to:
 ```
 Default navigation action
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Действие для навигации по умолчанию
 ```
@@ -2428,7 +2428,7 @@ translates to:
 ```
 Default phone action
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Действие для телефона по умолчанию
 ```
@@ -2438,7 +2438,7 @@ translates to:
 ```
 Ask
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Спросить
 ```
@@ -2448,7 +2448,7 @@ translates to:
 ```
 Premium free trial
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Бесплатная пробная премиум-версия
 ```
@@ -2458,7 +2458,7 @@ translates to:
 ```
 What is the premium upgrade?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Что такое обновление до премиум-версии?
 ```
@@ -2468,7 +2468,7 @@ translates to:
 ```
 Premium free trial started! The trial will expire at the following date: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Бесплатная пробная премиум-версия запущена! Дата окончания: %s
 ```
@@ -2479,7 +2479,7 @@ translates to:
 Trial expiration:
 %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Окончание пробной версии:
  %s
@@ -2490,7 +2490,7 @@ translates to:
 ```
 Trial expired
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Пробная версия истекла
 ```
@@ -2500,7 +2500,7 @@ translates to:
 ```
 Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Синхронизация была отменена: вам нужно обновление до премиум-версии.
 ```
@@ -2510,7 +2510,7 @@ translates to:
 ```
 Error: trial starting in the future!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ошибка: пробная версия ещё не началась!
 ```
@@ -2520,7 +2520,7 @@ translates to:
 ```
 Thank you for your purchase!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Спасибо за покупку!
 ```
@@ -2530,7 +2530,7 @@ translates to:
 ```
 Browse
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Перейти
 ```
@@ -2540,7 +2540,7 @@ translates to:
 ```
 Organize
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Организовать
 ```
@@ -2550,7 +2550,7 @@ translates to:
 ```
 Create
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Создать
 ```
@@ -2560,7 +2560,7 @@ translates to:
 ```
 Retry
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Повторить
 ```
@@ -2570,7 +2570,7 @@ translates to:
 ```
 Search failed
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не удалось выполнить поиск
 ```
@@ -2580,7 +2580,7 @@ translates to:
 ```
 Search failed, network error
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не удалось выполнить поиск, сетевая ошибка
 ```
@@ -2590,7 +2590,7 @@ translates to:
 ```
 Details
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Детали
 ```
@@ -2600,7 +2600,7 @@ translates to:
 ```
 Sync error
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ошибка синхронизации
 ```
@@ -2610,7 +2610,7 @@ translates to:
 ```
 The file already exists, do you want to overwrite it?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Файл уже существует, перезаписать его?
 ```
@@ -2620,7 +2620,7 @@ translates to:
 ```
 Copy markers to folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Копировать маркеры в папку
 ```
@@ -2630,7 +2630,7 @@ translates to:
 ```
 Error loading the Google Map component. Please restart the app.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ошибка загрузки компонента Google Map. Пожалуйста, перезагрузите приложение.
 ```
@@ -2640,7 +2640,7 @@ translates to:
 ```
 You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Здесь будет список Ваших маркеров. В настоящее время маркеры в выбранных папках отсутствуют. Добавьте новый маркер, нажав на эту кнопку.
 ```
@@ -2650,7 +2650,7 @@ translates to:
 ```
 No search results
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ничего не найдено
 ```
@@ -2660,7 +2660,7 @@ translates to:
 ```
 Open Street Map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Open Street Map
 ```
@@ -2670,7 +2670,7 @@ Open Street Map
 ```
 Bing Road
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bing Road
 ```
@@ -2680,7 +2680,7 @@ Bing Road
 ```
 Bing Aerial
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bing Aerial
 ```
@@ -2690,7 +2690,7 @@ Bing Aerial
 ```
 Bing Aerial With Labels
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bing Aerial With Labels
 ```
@@ -2700,7 +2700,7 @@ Bing Aerial With Labels
 ```
 ArcGIS Server
 ```
-translates to:
+translated (by human 👀) as:
 ```
 ArcGIS Server
 ```
@@ -2710,7 +2710,7 @@ ArcGIS Server
 ```
 Offline maps
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Автономные карты
 ```
@@ -2720,7 +2720,7 @@ translates to:
 ```
 No folder selected
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не выбрано ни одной папки
 ```
@@ -2730,7 +2730,7 @@ translates to:
 ```
 Storage folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Папка хранения
 ```
@@ -2741,7 +2741,7 @@ translates to:
 Test results of the offline maps folder:
 %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Результаты проверки папки с автономными картами:
  %s
@@ -2752,7 +2752,7 @@ translates to:
 ```
 No folder is selected for offline map files. In order to use offline maps, open the settings and select a folder for offline map files.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не выбрана папка для автономных карт. Для того, чтобы использовать автономные карты, перейдите в настройки и выберите папку.
 ```
@@ -2762,7 +2762,7 @@ translates to:
 ```
 The selected offline map folder you selected contains no files. Make sure you add the offline map files in that folder before using offline maps, otherwise the map will be empty.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Отсутствуют файлы в выбранной папке. Убедитесь, что Вы добавили в неё файлы автономных карт, иначе карта будет пустая.
 ```
@@ -2772,7 +2772,7 @@ translates to:
 ```
 Success: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Успешно: %s
 ```
@@ -2782,7 +2782,7 @@ translates to:
 ```
 Failed: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ошибка: %s
 ```
@@ -2792,7 +2792,7 @@ translates to:
 ```
 How to do it?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Как это сделать?
 ```
@@ -2802,7 +2802,7 @@ translates to:
 ```
 Click here to open the web page explaining how to obtain those maps.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Нажмите, чтобы открыть веб-страницу, объясняющую, как получить эти карты.
 ```
@@ -2812,7 +2812,7 @@ translates to:
 ```
 Credits
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Лицензии
 ```
@@ -2822,7 +2822,7 @@ translates to:
 ```
 Copyright and legal mentions
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Юридическая информация
 ```
@@ -2834,7 +2834,7 @@ Legal mentions for other map data than Google Maps:
 
 %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Legal mentions for other map data than Google Maps:
  
@@ -2846,7 +2846,7 @@ Legal mentions for other map data than Google Maps:
 ```
 Disable error file dump
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Выключить дамп ошибок
 ```
@@ -2856,7 +2856,7 @@ translates to:
 ```
 Disable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не писать ошибки приложения в файл на SD-карте
 ```
@@ -2866,7 +2866,7 @@ translates to:
 ```
 Enable error file dump
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Включить дамп ошибок
 ```
@@ -2876,7 +2876,7 @@ translates to:
 ```
 Enable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Разрешить писать ошибки приложения в файл на SD-карте
 ```
@@ -2886,7 +2886,7 @@ translates to:
 ```
 Start background sync…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Запускать фоновую синхронизацию&#8230;
 ```
@@ -2896,7 +2896,7 @@ translates to:
 ```
 Never
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Никогда
 ```
@@ -2906,7 +2906,7 @@ translates to:
 ```
 When app enters background
 ```
-translates to:
+translated (by human 👀) as:
 ```
 В фоновом режиме
 ```
@@ -2916,7 +2916,7 @@ translates to:
 ```
 %d seconds after the app enters background
 ```
-translates to:
+translated (by human 👀) as:
 ```
 %d с спустя в фоновом режиме
 ```
@@ -2926,7 +2926,7 @@ translates to:
 ```
 %d minutes after the app enters background
 ```
-translates to:
+translated (by human 👀) as:
 ```
 %d с спустя в фоновом режиме
 ```
@@ -2936,7 +2936,7 @@ translates to:
 ```
 Sync starting in %d seconds
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Синхронизация через %d с
 ```
@@ -2946,7 +2946,7 @@ translates to:
 ```
 You can cancel the sync at any time and your data will be synced on next attempt.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Вы можете отменить синхронизацию в любое время, данные синхронизируются в следующий раз.
 ```
@@ -2956,7 +2956,7 @@ translates to:
 ```
 Press back again to exit
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Нажмите снова, чтобы выйти
 ```
@@ -2966,7 +2966,7 @@ translates to:
 ```
 Cannot start sync with no internet access on the device.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не удается запустить синхронизацию, нет доступа в Интернет.
 ```
@@ -2976,7 +2976,7 @@ translates to:
 ```
 Manage map files
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Управление файлами карт
 ```
@@ -2986,7 +2986,7 @@ translates to:
 ```
 Map files
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Файлы карт
 ```
@@ -2996,7 +2996,7 @@ translates to:
 ```
 Delete map file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Удалить файл карты
 ```
@@ -3006,7 +3006,7 @@ translates to:
 ```
 This action will delete the map file from this device
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Это действие удалит файл карты с этого устройства
 ```
@@ -3016,7 +3016,7 @@ translates to:
 ```
 This action will delete the map file from your device forever. All the markers inside that file will be lost. Are you sure?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Файл карты будет удалён с устройства навсегда. Все маркеры в этом файле будут утеряны. Вы уверены?
 ```
@@ -3026,7 +3026,7 @@ translates to:
 ```
 This action will delete the map file from your device forever. All changes not yet synced to the cloud will be lost. The cloud folder will not be affected by this action and you will have to delete it manually. Are you sure?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Файл карты будет удалён с устройства навсегда. Все не синхронизированные изменения будут утеряны. Облачная папка останется, её нужно будет удалить вручную. Вы уверены?
 ```
@@ -3036,7 +3036,7 @@ translates to:
 ```
 Map file successfully deleted
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Файл карты успешно удален
 ```
@@ -3046,7 +3046,7 @@ translates to:
 ```
 Could not delete map file: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Невозможно удалить файл карты: %s
 ```
@@ -3056,7 +3056,7 @@ translates to:
 ```
 Marker saved in a non visible folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Маркер сохранен в недоступной папке
 ```
@@ -3066,7 +3066,7 @@ translates to:
 ```
 Your changes have not been synced recently. Make sure you keep your cloud copy up to date. Do you want to sync now?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ваши изменения давно не синхронизировались. Убедитесь в актуальности облачной копии. Синхронизировать сейчас?
 ```
@@ -3076,7 +3076,7 @@ translates to:
 ```
 The markers of this map file are currently only saved on this device. It is recommended to save your markers on the cloud to avoid losing them. Do you want to save them to the cloud now?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 В настоящее время маркеры этой карты хранятся только на этом устройстве. Рекомендуется сохранить маркеры в облаке, чтобы не потерять их. Сохранить их в облаке сейчас?
 ```
@@ -3086,7 +3086,7 @@ translates to:
 ```
 Do you want to sync this map file? With manual you will need to sync manually every time. With automatic (recommended) you will select a destination cloud folder and the sync to the cloud will start automatically every time the app enters background.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Хотите синхронизировать этот файл карты? При выборе ручной синхронизации нужно будет выполнять её каждый раз. При выборе автоматической синхронизации нужно будет указать папку в облаке, синхронизация будет сама запускаться каждый раз при переходе в фоновый режим.
 ```
@@ -3096,7 +3096,7 @@ translates to:
 ```
 Automatic
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Автоматически
 ```
@@ -3106,7 +3106,7 @@ translates to:
 ```
 Manual
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Вручную
 ```
@@ -3116,7 +3116,7 @@ translates to:
 ```
 You can sync a map file on the cloud at any time by clicking on the map file in the side bar and then choosing the "Cloud sync" option.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Вы можете синхронизировать файл карты в облаке в любое время, запустив синхронизацию в боковой панели.
 ```
@@ -3126,7 +3126,7 @@ translates to:
 ```
 You can sync a map file manually to the cloud at any time by clicking the "share" button in the main action bar, and then "Other options" and then "All markers and folders" and then by selecting your favorite cloud storage app.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Вы можете в любое время вручную синхронизировать файл карты, нажав кнопку "Поделиться" в основной панели и выбрав приложение для облачного хранения.
 ```
@@ -3136,7 +3136,7 @@ translates to:
 ```
 Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Перемещайтесь, чтобы разместить точки, жмите "+", чтобы добавить, жмите "-" для удаления, переключайтесь между ними кнопками назад/вперед. Нажмите кнопку сохранения, чтобы сохранить фигуру.
 ```
@@ -3146,7 +3146,7 @@ translates to:
 ```
 There are not enough points to create the shape. Create more points and try again.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не хватает точек, чтобы создать фигуру. Добавьте больше точек и повторите попытку.
 ```
@@ -3156,7 +3156,7 @@ translates to:
 ```
 Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn\'t work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by email (side panel -> about -> send email).
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не удалось активировать обновление до премиум-версии из Вашего аккаунта Google. Если Вы недавно приобрели обновление с другого устройства, то, возможно, Вам придется немного подождать, перезагрузка устройства может ускорить покупку. Если по-прежнему не работает, убедитесь, что Вы приобрели продукт, установили его и активировали с той же учетной записи Google. Если проблема не устранена, я помогу лично, Вы можете связаться со мной по почте (боковая панель -> О программе -> отправить письмо).
 ```
@@ -3166,7 +3166,7 @@ translates to:
 ```
 Distance: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Расстояние: %s
 ```
@@ -3177,7 +3177,7 @@ translates to:
 Perimeter: %1$s
 Area: %2$s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Периметр: %1$s 
 Площадь: %2$s
@@ -3188,7 +3188,7 @@ translates to:
 ```
 Extra information
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Доп. сведения
 ```
@@ -3198,7 +3198,7 @@ translates to:
 ```
 Insert…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Вставить…
 ```
@@ -3208,7 +3208,7 @@ translates to:
 ```
 Replace title
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Заменить название
 ```
@@ -3218,7 +3218,7 @@ translates to:
 ```
 Replace description
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Заменить описание
 ```
@@ -3228,7 +3228,7 @@ translates to:
 ```
 Unit of distance
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Единица измерения расстояния
 ```
@@ -3238,7 +3238,7 @@ translates to:
 ```
 Unit of area
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Единица измерения площади
 ```
@@ -3248,7 +3248,7 @@ translates to:
 ```
 Metric (%s)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Метрическая ( %s )
 ```
@@ -3258,7 +3258,7 @@ translates to:
 ```
 Imperial (%s)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Английская ( %s )
 ```
@@ -3268,7 +3268,7 @@ translates to:
 ```
 Images
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Изображения
 ```
@@ -3278,7 +3278,7 @@ translates to:
 ```
 Select image
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Выбрать изображение
 ```
@@ -3288,7 +3288,7 @@ translates to:
 ```
 Imported images
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Импортируемые изображения
 ```
@@ -3298,7 +3298,7 @@ translates to:
 ```
 Fit in a %1$sx%2$s square
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Сжимать в %1$sх%2$s квадрат
 ```
@@ -3308,7 +3308,7 @@ translates to:
 ```
 Full quality
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Сохранять качество
 ```
@@ -3318,7 +3318,7 @@ translates to:
 ```
 Mobile data
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Мобильные данные
 ```
@@ -3328,7 +3328,7 @@ translates to:
 ```
 Wifi
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Wifi
 ```
@@ -3338,7 +3338,7 @@ Wifi
 ```
 Disabled
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Отключено
 ```
@@ -3348,7 +3348,7 @@ translates to:
 ```
 Up to %s per sync
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Каждая синхронизация не более %s
 ```
@@ -3358,7 +3358,7 @@ translates to:
 ```
 Unlimited
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Неограниченно
 ```
@@ -3368,7 +3368,7 @@ translates to:
 ```
 The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings. You can also click "force sync" to sync just one time without data volume limit.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Синхронизация прервана, так как превысила допустимый предел объема данных. Чтобы изменить ограничение, перейдите в настройки. Вы можете нажать "Принудительная синхронизация", чтобы синхронизировать сейчас без ограничений.
 ```
@@ -3378,7 +3378,7 @@ translates to:
 ```
 Force sync
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Принудительная синхронизация
 ```
@@ -3388,7 +3388,7 @@ translates to:
 ```
 This will override the usual data limit just for this one time. Force sync?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Это снимит ограничения на использование данных только на один раз. Синхронизировать принудительно?
 ```
@@ -3398,7 +3398,7 @@ translates to:
 ```
 Retry
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Повторить попытку
 ```
@@ -3408,7 +3408,7 @@ translates to:
 ```
 Add image
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Добавить изображение
 ```
@@ -3418,7 +3418,7 @@ translates to:
 ```
 From camera
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Из камеры
 ```
@@ -3428,7 +3428,7 @@ translates to:
 ```
 From gallery
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Из галереи
 ```
@@ -3438,7 +3438,7 @@ translates to:
 ```
 Importing image…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Импорт изображения…
 ```
@@ -3448,7 +3448,7 @@ translates to:
 ```
 Offline (Mapsforge BETA)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Автономные карты (Mapsforge BETA)
 ```
@@ -3458,7 +3458,7 @@ translates to:
 ```
 Exporting…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Экспорт…
 ```
@@ -3468,7 +3468,7 @@ translates to:
 ```
 Export failed
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ошибка при экспорте
 ```
@@ -3478,7 +3478,7 @@ translates to:
 ```
 Export succeeded
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Экспорт завершён
 ```
@@ -3488,7 +3488,7 @@ translates to:
 ```
 KMZ
 ```
-translates to:
+translated (by human 👀) as:
 ```
 KMZ
 ```
@@ -3498,7 +3498,7 @@ KMZ
 ```
 KML
 ```
-translates to:
+translated (by human 👀) as:
 ```
 KML
 ```
@@ -3508,7 +3508,7 @@ KML
 ```
 Importing file…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Импорт файла…
 ```
@@ -3518,7 +3518,7 @@ translates to:
 ```
 Show warning icon for sync
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Показывать напоминание о синхронизации
 ```
@@ -3528,7 +3528,7 @@ translates to:
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Синхронизация была прервана, так как отсутствуют некоторые медиафайлы в облаке. Вы можете игнорировать это, нажав "Принудительная синхронизация", тогда эти файлы будут исключены из базы данных, что приведёт к их уничтожению на других устройствах при синхронизации.
 ```
@@ -3538,7 +3538,7 @@ translates to:
 ```
 This will force the sync and ignore the missing cloud files. The missing links will be removed from the database. Other devices still owning a local version of the missing cloud files will delete them upon their next sync. Data consumption limits will be ignored for this special sync. Force Sync?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Будет запущена синхронизация, недостающие файлы в облаке будут проигнорированы. Недостающие ссылки будут удалены из базы данных. Другие устройства, владеющие этими файлами, удалят их при синхронизации. Ограничения использования данных будут также проигнорированы. Запустить принудительную синхронизацию?
 ```
@@ -3548,7 +3548,7 @@ translates to:
 ```
 Marker media files ignored on import: %1$d
 ```
-translates to:
+translated (by human 👀) as:
 ```
 При импорте игнорировано медиафайлов: %1$d
 ```
@@ -3558,7 +3558,7 @@ translates to:
 ```
 Checking premium status…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Проверка премиум-статуса…
 ```
@@ -3568,7 +3568,7 @@ translates to:
 ```
 General
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Общее
 ```
@@ -3578,7 +3578,7 @@ translates to:
 ```
 Toilets
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Туалет
 ```
@@ -3588,7 +3588,7 @@ translates to:
 ```
 Food
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Еда
 ```
@@ -3598,7 +3598,7 @@ translates to:
 ```
 Stores
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Магазины
 ```
@@ -3608,7 +3608,7 @@ translates to:
 ```
 Land activities
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Летние виды спорта
 ```
@@ -3618,7 +3618,7 @@ translates to:
 ```
 Water activies
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Водные виды спорта
 ```
@@ -3628,7 +3628,7 @@ translates to:
 ```
 Winter activies
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Зимние виды спорта
 ```
@@ -3638,7 +3638,7 @@ translates to:
 ```
 Transport
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Транспорт
 ```
@@ -3648,7 +3648,7 @@ translates to:
 ```
 Health
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Здоровье
 ```
@@ -3658,7 +3658,7 @@ translates to:
 ```
 Entertainment
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Развлечения
 ```
@@ -3668,7 +3668,7 @@ translates to:
 ```
 Services
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Услуги
 ```
@@ -3678,7 +3678,7 @@ translates to:
 ```
 Business
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Бизнес
 ```
@@ -3688,7 +3688,7 @@ translates to:
 ```
 Government
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Государственные услуги
 ```
@@ -3698,7 +3698,7 @@ translates to:
 ```
 Religious
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Религия
 ```
@@ -3708,7 +3708,7 @@ translates to:
 ```
 Accessibility
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Доступность
 ```
@@ -3718,7 +3718,7 @@ translates to:
 ```
 Select icon
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Выбрать иконку
 ```
@@ -3728,7 +3728,7 @@ translates to:
 ```
 Icon and color
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Иконка и цвет
 ```
@@ -3738,7 +3738,7 @@ translates to:
 ```
 Generic
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Универсальные
 ```
@@ -3748,7 +3748,7 @@ translates to:
 ```
 Beta tester badge: thank you for being a beta tester! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Значок Beta tester: спасибо, что стали бета-тестером! Этот значок исчезнет только после удаления приложения или очистки данных приложения. Этот значок также убирает всю рекламу.
 ```
@@ -3758,7 +3758,7 @@ translates to:
 ```
 Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Значок Referral: спасибо за приглашение друзей! Этот значок исчезнет только после удаления приложения или очистки данных приложения. Этот значок также убирает всю рекламу.
 ```
@@ -3768,7 +3768,7 @@ translates to:
 ```
 Referral
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Referral
 ```
@@ -3778,7 +3778,7 @@ Referral
 ```
 Removing ads: exchange referrals credits with friends to remove ads
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Убрать рекламу: обменяйте кредиты распространения с друзьями, чтобы удалить рекламу
 ```
@@ -3788,7 +3788,7 @@ translates to:
 ```
 Sent credits: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Отправить кредиты: %s
 ```
@@ -3798,7 +3798,7 @@ translates to:
 ```
 Received credits: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Полученные кредиты: %s
 ```
@@ -3808,7 +3808,7 @@ translates to:
 ```
 Contribute to translations
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Участвовать в переводе
 ```
@@ -3818,7 +3818,7 @@ translates to:
 ```
 You understand English and want to help with translations? Click here
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Владеете английским и хотите помочь с переводом? Жмите сюда
 ```
@@ -3828,7 +3828,7 @@ translates to:
 ```
 The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 У папки и маркеров разные цвет или иконка. Хотите применить их к маркерам?
 ```
@@ -3838,7 +3838,7 @@ translates to:
 ```
 Add color
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Добавить цвет
 ```
@@ -3848,7 +3848,7 @@ translates to:
 ```
 <![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
 ```
-translates to:
+translated (by human 👀) as:
 ```
 <![CDATA[<html><body><b>Что такое обновление до премиум-версии?</b><br>Помимо удаления рекламы, обновление разблокирует дополнительные возможности:<br>&bull; Синхронизация в Google Диске или Dropbox<br>&bull; Совместная работа через Google Диск или Dropbox<br>&bull; История версий и восстановление<br></body></html>]]>
 ```
@@ -3858,7 +3858,7 @@ translates to:
 ```
 Marker created from the geo location of the QR code
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Маркер создан на основе геолокации QR-кода
 ```
@@ -3868,7 +3868,7 @@ translates to:
 ```
 Failed to read QR code as a geo location
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Не удалось прочитать QR-код как геолокацию
 ```
@@ -3878,7 +3878,7 @@ translates to:
 ```
 The app for scanning QR codes could not be found. Do you want to install it?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Приложение для сканирования QR-кодов не найдено. Хотите установить его?
 ```
@@ -3888,7 +3888,7 @@ translates to:
 ```
 Selection action
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Действие выделения
 ```
@@ -3898,7 +3898,7 @@ translates to:
 ```
 Move to left
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Переместить влево
 ```
@@ -3908,7 +3908,7 @@ translates to:
 ```
 Move to right
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Переместить вправо
 ```
@@ -3918,7 +3918,7 @@ translates to:
 ```
 Rotate to left
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Повернуть влево
 ```
@@ -3928,7 +3928,7 @@ translates to:
 ```
 Rotate to right
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Повернуть вправо
 ```
@@ -3938,7 +3938,7 @@ translates to:
 ```
 Delete image
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Удалить изображение
 ```
@@ -3948,7 +3948,7 @@ translates to:
 ```
 From local file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Из локального файла
 ```
@@ -3958,7 +3958,7 @@ translates to:
 ```
 What format to you want to use to export?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Какой формат использовать при экспорте?
 ```
@@ -3968,7 +3968,7 @@ translates to:
 ```
 The data to export contains media(images) that cannot be included with this export format. The data will be exported without the media. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Экспортируемые данные содержат медиафайлы (изображения), которые не могут быть включены в данный формат. Данные будут экспортированы без них. Чтобы экспортировать все, выберите формат KMZ.
 ```
@@ -3978,7 +3978,7 @@ translates to:
 ```
 Standard Google Earth format. Cannot contain media.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Стандартный формат Google Earth. Не может содержать медиафайлы.
 ```
@@ -3988,7 +3988,7 @@ translates to:
 ```
 Zip Google Earth format. Can contain media.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Формат Google Earth в ZIP-архиве. Может содержать медиафайлы.
 ```
@@ -3998,7 +3998,7 @@ translates to:
 ```
 Standard text spreadsheet format. Cannot contain media. Cannot contain lines or polygons.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Стандартная электронная таблица. Не может содержать медиафайлы, линии и фигуры.
 ```
@@ -4008,7 +4008,7 @@ translates to:
 ```
 Marker as plain text
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Маркер в виде обычного текста
 ```
@@ -4018,7 +4018,7 @@ translates to:
 ```
 Marker as file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Маркер в виде файла
 ```
@@ -4028,7 +4028,7 @@ translates to:
 ```
 Share the selected marker as a file into another app
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Отправить выбранный маркер как файл в другое приложение
 ```
@@ -4038,7 +4038,7 @@ translates to:
 ```
 Share as file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Отправить файл
 ```
@@ -4048,7 +4048,7 @@ translates to:
 ```
 Export to a local file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Экспорт в локальный файл
 ```
@@ -4058,7 +4058,7 @@ translates to:
 ```
 Import or export markers as files
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Импорт и экспорт маркеров в виде файлов
 ```
@@ -4068,7 +4068,7 @@ translates to:
 ```
 The data to export contains complex markers (lines or polygons) that cannot be included with this export format. The data will be exported without those markers. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Экспортируемые данные содержат сложные маркеры (линии или фигуры), которые не могут быть экспортированы в данный формат. Данные будут экспортированы без них. Чтобы экспортировать все, выберите экспорт в формат KMZ.
 ```
@@ -4078,7 +4078,7 @@ translates to:
 ```
 Add custom field
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Добавить настраиваемое поле
 ```
@@ -4088,7 +4088,7 @@ translates to:
 ```
 Information
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Подробности
 ```
@@ -4098,7 +4098,7 @@ translates to:
 ```
 Custom fields
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Настраиваемые поля
 ```
@@ -4108,7 +4108,7 @@ translates to:
 ```
 Field name
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Имя поля
 ```
@@ -4118,7 +4118,7 @@ translates to:
 ```
 Delete field
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Удалить поле
 ```
@@ -4128,7 +4128,7 @@ translates to:
 ```
 Attributes
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Атрибуты
 ```
@@ -4138,7 +4138,7 @@ translates to:
 ```
 New custom field
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Новое настраиваемое поле
 ```
@@ -4148,7 +4148,7 @@ translates to:
 ```
 Modify custom field
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Измененить настраиваемое поле
 ```
@@ -4158,7 +4158,7 @@ translates to:
 ```
 Field enabled. For folders, if enabled, that field will be added automatically to children POIs on creation. For POIs, if enabled, that field will be visible in the details page.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Если это поле создаётся в настроках папки - опция будет добавлять поле в её новые маркеры. Если это поле создаётся в маркере - опция просто включает отображение поля в сведениях маркера.
 ```
@@ -4168,7 +4168,7 @@ translates to:
 ```
 Field info
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Информация о поле
 ```
@@ -4178,7 +4178,7 @@ translates to:
 ```
 Select field type
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Выберите тип поля
 ```
@@ -4188,7 +4188,7 @@ translates to:
 ```
 Boolean (True or False)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Флажок (Да/Нет)
 ```
@@ -4198,7 +4198,7 @@ translates to:
 ```
 Default value
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Значение по умолчанию
 ```
@@ -4208,7 +4208,7 @@ translates to:
 ```
 Date
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Дата
 ```
@@ -4218,7 +4218,7 @@ translates to:
 ```
 Email
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Эл. адрес
 ```
@@ -4228,7 +4228,7 @@ translates to:
 ```
 Text
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Текст
 ```
@@ -4238,7 +4238,7 @@ translates to:
 ```
 Multiple choice
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Выпадающий список
 ```
@@ -4248,7 +4248,7 @@ translates to:
 ```
 Add choice
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Добавить
 ```
@@ -4258,7 +4258,7 @@ translates to:
 ```
 Duplicates are not allowed
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Дубликаты не допускаются
 ```
@@ -4268,7 +4268,7 @@ translates to:
 ```
 Phone
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Телефон
 ```
@@ -4278,7 +4278,7 @@ translates to:
 ```
 Web link
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Веб-ссылка
 ```
@@ -4288,7 +4288,7 @@ translates to:
 ```
 Choices list
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Элементы списка
 ```
@@ -4298,7 +4298,7 @@ translates to:
 ```
 Select default value
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Задайте значение по умолчанию
 ```
@@ -4308,7 +4308,7 @@ translates to:
 ```
 Creation date
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Дата создания
 ```
@@ -4318,7 +4318,7 @@ translates to:
 ```
 POI Options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Параметры маркера
 ```
@@ -4328,7 +4328,7 @@ translates to:
 ```
 Delete POI
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Удалить маркер
 ```
@@ -4338,7 +4338,7 @@ translates to:
 ```
 Select value
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Выбрать из списка
 ```
@@ -4348,7 +4348,7 @@ translates to:
 ```
 Used by folders
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Используется папками
 ```
@@ -4358,7 +4358,7 @@ translates to:
 ```
 Edit field
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Изменить поле
 ```
@@ -4368,7 +4368,7 @@ translates to:
 ```
 Add folder field
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Добавить поле из папки
 ```
@@ -4378,7 +4378,7 @@ translates to:
 ```
 Reorder fields
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Сортировать поля
 ```
@@ -4388,7 +4388,7 @@ translates to:
 ```
 Pick the fields you want to apply to this folder\'s POIs
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Применить поля к существующим меткам в этой папке.
 ```
@@ -4398,7 +4398,7 @@ translates to:
 ```
 The destination folder has different field values. Pick the fields you want to apply to moved POIs.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 У целевой папки есть другие значения полей. Выберите поля, если хотите применить их к перемещаемым маркерам.
 ```
@@ -4408,7 +4408,7 @@ translates to:
 ```
 Update color
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Обновить цвет
 ```
@@ -4418,7 +4418,7 @@ translates to:
 ```
 Update pin icon
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Обновить иконку
 ```
@@ -4428,7 +4428,7 @@ translates to:
 ```
 Add field if missing: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Добавить поле, если отсутствует: %s
 ```
@@ -4438,7 +4438,7 @@ translates to:
 ```
 Remove field if present: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Удалить поле, если есть: %s
 ```
@@ -4448,7 +4448,7 @@ translates to:
 ```
 Update field name if different: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Обновить имя поля, если оно другое: %s
 ```
@@ -4458,7 +4458,7 @@ translates to:
 ```
 More options…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ещё…
 ```
@@ -4468,7 +4468,7 @@ translates to:
 ```
 Folder options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Настройки папки
 ```
@@ -4478,7 +4478,7 @@ translates to:
 ```
 Edit email
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Изменить эл. адрес
 ```
@@ -4488,7 +4488,7 @@ translates to:
 ```
 Edit web link
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Изменить веб-ссылку
 ```
@@ -4498,7 +4498,7 @@ translates to:
 ```
 Decimal accuracy
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Десятичная точность
 ```
@@ -4508,7 +4508,7 @@ translates to:
 ```
 Details copied to clipboard
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Детали скопированы в буфер обмена
 ```
@@ -4518,7 +4518,7 @@ translates to:
 ```
 Copy
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Копировать
 ```
@@ -4528,7 +4528,7 @@ translates to:
 ```
 Do you want to click here? ^‿^
 ```
-translates to:
+translated (by human 👀) as:
 ```
 У Вас есть минутка? ^‿^
 ```
@@ -4556,7 +4556,7 @@ And finally, thank you for reading this :-)
 Regards
 Sébastien
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Привет, спасибо за проявленный интерес!
 
@@ -4584,7 +4584,7 @@ Sébastien
 ```
 Normal with indoor
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Обычная схема и схемы зданий
 ```
@@ -4594,7 +4594,7 @@ translates to:
 ```
 Floating marker titles
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Названия маркеров на карте
 ```
@@ -4604,7 +4604,7 @@ translates to:
 ```
 Maximum number
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Максимальное количество
 ```
@@ -4614,7 +4614,7 @@ translates to:
 ```
 Text size
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Размер текста
 ```
@@ -4624,7 +4624,7 @@ translates to:
 ```
 Search failed => %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ошибка поиска => %s
 ```
@@ -4634,7 +4634,7 @@ translates to:
 ```
 API key tutorial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 API key учебник
 ```
@@ -4644,7 +4644,7 @@ API key учебник
 ```
 Click here to see details on how to obtain an API key for your account.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Нажмите здесь, чтобы узнать, как получить API key для вашей учетной записи.
 ```
@@ -4654,7 +4654,7 @@ translates to:
 ```
 Personal API key
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Личное API key
 ```
@@ -4664,7 +4664,7 @@ translates to:
 ```
 None
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Никто
 ```
@@ -4676,7 +4676,7 @@ You can search for places with "Google Places API". This search requires an inte
 
 You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Вы можете искать места с "Google Places API". Этот поиск требует подключения к интернету.
 
@@ -4688,7 +4688,7 @@ translates to:
 ```
 Do you enjoy the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Вам нравится приложение?
 ```
@@ -4698,7 +4698,7 @@ translates to:
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Не могли бы вы прислать мне email, чтобы рассказать, как я могу улучшить приложение?
 ```
@@ -4708,7 +4708,7 @@ translates to:
 ```
 Display extra POI fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Показать дополнительные поля POI
 ```
@@ -4718,7 +4718,7 @@ translates to:
 ```
 IGN plans
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Планы IGN
 ```
@@ -4728,7 +4728,7 @@ translates to:
 ```
 IGN maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN карты
 ```
@@ -4738,7 +4738,7 @@ IGN карты
 ```
 IGN - Cadastral parcels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - Кадастровые участки
 ```
@@ -4748,7 +4748,7 @@ IGN - Кадастровые участки
 ```
 IGN - Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - Антенна
 ```
@@ -4758,7 +4758,7 @@ IGN - Антенна
 ```
 Type more and press enter again for refined results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Введите больше и нажмите ввод еще раз для уточнения результатов
 ```

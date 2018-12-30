@@ -1,4 +1,4 @@
-# Map Marker translations for nl
+# Map Marker translations for Dutch (nl)
 
 You want to help improve this translation file? Read the [main page](https://github.com/androidseb/mapmarkerapptranslations)
 
@@ -7,7 +7,7 @@ You want to help improve this translation file? Read the [main page](https://git
 ```
 OK
 ```
-translates to:
+translated (by human 👀) as:
 ```
 OK
 ```
@@ -17,7 +17,7 @@ OK
 ```
 Yes
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ja
 ```
@@ -27,7 +27,7 @@ Ja
 ```
 No
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nee
 ```
@@ -37,7 +37,7 @@ Nee
 ```
 Cancel
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Annuleren
 ```
@@ -47,7 +47,7 @@ Annuleren
 ```
 New marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nieuwe marker
 ```
@@ -57,7 +57,7 @@ Nieuwe marker
 ```
 Title
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Titel
 ```
@@ -67,7 +67,7 @@ Titel
 ```
 Description
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Beschrijving
 ```
@@ -77,7 +77,7 @@ Beschrijving
 ```
 Do you really want to delete this marker?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Wil je deze marker echt verwijderen?
 ```
@@ -87,7 +87,7 @@ Wil je deze marker echt verwijderen?
 ```
 GPS coordinates
 ```
-translates to:
+translated (by human 👀) as:
 ```
 GPS coordinaten
 ```
@@ -97,7 +97,7 @@ GPS coordinaten
 ```
 Could not copy coordinates to clipboard
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kon coordinaten niet kopieeren naar het klembord
 ```
@@ -107,7 +107,7 @@ Kon coordinaten niet kopieeren naar het klembord
 ```
 Coordinates copied to clipboard
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Coordinaten gekopieerd naar het klembord
 ```
@@ -117,7 +117,7 @@ Coordinaten gekopieerd naar het klembord
 ```
 Failed to access application save directory. Make sure that your device is not being accessed by a computer with the USB cable, and restart the app.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Geen toegang tot de toepassing save directory. Zorg ervoor dat uw apparaat niet wordt geopend door een computer met de USB-kabel, en start de app opnieuw op.
 ```
@@ -127,7 +127,7 @@ Geen toegang tot de toepassing save directory. Zorg ervoor dat uw apparaat niet 
 ```
 Untitled
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Untitled
 ```
@@ -137,7 +137,7 @@ Untitled
 ```
 All
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Alle
 ```
@@ -147,7 +147,7 @@ Alle
 ```
 Add folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Map toevoegen
 ```
@@ -157,7 +157,7 @@ Map toevoegen
 ```
 Modify folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Map wijzigen
 ```
@@ -167,7 +167,7 @@ Map wijzigen
 ```
 Are you sure you want to delete this folder? All markers associated to this folder will be deleted permanently!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Weet u zeker dat u deze map wilt verwijderen? Alle markers verbonden aan deze map worden permanent verwijderd!
 ```
@@ -177,7 +177,7 @@ Weet u zeker dat u deze map wilt verwijderen? Alle markers verbonden aan deze ma
 ```
 Failed to create new folder, it already exists
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nagelaten om nieuwe map te maken, het bestaat al
 ```
@@ -187,7 +187,7 @@ Nagelaten om nieuwe map te maken, het bestaat al
 ```
 Failed to rename the folder, the destination name already exists
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nagelaten om de map te hernoemen, de naam van de bestemming al bestaat
 ```
@@ -197,7 +197,7 @@ Nagelaten om de map te hernoemen, de naam van de bestemming al bestaat
 ```
 Latitude:
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Latitude:
 ```
@@ -207,7 +207,7 @@ Latitude:
 ```
 Longitude:
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Longitude:
 ```
@@ -217,7 +217,7 @@ Longitude:
 ```
 Could not write file.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kan het bestand niet maken.
 ```
@@ -227,7 +227,7 @@ Kan het bestand niet maken.
 ```
 Import/Export
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Import Export
 ```
@@ -237,7 +237,7 @@ Import Export
 ```
 Import markers
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Markers import
 ```
@@ -247,7 +247,7 @@ Markers import
 ```
 File imported successfully
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bestand geimporteerd
 ```
@@ -257,7 +257,7 @@ Bestand geimporteerd
 ```
 File import failed
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bestanden importeren is mislukt
 ```
@@ -267,7 +267,7 @@ Bestanden importeren is mislukt
 ```
 Location services
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Locatiediensten
 ```
@@ -277,7 +277,7 @@ Locatiediensten
 ```
 Location services are disabled. To get your current location you must enable them.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Locatiegegevens zijn uitgeschakeld. Als u uw huidige locatie wilt zien moet u locatiegegevens inschakelen.
 ```
@@ -287,7 +287,7 @@ Locatiegegevens zijn uitgeschakeld. Als u uw huidige locatie wilt zien moet u lo
 ```
 Could not find address
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kon het adres niet vinden
 ```
@@ -297,7 +297,7 @@ Kon het adres niet vinden
 ```
 Searching&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zoeken&#8230;
 ```
@@ -307,7 +307,7 @@ Zoeken&#8230;
 ```
 Search
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zoeken
 ```
@@ -317,7 +317,7 @@ Zoeken
 ```
 Share via
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Delen via
 ```
@@ -327,7 +327,7 @@ Delen via
 ```
 Do you want to import the content of this file?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Wilt u de inhoud van dit bestand importeren?
 ```
@@ -337,7 +337,7 @@ Wilt u de inhoud van dit bestand importeren?
 ```
 Folder name
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Mapnaam
 ```
@@ -347,7 +347,7 @@ Mapnaam
 ```
 Save
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Opslaan
 ```
@@ -357,7 +357,7 @@ Opslaan
 ```
 Close
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dicht
 ```
@@ -367,7 +367,7 @@ Dicht
 ```
 Are you sure you want to delete the selected markers?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Weet u zeker dat u de geselecteerde markers wilt verwijderen?
 ```
@@ -377,7 +377,7 @@ Weet u zeker dat u de geselecteerde markers wilt verwijderen?
 ```
 Move markers to folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Markeringen verplaatsen naar map
 ```
@@ -387,7 +387,7 @@ Markeringen verplaatsen naar map
 ```
 Share
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Delen
 ```
@@ -397,7 +397,7 @@ Delen
 ```
 Folder:
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Folder:
 ```
@@ -407,7 +407,7 @@ Folder:
 ```
 Snapshot of my markers on Map Marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Momentopname van mijn markers op Map Marker
 ```
@@ -418,7 +418,7 @@ Momentopname van mijn markers op Map Marker
 This snapshot was made with the app Map Marker:
 %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Deze snapshot werd gemaakt met de app Map Marker :
 %s
@@ -429,7 +429,7 @@ Deze snapshot werd gemaakt met de app Map Marker :
 ```
 Processing data&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Het verwerken van gegevens&#8230;
 ```
@@ -439,7 +439,7 @@ Het verwerken van gegevens&#8230;
 ```
 You have unsaved modifications, do you want to save them?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Je hebt niet-opgeslagen wijzigingen, wilt u hen te redden?
 ```
@@ -449,7 +449,7 @@ Je hebt niet-opgeslagen wijzigingen, wilt u hen te redden?
 ```
 Use the long press on the map to create a new marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Lang drukken om een nieuwe marker maken
 ```
@@ -459,7 +459,7 @@ Lang drukken om een nieuwe marker maken
 ```
 Map type
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kaart
 ```
@@ -469,7 +469,7 @@ Kaart
 ```
 Normal
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Normaal
 ```
@@ -479,7 +479,7 @@ Normaal
 ```
 Satellite
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Satelliet
 ```
@@ -489,7 +489,7 @@ Satelliet
 ```
 Terrain
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Terrein
 ```
@@ -499,7 +499,7 @@ Terrein
 ```
 Hybrid
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bastaard
 ```
@@ -510,7 +510,7 @@ Bastaard
 Found a problem? Have an idea of improvement?
 Send me an email :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Een probleem gevonden? Heb je een idee voor verbetering?
 Stuur me een email :-)
@@ -521,7 +521,7 @@ Stuur me een email :-)
 ```
 Send email&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Stuur email&#8230;
 ```
@@ -532,7 +532,7 @@ Stuur email&#8230;
 You like the app?
 Rate it 5 stars :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Je van de app?
 Geef het een 5 sterren :-)
@@ -543,7 +543,7 @@ Geef het een 5 sterren :-)
 ```
 Change folder to&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Map te wijzigen naar&#8230;
 ```
@@ -553,7 +553,7 @@ Map te wijzigen naar&#8230;
 ```
 Directions
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Routebeschrijving
 ```
@@ -563,7 +563,7 @@ Routebeschrijving
 ```
 Acquiring location&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Verwerven locatie&#8230;
 ```
@@ -573,7 +573,7 @@ Verwerven locatie&#8230;
 ```
 Meters
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Meters
 ```
@@ -583,7 +583,7 @@ Meters
 ```
 Km
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Km
 ```
@@ -593,7 +593,7 @@ Km
 ```
 Feet
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Voeten
 ```
@@ -603,7 +603,7 @@ Voeten
 ```
 Miles
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Mijl
 ```
@@ -613,7 +613,7 @@ Mijl
 ```
 Adjust map camera position when guiding to a marker location
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pas kaart camera positie bij het begeleiden naar een marker locatie
 ```
@@ -623,7 +623,7 @@ Pas kaart camera positie bij het begeleiden naar een marker locatie
 ```
 Keep screen on when guiding to a marker location
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Houd het scherm op bij het begeleiden naar een marker locatie
 ```
@@ -633,7 +633,7 @@ Houd het scherm op bij het begeleiden naar een marker locatie
 ```
 Marker details copied to clipboard
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Marker gegevens gekopieerd naar het klembord
 ```
@@ -643,7 +643,7 @@ Marker gegevens gekopieerd naar het klembord
 ```
 Long press to drag and move the marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Lang indrukken om de marker te verplaatsen
 ```
@@ -653,7 +653,7 @@ Lang indrukken om de marker te verplaatsen
 ```
 Error starting internal task manager, app will now exit
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Fout bij het starten interne task manager, app wordt nu afgesloten
 ```
@@ -663,7 +663,7 @@ Fout bij het starten interne task manager, app wordt nu afgesloten
 ```
 Do not show again
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Niet meer laten zien
 ```
@@ -673,7 +673,7 @@ Niet meer laten zien
 ```
 Could not create the map capture
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kon geen printscreen maken
 ```
@@ -683,7 +683,7 @@ Kon geen printscreen maken
 ```
 Metric (Kilometers/Meters)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Metrische (Kilometers / meters)
 ```
@@ -693,7 +693,7 @@ Metrische (Kilometers / meters)
 ```
 Imperial (Miles/Feet)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Imperial (Miles / Voeten)
 ```
@@ -703,7 +703,7 @@ Imperial (Miles / Voeten)
 ```
 There is a problem with Google Play Services: it needs to be installed, updated or activated. Click OK to try and solve it.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Er is een probleem met Google Play Services : het moet worden geinstalleerd, bijgewerkt of geactiveerd. Klik op OK om op te lossen.
 ```
@@ -713,7 +713,7 @@ Er is een probleem met Google Play Services : het moet worden geinstalleerd, bij
 ```
 Delete folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Map verwijderen
 ```
@@ -723,7 +723,7 @@ Map verwijderen
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Als  mijn app je bevalt kun je me belonen door een goede beoordeling te geven :-)
 ```
@@ -734,7 +734,7 @@ Als  mijn app je bevalt kun je me belonen door een goede beoordeling te geven :-
 OK take me
 to the Play Store
 ```
-translates to:
+translated (by human 👀) as:
 ```
 OK neem me
 naar de Play Store
@@ -746,7 +746,7 @@ naar de Play Store
 I already
 gave a rating
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ik heb al
 gaf een rating
@@ -758,7 +758,7 @@ gaf een rating
 Maybe later
 remind me
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Misschien later, herinner me
 ```
@@ -769,7 +769,7 @@ Misschien later, herinner me
 Maybe later
 do not remind me
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Misschien later \ herinner me niet
 ```
@@ -779,7 +779,7 @@ Misschien later \ herinner me niet
 ```
 Could not find the place
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kon de plek niet vinden
 ```
@@ -789,7 +789,7 @@ Kon de plek niet vinden
 ```
 Could not find another map application
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kon geen andere kaart applicatie vinden
 ```
@@ -799,7 +799,7 @@ Kon geen andere kaart applicatie vinden
 ```
 Move the map around to place your marker where you want and click OK to place it.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Verplaats de kaart rond om uw marker waar je wilt plaatsen en klik op OK om het te plaatsen
 ```
@@ -809,7 +809,7 @@ Verplaats de kaart rond om uw marker waar je wilt plaatsen en klik op OK om het 
 ```
 Imported marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Geimporteerd marker
 ```
@@ -819,7 +819,7 @@ Geimporteerd marker
 ```
 Settings
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Instellingen
 ```
@@ -829,7 +829,7 @@ Instellingen
 ```
 Display zoom buttons
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Display zoom knoppen
 ```
@@ -839,7 +839,7 @@ Display zoom knoppen
 ```
 Decimal degrees
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Decimale graden
 ```
@@ -849,7 +849,7 @@ Decimale graden
 ```
 Degrees decimal minutes
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Decimale graden minuten
 ```
@@ -859,7 +859,7 @@ Decimale graden minuten
 ```
 Degrees minutes seconds
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Graden minuten seconden
 ```
@@ -869,7 +869,7 @@ Graden minuten seconden
 ```
 Coordinates format
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Coordinaten formaat
 ```
@@ -879,7 +879,7 @@ Coordinaten formaat
 ```
 GPS and wireless networks only
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Alleen GPS en draadloze netwerken
 ```
@@ -889,7 +889,7 @@ Alleen GPS en draadloze netwerken
 ```
 GPS and wireless networks or magnetic sensor
 ```
-translates to:
+translated (by human 👀) as:
 ```
 GPS en draadloze netwerken of magnetische sensor
 ```
@@ -899,7 +899,7 @@ GPS en draadloze netwerken of magnetische sensor
 ```
 Magnetic sensor only
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Alleen magnetische sensor
 ```
@@ -909,7 +909,7 @@ Alleen magnetische sensor
 ```
 Used compass sensor
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Gebruikte kompassensor
 ```
@@ -919,7 +919,7 @@ Gebruikte kompassensor
 ```
 FAQ/Help
 ```
-translates to:
+translated (by human 👀) as:
 ```
 FAQ / Help
 ```
@@ -929,7 +929,7 @@ FAQ / Help
 ```
 Folders
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Mappen
 ```
@@ -939,7 +939,7 @@ Mappen
 ```
 Help and settings
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Help en instellingen
 ```
@@ -949,7 +949,7 @@ Help en instellingen
 ```
 Language
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Taal
 ```
@@ -959,7 +959,7 @@ Taal
 ```
 Marker popup style
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Marker popup stijl
 ```
@@ -969,7 +969,7 @@ Marker popup stijl
 ```
 Bottom
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bodem
 ```
@@ -979,7 +979,7 @@ Bodem
 ```
 Bubble
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zeepbel
 ```
@@ -989,7 +989,7 @@ Zeepbel
 ```
 Coordinates
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Coordinaten
 ```
@@ -999,7 +999,7 @@ Coordinaten
 ```
 Contextual
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Contextual
 ```
@@ -1009,7 +1009,7 @@ Contextual
 ```
 Always
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Altijd
 ```
@@ -1019,7 +1019,7 @@ Altijd
 ```
 Crosshair display
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Crosshair scherm
 ```
@@ -1029,7 +1029,7 @@ Crosshair scherm
 ```
 Coordinates window
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Venster coordinaten
 ```
@@ -1039,7 +1039,7 @@ Venster coordinaten
 ```
 Lat:
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Lat:
 ```
@@ -1049,7 +1049,7 @@ Lat:
 ```
 Lng:
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Lng:
 ```
@@ -1059,7 +1059,7 @@ Lng:
 ```
 Marker instant adding mode
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Marker direct toevoegen instelling
 ```
@@ -1069,7 +1069,7 @@ Marker direct toevoegen instelling
 ```
 Advanced
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Gevorderd
 ```
@@ -1079,7 +1079,7 @@ Gevorderd
 ```
 Display
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Tonen
 ```
@@ -1089,7 +1089,7 @@ Tonen
 ```
 Actions
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Acties
 ```
@@ -1099,7 +1099,7 @@ Acties
 ```
 Language and units
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Taal en eenheden
 ```
@@ -1109,7 +1109,7 @@ Taal en eenheden
 ```
 Markers ignored on import (duplicates): %1$d
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Markers genegeerd bij invoer (duplicaten): %1$d
 ```
@@ -1119,7 +1119,7 @@ Markers genegeerd bij invoer (duplicaten): %1$d
 ```
 %1$d markers
 ```
-translates to:
+translated (by human 👀) as:
 ```
 %1$d markers
 ```
@@ -1129,7 +1129,7 @@ translates to:
 ```
 No auto naming
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Geen automatische naamgeving
 ```
@@ -1139,7 +1139,7 @@ Geen automatische naamgeving
 ```
 Auto naming "number"
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Auto naamgeving "nummer"
 ```
@@ -1149,7 +1149,7 @@ Auto naamgeving "nummer"
 ```
 Auto naming "Marker number"
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Auto naamgeving "Marker nummer"
 ```
@@ -1159,7 +1159,7 @@ Auto naamgeving "Marker nummer"
 ```
 New marker auto naming
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nieuwe marker auto naamgeving
 ```
@@ -1169,7 +1169,7 @@ Nieuwe marker auto naamgeving
 ```
 Marker %1$d
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Marker %1$d
 ```
@@ -1179,7 +1179,7 @@ Marker %1$d
 ```
 Waiting for location&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Wachten op locatie&#8230;
 ```
@@ -1189,7 +1189,7 @@ Wachten op locatie&#8230;
 ```
 Open the help page and see the FAQ
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Open de Help-pagina en zie de FAQ
 ```
@@ -1199,7 +1199,7 @@ Open de Help-pagina en zie de FAQ
 ```
 Features
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kenmerken
 ```
@@ -1209,7 +1209,7 @@ Kenmerken
 ```
 View the list of upcoming features for the next app version
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bekijk de lijst van komende functies voor de volgende app-versie
 ```
@@ -1219,7 +1219,7 @@ Bekijk de lijst van komende functies voor de volgende app-versie
 ```
 Help &amp; Feedback
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Help &amp; Terugkoppeling
 ```
@@ -1229,7 +1229,7 @@ Help &amp; Terugkoppeling
 ```
 About
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Over
 ```
@@ -1239,7 +1239,7 @@ Over
 ```
 Distance to %1$s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Afstand tot %1$s
 ```
@@ -1249,7 +1249,7 @@ Afstand tot %1$s
 ```
 Snapshot
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Momentopname
 ```
@@ -1259,7 +1259,7 @@ Momentopname
 ```
 Share a snapshot of the map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Deel een momentopname van de kaart
 ```
@@ -1269,7 +1269,7 @@ Deel een momentopname van de kaart
 ```
 All markers and folders
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Alle markers en mappen
 ```
@@ -1279,7 +1279,7 @@ Alle markers en mappen
 ```
 <![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
 ```
-translates to:
+translated (by human 👀) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Om de juiste noorden richting te krijgen voor het kompas, moet je je telefoon goed te kalibreren. &lt;br&gt; Om uw telefoon te kalibreren, beweeg het gewoon rond door het tekenen van een 8 . De verhuizing moet breed en herhaalde ongeveer 3 keer voor een betere efficiëntie. &lt;br&gt; U kunt u kalibreren telefoon door dit te doen op elk moment. &lt;/ b&gt; &lt;br&gt; De kalibratie heeft zijn beperkingen en misschien niet genoeg zijn &lt;br&gt; • grote metalen voorwerpen &lt;br&gt; • elektronische apparaten &lt;br&gt; • magneten &lt;br&gt; • de binnenkant van een auto / bus / trein / vliegtuig &lt;/ body&gt; &lt;/ html&gt;: naar het nabijgelegen storingen zoals tegen te gaan
 ```
@@ -1289,7 +1289,7 @@ translates to:
 ```
 Badges
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Badges
 ```
@@ -1299,7 +1299,7 @@ Badges
 ```
 Buy a donation badge
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Koop een donatie badge
 ```
@@ -1309,7 +1309,7 @@ Koop een donatie badge
 ```
 Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dank u voor uw donatie! Deze donatie badge geeft u toegang tot premium :-)
 ```
@@ -1319,7 +1319,7 @@ Dank u voor uw donatie! Deze donatie badge geeft u toegang tot premium :-)
 ```
 Default folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Default folder
 ```
@@ -1329,7 +1329,7 @@ Default folder
 ```
 Sync options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Synchronisatie-opties
 ```
@@ -1339,7 +1339,7 @@ Synchronisatie-opties
 ```
 Google Drive
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Google Drive
 ```
@@ -1349,7 +1349,7 @@ Google Drive
 ```
 Dropbox
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dropbox
 ```
@@ -1359,7 +1359,7 @@ Dropbox
 ```
 Configuring&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Configureren&#8230;
 ```
@@ -1369,7 +1369,7 @@ Configureren&#8230;
 ```
 Sync now
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nu synchroniseren
 ```
@@ -1379,7 +1379,7 @@ Nu synchroniseren
 ```
 Never
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nooit
 ```
@@ -1389,7 +1389,7 @@ Nooit
 ```
 Syncing…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Synchroniseren&#8230;
 ```
@@ -1399,7 +1399,7 @@ Synchroniseren&#8230;
 ```
 Select folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Selecteer de map
 ```
@@ -1409,7 +1409,7 @@ Selecteer de map
 ```
 Load error
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Load error
 ```
@@ -1419,7 +1419,7 @@ Load error
 ```
 Retry
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Opnieuw proberen
 ```
@@ -1429,7 +1429,7 @@ Opnieuw proberen
 ```
 Root
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Root
 ```
@@ -1439,7 +1439,7 @@ Root
 ```
 Shared
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Gedeeld
 ```
@@ -1449,7 +1449,7 @@ Gedeeld
 ```
 Purchase successful!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Aanschaffen succesvol!
 ```
@@ -1459,7 +1459,7 @@ Aanschaffen succesvol!
 ```
 Purchase failed: %1$s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Aankoop %1$s
 ```
@@ -1469,7 +1469,7 @@ Aankoop %1$s
 ```
 Premium access available! You currently have access to premium features.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Premium toegang beschikbaar! U heeft momenteel toegang tot premium-functies.
 ```
@@ -1479,7 +1479,7 @@ Premium toegang beschikbaar! U heeft momenteel toegang tot premium-functies.
 ```
 You cannot select that folder because it contains multiple files named %1$s. The sync requires the folder to contain only one file with that name.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 U kunt die map niet selecteren omdat het meerdere bestanden met de naam %1$s De synchronisatie vereist dat de map om slechts één bestand met die naam bevatten.
 ```
@@ -1489,7 +1489,7 @@ U kunt die map niet selecteren omdat het meerdere bestanden met de naam %1$s De 
 ```
 It seems sync data already exists in that folder. If you select that folder, your local data will be merged with the folder data when sync is performed. Is that what you want?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Het lijkt synchroniseren van gegevens al bestaat in die map. Als je die map selecteert, zal uw lokale gegevens worden samengevoegd met de map gegevens wanneer synchronisatie wordt uitgevoerd. Is dat wat je wilt?
 ```
@@ -1499,7 +1499,7 @@ Het lijkt synchroniseren van gegevens al bestaat in die map. Als je die map sele
 ```
 File options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bestand opties
 ```
@@ -1509,7 +1509,7 @@ Bestand opties
 ```
 Cloud sync
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Wolk sync
 ```
@@ -1519,7 +1519,7 @@ Wolk sync
 ```
 Sync this map file on the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Synchroniseert deze kaart bestand op de cloud
 ```
@@ -1529,7 +1529,7 @@ Synchroniseert deze kaart bestand op de cloud
 ```
 Map file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Map bestand
 ```
@@ -1539,7 +1539,7 @@ Map bestand
 ```
 Create local map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Maak lokale kaart
 ```
@@ -1549,7 +1549,7 @@ Maak lokale kaart
 ```
 Create a new map file locally
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Maak een nieuwe map bestand lokaal
 ```
@@ -1559,7 +1559,7 @@ Maak een nieuwe map bestand lokaal
 ```
 Create cloud map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Maak cloud kaart
 ```
@@ -1569,7 +1569,7 @@ Maak cloud kaart
 ```
 Create a map file on the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Maak een map bestand op de wolk
 ```
@@ -1579,7 +1579,7 @@ Maak een map bestand op de wolk
 ```
 Retrieves changes from the cloud and sends local changes to the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Haalt de wijzigingen van de cloud en stuurt lokale veranderingen in de cloud
 ```
@@ -1589,7 +1589,7 @@ Haalt de wijzigingen van de cloud en stuurt lokale veranderingen in de cloud
 ```
 Rename
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Andere naam geven
 ```
@@ -1599,7 +1599,7 @@ Andere naam geven
 ```
 Rename the map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 De naam van de kaart
 ```
@@ -1609,7 +1609,7 @@ De naam van de kaart
 ```
 Enter new name
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Voer nieuwe naam
 ```
@@ -1619,7 +1619,7 @@ Voer nieuwe naam
 ```
 Enter the new map\'s name
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Voer de nieuwe naam van de map
 ```
@@ -1629,7 +1629,7 @@ Voer de nieuwe naam van de map
 ```
 %1$d folders, %2$d markers, size: %3$d KB
 ```
-translates to:
+translated (by human 👀) as:
 ```
 %1$d %2$d markers, %3$d KB
 ```
@@ -1639,7 +1639,7 @@ translates to:
 ```
 Create new folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nieuwe map
 ```
@@ -1649,7 +1649,7 @@ Nieuwe map
 ```
 Could not create folder: name empty
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kon map niet maken: naam leeg
 ```
@@ -1659,7 +1659,7 @@ Kon map niet maken: naam leeg
 ```
 Could not create folder: error occurred
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kon map niet maken: fout opgetreden
 ```
@@ -1669,7 +1669,7 @@ Kon map niet maken: fout opgetreden
 ```
 Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dank u voor de aanschaf van Map Marker Premium :-)
 ```
@@ -1679,7 +1679,7 @@ Dank u voor de aanschaf van Map Marker Premium :-)
 ```
 Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Hartelijk dank voor uw interesse door te beweren dat je Map Marker :-)
 ```
@@ -1689,7 +1689,7 @@ Hartelijk dank voor uw interesse door te beweren dat je Map Marker :-)
 ```
 Premium
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Premie
 ```
@@ -1699,7 +1699,7 @@ Premie
 ```
 Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Upgrade naar premium en ten volle te profiteren Map Marker functies!
 ```
@@ -1709,7 +1709,7 @@ Upgrade naar premium en ten volle te profiteren Map Marker functies!
 ```
 Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sorry, u de premie upgrade nodig hebben om toegang te krijgen tot deze functie. Upgrade naar premium en ten volle te profiteren Map Marker functies!
 ```
@@ -1719,7 +1719,7 @@ Sorry, u de premie upgrade nodig hebben om toegang te krijgen tot deze functie. 
 ```
 You have the premium upgrade for free! You can still purchase it if you want to show your support :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Je hebt de premie upgrade gratis! U kunt nog steeds het kopen als u wilt uw steun te :-)
 ```
@@ -1729,7 +1729,7 @@ Je hebt de premie upgrade gratis! U kunt nog steeds het kopen als u wilt uw steu
 ```
 Purchase the premium upgrade
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Koop de premium upgrade
 ```
@@ -1739,7 +1739,7 @@ Koop de premium upgrade
 ```
 My Google account already has premium access, activate it!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Mijn Google-account heeft al premium toegang, activeren!
 ```
@@ -1749,7 +1749,7 @@ Mijn Google-account heeft al premium toegang, activeren!
 ```
 Troubleshooting
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Probleemoplossing
 ```
@@ -1759,7 +1759,7 @@ Probleemoplossing
 ```
 Open a list of actions to solve possible problems
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Open een lijst van acties om eventuele problemen op te lossen
 ```
@@ -1769,7 +1769,7 @@ Open een lijst van acties om eventuele problemen op te lossen
 ```
 Test internet
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Test internet
 ```
@@ -1779,7 +1779,7 @@ Test internet
 ```
 Checks that the app has access to internet
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Controleert of de app toegang heeft tot internet
 ```
@@ -1789,7 +1789,7 @@ Controleert of de app toegang heeft tot internet
 ```
 Test file writing
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Testbestand schrijven
 ```
@@ -1799,7 +1799,7 @@ Testbestand schrijven
 ```
 Checks that the app can save files on the internal SD card
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Controleert of de app bestanden kan opslaan op de interne SD-kaart
 ```
@@ -1809,7 +1809,7 @@ Controleert of de app bestanden kan opslaan op de interne SD-kaart
 ```
 GP Services (app)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 GP Services (app)
 ```
@@ -1819,7 +1819,7 @@ GP Services (app)
 ```
 Open the details of the currently installed Google Play Services app
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Open de details van het Google Play Services app
 ```
@@ -1829,7 +1829,7 @@ Open de details van het Google Play Services app
 ```
 GP Services (store)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 GP Services (winkel)
 ```
@@ -1839,7 +1839,7 @@ GP Services (winkel)
 ```
 Google Play (app)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Google Play (app)
 ```
@@ -1849,7 +1849,7 @@ Google Play (app)
 ```
 Contact support
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Contact opnemen met ondersteuning
 ```
@@ -1859,7 +1859,7 @@ Contact opnemen met ondersteuning
 ```
 Write an email to support with the details of your problem
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Schrijf email ter ondersteuning met de details van uw probleem
 ```
@@ -1869,7 +1869,7 @@ Schrijf email ter ondersteuning met de details van uw probleem
 ```
 Device network unavailable
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Apparaat netwerk beschikbaar
 ```
@@ -1879,7 +1879,7 @@ Apparaat netwerk beschikbaar
 ```
 Testing&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Testen&#8230;
 ```
@@ -1889,7 +1889,7 @@ Testen&#8230;
 ```
 Network test succeeded
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Netwerk-test geslaagd
 ```
@@ -1899,7 +1899,7 @@ Netwerk-test geslaagd
 ```
 Network test failed
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Netwerk  test mislukt
 ```
@@ -1909,7 +1909,7 @@ Netwerk  test mislukt
 ```
 Disk test failed: could not write to internal storage
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Disk test is mislukt: kan niet schrijven naar interne opslag
 ```
@@ -1919,7 +1919,7 @@ Disk test is mislukt: kan niet schrijven naar interne opslag
 ```
 Disk test failed: could not write to external storage
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Disk test is mislukt: kan niet schrijven naar externe opslag
 ```
@@ -1929,7 +1929,7 @@ Disk test is mislukt: kan niet schrijven naar externe opslag
 ```
 Disk test succeeded
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Disk-test geslaagd
 ```
@@ -1939,7 +1939,7 @@ Disk-test geslaagd
 ```
 App failed to start: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 App niet %s
 ```
@@ -1949,7 +1949,7 @@ App niet %s
 ```
 The file does not exist
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Het bestand bestaat niet
 ```
@@ -1959,7 +1959,7 @@ Het bestand bestaat niet
 ```
 Share cloud map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Delen cloud kaart
 ```
@@ -1969,7 +1969,7 @@ Delen cloud kaart
 ```
 Open the cloud map folder to view its properties and share it with other people
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Open de map cloud kaart om de eigenschappen ervan te bekijken en te delen met andere mensen
 ```
@@ -1979,7 +1979,7 @@ Open de map cloud kaart om de eigenschappen ervan te bekijken en te delen met an
 ```
 Internal file to SD
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Interne bestand naar SD
 ```
@@ -1989,7 +1989,7 @@ Interne bestand naar SD
 ```
 Copy the app hidden internal files to the sdcard
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kopieer de app verborgen interne bestanden naar de sdcard
 ```
@@ -1999,7 +1999,7 @@ Kopieer de app verborgen interne bestanden naar de sdcard
 ```
 Enter destination folder path
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Voer doelmap pad
 ```
@@ -2009,7 +2009,7 @@ Voer doelmap pad
 ```
 Could not create folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kon map niet maken
 ```
@@ -2019,7 +2019,7 @@ Kon map niet maken
 ```
 Files successfully saved to: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bestanden succesvol opgeslagen %s
 ```
@@ -2029,7 +2029,7 @@ Bestanden succesvol opgeslagen %s
 ```
 View history/Restore
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bekijk geschiedenis / Restore
 ```
@@ -2039,7 +2039,7 @@ Bekijk geschiedenis / Restore
 ```
 View history of modifications to the cloud folder and select a version to restore to
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bekijk de geschiedenis van wijzigingen in de map cloud en selecteer een versie te herstellen
 ```
@@ -2049,7 +2049,7 @@ Bekijk de geschiedenis van wijzigingen in de map cloud en selecteer een versie t
 ```
 Create map file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Maak kaart bestand
 ```
@@ -2059,7 +2059,7 @@ Maak kaart bestand
 ```
 Create a new map file locally or on the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Maak een nieuwe map bestand lokaal of in de cloud
 ```
@@ -2069,7 +2069,7 @@ Maak een nieuwe map bestand lokaal of in de cloud
 ```
 Open cloud map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Open cloud kaart
 ```
@@ -2079,7 +2079,7 @@ Open cloud kaart
 ```
 Open a map file from the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Open een kaart bestand uit de cloud
 ```
@@ -2089,7 +2089,7 @@ Open een kaart bestand uit de cloud
 ```
 Map Marker needs the permission to access your location in order to display it on the map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Map Marker heeft de toestemming om toegang te krijgen tot uw locatie om deze weer te geven op de kaart
 ```
@@ -2099,7 +2099,7 @@ Map Marker heeft de toestemming om toegang te krijgen tot uw locatie om deze wee
 ```
 Map Marker needs the permission to access to the storage of your device
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Map Marker heeft de toestemming om de toegang tot de opslag van uw apparaat
 ```
@@ -2109,7 +2109,7 @@ Map Marker heeft de toestemming om de toegang tot de opslag van uw apparaat
 ```
 Open settings
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Open instellingen
 ```
@@ -2119,7 +2119,7 @@ Open instellingen
 ```
 No map folder found on the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Geen kaart map gevonden in de cloud
 ```
@@ -2129,7 +2129,7 @@ Geen kaart map gevonden in de cloud
 ```
 Auto sync
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Automatisch synchroniseren
 ```
@@ -2139,7 +2139,7 @@ Automatisch synchroniseren
 ```
 Choose a version to restore to
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kies een versie om te herstellen
 ```
@@ -2149,7 +2149,7 @@ Kies een versie om te herstellen
 ```
 You must sync first before restoring an older version
 ```
-translates to:
+translated (by human 👀) as:
 ```
 U moet synchroniseren voor  het herstellen van een oudere versie
 ```
@@ -2159,7 +2159,7 @@ U moet synchroniseren voor  het herstellen van een oudere versie
 ```
 Are you sure you want to restore this version?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bent u zeker dat u deze versie wilt herstellen?
 ```
@@ -2169,7 +2169,7 @@ Bent u zeker dat u deze versie wilt herstellen?
 ```
 Map Marker lost permissions to write to your cloud account. Sync will always fail until this is fixed. Do you want to fix it now?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Map Marker heeft geen rechten om te schrijven naar uw cloud. Sync zal altijd mislukken totdat deze is opgelost. Wilt u deze nu op te lossen?
 ```
@@ -2179,7 +2179,7 @@ Map Marker heeft geen rechten om te schrijven naar uw cloud. Sync zal altijd mis
 ```
 A sync error occurred. Please try again.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Een sync opgetreden. Probeer opnieuw.
 ```
@@ -2189,7 +2189,7 @@ Een sync opgetreden. Probeer opnieuw.
 ```
 A sync error occurred: network error. Please try again.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Een sync fout opgetreden: netwerkfout. Probeer opnieuw.
 ```
@@ -2199,7 +2199,7 @@ Een sync fout opgetreden: netwerkfout. Probeer opnieuw.
 ```
 A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Een sync fout opgetreden: conflict, een ander apparaat werd het uitvoeren van de synchronisatie op hetzelfde moment. Probeer opnieuw.
 ```
@@ -2209,7 +2209,7 @@ Een sync fout opgetreden: conflict, een ander apparaat werd het uitvoeren van de
 ```
 Changes are available from the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Veranderingen zijn beschikbaar vanuit de cloud
 ```
@@ -2219,7 +2219,7 @@ Veranderingen zijn beschikbaar vanuit de cloud
 ```
 Changes made from another device were synced on the cloud. You can retrieve those changes by syncing.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Wijzigingen die van een ander apparaat werden gesynchroniseerd op de wolk. U kunt deze wijzigingen ophalen door te synchroniseren.
 ```
@@ -2229,7 +2229,7 @@ Wijzigingen die van een ander apparaat werden gesynchroniseerd op de wolk. U kun
 ```
 Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for details on how to restore cloud permissions.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Mislukt cloud storage permissies herstellen. Zie "Over" -&gt; "FAQ" voor meer informatie over hoe u cloud permissies herstellen.
 ```
@@ -2239,7 +2239,7 @@ Mislukt cloud storage permissies herstellen. Zie "Over" -&gt; "FAQ" voor meer in
 ```
 A sync error occurred: duplicate index, there are at least two files named index.json in the map cloud folder. Remove the duplicates manually and try again.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Een sync fout opgetreden: dubbele index, zijn er ten minste twee bestanden index.json genoemd in de map kaart cloud. Verwijder de duplicaten manueel en probeer het opnieuw.
 ```
@@ -2249,7 +2249,7 @@ Een sync fout opgetreden: dubbele index, zijn er ten minste twee bestanden index
 ```
 Phone number
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Telefoonnummer
 ```
@@ -2259,7 +2259,7 @@ Telefoonnummer
 ```
 Edit phone number
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bewerk telefoonnummer
 ```
@@ -2269,7 +2269,7 @@ Bewerk telefoonnummer
 ```
 Map Marker needs the permission to make calls on your device
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Map Marker heeft de toestemming om gesprekken op uw apparaat te maken
 ```
@@ -2279,7 +2279,7 @@ Map Marker heeft de toestemming om gesprekken op uw apparaat te maken
 ```
 No phone number is defined for that marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Geen telefoonnummer is gedefinieerd voor die marker
 ```
@@ -2289,7 +2289,7 @@ Geen telefoonnummer is gedefinieerd voor die marker
 ```
 Navigation options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Navigatie-opties
 ```
@@ -2299,7 +2299,7 @@ Navigatie-opties
 ```
 Open the marker location in this app
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Open de marker locatie in deze app
 ```
@@ -2309,7 +2309,7 @@ Open de marker locatie in deze app
 ```
 Open the marker street view in this app
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Open de weergave marker straat in deze app
 ```
@@ -2319,7 +2319,7 @@ Open de weergave marker straat in deze app
 ```
 Enter navigation mode in this app to get directions to the marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Voer navigatiemodus in deze app een routebeschrijving naar de marker te krijgen
 ```
@@ -2329,7 +2329,7 @@ Voer navigatiemodus in deze app een routebeschrijving naar de marker te krijgen
 ```
 Other options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Andere opties
 ```
@@ -2339,7 +2339,7 @@ Andere opties
 ```
 Share the selected marker as plain text into another app
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Deel de geselecteerde marker als platte tekst in een andere app
 ```
@@ -2349,7 +2349,7 @@ Deel de geselecteerde marker als platte tekst in een andere app
 ```
 %1$d markers in %2$d folders
 ```
-translates to:
+translated (by human 👀) as:
 ```
 %1$d markers %2$d mappen
 ```
@@ -2359,7 +2359,7 @@ translates to:
 ```
 A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Een sync fout opgetreden: de cloud data is bijgewerkt met een meer recente versie van de app. U moet Map Marker op dit apparaat te synchroniseren.
 ```
@@ -2369,7 +2369,7 @@ Een sync fout opgetreden: de cloud data is bijgewerkt met een meer recente versi
 ```
 Could not find a phone app on this device.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zou een telefoon app op dit apparaat niet vinden.
 ```
@@ -2379,7 +2379,7 @@ Zou een telefoon app op dit apparaat niet vinden.
 ```
 Phone number options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Telefoonnummer opties
 ```
@@ -2389,7 +2389,7 @@ Telefoonnummer opties
 ```
 Call phone number
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Oproep telefoonnummer
 ```
@@ -2399,7 +2399,7 @@ Oproep telefoonnummer
 ```
 Dial phone number
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dial telefoonnummer
 ```
@@ -2409,7 +2409,7 @@ Dial telefoonnummer
 ```
 Text phone number
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Tekst telefoonnummer
 ```
@@ -2419,7 +2419,7 @@ Tekst telefoonnummer
 ```
 Default navigation action
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Standaard navigatie-actie
 ```
@@ -2429,7 +2429,7 @@ Standaard navigatie-actie
 ```
 Default phone action
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Standaard telefoon actie
 ```
@@ -2439,7 +2439,7 @@ Standaard telefoon actie
 ```
 Ask
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Vragen
 ```
@@ -2449,7 +2449,7 @@ Vragen
 ```
 Premium free trial
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Premium gratis trial
 ```
@@ -2459,7 +2459,7 @@ Premium gratis trial
 ```
 What is the premium upgrade?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Wat is de premie upgrade?
 ```
@@ -2469,7 +2469,7 @@ Wat is de premie upgrade?
 ```
 Premium free trial started! The trial will expire at the following date: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Premium gratis trial begonnen! De trial periode loopt af op de volgende datum: %s
 ```
@@ -2480,7 +2480,7 @@ Premium gratis trial begonnen! De trial periode loopt af op de volgende datum: %
 Trial expiration:
 %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Trial expiratie:
 %s
@@ -2491,7 +2491,7 @@ Trial expiratie:
 ```
 Trial expired
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Trial periode verlopen
 ```
@@ -2501,7 +2501,7 @@ Trial periode verlopen
 ```
 Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sync werd geannuleerd: je moet de premie upgrade om synchronisatie uit te voeren.
 ```
@@ -2511,7 +2511,7 @@ Sync werd geannuleerd: je moet de premie upgrade om synchronisatie uit te voeren
 ```
 Error: trial starting in the future!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Fout: proef start in de toekomst!
 ```
@@ -2521,7 +2521,7 @@ Fout: proef start in de toekomst!
 ```
 Thank you for your purchase!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 dank voor uw aankoop!
 ```
@@ -2531,7 +2531,7 @@ dank voor uw aankoop!
 ```
 Browse
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Blader
 ```
@@ -2541,7 +2541,7 @@ Blader
 ```
 Organize
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Organiseren
 ```
@@ -2551,7 +2551,7 @@ Organiseren
 ```
 Create
 ```
-translates to:
+translated (by human 👀) as:
 ```
 creëren
 ```
@@ -2561,7 +2561,7 @@ creëren
 ```
 Retry
 ```
-translates to:
+translated (by human 👀) as:
 ```
 opnieuw proberen
 ```
@@ -2571,7 +2571,7 @@ opnieuw proberen
 ```
 Search failed
 ```
-translates to:
+translated (by human 👀) as:
 ```
 zoeken is mislukt
 ```
@@ -2581,7 +2581,7 @@ zoeken is mislukt
 ```
 Search failed, network error
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zoek mislukt, netwerkfout
 ```
@@ -2591,7 +2591,7 @@ Zoek mislukt, netwerkfout
 ```
 Details
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Details
 ```
@@ -2601,7 +2601,7 @@ Details
 ```
 Sync error
 ```
-translates to:
+translated (by human 👀) as:
 ```
 synchronisatiefout
 ```
@@ -2611,7 +2611,7 @@ synchronisatiefout
 ```
 The file already exists, do you want to overwrite it?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Het bestand bestaat al, wil je het overschrijven?
 ```
@@ -2621,7 +2621,7 @@ Het bestand bestaat al, wil je het overschrijven?
 ```
 Copy markers to folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kopieer markers naar map
 ```
@@ -2631,7 +2631,7 @@ Kopieer markers naar map
 ```
 Error loading the Google Map component. Please restart the app.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Fout bij het ​​laden van de Google Map component. Gelieve de app opnieuw te starten.
 ```
@@ -2641,7 +2641,7 @@ Fout bij het ​​laden van de Google Map component. Gelieve de app opnieuw te 
 ```
 You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 U vindt de lijst van uw markers hier te zien. U heeft momenteel geen markeringen in de geselecteerde map (s). U kunt een nieuwe marker toe te voegen door te klikken op de onderstaande knop.
 ```
@@ -2651,7 +2651,7 @@ U vindt de lijst van uw markers hier te zien. U heeft momenteel geen markeringen
 ```
 No search results
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Geen zoekresultaten
 ```
@@ -2661,7 +2661,7 @@ Geen zoekresultaten
 ```
 Open Street Map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Open Street Map
 ```
@@ -2671,7 +2671,7 @@ Open Street Map
 ```
 Bing Road
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bing Road
 ```
@@ -2681,7 +2681,7 @@ Bing Road
 ```
 Bing Aerial
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bing Aerial
 ```
@@ -2691,7 +2691,7 @@ Bing Aerial
 ```
 Bing Aerial With Labels
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bing Aerial met labels
 ```
@@ -2701,7 +2701,7 @@ Bing Aerial met labels
 ```
 ArcGIS Server
 ```
-translates to:
+translated (by human 👀) as:
 ```
 ArcGIS Server
 ```
@@ -2711,7 +2711,7 @@ ArcGIS Server
 ```
 Offline maps
 ```
-translates to:
+translated (by human 👀) as:
 ```
 offline kaarten
 ```
@@ -2721,7 +2721,7 @@ offline kaarten
 ```
 No folder selected
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Geen map geselecteerd
 ```
@@ -2731,7 +2731,7 @@ Geen map geselecteerd
 ```
 Storage folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 folder opslag
 ```
@@ -2742,7 +2742,7 @@ folder opslag
 Test results of the offline maps folder:
 %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Testresultaten van de offline map maps:
 %s
@@ -2753,7 +2753,7 @@ Testresultaten van de offline map maps:
 ```
 No folder is selected for offline map files. In order to use offline maps, open the settings and select a folder for offline map files.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Geen map is geselecteerd voor offline kaart bestanden. Om offline kaarten te gebruiken, de instellingen te openen en selecteer een map voor offline kaart bestanden.
 ```
@@ -2763,7 +2763,7 @@ Geen map is geselecteerd voor offline kaart bestanden. Om offline kaarten te geb
 ```
 The selected offline map folder you selected contains no files. Make sure you add the offline map files in that folder before using offline maps, otherwise the map will be empty.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 De geselecteerde offline kaart geselecteerde map bevat geen bestanden. Zorg ervoor dat je de offline kaart bestanden in die map toe te voegen voordat u offline kaarten, anders zal de kaart leeg zijn.
 ```
@@ -2773,7 +2773,7 @@ De geselecteerde offline kaart geselecteerde map bevat geen bestanden. Zorg ervo
 ```
 Success: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Succes: %s
 ```
@@ -2783,7 +2783,7 @@ Succes: %s
 ```
 Failed: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Mislukt: %s
 ```
@@ -2793,7 +2793,7 @@ Mislukt: %s
 ```
 How to do it?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Hoe je dat doet?
 ```
@@ -2803,7 +2803,7 @@ Hoe je dat doet?
 ```
 Click here to open the web page explaining how to obtain those maps.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Klik hier om de website uit te leggen hoe je die kaarten te verkrijgen openen.
 ```
@@ -2813,7 +2813,7 @@ Klik hier om de website uit te leggen hoe je die kaarten te verkrijgen openen.
 ```
 Credits
 ```
-translates to:
+translated (by human 👀) as:
 ```
 credits
 ```
@@ -2823,7 +2823,7 @@ credits
 ```
 Copyright and legal mentions
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Copyright en wettelijke vermeldingen
 ```
@@ -2835,7 +2835,7 @@ Legal mentions for other map data than Google Maps:
 
 %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Wettelijke vermeldingen voor de andere kaartgegevens dan Google Maps :
 
@@ -2847,7 +2847,7 @@ Wettelijke vermeldingen voor de andere kaartgegevens dan Google Maps :
 ```
 Disable error file dump
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Uitschakelen foutbestand dump
 ```
@@ -2857,7 +2857,7 @@ Uitschakelen foutbestand dump
 ```
 Disable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Uitschakelen schrijven app fouten in een bestand op de SD-kaart
 ```
@@ -2867,7 +2867,7 @@ Uitschakelen schrijven app fouten in een bestand op de SD-kaart
 ```
 Enable error file dump
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Inschakelen foutbestand dump
 ```
@@ -2877,7 +2877,7 @@ Inschakelen foutbestand dump
 ```
 Enable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Inschakelen schrijven app fouten in een bestand op de SD-kaart
 ```
@@ -2887,7 +2887,7 @@ Inschakelen schrijven app fouten in een bestand op de SD-kaart
 ```
 Start background sync…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Begin achtergrond sync&#8230;
 ```
@@ -2897,7 +2897,7 @@ Begin achtergrond sync&#8230;
 ```
 Never
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nooit
 ```
@@ -2907,7 +2907,7 @@ Nooit
 ```
 When app enters background
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Wanneer app in de achtergrond blijft achtergrond
 ```
@@ -2917,7 +2917,7 @@ Wanneer app in de achtergrond blijft achtergrond
 ```
 %d seconds after the app enters background
 ```
-translates to:
+translated (by human 👀) as:
 ```
 %d seconden na de app komt achtergrond
 ```
@@ -2927,7 +2927,7 @@ translates to:
 ```
 %d minutes after the app enters background
 ```
-translates to:
+translated (by human 👀) as:
 ```
 %d minuten na de app komt achtergrond
 ```
@@ -2937,7 +2937,7 @@ translates to:
 ```
 Sync starting in %d seconds
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sync start in %d seconden
 ```
@@ -2947,7 +2947,7 @@ Sync start in %d seconden
 ```
 You can cancel the sync at any time and your data will be synced on next attempt.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 U kunt de synchronisatie op elk gewenst moment te annuleren en uw gegevens worden gesynchroniseerd op de volgende poging.
 ```
@@ -2957,7 +2957,7 @@ U kunt de synchronisatie op elk gewenst moment te annuleren en uw gegevens worde
 ```
 Press back again to exit
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Druk weer terug om af te sluiten
 ```
@@ -2967,7 +2967,7 @@ Druk weer terug om af te sluiten
 ```
 Cannot start sync with no internet access on the device.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kan synchronisatie niet starten zonder toegang tot internet op het apparaat.
 ```
@@ -2977,7 +2977,7 @@ Kan synchronisatie niet starten zonder toegang tot internet op het apparaat.
 ```
 Manage map files
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Beheer kaartbestanden
 ```
@@ -2987,7 +2987,7 @@ Beheer kaartbestanden
 ```
 Map files
 ```
-translates to:
+translated (by human 👀) as:
 ```
 mapbestanden
 ```
@@ -2997,7 +2997,7 @@ mapbestanden
 ```
 Delete map file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Verwijder map file
 ```
@@ -3007,7 +3007,7 @@ Verwijder map file
 ```
 This action will delete the map file from this device
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Deze actie verwijderd het kaartbestand van dit apparaat
 ```
@@ -3017,7 +3017,7 @@ Deze actie verwijderd het kaartbestand van dit apparaat
 ```
 This action will delete the map file from your device forever. All the markers inside that file will be lost. Are you sure?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Deze actie wordt het kaart bestand van het toestel definitief verwijderd. Alle merkers in dat bestand zullen verloren gaan. Weet je het zeker?
 ```
@@ -3027,7 +3027,7 @@ Deze actie wordt het kaart bestand van het toestel definitief verwijderd. Alle m
 ```
 This action will delete the map file from your device forever. All changes not yet synced to the cloud will be lost. The cloud folder will not be affected by this action and you will have to delete it manually. Are you sure?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Deze actie wordt de kaart bestand van het toestel definitief te verwijderen. Alle wijzigingen nog niet gesynchroniseerd naar de cloud zullen verloren gaan. De map cloud zal niet worden beïnvloed door deze actie en u zal hebben om het handmatig verwijderen. Weet je het zeker?
 ```
@@ -3037,7 +3037,7 @@ Deze actie wordt de kaart bestand van het toestel definitief te verwijderen. All
 ```
 Map file successfully deleted
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Map bestand succesvol verwijderd
 ```
@@ -3047,7 +3047,7 @@ Map bestand succesvol verwijderd
 ```
 Could not delete map file: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kan niet verwijderen map file: %s
 ```
@@ -3057,7 +3057,7 @@ Kan niet verwijderen map file: %s
 ```
 Marker saved in a non visible folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Marker opgeslagen in een niet zichtbare map
 ```
@@ -3067,7 +3067,7 @@ Marker opgeslagen in een niet zichtbare map
 ```
 Your changes have not been synced recently. Make sure you keep your cloud copy up to date. Do you want to sync now?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Je wijzigingen zijn niet onlangs gesynchroniseerd. Zorg ervoor dat u houdt uw cloud kopiëren up to date. Wilt u nu synchroniseren?
 ```
@@ -3077,7 +3077,7 @@ Je wijzigingen zijn niet onlangs gesynchroniseerd. Zorg ervoor dat u houdt uw cl
 ```
 The markers of this map file are currently only saved on this device. It is recommended to save your markers on the cloud to avoid losing them. Do you want to save them to the cloud now?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 De markers van deze kaart bestand worden momenteel alleen opgeslagen op dit apparaat. Het is aanbevolen om uw markeringen op de cloud op te slaan om te voorkomen dat ze te verliezen. Wilt u ze nu op te slaan in de cloud?
 ```
@@ -3087,7 +3087,7 @@ De markers van deze kaart bestand worden momenteel alleen opgeslagen op dit appa
 ```
 Do you want to sync this map file? With manual you will need to sync manually every time. With automatic (recommended) you will select a destination cloud folder and the sync to the cloud will start automatically every time the app enters background.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Wilt u deze kaart bestand te synchroniseren? Bij handmatig moet u iedere keer handmatig te synchroniseren. Met automatische (aanbevolen) vindt u een bestemming cloud map en de sync naar de cloud start automatisch elke keer dat de app komt achtergrond selecteren.
 ```
@@ -3097,7 +3097,7 @@ Wilt u deze kaart bestand te synchroniseren? Bij handmatig moet u iedere keer ha
 ```
 Automatic
 ```
-translates to:
+translated (by human 👀) as:
 ```
 automatisch
 ```
@@ -3107,7 +3107,7 @@ automatisch
 ```
 Manual
 ```
-translates to:
+translated (by human 👀) as:
 ```
 handboek
 ```
@@ -3117,7 +3117,7 @@ handboek
 ```
 You can sync a map file on the cloud at any time by clicking on the map file in the side bar and then choosing the "Cloud sync" option.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 U kunt een kaart bestand op de cloud te synchroniseren op elk gewenst moment door te klikken op de kaart bestand in de zijbalk en dan te kiezen voor de optie 'Cloud sync ".
 ```
@@ -3127,7 +3127,7 @@ U kunt een kaart bestand op de cloud te synchroniseren op elk gewenst moment doo
 ```
 You can sync a map file manually to the cloud at any time by clicking the "share" button in the main action bar, and then "Other options" and then "All markers and folders" and then by selecting your favorite cloud storage app.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 U kunt een kaart bestand handmatig synchroniseren met de cloud op elk gewenst moment door te klikken op de knop 'Delen' in het hoofdgeding bar, en vervolgens "Andere opties" en vervolgens "Alle merkers en mappen weergeven" en vervolgens door het selecteren van uw favoriete cloud storage app.
 ```
@@ -3137,7 +3137,7 @@ U kunt een kaart bestand handmatig synchroniseren met de cloud op elk gewenst mo
 ```
 Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Verplaats de kaart rond om de punten te plaatsen, klikt u op '+' om een ​​punt toe te voegen, klikt u op '-' om een ​​punt punten te verwijderen en schakel met de vorige / volgende knoppen. Tenslotte klikt u op te slaan in de vorm op te slaan.
 ```
@@ -3147,7 +3147,7 @@ Verplaats de kaart rond om de punten te plaatsen, klikt u op '+' om een ​​pu
 ```
 There are not enough points to create the shape. Create more points and try again.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Er zijn niet genoeg punten om de vorm te maken. Maak meer punten en probeer het opnieuw.
 ```
@@ -3157,7 +3157,7 @@ Er zijn niet genoeg punten om de vorm te maken. Maak meer punten en probeer het 
 ```
 Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn\'t work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by email (side panel -> about -> send email).
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kon niet activeren van de premie upgrade van uw Google-account. Als u de premie upgrade onlangs gekocht van een ander apparaat, moet u misschien een beetje te wachten voor de aankoop te verspreiden, opnieuw opstarten van uw apparaat kan het sneller te maken. Als het dan nog niet werkt, zorg ervoor dat u hebt gekocht, de installatie van de app en geactiveerd met dezelfde Google-account. Als het probleem aanhoudt, zal ik u helpen het beste wat ik kan, dan kunt u contact met mij op via email (zijpaneel -&gt; over -&gt; stuur email ).
 ```
@@ -3167,7 +3167,7 @@ Kon niet activeren van de premie upgrade van uw Google-account. Als u de premie 
 ```
 Distance: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Afstand: %s
 ```
@@ -3178,7 +3178,7 @@ Afstand: %s
 Perimeter: %1$s
 Area: %2$s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Perimeter: %1$s
 Gebied: %2$s
@@ -3189,7 +3189,7 @@ Gebied: %2$s
 ```
 Extra information
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Extra informatie
 ```
@@ -3199,7 +3199,7 @@ Extra informatie
 ```
 Insert…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Plaats&#8230;
 ```
@@ -3209,7 +3209,7 @@ Plaats&#8230;
 ```
 Replace title
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Vervang de titel
 ```
@@ -3219,7 +3219,7 @@ Vervang de titel
 ```
 Replace description
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Vervang beschrijving
 ```
@@ -3229,7 +3229,7 @@ Vervang beschrijving
 ```
 Unit of distance
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Eenheid van de afstand
 ```
@@ -3239,7 +3239,7 @@ Eenheid van de afstand
 ```
 Unit of area
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Oppervlakte-eenheid
 ```
@@ -3249,7 +3249,7 @@ Oppervlakte-eenheid
 ```
 Metric (%s)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Metric ( %s )
 ```
@@ -3259,7 +3259,7 @@ Metric ( %s )
 ```
 Imperial (%s)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Imperial ( %s )
 ```
@@ -3269,7 +3269,7 @@ Imperial ( %s )
 ```
 Images
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Afbeeldingen
 ```
@@ -3279,7 +3279,7 @@ Afbeeldingen
 ```
 Select image
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Selecteer afbeelding
 ```
@@ -3289,7 +3289,7 @@ Selecteer afbeelding
 ```
 Imported images
 ```
-translates to:
+translated (by human 👀) as:
 ```
 geimporteerde afbeeldingen
 ```
@@ -3299,7 +3299,7 @@ geimporteerde afbeeldingen
 ```
 Fit in a %1$sx%2$s square
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Passen in een %1$s x %2$s square
 ```
@@ -3309,7 +3309,7 @@ Passen in een %1$s x %2$s square
 ```
 Full quality
 ```
-translates to:
+translated (by human 👀) as:
 ```
 volledige kwaliteit
 ```
@@ -3319,7 +3319,7 @@ volledige kwaliteit
 ```
 Mobile data
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Mobiele data
 ```
@@ -3329,7 +3329,7 @@ Mobiele data
 ```
 Wifi
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Wifi
 ```
@@ -3339,7 +3339,7 @@ Wifi
 ```
 Disabled
 ```
-translates to:
+translated (by human 👀) as:
 ```
 invalide
 ```
@@ -3349,7 +3349,7 @@ invalide
 ```
 Up to %s per sync
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Tot %s per sync
 ```
@@ -3359,7 +3359,7 @@ Tot %s per sync
 ```
 Unlimited
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Onbeperkt
 ```
@@ -3369,7 +3369,7 @@ Onbeperkt
 ```
 The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings. You can also click "force sync" to sync just one time without data volume limit.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 De synchronisatie is afgebroken omdat het werd meer dan de toegestane hoeveelheid gegevens te beperken. Te verhogen of te wijzigen de limiet, gaat u naar de instellingen. U kunt ook op "force sync" slechts één keer zonder datavolume limiet synchroniseren.
 ```
@@ -3379,7 +3379,7 @@ De synchronisatie is afgebroken omdat het werd meer dan de toegestane hoeveelhei
 ```
 Force sync
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Force sync
 ```
@@ -3389,7 +3389,7 @@ Force sync
 ```
 This will override the usual data limit just for this one time. Force sync?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dit geeft zal de gebruikelijke datalimiet voorrang alleen voor deze ene keer. Force sync?
 ```
@@ -3399,7 +3399,7 @@ Dit geeft zal de gebruikelijke datalimiet voorrang alleen voor deze ene keer. Fo
 ```
 Retry
 ```
-translates to:
+translated (by human 👀) as:
 ```
 opnieuw proberen
 ```
@@ -3409,7 +3409,7 @@ opnieuw proberen
 ```
 Add image
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Voeg afbeelding toe
 ```
@@ -3419,7 +3419,7 @@ Voeg afbeelding toe
 ```
 From camera
 ```
-translates to:
+translated (by human 👀) as:
 ```
 van camera
 ```
@@ -3429,7 +3429,7 @@ van camera
 ```
 From gallery
 ```
-translates to:
+translated (by human 👀) as:
 ```
 van gallery
 ```
@@ -3439,7 +3439,7 @@ van gallery
 ```
 Importing image…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Importeren afbeelding&#8230;
 ```
@@ -3449,7 +3449,7 @@ Importeren afbeelding&#8230;
 ```
 Offline (Mapsforge BETA)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Offline ( Mapsforge BETA )
 ```
@@ -3459,7 +3459,7 @@ Offline ( Mapsforge BETA )
 ```
 Exporting…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Exporteren&#8230;
 ```
@@ -3469,7 +3469,7 @@ Exporteren&#8230;
 ```
 Export failed
 ```
-translates to:
+translated (by human 👀) as:
 ```
 export is mislukt
 ```
@@ -3479,7 +3479,7 @@ export is mislukt
 ```
 Export succeeded
 ```
-translates to:
+translated (by human 👀) as:
 ```
 export slaagde
 ```
@@ -3489,7 +3489,7 @@ export slaagde
 ```
 KMZ
 ```
-translates to:
+translated (by human 👀) as:
 ```
 KMZ
 ```
@@ -3499,7 +3499,7 @@ KMZ
 ```
 KML
 ```
-translates to:
+translated (by human 👀) as:
 ```
 KML
 ```
@@ -3509,7 +3509,7 @@ KML
 ```
 Importing file…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Het importeren van bestanden&#8230;
 ```
@@ -3519,7 +3519,7 @@ Het importeren van bestanden&#8230;
 ```
 Show warning icon for sync
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Toon waarschuwing pictogram voor synchronisatie
 ```
@@ -3529,7 +3529,7 @@ Toon waarschuwing pictogram voor synchronisatie
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 De synchronisatie is afgebroken omdat een van de mediabestanden op de cloud ontbrak. U kunt negeren ontbrekende bestanden door te klikken op "force sync". Waarschuwing, zal het negeren van ontbrekende bestanden resulteren in ze te verwijderen uit de database, wat betekent dat andere apparaten nog steeds een lokale kopie van het bestand te verwijderen op sync.
 ```
@@ -3539,7 +3539,7 @@ De synchronisatie is afgebroken omdat een van de mediabestanden op de cloud ontb
 ```
 This will force the sync and ignore the missing cloud files. The missing links will be removed from the database. Other devices still owning a local version of the missing cloud files will delete them upon their next sync. Data consumption limits will be ignored for this special sync. Force Sync?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dit zal de synchronisatie van kracht en negeer de ontbrekende cloud bestanden. De ontbrekende schakels uit de database worden verwijderd. Andere apparaten nog steeds het bezit van een lokale versie van de ontbrekende cloud bestanden zullen ze op hun volgende synchronisatie te verwijderen. verbruik datalimieten worden genegeerd voor deze speciale sync. Force Sync?
 ```
@@ -3549,7 +3549,7 @@ Dit zal de synchronisatie van kracht en negeer de ontbrekende cloud bestanden. D
 ```
 Marker media files ignored on import: %1$d
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Marker mediabestanden genegeerd bij invoer: %1$d
 ```
@@ -3559,7 +3559,7 @@ Marker mediabestanden genegeerd bij invoer: %1$d
 ```
 Checking premium status…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Controleren premium status van&#8230;
 ```
@@ -3569,7 +3569,7 @@ Controleren premium status van&#8230;
 ```
 General
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Algemeen
 ```
@@ -3579,7 +3579,7 @@ Algemeen
 ```
 Toilets
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Toiletten
 ```
@@ -3589,7 +3589,7 @@ Toiletten
 ```
 Food
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Eten
 ```
@@ -3599,7 +3599,7 @@ Eten
 ```
 Stores
 ```
-translates to:
+translated (by human 👀) as:
 ```
 winkel
 ```
@@ -3609,7 +3609,7 @@ winkel
 ```
 Land activities
 ```
-translates to:
+translated (by human 👀) as:
 ```
 land activiteiten
 ```
@@ -3619,7 +3619,7 @@ land activiteiten
 ```
 Water activies
 ```
-translates to:
+translated (by human 👀) as:
 ```
 water activies
 ```
@@ -3629,7 +3629,7 @@ water activies
 ```
 Winter activies
 ```
-translates to:
+translated (by human 👀) as:
 ```
 winter activies
 ```
@@ -3639,7 +3639,7 @@ winter activies
 ```
 Transport
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Vervoer
 ```
@@ -3649,7 +3649,7 @@ Vervoer
 ```
 Health
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Gezondheid
 ```
@@ -3659,7 +3659,7 @@ Gezondheid
 ```
 Entertainment
 ```
-translates to:
+translated (by human 👀) as:
 ```
 vermaak
 ```
@@ -3669,7 +3669,7 @@ vermaak
 ```
 Services
 ```
-translates to:
+translated (by human 👀) as:
 ```
 diensten
 ```
@@ -3679,7 +3679,7 @@ diensten
 ```
 Business
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bedrijf
 ```
@@ -3689,7 +3689,7 @@ Bedrijf
 ```
 Government
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Regering
 ```
@@ -3699,7 +3699,7 @@ Regering
 ```
 Religious
 ```
-translates to:
+translated (by human 👀) as:
 ```
 religieus
 ```
@@ -3709,7 +3709,7 @@ religieus
 ```
 Accessibility
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Toegankelijkheid
 ```
@@ -3719,7 +3719,7 @@ Toegankelijkheid
 ```
 Select icon
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kies een icoon
 ```
@@ -3729,7 +3729,7 @@ Kies een icoon
 ```
 Icon and color
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pictogram en kleur
 ```
@@ -3739,7 +3739,7 @@ Pictogram en kleur
 ```
 Generic
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Algemeen
 ```
@@ -3749,7 +3749,7 @@ Algemeen
 ```
 Beta tester badge: thank you for being a beta tester! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Beta tester kenteken: dan voor het beta-testen! Deze badge verdwijnt pas na het verwijderen van de app of het wissen van de app-gegevens. Met deze badge krijgt u ook geen advertenties in de app.
 ```
@@ -3759,7 +3759,7 @@ Beta tester kenteken: dan voor het beta-testen! Deze badge verdwijnt pas na het 
 ```
 Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Referral badge: dank u voor het uitnodigen  vrienden voor de app! Deze badge verdwijnt pas na het verwijderen van de app of het wissen van de app-gegevens. Met deze badge krijgt u ook geen advertenties in de app.
 ```
@@ -3769,7 +3769,7 @@ Referral badge: dank u voor het uitnodigen  vrienden voor de app! Deze badge ver
 ```
 Referral
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Doorverwijzing
 ```
@@ -3779,7 +3779,7 @@ Doorverwijzing
 ```
 Removing ads: exchange referrals credits with friends to remove ads
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Het verwijderen van advertenties: uitwisseling verwijzingen credits met vrienden om advertenties te verwijderen
 ```
@@ -3789,7 +3789,7 @@ Het verwijderen van advertenties: uitwisseling verwijzingen credits met vrienden
 ```
 Sent credits: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Verzonden credits: %s
 ```
@@ -3799,7 +3799,7 @@ Verzonden credits: %s
 ```
 Received credits: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ontvangen credits: %s
 ```
@@ -3809,7 +3809,7 @@ Ontvangen credits: %s
 ```
 Contribute to translations
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bijdragen aan vertalingen
 ```
@@ -3819,7 +3819,7 @@ Bijdragen aan vertalingen
 ```
 You understand English and want to help with translations? Click here
 ```
-translates to:
+translated (by human 👀) as:
 ```
 U begrijpt het Engels en willen helpen met de vertaling? Klik hier
 ```
@@ -3829,7 +3829,7 @@ U begrijpt het Engels en willen helpen met de vertaling? Klik hier
 ```
 The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 kleur of het pictogram van de doelmap is anders. Wilt u de marker kleur en het pictogram te werken?
 ```
@@ -3839,7 +3839,7 @@ kleur of het pictogram van de doelmap is anders. Wilt u de marker kleur en het p
 ```
 Add color
 ```
-translates to:
+translated (by human 👀) as:
 ```
 kleur toe te voegen
 ```
@@ -3849,7 +3849,7 @@ kleur toe te voegen
 ```
 <![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
 ```
-translates to:
+translated (by human 👀) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Wat is de premie upgraden &lt;/ b&gt; Op de top van het verwijderen van advertenties, de premie upgrade ontgrendelt de volgende exclusieve premium-functies: &lt;br&gt; • Sync on Google Drive of Dropbox &lt;br&gt; • Samenwerken via Google Drive of Dropbox &lt;br&gt; • Kaart versies geschiedenis en het herstel van &lt;br&gt; &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -3859,7 +3859,7 @@ translates to:
 ```
 Marker created from the geo location of the QR code
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Marker gemaakt op basis van de geografische locatie van de QR-code
 ```
@@ -3869,7 +3869,7 @@ Marker gemaakt op basis van de geografische locatie van de QR-code
 ```
 Failed to read QR code as a geo location
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kan QR code lezen als een geografische locatie
 ```
@@ -3879,7 +3879,7 @@ Kan QR code lezen als een geografische locatie
 ```
 The app for scanning QR codes could not be found. Do you want to install it?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 De app voor het scannen van QR-codes kon niet worden gevonden. Wilt u om het te installeren?
 ```
@@ -3889,7 +3889,7 @@ De app voor het scannen van QR-codes kon niet worden gevonden. Wilt u om het te 
 ```
 Selection action
 ```
-translates to:
+translated (by human 👀) as:
 ```
 selectie actie
 ```
@@ -3899,7 +3899,7 @@ selectie actie
 ```
 Move to left
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Verplaatsen naar links
 ```
@@ -3909,7 +3909,7 @@ Verplaatsen naar links
 ```
 Move to right
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Verplaats naar rechts
 ```
@@ -3919,7 +3919,7 @@ Verplaats naar rechts
 ```
 Rotate to left
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Draai naar links
 ```
@@ -3929,7 +3929,7 @@ Draai naar links
 ```
 Rotate to right
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Draai naar rechts
 ```
@@ -3939,7 +3939,7 @@ Draai naar rechts
 ```
 Delete image
 ```
-translates to:
+translated (by human 👀) as:
 ```
 beeld te wissen
 ```
@@ -3949,7 +3949,7 @@ beeld te wissen
 ```
 From local file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Van lokaal bestand
 ```
@@ -3959,7 +3959,7 @@ Van lokaal bestand
 ```
 What format to you want to use to export?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Welk formaat u wilt gebruiken om te exporteren?
 ```
@@ -3969,7 +3969,7 @@ Welk formaat u wilt gebruiken om te exporteren?
 ```
 The data to export contains media(images) that cannot be included with this export format. The data will be exported without the media. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 De gegevens te exporteren bevat media (foto's) die niet kunnen worden opgenomen met deze export formaat. De gegevens zullen worden uitgevoerd zonder de media. Om alles te exporteren, kiest u het KMZ export formaat.
 ```
@@ -3979,7 +3979,7 @@ De gegevens te exporteren bevat media (foto's) die niet kunnen worden opgenomen 
 ```
 Standard Google Earth format. Cannot contain media.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Standard Google Earth -formaat. Kan geen mediabestanden bevatten.
 ```
@@ -3989,7 +3989,7 @@ Standard Google Earth -formaat. Kan geen mediabestanden bevatten.
 ```
 Zip Google Earth format. Can contain media.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zip Google Earth -formaat. Kan media bevatten.
 ```
@@ -3999,7 +3999,7 @@ Zip Google Earth -formaat. Kan media bevatten.
 ```
 Standard text spreadsheet format. Cannot contain media. Cannot contain lines or polygons.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Standaardtekst spreadsheet formaat. Kan geen mediabestanden bevatten. Kan geen lijnen of polygonen bevatten.
 ```
@@ -4009,7 +4009,7 @@ Standaardtekst spreadsheet formaat. Kan geen mediabestanden bevatten. Kan geen l
 ```
 Marker as plain text
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Marker als platte tekst
 ```
@@ -4019,7 +4019,7 @@ Marker als platte tekst
 ```
 Marker as file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Marker als bestand
 ```
@@ -4029,7 +4029,7 @@ Marker als bestand
 ```
 Share the selected marker as a file into another app
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Deel de geselecteerde marker als een bestand in een andere app
 ```
@@ -4039,7 +4039,7 @@ Deel de geselecteerde marker als een bestand in een andere app
 ```
 Share as file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Delen als bestand
 ```
@@ -4049,7 +4049,7 @@ Delen als bestand
 ```
 Export to a local file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Exporteren naar een lokaal bestand
 ```
@@ -4059,7 +4059,7 @@ Exporteren naar een lokaal bestand
 ```
 Import or export markers as files
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Importeren of exporteren markers als bestanden
 ```
@@ -4069,7 +4069,7 @@ Importeren of exporteren markers als bestanden
 ```
 The data to export contains complex markers (lines or polygons) that cannot be included with this export format. The data will be exported without those markers. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 De gegevens te exporteren bevat complexe markeringen (lijnen of polygonen), die niet kunnen worden opgenomen met deze export formaat. De gegevens zullen worden uitgevoerd zonder deze markers. Om alles te exporteren, kiest u het KMZ export formaat.
 ```
@@ -4079,7 +4079,7 @@ De gegevens te exporteren bevat complexe markeringen (lijnen of polygonen), die 
 ```
 Add custom field
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Voeg een aangepast veld toe
 ```
@@ -4089,7 +4089,7 @@ Voeg een aangepast veld toe
 ```
 Information
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Informatie
 ```
@@ -4099,7 +4099,7 @@ Informatie
 ```
 Custom fields
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Aangepaste velden
 ```
@@ -4109,7 +4109,7 @@ Aangepaste velden
 ```
 Field name
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Veldnaam
 ```
@@ -4119,7 +4119,7 @@ Veldnaam
 ```
 Delete field
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Veld verwijderen
 ```
@@ -4129,7 +4129,7 @@ Veld verwijderen
 ```
 Attributes
 ```
-translates to:
+translated (by human 👀) as:
 ```
 attributen
 ```
@@ -4139,7 +4139,7 @@ attributen
 ```
 New custom field
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nieuw aangepast veld
 ```
@@ -4149,7 +4149,7 @@ Nieuw aangepast veld
 ```
 Modify custom field
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Wijzig het aangepaste veld
 ```
@@ -4159,7 +4159,7 @@ Wijzig het aangepaste veld
 ```
 Field enabled. For folders, if enabled, that field will be added automatically to children POIs on creation. For POIs, if enabled, that field will be visible in the details page.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Veld ingeschakeld. Voor mappen, indien ingeschakeld, wordt dat veld bij het maken automatisch aan POI's voor kinderen toegevoegd. Voor POI's, indien ingeschakeld, is dat veld zichtbaar op de detailpagina.
 ```
@@ -4169,7 +4169,7 @@ Veld ingeschakeld. Voor mappen, indien ingeschakeld, wordt dat veld bij het make
 ```
 Field info
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Veldinfo
 ```
@@ -4179,7 +4179,7 @@ Veldinfo
 ```
 Select field type
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Selecteer het veldtype
 ```
@@ -4189,7 +4189,7 @@ Selecteer het veldtype
 ```
 Boolean (True or False)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Boolean (waar of niet waar)
 ```
@@ -4199,7 +4199,7 @@ Boolean (waar of niet waar)
 ```
 Default value
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Standaardwaarde
 ```
@@ -4209,7 +4209,7 @@ Standaardwaarde
 ```
 Date
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Datum
 ```
@@ -4219,7 +4219,7 @@ Datum
 ```
 Email
 ```
-translates to:
+translated (by human 👀) as:
 ```
 E-mail
 ```
@@ -4229,7 +4229,7 @@ E-mail
 ```
 Text
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Tekst
 ```
@@ -4239,7 +4239,7 @@ Tekst
 ```
 Multiple choice
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Meerkeuze
 ```
@@ -4249,7 +4249,7 @@ Meerkeuze
 ```
 Add choice
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Voeg keuze toe
 ```
@@ -4259,7 +4259,7 @@ Voeg keuze toe
 ```
 Duplicates are not allowed
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Duplicaten zijn niet toegestaan
 ```
@@ -4269,7 +4269,7 @@ Duplicaten zijn niet toegestaan
 ```
 Phone
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Telefoon
 ```
@@ -4279,7 +4279,7 @@ Telefoon
 ```
 Web link
 ```
-translates to:
+translated (by human 👀) as:
 ```
 web link
 ```
@@ -4289,7 +4289,7 @@ web link
 ```
 Choices list
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Keuzelijst
 ```
@@ -4299,7 +4299,7 @@ Keuzelijst
 ```
 Select default value
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Selecteer standaardwaarde
 ```
@@ -4309,7 +4309,7 @@ Selecteer standaardwaarde
 ```
 Creation date
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Aanmaakdatum
 ```
@@ -4319,7 +4319,7 @@ Aanmaakdatum
 ```
 POI Options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 POI-opties
 ```
@@ -4329,7 +4329,7 @@ POI-opties
 ```
 Delete POI
 ```
-translates to:
+translated (by human 👀) as:
 ```
 POI verwijderen
 ```
@@ -4339,7 +4339,7 @@ POI verwijderen
 ```
 Select value
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Selecteer waarde
 ```
@@ -4349,7 +4349,7 @@ Selecteer waarde
 ```
 Used by folders
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Gebruikt door mappen
 ```
@@ -4359,7 +4359,7 @@ Gebruikt door mappen
 ```
 Edit field
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bewerk veld
 ```
@@ -4369,7 +4369,7 @@ Bewerk veld
 ```
 Add folder field
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Voeg mapveld toe
 ```
@@ -4379,7 +4379,7 @@ Voeg mapveld toe
 ```
 Reorder fields
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Herorden velden
 ```
@@ -4389,7 +4389,7 @@ Herorden velden
 ```
 Pick the fields you want to apply to this folder\'s POIs
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kies de velden die u wilt toepassen op de POI's van deze map
 ```
@@ -4399,7 +4399,7 @@ Kies de velden die u wilt toepassen op de POI's van deze map
 ```
 The destination folder has different field values. Pick the fields you want to apply to moved POIs.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 De doelmap heeft andere veldwaarden. Kies de velden die u wilt toepassen op verplaatste POI's.
 ```
@@ -4409,7 +4409,7 @@ De doelmap heeft andere veldwaarden. Kies de velden die u wilt toepassen op verp
 ```
 Update color
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kleur bijwerken
 ```
@@ -4419,7 +4419,7 @@ Kleur bijwerken
 ```
 Update pin icon
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pincode bijwerken
 ```
@@ -4429,7 +4429,7 @@ Pincode bijwerken
 ```
 Add field if missing: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Voeg een veld toe als het ontbreekt: %s
 ```
@@ -4439,7 +4439,7 @@ Voeg een veld toe als het ontbreekt: %s
 ```
 Remove field if present: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Verwijder veld indien aanwezig: %s
 ```
@@ -4449,7 +4449,7 @@ Verwijder veld indien aanwezig: %s
 ```
 Update field name if different: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Veldnaam bijwerken als dit anders is: %s
 ```
@@ -4459,7 +4459,7 @@ Veldnaam bijwerken als dit anders is: %s
 ```
 More options…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Meer opties…
 ```
@@ -4469,7 +4469,7 @@ Meer opties…
 ```
 Folder options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Folder opties
 ```
@@ -4479,7 +4479,7 @@ Folder opties
 ```
 Edit email
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bewerk email
 ```
@@ -4489,7 +4489,7 @@ Bewerk email
 ```
 Edit web link
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Weblink bewerken
 ```
@@ -4499,7 +4499,7 @@ Weblink bewerken
 ```
 Decimal accuracy
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Decimale nauwkeurigheid
 ```
@@ -4509,7 +4509,7 @@ Decimale nauwkeurigheid
 ```
 Details copied to clipboard
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Details gekopieerd naar klembord
 ```
@@ -4519,7 +4519,7 @@ Details gekopieerd naar klembord
 ```
 Copy
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kopiëren
 ```
@@ -4529,7 +4529,7 @@ Kopiëren
 ```
 Do you want to click here? ^‿^
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Wil je hier klikken? ^ ‿ ^
 ```
@@ -4557,7 +4557,7 @@ And finally, thank you for reading this :-)
 Regards
 Sébastien
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Hé, bedankt voor je nieuwsgierigheid!
 
@@ -4585,7 +4585,7 @@ Sébastien
 ```
 Normal with indoor
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Normaal met binnen
 ```
@@ -4595,7 +4595,7 @@ Normaal met binnen
 ```
 Floating marker titles
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zwevende markertitels
 ```
@@ -4605,7 +4605,7 @@ Zwevende markertitels
 ```
 Maximum number
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Maximaal nummer
 ```
@@ -4615,7 +4615,7 @@ Maximaal nummer
 ```
 Text size
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Lettergrootte
 ```
@@ -4625,7 +4625,7 @@ Lettergrootte
 ```
 Search failed => %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Zoeken mislukt =&gt; %s
 ```
@@ -4635,7 +4635,7 @@ Zoeken mislukt =&gt; %s
 ```
 API key tutorial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 API key zelfstudie
 ```
@@ -4645,7 +4645,7 @@ API key zelfstudie
 ```
 Click here to see details on how to obtain an API key for your account.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klik hier voor meer informatie over het verkrijgen van een API key voor uw account.
 ```
@@ -4655,7 +4655,7 @@ Klik hier voor meer informatie over het verkrijgen van een API key voor uw accou
 ```
 Personal API key
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Persoonlijk API key
 ```
@@ -4665,7 +4665,7 @@ Persoonlijk API key
 ```
 None
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Geen
 ```
@@ -4677,7 +4677,7 @@ You can search for places with "Google Places API". This search requires an inte
 
 You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 U kunt zoeken naar plaatsen met "Google Places API". Voor deze zoekopdracht is een internetverbinding vereist.
 
@@ -4689,7 +4689,7 @@ U hebt uw persoonlijke Google Places API-sleutel geconfigureerd: uw zoekopdracht
 ```
 Do you enjoy the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Geniet je van de app?
 ```
@@ -4699,7 +4699,7 @@ Geniet je van de app?
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Wil je me een email sturen om me te vertellen hoe ik de app kan verbeteren?
 ```
@@ -4709,7 +4709,7 @@ Wil je me een email sturen om me te vertellen hoe ik de app kan verbeteren?
 ```
 Display extra POI fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Geef extra POI-velden weer
 ```
@@ -4719,7 +4719,7 @@ Geef extra POI-velden weer
 ```
 IGN plans
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN plannen
 ```
@@ -4729,7 +4729,7 @@ IGN plannen
 ```
 IGN maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN-kaarten
 ```
@@ -4739,7 +4739,7 @@ IGN-kaarten
 ```
 IGN - Cadastral parcels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - Kadastrale percelen
 ```
@@ -4749,7 +4749,7 @@ IGN - Kadastrale percelen
 ```
 IGN - Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - Aerial
 ```
@@ -4759,7 +4759,7 @@ IGN - Aerial
 ```
 Type more and press enter again for refined results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Typ meer en druk nogmaals op enter voor verfijnde resultaten
 ```

@@ -1,4 +1,4 @@
-# Map Marker translations for lt
+# Map Marker translations for Lithuanian (lt)
 
 You want to help improve this translation file? Read the [main page](https://github.com/androidseb/mapmarkerapptranslations)
 
@@ -7,7 +7,7 @@ You want to help improve this translation file? Read the [main page](https://git
 ```
 OK
 ```
-translates to:
+translated (by human 👀) as:
 ```
 GERAI
 ```
@@ -17,7 +17,7 @@ GERAI
 ```
 Yes
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Taip
 ```
@@ -27,7 +27,7 @@ Taip
 ```
 No
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ne
 ```
@@ -37,7 +37,7 @@ Ne
 ```
 Cancel
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Atšaukti
 ```
@@ -47,7 +47,7 @@ Atšaukti
 ```
 New marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Naujas žymeklis
 ```
@@ -57,7 +57,7 @@ Naujas žymeklis
 ```
 Title
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pavadinimas
 ```
@@ -67,7 +67,7 @@ Pavadinimas
 ```
 Description
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Aprašymas
 ```
@@ -77,7 +77,7 @@ Aprašymas
 ```
 Do you really want to delete this marker?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ar tikrai norite pašalinti šį žymeklį?
 ```
@@ -87,7 +87,7 @@ Ar tikrai norite pašalinti šį žymeklį?
 ```
 GPS coordinates
 ```
-translates to:
+translated (by human 👀) as:
 ```
 GPS koordinatės
 ```
@@ -97,7 +97,7 @@ GPS koordinatės
 ```
 Could not copy coordinates to clipboard
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Koordinačių nukopijuoti į atmintinę nepavyko
 ```
@@ -107,7 +107,7 @@ Koordinačių nukopijuoti į atmintinę nepavyko
 ```
 Coordinates copied to clipboard
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Koordinatės nukopijuotos į atmintinę
 ```
@@ -117,7 +117,7 @@ Koordinatės nukopijuotos į atmintinę
 ```
 Failed to access application save directory. Make sure that your device is not being accessed by a computer with the USB cable, and restart the app.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nepavyko pasiekti programėlės išsaugojimo katalogo Įsitikinkite, kad prie jūsų įrenginio USB kabeliu nėra prijungtas kompiuteris ir paleiskite programėlę iš naujo.
 ```
@@ -127,7 +127,7 @@ Nepavyko pasiekti programėlės išsaugojimo katalogo Įsitikinkite, kad prie j�
 ```
 Untitled
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Be pavadinimo
 ```
@@ -137,7 +137,7 @@ Be pavadinimo
 ```
 All
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Visi
 ```
@@ -147,7 +147,7 @@ Visi
 ```
 Add folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pridėti aplanką
 ```
@@ -157,7 +157,7 @@ Pridėti aplanką
 ```
 Modify folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Keisti aplanką
 ```
@@ -167,7 +167,7 @@ Keisti aplanką
 ```
 Are you sure you want to delete this folder? All markers associated to this folder will be deleted permanently!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ar tikrai norite pašalinti šį aplanką? Visi su šiuo aplanku susieti žymekliai bus pašalinti visam laikui!
 ```
@@ -177,7 +177,7 @@ Ar tikrai norite pašalinti šį aplanką? Visi su šiuo aplanku susieti žymekl
 ```
 Failed to create new folder, it already exists
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Naujo aplanko sukurti nepavyko, jis jau yra
 ```
@@ -187,7 +187,7 @@ Naujo aplanko sukurti nepavyko, jis jau yra
 ```
 Failed to rename the folder, the destination name already exists
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Aplanko pervadinti nepavyko, paskirties pavadinimas jau yra
 ```
@@ -197,7 +197,7 @@ Aplanko pervadinti nepavyko, paskirties pavadinimas jau yra
 ```
 Latitude:
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Platuma:
 ```
@@ -207,7 +207,7 @@ Platuma:
 ```
 Longitude:
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ilguma:
 ```
@@ -217,7 +217,7 @@ Ilguma:
 ```
 Could not write file.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Negalima įrašyti bylos.
 ```
@@ -227,7 +227,7 @@ Negalima įrašyti bylos.
 ```
 Import/Export
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Importuoti/Eksportuoti
 ```
@@ -237,7 +237,7 @@ Importuoti/Eksportuoti
 ```
 Import markers
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Importuoti žymeklius
 ```
@@ -247,7 +247,7 @@ Importuoti žymeklius
 ```
 File imported successfully
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Byla importuota sėkmingai
 ```
@@ -257,7 +257,7 @@ Byla importuota sėkmingai
 ```
 File import failed
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bylos importuoti nepavyko
 ```
@@ -267,7 +267,7 @@ Bylos importuoti nepavyko
 ```
 Location services
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Padėties paslaugos
 ```
@@ -277,7 +277,7 @@ Padėties paslaugos
 ```
 Location services are disabled. To get your current location you must enable them.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Vietos nustatymo paslaugos yra išjungtos Tam, kad būtų nustatyta jūsų dabartinė padėtis, jos turi būti įjungtos.
 ```
@@ -287,7 +287,7 @@ Vietos nustatymo paslaugos yra išjungtos Tam, kad būtų nustatyta jūsų dabar
 ```
 Could not find address
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Adreso surasti nepavyko
 ```
@@ -297,7 +297,7 @@ Adreso surasti nepavyko
 ```
 Searching&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ieškoma&#8230;
 ```
@@ -307,7 +307,7 @@ Ieškoma&#8230;
 ```
 Search
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ieškoti
 ```
@@ -317,7 +317,7 @@ Ieškoti
 ```
 Share via
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dalintis per
 ```
@@ -327,7 +327,7 @@ Dalintis per
 ```
 Do you want to import the content of this file?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ar norite importuoti šios bylos turinį?
 ```
@@ -337,7 +337,7 @@ Ar norite importuoti šios bylos turinį?
 ```
 Folder name
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Aplanko pavadinimas
 ```
@@ -347,7 +347,7 @@ Aplanko pavadinimas
 ```
 Save
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Išsaugoti
 ```
@@ -357,7 +357,7 @@ Išsaugoti
 ```
 Close
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Užverti
 ```
@@ -367,7 +367,7 @@ Užverti
 ```
 Are you sure you want to delete the selected markers?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ar tikrai norite pašalinti pasirinktus žymeklius?
 ```
@@ -377,7 +377,7 @@ Ar tikrai norite pašalinti pasirinktus žymeklius?
 ```
 Move markers to folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Perkelti žymeklius į aplanką
 ```
@@ -387,7 +387,7 @@ Perkelti žymeklius į aplanką
 ```
 Share
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dalintis
 ```
@@ -397,7 +397,7 @@ Dalintis
 ```
 Folder:
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Aplankas:
 ```
@@ -407,7 +407,7 @@ Aplankas:
 ```
 Snapshot of my markers on Map Marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Mano „Map Marker“ žymeklių momentinė kopija
 ```
@@ -418,7 +418,7 @@ Mano „Map Marker“ žymeklių momentinė kopija
 This snapshot was made with the app Map Marker:
 %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Šis atvaizdas buvo nufotografuotas su „Map Marker“:
 %s
@@ -429,7 +429,7 @@ translates to:
 ```
 Processing data&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Duomenys apdorojami&#8230;
 ```
@@ -439,7 +439,7 @@ Duomenys apdorojami&#8230;
 ```
 You have unsaved modifications, do you want to save them?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Turite neišsaugotų pakeitimų, ar norite juos išsaugoti?
 ```
@@ -449,7 +449,7 @@ Turite neišsaugotų pakeitimų, ar norite juos išsaugoti?
 ```
 Use the long press on the map to create a new marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Naujo žymeklio sukūrimui naudokite ilgą žemėlapio paspaudimą
 ```
@@ -459,7 +459,7 @@ Naujo žymeklio sukūrimui naudokite ilgą žemėlapio paspaudimą
 ```
 Map type
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Žemėlapio rūšis
 ```
@@ -469,7 +469,7 @@ translates to:
 ```
 Normal
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Normalus
 ```
@@ -479,7 +479,7 @@ Normalus
 ```
 Satellite
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Palydovas
 ```
@@ -489,7 +489,7 @@ Palydovas
 ```
 Terrain
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Reljefas
 ```
@@ -499,7 +499,7 @@ Reljefas
 ```
 Hybrid
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Hibridinis
 ```
@@ -510,7 +510,7 @@ Hibridinis
 Found a problem? Have an idea of improvement?
 Send me an email :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Aptikote problemą? Turite idėją pagerinimui?
 Atsiųskite man el. laišką :-)
@@ -521,7 +521,7 @@ Atsiųskite man el. laišką :-)
 ```
 Send email&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Siųsti el. laišką&#8230;
 ```
@@ -532,7 +532,7 @@ Siųsti el. laišką&#8230;
 You like the app?
 Rate it 5 stars :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Patiko programėlė?
 Įvertinkite ją 5 žvaigždutėmis :-)
@@ -543,7 +543,7 @@ Patiko programėlė?
 ```
 Change folder to&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pakeisti aplanką į&#8230;
 ```
@@ -553,7 +553,7 @@ Pakeisti aplanką į&#8230;
 ```
 Directions
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kryptys
 ```
@@ -563,7 +563,7 @@ Kryptys
 ```
 Acquiring location&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nustatinėjama padėtis&#8230;
 ```
@@ -573,7 +573,7 @@ Nustatinėjama padėtis&#8230;
 ```
 Meters
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Metrai
 ```
@@ -583,7 +583,7 @@ Metrai
 ```
 Km
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Km
 ```
@@ -593,7 +593,7 @@ Km
 ```
 Feet
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pėda
 ```
@@ -603,7 +603,7 @@ Pėda
 ```
 Miles
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Mylios
 ```
@@ -613,7 +613,7 @@ Mylios
 ```
 Adjust map camera position when guiding to a marker location
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nureguliuokite kameros poziciją, kai kreipiate žymeklio kryptimi
 ```
@@ -623,7 +623,7 @@ Nureguliuokite kameros poziciją, kai kreipiate žymeklio kryptimi
 ```
 Keep screen on when guiding to a marker location
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Vedant link žymeklio vietos palikti ekraną įjungtą
 ```
@@ -633,7 +633,7 @@ Vedant link žymeklio vietos palikti ekraną įjungtą
 ```
 Marker details copied to clipboard
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Žymeklio informacija nukopijuota į atmintinę
 ```
@@ -643,7 +643,7 @@ translates to:
 ```
 Long press to drag and move the marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Žymeklio judinimui ir tempimui atlikite ilgą paspaudimą
 ```
@@ -653,7 +653,7 @@ translates to:
 ```
 Error starting internal task manager, app will now exit
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Klaida paleidžiant interneto užduočių tvarkyklę, programėlė dabar bus užverta
 ```
@@ -663,7 +663,7 @@ Klaida paleidžiant interneto užduočių tvarkyklę, programėlė dabar bus už
 ```
 Do not show again
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Daugiau nerodyti
 ```
@@ -673,7 +673,7 @@ Daugiau nerodyti
 ```
 Could not create the map capture
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Žemėlapio užfiksavimo sukurti nepavyko
 ```
@@ -683,7 +683,7 @@ translates to:
 ```
 Metric (Kilometers/Meters)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Metriniai (Kilometrai/Metrai)
 ```
@@ -693,7 +693,7 @@ Metriniai (Kilometrai/Metrai)
 ```
 Imperial (Miles/Feet)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Imperiniai (Mylios/Pėdos)
 ```
@@ -703,7 +703,7 @@ Imperiniai (Mylios/Pėdos)
 ```
 There is a problem with Google Play Services: it needs to be installed, updated or activated. Click OK to try and solve it.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Iškilo „Google Play Services“ nesklandumas: ji turi būti įdiegta, atnaujinta arba aktyvuota. Paspauskite „GERAI“ ir pamėginkite, tai išspręsti.
 ```
@@ -713,7 +713,7 @@ Iškilo „Google Play Services“ nesklandumas: ji turi būti įdiegta, atnauji
 ```
 Delete folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pašalinti aplanką
 ```
@@ -723,7 +723,7 @@ Pašalinti aplanką
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Jeigu jums patinka mano programėlė, galite man atsidėkoti skirdami laiko ir pažymėdami gerą pažymį :-)
 ```
@@ -734,7 +734,7 @@ Jeigu jums patinka mano programėlė, galite man atsidėkoti skirdami laiko ir p
 OK take me
 to the Play Store
 ```
-translates to:
+translated (by human 👀) as:
 ```
 GERAI atverkite\ „Play Store“
 ```
@@ -745,7 +745,7 @@ GERAI atverkite\ „Play Store“
 I already
 gave a rating
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Jau
 įvertinau
@@ -757,7 +757,7 @@ Jau
 Maybe later
 remind me
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Galbūt vėliau
 priminti vėliau
@@ -769,7 +769,7 @@ priminti vėliau
 Maybe later
 do not remind me
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Galbūt vėliau
 nepriminti
@@ -780,7 +780,7 @@ nepriminti
 ```
 Could not find the place
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Vietos aptikti nepavyko
 ```
@@ -790,7 +790,7 @@ Vietos aptikti nepavyko
 ```
 Could not find another map application
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nepavyko aptikti kitos žemėlapių programėlės
 ```
@@ -800,7 +800,7 @@ Nepavyko aptikti kitos žemėlapių programėlės
 ```
 Move the map around to place your marker where you want and click OK to place it.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pastumkite žemėlapį į tą vietą, kurioje norite padėti savo žymeklį ir tam, kad padėtumėte paspauskite „GERAI“.
 ```
@@ -810,7 +810,7 @@ Pastumkite žemėlapį į tą vietą, kurioje norite padėti savo žymeklį ir t
 ```
 Imported marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Importuotas žymeklis
 ```
@@ -820,7 +820,7 @@ Importuotas žymeklis
 ```
 Settings
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nustatymai
 ```
@@ -830,7 +830,7 @@ Nustatymai
 ```
 Display zoom buttons
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ekrano mastelio mygtukai
 ```
@@ -840,7 +840,7 @@ Ekrano mastelio mygtukai
 ```
 Decimal degrees
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dešimtainiai laipsniai
 ```
@@ -850,7 +850,7 @@ Dešimtainiai laipsniai
 ```
 Degrees decimal minutes
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Laipsniai dešimtainės minutės
 ```
@@ -860,7 +860,7 @@ Laipsniai dešimtainės minutės
 ```
 Degrees minutes seconds
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Laipsniai minutės sekundės
 ```
@@ -870,7 +870,7 @@ Laipsniai minutės sekundės
 ```
 Coordinates format
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Koordinačių formatą
 ```
@@ -880,7 +880,7 @@ Koordinačių formatą
 ```
 GPS and wireless networks only
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Tik GPS ir belaidžiai tinklai
 ```
@@ -890,7 +890,7 @@ Tik GPS ir belaidžiai tinklai
 ```
 GPS and wireless networks or magnetic sensor
 ```
-translates to:
+translated (by human 👀) as:
 ```
 GPS ir belaidžiai tinklai arba magnetiniai jutikliai
 ```
@@ -900,7 +900,7 @@ GPS ir belaidžiai tinklai arba magnetiniai jutikliai
 ```
 Magnetic sensor only
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Tik magnetinis jutiklis
 ```
@@ -910,7 +910,7 @@ Tik magnetinis jutiklis
 ```
 Used compass sensor
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Panaudotas kompaso jutiklis
 ```
@@ -920,7 +920,7 @@ Panaudotas kompaso jutiklis
 ```
 FAQ/Help
 ```
-translates to:
+translated (by human 👀) as:
 ```
 DUK/Pagalb
 ```
@@ -930,7 +930,7 @@ DUK/Pagalb
 ```
 Folders
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Aplankai
 ```
@@ -940,7 +940,7 @@ Aplankai
 ```
 Help and settings
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pagalba ir nustatymai
 ```
@@ -950,7 +950,7 @@ Pagalba ir nustatymai
 ```
 Language
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kalba
 ```
@@ -960,7 +960,7 @@ Kalba
 ```
 Marker popup style
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Žymeklio išskleidimo stilius
 ```
@@ -970,7 +970,7 @@ translates to:
 ```
 Bottom
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dugnas
 ```
@@ -980,7 +980,7 @@ Dugnas
 ```
 Bubble
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Burbulas
 ```
@@ -990,7 +990,7 @@ Burbulas
 ```
 Coordinates
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Koordinatės
 ```
@@ -1000,7 +1000,7 @@ Koordinatės
 ```
 Contextual
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kontekstinis
 ```
@@ -1010,7 +1010,7 @@ Kontekstinis
 ```
 Always
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Visada
 ```
@@ -1020,7 +1020,7 @@ Visada
 ```
 Crosshair display
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Taikiklio ekranas
 ```
@@ -1030,7 +1030,7 @@ Taikiklio ekranas
 ```
 Coordinates window
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Koordinačių langas
 ```
@@ -1040,7 +1040,7 @@ Koordinačių langas
 ```
 Lat:
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Platuma:
 ```
@@ -1050,7 +1050,7 @@ Platuma:
 ```
 Lng:
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kalba:
 ```
@@ -1060,7 +1060,7 @@ Kalba:
 ```
 Marker instant adding mode
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Žymeklio momentinio pridėjimo režimas
 ```
@@ -1070,7 +1070,7 @@ translates to:
 ```
 Advanced
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Plačiau
 ```
@@ -1080,7 +1080,7 @@ Plačiau
 ```
 Display
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ekranas
 ```
@@ -1090,7 +1090,7 @@ Ekranas
 ```
 Actions
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Veiksmai
 ```
@@ -1100,7 +1100,7 @@ Veiksmai
 ```
 Language and units
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kalba ir vienetai
 ```
@@ -1110,7 +1110,7 @@ Kalba ir vienetai
 ```
 Markers ignored on import (duplicates): %1$d
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Žymekliai, kurie importuojant buvo ignoruoti (kopijos): %1$d
 ```
@@ -1120,7 +1120,7 @@ translates to:
 ```
 %1$d markers
 ```
-translates to:
+translated (by human 👀) as:
 ```
 %1$d žymekliai
 ```
@@ -1130,7 +1130,7 @@ translates to:
 ```
 No auto naming
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Automatinis vadinimas išjungtas
 ```
@@ -1140,7 +1140,7 @@ Automatinis vadinimas išjungtas
 ```
 Auto naming "number"
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Automatinis vadinimas \„numeris\“
 ```
@@ -1150,7 +1150,7 @@ Automatinis vadinimas \„numeris\“
 ```
 Auto naming "Marker number"
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Automatinis vadinimas \„Žymeklio numeris\“
 ```
@@ -1160,7 +1160,7 @@ Automatinis vadinimas \„Žymeklio numeris\“
 ```
 New marker auto naming
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Automatinis naujų žymeklių vadinimas
 ```
@@ -1170,7 +1170,7 @@ Automatinis naujų žymeklių vadinimas
 ```
 Marker %1$d
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Žymeklis %1$d
 ```
@@ -1180,7 +1180,7 @@ translates to:
 ```
 Waiting for location&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Laukiama vietos&#8230;
 ```
@@ -1190,7 +1190,7 @@ Laukiama vietos&#8230;
 ```
 Open the help page and see the FAQ
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Atverkite pagalbos svetainę ir žr. DUK
 ```
@@ -1200,7 +1200,7 @@ Atverkite pagalbos svetainę ir žr. DUK
 ```
 Features
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Savybės
 ```
@@ -1210,7 +1210,7 @@ Savybės
 ```
 View the list of upcoming features for the next app version
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Peržiūrėti būsimųjų programėlės naujosios versijos funkcijų sąrašą
 ```
@@ -1220,7 +1220,7 @@ Peržiūrėti būsimųjų programėlės naujosios versijos funkcijų sąrašą
 ```
 Help &amp; Feedback
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pagalba &amp; Komentarai
 ```
@@ -1230,7 +1230,7 @@ Pagalba &amp; Komentarai
 ```
 About
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Apie
 ```
@@ -1240,7 +1240,7 @@ Apie
 ```
 Distance to %1$s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Atstumas iki %1$s
 ```
@@ -1250,7 +1250,7 @@ Atstumas iki %1$s
 ```
 Snapshot
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Momentinė kopija
 ```
@@ -1260,7 +1260,7 @@ Momentinė kopija
 ```
 Share a snapshot of the map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pasidalinti momentine žemėlapio kopija
 ```
@@ -1270,7 +1270,7 @@ Pasidalinti momentine žemėlapio kopija
 ```
 All markers and folders
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Visi žymekliai ir aplankai
 ```
@@ -1280,7 +1280,7 @@ Visi žymekliai ir aplankai
 ```
 <![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
 ```
-translates to:
+translated (by human 👀) as:
 ```
 <![CDATA[<html><body><b>Tam, kad gautumėte teisingą kompaso šiaurės kryptį, jūsų įrenginys turi būti tinkamai sukalibruotas.<br>Tam, kad sukalibruotumėte savo įrenginį tiesiog pajudinkite jį aplink „piešdami“ ore 8. Tam, kad būtų efektyvesni, judesiai turi būti platūs ir pakartoti apie 3 kartus.<br>Galite sukalibruoti savo įrenginį atlikdami tą bet kuriuo metu.</b><br><br>Kalibravimas taip pat yra ribotas ir jo gali nepakakti tam, kad būtų įveikti šalia esantys trukdžiai, tokie kaip:<br>&bull; dideli metaliniai objektai<br>&bull; elektroniniai prietaisai<br>&bull; magnetai<br>&bull; automobilio/autobuso/traukinio/lėktuvo salonas</body></html>]]>
 ```
@@ -1290,7 +1290,7 @@ translates to:
 ```
 Badges
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ženkliukai
 ```
@@ -1300,7 +1300,7 @@ translates to:
 ```
 Buy a donation badge
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Įsigyti aukojimo ženkliuką
 ```
@@ -1310,7 +1310,7 @@ translates to:
 ```
 Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dėkojame už jūsų auką! Šis aukojimo ženkliukas suteikia jums prieigą prie aukštesnės klasės funkcijų :-)
 ```
@@ -1320,7 +1320,7 @@ Dėkojame už jūsų auką! Šis aukojimo ženkliukas suteikia jums prieigą pri
 ```
 Default folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Numatytasis aplankas
 ```
@@ -1330,7 +1330,7 @@ Numatytasis aplankas
 ```
 Sync options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sinchronizacijos parinktys
 ```
@@ -1340,7 +1340,7 @@ Sinchronizacijos parinktys
 ```
 Google Drive
 ```
-translates to:
+translated (by human 👀) as:
 ```
 „Google Drive“
 ```
@@ -1350,7 +1350,7 @@ translates to:
 ```
 Dropbox
 ```
-translates to:
+translated (by human 👀) as:
 ```
 „Dropbox“
 ```
@@ -1360,7 +1360,7 @@ translates to:
 ```
 Configuring&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Konfigūruojama&#8230;
 ```
@@ -1370,7 +1370,7 @@ Konfigūruojama&#8230;
 ```
 Sync now
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sinchronizuoti dabar
 ```
@@ -1380,7 +1380,7 @@ Sinchronizuoti dabar
 ```
 Never
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Niekada
 ```
@@ -1390,7 +1390,7 @@ Niekada
 ```
 Syncing…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sinchronizuojama…
 ```
@@ -1400,7 +1400,7 @@ Sinchronizuojama…
 ```
 Select folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pasirinkite aplanką
 ```
@@ -1410,7 +1410,7 @@ Pasirinkite aplanką
 ```
 Load error
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Įkėlimo klaida
 ```
@@ -1420,7 +1420,7 @@ translates to:
 ```
 Retry
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Mėginti dar kartą
 ```
@@ -1430,7 +1430,7 @@ Mėginti dar kartą
 ```
 Root
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Šaknis
 ```
@@ -1440,7 +1440,7 @@ translates to:
 ```
 Shared
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pasidalinta
 ```
@@ -1450,7 +1450,7 @@ Pasidalinta
 ```
 Purchase successful!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pirkimas pavyko!
 ```
@@ -1460,7 +1460,7 @@ Pirkimas pavyko!
 ```
 Purchase failed: %1$s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Įsigyti nepavyko: %1$s
 ```
@@ -1470,7 +1470,7 @@ translates to:
 ```
 Premium access available! You currently have access to premium features.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Galima aukštesnės klasės prieiga! Jums šiuo metu yra suteikta prieiga prie aukštesnės klasės funkcijų.
 ```
@@ -1480,7 +1480,7 @@ Galima aukštesnės klasės prieiga! Jums šiuo metu yra suteikta prieiga prie a
 ```
 You cannot select that folder because it contains multiple files named %1$s. The sync requires the folder to contain only one file with that name.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 To aplanko pasirinkti negalite, nes jame yra kelios bylos pavadintos %1$s. Sinchronizacijai tame aplanke turi būti tik viena byla su tokiu pavadinimu.
 ```
@@ -1490,7 +1490,7 @@ To aplanko pasirinkti negalite, nes jame yra kelios bylos pavadintos %1$s. Sinch
 ```
 It seems sync data already exists in that folder. If you select that folder, your local data will be merged with the folder data when sync is performed. Is that what you want?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Atrodo, kad sinchronizacijos duomenys tame aplanke jau yra. Jeigu pasirinksite tą aplanką, atlikus sinchronizaciją jūsų vietiniai duomenys bus sujungti su aplanko duomenimis. Ar tai yra ko jūs norite?
 ```
@@ -1500,7 +1500,7 @@ Atrodo, kad sinchronizacijos duomenys tame aplanke jau yra. Jeigu pasirinksite t
 ```
 File options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bylos parinktys
 ```
@@ -1510,7 +1510,7 @@ Bylos parinktys
 ```
 Cloud sync
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sinchronizuoti „debesis“
 ```
@@ -1520,7 +1520,7 @@ Sinchronizuoti „debesis“
 ```
 Sync this map file on the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sinchronizuoti šią žemėlapio bylą į „debesį“
 ```
@@ -1530,7 +1530,7 @@ Sinchronizuoti šią žemėlapio bylą į „debesį“
 ```
 Map file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Žemėlapio byla
 ```
@@ -1540,7 +1540,7 @@ translates to:
 ```
 Create local map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sukurti vietinį žemėlapį
 ```
@@ -1550,7 +1550,7 @@ Sukurti vietinį žemėlapį
 ```
 Create a new map file locally
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sukurti vietinę naujo žemėlapio bylą
 ```
@@ -1560,7 +1560,7 @@ Sukurti vietinę naujo žemėlapio bylą
 ```
 Create cloud map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sukurti „debesies“ žemėlapį
 ```
@@ -1570,7 +1570,7 @@ Sukurti „debesies“ žemėlapį
 ```
 Create a map file on the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sukurti žemėlapio bylą „debesyje“
 ```
@@ -1580,7 +1580,7 @@ Sukurti žemėlapio bylą „debesyje“
 ```
 Retrieves changes from the cloud and sends local changes to the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Paima pakeitimus iš „debesies“ ir išsiunčia vietinius pakeitimus į debesį
 ```
@@ -1590,7 +1590,7 @@ Paima pakeitimus iš „debesies“ ir išsiunčia vietinius pakeitimus į debes
 ```
 Rename
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pervadinti
 ```
@@ -1600,7 +1600,7 @@ Pervadinti
 ```
 Rename the map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pervadinti žemėlapį
 ```
@@ -1610,7 +1610,7 @@ Pervadinti žemėlapį
 ```
 Enter new name
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Įveskite naują pavadinimą
 ```
@@ -1620,7 +1620,7 @@ translates to:
 ```
 Enter the new map\'s name
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Įveskite naujo žemėlapio\ pavadinimą
 ```
@@ -1630,7 +1630,7 @@ translates to:
 ```
 %1$d folders, %2$d markers, size: %3$d KB
 ```
-translates to:
+translated (by human 👀) as:
 ```
 %1$d aplankai, %2$d žymekliai, dydis: %3$d KB
 ```
@@ -1640,7 +1640,7 @@ translates to:
 ```
 Create new folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sukurti naują aplanką
 ```
@@ -1650,7 +1650,7 @@ Sukurti naują aplanką
 ```
 Could not create folder: name empty
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Aplanko sukurti nepavyko: nėra pavadinimo
 ```
@@ -1660,7 +1660,7 @@ Aplanko sukurti nepavyko: nėra pavadinimo
 ```
 Could not create folder: error occurred
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Aplanko sukurti negalima: įvyko klaida
 ```
@@ -1670,7 +1670,7 @@ Aplanko sukurti negalima: įvyko klaida
 ```
 Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dėkojame, kad įsigijote „Map Marker“ aukštesnės klasės pagerinimą :-)
 ```
@@ -1680,7 +1680,7 @@ Dėkojame, kad įsigijote „Map Marker“ aukštesnės klasės pagerinimą :-)
 ```
 Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dėkoju už parodytą susidomėjimą pasiimant savo nemokamą „Map Marker Premium“ :-)
 ```
@@ -1690,7 +1690,7 @@ Dėkoju už parodytą susidomėjimą pasiimant savo nemokamą „Map Marker Prem
 ```
 Premium
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Aukštesnė klasė
 ```
@@ -1700,7 +1700,7 @@ Aukštesnė klasė
 ```
 Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pagerinkite iki aukštesnės klasės ir išnaudokite visas „Map Marker“ galimybes!
 ```
@@ -1710,7 +1710,7 @@ Pagerinkite iki aukštesnės klasės ir išnaudokite visas „Map Marker“ gali
 ```
 Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Deja, šios funkcijos naudojimui yra reikalingas aukštesnės klasės pagerinimas. Pagerinkite iki aukštesnės klasės ir išnaudokite visas „Map Marker“ galimybes!
 ```
@@ -1720,7 +1720,7 @@ Deja, šios funkcijos naudojimui yra reikalingas aukštesnės klasės pagerinima
 ```
 You have the premium upgrade for free! You can still purchase it if you want to show your support :-)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Jūs gavote aukštesnės klasės atnaujinimą nemokamai! Jeigu norite išreikšti savo paramą vis dar galite jį įsigyti :-)
 ```
@@ -1730,7 +1730,7 @@ Jūs gavote aukštesnės klasės atnaujinimą nemokamai! Jeigu norite išreikšt
 ```
 Purchase the premium upgrade
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Įsigyti aukštesnės klasės pagerinimą
 ```
@@ -1740,7 +1740,7 @@ translates to:
 ```
 My Google account already has premium access, activate it!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Mano „Google“ paskyra jau turi aukštesnės klasės prieigą, įjunkite ją!
 ```
@@ -1750,7 +1750,7 @@ Mano „Google“ paskyra jau turi aukštesnės klasės prieigą, įjunkite ją!
 ```
 Troubleshooting
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sutrikimų šalinimas
 ```
@@ -1760,7 +1760,7 @@ Sutrikimų šalinimas
 ```
 Open a list of actions to solve possible problems
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Atverti veiksmų sąrašą galimiems sutrikimams išspręsti
 ```
@@ -1770,7 +1770,7 @@ Atverti veiksmų sąrašą galimiems sutrikimams išspręsti
 ```
 Test internet
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Išbandyti interneto ryšį
 ```
@@ -1780,7 +1780,7 @@ Išbandyti interneto ryšį
 ```
 Checks that the app has access to internet
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Patikrina, kad programėlė turėtų prisijungimą prie interneto
 ```
@@ -1790,7 +1790,7 @@ Patikrina, kad programėlė turėtų prisijungimą prie interneto
 ```
 Test file writing
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bandomasis bylos rašymas
 ```
@@ -1800,7 +1800,7 @@ Bandomasis bylos rašymas
 ```
 Checks that the app can save files on the internal SD card
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Patikrina, kad programėlė galėtų saugoti bylas vidinėje SD kortelėje
 ```
@@ -1810,7 +1810,7 @@ Patikrina, kad programėlė galėtų saugoti bylas vidinėje SD kortelėje
 ```
 GP Services (app)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 GP paslaugos (programėlė)
 ```
@@ -1820,7 +1820,7 @@ GP paslaugos (programėlė)
 ```
 Open the details of the currently installed Google Play Services app
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Atverkite papildomą šiuo metu įdiegtos „ Google Play Services“ programėlės informaciją
 ```
@@ -1830,7 +1830,7 @@ Atverkite papildomą šiuo metu įdiegtos „ Google Play Services“ programėl
 ```
 GP Services (store)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 „GP Services“ (parduotuvė)
 ```
@@ -1840,7 +1840,7 @@ translates to:
 ```
 Google Play (app)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 „Google Play“ (programėlė)
 ```
@@ -1850,7 +1850,7 @@ translates to:
 ```
 Contact support
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Susisiekti su aptarnavimo skyriumi
 ```
@@ -1860,7 +1860,7 @@ Susisiekti su aptarnavimo skyriumi
 ```
 Write an email to support with the details of your problem
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Parašykite aptarnavimo skyriui el. laišką, apibūdinantį jūsų problemą.
 ```
@@ -1870,7 +1870,7 @@ Parašykite aptarnavimo skyriui el. laišką, apibūdinantį jūsų problemą.
 ```
 Device network unavailable
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Įrenginio tinklas nepasiekiamas
 ```
@@ -1880,7 +1880,7 @@ translates to:
 ```
 Testing&#8230;
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bandoma&#8230;
 ```
@@ -1890,7 +1890,7 @@ Bandoma&#8230;
 ```
 Network test succeeded
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Tinklo bandymas pavyko
 ```
@@ -1900,7 +1900,7 @@ Tinklo bandymas pavyko
 ```
 Network test failed
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Tinklo bandymas nepavyko
 ```
@@ -1910,7 +1910,7 @@ Tinklo bandymas nepavyko
 ```
 Disk test failed: could not write to internal storage
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Disko bandymas nepavyko: negalima įrašyti į vidinę saugyklą
 ```
@@ -1920,7 +1920,7 @@ Disko bandymas nepavyko: negalima įrašyti į vidinę saugyklą
 ```
 Disk test failed: could not write to external storage
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Disko bandymas nepavyko: įrašyti į išorinę saugyklą nepavyko
 ```
@@ -1930,7 +1930,7 @@ Disko bandymas nepavyko: įrašyti į išorinę saugyklą nepavyko
 ```
 Disk test succeeded
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Disko bandymas pavyko
 ```
@@ -1940,7 +1940,7 @@ Disko bandymas pavyko
 ```
 App failed to start: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Programėlės paleisti nepavyko: %s
 ```
@@ -1950,7 +1950,7 @@ Programėlės paleisti nepavyko: %s
 ```
 The file does not exist
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Byla neegzistuoja
 ```
@@ -1960,7 +1960,7 @@ Byla neegzistuoja
 ```
 Share cloud map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pasidalinti „debesies“ žemėlapiu
 ```
@@ -1970,7 +1970,7 @@ Pasidalinti „debesies“ žemėlapiu
 ```
 Open the cloud map folder to view its properties and share it with other people
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Tam, kad peržiūrėtumėte „debesies“ žemėlapio savybes ir pasidalintumėte juo su kitais žmonėmis, atverkite jo aplanką
 ```
@@ -1980,7 +1980,7 @@ Tam, kad peržiūrėtumėte „debesies“ žemėlapio savybes ir pasidalintumė
 ```
 Internal file to SD
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Vidinę bylą į SD
 ```
@@ -1990,7 +1990,7 @@ Vidinę bylą į SD
 ```
 Copy the app hidden internal files to the sdcard
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nukopijuoti programėlės paslėptas vidines bylas į sdcard
 ```
@@ -2000,7 +2000,7 @@ Nukopijuoti programėlės paslėptas vidines bylas į sdcard
 ```
 Enter destination folder path
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Įveskite paskirties aplanko adresą
 ```
@@ -2010,7 +2010,7 @@ translates to:
 ```
 Could not create folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Aplanko sukurti nepavyko
 ```
@@ -2020,7 +2020,7 @@ Aplanko sukurti nepavyko
 ```
 Files successfully saved to: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Byla sėkmingai išsaugota: %s
 ```
@@ -2030,7 +2030,7 @@ Byla sėkmingai išsaugota: %s
 ```
 View history/Restore
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Peržiūrėti istoriją/Atkurti
 ```
@@ -2040,7 +2040,7 @@ Peržiūrėti istoriją/Atkurti
 ```
 View history of modifications to the cloud folder and select a version to restore to
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Peržiūrėkite „debesų“ aplanko pakeitimus ir pasirinkite versiją, kurią norite atkurti
 ```
@@ -2050,7 +2050,7 @@ Peržiūrėkite „debesų“ aplanko pakeitimus ir pasirinkite versiją, kurią
 ```
 Create map file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sukurti žemėlapio bylą
 ```
@@ -2060,7 +2060,7 @@ Sukurti žemėlapio bylą
 ```
 Create a new map file locally or on the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sukurti naują žemėlapio bylą įrenginyje arba „debesyse“
 ```
@@ -2070,7 +2070,7 @@ Sukurti naują žemėlapio bylą įrenginyje arba „debesyse“
 ```
 Open cloud map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Atverti „debesies“ žemėlapį
 ```
@@ -2080,7 +2080,7 @@ Atverti „debesies“ žemėlapį
 ```
 Open a map file from the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Atverti žemėlapio bylą iš „debesies“
 ```
@@ -2090,7 +2090,7 @@ Atverti žemėlapio bylą iš „debesies“
 ```
 Map Marker needs the permission to access your location in order to display it on the map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Tam, kad jūsų buvimo vieta būtų parodyta žemėlapyje, žemėlapio žymekliui turi būti suteikta prieiga
 ```
@@ -2100,7 +2100,7 @@ Tam, kad jūsų buvimo vieta būtų parodyta žemėlapyje, žemėlapio žymekliu
 ```
 Map Marker needs the permission to access to the storage of your device
 ```
-translates to:
+translated (by human 👀) as:
 ```
 „Map Marker“ reikia leidimo prieigai prie jūsų įrenginio saugyklos
 ```
@@ -2110,7 +2110,7 @@ translates to:
 ```
 Open settings
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Atverti nustatymus
 ```
@@ -2120,7 +2120,7 @@ Atverti nustatymus
 ```
 No map folder found on the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 „Debesyje“ žemėlapių aplankas nerastas
 ```
@@ -2130,7 +2130,7 @@ translates to:
 ```
 Auto sync
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Automatinė sinchronizacija
 ```
@@ -2140,7 +2140,7 @@ Automatinė sinchronizacija
 ```
 Choose a version to restore to
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pasirinkite versiją, kurią norite atkurti
 ```
@@ -2150,7 +2150,7 @@ Pasirinkite versiją, kurią norite atkurti
 ```
 You must sync first before restoring an older version
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Prieš atstatant į senesnę versiją pirma reikia sinchronizuoti
 ```
@@ -2160,7 +2160,7 @@ Prieš atstatant į senesnę versiją pirma reikia sinchronizuoti
 ```
 Are you sure you want to restore this version?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ar tikrai norite atkurti šią versiją?
 ```
@@ -2170,7 +2170,7 @@ Ar tikrai norite atkurti šią versiją?
 ```
 Map Marker lost permissions to write to your cloud account. Sync will always fail until this is fixed. Do you want to fix it now?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 „Map Marker“ neteko leidimo rašyti į jūsų „debesų“ paskyrą. Sinchronizacija nepavyks tol kol tai nebus ištaisyta. Ar norite tai ištaisyti dabar?
 ```
@@ -2180,7 +2180,7 @@ translates to:
 ```
 A sync error occurred. Please try again.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Įvyko sinchronizacijos klaida. Mėginkite dar kartą
 ```
@@ -2190,7 +2190,7 @@ translates to:
 ```
 A sync error occurred: network error. Please try again.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Įvyko sinchronizacijos klaida: tinklo klaida. Mėginkite dar kartą
 ```
@@ -2200,7 +2200,7 @@ translates to:
 ```
 A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Įvyko sinchronizacijos klaida: kolizija, sinchronizaciją tuo pačiu metu vykdė kitas įrenginys. Mėginkite dar kartą
 ```
@@ -2210,7 +2210,7 @@ translates to:
 ```
 Changes are available from the cloud
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pakeitimai yra pasiekiami „debesyje“
 ```
@@ -2220,7 +2220,7 @@ Pakeitimai yra pasiekiami „debesyje“
 ```
 Changes made from another device were synced on the cloud. You can retrieve those changes by syncing.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kitu įrenginiu atlikti pakeitimai buvo sinchronizuoti „debesyje“. Tuos pakeitimus galite gauti atlikę sinchronizaciją
 ```
@@ -2230,7 +2230,7 @@ Kitu įrenginiu atlikti pakeitimai buvo sinchronizuoti „debesyje“. Tuos pake
 ```
 Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for details on how to restore cloud permissions.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nepavyko atkurti „debesies“ saugyklos leidimų. Informacija apie tai kaip atkurti „debesies“ saugyklos leidimus yra pateikiama „Apie“ -> „DUK“.
 ```
@@ -2240,7 +2240,7 @@ Nepavyko atkurti „debesies“ saugyklos leidimų. Informacija apie tai kaip at
 ```
 A sync error occurred: duplicate index, there are at least two files named index.json in the map cloud folder. Remove the duplicates manually and try again.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Įvyko sinchronizacijos klaida: dubliuojasi indeksas, žemėlapio „debesų“ aplanke yra bent dvi bylos pavadinimu index.json. Pašalinkite kopijas rankiniu būdu ir pamėginkite dar kartą.
 ```
@@ -2250,7 +2250,7 @@ translates to:
 ```
 Phone number
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Telefono numeris
 ```
@@ -2260,7 +2260,7 @@ Telefono numeris
 ```
 Edit phone number
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Redaguoti telefono numerį
 ```
@@ -2270,7 +2270,7 @@ Redaguoti telefono numerį
 ```
 Map Marker needs the permission to make calls on your device
 ```
-translates to:
+translated (by human 👀) as:
 ```
 „Map Marker“ reikia leidimo atlikti skambučius iš jūsų įrenginio
 ```
@@ -2280,7 +2280,7 @@ translates to:
 ```
 No phone number is defined for that marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Tam žymekliui nėra nustatytas joks telefono numeris
 ```
@@ -2290,7 +2290,7 @@ Tam žymekliui nėra nustatytas joks telefono numeris
 ```
 Navigation options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Navigacijos parinktys
 ```
@@ -2300,7 +2300,7 @@ Navigacijos parinktys
 ```
 Open the marker location in this app
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Atverti žymeklio padėtį šioje programėlėje
 ```
@@ -2310,7 +2310,7 @@ Atverti žymeklio padėtį šioje programėlėje
 ```
 Open the marker street view in this app
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Atverti žymeklio gatvės vaizdą šioje programėlėje
 ```
@@ -2320,7 +2320,7 @@ Atverti žymeklio gatvės vaizdą šioje programėlėje
 ```
 Enter navigation mode in this app to get directions to the marker
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Atverti šioje programėlėje navigacijos režimą krypties nurodymų į žymeklį gavimui
 ```
@@ -2330,7 +2330,7 @@ Atverti šioje programėlėje navigacijos režimą krypties nurodymų į žymekl
 ```
 Other options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kitos parinktys
 ```
@@ -2340,7 +2340,7 @@ Kitos parinktys
 ```
 Share the selected marker as plain text into another app
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pasidalinti pasirinktu žymekliu kitoje programėlėje kaip paprastu tekstu
 ```
@@ -2350,7 +2350,7 @@ Pasidalinti pasirinktu žymekliu kitoje programėlėje kaip paprastu tekstu
 ```
 %1$d markers in %2$d folders
 ```
-translates to:
+translated (by human 👀) as:
 ```
 %1$d žymeklių %2$d aplankuose
 ```
@@ -2360,7 +2360,7 @@ translates to:
 ```
 A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Įvyko sinchronizacijos klaida: „debesų“ duomenys buvo atnaujinti naujesne programėlės versija. Tam, kad sinchronizuotumėte, turite šiame įrenginyje atnaujinti „Map Marker“.
 ```
@@ -2370,7 +2370,7 @@ translates to:
 ```
 Could not find a phone app on this device.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Telefono programėlė šiame įrenginyje nerasta.
 ```
@@ -2380,7 +2380,7 @@ Telefono programėlė šiame įrenginyje nerasta.
 ```
 Phone number options
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Telefono numerio parinktys
 ```
@@ -2390,7 +2390,7 @@ Telefono numerio parinktys
 ```
 Call phone number
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Skambinti telefono numeriu
 ```
@@ -2400,7 +2400,7 @@ Skambinti telefono numeriu
 ```
 Dial phone number
 ```
-translates to:
+translated (by human 👀) as:
 ```
 RInkti telefono numerį
 ```
@@ -2410,7 +2410,7 @@ RInkti telefono numerį
 ```
 Text phone number
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Išsiųsti telefono numerį pranešimu
 ```
@@ -2420,7 +2420,7 @@ Išsiųsti telefono numerį pranešimu
 ```
 Default navigation action
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Numatytas navigacijos veiksmas
 ```
@@ -2430,7 +2430,7 @@ Numatytas navigacijos veiksmas
 ```
 Default phone action
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Numatytasis telefono veiksmas
 ```
@@ -2440,7 +2440,7 @@ Numatytasis telefono veiksmas
 ```
 Ask
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Paklausti
 ```
@@ -2450,7 +2450,7 @@ Paklausti
 ```
 Premium free trial
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nemokamas aukštesnės klasės bandomasis laikotarpis
 ```
@@ -2460,7 +2460,7 @@ Nemokamas aukštesnės klasės bandomasis laikotarpis
 ```
 What is the premium upgrade?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kas yra aukštesnės klasės pagerinimas?
 ```
@@ -2470,7 +2470,7 @@ Kas yra aukštesnės klasės pagerinimas?
 ```
 Premium free trial started! The trial will expire at the following date: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nemokamas aukštesnės klasės bandomasis laikotarpis prasidėjo! Bandomojo laikotarpio pabaigos data: %s
 ```
@@ -2481,7 +2481,7 @@ Nemokamas aukštesnės klasės bandomasis laikotarpis prasidėjo! Bandomojo laik
 Trial expiration:
 %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bandomasis laikotarpis baigiasi:
 %s
@@ -2492,7 +2492,7 @@ Bandomasis laikotarpis baigiasi:
 ```
 Trial expired
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bandomasis laikotarpis pasibaigė
 ```
@@ -2502,7 +2502,7 @@ Bandomasis laikotarpis pasibaigė
 ```
 Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 SInchronizacija buvo atšaukta: sinchronizacijos atlikimui yra reikalingas aukštesnės klasės pagerinimas.
 ```
@@ -2512,7 +2512,7 @@ SInchronizacija buvo atšaukta: sinchronizacijos atlikimui yra reikalingas aukš
 ```
 Error: trial starting in the future!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Klaida: bandomasis laikotarpis prasideda ateityje!
 ```
@@ -2522,7 +2522,7 @@ Klaida: bandomasis laikotarpis prasideda ateityje!
 ```
 Thank you for your purchase!
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dėkojame, kad pirkote!
 ```
@@ -2532,7 +2532,7 @@ Dėkojame, kad pirkote!
 ```
 Browse
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Naršyti
 ```
@@ -2542,7 +2542,7 @@ Naršyti
 ```
 Organize
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Organizuoti
 ```
@@ -2552,7 +2552,7 @@ Organizuoti
 ```
 Create
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sukurti
 ```
@@ -2562,7 +2562,7 @@ Sukurti
 ```
 Retry
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Mėginti dar kartą
 ```
@@ -2572,7 +2572,7 @@ Mėginti dar kartą
 ```
 Search failed
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Paieška nepavyko
 ```
@@ -2582,7 +2582,7 @@ Paieška nepavyko
 ```
 Search failed, network error
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Paieška nepavyko, tinklo klaida
 ```
@@ -2592,7 +2592,7 @@ Paieška nepavyko, tinklo klaida
 ```
 Details
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Daugiau duomenų
 ```
@@ -2602,7 +2602,7 @@ Daugiau duomenų
 ```
 Sync error
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sinchronizacijos klaida
 ```
@@ -2612,7 +2612,7 @@ Sinchronizacijos klaida
 ```
 The file already exists, do you want to overwrite it?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Byla jau yra, ar norite ją pakeisti?
 ```
@@ -2622,7 +2622,7 @@ Byla jau yra, ar norite ją pakeisti?
 ```
 Copy markers to folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nukopijuoti žymekliu į aplanką
 ```
@@ -2632,7 +2632,7 @@ Nukopijuoti žymekliu į aplanką
 ```
 Error loading the Google Map component. Please restart the app.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Klaida įkeliant „Google Map“ komponentą. Paleiskite programėlę iš naujo.
 ```
@@ -2642,7 +2642,7 @@ Klaida įkeliant „Google Map“ komponentą. Paleiskite programėlę iš naujo
 ```
 You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Čia matysite savo žymeklių sąrašą. Šiuo metu pasirinktame(-uose) aplanke(-uose) žymeklių neturite. Naują žymeklį galite pridėti paspausdami žemiau esantį mygtuką.
 ```
@@ -2652,7 +2652,7 @@ translates to:
 ```
 No search results
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Paieškos rezultatų nėra
 ```
@@ -2662,7 +2662,7 @@ Paieškos rezultatų nėra
 ```
 Open Street Map
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Atverti „Street Map“
 ```
@@ -2672,7 +2672,7 @@ Atverti „Street Map“
 ```
 Bing Road
 ```
-translates to:
+translated (by human 👀) as:
 ```
 „Bing Road“
 ```
@@ -2682,7 +2682,7 @@ translates to:
 ```
 Bing Aerial
 ```
-translates to:
+translated (by human 👀) as:
 ```
 „Bing Aerial“
 ```
@@ -2692,7 +2692,7 @@ translates to:
 ```
 Bing Aerial With Labels
 ```
-translates to:
+translated (by human 👀) as:
 ```
 „Bing Aerial“ su žymomis
 ```
@@ -2702,7 +2702,7 @@ translates to:
 ```
 ArcGIS Server
 ```
-translates to:
+translated (by human 👀) as:
 ```
 „ArcGIS“ tarnybinė stotis
 ```
@@ -2712,7 +2712,7 @@ translates to:
 ```
 Offline maps
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Atjungties režimo žemėlapiai
 ```
@@ -2722,7 +2722,7 @@ Atjungties režimo žemėlapiai
 ```
 No folder selected
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Aplankas nepasirinktas
 ```
@@ -2732,7 +2732,7 @@ Aplankas nepasirinktas
 ```
 Storage folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Saugojimo aplankas
 ```
@@ -2743,7 +2743,7 @@ Saugojimo aplankas
 Test results of the offline maps folder:
 %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Atjungties režimo žemėlapių bandymo rezultatų aplankas:
 %s
@@ -2754,7 +2754,7 @@ Atjungties režimo žemėlapių bandymo rezultatų aplankas:
 ```
 No folder is selected for offline map files. In order to use offline maps, open the settings and select a folder for offline map files.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nepasirinktas joks aplankas atjungties būsenos žemėlapiams. Tam, kad galėtumėte naudoti atjungties būsenos žemėlapius, atverkite nustatymus ir pasirinkite atjungties būsenos žemėlpių bylų aplanką.
 ```
@@ -2764,7 +2764,7 @@ Nepasirinktas joks aplankas atjungties būsenos žemėlapiams. Tam, kad galėtum
 ```
 The selected offline map folder you selected contains no files. Make sure you add the offline map files in that folder before using offline maps, otherwise the map will be empty.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Jūsų pasirinktas atjungties būsenos žemėlapių aplanke nėra bylų. Prieš naudojant atjungties būsenos žemėlapius, nepamirškite į tą katalogą pridėti atjungties būsenos bylų, priešingu atveju žemėlapis bus tuščias.
 ```
@@ -2774,7 +2774,7 @@ Jūsų pasirinktas atjungties būsenos žemėlapių aplanke nėra bylų. Prieš 
 ```
 Success: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pavyko: %s
 ```
@@ -2784,7 +2784,7 @@ Pavyko: %s
 ```
 Failed: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nepavyko: %s
 ```
@@ -2794,7 +2794,7 @@ Nepavyko: %s
 ```
 How to do it?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kaip tą padaryti?
 ```
@@ -2804,7 +2804,7 @@ Kaip tą padaryti?
 ```
 Click here to open the web page explaining how to obtain those maps.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Paspauskite čia tam, kad atvertumėte interneto svetainę, kurioje yra paaiškinama kaip tuos žemėlapius gauti.
 ```
@@ -2814,7 +2814,7 @@ Paspauskite čia tam, kad atvertumėte interneto svetainę, kurioje yra paaiški
 ```
 Credits
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kreditai
 ```
@@ -2824,7 +2824,7 @@ Kreditai
 ```
 Copyright and legal mentions
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Autorinės teisės ir teisiniai paminėjimai
 ```
@@ -2836,7 +2836,7 @@ Legal mentions for other map data than Google Maps:
 
 %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Teisėti kitų žemėlapio duomenų paminėjimai „Google Maps“:
 
@@ -2848,7 +2848,7 @@ Teisėti kitų žemėlapio duomenų paminėjimai „Google Maps“:
 ```
 Disable error file dump
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Išjungti klaidos bylos atminties išklotinę
 ```
@@ -2858,7 +2858,7 @@ Išjungti klaidos bylos atminties išklotinę
 ```
 Disable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Išjungti programėlės klaidų rašymą į SD kortelės bylą
 ```
@@ -2868,7 +2868,7 @@ Išjungti programėlės klaidų rašymą į SD kortelės bylą
 ```
 Enable error file dump
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Įjungti klaidos bylos atminties išklotinę
 ```
@@ -2878,7 +2878,7 @@ translates to:
 ```
 Enable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Leisti rašyti programėlės klaidas į bylą SD kortelėje
 ```
@@ -2888,7 +2888,7 @@ Leisti rašyti programėlės klaidas į bylą SD kortelėje
 ```
 Start background sync…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pradėti sinchronizaciją fone…
 ```
@@ -2898,7 +2898,7 @@ Pradėti sinchronizaciją fone…
 ```
 Never
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Niekada
 ```
@@ -2908,7 +2908,7 @@ Niekada
 ```
 When app enters background
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Programėlei ėmus veikti fone
 ```
@@ -2918,7 +2918,7 @@ Programėlei ėmus veikti fone
 ```
 %d seconds after the app enters background
 ```
-translates to:
+translated (by human 👀) as:
 ```
 %d sekundžių po to, kai programėlė ima veikti fone
 ```
@@ -2928,7 +2928,7 @@ translates to:
 ```
 %d minutes after the app enters background
 ```
-translates to:
+translated (by human 👀) as:
 ```
 %d minučių po to kai programėlė pradeda veikti fone
 ```
@@ -2938,7 +2938,7 @@ translates to:
 ```
 Sync starting in %d seconds
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sinchronizacija prasidės po %d sekundžių
 ```
@@ -2948,7 +2948,7 @@ Sinchronizacija prasidės po %d sekundžių
 ```
 You can cancel the sync at any time and your data will be synced on next attempt.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sinchronizaciją galite nutraukti bet kuriuo metu ir jūsų duomenys bus sinchronizuoti kito mėginimo metu.
 ```
@@ -2958,7 +2958,7 @@ Sinchronizaciją galite nutraukti bet kuriuo metu ir jūsų duomenys bus sinchro
 ```
 Press back again to exit
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Tam, kad užvertumėte paspauskite dar kartą
 ```
@@ -2968,7 +2968,7 @@ Tam, kad užvertumėte paspauskite dar kartą
 ```
 Cannot start sync with no internet access on the device.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sinchronizacija negalima įrenginiui neturint interneto ryšio.
 ```
@@ -2978,7 +2978,7 @@ Sinchronizacija negalima įrenginiui neturint interneto ryšio.
 ```
 Manage map files
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Tvarkyti žemėlapio bylas
 ```
@@ -2988,7 +2988,7 @@ Tvarkyti žemėlapio bylas
 ```
 Map files
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Žemėlapio bylos
 ```
@@ -2998,7 +2998,7 @@ translates to:
 ```
 Delete map file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pašalinti žemėlapio bylą
 ```
@@ -3008,7 +3008,7 @@ Pašalinti žemėlapio bylą
 ```
 This action will delete the map file from this device
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Šis veiksmas pašalins žemėlapio bylas iš šio įrenginio
 ```
@@ -3018,7 +3018,7 @@ translates to:
 ```
 This action will delete the map file from your device forever. All the markers inside that file will be lost. Are you sure?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Šis veiksmas pašalins žemėlapio bylą iš jūsų įrenginio visam laikui. Visi byloje esantys žymekliai bus prarasti. Ar tikrai?
 ```
@@ -3028,7 +3028,7 @@ translates to:
 ```
 This action will delete the map file from your device forever. All changes not yet synced to the cloud will be lost. The cloud folder will not be affected by this action and you will have to delete it manually. Are you sure?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Šis veiksmas pašalins žemėlapio bylą iš jūsų įrenginio visam laikui. Visi pakeitimai, kurie dar nėra sinchronizuoti su „debesimi“ bus prarasti. „Debesų“ aplanko šie veiksmai nepaveiks ir jums reikės jį pašalinti rankiniu būdu. Ar tikrai?
 ```
@@ -3038,7 +3038,7 @@ translates to:
 ```
 Map file successfully deleted
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Žemėlapio byla pašalinta sėkmingai
 ```
@@ -3048,7 +3048,7 @@ translates to:
 ```
 Could not delete map file: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Žemėlapio bylos pašalinti nepavyko: %s
 ```
@@ -3058,7 +3058,7 @@ translates to:
 ```
 Marker saved in a non visible folder
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Žymeklis išsaugotas paslėptame aplanke
 ```
@@ -3068,7 +3068,7 @@ translates to:
 ```
 Your changes have not been synced recently. Make sure you keep your cloud copy up to date. Do you want to sync now?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Jūsų pakeitimai pastaruoju metu nebuvo sinchronizuoti. Įsitikinkite, kad jūsų „debesų“ kopija yra atnaujinta. Ar norite sinchronizuoti dabar?
 ```
@@ -3078,7 +3078,7 @@ Jūsų pakeitimai pastaruoju metu nebuvo sinchronizuoti. Įsitikinkite, kad jūs
 ```
 The markers of this map file are currently only saved on this device. It is recommended to save your markers on the cloud to avoid losing them. Do you want to save them to the cloud now?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Šio žemėlapio žymekliai šiuo metu yra išsaugoti tik šiame įrenginyje. Tam, kad neprarastumėte savo žymeklių, rekomenduojama išsaugoti juos „debesyje“. Ar norite išsaugoti juos į „debesį“ dabar?
 ```
@@ -3088,7 +3088,7 @@ translates to:
 ```
 Do you want to sync this map file? With manual you will need to sync manually every time. With automatic (recommended) you will select a destination cloud folder and the sync to the cloud will start automatically every time the app enters background.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ar norite sinchronizuoti šią žemėlapio bylą? Esant rankiniam, kiekvieną kartą reikės sinchronizuoti rankiniu būdu. Esant automatinei (rekomenduojama) pasirinksite „debesų“ aplanką ir sinchronizacija į „debesis“ bus atliekama automatiškai kiekvieną kartą kai programėlė ima veikti fone.
 ```
@@ -3098,7 +3098,7 @@ Ar norite sinchronizuoti šią žemėlapio bylą? Esant rankiniam, kiekvieną ka
 ```
 Automatic
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Automatinis
 ```
@@ -3108,7 +3108,7 @@ Automatinis
 ```
 Manual
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Rankinis
 ```
@@ -3118,7 +3118,7 @@ Rankinis
 ```
 You can sync a map file on the cloud at any time by clicking on the map file in the side bar and then choosing the "Cloud sync" option.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Žemėlapį debesyse galite sinchronizuoti bet kuriuo metu paspausdami žemėlapio bylą šoninėje juostoje ir pasirinkdami parinktį \„Debesų sinchronizacija\“.
 ```
@@ -3128,7 +3128,7 @@ translates to:
 ```
 You can sync a map file manually to the cloud at any time by clicking the "share" button in the main action bar, and then "Other options" and then "All markers and folders" and then by selecting your favorite cloud storage app.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Žemėlapio bylą bet kuriuo metu galite sinchronizuoti rankiniu būdu į „debesis“ paspausdami pagrindinėje funkcijų juostoje esantį mygtuką \„dalintis\“, tada \„Kitos parinktys\“, \„Visi žymekliai ir aplankai\“ ir pasirinkdami savo pamėgtąją „debesų“ saugyklos programėlę.
 ```
@@ -3138,7 +3138,7 @@ translates to:
 ```
 Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Taškų padėjimui pastumdykite žemėlapį aplink, taško pridėjimui paspauskite „+“, taško nuėmimui paspauskite „-“ taškai keičiami mygtukais ankstesnis/kitas. Pabaigai tam, kad išsaugotumėte formą, paspauskite „išsaugoti“.
 ```
@@ -3148,7 +3148,7 @@ Taškų padėjimui pastumdykite žemėlapį aplink, taško pridėjimui paspauski
 ```
 There are not enough points to create the shape. Create more points and try again.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Formos sukūrimui nepakanka taškų. Sukurkite daugiau taškų ir mėginkite dar kartą.
 ```
@@ -3158,7 +3158,7 @@ Formos sukūrimui nepakanka taškų. Sukurkite daugiau taškų ir mėginkite dar
 ```
 Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn\'t work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by email (side panel -> about -> send email).
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Aukštesnės klasės pagerinimo įjungti iš jūsų „Google“ paskyros nepavyko. Jeigu neseniai įsigijote aukštesnės klasės pagerinimą iš kito įrenginio, gali reikėti truputį palaukti kol pirkinys aktyvuosis, jūsų įrenginio paleidimas iš naujo gali tai paspartinti. Jeigu jis vis dar neveikia, įsitikinkite, kad jį įsigijote, įdiegėte programėlę ir jį aktyvavote ta pačia „Google“ paskyra. Jeigu problema išlieka, padėsiu jums kaip galėsiu, galite su manimi susisiekti el. paštu (šoniniame skydelyje -> apie -> siųsti el. laišką).
 ```
@@ -3168,7 +3168,7 @@ Aukštesnės klasės pagerinimo įjungti iš jūsų „Google“ paskyros nepavy
 ```
 Distance: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Atstumas: %s
 ```
@@ -3179,7 +3179,7 @@ Atstumas: %s
 Perimeter: %1$s
 Area: %2$s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Perimetras: %1$s
 Plotas: %2$s
@@ -3190,7 +3190,7 @@ Plotas: %2$s
 ```
 Extra information
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Papildoma informacija
 ```
@@ -3200,7 +3200,7 @@ Papildoma informacija
 ```
 Insert…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Įdėti…
 ```
@@ -3210,7 +3210,7 @@ translates to:
 ```
 Replace title
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pakeisti pavadinimą
 ```
@@ -3220,7 +3220,7 @@ Pakeisti pavadinimą
 ```
 Replace description
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pakeisti aprašą
 ```
@@ -3230,7 +3230,7 @@ Pakeisti aprašą
 ```
 Unit of distance
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Atstumo matavimo vienetas
 ```
@@ -3240,7 +3240,7 @@ Atstumo matavimo vienetas
 ```
 Unit of area
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Ploto vienetas
 ```
@@ -3250,7 +3250,7 @@ Ploto vienetas
 ```
 Metric (%s)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Metrinė (%s)
 ```
@@ -3260,7 +3260,7 @@ Metrinė (%s)
 ```
 Imperial (%s)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Imperiniai (%s)
 ```
@@ -3270,7 +3270,7 @@ Imperiniai (%s)
 ```
 Images
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Atvaizdai
 ```
@@ -3280,7 +3280,7 @@ Atvaizdai
 ```
 Select image
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pasirinkti atvaizdą
 ```
@@ -3290,7 +3290,7 @@ Pasirinkti atvaizdą
 ```
 Imported images
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Importuoti atvaizdai
 ```
@@ -3300,7 +3300,7 @@ Importuoti atvaizdai
 ```
 Fit in a %1$sx%2$s square
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Patalpinti %1$sx%2$s kvadrate
 ```
@@ -3310,7 +3310,7 @@ Patalpinti %1$sx%2$s kvadrate
 ```
 Full quality
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pilna kokybė
 ```
@@ -3320,7 +3320,7 @@ Pilna kokybė
 ```
 Mobile data
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Mobilūs duomenys
 ```
@@ -3330,7 +3330,7 @@ Mobilūs duomenys
 ```
 Wifi
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Belaidis ryšys
 ```
@@ -3340,7 +3340,7 @@ Belaidis ryšys
 ```
 Disabled
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Išjungta
 ```
@@ -3350,7 +3350,7 @@ Išjungta
 ```
 Up to %s per sync
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Iki %s sinchronizacijai
 ```
@@ -3360,7 +3360,7 @@ Iki %s sinchronizacijai
 ```
 Unlimited
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Neribota
 ```
@@ -3370,7 +3370,7 @@ Neribota
 ```
 The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings. You can also click "force sync" to sync just one time without data volume limit.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sinchronizacija buvo nutraukta, kadangi ji viršijo leistiną duomenų kiekio apribojimą. Apribojimo padidinimui ar pakeitimui atverkite nustatymus. Taip pat galite paspausti \„sinchronizuoti priverstinai\“ sinchronizavimui vieną kartą be duomenų kiekio apribojimo.
 ```
@@ -3380,7 +3380,7 @@ Sinchronizacija buvo nutraukta, kadangi ji viršijo leistiną duomenų kiekio ap
 ```
 Force sync
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Priverstinė sinchronizacija
 ```
@@ -3390,7 +3390,7 @@ Priverstinė sinchronizacija
 ```
 This will override the usual data limit just for this one time. Force sync?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Tai išjungs įprastinį duomenų sunaudojimo apribojimą, tačiau tik šiam kartui. Sinchronizuoti priverstinai?
 ```
@@ -3400,7 +3400,7 @@ Tai išjungs įprastinį duomenų sunaudojimo apribojimą, tačiau tik šiam kar
 ```
 Retry
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Mėginti dar kartą
 ```
@@ -3410,7 +3410,7 @@ Mėginti dar kartą
 ```
 Add image
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pridėti atvaizdą
 ```
@@ -3420,7 +3420,7 @@ Pridėti atvaizdą
 ```
 From camera
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Iš kameros
 ```
@@ -3430,7 +3430,7 @@ Iš kameros
 ```
 From gallery
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Iš galerijos
 ```
@@ -3440,7 +3440,7 @@ Iš galerijos
 ```
 Importing image…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Atvaizdas importuojamas…
 ```
@@ -3450,7 +3450,7 @@ Atvaizdas importuojamas…
 ```
 Offline (Mapsforge BETA)
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Atjungties būsena („Mapsforge BETA“)
 ```
@@ -3460,7 +3460,7 @@ Atjungties būsena („Mapsforge BETA“)
 ```
 Exporting…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Eksportuojama…
 ```
@@ -3470,7 +3470,7 @@ Eksportuojama…
 ```
 Export failed
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Eksportuoti nepavyko
 ```
@@ -3480,7 +3480,7 @@ Eksportuoti nepavyko
 ```
 Export succeeded
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Eksportavimas pavyko
 ```
@@ -3490,7 +3490,7 @@ Eksportavimas pavyko
 ```
 KMZ
 ```
-translates to:
+translated (by human 👀) as:
 ```
 KMZ
 ```
@@ -3500,7 +3500,7 @@ KMZ
 ```
 KML
 ```
-translates to:
+translated (by human 👀) as:
 ```
 KML
 ```
@@ -3510,7 +3510,7 @@ KML
 ```
 Importing file…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Byla importuojama…
 ```
@@ -3520,7 +3520,7 @@ Byla importuojama…
 ```
 Show warning icon for sync
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Rodyti įspėjimo piktogramą sinchronizacijai
 ```
@@ -3530,7 +3530,7 @@ Rodyti įspėjimo piktogramą sinchronizacijai
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sinchronizacija buvo nutraukta, nes „debesyje“ trūko vienos iš daugialypės terpės bylų. Galite nekreipti dėmesio į trūkstamas bylas paspausdami \sinchronizuoti priverstinai\“. Dėmesio trūkstamų bylų ignoravimas lems jų pašalinimą iš duomenų bazės, tai reiškia, kad kiti įrenginiai, kuriuose vis dar yra vietinė bylos kopija ją pašalins sinchronizacijos metu.“
 ```
@@ -3540,7 +3540,7 @@ Sinchronizacija buvo nutraukta, nes „debesyje“ trūko vienos iš daugialypė
 ```
 This will force the sync and ignore the missing cloud files. The missing links will be removed from the database. Other devices still owning a local version of the missing cloud files will delete them upon their next sync. Data consumption limits will be ignored for this special sync. Force Sync?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Tai atliks priverstinę sinchronizaciją ir nekreips dėmesio į trūkstamas „debesies“ bylas. Trūkstamos nuorodos iš duomenų bazės bus pašalintos. Kiti įrenginiai, kuriuose vis dar yra vietinė trūkstamų „debesų“ bylų versija, kitos savo sinchronizacijos atlikimo metu juos pašalins. Šios specialios sinchronizacijos metu į duomenų suvartojimo apribojimus atsižvelgiama nebus Sinchronizuoti priverstinai?
 ```
@@ -3550,7 +3550,7 @@ Tai atliks priverstinę sinchronizaciją ir nekreips dėmesio į trūkstamas „
 ```
 Marker media files ignored on import: %1$d
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Importuojant žymeklio daugialypės terpės objektai ignoruoti: %1$d
 ```
@@ -3560,7 +3560,7 @@ Importuojant žymeklio daugialypės terpės objektai ignoruoti: %1$d
 ```
 Checking premium status…
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Tikrinama aukštesnės klasės būsena…
 ```
@@ -3570,7 +3570,7 @@ Tikrinama aukštesnės klasės būsena…
 ```
 General
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bendras
 ```
@@ -3580,7 +3580,7 @@ Bendras
 ```
 Toilets
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Tualetai
 ```
@@ -3590,7 +3590,7 @@ Tualetai
 ```
 Food
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Maistas
 ```
@@ -3600,7 +3600,7 @@ Maistas
 ```
 Stores
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Parduotuvės
 ```
@@ -3610,7 +3610,7 @@ Parduotuvės
 ```
 Land activities
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sausumos veikla
 ```
@@ -3620,7 +3620,7 @@ Sausumos veikla
 ```
 Water activies
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Veikla vandenyje
 ```
@@ -3630,7 +3630,7 @@ Veikla vandenyje
 ```
 Winter activies
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Žiemos veikla
 ```
@@ -3640,7 +3640,7 @@ translates to:
 ```
 Transport
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Transportas
 ```
@@ -3650,7 +3650,7 @@ Transportas
 ```
 Health
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Sveikata
 ```
@@ -3660,7 +3660,7 @@ Sveikata
 ```
 Entertainment
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pramogos
 ```
@@ -3670,7 +3670,7 @@ Pramogos
 ```
 Services
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Paslaugos
 ```
@@ -3680,7 +3680,7 @@ Paslaugos
 ```
 Business
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Verslas
 ```
@@ -3690,7 +3690,7 @@ Verslas
 ```
 Government
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Valdžia
 ```
@@ -3700,7 +3700,7 @@ Valdžia
 ```
 Religious
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Religija
 ```
@@ -3710,7 +3710,7 @@ Religija
 ```
 Accessibility
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pasiekiamumas
 ```
@@ -3720,7 +3720,7 @@ Pasiekiamumas
 ```
 Select icon
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pasirinkti piktogramą
 ```
@@ -3730,7 +3730,7 @@ Pasirinkti piktogramą
 ```
 Icon and color
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Piktograma ir spalva
 ```
@@ -3740,7 +3740,7 @@ Piktograma ir spalva
 ```
 Generic
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Bendrasis
 ```
@@ -3750,7 +3750,7 @@ Bendrasis
 ```
 Beta tester badge: thank you for being a beta tester! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Beta bandytojo ženklelis: dėkojame, kad esate beta bandytojas! Šis ženkliukas išnyks tik pašalinus programėlę arba išvalius programėlės duomenis. Šis ženkliukas jums taip pat leidžia programėlėje neturėti reklamos.
 ```
@@ -3760,7 +3760,7 @@ Beta bandytojo ženklelis: dėkojame, kad esate beta bandytojas! Šis ženkliuka
 ```
 Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Rekomendacijos ženkliukas: dėkojame, kad pakvietėte draugus naudotis programėle! Šis ženkliukas išnyks tik pašalinus programėlę arba išvalius programėlės duomenis. Šis ženkliukas jums taip pat leidžia programėlėje neturėti reklamos.
 ```
@@ -3770,7 +3770,7 @@ Rekomendacijos ženkliukas: dėkojame, kad pakvietėte draugus naudotis program�
 ```
 Referral
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Rekomendacija
 ```
@@ -3780,7 +3780,7 @@ Rekomendacija
 ```
 Removing ads: exchange referrals credits with friends to remove ads
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Reklamų pašalinimas: tam, kad pašalintumėte reklamas keiskitės rekomendacijų kreditais su draugais
 ```
@@ -3790,7 +3790,7 @@ Reklamų pašalinimas: tam, kad pašalintumėte reklamas keiskitės rekomendacij
 ```
 Sent credits: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Siųsti kreditus: %s
 ```
@@ -3800,7 +3800,7 @@ Siųsti kreditus: %s
 ```
 Received credits: %s
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Gauti kreditai: %s
 ```
@@ -3810,7 +3810,7 @@ Gauti kreditai: %s
 ```
 Contribute to translations
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Prisidėti prie transliacijų
 ```
@@ -3820,7 +3820,7 @@ Prisidėti prie transliacijų
 ```
 You understand English and want to help with translations? Click here
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Jūs mokate anglų kalbą ir norite padėti su vertimais? Paspauskite čia
 ```
@@ -3830,7 +3830,7 @@ Jūs mokate anglų kalbą ir norite padėti su vertimais? Paspauskite čia
 ```
 The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Paskirties aplanko spalva ar piktograma skiriasi Ar norite atnaujinti žymeklio spalvą ir piktogramą?
 ```
@@ -3840,7 +3840,7 @@ Paskirties aplanko spalva ar piktograma skiriasi Ar norite atnaujinti žymeklio 
 ```
 Add color
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pridėti spalvą
 ```
@@ -3850,7 +3850,7 @@ Pridėti spalvą
 ```
 <![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
 ```
-translates to:
+translated (by human 👀) as:
 ```
 <![CDATA[<html><body><b>Kas yra aukštesnės klasės pagerinimas?</b><br>Aukštesnės klasės pagerinimas ne tik pašalina reklamas, tačiau ir atrakina šias aukštesnės klasės išskirtines funkcijas:<br>&bull; Sinchronizacija su „Google Drive“ arba „Dropbox“<br>&bull; Bendradarbiavimas per „Google Drive“ ar „Dropbox“<br>&bull; Žemėlapio versijų istorija ir atkūrimas<br></body></html>]]>
 ```
@@ -3860,7 +3860,7 @@ translates to:
 ```
 Marker created from the geo location of the QR code
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Žymeklis sukurtas iš QR kodo geografinės vietos
 ```
@@ -3870,7 +3870,7 @@ translates to:
 ```
 Failed to read QR code as a geo location
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nepavyko nuskaityti QR kodo kaip geografinės vietos
 ```
@@ -3880,7 +3880,7 @@ Nepavyko nuskaityti QR kodo kaip geografinės vietos
 ```
 The app for scanning QR codes could not be found. Do you want to install it?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Nerasta QR kodų skenavimo programėlė. Ar norite ją įdiegti?
 ```
@@ -3890,7 +3890,7 @@ Nerasta QR kodų skenavimo programėlė. Ar norite ją įdiegti?
 ```
 Selection action
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pasirinkimo veiksmai
 ```
@@ -3900,7 +3900,7 @@ Pasirinkimo veiksmai
 ```
 Move to left
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pastumti į kairę
 ```
@@ -3910,7 +3910,7 @@ Pastumti į kairę
 ```
 Move to right
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pastumti į dešinę
 ```
@@ -3920,7 +3920,7 @@ Pastumti į dešinę
 ```
 Rotate to left
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pasukti į kairę
 ```
@@ -3930,7 +3930,7 @@ Pasukti į kairę
 ```
 Rotate to right
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pasukti į dešinę
 ```
@@ -3940,7 +3940,7 @@ Pasukti į dešinę
 ```
 Delete image
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pašalinti atvaizdą
 ```
@@ -3950,7 +3950,7 @@ Pašalinti atvaizdą
 ```
 From local file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Iš vietinės bylos
 ```
@@ -3960,7 +3960,7 @@ Iš vietinės bylos
 ```
 What format to you want to use to export?
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Kokį formatą norite naudoti eksportavimui?
 ```
@@ -3970,7 +3970,7 @@ Kokį formatą norite naudoti eksportavimui?
 ```
 The data to export contains media(images) that cannot be included with this export format. The data will be exported without the media. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Eksportuojamuose duomenyse yra daugialypės terpės objektų (atvaizdų), kurie negali būti įtraukti į šį eksportuojamą formatą. Duomenys bus eksportuojami be daugialypės terpės. Norėdami eksportuoti viską, pasirinkite KMZ eksportavimo formatą.
 ```
@@ -3980,7 +3980,7 @@ Eksportuojamuose duomenyse yra daugialypės terpės objektų (atvaizdų), kurie 
 ```
 Standard Google Earth format. Cannot contain media.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Įprastinis „Google Earth“ formatas. Negali būti daugialypės terpės objektų.
 ```
@@ -3990,7 +3990,7 @@ translates to:
 ```
 Zip Google Earth format. Can contain media.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 „Zip Google Earth“ formatas. Gali turėti daugialypę terpę.
 ```
@@ -4000,7 +4000,7 @@ translates to:
 ```
 Standard text spreadsheet format. Cannot contain media. Cannot contain lines or polygons.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Įprastinis tekstinės lentelės formatas. Negali būti daugialypės terpės objektų. Negali būti linijų ar daugiakampių
 ```
@@ -4010,7 +4010,7 @@ translates to:
 ```
 Marker as plain text
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Žymeklis kaip paprastas tekstas
 ```
@@ -4020,7 +4020,7 @@ translates to:
 ```
 Marker as file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Žymeklis kaip byla
 ```
@@ -4030,7 +4030,7 @@ translates to:
 ```
 Share the selected marker as a file into another app
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Pasidalinti pasirinktu žymekliu kaip byla su kita programėle
 ```
@@ -4040,7 +4040,7 @@ Pasidalinti pasirinktu žymekliu kaip byla su kita programėle
 ```
 Share as file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Dalintis kaip byla
 ```
@@ -4050,7 +4050,7 @@ Dalintis kaip byla
 ```
 Export to a local file
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Eksportuoti vietinę bylą
 ```
@@ -4060,7 +4060,7 @@ Eksportuoti vietinę bylą
 ```
 Import or export markers as files
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Importuoti arba eksportuoti žymeklius kaip bylas
 ```
@@ -4070,7 +4070,7 @@ Importuoti arba eksportuoti žymeklius kaip bylas
 ```
 The data to export contains complex markers (lines or polygons) that cannot be included with this export format. The data will be exported without those markers. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by human 👀) as:
 ```
 Eksportuojamuose duomenyse yra sudėtingi žymekliai (linijos ar daugiakampiai), kurie negali būti įtraukti į šį eksportuojamą formatą. Duomenys bus eksportuojami be tų žymeklių. Norėdami eksportuoti viską, pasirinkite KMZ eksportavimo formatą.
 ```
@@ -4080,7 +4080,7 @@ Eksportuojamuose duomenyse yra sudėtingi žymekliai (linijos ar daugiakampiai),
 ```
 Add custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pridėti tinkintą laukelį
 ```
@@ -4090,7 +4090,7 @@ Pridėti tinkintą laukelį
 ```
 Information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Informacija
 ```
@@ -4100,7 +4100,7 @@ Informacija
 ```
 Custom fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tinkinti laukeliai
 ```
@@ -4110,7 +4110,7 @@ Tinkinti laukeliai
 ```
 Field name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Laukelio pavadinimas
 ```
@@ -4120,7 +4120,7 @@ Laukelio pavadinimas
 ```
 Delete field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ištrinti laukelį
 ```
@@ -4130,7 +4130,7 @@ Ištrinti laukelį
 ```
 Attributes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atributai
 ```
@@ -4140,7 +4140,7 @@ Atributai
 ```
 New custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Naujas tinkintas laukelis
 ```
@@ -4150,7 +4150,7 @@ Naujas tinkintas laukelis
 ```
 Modify custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Modifikuoti tinkintą laukelį
 ```
@@ -4160,7 +4160,7 @@ Modifikuoti tinkintą laukelį
 ```
 Field enabled. For folders, if enabled, that field will be added automatically to children POIs on creation. For POIs, if enabled, that field will be visible in the details page.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Laukelis įgalintas. Aplankams, jei įgalintas, šis laukelis bus pridėtas automatiškai prie vaikų POI jį sukuriant. POI, jei įgalinti, šis laukelis bus matomas išsamios informacijos puslapyje.
 ```
@@ -4170,7 +4170,7 @@ Laukelis įgalintas. Aplankams, jei įgalintas, šis laukelis bus pridėtas auto
 ```
 Field info
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Laukelio informacija
 ```
@@ -4180,7 +4180,7 @@ Laukelio informacija
 ```
 Select field type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pasirinkite laukelio tipą
 ```
@@ -4190,7 +4190,7 @@ Pasirinkite laukelio tipą
 ```
 Boolean (True or False)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 „Boolean“ (tiesa ar netiesa)
 ```
@@ -4200,7 +4200,7 @@ translates to:
 ```
 Default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Numatytoji reikšmė
 ```
@@ -4210,7 +4210,7 @@ Numatytoji reikšmė
 ```
 Date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Data
 ```
@@ -4220,7 +4220,7 @@ Data
 ```
 Email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 El. paštas
 ```
@@ -4230,7 +4230,7 @@ El. paštas
 ```
 Text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tekstas
 ```
@@ -4240,7 +4240,7 @@ Tekstas
 ```
 Multiple choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Keli variantai
 ```
@@ -4250,7 +4250,7 @@ Keli variantai
 ```
 Add choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pridėti variantą
 ```
@@ -4260,7 +4260,7 @@ Pridėti variantą
 ```
 Duplicates are not allowed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dublikatai neleidžiami
 ```
@@ -4270,7 +4270,7 @@ Dublikatai neleidžiami
 ```
 Phone
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Telefonas
 ```
@@ -4280,7 +4280,7 @@ Telefonas
 ```
 Web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Internetinė nuoroda
 ```
@@ -4290,7 +4290,7 @@ Internetinė nuoroda
 ```
 Choices list
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pasirinkimų sąrašas
 ```
@@ -4300,7 +4300,7 @@ Pasirinkimų sąrašas
 ```
 Select default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pasirinkti numatytąją reikšmę
 ```
@@ -4310,7 +4310,7 @@ Pasirinkti numatytąją reikšmę
 ```
 Creation date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sukūrimo data
 ```
@@ -4320,7 +4320,7 @@ Sukūrimo data
 ```
 POI Options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 POI parinktys
 ```
@@ -4330,7 +4330,7 @@ POI parinktys
 ```
 Delete POI
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ištrinti POI
 ```
@@ -4340,7 +4340,7 @@ Ištrinti POI
 ```
 Select value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pasirinkti reikšmę
 ```
@@ -4350,7 +4350,7 @@ Pasirinkti reikšmę
 ```
 Used by folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Naudojama aplankų
 ```
@@ -4360,7 +4360,7 @@ Naudojama aplankų
 ```
 Edit field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Redaguoti laukelį
 ```
@@ -4370,7 +4370,7 @@ Redaguoti laukelį
 ```
 Add folder field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pridėti aplanko laukelį
 ```
@@ -4380,7 +4380,7 @@ Pridėti aplanko laukelį
 ```
 Reorder fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Keisti laukelių tvarką
 ```
@@ -4390,7 +4390,7 @@ Keisti laukelių tvarką
 ```
 Pick the fields you want to apply to this folder\'s POIs
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pasirinkite laukelius, kuriuos norite taikyti šio aplanko POI.
 ```
@@ -4400,7 +4400,7 @@ Pasirinkite laukelius, kuriuos norite taikyti šio aplanko POI.
 ```
 The destination folder has different field values. Pick the fields you want to apply to moved POIs.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Paskirties aplanke yra kitokios laukelių reikšmės. Pasirinkite laukelius, kuriuos norite taikyti perkeltiems POI.
 ```
@@ -4410,7 +4410,7 @@ Paskirties aplanke yra kitokios laukelių reikšmės. Pasirinkite laukelius, kur
 ```
 Update color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atnaujinti spalvą
 ```
@@ -4420,7 +4420,7 @@ Atnaujinti spalvą
 ```
 Update pin icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atnaujinti segtuko piktogramą
 ```
@@ -4430,7 +4430,7 @@ Atnaujinti segtuko piktogramą
 ```
 Add field if missing: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jei trūksta, pridėti laukelį: %s
 ```
@@ -4440,7 +4440,7 @@ Jei trūksta, pridėti laukelį: %s
 ```
 Remove field if present: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jei yra, pašalinti laukelį: %s
 ```
@@ -4450,7 +4450,7 @@ Jei yra, pašalinti laukelį: %s
 ```
 Update field name if different: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jei skiriasi, atnaujinti laukelio pavadinimą: %s
 ```
@@ -4460,7 +4460,7 @@ Jei skiriasi, atnaujinti laukelio pavadinimą: %s
 ```
 More options…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Daugiau parinkčių…
 ```
@@ -4470,7 +4470,7 @@ Daugiau parinkčių…
 ```
 Folder options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aplanko parinktys
 ```
@@ -4480,7 +4480,7 @@ Aplanko parinktys
 ```
 Edit email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Redaguoti el. paštą
 ```
@@ -4490,7 +4490,7 @@ Redaguoti el. paštą
 ```
 Edit web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Redaguoti internetinę nuorodą
 ```
@@ -4500,7 +4500,7 @@ Redaguoti internetinę nuorodą
 ```
 Decimal accuracy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dešimtainis tikslumas
 ```
@@ -4510,7 +4510,7 @@ Dešimtainis tikslumas
 ```
 Details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Informacija nukopijuota į iškarpinę
 ```
@@ -4520,7 +4520,7 @@ Informacija nukopijuota į iškarpinę
 ```
 Copy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kopijuoti
 ```
@@ -4530,7 +4530,7 @@ Kopijuoti
 ```
 Do you want to click here? ^‿^
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ar norite paspausti čia? ^‿^
 ```
@@ -4558,7 +4558,7 @@ And finally, thank you for reading this :-)
 Regards
 Sébastien
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sveiki, dėkoju už jūsų smalsumą!
 
@@ -4586,7 +4586,7 @@ Sébastien
 ```
 Normal with indoor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Normalu patalpoje
 ```
@@ -4596,7 +4596,7 @@ Normalu patalpoje
 ```
 Floating marker titles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Judantys žymeklio pavadinimai
 ```
@@ -4606,7 +4606,7 @@ Judantys žymeklio pavadinimai
 ```
 Maximum number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Maksimalus skaičius
 ```
@@ -4616,7 +4616,7 @@ Maksimalus skaičius
 ```
 Text size
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Teksto dydis
 ```
@@ -4626,7 +4626,7 @@ Teksto dydis
 ```
 Search failed => %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Paieška nepavyko => %s
 ```
@@ -4636,7 +4636,7 @@ Paieška nepavyko => %s
 ```
 API key tutorial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 API key pamoka
 ```
@@ -4646,7 +4646,7 @@ API key pamoka
 ```
 Click here to see details on how to obtain an API key for your account.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Spustelėkite čia, jei norite pamatyti išsamesnės informacijos apie tai, kaip gauti API key sąskaitą.
 ```
@@ -4656,7 +4656,7 @@ Spustelėkite čia, jei norite pamatyti išsamesnės informacijos apie tai, kaip
 ```
 Personal API key
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Asmeninis API key
 ```
@@ -4666,7 +4666,7 @@ Asmeninis API key
 ```
 None
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nė vienas
 ```
@@ -4678,7 +4678,7 @@ You can search for places with "Google Places API". This search requires an inte
 
 You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Galite ieškoti vietų su „Google Places API“. Ši paieška reikalauja interneto ryšio.
 
@@ -4690,7 +4690,7 @@ Sukonfigūravote asmeninį Google Places API raktą: jūsų paieška bus naudoja
 ```
 Do you enjoy the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ar jums patinka programa?
 ```
@@ -4700,7 +4700,7 @@ Ar jums patinka programa?
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ar norėtumėte atsiųsti man email, kad pasakytumėte, kaip galėčiau pagerinti programą?
 ```
@@ -4710,7 +4710,7 @@ Ar norėtumėte atsiųsti man email, kad pasakytumėte, kaip galėčiau pagerint
 ```
 Display extra POI fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Rodyti papildomus LV laukus
 ```
@@ -4720,7 +4720,7 @@ Rodyti papildomus LV laukus
 ```
 IGN plans
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN planai
 ```
@@ -4730,7 +4730,7 @@ IGN planai
 ```
 IGN maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN žemėlapiai
 ```
@@ -4740,7 +4740,7 @@ IGN žemėlapiai
 ```
 IGN - Cadastral parcels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - kadastro sklypai
 ```
@@ -4750,7 +4750,7 @@ IGN - kadastro sklypai
 ```
 IGN - Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - antena
 ```
@@ -4760,7 +4760,7 @@ IGN - antena
 ```
 Type more and press enter again for refined results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Įveskite daugiau ir spauskite dar kartą, kad gautumėte rafinuotų rezultatų
 ```

@@ -1,4 +1,4 @@
-# Map Marker translations for th
+# Map Marker translations for Thai (th)
 
 You want to help improve this translation file? Read the [main page](https://github.com/androidseb/mapmarkerapptranslations)
 
@@ -7,7 +7,7 @@ You want to help improve this translation file? Read the [main page](https://git
 ```
 OK
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ตกลง
 ```
@@ -17,7 +17,7 @@ translates to:
 ```
 Yes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ใช่
 ```
@@ -27,7 +27,7 @@ translates to:
 ```
 No
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่
 ```
@@ -37,7 +37,7 @@ translates to:
 ```
 Cancel
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ยกเลิก
 ```
@@ -47,7 +47,7 @@ translates to:
 ```
 New marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เครื่องหมายใหม่
 ```
@@ -57,7 +57,7 @@ translates to:
 ```
 Title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ชื่อเรื่อง
 ```
@@ -67,7 +67,7 @@ translates to:
 ```
 Description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ลักษณะ
 ```
@@ -77,7 +77,7 @@ translates to:
 ```
 Do you really want to delete this marker?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 จริงๆคุณต้องการลบเครื่องหมายนี้?
 ```
@@ -87,7 +87,7 @@ translates to:
 ```
 GPS coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 พิกัดจีพีเอส
 ```
@@ -97,7 +97,7 @@ translates to:
 ```
 Could not copy coordinates to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่สามารถคัดลอกพิกัดไปยังคลิปบอร์ด
 ```
@@ -107,7 +107,7 @@ translates to:
 ```
 Coordinates copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 พิกัดคัดลอกไปที่คลิปบอร์ด
 ```
@@ -117,7 +117,7 @@ translates to:
 ```
 Failed to access application save directory. Make sure that your device is not being accessed by a computer with the USB cable, and restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่สามารถเข้าถึงโปรแกรมบันทึกไดเรกทอรี ตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณไม่ได้ถูกเข้าถึงได้โดยเครื่องคอมพิวเตอร์ด้วยสาย USB, และเริ่มต้นการตรวจสอบ
 ```
@@ -127,7 +127,7 @@ translates to:
 ```
 Untitled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Untitled
 ```
@@ -137,7 +137,7 @@ Untitled
 ```
 All
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ทั้งหมด
 ```
@@ -147,7 +147,7 @@ translates to:
 ```
 Add folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เพิ่มโฟลเดอร์
 ```
@@ -157,7 +157,7 @@ translates to:
 ```
 Modify folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ปรับเปลี่ยนโฟลเดอร์
 ```
@@ -167,7 +167,7 @@ translates to:
 ```
 Are you sure you want to delete this folder? All markers associated to this folder will be deleted permanently!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คุณแน่ใจว่าคุณต้องการที่จะลบโฟลเดอร์นี้หรือไม่? เครื่องหมายทั้งหมดที่เชื่อมโยงไปยังโฟลเดอร์นี้จะถูกลบออกอย่างถาวร!
 ```
@@ -177,7 +177,7 @@ translates to:
 ```
 Failed to create new folder, it already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่สามารถสร้างโฟลเดอร์ใหม่ก็มีอยู่แล้ว
 ```
@@ -187,7 +187,7 @@ translates to:
 ```
 Failed to rename the folder, the destination name already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่สามารถเปลี่ยนชื่อโฟลเดอร์ชื่อปลายทางมีอยู่แล้ว
 ```
@@ -197,7 +197,7 @@ translates to:
 ```
 Latitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ละติจูด:
 ```
@@ -207,7 +207,7 @@ translates to:
 ```
 Longitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ลองจิจูด:
 ```
@@ -217,7 +217,7 @@ translates to:
 ```
 Could not write file.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่สามารถเขียนไฟล์
 ```
@@ -227,7 +227,7 @@ translates to:
 ```
 Import/Export
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 นำเข้า / ส่งออก
 ```
@@ -237,7 +237,7 @@ translates to:
 ```
 Import markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เครื่องหมายนำเข้า
 ```
@@ -247,7 +247,7 @@ translates to:
 ```
 File imported successfully
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไฟล์นำเข้าสำเร็จ
 ```
@@ -257,7 +257,7 @@ translates to:
 ```
 File import failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 นำเข้าไฟล์ล้มเหลว
 ```
@@ -267,7 +267,7 @@ translates to:
 ```
 Location services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 บริการสถานที่
 ```
@@ -277,7 +277,7 @@ translates to:
 ```
 Location services are disabled. To get your current location you must enable them.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 บริการสถานที่ที่ถูกปิดใช้งาน ที่จะได้รับตำแหน่งปัจจุบันของคุณคุณต้องช่วยให้พวกเขา
 ```
@@ -287,7 +287,7 @@ translates to:
 ```
 Could not find address
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่สามารถหาที่อยู่
 ```
@@ -297,7 +297,7 @@ translates to:
 ```
 Searching&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ค้นหา&#8230;
 ```
@@ -307,7 +307,7 @@ translates to:
 ```
 Search
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ค้นหา
 ```
@@ -317,7 +317,7 @@ translates to:
 ```
 Share via
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แบ่งปันผ่าน
 ```
@@ -327,7 +327,7 @@ translates to:
 ```
 Do you want to import the content of this file?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คุณต้องการที่จะนำเข้าเนื้อหาของไฟล์นี้หรือไม่?
 ```
@@ -337,7 +337,7 @@ translates to:
 ```
 Folder name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ชื่อโฟลเดอร์
 ```
@@ -347,7 +347,7 @@ translates to:
 ```
 Save
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 บันทึก
 ```
@@ -357,7 +357,7 @@ translates to:
 ```
 Close
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ใกล้
 ```
@@ -367,7 +367,7 @@ translates to:
 ```
 Are you sure you want to delete the selected markers?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คุณแน่ใจว่าคุณต้องการลบเครื่องหมายที่เลือก?
 ```
@@ -377,7 +377,7 @@ translates to:
 ```
 Move markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เลื่อนเครื่องหมายไปยังโฟลเดอร์
 ```
@@ -387,7 +387,7 @@ translates to:
 ```
 Share
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 หุ้น
 ```
@@ -397,7 +397,7 @@ translates to:
 ```
 Folder:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 โฟลเดอร์:
 ```
@@ -407,7 +407,7 @@ translates to:
 ```
 Snapshot of my markers on Map Marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ภาพรวมของเครื่องหมายของฉันใน Map Marker
 ```
@@ -418,7 +418,7 @@ translates to:
 This snapshot was made with the app Map Marker:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ภาพรวมนี้ถูกสร้างด้วยแอปพลิ Map Marker : 
  %s
@@ -429,7 +429,7 @@ translates to:
 ```
 Processing data&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การประมวลผลข้อมูล&#8230;
 ```
@@ -439,7 +439,7 @@ translates to:
 ```
 You have unsaved modifications, do you want to save them?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คุณมีการปรับเปลี่ยนไม่ได้บันทึกไว้, คุณต้องการที่จะช่วยให้พวกเขา?
 ```
@@ -449,7 +449,7 @@ translates to:
 ```
 Use the long press on the map to create a new marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ใช้กดยาวบนแผนที่เพื่อสร้างเครื่องหมายใหม่
 ```
@@ -459,7 +459,7 @@ translates to:
 ```
 Map type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ชนิดของแผนที่
 ```
@@ -469,7 +469,7 @@ translates to:
 ```
 Normal
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ปกติ
 ```
@@ -479,7 +479,7 @@ translates to:
 ```
 Satellite
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ดาวเทียม
 ```
@@ -489,7 +489,7 @@ translates to:
 ```
 Terrain
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ภูมิประเทศ
 ```
@@ -499,7 +499,7 @@ translates to:
 ```
 Hybrid
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เป็นลูกผสม
 ```
@@ -510,7 +510,7 @@ translates to:
 Found a problem? Have an idea of improvement?
 Send me an email :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 พบปัญหาหรือไม่ มีความคิดในการปรับปรุง? 
  ส่ง email :-)
@@ -521,7 +521,7 @@ translates to:
 ```
 Send email&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ส่ง email&#8230;
 ```
@@ -532,7 +532,7 @@ translates to:
 You like the app?
 Rate it 5 stars :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คุณต้องการ app? 
  อัตรามัน 5 ดาว :-)
@@ -543,7 +543,7 @@ translates to:
 ```
 Change folder to&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เปลี่ยนโฟลเดอร์ที่จะ&#8230;
 ```
@@ -553,7 +553,7 @@ translates to:
 ```
 Directions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คำสั่ง
 ```
@@ -563,7 +563,7 @@ translates to:
 ```
 Acquiring location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ซื้อสถานที่ตั้ง&#8230;
 ```
@@ -573,7 +573,7 @@ translates to:
 ```
 Meters
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เมตร
 ```
@@ -583,7 +583,7 @@ translates to:
 ```
 Km
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 กม.
 ```
@@ -593,7 +593,7 @@ translates to:
 ```
 Feet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ฟุต
 ```
@@ -603,7 +603,7 @@ translates to:
 ```
 Miles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไมล์
 ```
@@ -613,7 +613,7 @@ translates to:
 ```
 Adjust map camera position when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ปรับตำแหน่งกล้องแผนที่เมื่อชี้แนะไปยังสถานที่เครื่องหมาย
 ```
@@ -623,7 +623,7 @@ translates to:
 ```
 Keep screen on when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เก็บบนหน้าจอเมื่อชี้แนะไปยังสถานที่เครื่องหมาย
 ```
@@ -633,7 +633,7 @@ translates to:
 ```
 Marker details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 รายละเอียด Marker คัดลอกไปที่คลิปบอร์ด
 ```
@@ -643,7 +643,7 @@ translates to:
 ```
 Long press to drag and move the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ลองกดเพื่อลากและเลื่อนเครื่องหมาย
 ```
@@ -653,7 +653,7 @@ translates to:
 ```
 Error starting internal task manager, app will now exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ข้อผิดพลาดของการเริ่มต้นการจัดการงานภายใน app ที่จะออกตอนนี้
 ```
@@ -663,7 +663,7 @@ translates to:
 ```
 Do not show again
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 อย่าแสดงอีกครั้ง
 ```
@@ -673,7 +673,7 @@ translates to:
 ```
 Could not create the map capture
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่สามารถสร้างการจับภาพแผนที่
 ```
@@ -683,7 +683,7 @@ translates to:
 ```
 Metric (Kilometers/Meters)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เมตริก (กิโลเมตร / เมตร)
 ```
@@ -693,7 +693,7 @@ translates to:
 ```
 Imperial (Miles/Feet)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 อิมพีเรียล (ไมล์ / ฟุต)
 ```
@@ -703,7 +703,7 @@ translates to:
 ```
 There is a problem with Google Play Services: it needs to be installed, updated or activated. Click OK to try and solve it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 มีปัญหาเกี่ยวกับการเป็น Google Play Services : จะต้องมีการติดตั้งการปรับปรุงหรือเปิดใช้งาน คลิกตกลงและพยายามแก้ปัญหาได้
 ```
@@ -713,7 +713,7 @@ translates to:
 ```
 Delete folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ลบโฟลเดอร์
 ```
@@ -723,7 +723,7 @@ translates to:
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 หากคุณต้องการ app ของฉันคุณสามารถให้รางวัลฉันโดยสละเวลาที่จะให้จัดอันดับที่ดี :-)
 ```
@@ -734,7 +734,7 @@ translates to:
 OK take me
 to the Play Store
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ตกลงพาฉัน 
  จะ Play Store
@@ -746,7 +746,7 @@ translates to:
 I already
 gave a rating
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ฉันแล้ว 
  ให้คะแนน
@@ -758,7 +758,7 @@ translates to:
 Maybe later
 remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คู่หลังจากนั้นอาจ 
  เตือนฉัน
@@ -770,7 +770,7 @@ translates to:
 Maybe later
 do not remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คู่หลังจากนั้นอาจ 
  ไม่เตือนฉัน
@@ -781,7 +781,7 @@ translates to:
 ```
 Could not find the place
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่สามารถหาสถานที่
 ```
@@ -791,7 +791,7 @@ translates to:
 ```
 Could not find another map application
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่พบโปรแกรมแผนที่อื่น
 ```
@@ -801,7 +801,7 @@ translates to:
 ```
 Move the map around to place your marker where you want and click OK to place it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เลื่อนแผนที่ไปรอบ ๆ เพื่อวางเครื่องหมายที่คุณต้องการและคลิก OK เพื่อวางไว้
 ```
@@ -811,7 +811,7 @@ translates to:
 ```
 Imported marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เครื่องหมายที่นำเข้า
 ```
@@ -821,7 +821,7 @@ translates to:
 ```
 Settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การตั้งค่า
 ```
@@ -831,7 +831,7 @@ translates to:
 ```
 Display zoom buttons
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แสดงปุ่มซูม
 ```
@@ -841,7 +841,7 @@ translates to:
 ```
 Decimal degrees
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 องศาทศนิยม
 ```
@@ -851,7 +851,7 @@ translates to:
 ```
 Degrees decimal minutes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 องศาทศนิยมนาที
 ```
@@ -861,7 +861,7 @@ translates to:
 ```
 Degrees minutes seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ปริญญาวินาทีนาที
 ```
@@ -871,7 +871,7 @@ translates to:
 ```
 Coordinates format
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 รูปแบบพิกัด
 ```
@@ -881,7 +881,7 @@ translates to:
 ```
 GPS and wireless networks only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GPS และเครือข่ายไร้สายเท่านั้น
 ```
@@ -891,7 +891,7 @@ GPS และเครือข่ายไร้สายเท่านั้�
 ```
 GPS and wireless networks or magnetic sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GPS และเครือข่ายไร้สายหรือเซ็นเซอร์แม่เหล็ก
 ```
@@ -901,7 +901,7 @@ GPS และเครือข่ายไร้สายหรือเซ็�
 ```
 Magnetic sensor only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เซ็นเซอร์แม่เหล็กเท่านั้น
 ```
@@ -911,7 +911,7 @@ translates to:
 ```
 Used compass sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เซ็นเซอร์เข็มทิศมือสอง
 ```
@@ -921,7 +921,7 @@ translates to:
 ```
 FAQ/Help
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คำถามที่พบบ่อย / ช่วยเหลือ
 ```
@@ -931,7 +931,7 @@ translates to:
 ```
 Folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 โฟลเดอร์
 ```
@@ -941,7 +941,7 @@ translates to:
 ```
 Help and settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ช่วยเหลือและการตั้งค่า
 ```
@@ -951,7 +951,7 @@ translates to:
 ```
 Language
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ภาษา
 ```
@@ -961,7 +961,7 @@ translates to:
 ```
 Marker popup style
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker สไตล์ป๊อปอัพ
 ```
@@ -971,7 +971,7 @@ Marker สไตล์ป๊อปอัพ
 ```
 Bottom
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ก้น
 ```
@@ -981,7 +981,7 @@ translates to:
 ```
 Bubble
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ฟอง
 ```
@@ -991,7 +991,7 @@ translates to:
 ```
 Coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 พิกัด
 ```
@@ -1001,7 +1001,7 @@ translates to:
 ```
 Contextual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ตามบริบท
 ```
@@ -1011,7 +1011,7 @@ translates to:
 ```
 Always
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เสมอ
 ```
@@ -1021,7 +1021,7 @@ translates to:
 ```
 Crosshair display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แสดงผล Crosshair
 ```
@@ -1031,7 +1031,7 @@ translates to:
 ```
 Coordinates window
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 พิกัดหน้าต่าง
 ```
@@ -1041,7 +1041,7 @@ translates to:
 ```
 Lat:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ลาดพร้าว:
 ```
@@ -1051,7 +1051,7 @@ translates to:
 ```
 Lng:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 lng:
 ```
@@ -1061,7 +1061,7 @@ lng:
 ```
 Marker instant adding mode
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker ทันทีโหมดการเพิ่ม
 ```
@@ -1071,7 +1071,7 @@ Marker ทันทีโหมดการเพิ่ม
 ```
 Advanced
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ก้าวหน้า
 ```
@@ -1081,7 +1081,7 @@ translates to:
 ```
 Display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แสดง
 ```
@@ -1091,7 +1091,7 @@ translates to:
 ```
 Actions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การปฏิบัติ
 ```
@@ -1101,7 +1101,7 @@ translates to:
 ```
 Language and units
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ภาษาและหน่วย
 ```
@@ -1111,7 +1111,7 @@ translates to:
 ```
 Markers ignored on import (duplicates): %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เครื่องหมายไม่สนใจในการนำเข้า (ซ้ำ): %1$d
 ```
@@ -1121,7 +1121,7 @@ translates to:
 ```
 %1$d markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d เครื่องหมาย
 ```
@@ -1131,7 +1131,7 @@ translates to:
 ```
 No auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่มีการตั้งชื่อโดยอัตโนมัติ
 ```
@@ -1141,7 +1141,7 @@ translates to:
 ```
 Auto naming "number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การตั้งชื่ออัตโนมัติ "จำนวน"
 ```
@@ -1151,7 +1151,7 @@ translates to:
 ```
 Auto naming "Marker number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การตั้งชื่ออัตโนมัติ "จำนวน Marker"
 ```
@@ -1161,7 +1161,7 @@ translates to:
 ```
 New marker auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เครื่องหมายการตั้งชื่อใหม่อัตโนมัติ
 ```
@@ -1171,7 +1171,7 @@ translates to:
 ```
 Marker %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker %1$d
 ```
@@ -1181,7 +1181,7 @@ Marker %1$d
 ```
 Waiting for location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 รอสำหรับสถานที่ตั้ง&#8230;
 ```
@@ -1191,7 +1191,7 @@ translates to:
 ```
 Open the help page and see the FAQ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เปิดหน้าความช่วยเหลือและดูคำถามที่พบบ่อย
 ```
@@ -1201,7 +1201,7 @@ translates to:
 ```
 Features
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คุณสมบัติ
 ```
@@ -1211,7 +1211,7 @@ translates to:
 ```
 View the list of upcoming features for the next app version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ดูรายการของคุณลักษณะที่จะเกิดขึ้นสำหรับรุ่นการตรวจสอบต่อไป
 ```
@@ -1221,7 +1221,7 @@ translates to:
 ```
 Help &amp; Feedback
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ช่วยเหลือและคำติชม
 ```
@@ -1231,7 +1231,7 @@ translates to:
 ```
 About
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เกี่ยวกับ
 ```
@@ -1241,7 +1241,7 @@ translates to:
 ```
 Distance to %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ระยะห่างจาก %1$s
 ```
@@ -1251,7 +1251,7 @@ translates to:
 ```
 Snapshot
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ภาพรวม
 ```
@@ -1261,7 +1261,7 @@ translates to:
 ```
 Share a snapshot of the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แบ่งปันภาพรวมของแผนที่
 ```
@@ -1271,7 +1271,7 @@ translates to:
 ```
 All markers and folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เครื่องหมายและโฟลเดอร์ทั้งหมด
 ```
@@ -1281,7 +1281,7 @@ translates to:
 ```
 <![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; เพื่อให้ได้ทิศทางเหนือที่เหมาะสมสำหรับเข็มทิศคุณจำเป็นต้องปรับเทียบโทรศัพท์ของคุณอย่างถูกต้อง. ใน To สอบเทียบโทรศัพท์ของคุณเพียงย้ายไปรอบ ๆ โดยการวาด 8 . ย้ายต้องมีความกว้างและทำซ้ำประมาณ 3 ครั้งเพื่อให้มีประสิทธิภาพที่ดีขึ้น. &lt;br&gt; คุณสามารถปรับโทรศัพท์ของคุณโดยการทำเช่นนี้ได้ตลอดเวลา. &lt;/ b&gt; หน้าในการสอบเทียบมีข้อ จำกัด และอาจจะไม่เพียงพอ เพื่อตอบโต้การรบกวนที่ใกล้เคียงเช่น: •วัตถุที่เป็นโลหะขนาดใหญ่ใน•อุปกรณ์อิเล็กทรอนิกส์: •แม่เหล็ก: •ภายในของรถ / รถบัส / รถไฟ / เครื่องบิน &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -1291,7 +1291,7 @@ translates to:
 ```
 Badges
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ป้าย
 ```
@@ -1301,7 +1301,7 @@ translates to:
 ```
 Buy a donation badge
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ซื้อป้ายบริจาค
 ```
@@ -1311,7 +1311,7 @@ translates to:
 ```
 Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ขอขอบคุณสำหรับการบริจาคของคุณ! :-)
 ```
@@ -1321,7 +1321,7 @@ translates to:
 ```
 Default folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 โฟลเดอร์เริ่มต้น
 ```
@@ -1331,7 +1331,7 @@ translates to:
 ```
 Sync options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ตัวเลือกการซิงค์
 ```
@@ -1341,7 +1341,7 @@ translates to:
 ```
 Google Drive
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Google ไดรฟ์
 ```
@@ -1351,7 +1351,7 @@ Google ไดรฟ์
 ```
 Dropbox
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dropbox
 ```
@@ -1361,7 +1361,7 @@ Dropbox
 ```
 Configuring&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การกำหนดค่า&#8230;
 ```
@@ -1371,7 +1371,7 @@ translates to:
 ```
 Sync now
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ซิงค์ในขณะนี้
 ```
@@ -1381,7 +1381,7 @@ translates to:
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่เคย
 ```
@@ -1391,7 +1391,7 @@ translates to:
 ```
 Syncing…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ซิงค์&#8230;
 ```
@@ -1401,7 +1401,7 @@ translates to:
 ```
 Select folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เลือกโฟลเดอร์
 ```
@@ -1411,7 +1411,7 @@ translates to:
 ```
 Load error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ข้อผิดพลาดในการโหลด
 ```
@@ -1421,7 +1421,7 @@ translates to:
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ลองใหม่อีกครั้ง
 ```
@@ -1431,7 +1431,7 @@ translates to:
 ```
 Root
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ราก
 ```
@@ -1441,7 +1441,7 @@ translates to:
 ```
 Shared
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ที่ใช้ร่วมกัน
 ```
@@ -1451,7 +1451,7 @@ translates to:
 ```
 Purchase successful!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ที่ประสบความสำเร็จซื้อ!
 ```
@@ -1461,7 +1461,7 @@ translates to:
 ```
 Purchase failed: %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$s
 ```
@@ -1471,7 +1471,7 @@ translates to:
 ```
 Premium access available! You currently have access to premium features.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การเข้าถึงพรีเมี่ยมที่มีอยู่! ขณะนี้คุณมีการเข้าถึงคุณสมบัติพิเศษ
 ```
@@ -1481,7 +1481,7 @@ translates to:
 ```
 You cannot select that folder because it contains multiple files named %1$s. The sync requires the folder to contain only one file with that name.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$s s ต้องซิงค์โฟลเดอร์จะมีเพียงคนเดียวที่มีชื่อไฟล์ว่า
 ```
@@ -1491,7 +1491,7 @@ translates to:
 ```
 It seems sync data already exists in that folder. If you select that folder, your local data will be merged with the folder data when sync is performed. Is that what you want?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ดูเหมือนว่าการซิงค์ข้อมูลที่มีอยู่แล้วในโฟลเดอร์นั้น หากคุณเลือกโฟลเดอร์ที่ข้อมูลในท้องถิ่นของคุณจะถูกรวมเข้ากับข้อมูลโฟลเดอร์เมื่อซิงค์จะดำเนินการ นั่นคือสิ่งที่คุณต้องการ?
 ```
@@ -1501,7 +1501,7 @@ translates to:
 ```
 File options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ตัวเลือกไฟล์
 ```
@@ -1511,7 +1511,7 @@ translates to:
 ```
 Cloud sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เมฆซิงค์
 ```
@@ -1521,7 +1521,7 @@ translates to:
 ```
 Sync this map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ซิงค์ไฟล์แผนที่นี้บนเมฆ
 ```
@@ -1531,7 +1531,7 @@ translates to:
 ```
 Map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไฟล์แผนที่
 ```
@@ -1541,7 +1541,7 @@ translates to:
 ```
 Create local map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 สร้างแผนที่ท้องถิ่น
 ```
@@ -1551,7 +1551,7 @@ translates to:
 ```
 Create a new map file locally
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 สร้างไฟล์แผนที่ใหม่ในประเทศ
 ```
@@ -1561,7 +1561,7 @@ translates to:
 ```
 Create cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 สร้างแผนที่เมฆ
 ```
@@ -1571,7 +1571,7 @@ translates to:
 ```
 Create a map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 สร้างไฟล์แผนที่บนเมฆ
 ```
@@ -1581,7 +1581,7 @@ translates to:
 ```
 Retrieves changes from the cloud and sends local changes to the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ดึงการเปลี่ยนแปลงจากระบบคลาวด์และส่งการเปลี่ยนแปลงในท้องถิ่นไปยังเมฆ
 ```
@@ -1591,7 +1591,7 @@ translates to:
 ```
 Rename
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เปลี่ยนชื่อ
 ```
@@ -1601,7 +1601,7 @@ translates to:
 ```
 Rename the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เปลี่ยนชื่อแผนที่
 ```
@@ -1611,7 +1611,7 @@ translates to:
 ```
 Enter new name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ป้อนชื่อใหม่
 ```
@@ -1621,7 +1621,7 @@ translates to:
 ```
 Enter the new map\'s name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ป้อนชื่อแผนที่ใหม่
 ```
@@ -1631,7 +1631,7 @@ translates to:
 ```
 %1$d folders, %2$d markers, size: %3$d KB
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d %2$d %3$d KB
 ```
@@ -1641,7 +1641,7 @@ translates to:
 ```
 Create new folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 สร้างโฟลเดอร์ใหม่
 ```
@@ -1651,7 +1651,7 @@ translates to:
 ```
 Could not create folder: name empty
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่สามารถสร้างโฟลเดอร์: ชื่อที่ว่างเปล่า
 ```
@@ -1661,7 +1661,7 @@ translates to:
 ```
 Could not create folder: error occurred
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่สามารถสร้างโฟลเดอร์: ข้อผิดพลาดที่เกิดขึ้น
 ```
@@ -1671,7 +1671,7 @@ translates to:
 ```
 Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker :-)
 ```
@@ -1681,7 +1681,7 @@ Map Marker :-)
 ```
 Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker :-)
 ```
@@ -1691,7 +1691,7 @@ Map Marker :-)
 ```
 Premium
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 พรีเ​​มี่ยม
 ```
@@ -1701,7 +1701,7 @@ translates to:
 ```
 Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker คุณสมบัติ!
 ```
@@ -1711,7 +1711,7 @@ Map Marker คุณสมบัติ!
 ```
 Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ขออภัยคุณต้องปรับรุ่นพรีเมี่ยมในการเข้าถึงคุณลักษณะนี้ Map Marker คุณสมบัติ!
 ```
@@ -1721,7 +1721,7 @@ translates to:
 ```
 You have the premium upgrade for free! You can still purchase it if you want to show your support :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คุณมีการปรับรุ่นพรีเมี่ยมฟรี! :-)
 ```
@@ -1731,7 +1731,7 @@ translates to:
 ```
 Purchase the premium upgrade
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ซื้อการปรับรุ่นพรีเมี่ยม
 ```
@@ -1741,7 +1741,7 @@ translates to:
 ```
 My Google account already has premium access, activate it!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 บัญชีผู้ใช้ Google ของฉันแล้วมีการเข้าถึงพรีเมี่ยมเปิดใช้งานมัน!
 ```
@@ -1751,7 +1751,7 @@ translates to:
 ```
 Troubleshooting
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การแก้ไขปัญหา
 ```
@@ -1761,7 +1761,7 @@ translates to:
 ```
 Open a list of actions to solve possible problems
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เปิดรายการของการดำเนินการในการแก้ปัญหาที่เป็นไปได้
 ```
@@ -1771,7 +1771,7 @@ translates to:
 ```
 Test internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ทดสอบอินเทอร์เน็ต
 ```
@@ -1781,7 +1781,7 @@ translates to:
 ```
 Checks that the app has access to internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ตรวจสอบว่า app ที่มีการเข้าถึงอินเทอร์เน็ต
 ```
@@ -1791,7 +1791,7 @@ translates to:
 ```
 Test file writing
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เขียนไฟล์ทดสอบ
 ```
@@ -1801,7 +1801,7 @@ translates to:
 ```
 Checks that the app can save files on the internal SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ตรวจสอบว่า app สามารถบันทึกไฟล์ใน SD card ภายใน
 ```
@@ -1811,7 +1811,7 @@ translates to:
 ```
 GP Services (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 บริการ GP (app)
 ```
@@ -1821,7 +1821,7 @@ translates to:
 ```
 Open the details of the currently installed Google Play Services app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Google Play Services การตรวจสอบ
 ```
@@ -1831,7 +1831,7 @@ Google Play Services การตรวจสอบ
 ```
 GP Services (store)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 บริการ GP (ร้านค้า)
 ```
@@ -1841,7 +1841,7 @@ translates to:
 ```
 Google Play (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Google Play (app)
 ```
@@ -1851,7 +1851,7 @@ Google Play (app)
 ```
 Contact support
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ติดต่อฝ่ายสนับสนุน
 ```
@@ -1861,7 +1861,7 @@ translates to:
 ```
 Write an email to support with the details of your problem
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 email เพื่อสนับสนุนการมีรายละเอียดของปัญหาของคุณ
 ```
@@ -1871,7 +1871,7 @@ email เพื่อสนับสนุนการมีรายละเ�
 ```
 Device network unavailable
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 อุปกรณ์เครือข่ายพร้อมใช้งาน
 ```
@@ -1881,7 +1881,7 @@ translates to:
 ```
 Testing&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การทดสอบ&#8230;
 ```
@@ -1891,7 +1891,7 @@ translates to:
 ```
 Network test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การทดสอบเครือข่ายที่ประสบความสำเร็จ
 ```
@@ -1901,7 +1901,7 @@ translates to:
 ```
 Network test failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การทดสอบเครือข่ายล้มเหลว
 ```
@@ -1911,7 +1911,7 @@ translates to:
 ```
 Disk test failed: could not write to internal storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ทดสอบดิสก์ล้มเหลว: ไม่สามารถเขียนที่จะเก็บข้อมูลภายใน
 ```
@@ -1921,7 +1921,7 @@ translates to:
 ```
 Disk test failed: could not write to external storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ทดสอบดิสก์ล้มเหลว: ไม่สามารถเขียนเพื่อจัดเก็บข้อมูลภายนอก
 ```
@@ -1931,7 +1931,7 @@ translates to:
 ```
 Disk test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ประสบความสำเร็จในการทดสอบดิสก์
 ```
@@ -1941,7 +1941,7 @@ translates to:
 ```
 App failed to start: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 App %s
 ```
@@ -1951,7 +1951,7 @@ App %s
 ```
 The file does not exist
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไฟล์ที่ไม่ได้อยู่
 ```
@@ -1961,7 +1961,7 @@ translates to:
 ```
 Share cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แบ่งปันแผนที่เมฆ
 ```
@@ -1971,7 +1971,7 @@ translates to:
 ```
 Open the cloud map folder to view its properties and share it with other people
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เปิดโฟลเดอร์แผนที่เมฆเพื่อดูคุณสมบัติและใช้ร่วมกับคนอื่น ๆ
 ```
@@ -1981,7 +1981,7 @@ translates to:
 ```
 Internal file to SD
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไฟล์ภายในไปยังการ์ด SD
 ```
@@ -1991,7 +1991,7 @@ translates to:
 ```
 Copy the app hidden internal files to the sdcard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การตรวจสอบการคัดลอกไฟล์ที่ซ่อนอยู่ภายในเพื่อ sdcard
 ```
@@ -2001,7 +2001,7 @@ translates to:
 ```
 Enter destination folder path
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ป้อนพา ธ โฟลเดอร์ปลายทาง
 ```
@@ -2011,7 +2011,7 @@ translates to:
 ```
 Could not create folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่สามารถสร้างโฟลเดอร์
 ```
@@ -2021,7 +2021,7 @@ translates to:
 ```
 Files successfully saved to: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %s
 ```
@@ -2031,7 +2031,7 @@ translates to:
 ```
 View history/Restore
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ดูประวัติ / Restore
 ```
@@ -2041,7 +2041,7 @@ translates to:
 ```
 View history of modifications to the cloud folder and select a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ดูประวัติการของการปรับเปลี่ยนไปยังโฟลเดอร์เมฆและเลือกรุ่นที่จะเรียกคืนไปยัง
 ```
@@ -2051,7 +2051,7 @@ translates to:
 ```
 Create map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 สร้างไฟล์แผนที่
 ```
@@ -2061,7 +2061,7 @@ translates to:
 ```
 Create a new map file locally or on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 สร้างไฟล์แผนที่ใหม่ในประเทศหรือบนเมฆ
 ```
@@ -2071,7 +2071,7 @@ translates to:
 ```
 Open cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แผนที่เมฆเปิด
 ```
@@ -2081,7 +2081,7 @@ translates to:
 ```
 Open a map file from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เปิดไฟล์แผนที่จากระบบคลาวด์
 ```
@@ -2091,7 +2091,7 @@ translates to:
 ```
 Map Marker needs the permission to access your location in order to display it on the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker ต้องได้รับอนุญาตในการเข้าถึงสถานที่ของคุณเพื่อที่จะแสดงบนแผนที่
 ```
@@ -2101,7 +2101,7 @@ Map Marker ต้องได้รับอนุญาตในการเข
 ```
 Map Marker needs the permission to access to the storage of your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker ต้องได้รับอนุญาตในการเข้าถึงการจัดเก็บข้อมูลของอุปกรณ์ของคุณ
 ```
@@ -2111,7 +2111,7 @@ Map Marker ต้องได้รับอนุญาตในการเข
 ```
 Open settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เปิดการตั้งค่า
 ```
@@ -2121,7 +2121,7 @@ translates to:
 ```
 No map folder found on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่มีโฟลเดอร์แผนที่พบได้บนระบบคลาวด์
 ```
@@ -2131,7 +2131,7 @@ translates to:
 ```
 Auto sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ซิงค์อัตโนมัติ
 ```
@@ -2141,7 +2141,7 @@ translates to:
 ```
 Choose a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เลือกรุ่นที่จะเรียกคืนไปยัง
 ```
@@ -2151,7 +2151,7 @@ translates to:
 ```
 You must sync first before restoring an older version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คุณต้องซิงค์ก่อนการเรียกคืนรุ่นเก่า
 ```
@@ -2161,7 +2161,7 @@ translates to:
 ```
 Are you sure you want to restore this version?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คุณแน่ใจหรือว่าต้องการเรียกคืนรุ่นนี้หรือไม่?
 ```
@@ -2171,7 +2171,7 @@ translates to:
 ```
 Map Marker lost permissions to write to your cloud account. Sync will always fail until this is fixed. Do you want to fix it now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker สิทธิ์ที่หายไปในการเขียนไปยังบัญชีของคุณเมฆ ซิงค์มักจะล้มเหลวจนกว่านี้ได้รับการแก้ไข คุณต้องการที่จะแก้ไขได้ในตอนนี้?
 ```
@@ -2181,7 +2181,7 @@ Map Marker สิทธิ์ที่หายไปในการเขีย
 ```
 A sync error occurred. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 มีข้อผิดพลาดเกิดขึ้นในการซิงค์ กรุณาลองอีกครั้ง.
 ```
@@ -2191,7 +2191,7 @@ translates to:
 ```
 A sync error occurred: network error. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 มีข้อผิดพลาดเกิดขึ้นในการซิงค์: ข้อผิดพลาดของเครือข่าย กรุณาลองอีกครั้ง.
 ```
@@ -2201,7 +2201,7 @@ translates to:
 ```
 A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 มีข้อผิดพลาดเกิดขึ้นในการซิงค์: ความขัดแย้งอุปกรณ์อื่นได้ดำเนินการซิงค์ในเวลาเดียวกัน กรุณาลองอีกครั้ง.
 ```
@@ -2211,7 +2211,7 @@ translates to:
 ```
 Changes are available from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การเปลี่ยนแปลงที่มีอยู่จากเมฆ
 ```
@@ -2221,7 +2221,7 @@ translates to:
 ```
 Changes made from another device were synced on the cloud. You can retrieve those changes by syncing.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การเปลี่ยนแปลงที่เกิดจากอุปกรณ์อื่นถูกซิงค์บนเมฆ คุณสามารถเรียกการเปลี่ยนแปลงเหล่านั้นโดยการซิงค์
 ```
@@ -2231,7 +2231,7 @@ translates to:
 ```
 Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for details on how to restore cloud permissions.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่สามารถที่จะเรียกคืนสิทธิ์ในการจัดเก็บเมฆ โปรดดู "เกี่ยวกับ" -&gt; "คำถามที่พบบ่อย" สำหรับรายละเอียดเกี่ยวกับวิธีการเรียกคืนสิทธิ์ในเมฆ
 ```
@@ -2241,7 +2241,7 @@ translates to:
 ```
 A sync error occurred: duplicate index, there are at least two files named index.json in the map cloud folder. Remove the duplicates manually and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 มีข้อผิดพลาดเกิดขึ้นในการซิงค์: ซ้ำดัชนีมีอย่างน้อยสองไฟล์ชื่อ index.json ในโฟลเดอร์เมฆแผนที่ ลบรายการที่ซ้ำด้วยตนเองและลองอีกครั้ง
 ```
@@ -2251,7 +2251,7 @@ translates to:
 ```
 Phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 หมายเลขโทรศัพท์
 ```
@@ -2261,7 +2261,7 @@ translates to:
 ```
 Edit phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แก้ไขหมายเลขโทรศัพท์
 ```
@@ -2271,7 +2271,7 @@ translates to:
 ```
 Map Marker needs the permission to make calls on your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker ต้องได้รับอนุญาตในการโทรบนอุปกรณ์ของคุณ
 ```
@@ -2281,7 +2281,7 @@ Map Marker ต้องได้รับอนุญาตในการโท
 ```
 No phone number is defined for that marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 หมายเลขโทรศัพท์ไม่มีการกำหนดไว้สำหรับเครื่องหมายที่
 ```
@@ -2291,7 +2291,7 @@ translates to:
 ```
 Navigation options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ตัวเลือกการนํา
 ```
@@ -2301,7 +2301,7 @@ translates to:
 ```
 Open the marker location in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เปิดตำแหน่งเครื่องหมายใน app นี้
 ```
@@ -2311,7 +2311,7 @@ translates to:
 ```
 Open the marker street view in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เปิดมุมมองถนนเครื่องหมายใน app นี้
 ```
@@ -2321,7 +2321,7 @@ translates to:
 ```
 Enter navigation mode in this app to get directions to the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เข้าสู่โหมดนำทางใน app นี้เพื่อให้ได้เส้นทางไปยังเครื่องหมาย
 ```
@@ -2331,7 +2331,7 @@ translates to:
 ```
 Other options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ตัวเลือกอื่น ๆ
 ```
@@ -2341,7 +2341,7 @@ translates to:
 ```
 Share the selected marker as plain text into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แบ่งปันเครื่องหมายที่เลือกเป็นข้อความธรรมดาใน app อื่น
 ```
@@ -2351,7 +2351,7 @@ translates to:
 ```
 %1$d markers in %2$d folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d %2$d โฟลเดอร์
 ```
@@ -2361,7 +2361,7 @@ translates to:
 ```
 A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 มีข้อผิดพลาดเกิดขึ้นในการซิงค์ข้อมูลแบบคลาวด์ได้รับการปรับปรุงด้วยรุ่นล่าสุดของ app Map Marker ในอุปกรณ์นี้เพื่อซิงค์
 ```
@@ -2371,7 +2371,7 @@ translates to:
 ```
 Could not find a phone app on this device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่สามารถหา app บนอุปกรณ์โทรศัพท์นี้
 ```
@@ -2381,7 +2381,7 @@ translates to:
 ```
 Phone number options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ตัวเลือกหมายเลขโทรศัพท์
 ```
@@ -2391,7 +2391,7 @@ translates to:
 ```
 Call phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 หมายเลขโทรศัพท์โทร
 ```
@@ -2401,7 +2401,7 @@ translates to:
 ```
 Dial phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 กดหมายเลขโทรศัพท์
 ```
@@ -2411,7 +2411,7 @@ translates to:
 ```
 Text phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 หมายเลขโทรศัพท์ข้อความ
 ```
@@ -2421,7 +2421,7 @@ translates to:
 ```
 Default navigation action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เริ่มต้นการดำเนินการระบบนำทาง
 ```
@@ -2431,7 +2431,7 @@ translates to:
 ```
 Default phone action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เริ่มต้นการดำเนินการโทรศัพท์
 ```
@@ -2441,7 +2441,7 @@ translates to:
 ```
 Ask
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ถาม
 ```
@@ -2451,7 +2451,7 @@ translates to:
 ```
 Premium free trial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ทดลองใช้ฟรีพรีเมี่ยม
 ```
@@ -2461,7 +2461,7 @@ translates to:
 ```
 What is the premium upgrade?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 อะไรคือการอัปเกรดพรีเมี่ยมหรือไม่
 ```
@@ -2471,7 +2471,7 @@ translates to:
 ```
 Premium free trial started! The trial will expire at the following date: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 พรีเ​​มี่ยมทดลองใช้ฟรีเริ่มต้น! การพิจารณาคดีจะหมดอายุในวันที่ต่อไปนี้: %s
 ```
@@ -2482,7 +2482,7 @@ translates to:
 Trial expiration:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 หมดอายุการทดลองใช้: 
  %s
@@ -2493,7 +2493,7 @@ translates to:
 ```
 Trial expired
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ทดลองหมดอายุ
 ```
@@ -2503,7 +2503,7 @@ translates to:
 ```
 Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ซิงค์ถูกยกเลิก: คุณต้องอัปเกรดพรีเมี่ยมเพื่อดำเนินการซิงค์
 ```
@@ -2513,7 +2513,7 @@ translates to:
 ```
 Error: trial starting in the future!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ข้อผิดพลาด: เริ่มต้นการพิจารณาคดีในอนาคต!
 ```
@@ -2523,7 +2523,7 @@ translates to:
 ```
 Thank you for your purchase!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ขอขอบคุณสำหรับการซื้อของคุณ!
 ```
@@ -2533,7 +2533,7 @@ translates to:
 ```
 Browse
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เรียกดู
 ```
@@ -2543,7 +2543,7 @@ translates to:
 ```
 Organize
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 จัดระเบียบ
 ```
@@ -2553,7 +2553,7 @@ translates to:
 ```
 Create
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 สร้าง
 ```
@@ -2563,7 +2563,7 @@ translates to:
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ลองใหม่อีกครั้ง
 ```
@@ -2573,7 +2573,7 @@ translates to:
 ```
 Search failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การค้นหาล้มเหลว
 ```
@@ -2583,7 +2583,7 @@ translates to:
 ```
 Search failed, network error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การค้นหาล้มเหลวผิดพลาดของเครือข่าย
 ```
@@ -2593,7 +2593,7 @@ translates to:
 ```
 Details
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 รายละเอียด
 ```
@@ -2603,7 +2603,7 @@ translates to:
 ```
 Sync error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ข้อผิดพลาดในการซิงค์
 ```
@@ -2613,7 +2613,7 @@ translates to:
 ```
 The file already exists, do you want to overwrite it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไฟล์ที่มีอยู่แล้วคุณต้องการจะเขียนทับมัน?
 ```
@@ -2623,7 +2623,7 @@ translates to:
 ```
 Copy markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เครื่องหมายคัดลอกไปยังโฟลเดอร์
 ```
@@ -2633,7 +2633,7 @@ translates to:
 ```
 Error loading the Google Map component. Please restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ข้อผิดพลาดในการโหลด Google Map ส่วนประกอบ กรุณาเริ่ม app
 ```
@@ -2643,7 +2643,7 @@ translates to:
 ```
 You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คุณจะเห็นรายการของเครื่องหมายของคุณที่นี่ ขณะนี้คุณมีเครื่องหมายในโฟลเดอร์ที่เลือกไม่มี (s) คุณสามารถเพิ่มเครื่องหมายใหม่โดยคลิกที่ปุ่มด้านล่างนี้
 ```
@@ -2653,7 +2653,7 @@ translates to:
 ```
 No search results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่มีผลการค้นหา
 ```
@@ -2663,7 +2663,7 @@ translates to:
 ```
 Open Street Map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Open Street Map
 ```
@@ -2673,7 +2673,7 @@ Open Street Map
 ```
 Bing Road
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Road
 ```
@@ -2683,7 +2683,7 @@ Bing Road
 ```
 Bing Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial
 ```
@@ -2693,7 +2693,7 @@ Bing Aerial
 ```
 Bing Aerial With Labels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial ที่มีป้ายชื่อ
 ```
@@ -2703,7 +2703,7 @@ Bing Aerial ที่มีป้ายชื่อ
 ```
 ArcGIS Server
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ArcGIS Server
 ```
@@ -2713,7 +2713,7 @@ ArcGIS Server
 ```
 Offline maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แผนที่แบบออฟไลน์
 ```
@@ -2723,7 +2723,7 @@ translates to:
 ```
 No folder selected
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่มีโฟลเดอร์ที่เลือก
 ```
@@ -2733,7 +2733,7 @@ translates to:
 ```
 Storage folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 โฟลเดอร์จัดเก็บข้อมูล
 ```
@@ -2744,7 +2744,7 @@ translates to:
 Test results of the offline maps folder:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ผลการทดสอบของโฟลเดอร์แผนที่แบบออฟไลน์: 
  %s
@@ -2755,7 +2755,7 @@ translates to:
 ```
 No folder is selected for offline map files. In order to use offline maps, open the settings and select a folder for offline map files.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่มีโฟลเดอร์ถูกเลือกสำหรับแฟ้มออฟไลน์แผนที่ เพื่อที่จะใช้แผนที่แบบออฟไลน์, เปิดการตั้งค่าและเลือกโฟลเดอร์สำหรับแฟ้มออฟไลน์แผนที่
 ```
@@ -2765,7 +2765,7 @@ translates to:
 ```
 The selected offline map folder you selected contains no files. Make sure you add the offline map files in that folder before using offline maps, otherwise the map will be empty.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 โฟลเดอร์ที่เลือกแผนที่แบบออฟไลน์ที่คุณเลือกมีไฟล์ไม่มี ให้แน่ใจว่าคุณเพิ่มไฟล์แผนที่แบบออฟไลน์ในโฟลเดอร์นั้นก่อนที่จะใช้แผนที่แบบออฟไลน์มิฉะนั้นแผนที่จะว่างเปล่า
 ```
@@ -2775,7 +2775,7 @@ translates to:
 ```
 Success: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ความสำเร็จ: %s
 ```
@@ -2785,7 +2785,7 @@ translates to:
 ```
 Failed: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ล้มเหลว: %s
 ```
@@ -2795,7 +2795,7 @@ translates to:
 ```
 How to do it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ทำอย่างไร?
 ```
@@ -2805,7 +2805,7 @@ translates to:
 ```
 Click here to open the web page explaining how to obtain those maps.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คลิกที่นี่เพื่อเปิดหน้าเว็บอธิบายวิธีการขอรับแผนที่เหล่านั้น
 ```
@@ -2815,7 +2815,7 @@ translates to:
 ```
 Credits
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เครดิต
 ```
@@ -2825,7 +2825,7 @@ translates to:
 ```
 Copyright and legal mentions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ลิขสิทธิ์และตามกฎหมายระบุว่า
 ```
@@ -2837,7 +2837,7 @@ Legal mentions for other map data than Google Maps:
 
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 กฎหมายระบุว่าข้อมูลแผนที่อื่น ๆ กว่า Google Maps : 
  
@@ -2849,7 +2849,7 @@ translates to:
 ```
 Disable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การถ่ายโอนไฟล์ปิดการใช้งานข้อผิดพลาด
 ```
@@ -2859,7 +2859,7 @@ translates to:
 ```
 Disable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ปิดการใช้งานการเขียนข้อผิดพลาดของ App ไปยังไฟล์ใน SD card
 ```
@@ -2869,7 +2869,7 @@ translates to:
 ```
 Enable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เปิดใช้งานข้อผิดพลาดการถ่ายโอนไฟล์
 ```
@@ -2879,7 +2879,7 @@ translates to:
 ```
 Enable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เปิดใช้งานการเขียนข้อผิดพลาดของ App ไปยังไฟล์ใน SD card
 ```
@@ -2889,7 +2889,7 @@ translates to:
 ```
 Start background sync…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เริ่มซิงค์พื้นหลัง&#8230;
 ```
@@ -2899,7 +2899,7 @@ translates to:
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่เคย
 ```
@@ -2909,7 +2909,7 @@ translates to:
 ```
 When app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เมื่อเข้าสู่แอปพื้นหลัง
 ```
@@ -2919,7 +2919,7 @@ translates to:
 ```
 %d seconds after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d วินาทีหลังจากที่แอปเข้ามาในพื้นหลัง
 ```
@@ -2929,7 +2929,7 @@ translates to:
 ```
 %d minutes after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d นาทีหลังจากที่แอปเข้ามาในพื้นหลัง
 ```
@@ -2939,7 +2939,7 @@ translates to:
 ```
 Sync starting in %d seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เริ่มต้นในการซิงค์ %d วินาที
 ```
@@ -2949,7 +2949,7 @@ translates to:
 ```
 You can cancel the sync at any time and your data will be synced on next attempt.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คุณสามารถยกเลิกการซิงค์ได้ตลอดเวลาและข้อมูลของคุณจะถูกซิงค์ในครั้งต่อไป
 ```
@@ -2959,7 +2959,7 @@ translates to:
 ```
 Press back again to exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 กดกลับมาอีกครั้งเพื่อออกจาก
 ```
@@ -2969,7 +2969,7 @@ translates to:
 ```
 Cannot start sync with no internet access on the device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่สามารถเริ่มการซิงค์กับอินเทอร์เน็ตที่ไม่มีในอุปกรณ์
 ```
@@ -2979,7 +2979,7 @@ translates to:
 ```
 Manage map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 จัดการไฟล์แผนที่
 ```
@@ -2989,7 +2989,7 @@ translates to:
 ```
 Map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไฟล์แผนที่
 ```
@@ -2999,7 +2999,7 @@ translates to:
 ```
 Delete map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ลบไฟล์แผนที่
 ```
@@ -3009,7 +3009,7 @@ translates to:
 ```
 This action will delete the map file from this device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การกระทำนี้จะลบไฟล์แผนที่จากอุปกรณ์นี้
 ```
@@ -3019,7 +3019,7 @@ translates to:
 ```
 This action will delete the map file from your device forever. All the markers inside that file will be lost. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การกระทำนี้จะลบไฟล์แผนที่จากอุปกรณ์ของคุณตลอดไป ทั้งหมดเครื่องหมายภายในแฟ้มที่จะหายไป คุณแน่ใจไหม?
 ```
@@ -3029,7 +3029,7 @@ translates to:
 ```
 This action will delete the map file from your device forever. All changes not yet synced to the cloud will be lost. The cloud folder will not be affected by this action and you will have to delete it manually. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การกระทำนี้จะลบไฟล์แผนที่จากอุปกรณ์ของคุณตลอดไป การเปลี่ยนแปลงทั้งหมดยังไม่ซิงค์กับระบบคลาวด์จะหายไป โฟลเดอร์เมฆจะไม่ได้รับผลกระทบจากการกระทำนี้และคุณจะต้องลบด้วยตนเอง คุณแน่ใจไหม?
 ```
@@ -3039,7 +3039,7 @@ translates to:
 ```
 Map file successfully deleted
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไฟล์แผนที่ลบเรียบร้อยแล้ว
 ```
@@ -3049,7 +3049,7 @@ translates to:
 ```
 Could not delete map file: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่สามารถลบไฟล์แผนที่: %s
 ```
@@ -3059,7 +3059,7 @@ translates to:
 ```
 Marker saved in a non visible folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เครื่องหมายที่บันทึกไว้ในโฟลเดอร์ที่มองเห็นไม่ใช่
 ```
@@ -3069,7 +3069,7 @@ translates to:
 ```
 Your changes have not been synced recently. Make sure you keep your cloud copy up to date. Do you want to sync now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การเปลี่ยนแปลงของคุณยังไม่ได้รับการซิงค์เมื่อเร็ว ๆ นี้ ตรวจสอบให้แน่ใจว่าคุณเก็บของคุณเมฆคัดลอกได้ถึงวันที่ คุณต้องการที่จะซิงค์ตอนนี้หรือไม่
 ```
@@ -3079,7 +3079,7 @@ translates to:
 ```
 The markers of this map file are currently only saved on this device. It is recommended to save your markers on the cloud to avoid losing them. Do you want to save them to the cloud now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เครื่องหมายของไฟล์แผนที่นี้กำลังบันทึกไว้ในอุปกรณ์นี้ ก็จะแนะนำให้บันทึกเครื่องหมายของคุณบนเมฆเพื่อหลีกเลี่ยงการสูญเสียพวกเขา คุณต้องการที่จะบันทึกไว้ในระบบคลาวด์ในตอนนี้?
 ```
@@ -3089,7 +3089,7 @@ translates to:
 ```
 Do you want to sync this map file? With manual you will need to sync manually every time. With automatic (recommended) you will select a destination cloud folder and the sync to the cloud will start automatically every time the app enters background.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คุณต้องการที่จะซิงค์ไฟล์แผนที่นี้อย่างไร? พร้อมกับคู่มือคุณจะต้องซิงค์ด้วยตนเองทุกครั้ง ด้วยโดยอัตโนมัติ (แนะนำ) คุณจะเลือกโฟลเดอร์ปลายทางเมฆและซิงค์ไปยังเมฆจะเริ่มต้นโดยอัตโนมัติทุกครั้งที่เข้าสู่แอปพื้นหลัง
 ```
@@ -3099,7 +3099,7 @@ translates to:
 ```
 Automatic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 อัตโนมัติ
 ```
@@ -3109,7 +3109,7 @@ translates to:
 ```
 Manual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คู่มือ
 ```
@@ -3119,7 +3119,7 @@ translates to:
 ```
 You can sync a map file on the cloud at any time by clicking on the map file in the side bar and then choosing the "Cloud sync" option.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คุณสามารถซิงค์ไฟล์แผนที่บนเมฆในเวลาใด ๆ โดยการคลิกที่ไฟล์แผนที่ในแถบด้านข้างและจากนั้นเลือก "เมฆซิงค์" ตัวเลือก
 ```
@@ -3129,7 +3129,7 @@ translates to:
 ```
 You can sync a map file manually to the cloud at any time by clicking the "share" button in the main action bar, and then "Other options" and then "All markers and folders" and then by selecting your favorite cloud storage app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คุณสามารถซิงค์ไฟล์แผนที่ด้วยตนเองไปยังเมฆในเวลาใดก็ได้โดยคลิกที่ปุ่ม "Share" ในแถบการดำเนินการหลักแล้ว "ตัวเลือกอื่น ๆ " แล้ว "เครื่องหมายทั้งหมดและโฟลเดอร์" แล้วโดยการเลือกการจัดเก็บเมฆ App ที่คุณชื่นชอบ
 ```
@@ -3139,7 +3139,7 @@ translates to:
 ```
 Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เลื่อนแผนที่ไปรอบ ๆ เพื่อวางจุดคลิก '+' เพื่อเพิ่มจุดให้คลิก '-' เพื่อลบจุดและจุดเปลี่ยนที่มีปุ่มก่อนหน้า / ถัดไป สุดท้ายคลิกบันทึกเพื่อบันทึกรูปร่าง
 ```
@@ -3149,7 +3149,7 @@ translates to:
 ```
 There are not enough points to create the shape. Create more points and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 มีไม่จุดเพียงพอที่จะสร้างรูปร่าง สร้างจุดมากขึ้นและลองอีกครั้ง
 ```
@@ -3159,7 +3159,7 @@ translates to:
 ```
 Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn\'t work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by email (side panel -> about -> send email).
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่สามารถเปิดใช้การอัปเกรดพรีเมี่ยมจากบัญชี Google ของคุณ ถ้าคุณซื้อการปรับรุ่นพรีเมี่ยมเมื่อเร็ว ๆ นี้จากอุปกรณ์อื่นคุณอาจต้องรอเป็นเล็ก ๆ น้อย ๆ สำหรับการซื้อเพื่อเผยแพร่รีสตาร์ทอุปกรณ์ของคุณจะทำให้มันเร็วขึ้น ถ้ามันยังไม่ทำงานให้แน่ใจว่าคุณซื้อติดตั้งตรวจสอบและเปิดใช้งานด้วยบัญชี Google เดียวกัน หากปัญหายังคงมีฉันจะช่วยให้คุณที่ดีที่สุดที่ฉันสามารถคุณสามารถติดต่อเราโดย email (แผงด้านข้าง -&gt; เกี่ยวกับ -&gt; ส่ง email )
 ```
@@ -3169,7 +3169,7 @@ translates to:
 ```
 Distance: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ระยะทาง: %s
 ```
@@ -3180,7 +3180,7 @@ translates to:
 Perimeter: %1$s
 Area: %2$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ปริมณฑล: %1$s 
  พื้นที่: %2$s
@@ -3191,7 +3191,7 @@ translates to:
 ```
 Extra information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ข้อมูลเพิ่มเติม
 ```
@@ -3201,7 +3201,7 @@ translates to:
 ```
 Insert…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แทรก…
 ```
@@ -3211,7 +3211,7 @@ translates to:
 ```
 Replace title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เปลี่ยนชื่อ
 ```
@@ -3221,7 +3221,7 @@ translates to:
 ```
 Replace description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แทนที่คำอธิบาย
 ```
@@ -3231,7 +3231,7 @@ translates to:
 ```
 Unit of distance
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 หน่วยของระยะทาง
 ```
@@ -3241,7 +3241,7 @@ translates to:
 ```
 Unit of area
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 หน่วยพื้นที่
 ```
@@ -3251,7 +3251,7 @@ translates to:
 ```
 Metric (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ตัวชี้วัด ( %s )
 ```
@@ -3261,7 +3261,7 @@ translates to:
 ```
 Imperial (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 อิมพีเรียล ( %s )
 ```
@@ -3271,7 +3271,7 @@ translates to:
 ```
 Images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ภาพ
 ```
@@ -3281,7 +3281,7 @@ translates to:
 ```
 Select image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เลือกรูปภาพ
 ```
@@ -3291,7 +3291,7 @@ translates to:
 ```
 Imported images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ภาพที่นำเข้า
 ```
@@ -3301,7 +3301,7 @@ translates to:
 ```
 Fit in a %1$sx%2$s square
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 พอดีกับ %1$s x %2$s ตาราง
 ```
@@ -3311,7 +3311,7 @@ translates to:
 ```
 Full quality
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คุณภาพเต็มรูปแบบ
 ```
@@ -3321,7 +3321,7 @@ translates to:
 ```
 Mobile data
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ข้อมูลมือถือ
 ```
@@ -3331,7 +3331,7 @@ translates to:
 ```
 Wifi
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Wifi
 ```
@@ -3341,7 +3341,7 @@ Wifi
 ```
 Disabled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 พิการ
 ```
@@ -3351,7 +3351,7 @@ translates to:
 ```
 Up to %s per sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ขึ้นไป %s ต่อการซิงค์
 ```
@@ -3361,7 +3361,7 @@ translates to:
 ```
 Unlimited
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่ จำกัด
 ```
@@ -3371,7 +3371,7 @@ translates to:
 ```
 The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings. You can also click "force sync" to sync just one time without data volume limit.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ซิงค์ถูกยกเลิกเพราะมันเกินขีด จำกัด ปริมาณข้อมูลที่ได้รับอนุญาต เพื่อเพิ่มหรือเปลี่ยนการ จำกัด ให้ไปที่การตั้งค่า นอกจากนี้คุณยังสามารถคลิก "แรงซิงค์" เพื่อซิงค์เพียงครั้งเดียวโดยไม่ จำกัด ปริมาณข้อมูล
 ```
@@ -3381,7 +3381,7 @@ translates to:
 ```
 Force sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ซิงค์กองทัพ
 ```
@@ -3391,7 +3391,7 @@ translates to:
 ```
 This will override the usual data limit just for this one time. Force sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 นี้จะแทนที่ขีด จำกัด ข้อมูลตามปกติเพียง แต่สำหรับครั้งนี้ครั้งเดียว ซิงค์กองทัพ?
 ```
@@ -3401,7 +3401,7 @@ translates to:
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ลองใหม่อีกครั้ง
 ```
@@ -3411,7 +3411,7 @@ translates to:
 ```
 Add image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เพิ่มรูปภาพ
 ```
@@ -3421,7 +3421,7 @@ translates to:
 ```
 From camera
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 จากกล้อง
 ```
@@ -3431,7 +3431,7 @@ translates to:
 ```
 From gallery
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 จากแกลเลอรี่
 ```
@@ -3441,7 +3441,7 @@ translates to:
 ```
 Importing image…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การนำเข้าภาพ&#8230;
 ```
@@ -3451,7 +3451,7 @@ translates to:
 ```
 Offline (Mapsforge BETA)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แบบออฟไลน์ ( Mapsforge BETA )
 ```
@@ -3461,7 +3461,7 @@ translates to:
 ```
 Exporting…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การส่งออก&#8230;
 ```
@@ -3471,7 +3471,7 @@ translates to:
 ```
 Export failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ส่งออกล้มเหลว
 ```
@@ -3481,7 +3481,7 @@ translates to:
 ```
 Export succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ส่งออกประสบความสำเร็จ
 ```
@@ -3491,7 +3491,7 @@ translates to:
 ```
 KMZ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KMZ
 ```
@@ -3501,7 +3501,7 @@ KMZ
 ```
 KML
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KML
 ```
@@ -3511,7 +3511,7 @@ KML
 ```
 Importing file…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การนำเข้าแฟ้ม&#8230;
 ```
@@ -3521,7 +3521,7 @@ translates to:
 ```
 Show warning icon for sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แสดงไอคอนคำเตือนสำหรับการซิงค์
 ```
@@ -3531,7 +3531,7 @@ translates to:
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ซิงค์ถูกยกเลิกเนื่องจากไฟล์สื่อบนระบบคลาวด์ที่ขาดหายไป คุณสามารถละเว้นแฟ้มที่หายไปโดยการคลิกที่ "แรงซิงค์ \" คำเตือนละเว้นแฟ้มที่หายไปจะส่งผลในการลบออกจากฐานข้อมูลซึ่งหมายความว่าอุปกรณ์อื่น ๆ ยังคงมีสำเนาของไฟล์จะลบมันเมื่อซิงค์
 ```
@@ -3541,7 +3541,7 @@ translates to:
 ```
 This will force the sync and ignore the missing cloud files. The missing links will be removed from the database. Other devices still owning a local version of the missing cloud files will delete them upon their next sync. Data consumption limits will be ignored for this special sync. Force Sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 นี้จะบังคับซิงค์และไม่สนใจไฟล์เมฆที่ขาดหายไป การเชื่อมโยงที่ขาดหายไปจะถูกลบออกจากฐานข้อมูล อุปกรณ์อื่น ๆ ยังคงเป็นเจ้าของท้องถิ่นของไฟล์เมฆหายไปจะลบพวกเขาเมื่อซิงค์พวกเขาต่อไป ขีด จำกัด การบริโภคข้อมูลจะถูกละเว้นสำหรับการซิงค์พิเศษนี้ กองทัพซิงค์?
 ```
@@ -3551,7 +3551,7 @@ translates to:
 ```
 Marker media files ignored on import: %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไฟล์มีเดียเครื่องหมายละเว้นในการนำเข้า: %1$d
 ```
@@ -3561,7 +3561,7 @@ translates to:
 ```
 Checking premium status…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ตรวจสอบสถานะการพรีเมี่ยม&#8230;
 ```
@@ -3571,7 +3571,7 @@ translates to:
 ```
 General
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ทั่วไป
 ```
@@ -3581,7 +3581,7 @@ translates to:
 ```
 Toilets
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ห้องน้ำ
 ```
@@ -3591,7 +3591,7 @@ translates to:
 ```
 Food
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 อาหาร
 ```
@@ -3601,7 +3601,7 @@ translates to:
 ```
 Stores
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ร้านค้า
 ```
@@ -3611,7 +3611,7 @@ translates to:
 ```
 Land activities
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 กิจกรรมบนบก
 ```
@@ -3621,7 +3621,7 @@ translates to:
 ```
 Water activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 กิจกรรมทางน้ำ
 ```
@@ -3631,7 +3631,7 @@ translates to:
 ```
 Winter activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 กิจกรรมในช่วงฤดูหนาว
 ```
@@ -3641,7 +3641,7 @@ translates to:
 ```
 Transport
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ขนส่ง
 ```
@@ -3651,7 +3651,7 @@ translates to:
 ```
 Health
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 สุขภาพ
 ```
@@ -3661,7 +3661,7 @@ translates to:
 ```
 Entertainment
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การบันเทิง
 ```
@@ -3671,7 +3671,7 @@ translates to:
 ```
 Services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 บริการ
 ```
@@ -3681,7 +3681,7 @@ translates to:
 ```
 Business
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ธุรกิจ
 ```
@@ -3691,7 +3691,7 @@ translates to:
 ```
 Government
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 รัฐบาล
 ```
@@ -3701,7 +3701,7 @@ translates to:
 ```
 Religious
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เคร่งศาสนา
 ```
@@ -3711,7 +3711,7 @@ translates to:
 ```
 Accessibility
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การเข้าถึง
 ```
@@ -3721,7 +3721,7 @@ translates to:
 ```
 Select icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เลือกไอคอน
 ```
@@ -3731,7 +3731,7 @@ translates to:
 ```
 Icon and color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไอคอนและสี
 ```
@@ -3741,7 +3741,7 @@ translates to:
 ```
 Generic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ทั่วไป
 ```
@@ -3751,7 +3751,7 @@ translates to:
 ```
 Beta tester badge: thank you for being a beta tester! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ป้ายทดสอบเบต้า: ขอขอบคุณสำหรับการเป็นผู้ทดสอบเบต้า! ป้ายนี้จะหายไปเมื่อได้ถอนการติดตั้ง app หรือล้างข้อมูลแอป ป้ายนี้ยังช่วยให้คุณมีไม่มีโฆษณาบนแอป
 ```
@@ -3761,7 +3761,7 @@ translates to:
 ```
 Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ป้ายอ้างอิง: ขอขอบคุณสำหรับการเชิญชวนให้เพื่อนของคุณเพื่อ app! ป้ายนี้จะหายไปเมื่อได้ถอนการติดตั้ง app หรือล้างข้อมูลแอป ป้ายนี้ยังช่วยให้คุณมีไม่มีโฆษณาบนแอป
 ```
@@ -3771,7 +3771,7 @@ translates to:
 ```
 Referral
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การอ้างอิง
 ```
@@ -3781,7 +3781,7 @@ translates to:
 ```
 Removing ads: exchange referrals credits with friends to remove ads
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การถอดโฆษณา: สินเชื่ออ้างอิงการแลกเปลี่ยนกับเพื่อน ๆ ที่จะลบโฆษณา
 ```
@@ -3791,7 +3791,7 @@ translates to:
 ```
 Sent credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 สินเชื่อส่ง: %s
 ```
@@ -3801,7 +3801,7 @@ translates to:
 ```
 Received credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เครดิตที่ได้รับ: %s
 ```
@@ -3811,7 +3811,7 @@ translates to:
 ```
 Contribute to translations
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 นำไปสู่การแปล
 ```
@@ -3821,7 +3821,7 @@ translates to:
 ```
 You understand English and want to help with translations? Click here
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คุณเข้าใจภาษาอังกฤษและต้องการที่จะช่วยให้มีการแปล? คลิกที่นี่
 ```
@@ -3831,7 +3831,7 @@ translates to:
 ```
 The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 สีโฟลเดอร์ปลายทางหรือไอคอนที่แตกต่างกัน คุณต้องการที่จะปรับปรุงสีและเครื่องหมายไอคอน?
 ```
@@ -3841,7 +3841,7 @@ translates to:
 ```
 Add color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เพิ่มสีสัน
 ```
@@ -3851,7 +3851,7 @@ translates to:
 ```
 <![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; อะไรคือสิ่งที่พรีเมี่ยมอัพเกรด &lt;/ b&gt; &lt;br&gt; ด้านบนของโฆษณาถอดอัพเกรดพรีเมี่ยมพรีเมี่ยมเผยคุณสมบัติพิเศษดังต่อไปนี้: • &lt;br&gt; Sync บน Google Drive หรือ Dropbox &lt;br&gt; •การทำงานร่วมกันผ่านทาง Google Drive หรือ Dropbox &lt;br&gt; •ประวัติแผนที่รุ่นและเรียกคืนฟรี &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -3861,7 +3861,7 @@ translates to:
 ```
 Marker created from the geo location of the QR code
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker สร้างขึ้นจากที่ตั้งทางภูมิศาสตร์ของรหัส QR
 ```
@@ -3871,7 +3871,7 @@ Marker สร้างขึ้นจากที่ตั้งทางภู�
 ```
 Failed to read QR code as a geo location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่สามารถอ่านรหัส QR เป็นตำแหน่งทางภูมิศาสตร์
 ```
@@ -3881,7 +3881,7 @@ translates to:
 ```
 The app for scanning QR codes could not be found. Do you want to install it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แอปพลิเคสำหรับการสแกนรหัส QR ไม่พบ คุณต้องการที่จะติดตั้งหรือไม่
 ```
@@ -3891,7 +3891,7 @@ translates to:
 ```
 Selection action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 การดำเนินการคัดเลือก
 ```
@@ -3901,7 +3901,7 @@ translates to:
 ```
 Move to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เลื่อนไปทางซ้าย
 ```
@@ -3911,7 +3911,7 @@ translates to:
 ```
 Move to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เลื่อนไปทางขวา
 ```
@@ -3921,7 +3921,7 @@ translates to:
 ```
 Rotate to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 หมุนไปทางซ้าย
 ```
@@ -3931,7 +3931,7 @@ translates to:
 ```
 Rotate to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 หมุนไปทางขวา
 ```
@@ -3941,7 +3941,7 @@ translates to:
 ```
 Delete image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ลบภาพ
 ```
@@ -3951,7 +3951,7 @@ translates to:
 ```
 From local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 จากแฟ้มท้องถิ่น
 ```
@@ -3961,7 +3961,7 @@ translates to:
 ```
 What format to you want to use to export?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 รูปแบบที่จะคุณต้องการใช้ในการส่งออก?
 ```
@@ -3971,7 +3971,7 @@ translates to:
 ```
 The data to export contains media(images) that cannot be included with this export format. The data will be exported without the media. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ข้อมูลการส่งออกมีสื่อ (ภาพ) ที่ไม่สามารถรวมกับรูปแบบของการส่งออกนี้ ข้อมูลจะถูกส่งออกไปโดยไม่ต้องสื่อ เพื่อการส่งออกทุกอย่างให้เลือก KMZ รูปแบบการส่งออก
 ```
@@ -3981,7 +3981,7 @@ translates to:
 ```
 Standard Google Earth format. Cannot contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 มาตรฐาน Google Earth รูปแบบ ไม่สามารถมีสื่อ
 ```
@@ -3991,7 +3991,7 @@ translates to:
 ```
 Zip Google Earth format. Can contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zip Google Earth รูปแบบ สามารถมีสื่อ
 ```
@@ -4001,7 +4001,7 @@ Zip Google Earth รูปแบบ สามารถมีสื่อ
 ```
 Standard text spreadsheet format. Cannot contain media. Cannot contain lines or polygons.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 รูปแบบสเปรดชีทข้อความมาตรฐาน ไม่สามารถมีสื่อ ไม่สามารถมีเส้นหรือรูปหลายเหลี่ยม
 ```
@@ -4011,7 +4011,7 @@ translates to:
 ```
 Marker as plain text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เครื่องหมายเป็นข้อความธรรมดา
 ```
@@ -4021,7 +4021,7 @@ translates to:
 ```
 Marker as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker เป็นไฟล์
 ```
@@ -4031,7 +4031,7 @@ Marker เป็นไฟล์
 ```
 Share the selected marker as a file into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แบ่งปันเครื่องหมายที่เลือกเป็นไฟล์ลงในแอปอื่น
 ```
@@ -4041,7 +4041,7 @@ translates to:
 ```
 Share as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แบ่งปันเป็นไฟล์
 ```
@@ -4051,7 +4051,7 @@ translates to:
 ```
 Export to a local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ส่งออกไปยังแฟ้มท้องถิ่น
 ```
@@ -4061,7 +4061,7 @@ translates to:
 ```
 Import or export markers as files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 นำเข้าหรือส่งออกเป็นไฟล์เครื่องหมาย
 ```
@@ -4071,7 +4071,7 @@ translates to:
 ```
 The data to export contains complex markers (lines or polygons) that cannot be included with this export format. The data will be exported without those markers. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ข้อมูลการส่งออกที่มีเครื่องหมายที่ซับซ้อน (สายหรือรูปหลายเหลี่ยม) ที่ไม่สามารถรวมกับรูปแบบของการส่งออกนี้ ข้อมูลจะถูกส่งออกไม่มีเครื่องหมายเหล่านั้น เพื่อการส่งออกทุกอย่างให้เลือก KMZ รูปแบบการส่งออก
 ```
@@ -4081,7 +4081,7 @@ translates to:
 ```
 Add custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เพิ่มฟิลด์ที่กำหนดเอง
 ```
@@ -4091,7 +4091,7 @@ translates to:
 ```
 Information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ข้อมูล
 ```
@@ -4101,7 +4101,7 @@ translates to:
 ```
 Custom fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ฟิลด์ที่กำหนดเอง
 ```
@@ -4111,7 +4111,7 @@ translates to:
 ```
 Field name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ชื่อฟิลด์
 ```
@@ -4121,7 +4121,7 @@ translates to:
 ```
 Delete field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ลบฟิลด์
 ```
@@ -4131,7 +4131,7 @@ translates to:
 ```
 Attributes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แอตทริบิวต์
 ```
@@ -4141,7 +4141,7 @@ translates to:
 ```
 New custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ฟิลด์ที่กำหนดเองใหม่
 ```
@@ -4151,7 +4151,7 @@ translates to:
 ```
 Modify custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แก้ไขฟิลด์ที่กำหนดเอง
 ```
@@ -4161,7 +4161,7 @@ translates to:
 ```
 Field enabled. For folders, if enabled, that field will be added automatically to children POIs on creation. For POIs, if enabled, that field will be visible in the details page.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เปิดใช้งานฟิลด์แล้ว สำหรับโฟลเดอร์ถ้าเปิดใช้งานฟิลด์นั้นจะถูกเพิ่มโดยอัตโนมัติไปยังจุดที่น่าสนใจของเด็ก ๆ ในการสร้าง สำหรับ POIs ถ้าเปิดใช้งานฟิลด์นั้นจะปรากฏในหน้ารายละเอียด
 ```
@@ -4171,7 +4171,7 @@ translates to:
 ```
 Field info
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ข้อมูลภาคสนาม
 ```
@@ -4181,7 +4181,7 @@ translates to:
 ```
 Select field type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เลือกประเภทของฟิลด์
 ```
@@ -4191,7 +4191,7 @@ translates to:
 ```
 Boolean (True or False)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 บูลีน (จริงหรือเท็จ)
 ```
@@ -4201,7 +4201,7 @@ translates to:
 ```
 Default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ค่าเริ่มต้น
 ```
@@ -4211,7 +4211,7 @@ translates to:
 ```
 Date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 วันที่
 ```
@@ -4221,7 +4221,7 @@ translates to:
 ```
 Email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 อีเมล์
 ```
@@ -4231,7 +4231,7 @@ translates to:
 ```
 Text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ข้อความ
 ```
@@ -4241,7 +4241,7 @@ translates to:
 ```
 Multiple choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ปรนัย
 ```
@@ -4251,7 +4251,7 @@ translates to:
 ```
 Add choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เพิ่มตัวเลือก
 ```
@@ -4261,7 +4261,7 @@ translates to:
 ```
 Duplicates are not allowed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่อนุญาตให้มีการซ้ำกัน
 ```
@@ -4271,7 +4271,7 @@ translates to:
 ```
 Phone
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 โทรศัพท์
 ```
@@ -4281,7 +4281,7 @@ translates to:
 ```
 Web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เว็บลิงค์
 ```
@@ -4291,7 +4291,7 @@ translates to:
 ```
 Choices list
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 รายการ Choices
 ```
@@ -4301,7 +4301,7 @@ translates to:
 ```
 Select default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เลือกค่าเริ่มต้น
 ```
@@ -4311,7 +4311,7 @@ translates to:
 ```
 Creation date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 วันที่สร้าง
 ```
@@ -4321,7 +4321,7 @@ translates to:
 ```
 POI Options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ตัวเลือก POI
 ```
@@ -4331,7 +4331,7 @@ translates to:
 ```
 Delete POI
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ลบ POI
 ```
@@ -4341,7 +4341,7 @@ translates to:
 ```
 Select value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เลือกค่า
 ```
@@ -4351,7 +4351,7 @@ translates to:
 ```
 Used by folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ใช้โดยโฟลเดอร์
 ```
@@ -4361,7 +4361,7 @@ translates to:
 ```
 Edit field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แก้ไขฟิลด์
 ```
@@ -4371,7 +4371,7 @@ translates to:
 ```
 Add folder field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เพิ่มช่องโฟลเดอร์
 ```
@@ -4381,7 +4381,7 @@ translates to:
 ```
 Reorder fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 จัดลำดับเขตข้อมูลใหม่
 ```
@@ -4391,7 +4391,7 @@ translates to:
 ```
 Pick the fields you want to apply to this folder\'s POIs
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เลือกฟิลด์ที่คุณต้องการใช้กับ POI ของโฟลเดอร์นี้
 ```
@@ -4401,7 +4401,7 @@ translates to:
 ```
 The destination folder has different field values. Pick the fields you want to apply to moved POIs.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 โฟลเดอร์ปลายทางมีค่าฟิลด์ต่างกัน เลือกฟิลด์ที่คุณต้องการใช้กับ POI ที่ย้าย
 ```
@@ -4411,7 +4411,7 @@ translates to:
 ```
 Update color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 อัพเดตสี
 ```
@@ -4421,7 +4421,7 @@ translates to:
 ```
 Update pin icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 อัปเดตไอคอนหมุด
 ```
@@ -4431,7 +4431,7 @@ translates to:
 ```
 Add field if missing: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 เพิ่มฟิลด์ถ้าขาดหายไป: %s
 ```
@@ -4441,7 +4441,7 @@ translates to:
 ```
 Remove field if present: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ลบฟิลด์ถ้ามี: %s
 ```
@@ -4451,7 +4451,7 @@ translates to:
 ```
 Update field name if different: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 อัปเดตชื่อฟิลด์ถ้าแตกต่างกัน: %s
 ```
@@ -4461,7 +4461,7 @@ translates to:
 ```
 More options…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ตัวเลือกเพิ่มเติม&#8230;
 ```
@@ -4471,7 +4471,7 @@ translates to:
 ```
 Folder options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ตัวเลือกโฟลเดอร์
 ```
@@ -4481,7 +4481,7 @@ translates to:
 ```
 Edit email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แก้ไข email
 ```
@@ -4491,7 +4491,7 @@ translates to:
 ```
 Edit web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แก้ไขลิงก์เว็บ
 ```
@@ -4501,7 +4501,7 @@ translates to:
 ```
 Decimal accuracy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ความถูกต้องทศนิยม
 ```
@@ -4511,7 +4511,7 @@ translates to:
 ```
 Details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คัดลอกรายละเอียดไปยังคลิปบอร์ดแล้ว
 ```
@@ -4521,7 +4521,7 @@ translates to:
 ```
 Copy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 สำเนา
 ```
@@ -4531,7 +4531,7 @@ translates to:
 ```
 Do you want to click here? ^‿^
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คุณต้องการคลิกที่นี่หรือ? ^ ‿ ^
 ```
@@ -4559,7 +4559,7 @@ And finally, thank you for reading this :-)
 Regards
 Sébastien
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ขอขอบคุณสำหรับความอยากรู้ของคุณ! 
  
@@ -4588,7 +4588,7 @@ translates to:
 ```
 Normal with indoor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ปกติกับภายในอาคาร
 ```
@@ -4598,7 +4598,7 @@ translates to:
 ```
 Floating marker titles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ชื่อเครื่องหมายลอยตัว
 ```
@@ -4608,7 +4608,7 @@ translates to:
 ```
 Maximum number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 จำนวนสูงสุด
 ```
@@ -4618,7 +4618,7 @@ translates to:
 ```
 Text size
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ขนาดข้อความ
 ```
@@ -4628,7 +4628,7 @@ translates to:
 ```
 Search failed => %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ค้นหาล้มเหลว =&gt; %s
 ```
@@ -4638,7 +4638,7 @@ translates to:
 ```
 API key tutorial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 บทช่วยสอน API key
 ```
@@ -4648,7 +4648,7 @@ translates to:
 ```
 Click here to see details on how to obtain an API key for your account.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คลิกที่นี่เพื่อดูรายละเอียดวิธีรับ API key สำหรับบัญชีของคุณ
 ```
@@ -4658,7 +4658,7 @@ translates to:
 ```
 Personal API key
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ส่วนบุคคล API key
 ```
@@ -4668,7 +4668,7 @@ translates to:
 ```
 None
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ไม่มี
 ```
@@ -4680,7 +4680,7 @@ You can search for places with "Google Places API". This search requires an inte
 
 You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คุณสามารถค้นหาสถานที่ด้วย "Google Places API" การค้นหานี้ต้องการการเชื่อมต่ออินเทอร์เน็ต
 
@@ -4692,7 +4692,7 @@ translates to:
 ```
 Do you enjoy the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คุณสนุกกับแอพไหม?
 ```
@@ -4702,7 +4702,7 @@ translates to:
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 คุณต้องการส่ง email ให้ฉันเพื่อบอกฉันว่าฉันสามารถปรับปรุงแอพได้หรือไม่
 ```
@@ -4712,7 +4712,7 @@ translates to:
 ```
 Display extra POI fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แสดงเขตข้อมูล POI พิเศษ
 ```
@@ -4722,7 +4722,7 @@ translates to:
 ```
 IGN plans
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แผนจีเอ็นส์
 ```
@@ -4732,7 +4732,7 @@ translates to:
 ```
 IGN maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 แผนที่ IGN
 ```
@@ -4742,7 +4742,7 @@ translates to:
 ```
 IGN - Cadastral parcels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - พัสดุเกี่ยวกับที่ดิน
 ```
@@ -4752,7 +4752,7 @@ IGN - พัสดุเกี่ยวกับที่ดิน
 ```
 IGN - Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - อากาศ
 ```
@@ -4762,7 +4762,7 @@ IGN - อากาศ
 ```
 Type more and press enter again for refined results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 พิมพ์เพิ่มเติมแล้วกด Enter อีกครั้งเพื่อให้ได้ผลลัพธ์ที่ดีที่สุด
 ```

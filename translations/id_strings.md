@@ -1,4 +1,4 @@
-# Map Marker translations for id
+# Map Marker translations for Indonesian (id)
 
 You want to help improve this translation file? Read the [main page](https://github.com/androidseb/mapmarkerapptranslations)
 
@@ -7,7 +7,7 @@ You want to help improve this translation file? Read the [main page](https://git
 ```
 OK
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 OKE
 ```
@@ -17,7 +17,7 @@ OKE
 ```
 Yes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Iya Nih
 ```
@@ -27,7 +27,7 @@ Iya Nih
 ```
 No
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tidak
 ```
@@ -37,7 +37,7 @@ Tidak
 ```
 Cancel
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Membatalkan
 ```
@@ -47,7 +47,7 @@ Membatalkan
 ```
 New marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Penanda baru
 ```
@@ -57,7 +57,7 @@ Penanda baru
 ```
 Title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Judul
 ```
@@ -67,7 +67,7 @@ Judul
 ```
 Description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Deskripsi
 ```
@@ -77,7 +77,7 @@ Deskripsi
 ```
 Do you really want to delete this marker?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Apakah Anda benar-benar ingin menghapus tanda ini?
 ```
@@ -87,7 +87,7 @@ Apakah Anda benar-benar ingin menghapus tanda ini?
 ```
 GPS coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Koordinat GPS
 ```
@@ -97,7 +97,7 @@ Koordinat GPS
 ```
 Could not copy coordinates to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tidak bisa menyalin koordinat ke clipboard
 ```
@@ -107,7 +107,7 @@ Tidak bisa menyalin koordinat ke clipboard
 ```
 Coordinates copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Koordinat disalin ke clipboard
 ```
@@ -117,7 +117,7 @@ Koordinat disalin ke clipboard
 ```
 Failed to access application save directory. Make sure that your device is not being accessed by a computer with the USB cable, and restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gagal mengakses aplikasi menyimpan direktori. Pastikan perangkat Anda tidak sedang diakses oleh komputer dengan kabel USB, dan restart app.
 ```
@@ -127,7 +127,7 @@ Gagal mengakses aplikasi menyimpan direktori. Pastikan perangkat Anda tidak seda
 ```
 Untitled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Untitled
 ```
@@ -137,7 +137,7 @@ Untitled
 ```
 All
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Semua
 ```
@@ -147,7 +147,7 @@ Semua
 ```
 Add folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tambah folder
 ```
@@ -157,7 +157,7 @@ Tambah folder
 ```
 Modify folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Memodifikasi folder
 ```
@@ -167,7 +167,7 @@ Memodifikasi folder
 ```
 Are you sure you want to delete this folder? All markers associated to this folder will be deleted permanently!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Apakah Anda yakin ingin menghapus folder ini? Semua penanda terkait dengan folder ini akan dihapus secara permanen!
 ```
@@ -177,7 +177,7 @@ Apakah Anda yakin ingin menghapus folder ini? Semua penanda terkait dengan folde
 ```
 Failed to create new folder, it already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gagal membuat folder baru, sudah ada
 ```
@@ -187,7 +187,7 @@ Gagal membuat folder baru, sudah ada
 ```
 Failed to rename the folder, the destination name already exists
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gagal mengubah nama folder, nama tujuan sudah ada
 ```
@@ -197,7 +197,7 @@ Gagal mengubah nama folder, nama tujuan sudah ada
 ```
 Latitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lintang:
 ```
@@ -207,7 +207,7 @@ Lintang:
 ```
 Longitude:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bujur:
 ```
@@ -217,7 +217,7 @@ Bujur:
 ```
 Could not write file.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tidak bisa menulis berkas.
 ```
@@ -227,7 +227,7 @@ Tidak bisa menulis berkas.
 ```
 Import/Export
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Impor / Ekspor
 ```
@@ -237,7 +237,7 @@ Impor / Ekspor
 ```
 Import markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Penanda impor
 ```
@@ -247,7 +247,7 @@ Penanda impor
 ```
 File imported successfully
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 File berhasil diimpor
 ```
@@ -257,7 +257,7 @@ File berhasil diimpor
 ```
 File import failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Berkas impor gagal
 ```
@@ -267,7 +267,7 @@ Berkas impor gagal
 ```
 Location services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Layanan lokasi
 ```
@@ -277,7 +277,7 @@ Layanan lokasi
 ```
 Location services are disabled. To get your current location you must enable them.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Layanan lokasi dinonaktifkan. Untuk mendapatkan lokasi Anda saat ini, Anda harus mengaktifkan mereka.
 ```
@@ -287,7 +287,7 @@ Layanan lokasi dinonaktifkan. Untuk mendapatkan lokasi Anda saat ini, Anda harus
 ```
 Could not find address
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tidak dapat menemukan alamat
 ```
@@ -297,7 +297,7 @@ Tidak dapat menemukan alamat
 ```
 Searching&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mencari&#8230;
 ```
@@ -307,7 +307,7 @@ Mencari&#8230;
 ```
 Search
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pencarian
 ```
@@ -317,7 +317,7 @@ Pencarian
 ```
 Share via
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Berbagi melalui
 ```
@@ -327,7 +327,7 @@ Berbagi melalui
 ```
 Do you want to import the content of this file?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Apakah Anda ingin mengimpor isi dari file ini?
 ```
@@ -337,7 +337,7 @@ Apakah Anda ingin mengimpor isi dari file ini?
 ```
 Folder name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nama folder
 ```
@@ -347,7 +347,7 @@ Nama folder
 ```
 Save
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Simpan
 ```
@@ -357,7 +357,7 @@ Simpan
 ```
 Close
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dekat
 ```
@@ -367,7 +367,7 @@ Dekat
 ```
 Are you sure you want to delete the selected markers?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Apakah Anda yakin ingin menghapus penanda yang dipilih?
 ```
@@ -377,7 +377,7 @@ Apakah Anda yakin ingin menghapus penanda yang dipilih?
 ```
 Move markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pindahkan penanda ke folder
 ```
@@ -387,7 +387,7 @@ Pindahkan penanda ke folder
 ```
 Share
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Saham
 ```
@@ -397,7 +397,7 @@ Saham
 ```
 Folder:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Folder:
 ```
@@ -407,7 +407,7 @@ Folder:
 ```
 Snapshot of my markers on Map Marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Snapshot penanda saya di Map Marker
 ```
@@ -418,7 +418,7 @@ Snapshot penanda saya di Map Marker
 This snapshot was made with the app Map Marker:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Snapshot ini dibuat dengan aplikasi Map Marker : 
  %s
@@ -429,7 +429,7 @@ Snapshot ini dibuat dengan aplikasi Map Marker :
 ```
 Processing data&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mengolah data&#8230;
 ```
@@ -439,7 +439,7 @@ Mengolah data&#8230;
 ```
 You have unsaved modifications, do you want to save them?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Anda memiliki modifikasi yang belum disimpan, apakah Anda ingin menyimpannya?
 ```
@@ -449,7 +449,7 @@ Anda memiliki modifikasi yang belum disimpan, apakah Anda ingin menyimpannya?
 ```
 Use the long press on the map to create a new marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gunakan tekan lama pada peta untuk membuat penanda baru
 ```
@@ -459,7 +459,7 @@ Gunakan tekan lama pada peta untuk membuat penanda baru
 ```
 Map type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jenis Peta
 ```
@@ -469,7 +469,7 @@ Jenis Peta
 ```
 Normal
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Normal
 ```
@@ -479,7 +479,7 @@ Normal
 ```
 Satellite
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Satelit
 ```
@@ -489,7 +489,7 @@ Satelit
 ```
 Terrain
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Medan
 ```
@@ -499,7 +499,7 @@ Medan
 ```
 Hybrid
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hibrida
 ```
@@ -510,7 +510,7 @@ Hibrida
 Found a problem? Have an idea of improvement?
 Send me an email :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ditemukan masalah? Memiliki gagasan tentang perbaikan? 
  Kirimi saya email :-)
@@ -521,7 +521,7 @@ Ditemukan masalah? Memiliki gagasan tentang perbaikan?
 ```
 Send email&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kirim email&#8230;
 ```
@@ -532,7 +532,7 @@ Kirim email&#8230;
 You like the app?
 Rate it 5 stars :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Anda suka app? 
  Menilainya 5 :-)
@@ -543,7 +543,7 @@ Anda suka app?
 ```
 Change folder to&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ubah folder untuk&#8230;
 ```
@@ -553,7 +553,7 @@ Ubah folder untuk&#8230;
 ```
 Directions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Arah
 ```
@@ -563,7 +563,7 @@ Arah
 ```
 Acquiring location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mengambil lokasi&#8230;
 ```
@@ -573,7 +573,7 @@ Mengambil lokasi&#8230;
 ```
 Meters
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Meter
 ```
@@ -583,7 +583,7 @@ Meter
 ```
 Km
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Km
 ```
@@ -593,7 +593,7 @@ Km
 ```
 Feet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kaki
 ```
@@ -603,7 +603,7 @@ Kaki
 ```
 Miles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Miles
 ```
@@ -613,7 +613,7 @@ Miles
 ```
 Adjust map camera position when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sesuaikan peta posisi kamera saat membimbing ke lokasi penanda
 ```
@@ -623,7 +623,7 @@ Sesuaikan peta posisi kamera saat membimbing ke lokasi penanda
 ```
 Keep screen on when guiding to a marker location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jauhkan layar pada saat membimbing ke lokasi penanda
 ```
@@ -633,7 +633,7 @@ Jauhkan layar pada saat membimbing ke lokasi penanda
 ```
 Marker details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Rincian penanda disalin ke clipboard
 ```
@@ -643,7 +643,7 @@ Rincian penanda disalin ke clipboard
 ```
 Long press to drag and move the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tekan lama untuk menyeret dan memindahkan penanda
 ```
@@ -653,7 +653,7 @@ Tekan lama untuk menyeret dan memindahkan penanda
 ```
 Error starting internal task manager, app will now exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kesalahan mulai task manager internal app sekarang akan keluar
 ```
@@ -663,7 +663,7 @@ Kesalahan mulai task manager internal app sekarang akan keluar
 ```
 Do not show again
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jangan tunjukkan lagi
 ```
@@ -673,7 +673,7 @@ Jangan tunjukkan lagi
 ```
 Could not create the map capture
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tidak dapat membuat penangkapan peta
 ```
@@ -683,7 +683,7 @@ Tidak dapat membuat penangkapan peta
 ```
 Metric (Kilometers/Meters)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Metric (Kilometer / Meter)
 ```
@@ -693,7 +693,7 @@ Metric (Kilometer / Meter)
 ```
 Imperial (Miles/Feet)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Imperial (Miles / Feet)
 ```
@@ -703,7 +703,7 @@ Imperial (Miles / Feet)
 ```
 There is a problem with Google Play Services: it needs to be installed, updated or activated. Click OK to try and solve it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ada masalah dengan Google Play Services : perlu diinstal, diperbarui atau diaktifkan. Klik OK untuk mencoba dan menyelesaikannya.
 ```
@@ -713,7 +713,7 @@ Ada masalah dengan Google Play Services : perlu diinstal, diperbarui atau diakti
 ```
 Delete folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hapus folder
 ```
@@ -723,7 +723,7 @@ Hapus folder
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jika Anda menyukai aplikasi saya, Anda dapat membalas saya dengan mengambil waktu untuk memberikan peringkat yang baik :-)
 ```
@@ -734,7 +734,7 @@ Jika Anda menyukai aplikasi saya, Anda dapat membalas saya dengan mengambil wakt
 OK take me
 to the Play Store
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 OK membawa saya 
  ke Play Store
@@ -746,7 +746,7 @@ OK membawa saya
 I already
 gave a rating
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Saya sudah 
  memberi rating
@@ -758,7 +758,7 @@ Saya sudah
 Maybe later
 remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mungkin nanti 
  mengingatkan saya
@@ -770,7 +770,7 @@ Mungkin nanti
 Maybe later
 do not remind me
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mungkin nanti 
  tidak mengingatkan saya
@@ -781,7 +781,7 @@ Mungkin nanti
 ```
 Could not find the place
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tidak dapat menemukan tempat
 ```
@@ -791,7 +791,7 @@ Tidak dapat menemukan tempat
 ```
 Could not find another map application
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tidak dapat menemukan aplikasi peta lain
 ```
@@ -801,7 +801,7 @@ Tidak dapat menemukan aplikasi peta lain
 ```
 Move the map around to place your marker where you want and click OK to place it.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Memindahkan peta sekitar untuk menempatkan penanda Anda di mana Anda inginkan dan klik OK untuk menempatkannya
 ```
@@ -811,7 +811,7 @@ Memindahkan peta sekitar untuk menempatkan penanda Anda di mana Anda inginkan da
 ```
 Imported marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Impor penanda
 ```
@@ -821,7 +821,7 @@ Impor penanda
 ```
 Settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pengaturan
 ```
@@ -831,7 +831,7 @@ Pengaturan
 ```
 Display zoom buttons
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tombol layar zoom
 ```
@@ -841,7 +841,7 @@ Tombol layar zoom
 ```
 Decimal degrees
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Derajat desimal
 ```
@@ -851,7 +851,7 @@ Derajat desimal
 ```
 Degrees decimal minutes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gelar menit desimal
 ```
@@ -861,7 +861,7 @@ Gelar menit desimal
 ```
 Degrees minutes seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gelar menit detik
 ```
@@ -871,7 +871,7 @@ Gelar menit detik
 ```
 Coordinates format
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Format Koordinat
 ```
@@ -881,7 +881,7 @@ Format Koordinat
 ```
 GPS and wireless networks only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GPS dan jaringan nirkabel hanya
 ```
@@ -891,7 +891,7 @@ GPS dan jaringan nirkabel hanya
 ```
 GPS and wireless networks or magnetic sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GPS dan jaringan nirkabel atau sensor magnetik
 ```
@@ -901,7 +901,7 @@ GPS dan jaringan nirkabel atau sensor magnetik
 ```
 Magnetic sensor only
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sensor magnetik hanya
 ```
@@ -911,7 +911,7 @@ Sensor magnetik hanya
 ```
 Used compass sensor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sensor kompas digunakan
 ```
@@ -921,7 +921,7 @@ Sensor kompas digunakan
 ```
 FAQ/Help
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 FAQ / Bantuan
 ```
@@ -931,7 +931,7 @@ FAQ / Bantuan
 ```
 Folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Folder
 ```
@@ -941,7 +941,7 @@ Folder
 ```
 Help and settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bantuan dan pengaturan
 ```
@@ -951,7 +951,7 @@ Bantuan dan pengaturan
 ```
 Language
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bahasa
 ```
@@ -961,7 +961,7 @@ Bahasa
 ```
 Marker popup style
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Popup gaya Marker
 ```
@@ -971,7 +971,7 @@ Popup gaya Marker
 ```
 Bottom
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dasar
 ```
@@ -981,7 +981,7 @@ Dasar
 ```
 Bubble
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gelembung
 ```
@@ -991,7 +991,7 @@ Gelembung
 ```
 Coordinates
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Koordinat
 ```
@@ -1001,7 +1001,7 @@ Koordinat
 ```
 Contextual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kontekstual
 ```
@@ -1011,7 +1011,7 @@ Kontekstual
 ```
 Always
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Selalu
 ```
@@ -1021,7 +1021,7 @@ Selalu
 ```
 Crosshair display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Display Crosshair
 ```
@@ -1031,7 +1031,7 @@ Display Crosshair
 ```
 Coordinates window
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jendela Koordinat
 ```
@@ -1041,7 +1041,7 @@ Jendela Koordinat
 ```
 Lat:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lat:
 ```
@@ -1051,7 +1051,7 @@ Lat:
 ```
 Lng:
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lng:
 ```
@@ -1061,7 +1061,7 @@ Lng:
 ```
 Marker instant adding mode
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker instan modus menambahkan
 ```
@@ -1071,7 +1071,7 @@ Marker instan modus menambahkan
 ```
 Advanced
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Maju
 ```
@@ -1081,7 +1081,7 @@ Maju
 ```
 Display
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pameran
 ```
@@ -1091,7 +1091,7 @@ Pameran
 ```
 Actions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tindakan
 ```
@@ -1101,7 +1101,7 @@ Tindakan
 ```
 Language and units
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bahasa dan unit
 ```
@@ -1111,7 +1111,7 @@ Bahasa dan unit
 ```
 Markers ignored on import (duplicates): %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Spidol diabaikan pada impor (duplikat): %1$d
 ```
@@ -1121,7 +1121,7 @@ Spidol diabaikan pada impor (duplikat): %1$d
 ```
 %1$d markers
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d penanda
 ```
@@ -1131,7 +1131,7 @@ translates to:
 ```
 No auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tidak ada auto penamaan
 ```
@@ -1141,7 +1141,7 @@ Tidak ada auto penamaan
 ```
 Auto naming "number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Auto penamaan "angka"
 ```
@@ -1151,7 +1151,7 @@ Auto penamaan "angka"
 ```
 Auto naming "Marker number"
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Auto penamaan "nomor Marker"
 ```
@@ -1161,7 +1161,7 @@ Auto penamaan "nomor Marker"
 ```
 New marker auto naming
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Penanda baru auto penamaan
 ```
@@ -1171,7 +1171,7 @@ Penanda baru auto penamaan
 ```
 Marker %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Penanda %1$d
 ```
@@ -1181,7 +1181,7 @@ Penanda %1$d
 ```
 Waiting for location&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Menunggu lokasi&#8230;
 ```
@@ -1191,7 +1191,7 @@ Menunggu lokasi&#8230;
 ```
 Open the help page and see the FAQ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Buka halaman bantuan dan melihat FAQ
 ```
@@ -1201,7 +1201,7 @@ Buka halaman bantuan dan melihat FAQ
 ```
 Features
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Fitur
 ```
@@ -1211,7 +1211,7 @@ Fitur
 ```
 View the list of upcoming features for the next app version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lihat daftar fitur yang akan datang untuk versi aplikasi berikutnya
 ```
@@ -1221,7 +1221,7 @@ Lihat daftar fitur yang akan datang untuk versi aplikasi berikutnya
 ```
 Help &amp; Feedback
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bantuan &amp; Saran
 ```
@@ -1231,7 +1231,7 @@ Bantuan &amp; Saran
 ```
 About
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tentang
 ```
@@ -1241,7 +1241,7 @@ Tentang
 ```
 Distance to %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jarak %1$s
 ```
@@ -1251,7 +1251,7 @@ Jarak %1$s
 ```
 Snapshot
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Foto
 ```
@@ -1261,7 +1261,7 @@ Foto
 ```
 Share a snapshot of the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Berbagi snapshot dari peta
 ```
@@ -1271,7 +1271,7 @@ Berbagi snapshot dari peta
 ```
 All markers and folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Semua spidol dan folder
 ```
@@ -1281,7 +1281,7 @@ Semua spidol dan folder
 ```
 <![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Dalam rangka untuk mendapatkan arah utara tepat untuk kompas, Anda harus mengkalibrasi Anda telepon dengan benar. &lt;br&gt; Untuk mengkalibrasi telepon Anda, hanya bergerak di sekitar dengan menggambar 8 . Langkah ini harus lebar dan diulang sekitar 3 kali untuk efisiensi yang lebih baik. &lt;br&gt; Anda dapat mengkalibrasi telepon Anda dengan melakukan hal ini setiap saat. &lt;/ b&gt; &lt;br&gt; kalibrasi memiliki keterbatasan dan mungkin tidak cukup untuk melawan gangguan terdekat seperti: Situs • benda logam besar &lt;br&gt; perangkat elektronik • &lt;br&gt; • magnet Situs • bagian dalam mobil / bus / kereta / pesawat &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -1291,7 +1291,7 @@ translates to:
 ```
 Badges
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lencana
 ```
@@ -1301,7 +1301,7 @@ Lencana
 ```
 Buy a donation badge
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Membeli lencana sumbangan
 ```
@@ -1311,7 +1311,7 @@ Membeli lencana sumbangan
 ```
 Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Terima kasih atas donasi Anda! Sumbangan ini hibah lencana Anda akses ke fitur :-)
 ```
@@ -1321,7 +1321,7 @@ Terima kasih atas donasi Anda! Sumbangan ini hibah lencana Anda akses ke fitur :
 ```
 Default folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Folder default
 ```
@@ -1331,7 +1331,7 @@ Folder default
 ```
 Sync options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pilihan sinkronisasi
 ```
@@ -1341,7 +1341,7 @@ Pilihan sinkronisasi
 ```
 Google Drive
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 google Drive
 ```
@@ -1351,7 +1351,7 @@ google Drive
 ```
 Dropbox
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dropbox
 ```
@@ -1361,7 +1361,7 @@ Dropbox
 ```
 Configuring&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Konfigurasi&#8230;
 ```
@@ -1371,7 +1371,7 @@ Konfigurasi&#8230;
 ```
 Sync now
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sync sekarang
 ```
@@ -1381,7 +1381,7 @@ Sync sekarang
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tak pernah
 ```
@@ -1391,7 +1391,7 @@ Tak pernah
 ```
 Syncing…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Menyelaraskan&#8230;
 ```
@@ -1401,7 +1401,7 @@ Menyelaraskan&#8230;
 ```
 Select folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pilih folder
 ```
@@ -1411,7 +1411,7 @@ Pilih folder
 ```
 Load error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Beban kesalahan
 ```
@@ -1421,7 +1421,7 @@ Beban kesalahan
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mencoba kembali
 ```
@@ -1431,7 +1431,7 @@ Mencoba kembali
 ```
 Root
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Akar
 ```
@@ -1441,7 +1441,7 @@ Akar
 ```
 Shared
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bersama
 ```
@@ -1451,7 +1451,7 @@ Bersama
 ```
 Purchase successful!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pembelian sukses!
 ```
@@ -1461,7 +1461,7 @@ Pembelian sukses!
 ```
 Purchase failed: %1$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pembelian %1$s
 ```
@@ -1471,7 +1471,7 @@ Pembelian %1$s
 ```
 Premium access available! You currently have access to premium features.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Akses Premium tersedia! Saat ini Anda memiliki akses ke fitur premium.
 ```
@@ -1481,7 +1481,7 @@ Akses Premium tersedia! Saat ini Anda memiliki akses ke fitur premium.
 ```
 You cannot select that folder because it contains multiple files named %1$s. The sync requires the folder to contain only one file with that name.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Anda tidak dapat memilih folder yang karena mengandung beberapa file %1$s Sync membutuhkan folder hanya berisi satu file dengan nama itu.
 ```
@@ -1491,7 +1491,7 @@ Anda tidak dapat memilih folder yang karena mengandung beberapa file %1$s Sync m
 ```
 It seems sync data already exists in that folder. If you select that folder, your local data will be merged with the folder data when sync is performed. Is that what you want?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tampaknya sinkronisasi data sudah ada di folder itu. Jika Anda memilih folder itu, data lokal Anda akan digabung dengan data folder ketika sync dilakukan. Adalah bahwa apa yang Anda inginkan?
 ```
@@ -1501,7 +1501,7 @@ Tampaknya sinkronisasi data sudah ada di folder itu. Jika Anda memilih folder it
 ```
 File options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pilihan file
 ```
@@ -1511,7 +1511,7 @@ Pilihan file
 ```
 Cloud sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cloud sync
 ```
@@ -1521,7 +1521,7 @@ Cloud sync
 ```
 Sync this map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sinkronisasi berkas peta ini di atas awan
 ```
@@ -1531,7 +1531,7 @@ Sinkronisasi berkas peta ini di atas awan
 ```
 Map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 File peta
 ```
@@ -1541,7 +1541,7 @@ File peta
 ```
 Create local map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Buat peta lokal
 ```
@@ -1551,7 +1551,7 @@ Buat peta lokal
 ```
 Create a new map file locally
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Membuat peta baru secara lokal berkas
 ```
@@ -1561,7 +1561,7 @@ Membuat peta baru secara lokal berkas
 ```
 Create cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Buat peta awan
 ```
@@ -1571,7 +1571,7 @@ Buat peta awan
 ```
 Create a map file on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Buat peta file di awan
 ```
@@ -1581,7 +1581,7 @@ Buat peta file di awan
 ```
 Retrieves changes from the cloud and sends local changes to the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mengambil perubahan dari awan dan mengirimkan perubahan lokal ke awan
 ```
@@ -1591,7 +1591,7 @@ Mengambil perubahan dari awan dan mengirimkan perubahan lokal ke awan
 ```
 Rename
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ganti nama
 ```
@@ -1601,7 +1601,7 @@ Ganti nama
 ```
 Rename the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mengubah nama peta
 ```
@@ -1611,7 +1611,7 @@ Mengubah nama peta
 ```
 Enter new name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Masukkan nama baru
 ```
@@ -1621,7 +1621,7 @@ Masukkan nama baru
 ```
 Enter the new map\'s name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Masukkan nama peta baru
 ```
@@ -1631,7 +1631,7 @@ Masukkan nama peta baru
 ```
 %1$d folders, %2$d markers, size: %3$d KB
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d %2$d spidol, %3$d KB
 ```
@@ -1641,7 +1641,7 @@ translates to:
 ```
 Create new folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Buat folder baru
 ```
@@ -1651,7 +1651,7 @@ Buat folder baru
 ```
 Could not create folder: name empty
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tidak dapat membuat folder: nama kosong
 ```
@@ -1661,7 +1661,7 @@ Tidak dapat membuat folder: nama kosong
 ```
 Could not create folder: error occurred
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tidak dapat membuat folder: terjadi kesalahan
 ```
@@ -1671,7 +1671,7 @@ Tidak dapat membuat folder: terjadi kesalahan
 ```
 Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Terima kasih telah Map Marker meng-upgrade :-)
 ```
@@ -1681,7 +1681,7 @@ Terima kasih telah Map Marker meng-upgrade :-)
 ```
 Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Terima kasih untuk menunjukkan minat Anda dengan mengklaim Anda Map Marker :-)
 ```
@@ -1691,7 +1691,7 @@ Terima kasih untuk menunjukkan minat Anda dengan mengklaim Anda Map Marker :-)
 ```
 Premium
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Premi
 ```
@@ -1701,7 +1701,7 @@ Premi
 ```
 Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Upgrade ke premium dan mengambil keuntungan penuh Map Marker fitur!
 ```
@@ -1711,7 +1711,7 @@ Upgrade ke premium dan mengambil keuntungan penuh Map Marker fitur!
 ```
 Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Maaf, Anda harus upgrade premium untuk mengakses fitur ini. Upgrade ke premium dan mengambil keuntungan penuh Map Marker fitur!
 ```
@@ -1721,7 +1721,7 @@ Maaf, Anda harus upgrade premium untuk mengakses fitur ini. Upgrade ke premium d
 ```
 You have the premium upgrade for free! You can still purchase it if you want to show your support :-)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Anda memiliki upgrade premium secara gratis! Anda masih dapat membeli jika Anda ingin menunjukkan dukungan :-)
 ```
@@ -1731,7 +1731,7 @@ Anda memiliki upgrade premium secara gratis! Anda masih dapat membeli jika Anda 
 ```
 Purchase the premium upgrade
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Membeli upgrade premium
 ```
@@ -1741,7 +1741,7 @@ Membeli upgrade premium
 ```
 My Google account already has premium access, activate it!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Account Google saya sudah memiliki akses premium, mengaktifkannya!
 ```
@@ -1751,7 +1751,7 @@ Account Google saya sudah memiliki akses premium, mengaktifkannya!
 ```
 Troubleshooting
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Penyelesaian masalah
 ```
@@ -1761,7 +1761,7 @@ Penyelesaian masalah
 ```
 Open a list of actions to solve possible problems
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Membuka daftar tindakan untuk memecahkan masalah yang mungkin
 ```
@@ -1771,7 +1771,7 @@ Membuka daftar tindakan untuk memecahkan masalah yang mungkin
 ```
 Test internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Uji internet
 ```
@@ -1781,7 +1781,7 @@ Uji internet
 ```
 Checks that the app has access to internet
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cek bahwa aplikasi memiliki akses ke internet
 ```
@@ -1791,7 +1791,7 @@ Cek bahwa aplikasi memiliki akses ke internet
 ```
 Test file writing
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tes menulis berkas
 ```
@@ -1801,7 +1801,7 @@ Tes menulis berkas
 ```
 Checks that the app can save files on the internal SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cek bahwa aplikasi dapat menyimpan file pada kartu SD internal
 ```
@@ -1811,7 +1811,7 @@ Cek bahwa aplikasi dapat menyimpan file pada kartu SD internal
 ```
 GP Services (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GP Services (app)
 ```
@@ -1821,7 +1821,7 @@ GP Services (app)
 ```
 Open the details of the currently installed Google Play Services app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Membuka rincian saat Google Play Services app
 ```
@@ -1831,7 +1831,7 @@ Membuka rincian saat Google Play Services app
 ```
 GP Services (store)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 GP Services (toko)
 ```
@@ -1841,7 +1841,7 @@ GP Services (toko)
 ```
 Google Play (app)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Google Play (app)
 ```
@@ -1851,7 +1851,7 @@ Google Play (app)
 ```
 Contact support
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hubungi dukungan
 ```
@@ -1861,7 +1861,7 @@ Hubungi dukungan
 ```
 Write an email to support with the details of your problem
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 email untuk mendukung dengan rincian masalahnya
 ```
@@ -1871,7 +1871,7 @@ email untuk mendukung dengan rincian masalahnya
 ```
 Device network unavailable
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jaringan perangkat tidak tersedia
 ```
@@ -1881,7 +1881,7 @@ Jaringan perangkat tidak tersedia
 ```
 Testing&#8230;
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pengujian&#8230;
 ```
@@ -1891,7 +1891,7 @@ Pengujian&#8230;
 ```
 Network test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Uji jaringan berhasil
 ```
@@ -1901,7 +1901,7 @@ Uji jaringan berhasil
 ```
 Network test failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Uji jaringan gagal
 ```
@@ -1911,7 +1911,7 @@ Uji jaringan gagal
 ```
 Disk test failed: could not write to internal storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Uji disk gagal: tidak bisa menulis ke penyimpanan internal
 ```
@@ -1921,7 +1921,7 @@ Uji disk gagal: tidak bisa menulis ke penyimpanan internal
 ```
 Disk test failed: could not write to external storage
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Uji disk gagal: tidak bisa menulis ke penyimpanan eksternal
 ```
@@ -1931,7 +1931,7 @@ Uji disk gagal: tidak bisa menulis ke penyimpanan eksternal
 ```
 Disk test succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tes Disk berhasil
 ```
@@ -1941,7 +1941,7 @@ Tes Disk berhasil
 ```
 App failed to start: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 App gagal untuk %s
 ```
@@ -1951,7 +1951,7 @@ App gagal untuk %s
 ```
 The file does not exist
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 File tidak ada
 ```
@@ -1961,7 +1961,7 @@ File tidak ada
 ```
 Share cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Share peta awan
 ```
@@ -1971,7 +1971,7 @@ Share peta awan
 ```
 Open the cloud map folder to view its properties and share it with other people
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Buka folder peta awan untuk melihat sifat-sifatnya dan berbagi dengan orang lain
 ```
@@ -1981,7 +1981,7 @@ Buka folder peta awan untuk melihat sifat-sifatnya dan berbagi dengan orang lain
 ```
 Internal file to SD
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 File internal ke SD
 ```
@@ -1991,7 +1991,7 @@ File internal ke SD
 ```
 Copy the app hidden internal files to the sdcard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Salin app tersembunyi file internal untuk sdcard
 ```
@@ -2001,7 +2001,7 @@ Salin app tersembunyi file internal untuk sdcard
 ```
 Enter destination folder path
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Masukkan tujuan jalur folder
 ```
@@ -2011,7 +2011,7 @@ Masukkan tujuan jalur folder
 ```
 Could not create folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tidak dapat membuat folder
 ```
@@ -2021,7 +2021,7 @@ Tidak dapat membuat folder
 ```
 Files successfully saved to: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 File berhasil disimpan %s
 ```
@@ -2031,7 +2031,7 @@ File berhasil disimpan %s
 ```
 View history/Restore
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lihat riwayat / Restore
 ```
@@ -2041,7 +2041,7 @@ Lihat riwayat / Restore
 ```
 View history of modifications to the cloud folder and select a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lihat sejarah modifikasi ke folder awan dan pilih versi untuk mengembalikan ke
 ```
@@ -2051,7 +2051,7 @@ Lihat sejarah modifikasi ke folder awan dan pilih versi untuk mengembalikan ke
 ```
 Create map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Buat file peta
 ```
@@ -2061,7 +2061,7 @@ Buat file peta
 ```
 Create a new map file locally or on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Membuat peta file baru secara lokal atau di awan
 ```
@@ -2071,7 +2071,7 @@ Membuat peta file baru secara lokal atau di awan
 ```
 Open cloud map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Terbuka peta awan
 ```
@@ -2081,7 +2081,7 @@ Terbuka peta awan
 ```
 Open a map file from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Membuka file peta dari awan
 ```
@@ -2091,7 +2091,7 @@ Membuka file peta dari awan
 ```
 Map Marker needs the permission to access your location in order to display it on the map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker memerlukan izin untuk mengakses lokasi Anda untuk menampilkannya pada peta
 ```
@@ -2101,7 +2101,7 @@ Map Marker memerlukan izin untuk mengakses lokasi Anda untuk menampilkannya pada
 ```
 Map Marker needs the permission to access to the storage of your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker membutuhkan izin untuk mengakses ke penyimpanan perangkat Anda
 ```
@@ -2111,7 +2111,7 @@ Map Marker membutuhkan izin untuk mengakses ke penyimpanan perangkat Anda
 ```
 Open settings
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pengaturan terbuka
 ```
@@ -2121,7 +2121,7 @@ Pengaturan terbuka
 ```
 No map folder found on the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tidak ada peta folder yang ditemukan di atas awan
 ```
@@ -2131,7 +2131,7 @@ Tidak ada peta folder yang ditemukan di atas awan
 ```
 Auto sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Auto sync
 ```
@@ -2141,7 +2141,7 @@ Auto sync
 ```
 Choose a version to restore to
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pilih versi untuk mengembalikan ke
 ```
@@ -2151,7 +2151,7 @@ Pilih versi untuk mengembalikan ke
 ```
 You must sync first before restoring an older version
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Anda harus melakukan sinkronisasi terlebih dahulu sebelum mengembalikan versi lama
 ```
@@ -2161,7 +2161,7 @@ Anda harus melakukan sinkronisasi terlebih dahulu sebelum mengembalikan versi la
 ```
 Are you sure you want to restore this version?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Apakah Anda yakin ingin mengembalikan versi ini?
 ```
@@ -2171,7 +2171,7 @@ Apakah Anda yakin ingin mengembalikan versi ini?
 ```
 Map Marker lost permissions to write to your cloud account. Sync will always fail until this is fixed. Do you want to fix it now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker izin yang hilang untuk menulis ke akun cloud Anda. Sync akan selalu gagal hingga ini adalah tetap. Apakah Anda ingin memperbaikinya sekarang?
 ```
@@ -2181,7 +2181,7 @@ Map Marker izin yang hilang untuk menulis ke akun cloud Anda. Sync akan selalu g
 ```
 A sync error occurred. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Terjadi kesalahan sinkronisasi. Silakan coba lagi.
 ```
@@ -2191,7 +2191,7 @@ Terjadi kesalahan sinkronisasi. Silakan coba lagi.
 ```
 A sync error occurred: network error. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sebuah kesalahan sinkronisasi terjadi: kesalahan jaringan. Silakan coba lagi.
 ```
@@ -2201,7 +2201,7 @@ Sebuah kesalahan sinkronisasi terjadi: kesalahan jaringan. Silakan coba lagi.
 ```
 A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sebuah kesalahan sinkronisasi terjadi: konflik, perangkat lain sedang melakukan sync pada saat yang sama. Silakan coba lagi.
 ```
@@ -2211,7 +2211,7 @@ Sebuah kesalahan sinkronisasi terjadi: konflik, perangkat lain sedang melakukan 
 ```
 Changes are available from the cloud
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Perubahan tersedia dari awan
 ```
@@ -2221,7 +2221,7 @@ Perubahan tersedia dari awan
 ```
 Changes made from another device were synced on the cloud. You can retrieve those changes by syncing.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Perubahan yang dilakukan dari perangkat lain yang disinkronkan di awan. Anda dapat mengambil perubahan tersebut dengan syncing.
 ```
@@ -2231,7 +2231,7 @@ Perubahan yang dilakukan dari perangkat lain yang disinkronkan di awan. Anda dap
 ```
 Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for details on how to restore cloud permissions.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gagal untuk mengembalikan izin penyimpanan awan. Silakan lihat "Tentang" -&gt; "FAQ" untuk rincian tentang cara mengembalikan hak akses cloud.
 ```
@@ -2241,7 +2241,7 @@ Gagal untuk mengembalikan izin penyimpanan awan. Silakan lihat "Tentang" -&gt; "
 ```
 A sync error occurred: duplicate index, there are at least two files named index.json in the map cloud folder. Remove the duplicates manually and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sebuah kesalahan sinkronisasi terjadi: duplikat indeks, setidaknya ada dua file bernama index.json dalam folder peta awan. Menghapus duplikat manual dan coba lagi.
 ```
@@ -2251,7 +2251,7 @@ Sebuah kesalahan sinkronisasi terjadi: duplikat indeks, setidaknya ada dua file 
 ```
 Phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nomor telepon
 ```
@@ -2261,7 +2261,7 @@ Nomor telepon
 ```
 Edit phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nomor telepon mengedit
 ```
@@ -2271,7 +2271,7 @@ Nomor telepon mengedit
 ```
 Map Marker needs the permission to make calls on your device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Map Marker membutuhkan izin untuk membuat panggilan pada perangkat Anda
 ```
@@ -2281,7 +2281,7 @@ Map Marker membutuhkan izin untuk membuat panggilan pada perangkat Anda
 ```
 No phone number is defined for that marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tidak ada nomor telepon yang ditetapkan untuk penanda yang
 ```
@@ -2291,7 +2291,7 @@ Tidak ada nomor telepon yang ditetapkan untuk penanda yang
 ```
 Navigation options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pilihan navigasi
 ```
@@ -2301,7 +2301,7 @@ Pilihan navigasi
 ```
 Open the marker location in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Buka lokasi penanda dalam aplikasi ini
 ```
@@ -2311,7 +2311,7 @@ Buka lokasi penanda dalam aplikasi ini
 ```
 Open the marker street view in this app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Membuka tampilan penanda jalan di aplikasi ini
 ```
@@ -2321,7 +2321,7 @@ Membuka tampilan penanda jalan di aplikasi ini
 ```
 Enter navigation mode in this app to get directions to the marker
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Masukkan modus navigasi di aplikasi ini untuk mendapatkan arah ke penanda
 ```
@@ -2331,7 +2331,7 @@ Masukkan modus navigasi di aplikasi ini untuk mendapatkan arah ke penanda
 ```
 Other options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pilihan lain
 ```
@@ -2341,7 +2341,7 @@ Pilihan lain
 ```
 Share the selected marker as plain text into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bagi penanda yang dipilih sebagai teks biasa ke aplikasi lain
 ```
@@ -2351,7 +2351,7 @@ Bagi penanda yang dipilih sebagai teks biasa ke aplikasi lain
 ```
 %1$d markers in %2$d folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %1$d penanda %2$d folder
 ```
@@ -2361,7 +2361,7 @@ translates to:
 ```
 A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sebuah kesalahan sync terjadi: data awan telah diperbarui dengan versi yang lebih baru dari app. Anda harus Map Marker pada perangkat ini untuk melakukan sinkronisasi.
 ```
@@ -2371,7 +2371,7 @@ Sebuah kesalahan sync terjadi: data awan telah diperbarui dengan versi yang lebi
 ```
 Could not find a phone app on this device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tidak bisa menemukan aplikasi ponsel pada perangkat ini.
 ```
@@ -2381,7 +2381,7 @@ Tidak bisa menemukan aplikasi ponsel pada perangkat ini.
 ```
 Phone number options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pilihan nomor telepon
 ```
@@ -2391,7 +2391,7 @@ Pilihan nomor telepon
 ```
 Call phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nomor telepon panggilan
 ```
@@ -2401,7 +2401,7 @@ Nomor telepon panggilan
 ```
 Dial phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dial nomor telepon
 ```
@@ -2411,7 +2411,7 @@ Dial nomor telepon
 ```
 Text phone number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nomor telepon teks
 ```
@@ -2421,7 +2421,7 @@ Nomor telepon teks
 ```
 Default navigation action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Standar tindakan navigasi
 ```
@@ -2431,7 +2431,7 @@ Standar tindakan navigasi
 ```
 Default phone action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tindakan telepon standar
 ```
@@ -2441,7 +2441,7 @@ Tindakan telepon standar
 ```
 Ask
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Meminta
 ```
@@ -2451,7 +2451,7 @@ Meminta
 ```
 Premium free trial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 percobaan gratis Premium
 ```
@@ -2461,7 +2461,7 @@ percobaan gratis Premium
 ```
 What is the premium upgrade?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Apa upgrade premium?
 ```
@@ -2471,7 +2471,7 @@ Apa upgrade premium?
 ```
 Premium free trial started! The trial will expire at the following date: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 percobaan gratis premium mulai! Sidang akan berakhir pada tanggal berikut: %s
 ```
@@ -2482,7 +2482,7 @@ percobaan gratis premium mulai! Sidang akan berakhir pada tanggal berikut: %s
 Trial expiration:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Akhir uji: 
  %s
@@ -2493,7 +2493,7 @@ Akhir uji:
 ```
 Trial expired
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 sidang berakhir
 ```
@@ -2503,7 +2503,7 @@ sidang berakhir
 ```
 Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sync dibatalkan: Anda perlu upgrade premium untuk melakukan sinkronisasi.
 ```
@@ -2513,7 +2513,7 @@ Sync dibatalkan: Anda perlu upgrade premium untuk melakukan sinkronisasi.
 ```
 Error: trial starting in the future!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kesalahan: percobaan awal di masa depan!
 ```
@@ -2523,7 +2523,7 @@ Kesalahan: percobaan awal di masa depan!
 ```
 Thank you for your purchase!
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Terima kasih atas pembelian Anda!
 ```
@@ -2533,7 +2533,7 @@ Terima kasih atas pembelian Anda!
 ```
 Browse
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 melihat-lihat
 ```
@@ -2543,7 +2543,7 @@ melihat-lihat
 ```
 Organize
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mengatur
 ```
@@ -2553,7 +2553,7 @@ Mengatur
 ```
 Create
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Membuat
 ```
@@ -2563,7 +2563,7 @@ Membuat
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mencoba kembali
 ```
@@ -2573,7 +2573,7 @@ Mencoba kembali
 ```
 Search failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cari gagal
 ```
@@ -2583,7 +2583,7 @@ Cari gagal
 ```
 Search failed, network error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cari gagal, kesalahan jaringan
 ```
@@ -2593,7 +2593,7 @@ Cari gagal, kesalahan jaringan
 ```
 Details
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 rincian
 ```
@@ -2603,7 +2603,7 @@ rincian
 ```
 Sync error
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 kesalahan sinkronisasi
 ```
@@ -2613,7 +2613,7 @@ kesalahan sinkronisasi
 ```
 The file already exists, do you want to overwrite it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 file sudah ada, apakah Anda ingin menimpanya?
 ```
@@ -2623,7 +2623,7 @@ file sudah ada, apakah Anda ingin menimpanya?
 ```
 Copy markers to folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Copy penanda ke folder
 ```
@@ -2633,7 +2633,7 @@ Copy penanda ke folder
 ```
 Error loading the Google Map component. Please restart the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kesalahan memuat Google Map komponen. Silakan restart aplikasi.
 ```
@@ -2643,7 +2643,7 @@ Kesalahan memuat Google Map komponen. Silakan restart aplikasi.
 ```
 You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Anda akan melihat daftar penanda Anda di sini. Saat ini tidak ada penanda di folder yang dipilih (s). Anda dapat menambahkan penanda baru dengan mengklik tombol di bawah.
 ```
@@ -2653,7 +2653,7 @@ Anda akan melihat daftar penanda Anda di sini. Saat ini tidak ada penanda di fol
 ```
 No search results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tidak ada hasil pencarian
 ```
@@ -2663,7 +2663,7 @@ Tidak ada hasil pencarian
 ```
 Open Street Map
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Open Street Map
 ```
@@ -2673,7 +2673,7 @@ Open Street Map
 ```
 Bing Road
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Road
 ```
@@ -2683,7 +2683,7 @@ Bing Road
 ```
 Bing Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial
 ```
@@ -2693,7 +2693,7 @@ Bing Aerial
 ```
 Bing Aerial With Labels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bing Aerial Dengan Label
 ```
@@ -2703,7 +2703,7 @@ Bing Aerial Dengan Label
 ```
 ArcGIS Server
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ArcGIS Server
 ```
@@ -2713,7 +2713,7 @@ ArcGIS Server
 ```
 Offline maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 peta offline
 ```
@@ -2723,7 +2723,7 @@ peta offline
 ```
 No folder selected
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tidak ada folder yang dipilih
 ```
@@ -2733,7 +2733,7 @@ Tidak ada folder yang dipilih
 ```
 Storage folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 folder penyimpanan
 ```
@@ -2744,7 +2744,7 @@ folder penyimpanan
 Test results of the offline maps folder:
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hasil tes dari folder peta offline: 
  %s
@@ -2755,7 +2755,7 @@ Hasil tes dari folder peta offline:
 ```
 No folder is selected for offline map files. In order to use offline maps, open the settings and select a folder for offline map files.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tidak ada folder yang dipilih untuk file peta offline. Untuk menggunakan peta offline, buka pengaturan dan pilih folder untuk file peta offline.
 ```
@@ -2765,7 +2765,7 @@ Tidak ada folder yang dipilih untuk file peta offline. Untuk menggunakan peta of
 ```
 The selected offline map folder you selected contains no files. Make sure you add the offline map files in that folder before using offline maps, otherwise the map will be empty.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 peta offline folder yang dipilih yang dipilih tidak mengandung file. Pastikan Anda menambahkan file peta offline dalam folder yang sebelum menggunakan peta offline, jika peta akan kosong.
 ```
@@ -2775,7 +2775,7 @@ peta offline folder yang dipilih yang dipilih tidak mengandung file. Pastikan An
 ```
 Success: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sukses: %s
 ```
@@ -2785,7 +2785,7 @@ Sukses: %s
 ```
 Failed: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gagal: %s
 ```
@@ -2795,7 +2795,7 @@ Gagal: %s
 ```
 How to do it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bagaimana cara melakukannya?
 ```
@@ -2805,7 +2805,7 @@ Bagaimana cara melakukannya?
 ```
 Click here to open the web page explaining how to obtain those maps.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klik di sini untuk membuka halaman web menjelaskan cara mendapatkan peta itu.
 ```
@@ -2815,7 +2815,7 @@ Klik di sini untuk membuka halaman web menjelaskan cara mendapatkan peta itu.
 ```
 Credits
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 kredit
 ```
@@ -2825,7 +2825,7 @@ kredit
 ```
 Copyright and legal mentions
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hak cipta dan hukum menyebutkan
 ```
@@ -2837,7 +2837,7 @@ Legal mentions for other map data than Google Maps:
 
 %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hukum menyebutkan untuk data peta selain Google Maps : 
  
@@ -2849,7 +2849,7 @@ Hukum menyebutkan untuk data peta selain Google Maps :
 ```
 Disable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 file dump menonaktifkan error
 ```
@@ -2859,7 +2859,7 @@ file dump menonaktifkan error
 ```
 Disable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Menonaktifkan menulis kesalahan aplikasi ke file pada kartu SD
 ```
@@ -2869,7 +2869,7 @@ Menonaktifkan menulis kesalahan aplikasi ke file pada kartu SD
 ```
 Enable error file dump
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aktifkan kesalahan file dump
 ```
@@ -2879,7 +2879,7 @@ Aktifkan kesalahan file dump
 ```
 Enable writing app errors to a file on the SD card
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aktifkan menulis kesalahan aplikasi ke file pada kartu SD
 ```
@@ -2889,7 +2889,7 @@ Aktifkan menulis kesalahan aplikasi ke file pada kartu SD
 ```
 Start background sync…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mulai sinkronisasi latar belakang&#8230;
 ```
@@ -2899,7 +2899,7 @@ Mulai sinkronisasi latar belakang&#8230;
 ```
 Never
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tak pernah
 ```
@@ -2909,7 +2909,7 @@ Tak pernah
 ```
 When app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ketika aplikasi memasuki latar
 ```
@@ -2919,7 +2919,7 @@ Ketika aplikasi memasuki latar
 ```
 %d seconds after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d detik setelah aplikasi memasuki latar belakang
 ```
@@ -2929,7 +2929,7 @@ translates to:
 ```
 %d minutes after the app enters background
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 %d menit setelah aplikasi memasuki latar belakang
 ```
@@ -2939,7 +2939,7 @@ translates to:
 ```
 Sync starting in %d seconds
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Sync mulai di %d detik
 ```
@@ -2949,7 +2949,7 @@ Sync mulai di %d detik
 ```
 You can cancel the sync at any time and your data will be synced on next attempt.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Anda dapat membatalkan sinkronisasi setiap saat dan data Anda akan disinkronkan pada usaha berikutnya.
 ```
@@ -2959,7 +2959,7 @@ Anda dapat membatalkan sinkronisasi setiap saat dan data Anda akan disinkronkan 
 ```
 Press back again to exit
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tekan kembali lagi untuk keluar
 ```
@@ -2969,7 +2969,7 @@ Tekan kembali lagi untuk keluar
 ```
 Cannot start sync with no internet access on the device.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 tidak dapat memulai sinkronisasi tanpa akses internet pada perangkat.
 ```
@@ -2979,7 +2979,7 @@ tidak dapat memulai sinkronisasi tanpa akses internet pada perangkat.
 ```
 Manage map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mengelola file peta
 ```
@@ -2989,7 +2989,7 @@ Mengelola file peta
 ```
 Map files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 peta file
 ```
@@ -2999,7 +2999,7 @@ peta file
 ```
 Delete map file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hapus file peta
 ```
@@ -3009,7 +3009,7 @@ Hapus file peta
 ```
 This action will delete the map file from this device
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tindakan ini akan menghapus file peta dari perangkat ini
 ```
@@ -3019,7 +3019,7 @@ Tindakan ini akan menghapus file peta dari perangkat ini
 ```
 This action will delete the map file from your device forever. All the markers inside that file will be lost. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tindakan ini akan menghapus file peta dari perangkat Anda selamanya. Semua penanda dalam file yang akan hilang. Apakah Anda yakin?
 ```
@@ -3029,7 +3029,7 @@ Tindakan ini akan menghapus file peta dari perangkat Anda selamanya. Semua penan
 ```
 This action will delete the map file from your device forever. All changes not yet synced to the cloud will be lost. The cloud folder will not be affected by this action and you will have to delete it manually. Are you sure?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tindakan ini akan menghapus file peta dari perangkat Anda selamanya. Semua perubahan belum disinkronkan ke awan akan hilang. Folder awan tidak akan terpengaruh oleh tindakan ini dan Anda harus menghapus secara manual. Apakah Anda yakin?
 ```
@@ -3039,7 +3039,7 @@ Tindakan ini akan menghapus file peta dari perangkat Anda selamanya. Semua perub
 ```
 Map file successfully deleted
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 file peta berhasil dihapus
 ```
@@ -3049,7 +3049,7 @@ file peta berhasil dihapus
 ```
 Could not delete map file: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tidak dapat menghapus file peta: %s
 ```
@@ -3059,7 +3059,7 @@ Tidak dapat menghapus file peta: %s
 ```
 Marker saved in a non visible folder
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Penanda disimpan dalam folder non terlihat
 ```
@@ -3069,7 +3069,7 @@ Penanda disimpan dalam folder non terlihat
 ```
 Your changes have not been synced recently. Make sure you keep your cloud copy up to date. Do you want to sync now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Perubahan Anda belum disinkronkan baru-baru ini. Pastikan Anda menyimpan awan Anda menyalin up to date. Apakah Anda ingin menyinkronkan sekarang?
 ```
@@ -3079,7 +3079,7 @@ Perubahan Anda belum disinkronkan baru-baru ini. Pastikan Anda menyimpan awan An
 ```
 The markers of this map file are currently only saved on this device. It is recommended to save your markers on the cloud to avoid losing them. Do you want to save them to the cloud now?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Penanda file peta ini saat ini hanya disimpan di perangkat ini. Disarankan untuk menyimpan penanda Anda di awan untuk menghindari kehilangan mereka. Apakah Anda ingin menyimpannya ke awan sekarang?
 ```
@@ -3089,7 +3089,7 @@ Penanda file peta ini saat ini hanya disimpan di perangkat ini. Disarankan untuk
 ```
 Do you want to sync this map file? With manual you will need to sync manually every time. With automatic (recommended) you will select a destination cloud folder and the sync to the cloud will start automatically every time the app enters background.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Apakah Anda ingin menyinkronkan file peta ini? Dengan pengguna Anda akan perlu untuk melakukan sinkronisasi secara manual setiap kali. Dengan otomatis (disarankan) Anda akan memilih folder cloud tujuan dan sync ke awan akan dimulai secara otomatis setiap kali aplikasi memasuki latar belakang.
 ```
@@ -3099,7 +3099,7 @@ Apakah Anda ingin menyinkronkan file peta ini? Dengan pengguna Anda akan perlu u
 ```
 Automatic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Otomatis
 ```
@@ -3109,7 +3109,7 @@ Otomatis
 ```
 Manual
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 panduan
 ```
@@ -3119,7 +3119,7 @@ panduan
 ```
 You can sync a map file on the cloud at any time by clicking on the map file in the side bar and then choosing the "Cloud sync" option.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Anda dapat menyinkronkan file peta di atas awan itu setiap saat dengan mengklik file peta di side bar dan kemudian memilih "Cloud sync" pilihan.
 ```
@@ -3129,7 +3129,7 @@ Anda dapat menyinkronkan file peta di atas awan itu setiap saat dengan mengklik 
 ```
 You can sync a map file manually to the cloud at any time by clicking the "share" button in the main action bar, and then "Other options" and then "All markers and folders" and then by selecting your favorite cloud storage app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Anda dapat menyinkronkan file peta manual ke awan setiap saat dengan mengklik "berbagi" tombol di panel tindakan utama, dan kemudian "Pilihan lain" dan kemudian "Semua spidol dan folder" dan kemudian dengan memilih aplikasi penyimpanan awan favorit Anda.
 ```
@@ -3139,7 +3139,7 @@ Anda dapat menyinkronkan file peta manual ke awan setiap saat dengan mengklik "b
 ```
 Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pindahkan peta sekitar untuk menempatkan poin, klik '+' untuk menambahkan titik, klik '-' untuk menghapus titik dan beralih poin dengan tombol sebelumnya / berikutnya. Terakhir, klik save untuk menyimpan bentuk.
 ```
@@ -3149,7 +3149,7 @@ Pindahkan peta sekitar untuk menempatkan poin, klik '+' untuk menambahkan titik,
 ```
 There are not enough points to create the shape. Create more points and try again.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ada tidak cukup poin untuk membuat bentuk. Buat lebih banyak poin dan coba lagi.
 ```
@@ -3159,7 +3159,7 @@ Ada tidak cukup poin untuk membuat bentuk. Buat lebih banyak poin dan coba lagi.
 ```
 Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn\'t work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by email (side panel -> about -> send email).
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 tidak bisa mengaktifkan upgrade premium dari akun Google Anda. Jika Anda membeli upgrade premium baru dari perangkat lain, Anda mungkin perlu menunggu sedikit untuk pembelian untuk menyebarkan, restart perangkat Anda bisa membuatnya lebih cepat. Jika masih tidak berhasil, pastikan Anda membeli, menginstal aplikasi dan diaktifkan dengan akun Google yang sama. Jika masalah terus berlanjut, saya akan membantu Anda yang terbaik yang saya bisa, Anda dapat menghubungi saya melalui email (panel samping -&gt; tentang -&gt; kirim email ).
 ```
@@ -3169,7 +3169,7 @@ tidak bisa mengaktifkan upgrade premium dari akun Google Anda. Jika Anda membeli
 ```
 Distance: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jarak: %s
 ```
@@ -3180,7 +3180,7 @@ Jarak: %s
 Perimeter: %1$s
 Area: %2$s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Perimeter: %1$s 
  Area: %2$s
@@ -3191,7 +3191,7 @@ Perimeter: %1$s
 ```
 Extra information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 informasi tambahan
 ```
@@ -3201,7 +3201,7 @@ informasi tambahan
 ```
 Insert…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Memasukkan…
 ```
@@ -3211,7 +3211,7 @@ Memasukkan…
 ```
 Replace title
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ganti judul
 ```
@@ -3221,7 +3221,7 @@ Ganti judul
 ```
 Replace description
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 menggantikan deskripsi
 ```
@@ -3231,7 +3231,7 @@ menggantikan deskripsi
 ```
 Unit of distance
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Unit jarak
 ```
@@ -3241,7 +3241,7 @@ Unit jarak
 ```
 Unit of area
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Satuan luas
 ```
@@ -3251,7 +3251,7 @@ Satuan luas
 ```
 Metric (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Metrik ( %s )
 ```
@@ -3261,7 +3261,7 @@ Metrik ( %s )
 ```
 Imperial (%s)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Imperial ( %s )
 ```
@@ -3271,7 +3271,7 @@ Imperial ( %s )
 ```
 Images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 gambar
 ```
@@ -3281,7 +3281,7 @@ gambar
 ```
 Select image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pilih gambar
 ```
@@ -3291,7 +3291,7 @@ Pilih gambar
 ```
 Imported images
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 gambar yang diimpor
 ```
@@ -3301,7 +3301,7 @@ gambar yang diimpor
 ```
 Fit in a %1$sx%2$s square
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Muat dalam %1$s x %2$s persegi
 ```
@@ -3311,7 +3311,7 @@ Muat dalam %1$s x %2$s persegi
 ```
 Full quality
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 kualitas penuh
 ```
@@ -3321,7 +3321,7 @@ kualitas penuh
 ```
 Mobile data
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Data ponsel
 ```
@@ -3331,7 +3331,7 @@ Data ponsel
 ```
 Wifi
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Wifi
 ```
@@ -3341,7 +3341,7 @@ Wifi
 ```
 Disabled
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Cacat
 ```
@@ -3351,7 +3351,7 @@ Cacat
 ```
 Up to %s per sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hingga %s per sync
 ```
@@ -3361,7 +3361,7 @@ Hingga %s per sync
 ```
 Unlimited
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tak terbatas
 ```
@@ -3371,7 +3371,7 @@ Tak terbatas
 ```
 The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings. You can also click "force sync" to sync just one time without data volume limit.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 sync itu dibatalkan karena itu melebihi batas volume data diperbolehkan. Untuk menambah atau mengubah batas, pergi ke pengaturan. Anda juga dapat mengklik "kekuatan sync" untuk menyinkronkan hanya satu kali tanpa batas volume data.
 ```
@@ -3381,7 +3381,7 @@ sync itu dibatalkan karena itu melebihi batas volume data diperbolehkan. Untuk m
 ```
 Force sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Angkatan sync
 ```
@@ -3391,7 +3391,7 @@ Angkatan sync
 ```
 This will override the usual data limit just for this one time. Force sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ini akan menimpa batas data biasa hanya untuk satu kali ini. Angkatan sync?
 ```
@@ -3401,7 +3401,7 @@ Ini akan menimpa batas data biasa hanya untuk satu kali ini. Angkatan sync?
 ```
 Retry
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mencoba kembali
 ```
@@ -3411,7 +3411,7 @@ Mencoba kembali
 ```
 Add image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Menambahkan gambar
 ```
@@ -3421,7 +3421,7 @@ Menambahkan gambar
 ```
 From camera
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 dari kamera
 ```
@@ -3431,7 +3431,7 @@ dari kamera
 ```
 From gallery
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 dari galeri
 ```
@@ -3441,7 +3441,7 @@ dari galeri
 ```
 Importing image…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mengimpor gambar&#8230;
 ```
@@ -3451,7 +3451,7 @@ Mengimpor gambar&#8230;
 ```
 Offline (Mapsforge BETA)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Offline ( Mapsforge BETA )
 ```
@@ -3461,7 +3461,7 @@ Offline ( Mapsforge BETA )
 ```
 Exporting…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mengekspor&#8230;
 ```
@@ -3471,7 +3471,7 @@ Mengekspor&#8230;
 ```
 Export failed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ekspor gagal
 ```
@@ -3481,7 +3481,7 @@ ekspor gagal
 ```
 Export succeeded
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 ekspor berhasil
 ```
@@ -3491,7 +3491,7 @@ ekspor berhasil
 ```
 KMZ
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KMZ
 ```
@@ -3501,7 +3501,7 @@ KMZ
 ```
 KML
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 KML
 ```
@@ -3511,7 +3511,7 @@ KML
 ```
 Importing file…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mengimpor file&#8230;
 ```
@@ -3521,7 +3521,7 @@ Mengimpor file&#8230;
 ```
 Show warning icon for sync
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tampilkan ikon peringatan untuk sinkronisasi
 ```
@@ -3531,7 +3531,7 @@ Tampilkan ikon peringatan untuk sinkronisasi
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 sync itu dibatalkan karena salah satu file media pada awan itu hilang. Anda dapat mengabaikan file yang hilang dengan mengklik "kekuatan sync \". Peringatan, mengabaikan file yang hilang akan mengakibatkan menghapus mereka dari database, yang berarti bahwa perangkat lain masih memiliki salinan lokal file akan menghapusnya setelah sync.
 ```
@@ -3541,7 +3541,7 @@ sync itu dibatalkan karena salah satu file media pada awan itu hilang. Anda dapa
 ```
 This will force the sync and ignore the missing cloud files. The missing links will be removed from the database. Other devices still owning a local version of the missing cloud files will delete them upon their next sync. Data consumption limits will be ignored for this special sync. Force Sync?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hal ini akan memaksa sync dan mengabaikan file cloud hilang. Link yang hilang akan dihapus dari database. perangkat lain masih memiliki versi lokal dari file awan yang hilang akan menghapusnya setelah sync mereka berikutnya. Batas konsumsi data akan diabaikan untuk sinkronisasi khusus ini. Angkatan Sync?
 ```
@@ -3551,7 +3551,7 @@ Hal ini akan memaksa sync dan mengabaikan file cloud hilang. Link yang hilang ak
 ```
 Marker media files ignored on import: %1$d
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 File media penanda diabaikan pada impor: %1$d
 ```
@@ -3561,7 +3561,7 @@ File media penanda diabaikan pada impor: %1$d
 ```
 Checking premium status…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Memeriksa status premium&#8230;
 ```
@@ -3571,7 +3571,7 @@ Memeriksa status premium&#8230;
 ```
 General
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Umum
 ```
@@ -3581,7 +3581,7 @@ Umum
 ```
 Toilets
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kamar Kecil
 ```
@@ -3591,7 +3591,7 @@ Kamar Kecil
 ```
 Food
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Makanan
 ```
@@ -3601,7 +3601,7 @@ Makanan
 ```
 Stores
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 toko
 ```
@@ -3611,7 +3611,7 @@ toko
 ```
 Land activities
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 kegiatan Land
 ```
@@ -3621,7 +3621,7 @@ kegiatan Land
 ```
 Water activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 activies air
 ```
@@ -3631,7 +3631,7 @@ activies air
 ```
 Winter activies
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 activies musim dingin
 ```
@@ -3641,7 +3641,7 @@ activies musim dingin
 ```
 Transport
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Mengangkut
 ```
@@ -3651,7 +3651,7 @@ Mengangkut
 ```
 Health
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kesehatan
 ```
@@ -3661,7 +3661,7 @@ Kesehatan
 ```
 Entertainment
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hiburan
 ```
@@ -3671,7 +3671,7 @@ Hiburan
 ```
 Services
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jasa
 ```
@@ -3681,7 +3681,7 @@ Jasa
 ```
 Business
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bisnis
 ```
@@ -3691,7 +3691,7 @@ Bisnis
 ```
 Government
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pemerintah
 ```
@@ -3701,7 +3701,7 @@ Pemerintah
 ```
 Religious
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Keagamaan
 ```
@@ -3711,7 +3711,7 @@ Keagamaan
 ```
 Accessibility
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 aksesibilitas
 ```
@@ -3721,7 +3721,7 @@ aksesibilitas
 ```
 Select icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pilih icon
 ```
@@ -3731,7 +3731,7 @@ Pilih icon
 ```
 Icon and color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ikon dan warna
 ```
@@ -3741,7 +3741,7 @@ Ikon dan warna
 ```
 Generic
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Umum
 ```
@@ -3751,7 +3751,7 @@ Umum
 ```
 Beta tester badge: thank you for being a beta tester! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Beta tester badge: terima kasih untuk menjadi tester beta! lencana ini akan hilang hanya pada menguninstall aplikasi atau membersihkan data aplikasi. lencana ini juga memungkinkan Anda untuk memiliki iklan di aplikasi.
 ```
@@ -3761,7 +3761,7 @@ Beta tester badge: terima kasih untuk menjadi tester beta! lencana ini akan hila
 ```
 Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Rujukan badge: terima kasih untuk mengundang teman ke aplikasi! lencana ini akan hilang hanya pada menguninstall aplikasi atau membersihkan data aplikasi. lencana ini juga memungkinkan Anda untuk memiliki iklan di aplikasi.
 ```
@@ -3771,7 +3771,7 @@ Rujukan badge: terima kasih untuk mengundang teman ke aplikasi! lencana ini akan
 ```
 Referral
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 penyerahan
 ```
@@ -3781,7 +3781,7 @@ penyerahan
 ```
 Removing ads: exchange referrals credits with friends to remove ads
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Menghapus iklan: arahan pertukaran kredit dengan teman-teman untuk menghapus iklan
 ```
@@ -3791,7 +3791,7 @@ Menghapus iklan: arahan pertukaran kredit dengan teman-teman untuk menghapus ikl
 ```
 Sent credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kredit dikirim: %s
 ```
@@ -3801,7 +3801,7 @@ Kredit dikirim: %s
 ```
 Received credits: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Kredit yang diterima: %s
 ```
@@ -3811,7 +3811,7 @@ Kredit yang diterima: %s
 ```
 Contribute to translations
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Berkontribusi terjemahan
 ```
@@ -3821,7 +3821,7 @@ Berkontribusi terjemahan
 ```
 You understand English and want to help with translations? Click here
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Anda mengerti bahasa Inggris dan ingin membantu dengan terjemahan? Klik disini
 ```
@@ -3831,7 +3831,7 @@ Anda mengerti bahasa Inggris dan ingin membantu dengan terjemahan? Klik disini
 ```
 The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 warna folder tujuan atau ikon berbeda. Apakah Anda ingin memperbarui warna marker dan ikon?
 ```
@@ -3841,7 +3841,7 @@ warna folder tujuan atau ikon berbeda. Apakah Anda ingin memperbarui warna marke
 ```
 Add color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tambahkan warna
 ```
@@ -3851,7 +3851,7 @@ Tambahkan warna
 ```
 <![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 &lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Apa meng-upgrade premium &lt;/ b&gt; Situs Di atas iklan menghapus, upgrade premium membuka fitur premium eksklusif berikut:? • Situs Sync pada Google Drive atau Dropbox Situs • Berkolaborasi via Google Drive atau Dropbox • Situs sejarah Peta versi dan mengembalikan Situs &lt;/ body&gt; &lt;/ html&gt;
 ```
@@ -3861,7 +3861,7 @@ translates to:
 ```
 Marker created from the geo location of the QR code
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Marker diciptakan dari lokasi geografis dari kode QR
 ```
@@ -3871,7 +3871,7 @@ Marker diciptakan dari lokasi geografis dari kode QR
 ```
 Failed to read QR code as a geo location
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Gagal membaca QR code sebagai lokasi geo
 ```
@@ -3881,7 +3881,7 @@ Gagal membaca QR code sebagai lokasi geo
 ```
 The app for scanning QR codes could not be found. Do you want to install it?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Aplikasi untuk memindai kode QR tidak dapat ditemukan. Apakah Anda ingin menginstalnya?
 ```
@@ -3891,7 +3891,7 @@ Aplikasi untuk memindai kode QR tidak dapat ditemukan. Apakah Anda ingin mengins
 ```
 Selection action
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 tindakan pilihan
 ```
@@ -3901,7 +3901,7 @@ tindakan pilihan
 ```
 Move to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pindah ke kiri
 ```
@@ -3911,7 +3911,7 @@ Pindah ke kiri
 ```
 Move to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bergerak ke kanan
 ```
@@ -3921,7 +3921,7 @@ Bergerak ke kanan
 ```
 Rotate to left
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Putar ke kiri
 ```
@@ -3931,7 +3931,7 @@ Putar ke kiri
 ```
 Rotate to right
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Putar ke kanan
 ```
@@ -3941,7 +3941,7 @@ Putar ke kanan
 ```
 Delete image
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 menghapus gambar
 ```
@@ -3951,7 +3951,7 @@ menghapus gambar
 ```
 From local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Dari file lokal
 ```
@@ -3961,7 +3961,7 @@ Dari file lokal
 ```
 What format to you want to use to export?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 format apa yang ingin Anda gunakan untuk mengekspor?
 ```
@@ -3971,7 +3971,7 @@ format apa yang ingin Anda gunakan untuk mengekspor?
 ```
 The data to export contains media(images) that cannot be included with this export format. The data will be exported without the media. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Data ekspor berisi media (gambar) yang tidak dapat disertakan dengan format ekspor ini. Data akan diekspor tanpa media. Untuk mengekspor semua, memilih KMZ format ekspor.
 ```
@@ -3981,7 +3981,7 @@ Data ekspor berisi media (gambar) yang tidak dapat disertakan dengan format eksp
 ```
 Standard Google Earth format. Cannot contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Standard Google Earth Format. tidak dapat berisi media yang.
 ```
@@ -3991,7 +3991,7 @@ Standard Google Earth Format. tidak dapat berisi media yang.
 ```
 Zip Google Earth format. Can contain media.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Zip Google Earth Format. Dapat berisi media yang.
 ```
@@ -4001,7 +4001,7 @@ Zip Google Earth Format. Dapat berisi media yang.
 ```
 Standard text spreadsheet format. Cannot contain media. Cannot contain lines or polygons.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Standar format spreadsheet teks. tidak dapat berisi media yang. tidak dapat berisi garis atau poligon.
 ```
@@ -4011,7 +4011,7 @@ Standar format spreadsheet teks. tidak dapat berisi media yang. tidak dapat beri
 ```
 Marker as plain text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Penanda sebagai teks biasa
 ```
@@ -4021,7 +4021,7 @@ Penanda sebagai teks biasa
 ```
 Marker as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Penanda sebagai berkas
 ```
@@ -4031,7 +4031,7 @@ Penanda sebagai berkas
 ```
 Share the selected marker as a file into another app
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bagi penanda yang dipilih sebagai file ke aplikasi lain
 ```
@@ -4041,7 +4041,7 @@ Bagi penanda yang dipilih sebagai file ke aplikasi lain
 ```
 Share as file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Berbagi dengan file
 ```
@@ -4051,7 +4051,7 @@ Berbagi dengan file
 ```
 Export to a local file
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ekspor ke file lokal
 ```
@@ -4061,7 +4061,7 @@ Ekspor ke file lokal
 ```
 Import or export markers as files
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Impor atau ekspor penanda sebagai file
 ```
@@ -4071,7 +4071,7 @@ Impor atau ekspor penanda sebagai file
 ```
 The data to export contains complex markers (lines or polygons) that cannot be included with this export format. The data will be exported without those markers. To export everything, choose the KMZ export format.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Data ekspor berisi penanda kompleks (garis atau poligon) yang tidak dapat disertakan dengan format ekspor ini. Data akan diekspor tanpa orang penanda. Untuk mengekspor semua, memilih KMZ format ekspor.
 ```
@@ -4081,7 +4081,7 @@ Data ekspor berisi penanda kompleks (garis atau poligon) yang tidak dapat disert
 ```
 Add custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tambahkan bidang khusus
 ```
@@ -4091,7 +4091,7 @@ Tambahkan bidang khusus
 ```
 Information
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Informasi
 ```
@@ -4101,7 +4101,7 @@ Informasi
 ```
 Custom fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bidang khusus
 ```
@@ -4111,7 +4111,7 @@ Bidang khusus
 ```
 Field name
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nama lapangan
 ```
@@ -4121,7 +4121,7 @@ Nama lapangan
 ```
 Delete field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hapus bidang
 ```
@@ -4131,7 +4131,7 @@ Hapus bidang
 ```
 Attributes
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Atribut
 ```
@@ -4141,7 +4141,7 @@ Atribut
 ```
 New custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Bidang khusus baru
 ```
@@ -4151,7 +4151,7 @@ Bidang khusus baru
 ```
 Modify custom field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ubah bidang ubahsuaian
 ```
@@ -4161,7 +4161,7 @@ Ubah bidang ubahsuaian
 ```
 Field enabled. For folders, if enabled, that field will be added automatically to children POIs on creation. For POIs, if enabled, that field will be visible in the details page.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lapangan diaktifkan Untuk folder, jika diaktifkan, bidang itu akan ditambahkan secara otomatis ke POI anak-anak pada pembuatan. Untuk POI, jika diaktifkan, bidang itu akan terlihat di halaman rincian.
 ```
@@ -4171,7 +4171,7 @@ Lapangan diaktifkan Untuk folder, jika diaktifkan, bidang itu akan ditambahkan s
 ```
 Field info
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Info lapangan
 ```
@@ -4181,7 +4181,7 @@ Info lapangan
 ```
 Select field type
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pilih jenis bidang
 ```
@@ -4191,7 +4191,7 @@ Pilih jenis bidang
 ```
 Boolean (True or False)
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Boolean (Benar atau Salah)
 ```
@@ -4201,7 +4201,7 @@ Boolean (Benar atau Salah)
 ```
 Default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Nilai default
 ```
@@ -4211,7 +4211,7 @@ Nilai default
 ```
 Date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tanggal
 ```
@@ -4221,7 +4221,7 @@ Tanggal
 ```
 Email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 E-mail
 ```
@@ -4231,7 +4231,7 @@ E-mail
 ```
 Text
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Teks
 ```
@@ -4241,7 +4241,7 @@ Teks
 ```
 Multiple choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pilihan ganda
 ```
@@ -4251,7 +4251,7 @@ Pilihan ganda
 ```
 Add choice
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tambahkan pilihan
 ```
@@ -4261,7 +4261,7 @@ Tambahkan pilihan
 ```
 Duplicates are not allowed
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Duplikat tidak diperbolehkan
 ```
@@ -4271,7 +4271,7 @@ Duplikat tidak diperbolehkan
 ```
 Phone
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Telepon
 ```
@@ -4281,7 +4281,7 @@ Telepon
 ```
 Web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Link web
 ```
@@ -4291,7 +4291,7 @@ Link web
 ```
 Choices list
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Daftar pilihan
 ```
@@ -4301,7 +4301,7 @@ Daftar pilihan
 ```
 Select default value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pilih nilai default
 ```
@@ -4311,7 +4311,7 @@ Pilih nilai default
 ```
 Creation date
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tanggal pembuatan
 ```
@@ -4321,7 +4321,7 @@ Tanggal pembuatan
 ```
 POI Options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pilihan POI
 ```
@@ -4331,7 +4331,7 @@ Pilihan POI
 ```
 Delete POI
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hapus POI
 ```
@@ -4341,7 +4341,7 @@ Hapus POI
 ```
 Select value
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pilih nilai
 ```
@@ -4351,7 +4351,7 @@ Pilih nilai
 ```
 Used by folders
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Digunakan oleh folder
 ```
@@ -4361,7 +4361,7 @@ Digunakan oleh folder
 ```
 Edit field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Edit kolom
 ```
@@ -4371,7 +4371,7 @@ Edit kolom
 ```
 Add folder field
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tambahkan bidang folder
 ```
@@ -4381,7 +4381,7 @@ Tambahkan bidang folder
 ```
 Reorder fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Susun ulang bidang
 ```
@@ -4391,7 +4391,7 @@ Susun ulang bidang
 ```
 Pick the fields you want to apply to this folder\'s POIs
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pilih bidang yang ingin Anda terapkan ke POI folder ini
 ```
@@ -4401,7 +4401,7 @@ Pilih bidang yang ingin Anda terapkan ke POI folder ini
 ```
 The destination folder has different field values. Pick the fields you want to apply to moved POIs.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Folder tujuan memiliki nilai field yang berbeda. Pilih bidang yang ingin Anda terapkan pada POI yang dipindahkan.
 ```
@@ -4411,7 +4411,7 @@ Folder tujuan memiliki nilai field yang berbeda. Pilih bidang yang ingin Anda te
 ```
 Update color
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Perbarui warna
 ```
@@ -4421,7 +4421,7 @@ Perbarui warna
 ```
 Update pin icon
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Perbarui ikon pin
 ```
@@ -4431,7 +4431,7 @@ Perbarui ikon pin
 ```
 Add field if missing: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tambahkan bidang jika hilang: %s
 ```
@@ -4441,7 +4441,7 @@ Tambahkan bidang jika hilang: %s
 ```
 Remove field if present: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hapus bidang jika ada: %s
 ```
@@ -4451,7 +4451,7 @@ Hapus bidang jika ada: %s
 ```
 Update field name if different: %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Perbarui nama field jika berbeda: %s
 ```
@@ -4461,7 +4461,7 @@ Perbarui nama field jika berbeda: %s
 ```
 More options…
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Lebih banyak pilihan…
 ```
@@ -4471,7 +4471,7 @@ Lebih banyak pilihan…
 ```
 Folder options
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pilihan folder
 ```
@@ -4481,7 +4481,7 @@ Pilihan folder
 ```
 Edit email
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Edit email
 ```
@@ -4491,7 +4491,7 @@ Edit email
 ```
 Edit web link
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Edit link web
 ```
@@ -4501,7 +4501,7 @@ Edit link web
 ```
 Decimal accuracy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ketepatan desimal
 ```
@@ -4511,7 +4511,7 @@ Ketepatan desimal
 ```
 Details copied to clipboard
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Detail disalin ke papan klip
 ```
@@ -4521,7 +4521,7 @@ Detail disalin ke papan klip
 ```
 Copy
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Salinan
 ```
@@ -4531,7 +4531,7 @@ Salinan
 ```
 Do you want to click here? ^‿^
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Apakah Anda ingin klik di sini? ^ ‿ ^
 ```
@@ -4559,7 +4559,7 @@ And finally, thank you for reading this :-)
 Regards
 Sébastien
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Hei, terima kasih atas keingintahuanmu! 
  
@@ -4587,7 +4587,7 @@ Hei, terima kasih atas keingintahuanmu!
 ```
 Normal with indoor
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Normal dengan indoor
 ```
@@ -4597,7 +4597,7 @@ Normal dengan indoor
 ```
 Floating marker titles
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Judul marker mengambang
 ```
@@ -4607,7 +4607,7 @@ Judul marker mengambang
 ```
 Maximum number
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Jumlah maksimum
 ```
@@ -4617,7 +4617,7 @@ Jumlah maksimum
 ```
 Text size
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ukuran teks
 ```
@@ -4627,7 +4627,7 @@ Ukuran teks
 ```
 Search failed => %s
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pencarian gagal =&gt; %s
 ```
@@ -4637,7 +4637,7 @@ Pencarian gagal =&gt; %s
 ```
 API key tutorial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tutorial API key
 ```
@@ -4647,7 +4647,7 @@ Tutorial API key
 ```
 Click here to see details on how to obtain an API key for your account.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Klik di sini untuk melihat detail tentang cara mendapatkan API key untuk akun Anda.
 ```
@@ -4657,7 +4657,7 @@ Klik di sini untuk melihat detail tentang cara mendapatkan API key untuk akun An
 ```
 Personal API key
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Pribadi API key
 ```
@@ -4667,7 +4667,7 @@ Pribadi API key
 ```
 None
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tidak ada
 ```
@@ -4679,7 +4679,7 @@ You can search for places with "Google Places API". This search requires an inte
 
 You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Anda dapat mencari tempat dengan "Google Places API". Pencarian ini membutuhkan koneksi internet.
 
@@ -4691,7 +4691,7 @@ Anda telah mengonfigurasi kunci Google Places API pribadi Anda: pencarian Anda a
 ```
 Do you enjoy the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Apakah Anda menikmati aplikasi?
 ```
@@ -4701,7 +4701,7 @@ Apakah Anda menikmati aplikasi?
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Apakah Anda ingin mengirim saya sebuah email untuk memberi tahu saya bagaimana saya dapat meningkatkan aplikasi?
 ```
@@ -4711,7 +4711,7 @@ Apakah Anda ingin mengirim saya sebuah email untuk memberi tahu saya bagaimana s
 ```
 Display extra POI fields
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Tampilkan bidang POI tambahan
 ```
@@ -4721,7 +4721,7 @@ Tampilkan bidang POI tambahan
 ```
 IGN plans
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Rencana IGN
 ```
@@ -4731,7 +4731,7 @@ Rencana IGN
 ```
 IGN maps
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Peta IGN
 ```
@@ -4741,7 +4741,7 @@ Peta IGN
 ```
 IGN - Cadastral parcels
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - paket Kadastral
 ```
@@ -4751,7 +4751,7 @@ IGN - paket Kadastral
 ```
 IGN - Aerial
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 IGN - Aerial
 ```
@@ -4761,7 +4761,7 @@ IGN - Aerial
 ```
 Type more and press enter again for refined results
 ```
-translates to:
+translated (by machine 🤖) as:
 ```
 Ketik lebih banyak dan tekan enter lagi untuk hasil yang lebih baik
 ```
