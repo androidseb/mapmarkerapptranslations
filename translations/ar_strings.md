@@ -3857,16 +3857,6 @@ translates to:
 ```
 
 
-## Translation Key: google_md
-```
-Google MD
-```
-translates to:
-```
-Google MD
-```
-
-
 ## Translation Key: marker_created_from_qr_code_geo_location
 ```
 Marker created from the geo location of the QR code
@@ -3984,16 +3974,6 @@ The data to export contains media(images) that cannot be included with this expo
 translates to:
 ```
 البيانات إلى تصدير يحتوي على وسائل الإعلام (الصور) التي لا يمكن إدراجها مع تنسيق التصدير هذه. وسيتم تصدير البيانات من دون وسائل الإعلام. لتصدير كل شيء، اختر KMZ تنسيق التصدير.
-```
-
-
-## Translation Key: export_choice_csv
-```
-CSV
-```
-translates to:
-```
-CSV
 ```
 
 
@@ -4650,4 +4630,138 @@ Search failed => %s
 translates to:
 ```
 فشل البحث =&gt; %s
+```
+
+
+## Translation Key: google_places_api_how_to_title
+```
+API key tutorial
+```
+translates to:
+```
+API key البرنامج التعليمي
+```
+
+
+## Translation Key: google_places_api_how_to_description
+```
+Click here to see details on how to obtain an API key for your account.
+```
+translates to:
+```
+انقر هنا للاطلاع على تفاصيل حول كيفية الحصول على API key لحسابك.
+```
+
+
+## Translation Key: personal_google_places_api_key
+```
+Personal API key
+```
+translates to:
+```
+الشخصية API key
+```
+
+
+## Translation Key: google_places_api_key_none
+```
+None
+```
+translates to:
+```
+لا شيء
+```
+
+
+## Translation Key: google_search_not_started_personal_api_key_text
+```
+You can search for places with "Google Places API". This search requires an internet connection.
+
+You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
+```
+translates to:
+```
+يمكنك البحث عن الأماكن التي تحتوي على "Google Places API". يتطلب هذا البحث اتصالاً بالإنترنت.
+
+لقد قمت بتكوين مفتاح Google Places API الخاص بك: سيستخدم البحث الخاص بك حصتك البحثية الشخصية Google Places API.
+```
+
+
+## Translation Key: do_you_enjoy_the_app_question
+```
+Do you enjoy the app?
+```
+translates to:
+```
+هل تستمتع بالتطبيق؟
+```
+
+
+## Translation Key: would_you_like_to_give_comments_on_how_to_improve
+```
+Would you like to send me an email to tell me how I could improve the app?
+```
+translates to:
+```
+هل تريد أن ترسل لي email لتخبرني كيف يمكنني تحسين التطبيق؟
+```
+
+
+## Translation Key: display_extra_poi_fields_buttons
+```
+Display extra POI fields
+```
+translates to:
+```
+عرض حقول POI إضافية
+```
+
+
+## Translation Key: map_type_ign_plans
+```
+IGN plans
+```
+translates to:
+```
+خطط IGN
+```
+
+
+## Translation Key: map_type_ign_maps
+```
+IGN maps
+```
+translates to:
+```
+خرائط IGN
+```
+
+
+## Translation Key: map_type_ign_cadastral_parcels
+```
+IGN - Cadastral parcels
+```
+translates to:
+```
+IGN - الطرود المساحية
+```
+
+
+## Translation Key: map_type_ign_photos
+```
+IGN - Aerial
+```
+translates to:
+```
+IGN - جوي
+```
+
+
+## Translation Key: google_search_over_text2
+```
+Type more and press enter again for refined results
+```
+translates to:
+```
+اكتب المزيد واضغط على Enter مرة أخرى للحصول على نتائج جيدة
 ```

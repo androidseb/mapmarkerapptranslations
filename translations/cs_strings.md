@@ -3857,16 +3857,6 @@ translates to:
 ```
 
 
-## Translation Key: google_md
-```
-Google MD
-```
-translates to:
-```
-Google MD
-```
-
-
 ## Translation Key: marker_created_from_qr_code_geo_location
 ```
 Marker created from the geo location of the QR code
@@ -3984,16 +3974,6 @@ The data to export contains media(images) that cannot be included with this expo
 translates to:
 ```
 Data pro export obsahuje mediální (obrazy), které nemohou být součástí tohoto exportním formátu. Data budou vyváženy bez médií. Chcete-li exportovat vše, zvolte KMZ formát exportu.
-```
-
-
-## Translation Key: export_choice_csv
-```
-CSV
-```
-translates to:
-```
-CSV
 ```
 
 
@@ -4650,4 +4630,138 @@ Search failed => %s
 translates to:
 ```
 Hledání se nezdařilo =&gt; %s
+```
+
+
+## Translation Key: google_places_api_how_to_title
+```
+API key tutorial
+```
+translates to:
+```
+API key výukový program
+```
+
+
+## Translation Key: google_places_api_how_to_description
+```
+Click here to see details on how to obtain an API key for your account.
+```
+translates to:
+```
+Kliknutím sem zobrazíte podrobnosti o tom, jak získat účet API key pro váš účet.
+```
+
+
+## Translation Key: personal_google_places_api_key
+```
+Personal API key
+```
+translates to:
+```
+Osobní API key
+```
+
+
+## Translation Key: google_places_api_key_none
+```
+None
+```
+translates to:
+```
+Žádný
+```
+
+
+## Translation Key: google_search_not_started_personal_api_key_text
+```
+You can search for places with "Google Places API". This search requires an internet connection.
+
+You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
+```
+translates to:
+```
+Můžete vyhledat místa s "Google Places API". Toto vyhledávání vyžaduje připojení k internetu.
+
+Nakonfigurovali jste svůj osobní klíč Google Places API: vaše vyhledávání bude používat vaši osobní kvótu vyhledávání Google Places API.
+```
+
+
+## Translation Key: do_you_enjoy_the_app_question
+```
+Do you enjoy the app?
+```
+translates to:
+```
+Máte rádi aplikaci?
+```
+
+
+## Translation Key: would_you_like_to_give_comments_on_how_to_improve
+```
+Would you like to send me an email to tell me how I could improve the app?
+```
+translates to:
+```
+Chtěli byste mi poslat email aby mi řekli, jak mohu zlepšit aplikaci?
+```
+
+
+## Translation Key: display_extra_poi_fields_buttons
+```
+Display extra POI fields
+```
+translates to:
+```
+Zobrazit další položky POI
+```
+
+
+## Translation Key: map_type_ign_plans
+```
+IGN plans
+```
+translates to:
+```
+Plány IGN
+```
+
+
+## Translation Key: map_type_ign_maps
+```
+IGN maps
+```
+translates to:
+```
+Mapy IGN
+```
+
+
+## Translation Key: map_type_ign_cadastral_parcels
+```
+IGN - Cadastral parcels
+```
+translates to:
+```
+IGN - katastrální pozemky
+```
+
+
+## Translation Key: map_type_ign_photos
+```
+IGN - Aerial
+```
+translates to:
+```
+IGN - letecký
+```
+
+
+## Translation Key: google_search_over_text2
+```
+Type more and press enter again for refined results
+```
+translates to:
+```
+Zadejte více a znovu stiskněte znovu pro lepší výsledky
 ```

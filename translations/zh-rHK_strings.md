@@ -3857,16 +3857,6 @@ translates to:
 ```
 
 
-## Translation Key: google_md
-```
-Google MD
-```
-translates to:
-```
-Google MD
-```
-
-
 ## Translation Key: marker_created_from_qr_code_geo_location
 ```
 Marker created from the geo location of the QR code
@@ -3984,16 +3974,6 @@ The data to export contains media(images) that cannot be included with this expo
 translates to:
 ```
 要導出的數據包含可以不包括在此導出格式的媒體（圖像）。這些數據將沒有媒體出口。要導出的一切，選擇KMZ導出格式。
-```
-
-
-## Translation Key: export_choice_csv
-```
-CSV
-```
-translates to:
-```
-CSV
 ```
 
 
@@ -4650,4 +4630,138 @@ Search failed => %s
 translates to:
 ```
 搜索失敗=&gt; %s
+```
+
+
+## Translation Key: google_places_api_how_to_title
+```
+API key tutorial
+```
+translates to:
+```
+API key教程
+```
+
+
+## Translation Key: google_places_api_how_to_description
+```
+Click here to see details on how to obtain an API key for your account.
+```
+translates to:
+```
+點擊此處查看有關如何為您的帳戶獲取API key的詳細信息。
+```
+
+
+## Translation Key: personal_google_places_api_key
+```
+Personal API key
+```
+translates to:
+```
+個人API key
+```
+
+
+## Translation Key: google_places_api_key_none
+```
+None
+```
+translates to:
+```
+沒有
+```
+
+
+## Translation Key: google_search_not_started_personal_api_key_text
+```
+You can search for places with "Google Places API". This search requires an internet connection.
+
+You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
+```
+translates to:
+```
+您可以使用“Google Places API”搜索地點。此搜索需要互聯網連接。
+
+您已配置個人Google Places API密鑰：您的搜索將使用您的個人Google Places API搜索配額。
+```
+
+
+## Translation Key: do_you_enjoy_the_app_question
+```
+Do you enjoy the app?
+```
+translates to:
+```
+你喜歡這款應用嗎？
+```
+
+
+## Translation Key: would_you_like_to_give_comments_on_how_to_improve
+```
+Would you like to send me an email to tell me how I could improve the app?
+```
+translates to:
+```
+你想給我發一個email來告訴我如何改進應用程序嗎？
+```
+
+
+## Translation Key: display_extra_poi_fields_buttons
+```
+Display extra POI fields
+```
+translates to:
+```
+顯示額外的POI字段
+```
+
+
+## Translation Key: map_type_ign_plans
+```
+IGN plans
+```
+translates to:
+```
+IGN計劃
+```
+
+
+## Translation Key: map_type_ign_maps
+```
+IGN maps
+```
+translates to:
+```
+IGN地圖
+```
+
+
+## Translation Key: map_type_ign_cadastral_parcels
+```
+IGN - Cadastral parcels
+```
+translates to:
+```
+IGN  - 地籍包裹
+```
+
+
+## Translation Key: map_type_ign_photos
+```
+IGN - Aerial
+```
+translates to:
+```
+IGN  - 天線
+```
+
+
+## Translation Key: google_search_over_text2
+```
+Type more and press enter again for refined results
+```
+translates to:
+```
+輸入更多並再次按Enter鍵以獲得精煉結果
 ```

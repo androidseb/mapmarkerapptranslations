@@ -3857,16 +3857,6 @@ translates to:
 ```
 
 
-## Translation Key: google_md
-```
-Google MD
-```
-translates to:
-```
-Google MD
-```
-
-
 ## Translation Key: marker_created_from_qr_code_geo_location
 ```
 Marker created from the geo location of the QR code
@@ -3984,16 +3974,6 @@ The data to export contains media(images) that cannot be included with this expo
 translates to:
 ```
 ទិន្នន័យដើម្បីនាំចេញមានប្រព័ន្ធផ្សព្វផ្សាយ (រូបភាព) ដែលមិនអាចត្រូវបានរួមបញ្ចូលជាមួយនឹងទ្រង់ទ្រាយនាំចេញនេះ។ ទិន្នន័យនេះនឹងត្រូវបាននាំចេញដោយគ្មានប្រព័ន្ធផ្សព្វផ្សាយ។ ដើម្បីនាំចេញអ្វីគ្រប់យ៉ាង, ជ្រើស KMZ ទ្រង់ទ្រាយនៃការនាំចេញ។
-```
-
-
-## Translation Key: export_choice_csv
-```
-CSV
-```
-translates to:
-```
-CSV
 ```
 
 
@@ -4650,4 +4630,138 @@ Search failed => %s
 translates to:
 ```
 ការស្វែងរកបានបរាជ័យ =&gt; %s
+```
+
+
+## Translation Key: google_places_api_how_to_title
+```
+API key tutorial
+```
+translates to:
+```
+API key ការបង្រៀន
+```
+
+
+## Translation Key: google_places_api_how_to_description
+```
+Click here to see details on how to obtain an API key for your account.
+```
+translates to:
+```
+សូមចុចនៅទីនេះដើម្បីមើលព័ត៌មានលម្អិតអំពីរបៀបទទួល API key សម្រាប់គណនីរបស់អ្នក។
+```
+
+
+## Translation Key: personal_google_places_api_key
+```
+Personal API key
+```
+translates to:
+```
+ផ្ទាល់ខ្លួន API key
+```
+
+
+## Translation Key: google_places_api_key_none
+```
+None
+```
+translates to:
+```
+គ្មាន
+```
+
+
+## Translation Key: google_search_not_started_personal_api_key_text
+```
+You can search for places with "Google Places API". This search requires an internet connection.
+
+You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
+```
+translates to:
+```
+អ្នកអាចស្វែងរកកន្លែងដែលមាន "Google Places API" ។ ការស្វែងរកនេះទាមទារការតភ្ជាប់អ៊ីនធឺណិត។
+
+អ្នកបានកំណត់គន្លឹះ Google Places API ផ្ទាល់ខ្លួនរបស់អ្នក: ការស្វែងរករបស់អ្នកនឹងប្រើកូតាស្វែងរក Google Places API ផ្ទាល់ខ្លួនរបស់អ្នក។
+```
+
+
+## Translation Key: do_you_enjoy_the_app_question
+```
+Do you enjoy the app?
+```
+translates to:
+```
+តើអ្នកចូលចិត្តកម្មវិធីទេ?
+```
+
+
+## Translation Key: would_you_like_to_give_comments_on_how_to_improve
+```
+Would you like to send me an email to tell me how I could improve the app?
+```
+translates to:
+```
+តើអ្នកចង់ផ្ញើ email មកខ្ញុំដើម្បីប្រាប់ខ្ញុំថាខ្ញុំអាចធ្វើឱ្យកម្មវិធីប្រសើរឡើងបានទេ?
+```
+
+
+## Translation Key: display_extra_poi_fields_buttons
+```
+Display extra POI fields
+```
+translates to:
+```
+បង្ហាញវាល POI បន្ថែម
+```
+
+
+## Translation Key: map_type_ign_plans
+```
+IGN plans
+```
+translates to:
+```
+ផែនការ IGN
+```
+
+
+## Translation Key: map_type_ign_maps
+```
+IGN maps
+```
+translates to:
+```
+ផែនទី IGN
+```
+
+
+## Translation Key: map_type_ign_cadastral_parcels
+```
+IGN - Cadastral parcels
+```
+translates to:
+```
+IGN - ឡូត៍សុរិយោដី
+```
+
+
+## Translation Key: map_type_ign_photos
+```
+IGN - Aerial
+```
+translates to:
+```
+IGN - អាកាស
+```
+
+
+## Translation Key: google_search_over_text2
+```
+Type more and press enter again for refined results
+```
+translates to:
+```
+បញ្ចូលច្រើនទៀតហើយចុចបញ្ចូលម្តងទៀតសម្រាប់លទ្ធផលចម្រាញ់
 ```

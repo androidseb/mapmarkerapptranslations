@@ -3856,16 +3856,6 @@ translates to:
 ```
 
 
-## Translation Key: google_md
-```
-Google MD
-```
-translates to:
-```
-„Google MD“
-```
-
-
 ## Translation Key: marker_created_from_qr_code_geo_location
 ```
 Marker created from the geo location of the QR code
@@ -3983,16 +3973,6 @@ The data to export contains media(images) that cannot be included with this expo
 translates to:
 ```
 Eksportuojamuose duomenyse yra daugialypės terpės objektų (atvaizdų), kurie negali būti įtraukti į šį eksportuojamą formatą. Duomenys bus eksportuojami be daugialypės terpės. Norėdami eksportuoti viską, pasirinkite KMZ eksportavimo formatą.
-```
-
-
-## Translation Key: export_choice_csv
-```
-CSV
-```
-translates to:
-```
-CSV
 ```
 
 
@@ -4649,4 +4629,138 @@ Search failed => %s
 translates to:
 ```
 Paieška nepavyko => %s
+```
+
+
+## Translation Key: google_places_api_how_to_title
+```
+API key tutorial
+```
+translates to:
+```
+API key pamoka
+```
+
+
+## Translation Key: google_places_api_how_to_description
+```
+Click here to see details on how to obtain an API key for your account.
+```
+translates to:
+```
+Spustelėkite čia, jei norite pamatyti išsamesnės informacijos apie tai, kaip gauti API key sąskaitą.
+```
+
+
+## Translation Key: personal_google_places_api_key
+```
+Personal API key
+```
+translates to:
+```
+Asmeninis API key
+```
+
+
+## Translation Key: google_places_api_key_none
+```
+None
+```
+translates to:
+```
+Nė vienas
+```
+
+
+## Translation Key: google_search_not_started_personal_api_key_text
+```
+You can search for places with "Google Places API". This search requires an internet connection.
+
+You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
+```
+translates to:
+```
+Galite ieškoti vietų su „Google Places API“. Ši paieška reikalauja interneto ryšio.
+
+Sukonfigūravote asmeninį Google Places API raktą: jūsų paieška bus naudojama jūsų asmeninė Google Places API paieškos kvota.
+```
+
+
+## Translation Key: do_you_enjoy_the_app_question
+```
+Do you enjoy the app?
+```
+translates to:
+```
+Ar jums patinka programa?
+```
+
+
+## Translation Key: would_you_like_to_give_comments_on_how_to_improve
+```
+Would you like to send me an email to tell me how I could improve the app?
+```
+translates to:
+```
+Ar norėtumėte atsiųsti man email, kad pasakytumėte, kaip galėčiau pagerinti programą?
+```
+
+
+## Translation Key: display_extra_poi_fields_buttons
+```
+Display extra POI fields
+```
+translates to:
+```
+Rodyti papildomus LV laukus
+```
+
+
+## Translation Key: map_type_ign_plans
+```
+IGN plans
+```
+translates to:
+```
+IGN planai
+```
+
+
+## Translation Key: map_type_ign_maps
+```
+IGN maps
+```
+translates to:
+```
+IGN žemėlapiai
+```
+
+
+## Translation Key: map_type_ign_cadastral_parcels
+```
+IGN - Cadastral parcels
+```
+translates to:
+```
+IGN - kadastro sklypai
+```
+
+
+## Translation Key: map_type_ign_photos
+```
+IGN - Aerial
+```
+translates to:
+```
+IGN - antena
+```
+
+
+## Translation Key: google_search_over_text2
+```
+Type more and press enter again for refined results
+```
+translates to:
+```
+Įveskite daugiau ir spauskite dar kartą, kad gautumėte rafinuotų rezultatų
 ```

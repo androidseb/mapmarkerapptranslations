@@ -3857,16 +3857,6 @@ translates to:
 ```
 
 
-## Translation Key: google_md
-```
-Google MD
-```
-translates to:
-```
-Google MD
-```
-
-
 ## Translation Key: marker_created_from_qr_code_geo_location
 ```
 Marker created from the geo location of the QR code
@@ -3984,16 +3974,6 @@ The data to export contains media(images) that cannot be included with this expo
 translates to:
 ```
 ข้อมูลการส่งออกมีสื่อ (ภาพ) ที่ไม่สามารถรวมกับรูปแบบของการส่งออกนี้ ข้อมูลจะถูกส่งออกไปโดยไม่ต้องสื่อ เพื่อการส่งออกทุกอย่างให้เลือก KMZ รูปแบบการส่งออก
-```
-
-
-## Translation Key: export_choice_csv
-```
-CSV
-```
-translates to:
-```
-CSV
 ```
 
 
@@ -4651,4 +4631,138 @@ Search failed => %s
 translates to:
 ```
 ค้นหาล้มเหลว =&gt; %s
+```
+
+
+## Translation Key: google_places_api_how_to_title
+```
+API key tutorial
+```
+translates to:
+```
+บทช่วยสอน API key
+```
+
+
+## Translation Key: google_places_api_how_to_description
+```
+Click here to see details on how to obtain an API key for your account.
+```
+translates to:
+```
+คลิกที่นี่เพื่อดูรายละเอียดวิธีรับ API key สำหรับบัญชีของคุณ
+```
+
+
+## Translation Key: personal_google_places_api_key
+```
+Personal API key
+```
+translates to:
+```
+ส่วนบุคคล API key
+```
+
+
+## Translation Key: google_places_api_key_none
+```
+None
+```
+translates to:
+```
+ไม่มี
+```
+
+
+## Translation Key: google_search_not_started_personal_api_key_text
+```
+You can search for places with "Google Places API". This search requires an internet connection.
+
+You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
+```
+translates to:
+```
+คุณสามารถค้นหาสถานที่ด้วย "Google Places API" การค้นหานี้ต้องการการเชื่อมต่ออินเทอร์เน็ต
+
+คุณได้กำหนดค่าคีย์ Google Places API ส่วนบุคคล: การค้นหาของคุณจะใช้โควต้าการค้นหาส่วนบุคคล Google Places API
+```
+
+
+## Translation Key: do_you_enjoy_the_app_question
+```
+Do you enjoy the app?
+```
+translates to:
+```
+คุณสนุกกับแอพไหม?
+```
+
+
+## Translation Key: would_you_like_to_give_comments_on_how_to_improve
+```
+Would you like to send me an email to tell me how I could improve the app?
+```
+translates to:
+```
+คุณต้องการส่ง email ให้ฉันเพื่อบอกฉันว่าฉันสามารถปรับปรุงแอพได้หรือไม่
+```
+
+
+## Translation Key: display_extra_poi_fields_buttons
+```
+Display extra POI fields
+```
+translates to:
+```
+แสดงเขตข้อมูล POI พิเศษ
+```
+
+
+## Translation Key: map_type_ign_plans
+```
+IGN plans
+```
+translates to:
+```
+แผนจีเอ็นส์
+```
+
+
+## Translation Key: map_type_ign_maps
+```
+IGN maps
+```
+translates to:
+```
+แผนที่ IGN
+```
+
+
+## Translation Key: map_type_ign_cadastral_parcels
+```
+IGN - Cadastral parcels
+```
+translates to:
+```
+IGN - พัสดุเกี่ยวกับที่ดิน
+```
+
+
+## Translation Key: map_type_ign_photos
+```
+IGN - Aerial
+```
+translates to:
+```
+IGN - อากาศ
+```
+
+
+## Translation Key: google_search_over_text2
+```
+Type more and press enter again for refined results
+```
+translates to:
+```
+พิมพ์เพิ่มเติมแล้วกด Enter อีกครั้งเพื่อให้ได้ผลลัพธ์ที่ดีที่สุด
 ```

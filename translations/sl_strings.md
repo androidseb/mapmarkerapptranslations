@@ -3856,16 +3856,6 @@ translates to:
 ```
 
 
-## Translation Key: google_md
-```
-Google MD
-```
-translates to:
-```
-Google MD
-```
-
-
 ## Translation Key: marker_created_from_qr_code_geo_location
 ```
 Marker created from the geo location of the QR code
@@ -3983,16 +3973,6 @@ The data to export contains media(images) that cannot be included with this expo
 translates to:
 ```
 Podatki za izvoz vsebujejo medije (slike), ki jih ni mogoče vključiti v ta izvozni format. Podatki bodo izvoženi brez medijev. Če želite izvoziti vse, izberite izvozni format KMZ.
-```
-
-
-## Translation Key: export_choice_csv
-```
-CSV
-```
-translates to:
-```
-CSV
 ```
 
 
@@ -4649,4 +4629,138 @@ Search failed => %s
 translates to:
 ```
 Iskanje ni uspelo =&gt; %s
+```
+
+
+## Translation Key: google_places_api_how_to_title
+```
+API key tutorial
+```
+translates to:
+```
+API key Vadnica
+```
+
+
+## Translation Key: google_places_api_how_to_description
+```
+Click here to see details on how to obtain an API key for your account.
+```
+translates to:
+```
+Kliknite tukaj, če si želite ogledati podrobnosti o tem, kako pridobiti API key za svoj račun.
+```
+
+
+## Translation Key: personal_google_places_api_key
+```
+Personal API key
+```
+translates to:
+```
+Osebno API key
+```
+
+
+## Translation Key: google_places_api_key_none
+```
+None
+```
+translates to:
+```
+Jih ni
+```
+
+
+## Translation Key: google_search_not_started_personal_api_key_text
+```
+You can search for places with "Google Places API". This search requires an internet connection.
+
+You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
+```
+translates to:
+```
+Poiščete lahko mesta z "Google Places API". To iskanje zahteva internetno povezavo.
+
+Konfigurirali ste svoj osebni ključ Google Places API: vaše iskanje bo uporabljalo vašo osebno iskalno kvoto Google Places API.
+```
+
+
+## Translation Key: do_you_enjoy_the_app_question
+```
+Do you enjoy the app?
+```
+translates to:
+```
+Uživate v aplikaciji?
+```
+
+
+## Translation Key: would_you_like_to_give_comments_on_how_to_improve
+```
+Would you like to send me an email to tell me how I could improve the app?
+```
+translates to:
+```
+Ali bi mi radi poslali email, da mi poveš, kako lahko izboljšam aplikacijo?
+```
+
+
+## Translation Key: display_extra_poi_fields_buttons
+```
+Display extra POI fields
+```
+translates to:
+```
+Prikaz dodatnih polj POI
+```
+
+
+## Translation Key: map_type_ign_plans
+```
+IGN plans
+```
+translates to:
+```
+Načrti IGN
+```
+
+
+## Translation Key: map_type_ign_maps
+```
+IGN maps
+```
+translates to:
+```
+Karte IGN
+```
+
+
+## Translation Key: map_type_ign_cadastral_parcels
+```
+IGN - Cadastral parcels
+```
+translates to:
+```
+IGN - katastrske parcele
+```
+
+
+## Translation Key: map_type_ign_photos
+```
+IGN - Aerial
+```
+translates to:
+```
+IGN - antena
+```
+
+
+## Translation Key: google_search_over_text2
+```
+Type more and press enter again for refined results
+```
+translates to:
+```
+Vnesite več in ponovno pritisnite enter za izboljšane rezultate
 ```

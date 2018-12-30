@@ -3857,16 +3857,6 @@ translates to:
 ```
 
 
-## Translation Key: google_md
-```
-Google MD
-```
-translates to:
-```
-Google MD
-```
-
-
 ## Translation Key: marker_created_from_qr_code_geo_location
 ```
 Marker created from the geo location of the QR code
@@ -3984,16 +3974,6 @@ The data to export contains media(images) that cannot be included with this expo
 translates to:
 ```
 निर्यात के लिए डेटा मीडिया (चित्र) कि इस निर्यात प्रारूप के साथ शामिल नहीं किया जा सकता है। डेटा मीडिया के बिना निर्यात किया जाएगा। सब कुछ निर्यात करने के लिए, चयन KMZ निर्यात प्रारूप।
-```
-
-
-## Translation Key: export_choice_csv
-```
-CSV
-```
-translates to:
-```
-CSV
 ```
 
 
@@ -4650,4 +4630,138 @@ Search failed => %s
 translates to:
 ```
 खोज विफल =&gt; %s
+```
+
+
+## Translation Key: google_places_api_how_to_title
+```
+API key tutorial
+```
+translates to:
+```
+API key ट्यूटोरियल
+```
+
+
+## Translation Key: google_places_api_how_to_description
+```
+Click here to see details on how to obtain an API key for your account.
+```
+translates to:
+```
+अपने खाते के लिए API key प्राप्त करने के तरीके के विवरण देखने के लिए यहां क्लिक करें
+```
+
+
+## Translation Key: personal_google_places_api_key
+```
+Personal API key
+```
+translates to:
+```
+व्यक्तिगत API key
+```
+
+
+## Translation Key: google_places_api_key_none
+```
+None
+```
+translates to:
+```
+कोई नहीं
+```
+
+
+## Translation Key: google_search_not_started_personal_api_key_text
+```
+You can search for places with "Google Places API". This search requires an internet connection.
+
+You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
+```
+translates to:
+```
+आप "Google Places API" के साथ स्थानों की खोज कर सकते हैं। इस खोज के लिए इंटरनेट कनेक्शन की आवश्यकता होती है।
+
+आपने अपनी व्यक्तिगत Google Places API कुंजी को कॉन्फ़िगर किया है: आपकी खोज आपके व्यक्तिगत Google Places API खोज कोटा का उपयोग करेगी।
+```
+
+
+## Translation Key: do_you_enjoy_the_app_question
+```
+Do you enjoy the app?
+```
+translates to:
+```
+क्या आप ऐप का आनंद लेते हैं?
+```
+
+
+## Translation Key: would_you_like_to_give_comments_on_how_to_improve
+```
+Would you like to send me an email to tell me how I could improve the app?
+```
+translates to:
+```
+क्या आप मुझे यह बताने के लिए एक email भेजना चाहेंगे कि मैं ऐप को कैसे सुधार सकता हूं?
+```
+
+
+## Translation Key: display_extra_poi_fields_buttons
+```
+Display extra POI fields
+```
+translates to:
+```
+अतिरिक्त POI फ़ील्ड प्रदर्शित करें
+```
+
+
+## Translation Key: map_type_ign_plans
+```
+IGN plans
+```
+translates to:
+```
+IGN की योजना
+```
+
+
+## Translation Key: map_type_ign_maps
+```
+IGN maps
+```
+translates to:
+```
+IGN नक्शे
+```
+
+
+## Translation Key: map_type_ign_cadastral_parcels
+```
+IGN - Cadastral parcels
+```
+translates to:
+```
+IGN - कैडस्ट्राल पार्सल
+```
+
+
+## Translation Key: map_type_ign_photos
+```
+IGN - Aerial
+```
+translates to:
+```
+IGN - एरियल
+```
+
+
+## Translation Key: google_search_over_text2
+```
+Type more and press enter again for refined results
+```
+translates to:
+```
+अधिक टाइप करें और परिष्कृत परिणामों के लिए फिर से दर्ज करें
 ```

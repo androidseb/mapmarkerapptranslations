@@ -3857,16 +3857,6 @@ translates to:
 ```
 
 
-## Translation Key: google_md
-```
-Google MD
-```
-translates to:
-```
-Google MD
-```
-
-
 ## Translation Key: marker_created_from_qr_code_geo_location
 ```
 Marker created from the geo location of the QR code
@@ -3984,16 +3974,6 @@ The data to export contains media(images) that cannot be included with this expo
 translates to:
 ```
 Dataene til eksport indeholder medier (billeder), der ikke kan medtages med denne eksport format. Dataene vil blive eksporteret uden medierne. For at eksportere alt, skal du vælge KMZ eksport format.
-```
-
-
-## Translation Key: export_choice_csv
-```
-CSV
-```
-translates to:
-```
-CSV
 ```
 
 
@@ -4524,4 +4504,264 @@ Decimal accuracy
 translates to:
 ```
 Decimal nøjagtighed
+```
+
+
+## Translation Key: details_copied_to_clipboard
+```
+Details copied to clipboard
+```
+translates to:
+```
+Oplysninger kopieret til udklipsholder
+```
+
+
+## Translation Key: copy
+```
+Copy
+```
+translates to:
+```
+Kopi
+```
+
+
+## Translation Key: help_me_cta
+```
+Do you want to click here? ^‿^
+```
+translates to:
+```
+Vil du klikke her? ^ ‿ ^
+```
+
+
+## Translation Key: help_me_message
+```
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time for over 4 years now.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
+```
+translates to:
+```
+Hej, tak for din nysgerrighed!
+
+Jeg plejede at have et annoncebanner her, og jeg besluttede at prøve noget andet og erstatte det med denne enkle besked ...
+
+Jeg har lavet denne app på fritiden som en hobby, udover at have et fuldtidsjob, og det viser sig, at det blev et sideprojekt, hvor jeg har brugt meget tid i over 4 år nu.
+
+Jeg håber du kan lide appen og finder den nyttig. Jeg gjorde det på en måde, at du stadig kan gøre alt uden at betale, det kan bare tage lidt mere arbejde. Du er fri til at importere eller eksportere dataene manuelt, så du aldrig rigtig skal betale, det er bare, at cloud sync er mere praktisk.
+
+Hvis du kan lide appen, vær venlig at støtte den: Du behøver ikke bruge penge til det, og nogen af disse bevægelser hjælper:
+- Tal om appen til folk omkring dig
+- bedøm appen for at anbefale det i butikken
+- køb premium-opgraderingen (fjerner bundbanneret)
+
+Hvis du ikke kan lide appen, skal du venligst email mig (fra "om" sektionen) og lade mig vide, hvordan jeg kan forbedre den. Jeg er kommet så langt takket være tilbagemeldinger fra mange brugere, der fortalte mig om, hvad de savnede eller ikke kunne lide, og jeg svarer på hver eneste email, så vær ikke genert!
+
+Og endelig tak for at du læste denne :-)
+
+Hilsen
+Sébastien
+```
+
+
+## Translation Key: normal_with_indoor_mapping
+```
+Normal with indoor
+```
+translates to:
+```
+Normal med indendørs
+```
+
+
+## Translation Key: floating_marker_titles
+```
+Floating marker titles
+```
+translates to:
+```
+Flydende markør titler
+```
+
+
+## Translation Key: floating_marker_titles_max_number
+```
+Maximum number
+```
+translates to:
+```
+Maksimum antal
+```
+
+
+## Translation Key: floating_marker_titles_text_size
+```
+Text size
+```
+translates to:
+```
+Tekststørrelse
+```
+
+
+## Translation Key: search_failed_x
+```
+Search failed => %s
+```
+translates to:
+```
+Søgningen mislykkedes => %s
+```
+
+
+## Translation Key: google_places_api_how_to_title
+```
+API key tutorial
+```
+translates to:
+```
+API key tutorial
+```
+
+
+## Translation Key: google_places_api_how_to_description
+```
+Click here to see details on how to obtain an API key for your account.
+```
+translates to:
+```
+Klik her for at se detaljer om, hvordan du får en API key til din konto.
+```
+
+
+## Translation Key: personal_google_places_api_key
+```
+Personal API key
+```
+translates to:
+```
+Personlig API key
+```
+
+
+## Translation Key: google_places_api_key_none
+```
+None
+```
+translates to:
+```
+Ingen
+```
+
+
+## Translation Key: google_search_not_started_personal_api_key_text
+```
+You can search for places with "Google Places API". This search requires an internet connection.
+
+You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
+```
+translates to:
+```
+Du kan søge efter steder med "Google Places API". Denne søgning kræver en internetforbindelse.
+
+Du har konfigureret din personlige Google Places API-nøgle: Din søgning bruger din personlige Google Places API søgekvote.
+```
+
+
+## Translation Key: do_you_enjoy_the_app_question
+```
+Do you enjoy the app?
+```
+translates to:
+```
+Nyder du appen
+```
+
+
+## Translation Key: would_you_like_to_give_comments_on_how_to_improve
+```
+Would you like to send me an email to tell me how I could improve the app?
+```
+translates to:
+```
+Vil du gerne sende mig en email for at fortælle mig, hvordan jeg kunne forbedre appen?
+```
+
+
+## Translation Key: display_extra_poi_fields_buttons
+```
+Display extra POI fields
+```
+translates to:
+```
+Vis ekstra POI-felter
+```
+
+
+## Translation Key: map_type_ign_plans
+```
+IGN plans
+```
+translates to:
+```
+IGN planer
+```
+
+
+## Translation Key: map_type_ign_maps
+```
+IGN maps
+```
+translates to:
+```
+IGN kort
+```
+
+
+## Translation Key: map_type_ign_cadastral_parcels
+```
+IGN - Cadastral parcels
+```
+translates to:
+```
+IGN - Cadastral pakker
+```
+
+
+## Translation Key: map_type_ign_photos
+```
+IGN - Aerial
+```
+translates to:
+```
+IGN - Antenner
+```
+
+
+## Translation Key: google_search_over_text2
+```
+Type more and press enter again for refined results
+```
+translates to:
+```
+Skriv mere og tryk på Enter igen for raffinerede resultater
 ```

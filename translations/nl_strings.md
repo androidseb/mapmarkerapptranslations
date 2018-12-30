@@ -3855,16 +3855,6 @@ translates to:
 ```
 
 
-## Translation Key: google_md
-```
-Google MD
-```
-translates to:
-```
-Google MD
-```
-
-
 ## Translation Key: marker_created_from_qr_code_geo_location
 ```
 Marker created from the geo location of the QR code
@@ -3982,16 +3972,6 @@ The data to export contains media(images) that cannot be included with this expo
 translates to:
 ```
 De gegevens te exporteren bevat media (foto's) die niet kunnen worden opgenomen met deze export formaat. De gegevens zullen worden uitgevoerd zonder de media. Om alles te exporteren, kiest u het KMZ export formaat.
-```
-
-
-## Translation Key: export_choice_csv
-```
-CSV
-```
-translates to:
-```
-CSV
 ```
 
 
@@ -4648,4 +4628,138 @@ Search failed => %s
 translates to:
 ```
 Zoeken mislukt =&gt; %s
+```
+
+
+## Translation Key: google_places_api_how_to_title
+```
+API key tutorial
+```
+translates to:
+```
+API key zelfstudie
+```
+
+
+## Translation Key: google_places_api_how_to_description
+```
+Click here to see details on how to obtain an API key for your account.
+```
+translates to:
+```
+Klik hier voor meer informatie over het verkrijgen van een API key voor uw account.
+```
+
+
+## Translation Key: personal_google_places_api_key
+```
+Personal API key
+```
+translates to:
+```
+Persoonlijk API key
+```
+
+
+## Translation Key: google_places_api_key_none
+```
+None
+```
+translates to:
+```
+Geen
+```
+
+
+## Translation Key: google_search_not_started_personal_api_key_text
+```
+You can search for places with "Google Places API". This search requires an internet connection.
+
+You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
+```
+translates to:
+```
+U kunt zoeken naar plaatsen met "Google Places API". Voor deze zoekopdracht is een internetverbinding vereist.
+
+U hebt uw persoonlijke Google Places API-sleutel geconfigureerd: uw zoekopdracht gebruikt uw persoonlijke zoekquotum van Google Places API.
+```
+
+
+## Translation Key: do_you_enjoy_the_app_question
+```
+Do you enjoy the app?
+```
+translates to:
+```
+Geniet je van de app?
+```
+
+
+## Translation Key: would_you_like_to_give_comments_on_how_to_improve
+```
+Would you like to send me an email to tell me how I could improve the app?
+```
+translates to:
+```
+Wil je me een email sturen om me te vertellen hoe ik de app kan verbeteren?
+```
+
+
+## Translation Key: display_extra_poi_fields_buttons
+```
+Display extra POI fields
+```
+translates to:
+```
+Geef extra POI-velden weer
+```
+
+
+## Translation Key: map_type_ign_plans
+```
+IGN plans
+```
+translates to:
+```
+IGN plannen
+```
+
+
+## Translation Key: map_type_ign_maps
+```
+IGN maps
+```
+translates to:
+```
+IGN-kaarten
+```
+
+
+## Translation Key: map_type_ign_cadastral_parcels
+```
+IGN - Cadastral parcels
+```
+translates to:
+```
+IGN - Kadastrale percelen
+```
+
+
+## Translation Key: map_type_ign_photos
+```
+IGN - Aerial
+```
+translates to:
+```
+IGN - Aerial
+```
+
+
+## Translation Key: google_search_over_text2
+```
+Type more and press enter again for refined results
+```
+translates to:
+```
+Typ meer en druk nogmaals op enter voor verfijnde resultaten
 ```
