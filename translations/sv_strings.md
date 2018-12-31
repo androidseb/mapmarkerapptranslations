@@ -4513,7 +4513,7 @@ Details copied to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-Detaljer kopieras till Urklipp
+Detaljer kopierade till Urklipp
 ```
 
 
@@ -4521,7 +4521,7 @@ Detaljer kopieras till Urklipp
 ```
 Copy
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Kopiera
 ```
@@ -4531,7 +4531,7 @@ Kopiera
 ```
 Do you want to click here? ^‿^
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vill du klicka här? ^‿^
 ```
@@ -4587,7 +4587,7 @@ Sébastien
 ```
 Normal with indoor
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Normal med inomhus
 ```
@@ -4597,7 +4597,7 @@ Normal med inomhus
 ```
 Floating marker titles
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Flytande markörtitlar
 ```
@@ -4607,7 +4607,7 @@ Flytande markörtitlar
 ```
 Maximum number
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Maxantal
 ```
@@ -4617,7 +4617,7 @@ Maxantal
 ```
 Text size
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Textstorlek
 ```
@@ -4627,7 +4627,7 @@ Textstorlek
 ```
 Search failed => %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Hittade inte => %s
 ```
