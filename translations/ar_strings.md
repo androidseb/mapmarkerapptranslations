@@ -7,7 +7,7 @@ You want to help improve this translation file? Read the [main page](https://git
 ```
 OK
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 موافق
 ```
@@ -17,7 +17,7 @@ translated (by machine 🤖) as:
 ```
 Yes
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 نعم
 ```
@@ -27,7 +27,7 @@ translated (by machine 🤖) as:
 ```
 No
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لا
 ```
@@ -37,7 +37,7 @@ translated (by machine 🤖) as:
 ```
 Cancel
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إلغاء
 ```
@@ -47,7 +47,7 @@ translated (by machine 🤖) as:
 ```
 New marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 علامة جديدة
 ```
@@ -57,7 +57,7 @@ translated (by machine 🤖) as:
 ```
 Title
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 اسم
 ```
@@ -67,7 +67,7 @@ translated (by machine 🤖) as:
 ```
 Description
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 وصف
 ```
@@ -77,7 +77,7 @@ translated (by machine 🤖) as:
 ```
 Do you really want to delete this marker?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 هل حقا تريد حذف هذه العلامة؟
 ```
@@ -87,7 +87,7 @@ translated (by machine 🤖) as:
 ```
 GPS coordinates
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إحداثيات GPS
 ```
@@ -97,7 +97,7 @@ translated (by machine 🤖) as:
 ```
 Could not copy coordinates to clipboard
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لا يمكن نسخ الإحداثيات إلى الحافظة
 ```
@@ -107,7 +107,7 @@ translated (by machine 🤖) as:
 ```
 Coordinates copied to clipboard
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تم نسخ الإحداثيات إلى الحافظة
 ```
@@ -117,7 +117,7 @@ translated (by machine 🤖) as:
 ```
 Failed to access application save directory. Make sure that your device is not being accessed by a computer with the USB cable, and restart the app.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فشل الوصول إلى مجلد الحفظ الخاص بالتطبيق. تأكد من أن جهازك ليس متصل بجهاز الكمبيوتر عن طريق كابل USB، ثم قم بإعادة تشغيل التطبيق.
 ```
@@ -127,7 +127,7 @@ translated (by machine 🤖) as:
 ```
 Untitled
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 بدون عنوان
 ```
@@ -137,7 +137,7 @@ translated (by machine 🤖) as:
 ```
 All
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 جميع
 ```
@@ -147,7 +147,7 @@ translated (by machine 🤖) as:
 ```
 Add folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إضافة مجلد
 ```
@@ -157,7 +157,7 @@ translated (by machine 🤖) as:
 ```
 Modify folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تعديل مجلد
 ```
@@ -167,7 +167,7 @@ translated (by machine 🤖) as:
 ```
 Are you sure you want to delete this folder? All markers associated to this folder will be deleted permanently!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 هل أنت متأكد أنك تريد حذف هذا المجلد؟ سيتم حذف جميع العلامات الموجودة في هذا المجلد بشكل نهائي!
 ```
@@ -177,7 +177,7 @@ translated (by machine 🤖) as:
 ```
 Failed to create new folder, it already exists
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فشل في إنشاء مجلد جديد، مجلد بهذا الاسم موجود بالفعل
 ```
@@ -187,7 +187,7 @@ translated (by machine 🤖) as:
 ```
 Failed to rename the folder, the destination name already exists
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فشل في إعادة تسمية المجلد، مجلد بهذا الاسم موجود بالفعل
 ```
@@ -197,7 +197,7 @@ translated (by machine 🤖) as:
 ```
 Latitude:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خط العرض:
 ```
@@ -207,7 +207,7 @@ translated (by machine 🤖) as:
 ```
 Longitude:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خط الطول:
 ```
@@ -217,7 +217,7 @@ translated (by machine 🤖) as:
 ```
 Could not write file.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لا يمكن حفظ الملف.
 ```
@@ -227,7 +227,7 @@ translated (by machine 🤖) as:
 ```
 Import/Export
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 استيراد / تصدير
 ```
@@ -237,7 +237,7 @@ translated (by machine 🤖) as:
 ```
 Import markers
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 استيراد علامات
 ```
@@ -247,7 +247,7 @@ translated (by machine 🤖) as:
 ```
 File imported successfully
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تم استيراد الملف بنجاح
 ```
@@ -257,7 +257,7 @@ translated (by machine 🤖) as:
 ```
 File import failed
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فشل استيراد الملف
 ```
@@ -267,7 +267,7 @@ translated (by machine 🤖) as:
 ```
 Location services
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خدمات الموقع الجغرافي
 ```
@@ -277,7 +277,7 @@ translated (by machine 🤖) as:
 ```
 Location services are disabled. To get your current location you must enable them.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خدمات الموقع الجغرافي معطلة. يجب تفعيلها للحصول على موقعك.
 ```
@@ -287,7 +287,7 @@ translated (by machine 🤖) as:
 ```
 Could not find address
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تعذر العثور على عنوان
 ```
@@ -297,7 +297,7 @@ translated (by machine 🤖) as:
 ```
 Searching&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 جاري البحث&#8230;
 ```
@@ -307,7 +307,7 @@ translated (by machine 🤖) as:
 ```
 Search
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 بحث
 ```
@@ -317,7 +317,7 @@ translated (by machine 🤖) as:
 ```
 Share via
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 مشاركة عبر
 ```
@@ -327,7 +327,7 @@ translated (by machine 🤖) as:
 ```
 Do you want to import the content of this file?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 هل تريد استيراد محتوى هذا الملف؟
 ```
@@ -337,7 +337,7 @@ translated (by machine 🤖) as:
 ```
 Folder name
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 اسم المجلد
 ```
@@ -347,7 +347,7 @@ translated (by machine 🤖) as:
 ```
 Save
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 حفظ
 ```
@@ -357,7 +357,7 @@ translated (by machine 🤖) as:
 ```
 Close
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إغلاق
 ```
@@ -367,7 +367,7 @@ translated (by machine 🤖) as:
 ```
 Are you sure you want to delete the selected markers?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 هل أنت متأكد أنك تريد حذف العلامات المحددة؟
 ```
@@ -377,7 +377,7 @@ translated (by machine 🤖) as:
 ```
 Move markers to folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 انقل العلامات الى مجلد
 ```
@@ -387,7 +387,7 @@ translated (by machine 🤖) as:
 ```
 Share
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 مشاركة
 ```
@@ -397,7 +397,7 @@ translated (by machine 🤖) as:
 ```
 Folder:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 مجلد:
 ```
@@ -407,7 +407,7 @@ translated (by machine 🤖) as:
 ```
 Snapshot of my markers on Map Marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لقطة من علاماتي على Map Marker
 ```
@@ -418,7 +418,7 @@ translated (by machine 🤖) as:
 This snapshot was made with the app Map Marker:
 %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تم إنشاء هذه اللقطة من تطبيق Map Marker: 
 %s
@@ -429,7 +429,7 @@ translated (by machine 🤖) as:
 ```
 Processing data&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 جاري معالجة البيانات&#8230;
 ```
@@ -439,7 +439,7 @@ translated (by machine 🤖) as:
 ```
 You have unsaved modifications, do you want to save them?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لديك تعديلات غير محفوظة، هل تريد حفظها؟
 ```
@@ -449,7 +449,7 @@ translated (by machine 🤖) as:
 ```
 Use the long press on the map to create a new marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 استخدام الضغطة المطولة على الخريطة لإنشاء علامة جديدة
 ```
@@ -459,7 +459,7 @@ translated (by machine 🤖) as:
 ```
 Map type
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 نوع الخريطة
 ```
@@ -469,7 +469,7 @@ translated (by machine 🤖) as:
 ```
 Normal
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 عادية
 ```
@@ -479,7 +479,7 @@ translated (by machine 🤖) as:
 ```
 Satellite
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 قمر صناعي
 ```
@@ -489,7 +489,7 @@ translated (by machine 🤖) as:
 ```
 Terrain
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تضاريس
 ```
@@ -499,7 +499,7 @@ translated (by machine 🤖) as:
 ```
 Hybrid
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 هجين
 ```
@@ -510,7 +510,7 @@ translated (by machine 🤖) as:
 Found a problem? Have an idea of improvement?
 Send me an email :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 وجدت مشكلة؟ لديك فكرة لتحسين التطبيق؟
  ارسال لي email :-)
@@ -521,7 +521,7 @@ translated (by machine 🤖) as:
 ```
 Send email&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إرسال email&#8230;
 ```
@@ -532,7 +532,7 @@ translated (by machine 🤖) as:
 You like the app?
 Rate it 5 stars :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 هل اعجبك التطبيق؟
 امنحه تقييم 5 نجوم :-)
@@ -543,7 +543,7 @@ translated (by machine 🤖) as:
 ```
 Change folder to&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تغيير المجلد الى...
 ```
@@ -553,7 +553,7 @@ translated (by machine 🤖) as:
 ```
 Directions
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 الاتجاهات
 ```
@@ -563,7 +563,7 @@ translated (by machine 🤖) as:
 ```
 Acquiring location&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 جاري الحصول على الموقع&#8230;
 ```
@@ -573,7 +573,7 @@ translated (by machine 🤖) as:
 ```
 Meters
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 متر
 ```
@@ -583,7 +583,7 @@ translated (by machine 🤖) as:
 ```
 Km
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 كم
 ```
@@ -593,7 +593,7 @@ translated (by machine 🤖) as:
 ```
 Feet
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 قدم
 ```
@@ -603,7 +603,7 @@ translated (by machine 🤖) as:
 ```
 Miles
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ميل
 ```
@@ -613,7 +613,7 @@ translated (by machine 🤖) as:
 ```
 Adjust map camera position when guiding to a marker location
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إمكانية تحريك الخريطة اثناء تحديد موقع العلامة
 ```
@@ -623,7 +623,7 @@ translated (by machine 🤖) as:
 ```
 Keep screen on when guiding to a marker location
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 البقاء على إضاءة الشاشة اثناء تحديد موقع العلامة
 ```
@@ -633,7 +633,7 @@ translated (by machine 🤖) as:
 ```
 Marker details copied to clipboard
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تم نسخ تفاصيل العلامة إلى الحافظة
 ```
@@ -643,7 +643,7 @@ translated (by machine 🤖) as:
 ```
 Long press to drag and move the marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 الضغط مطولاً لسحب ونقل العلامة
 ```
@@ -653,7 +653,7 @@ translated (by machine 🤖) as:
 ```
 Error starting internal task manager, app will now exit
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خطأ في بدء إدارة المهام الداخلية، سيتم إغلاق التطبيق الآن
 ```
@@ -663,7 +663,7 @@ translated (by machine 🤖) as:
 ```
 Do not show again
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لا تظهر مجدداً
 ```
@@ -673,7 +673,7 @@ translated (by machine 🤖) as:
 ```
 Could not create the map capture
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تعذر إنشاء لقطة للخريطة
 ```
@@ -683,7 +683,7 @@ translated (by machine 🤖) as:
 ```
 Metric (Kilometers/Meters)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 متري (كم / متر)
 ```
@@ -693,7 +693,7 @@ translated (by machine 🤖) as:
 ```
 Imperial (Miles/Feet)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إمبراطوري (ميل / قدم)
 ```
@@ -703,7 +703,7 @@ translated (by machine 🤖) as:
 ```
 There is a problem with Google Play Services: it needs to be installed, updated or activated. Click OK to try and solve it.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 هناك مشكلة في خدمات Google Play : تحتاج تثبيتها او تحديثها او تفعيلها. انقر فوق موافق لمحاولة حل المشكلة.
 ```
@@ -713,7 +713,7 @@ translated (by machine 🤖) as:
 ```
 Delete folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 حذف المجلد
 ```
@@ -723,7 +723,7 @@ translated (by machine 🤖) as:
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إن اعجبك تطبيقي يمكنك مكافأتي عن طريق أخذ الوقت لإعطاء تقييم جيد :-)
 ```
@@ -734,7 +734,7 @@ translated (by machine 🤖) as:
 OK take me
 to the Play Store
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 حسناً خذني
 إلى المتجر
@@ -746,7 +746,7 @@ translated (by machine 🤖) as:
 I already
 gave a rating
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 سبق لي أن
 أعطيت تقييم
@@ -758,7 +758,7 @@ translated (by machine 🤖) as:
 Maybe later
 remind me
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ربما في وقت لاحق
 ذكرني
@@ -770,7 +770,7 @@ translated (by machine 🤖) as:
 Maybe later
 do not remind me
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ربما في وقت لاحق 
 لا تذكرني
@@ -781,7 +781,7 @@ translated (by machine 🤖) as:
 ```
 Could not find the place
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لا يمكن العثور على المكان
 ```
@@ -791,7 +791,7 @@ translated (by machine 🤖) as:
 ```
 Could not find another map application
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لا يمكن العثور على تطبيق خرائط آخر
 ```
@@ -801,7 +801,7 @@ translated (by machine 🤖) as:
 ```
 Move the map around to place your marker where you want and click OK to place it.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 قم بتحريك الخريطة في جميع الأنحاء لتحديد موقع العلامة حيث تريد ثم انقر فوق موافق لوضعها
 ```
@@ -811,7 +811,7 @@ translated (by machine 🤖) as:
 ```
 Imported marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 علامة مستوردة
 ```
@@ -821,7 +821,7 @@ translated (by machine 🤖) as:
 ```
 Settings
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 الإعدادات
 ```
@@ -831,7 +831,7 @@ translated (by machine 🤖) as:
 ```
 Display zoom buttons
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إظهار أزرار التكبير والتصغير
 ```
@@ -841,7 +841,7 @@ translated (by machine 🤖) as:
 ```
 Decimal degrees
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 درجات عشرية
 ```
@@ -851,7 +851,7 @@ translated (by machine 🤖) as:
 ```
 Degrees decimal minutes
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 درجات , دقائق عشرية
 ```
@@ -861,7 +861,7 @@ translated (by machine 🤖) as:
 ```
 Degrees minutes seconds
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 درجات , دقائق , ثواني
 ```
@@ -871,7 +871,7 @@ translated (by machine 🤖) as:
 ```
 Coordinates format
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 شكل الإحداثيات
 ```
@@ -881,7 +881,7 @@ translated (by machine 🤖) as:
 ```
 GPS and wireless networks only
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 الـ GPS والشبكات اللاسلكية فقط
 ```
@@ -891,7 +891,7 @@ translated (by machine 🤖) as:
 ```
 GPS and wireless networks or magnetic sensor
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 الـ GPS والشبكات اللاسلكية أو مستشعر المجال المغناطيسي
 ```
@@ -901,7 +901,7 @@ translated (by machine 🤖) as:
 ```
 Magnetic sensor only
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 مستشعر المجال المغناطيسي فقط
 ```
@@ -911,7 +911,7 @@ translated (by machine 🤖) as:
 ```
 Used compass sensor
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 مستشعر البوصلة المستخدم
 ```
@@ -921,7 +921,7 @@ translated (by machine 🤖) as:
 ```
 FAQ/Help
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 أسئلة وأجوبة / مساعدة
 ```
@@ -931,7 +931,7 @@ translated (by machine 🤖) as:
 ```
 Folders
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 المجلدات
 ```
@@ -941,7 +941,7 @@ translated (by machine 🤖) as:
 ```
 Help and settings
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 الإعدادات والمساعدة
 ```
@@ -951,7 +951,7 @@ translated (by machine 🤖) as:
 ```
 Language
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 اللغة
 ```
@@ -961,7 +961,7 @@ translated (by machine 🤖) as:
 ```
 Marker popup style
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 شكل نافذة العلامة المنبثقة
 ```
@@ -971,7 +971,7 @@ translated (by machine 🤖) as:
 ```
 Bottom
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 أسفل الشاشة
 ```
@@ -981,7 +981,7 @@ translated (by machine 🤖) as:
 ```
 Bubble
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فقاعة
 ```
@@ -991,7 +991,7 @@ translated (by machine 🤖) as:
 ```
 Coordinates
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 الإحداثيات
 ```
@@ -1001,7 +1001,7 @@ translated (by machine 🤖) as:
 ```
 Contextual
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 في السياق المناسب
 ```
@@ -1011,7 +1011,7 @@ translated (by machine 🤖) as:
 ```
 Always
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 دائماً
 ```
@@ -1021,7 +1021,7 @@ translated (by machine 🤖) as:
 ```
 Crosshair display
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 عرض علامة التقاطع
 ```
@@ -1031,7 +1031,7 @@ translated (by machine 🤖) as:
 ```
 Coordinates window
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 عرض الإحداثيات
 ```
@@ -1041,7 +1041,7 @@ translated (by machine 🤖) as:
 ```
 Lat:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خط العرض:
 ```
@@ -1051,7 +1051,7 @@ translated (by machine 🤖) as:
 ```
 Lng:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خط الطول:
 ```
@@ -1061,7 +1061,7 @@ translated (by machine 🤖) as:
 ```
 Marker instant adding mode
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 نظام إضافة العلامات اللحظي (بدون تحريك الشاشة)
 ```
@@ -1071,7 +1071,7 @@ translated (by machine 🤖) as:
 ```
 Advanced
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 متقدم
 ```
@@ -1081,7 +1081,7 @@ translated (by machine 🤖) as:
 ```
 Display
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 عرض
 ```
@@ -1091,7 +1091,7 @@ translated (by machine 🤖) as:
 ```
 Actions
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 أحداث
 ```
@@ -1101,7 +1101,7 @@ translated (by machine 🤖) as:
 ```
 Language and units
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 اللغة والوحدات
 ```
@@ -1111,7 +1111,7 @@ translated (by machine 🤖) as:
 ```
 Markers ignored on import (duplicates): %1$d
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 علامات تم تجاهلها عند الاستيراد (مكررة): %1$d
 ```
@@ -1121,7 +1121,7 @@ translated (by machine 🤖) as:
 ```
 %1$d markers
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 %1$d علامات
 ```
@@ -1131,7 +1131,7 @@ translated (by machine 🤖) as:
 ```
 No auto naming
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لا تسمية تلقائية
 ```
@@ -1141,7 +1141,7 @@ translated (by machine 🤖) as:
 ```
 Auto naming "number"
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تسمية تلقائية "رقم"
 ```
@@ -1151,7 +1151,7 @@ translated (by machine 🤖) as:
 ```
 Auto naming "Marker number"
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تسمية تلقائية "علامة رقم"
 ```
@@ -1161,7 +1161,7 @@ translated (by machine 🤖) as:
 ```
 New marker auto naming
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 التسمية التلقائية للعلامات الجديدة
 ```
@@ -1171,7 +1171,7 @@ translated (by machine 🤖) as:
 ```
 Marker %1$d
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 علامة %1$d
 ```
@@ -1181,7 +1181,7 @@ translated (by machine 🤖) as:
 ```
 Waiting for location&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 جاري تحميل بيانات الموقع الجغرافي&#8230;
 ```
@@ -1189,11 +1189,11 @@ translated (by machine 🤖) as:
 
 ## Translation Key: faq_help_caption
 ```
+Open the help page and see the FAQ
+```
+translated (by human 👀) as:
+```
 فتح صفحة المساعدة والاطلاع على التعليمات والاسئلة المجابة
-```
-translated (by machine 🤖) as:
-```
-فتح في صفحة المساعدة والاطلاع على التعليمات
 ```
 
 
@@ -1201,7 +1201,7 @@ translated (by machine 🤖) as:
 ```
 Features
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ميزات
 ```
@@ -1211,7 +1211,7 @@ translated (by machine 🤖) as:
 ```
 View the list of upcoming features for the next app version
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 عرض قائمة بالميزات القادمة في الإصدار القادم من التطبيق
 ```
@@ -1221,7 +1221,7 @@ translated (by machine 🤖) as:
 ```
 Help &amp; Feedback
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 مساعدة وملاحظات
 ```
@@ -1231,7 +1231,7 @@ translated (by machine 🤖) as:
 ```
 About
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 حول
 ```
@@ -1241,7 +1241,7 @@ translated (by machine 🤖) as:
 ```
 Distance to %1$s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 المسافة إلى %1$s
 ```
@@ -1251,7 +1251,7 @@ translated (by machine 🤖) as:
 ```
 Snapshot
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لقطة
 ```
@@ -1261,7 +1261,7 @@ translated (by machine 🤖) as:
 ```
 Share a snapshot of the map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 مشاركة لقطة من الخريطة
 ```
@@ -1271,7 +1271,7 @@ translated (by machine 🤖) as:
 ```
 All markers and folders
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 جميع العلامات والمجلدات
 ```
@@ -1281,7 +1281,7 @@ translated (by machine 🤖) as:
 ```
 <![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 <![CDATA[<html><body><b>من اجل الحصول على إتجاه الشمال الصحيح للبوصلة, تحتاج الى معايرة هاتفك بشكل صحيح.<br>لمعايرة هاتفك, ببساطة قم بوضع الهاتف امامك ثم قم بتحريكه على شكل الرقم 8 بالأنجليزية. يجب ان تكون هذه الحركات واسعة وتتكرر حوالي 3 مرات لدقة أفضل.<br>يمكنك معايرة هاتفك بالقيام بهذه الخطوات في اي وقت.</b><br><br>المعايرة لها قيودها وربما لا تكون كافية لمواجهة التداخلات القريبة مثل :<br>&bull; الأجسام المعدنية الكبيرة<br>&bull; الأجهزية الإلكترونية<br>&bull; المغناطيسات<br>&bull; داخل سيارة/حافلة/قطار/طائرة</body></html>]]>
 ```
@@ -1291,7 +1291,7 @@ translated (by machine 🤖) as:
 ```
 Badges
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 أوسمة
 ```
@@ -1301,7 +1301,7 @@ translated (by machine 🤖) as:
 ```
 Buy a donation badge
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 شراء وسام التبرع
 ```
@@ -1311,7 +1311,7 @@ translated (by machine 🤖) as:
 ```
 Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 شكرا لك على تبرعك! هذا وسام التبرع يمنحك ميزات عضوية الإمتياز :-)
 ```
@@ -1321,7 +1321,7 @@ translated (by machine 🤖) as:
 ```
 Default folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 المجلد الافتراضي
 ```
@@ -1331,7 +1331,7 @@ translated (by machine 🤖) as:
 ```
 Sync options
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خيارات المزامنة
 ```
@@ -1341,7 +1341,7 @@ translated (by machine 🤖) as:
 ```
 Google Drive
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Google Drive
 ```
@@ -1351,7 +1351,7 @@ Google Drive
 ```
 Dropbox
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Dropbox
 ```
@@ -1361,7 +1361,7 @@ Dropbox
 ```
 Configuring&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 جاري الإعداد&#8230;
 ```
@@ -1371,7 +1371,7 @@ translated (by machine 🤖) as:
 ```
 Sync now
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 المزامنة الآن
 ```
@@ -1381,7 +1381,7 @@ translated (by machine 🤖) as:
 ```
 Never
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 أبداً
 ```
@@ -1391,7 +1391,7 @@ translated (by machine 🤖) as:
 ```
 Syncing…
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 جاري المزامنة&#8230;
 ```
@@ -1401,7 +1401,7 @@ translated (by machine 🤖) as:
 ```
 Select folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 حدد مجلد
 ```
@@ -1411,7 +1411,7 @@ translated (by machine 🤖) as:
 ```
 Load error
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خطأ في التحميل
 ```
@@ -1421,7 +1421,7 @@ translated (by machine 🤖) as:
 ```
 Retry
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إعادة المحاولة
 ```
@@ -1431,7 +1431,7 @@ translated (by machine 🤖) as:
 ```
 Root
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Root (الصفحة الرئيسية)
 ```
@@ -1441,7 +1441,7 @@ Root (الصفحة الرئيسية)
 ```
 Shared
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Shared (الملفات المشتركة)
 ```
@@ -1451,7 +1451,7 @@ Shared (الملفات المشتركة)
 ```
 Purchase successful!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تم الشراء بنجاح!
 ```
@@ -1461,7 +1461,7 @@ translated (by machine 🤖) as:
 ```
 Purchase failed: %1$s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فشلت عملية الشراء %1$s
 ```
@@ -1471,7 +1471,7 @@ translated (by machine 🤖) as:
 ```
 Premium access available! You currently have access to premium features.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 عضوية الامتياز متاحة! انت الان لديك صلاحية استخدام ميزات عضوية الامتياز.
 ```
@@ -1481,7 +1481,7 @@ translated (by machine 🤖) as:
 ```
 You cannot select that folder because it contains multiple files named %1$s. The sync requires the folder to contain only one file with that name.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لا يمكنك أختيار هذا المجلد لانه يحتوي على اكثر من ملف بالأسم %1$s. عملية المزامنة تتطلب ان يحتوي المجلد على ملف واحد بهذا الاسم.
 ```
@@ -1491,7 +1491,7 @@ translated (by machine 🤖) as:
 ```
 It seems sync data already exists in that folder. If you select that folder, your local data will be merged with the folder data when sync is performed. Is that what you want?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 يبدو ان هذا المجلد يحتوي على بيانات مزامنة. إن قمت بإختيار هذا المجلد سيتم دمج بياناتك المحلية مع البيانات الموجودة بهذا المجلد. هل هذا ما تريده؟
 ```
@@ -1501,7 +1501,7 @@ translated (by machine 🤖) as:
 ```
 File options
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خيارات ملف الخريطة
 ```
@@ -1511,7 +1511,7 @@ translated (by machine 🤖) as:
 ```
 Cloud sync
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 المزامنة السحابية
 ```
@@ -1521,7 +1521,7 @@ translated (by machine 🤖) as:
 ```
 Sync this map file on the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 مزامنة ملف الخريطة الحالي على الانترنت
 ```
@@ -1531,7 +1531,7 @@ translated (by machine 🤖) as:
 ```
 Map file
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ملف الخريطة
 ```
@@ -1541,7 +1541,7 @@ translated (by machine 🤖) as:
 ```
 Create local map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إنشاء خريطة محلية
 ```
@@ -1551,7 +1551,7 @@ translated (by machine 🤖) as:
 ```
 Create a new map file locally
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إنشاء ملف خريطة جديد محلي على الجهاز
 ```
@@ -1561,7 +1561,7 @@ translated (by machine 🤖) as:
 ```
 Create cloud map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إنشاء خريطة سحابية
 ```
@@ -1571,7 +1571,7 @@ translated (by machine 🤖) as:
 ```
 Create a map file on the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إنشاء ملف خريطة جديد على الانترنت
 ```
@@ -1581,7 +1581,7 @@ translated (by machine 🤖) as:
 ```
 Retrieves changes from the cloud and sends local changes to the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 يستدعي التغييرات من السحابة على الانترنت ويرسل التغيرات المحلية إلى السحابة
 ```
@@ -1591,7 +1591,7 @@ translated (by machine 🤖) as:
 ```
 Rename
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إعادة تسمية
 ```
@@ -1601,7 +1601,7 @@ translated (by machine 🤖) as:
 ```
 Rename the map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إعادة تسمية الخريطة
 ```
@@ -1611,7 +1611,7 @@ translated (by machine 🤖) as:
 ```
 Enter new name
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 أدخل الاسم الجديد
 ```
@@ -1621,7 +1621,7 @@ translated (by machine 🤖) as:
 ```
 Enter the new map\'s name
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 أدخل اسم الخريطة الجديدة
 ```
@@ -1631,7 +1631,7 @@ translated (by machine 🤖) as:
 ```
 %1$d folders, %2$d markers, size: %3$d KB
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 %1$d مجلدات, %2$d علامات، %3$d KB
 ```
@@ -1641,7 +1641,7 @@ translated (by machine 🤖) as:
 ```
 Create new folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إنشاء مجلد جديد
 ```
@@ -1651,7 +1651,7 @@ translated (by machine 🤖) as:
 ```
 Could not create folder: name empty
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لا يمكن إنشاء مجلد: اسم فارغة
 ```
@@ -1661,7 +1661,7 @@ translated (by machine 🤖) as:
 ```
 Could not create folder: error occurred
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لا يمكن إنشاء مجلد: حدث خطأ
 ```
@@ -1671,7 +1671,7 @@ translated (by machine 🤖) as:
 ```
 Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 شكراً لشرائك عضوية امتياز Map Marker :-)
 ```
@@ -1681,7 +1681,7 @@ translated (by machine 🤖) as:
 ```
 Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 شكراً على إبداء إهتمامك بطلبك لعضوية امتياز Map Marker التجريبية المجانية :-)
 ```
@@ -1691,7 +1691,7 @@ translated (by machine 🤖) as:
 ```
 Premium
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 عضوية الامتياز
 ```
@@ -1701,7 +1701,7 @@ translated (by machine 🤖) as:
 ```
 Upgrade to premium and take full advantage of Map Marker features!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 قم بالترقية لعضوية الامتياز واستفد من جميع ميزات Map Marker.
 ```
@@ -1711,7 +1711,7 @@ translated (by machine 🤖) as:
 ```
 Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 نعتذر, انت تحتاج الى الترقية لعضوية الامتياز للحصول على هذه الميزة. قم بالترقية لعضوية الامتياز واستفد من جميع ميزات Map Marker.
 ```
@@ -1721,7 +1721,7 @@ translated (by machine 🤖) as:
 ```
 You have the premium upgrade for free! You can still purchase it if you want to show your support :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لديك عضوية الامتياز مجاناً! مازال يمكنك شرائها لتقديم دعمك لنا :-)
 ```
@@ -1731,7 +1731,7 @@ translated (by machine 🤖) as:
 ```
 Purchase the premium upgrade
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 شراء عضوية الامتياز
 ```
@@ -1741,7 +1741,7 @@ translated (by machine 🤖) as:
 ```
 My Google account already has premium access, activate it!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 حساب Google الخاص بي مشترك في عضوية الامتياز بالفعل، قم بتفعيلها!
 ```
@@ -1751,7 +1751,7 @@ translated (by machine 🤖) as:
 ```
 Troubleshooting
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 استكشاف الأخطاء وإصلاحها
 ```
@@ -1761,7 +1761,7 @@ translated (by machine 🤖) as:
 ```
 Open a list of actions to solve possible problems
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فتح قائمة من الإجراءات لحل المشاكل المحتملة
 ```
@@ -1771,7 +1771,7 @@ translated (by machine 🤖) as:
 ```
 Test internet
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 اختبار اتصال الإنترنت
 ```
@@ -1781,7 +1781,7 @@ translated (by machine 🤖) as:
 ```
 Checks that the app has access to internet
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تحقق من ان التطبيق يمكنه الوصول الى الانترنت
 ```
@@ -1791,7 +1791,7 @@ translated (by machine 🤖) as:
 ```
 Test file writing
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 اختبار حفظ الملفات
 ```
@@ -1801,7 +1801,7 @@ translated (by machine 🤖) as:
 ```
 Checks that the app can save files on the internal SD card
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تحقق من ان التطبيق يمكنه حفظ الملفات الى وحدة التخزين الداخلية SD
 ```
@@ -1811,7 +1811,7 @@ translated (by machine 🤖) as:
 ```
 GP Services (app)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 GP Services (تطبيق)
 ```
@@ -1821,7 +1821,7 @@ GP Services (تطبيق)
 ```
 Open the details of the currently installed Google Play Services app
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 عرض تفاصيل Google Play Services المثبت على الجهاز
 ```
@@ -1831,7 +1831,7 @@ translated (by machine 🤖) as:
 ```
 GP Services (store)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 GP Services (في المتجر)
 ```
@@ -1841,7 +1841,7 @@ GP Services (في المتجر)
 ```
 Google Play (app)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تطبيق المتجر Google Play
 ```
@@ -1851,7 +1851,7 @@ translated (by machine 🤖) as:
 ```
 Contact support
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 اتصل بالدعم
 ```
@@ -1861,7 +1861,7 @@ translated (by machine 🤖) as:
 ```
 Write an email to support with the details of your problem
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 أرسل بريد إلكتروني بتفاصيل مشكلتك لمركز الدعم
 ```
@@ -1871,7 +1871,7 @@ translated (by machine 🤖) as:
 ```
 Device network unavailable
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 شبكة الجهاز غير متوفرة
 ```
@@ -1881,7 +1881,7 @@ translated (by machine 🤖) as:
 ```
 Testing&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 جاري الاختبار&#8230;
 ```
@@ -1891,7 +1891,7 @@ translated (by machine 🤖) as:
 ```
 Network test succeeded
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 نجح اختبار الشبكة
 ```
@@ -1901,7 +1901,7 @@ translated (by machine 🤖) as:
 ```
 Network test failed
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فشل اختبار الشبكة
 ```
@@ -1911,7 +1911,7 @@ translated (by machine 🤖) as:
 ```
 Disk test failed: could not write to internal storage
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فشل اختبار القرص: لا يمكن الكتابة إلى وحدة التخزين الداخلية
 ```
@@ -1921,7 +1921,7 @@ translated (by machine 🤖) as:
 ```
 Disk test failed: could not write to external storage
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فشل اختبار القرص: لا يمكن الكتابة إلى وحدة التخزين الخارجية
 ```
@@ -1931,7 +1931,7 @@ translated (by machine 🤖) as:
 ```
 Disk test succeeded
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 نجح اختبار القرص
 ```
@@ -1941,7 +1941,7 @@ translated (by machine 🤖) as:
 ```
 App failed to start: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فشل التطبيق %s
 ```
@@ -1951,7 +1951,7 @@ translated (by machine 🤖) as:
 ```
 The file does not exist
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 الملف غير موجود
 ```
@@ -1961,7 +1961,7 @@ translated (by machine 🤖) as:
 ```
 Share cloud map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 مشاركة الخريطة السحابية
 ```
@@ -1971,7 +1971,7 @@ translated (by machine 🤖) as:
 ```
 Open the cloud map folder to view its properties and share it with other people
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 افتح مجلد الخريطة على السحابة (الانترنت) لعرض خصائصه ومشاركته مع الآخرين
 ```
@@ -1981,7 +1981,7 @@ translated (by machine 🤖) as:
 ```
 Internal file to SD
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 الملف الداخلي الى بطاقة التخزين
 ```
@@ -1991,7 +1991,7 @@ translated (by machine 🤖) as:
 ```
 Copy the app hidden internal files to the sdcard
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 نسخ ملفات التطبيق الداخلية المخفية الى بطاقة التخزين SDCARD
 ```
@@ -2001,7 +2001,7 @@ translated (by machine 🤖) as:
 ```
 Enter destination folder path
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 أدخل مسار مجلد الحفظ (الواجهة)
 ```
@@ -2011,7 +2011,7 @@ translated (by machine 🤖) as:
 ```
 Could not create folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لا يمكن إنشاء المجلد
 ```
@@ -2021,7 +2021,7 @@ translated (by machine 🤖) as:
 ```
 Files successfully saved to: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تم حفظ الملفات بنجاح في %s
 ```
@@ -2031,7 +2031,7 @@ translated (by machine 🤖) as:
 ```
 View history/Restore
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 عرض التاريخ / استعادة
 ```
@@ -2041,7 +2041,7 @@ translated (by machine 🤖) as:
 ```
 View history of modifications to the cloud folder and select a version to restore to
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 عرض تاريخ عمليات التعديلات على مجلد السحابة (على الانترنت) وإختيار نسخة قديمة للرجوع إليها
 ```
@@ -2051,7 +2051,7 @@ translated (by machine 🤖) as:
 ```
 Create map file
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إنشاء ملف خريطة
 ```
@@ -2061,7 +2061,7 @@ translated (by machine 🤖) as:
 ```
 Create a new map file locally or on the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إنشاء ملف خريطة جديد محلياً أو على السحابة (الانترنت)
 ```
@@ -2071,7 +2071,7 @@ translated (by machine 🤖) as:
 ```
 Open cloud map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فتح ملف خريطة سحابية
 ```
@@ -2081,7 +2081,7 @@ translated (by machine 🤖) as:
 ```
 Open a map file from the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فتح ملف خريطة من على الانترنت
 ```
@@ -2091,7 +2091,7 @@ translated (by machine 🤖) as:
 ```
 Map Marker needs the permission to access your location in order to display it on the map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Map Marker يحتاج إلى إذن للوصول إلى موقعك من أجل عرضه على الخريطة
 ```
@@ -2101,7 +2101,7 @@ Map Marker يحتاج إلى إذن للوصول إلى موقعك من أجل �
 ```
 Map Marker needs the permission to access to the storage of your device
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Map Marker يحتاج إلى إذن للوصول إلى وحدة التخزين بجهازك
 ```
@@ -2111,7 +2111,7 @@ Map Marker يحتاج إلى إذن للوصول إلى وحدة التخزين 
 ```
 Open settings
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فتح الإعدادات
 ```
@@ -2121,7 +2121,7 @@ translated (by machine 🤖) as:
 ```
 No map folder found on the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لا يوجد مجلد خريطة على السحابة (الانترنت)
 ```
@@ -2131,7 +2131,7 @@ translated (by machine 🤖) as:
 ```
 Auto sync
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تزامن تلقائي
 ```
@@ -2141,7 +2141,7 @@ translated (by machine 🤖) as:
 ```
 Choose a version to restore to
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 اختر نسخة لاستعادتها
 ```
@@ -2151,7 +2151,7 @@ translated (by machine 🤖) as:
 ```
 You must sync first before restoring an older version
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 يجب عمل مزامنة أولاً قبل استعادة نسخة قديمة
 ```
@@ -2161,7 +2161,7 @@ translated (by machine 🤖) as:
 ```
 Are you sure you want to restore this version?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 هل أنت متأكد أنك تريد استعادة هذه النسخة؟
 ```
@@ -2171,7 +2171,7 @@ translated (by machine 🤖) as:
 ```
 Map Marker lost permissions to write to your cloud account. Sync will always fail until this is fixed. Do you want to fix it now?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فقد Map Marker الصلاحية للكتابة إلى الحساب الخاص بك على السحابة (الانترنت). ستفشل عمليات المزامنة دائماً حتى يتم إصلاح هذا. هل ترغب في إصلاح ذلك الآن؟
 ```
@@ -2181,7 +2181,7 @@ translated (by machine 🤖) as:
 ```
 A sync error occurred. Please try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 حدث خطأ في المزامنة. حاول مرة اخرى.
 ```
@@ -2191,7 +2191,7 @@ translated (by machine 🤖) as:
 ```
 A sync error occurred: network error. Please try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 حدث خطأ في المزامنة: خطأ في الشبكة. حاول مرة اخرى.
 ```
@@ -2201,7 +2201,7 @@ translated (by machine 🤖) as:
 ```
 A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 حدث خطأ في المزامنة: (تعارض)، جهاز آخر كان يقوم بعملية المزامنة في نفس الوقت. حاول مرة اخرى.
 ```
@@ -2211,7 +2211,7 @@ translated (by machine 🤖) as:
 ```
 Changes are available from the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 يوجد تغييرات متاحة من السحابة (نسخة الانترنت)
 ```
@@ -2221,7 +2221,7 @@ translated (by machine 🤖) as:
 ```
 Changes made from another device were synced on the cloud. You can retrieve those changes by syncing.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تم مزامنة تغييرات إلى السحابة  تم إجراؤها من جهاز آخر. يمكنك الحصول على تلك التغييرات عن طريق عمل مزامنة.
 ```
@@ -2231,7 +2231,7 @@ translated (by machine 🤖) as:
 ```
 Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for details on how to restore cloud permissions.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فشل في استعادة صلاحيات وحدة التخزين السحابية. يرجى الرجوع إلى "حول" -> "الاسئلة المجابة" لمزيد من التفاصيل حول كيفية استعادة تلك الصلاحيات.
 ```
@@ -2241,7 +2241,7 @@ translated (by machine 🤖) as:
 ```
 A sync error occurred: duplicate index, there are at least two files named index.json in the map cloud folder. Remove the duplicates manually and try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 حدث خطأ في المزامنة: تكرار قيد، هناك على الاقل نسختين من الملف index.json في مجلد الخريطة السحابي (على الانترنت). برجاء إزالة التكرارات يدويا والمحاولة مرة أخرى.
 ```
@@ -2251,7 +2251,7 @@ translated (by machine 🤖) as:
 ```
 Phone number
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 رقم الهاتف
 ```
@@ -2261,7 +2261,7 @@ translated (by machine 🤖) as:
 ```
 Edit phone number
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تحرير رقم الهاتف
 ```
@@ -2271,7 +2271,7 @@ translated (by machine 🤖) as:
 ```
 Map Marker needs the permission to make calls on your device
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 يحتاج Map Marker إلى إذن إجراء المكالمات على جهازك
 ```
@@ -2281,7 +2281,7 @@ translated (by machine 🤖) as:
 ```
 No phone number is defined for that marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لا يوجد رقم هاتف مربوط بهذه العلامة
 ```
@@ -2291,7 +2291,7 @@ translated (by machine 🤖) as:
 ```
 Navigation options
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خيارات التنقل
 ```
@@ -2301,7 +2301,7 @@ translated (by machine 🤖) as:
 ```
 Open the marker location in this app
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فتح موقع العلامة في هذا التطبيق
 ```
@@ -2311,7 +2311,7 @@ translated (by machine 🤖) as:
 ```
 Open the marker street view in this app
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فتح شاشة عرض الشارع لهذه العلامة في هذا التطبيق
 ```
@@ -2321,7 +2321,7 @@ translated (by machine 🤖) as:
 ```
 Enter navigation mode in this app to get directions to the marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ادخل إلى وضع الملاحة في هذا التطبيق للحصول على توجيهات الوصول إلى العلامة
 ```
@@ -2331,7 +2331,7 @@ translated (by machine 🤖) as:
 ```
 Other options
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خيارات أخرى
 ```
@@ -2341,7 +2341,7 @@ translated (by machine 🤖) as:
 ```
 Share the selected marker as plain text into another app
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 مشاركة العلامة المحددة كنص عادي في تطبيق آخر
 ```
@@ -2351,7 +2351,7 @@ translated (by machine 🤖) as:
 ```
 %1$d markers in %2$d folders
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 %1$d علامة في %2$d مجلد
 ```
@@ -2361,7 +2361,7 @@ translated (by machine 🤖) as:
 ```
 A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 حدث خطأ في المزامنة: تم تحديث البيانات على السحابة (الانترنت) مع إصدار أحدث من التطبيق. يجب تحديث تطبيق Map Marker على هذا الجهاز اولاً لتتمكن من عمل مزامنة.
 ```
@@ -2371,7 +2371,7 @@ translated (by machine 🤖) as:
 ```
 Could not find a phone app on this device.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تعذر العثور على تطبيق الاتصال على هذا الجهاز.
 ```
@@ -2381,7 +2381,7 @@ translated (by machine 🤖) as:
 ```
 Phone number options
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خيارات رقم الهاتف
 ```
@@ -2391,7 +2391,7 @@ translated (by machine 🤖) as:
 ```
 Call phone number
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 الإتصال برقم الهاتف
 ```
@@ -2401,7 +2401,7 @@ translated (by machine 🤖) as:
 ```
 Dial phone number
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 كتابة رقم الهاتف
 ```
@@ -2411,7 +2411,7 @@ translated (by machine 🤖) as:
 ```
 Text phone number
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إرسال رقم الهاتف
 ```
@@ -2421,7 +2421,7 @@ translated (by machine 🤖) as:
 ```
 Default navigation action
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إجراء التنقل الافتراضي
 ```
@@ -2431,7 +2431,7 @@ translated (by machine 🤖) as:
 ```
 Default phone action
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إجراء الهاتف الإفتراضي
 ```
@@ -2441,7 +2441,7 @@ translated (by machine 🤖) as:
 ```
 Ask
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 اسأل دائماً
 ```
@@ -2451,7 +2451,7 @@ translated (by machine 🤖) as:
 ```
 Premium free trial
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 عضوية الامتياز التجريبية
 ```
@@ -2461,7 +2461,7 @@ translated (by machine 🤖) as:
 ```
 What is the premium upgrade?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ما هي عضوية الامتياز؟
 ```
@@ -2471,7 +2471,7 @@ translated (by machine 🤖) as:
 ```
 Premium free trial started! The trial will expire at the following date: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 بدأت عضوية الامتياز التجريبية! وستنتهي في هذا التاريخ: %s
 ```
@@ -2482,7 +2482,7 @@ translated (by machine 🤖) as:
 Trial expiration:
 %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إنتهاء الفترة التجريبية:
 %s
@@ -2493,7 +2493,7 @@ translated (by machine 🤖) as:
 ```
 Trial expired
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إنتهت الفترة التجريبية
 ```
@@ -2503,7 +2503,7 @@ translated (by machine 🤖) as:
 ```
 Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تم الغاء المزامنة: تحتاج الترقية لعضوية الامتياز من أجل عمل المزامنة.
 ```
@@ -2513,7 +2513,7 @@ translated (by machine 🤖) as:
 ```
 Error: trial starting in the future!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خطأ: تبدأ الفترة التجريبية في المستقبل!
 ```
@@ -2523,7 +2523,7 @@ translated (by machine 🤖) as:
 ```
 Thank you for your purchase!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 شكرا لك على الشراء!
 ```
@@ -2533,7 +2533,7 @@ translated (by machine 🤖) as:
 ```
 Browse
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تصفح
 ```
@@ -2543,7 +2543,7 @@ translated (by machine 🤖) as:
 ```
 Organize
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تنظيم
 ```
@@ -2553,7 +2553,7 @@ translated (by machine 🤖) as:
 ```
 Create
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إنشاء
 ```
@@ -2563,7 +2563,7 @@ translated (by machine 🤖) as:
 ```
 Retry
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إعادة المحاولة
 ```
@@ -2573,7 +2573,7 @@ translated (by machine 🤖) as:
 ```
 Search failed
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فشل البحث
 ```
@@ -2583,7 +2583,7 @@ translated (by machine 🤖) as:
 ```
 Search failed, network error
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فشل البحث, خطأ في الشبكة
 ```
@@ -2593,7 +2593,7 @@ translated (by machine 🤖) as:
 ```
 Details
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تفاصيل
 ```
@@ -2603,7 +2603,7 @@ translated (by machine 🤖) as:
 ```
 Sync error
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خطأ المزامنة
 ```
@@ -2613,7 +2613,7 @@ translated (by machine 🤖) as:
 ```
 The file already exists, do you want to overwrite it?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 الملف موجود مسبقا، هل تريد استبداله؟
 ```
@@ -2623,7 +2623,7 @@ translated (by machine 🤖) as:
 ```
 Copy markers to folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 نسخ العلامة الى مجلد
 ```
@@ -2633,7 +2633,7 @@ translated (by machine 🤖) as:
 ```
 Error loading the Google Map component. Please restart the app.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خطأ في تحميل مكون Google Map. الرجاء إعادة تشغيل التطبيق.
 ```
@@ -2643,7 +2643,7 @@ translated (by machine 🤖) as:
 ```
 You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 سترى قائمة من العلامات الخاص بك هنا. حالياً ليس لديك أي علامات في المجلد(ات) المحدد(ة). يمكنك إضافة علامة جديدة من خلال النقر على الزر أدناه.
 ```
@@ -2653,7 +2653,7 @@ translated (by machine 🤖) as:
 ```
 No search results
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لا يوجد نتائج للبحث
 ```
@@ -2663,7 +2663,7 @@ translated (by machine 🤖) as:
 ```
 Open Street Map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Open Street Map
 ```
@@ -2673,7 +2673,7 @@ Open Street Map
 ```
 Bing Road
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Bing Road
 ```
@@ -2683,7 +2683,7 @@ Bing Road
 ```
 Bing Aerial
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Bing Aerial
 ```
@@ -2693,7 +2693,7 @@ Bing Aerial
 ```
 Bing Aerial With Labels
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Bing Aerial (مع تسميات)
 ```
@@ -2703,7 +2703,7 @@ Bing Aerial (مع تسميات)
 ```
 ArcGIS Server
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ArcGIS Server
 ```
@@ -2713,7 +2713,7 @@ ArcGIS Server
 ```
 Offline maps
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خرائط بدون اتصال
 ```
@@ -2723,7 +2723,7 @@ translated (by machine 🤖) as:
 ```
 No folder selected
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لم يتم تحديد أي مجلد
 ```
@@ -2733,7 +2733,7 @@ translated (by machine 🤖) as:
 ```
 Storage folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 مجلد التخزين
 ```
@@ -2744,7 +2744,7 @@ translated (by machine 🤖) as:
 Test results of the offline maps folder:
 %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 نتائج اختبار مجلد الخرائط التي تعمل بدون اتصال:
 %s
@@ -2755,7 +2755,7 @@ translated (by machine 🤖) as:
 ```
 No folder is selected for offline map files. In order to use offline maps, open the settings and select a folder for offline map files.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لم يتم تحديد أي مجلد لملفات (خرائط بدون اتصال). من أجل استخدام الخرائط لدون اتصال، افتح الإعدادات واختار مجلد لحفظ ملفات خرائط بدون اتصال.
 ```
@@ -2765,7 +2765,7 @@ translated (by machine 🤖) as:
 ```
 The selected offline map folder you selected contains no files. Make sure you add the offline map files in that folder before using offline maps, otherwise the map will be empty.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 المجلد الحالي لخرائط بدون اتصال لا يحتوي على الملفات. تأكد من إضافة ملفات الخرائط في هذا المجلد قبل استخدام خرائط بدون اتصال، وإلا فإن الخريطة ستكون فارغة.
 ```
@@ -2775,7 +2775,7 @@ translated (by machine 🤖) as:
 ```
 Success: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تم بنجاح: %s
 ```
@@ -2785,7 +2785,7 @@ translated (by machine 🤖) as:
 ```
 Failed: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فشل: %s
 ```
@@ -2795,7 +2795,7 @@ translated (by machine 🤖) as:
 ```
 How to do it?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 كيف افعلها؟
 ```
@@ -2805,7 +2805,7 @@ translated (by machine 🤖) as:
 ```
 Click here to open the web page explaining how to obtain those maps.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 انقر هنا لفتح صفحة ويب شرح كيفية الحصول على هذه الخرائط.
 ```
@@ -2815,7 +2815,7 @@ translated (by machine 🤖) as:
 ```
 Credits
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 الاعتمادات
 ```
@@ -2825,7 +2825,7 @@ translated (by machine 🤖) as:
 ```
 Copyright and legal mentions
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 حقوق التأليف والنشر والإشارات القانونية
 ```
@@ -2837,7 +2837,7 @@ Legal mentions for other map data than Google Maps:
 
 %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 الإشارات القانونية لبيانات الخرائط الأخرى بخلاف خرائط Google:
  
@@ -2849,7 +2849,7 @@ translated (by machine 🤖) as:
 ```
 Disable error file dump
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تعطيل حفظ ملفات الخطأ
 ```
@@ -2859,7 +2859,7 @@ translated (by machine 🤖) as:
 ```
 Disable writing app errors to a file on the SD card
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تعطيل حفظ أخطاء التطبيق إلى ملف على بطاقة SD
 ```
@@ -2869,7 +2869,7 @@ translated (by machine 🤖) as:
 ```
 Enable error file dump
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تمكين حفظ ملفات الخطأ
 ```
@@ -2879,7 +2879,7 @@ translated (by machine 🤖) as:
 ```
 Enable writing app errors to a file on the SD card
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تمكين حفظ أخطاء التطبيق إلى ملف على بطاقة SD
 ```
@@ -2889,7 +2889,7 @@ translated (by machine 🤖) as:
 ```
 Start background sync…
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 بدء المزامنة في الخلفية&#8230;
 ```
@@ -2899,7 +2899,7 @@ translated (by machine 🤖) as:
 ```
 Never
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 أبدا
 ```
@@ -2909,7 +2909,7 @@ translated (by machine 🤖) as:
 ```
 When app enters background
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 عندما يدخل التطبيق وضع الخلفية
 ```
@@ -2919,7 +2919,7 @@ translated (by machine 🤖) as:
 ```
 %d seconds after the app enters background
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 بعد %d ثواني من دخول التطبيق وضع الخلفية
 ```
@@ -2929,7 +2929,7 @@ translated (by machine 🤖) as:
 ```
 %d minutes after the app enters background
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 بعد %d دقائق من دخول التطبيق وضع الخلفية
 ```
@@ -2939,7 +2939,7 @@ translated (by machine 🤖) as:
 ```
 Sync starting in %d seconds
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ستبدأ المزامنة بعد %d ثانية
 ```
@@ -2949,7 +2949,7 @@ translated (by machine 🤖) as:
 ```
 You can cancel the sync at any time and your data will be synced on next attempt.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 يمكنك إلغاء المزامنة في أي وقت، وسيتم مزامنة البيانات الخاصة بك على المحاولة القادمة.
 ```
@@ -2959,7 +2959,7 @@ translated (by machine 🤖) as:
 ```
 Press back again to exit
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إضغط مرة اخرى لإغلاق التطبيق
 ```
@@ -2969,7 +2969,7 @@ translated (by machine 🤖) as:
 ```
 Cannot start sync with no internet access on the device.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لا يمكن بدء المزامنة بدون وجود خدمة الإنترنت على الجهاز.
 ```
@@ -2979,7 +2979,7 @@ translated (by machine 🤖) as:
 ```
 Manage map files
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إدارة ملفات الخريطة
 ```
@@ -2989,7 +2989,7 @@ translated (by machine 🤖) as:
 ```
 Map files
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ملفات الخريطة
 ```
@@ -2999,7 +2999,7 @@ translated (by machine 🤖) as:
 ```
 Delete map file
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 حذف ملف الخريطة
 ```
@@ -3009,7 +3009,7 @@ translated (by machine 🤖) as:
 ```
 This action will delete the map file from this device
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 هذا الإجراء يبقوم بحذف ملف خريطة من هذا الجهاز
 ```
@@ -3019,7 +3019,7 @@ translated (by machine 🤖) as:
 ```
 This action will delete the map file from your device forever. All the markers inside that file will be lost. Are you sure?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 هذا الإجراء سيقوم بحذف ملف الخريطة من جهازك نهائياً. سيتم فقدان جميع العلامات الموجودة بهذا الملف. هل أنت واثق؟
 ```
@@ -3029,7 +3029,7 @@ translated (by machine 🤖) as:
 ```
 This action will delete the map file from your device forever. All changes not yet synced to the cloud will be lost. The cloud folder will not be affected by this action and you will have to delete it manually. Are you sure?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 هذا الإجراء سيقوم بحذف ملف الخريطة من جهازك نهائياً. جميع التغييرات التي لم يتم مزامنتها بعد إلى السحابة سوف تضيع. لن يتأثر مجلد السحابة على الانترنت بهذا الإجراء وسيكون عليك حذفه يدويا. هل أنت واثق؟
 ```
@@ -3039,7 +3039,7 @@ translated (by machine 🤖) as:
 ```
 Map file successfully deleted
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تم حذف ملف الخريطة بنجاح
 ```
@@ -3049,7 +3049,7 @@ translated (by machine 🤖) as:
 ```
 Could not delete map file: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تعذر حذف ملف الخريطة: %s
 ```
@@ -3059,7 +3059,7 @@ translated (by machine 🤖) as:
 ```
 Marker saved in a non visible folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تم حفظ العلامة في مجلد غير مرئي
 ```
@@ -3069,7 +3069,7 @@ translated (by machine 🤖) as:
 ```
 Your changes have not been synced recently. Make sure you keep your cloud copy up to date. Do you want to sync now?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لم يتم مزامنة التغييرات في الآونة الأخيرة. تأكد من تحديث نسخة السحابة على الانترنت. هل ترغب في مزامنتها الآن؟
 ```
@@ -3079,7 +3079,7 @@ translated (by machine 🤖) as:
 ```
 The markers of this map file are currently only saved on this device. It is recommended to save your markers on the cloud to avoid losing them. Do you want to save them to the cloud now?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 علامات ملف الخريطة الحالي محفوظة في الوقت الحاضر على هذا الجهاز فقط. ومن الموصى به حفظ العلامات على السحابة (الانترنت) لتجنب فقدانها. هل تريد حفظها على السحابة الآن؟
 ```
@@ -3089,7 +3089,7 @@ translated (by machine 🤖) as:
 ```
 Do you want to sync this map file? With manual you will need to sync manually every time. With automatic (recommended) you will select a destination cloud folder and the sync to the cloud will start automatically every time the app enters background.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 هل تريد مزامنة ملف الخريطة الحالي؟ مع "يدوياً" سوف تحتاج لعمل مزامنة يدويا في كل مرة. مع "تلقائياً" (موصى به) سوف تقوم بتحديد مجلد السحابة لمزامنة العلامات وسيتم عمل مظامنة تلقائيا في كل مرة التطبيق يدخل الخلفية.
 ```
@@ -3099,7 +3099,7 @@ translated (by machine 🤖) as:
 ```
 Automatic
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تلقائياً
 ```
@@ -3109,7 +3109,7 @@ translated (by machine 🤖) as:
 ```
 Manual
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 يدوياً
 ```
@@ -3119,7 +3119,7 @@ translated (by machine 🤖) as:
 ```
 You can sync a map file on the cloud at any time by clicking on the map file in the side bar and then choosing the "Cloud sync" option.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 يمكنك مزامنة ملف الخريطة على السحابة في أي وقت عن طريق النقر على الملف خريطة في الشريط الجانبي ومن ثم اختيار "المزامنة السحابة".
 ```
@@ -3129,7 +3129,7 @@ translated (by machine 🤖) as:
 ```
 You can sync a map file manually to the cloud at any time by clicking the "share" button in the main action bar, and then "Other options" and then "All markers and folders" and then by selecting your favorite cloud storage app.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 يمكنك مزامنة ملف الخريطة يدوياً إلى السحابة في أي وقت عن طريق النقر على زر "مشاركة" في الشريط الرئيسي، ثم "خيارات أخرى" ثم "جميع العلامات والمجلدات"، ومن ثم اختيار وسيلتك المفضلة لحفظ البيانات على السحابة.
 ```
@@ -3139,7 +3139,7 @@ translated (by machine 🤖) as:
 ```
 Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 قم بتحريك الخريطة لوضع النقاط, انقر فوق "+" لإضافة نقطة، انقر فوق "-" لإزالة نقطة وقم بالتبديل بين النقاط بإستخدام أزرار السابق والمقبل. وأخيراً انقر فوق "حفظ" لحفظ الشكل.
 ```
@@ -3149,7 +3149,7 @@ translated (by machine 🤖) as:
 ```
 There are not enough points to create the shape. Create more points and try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لا يوجد نقاط كافية للإنشاء الشكل. ضع المزيد من النقاط وحاول مرة أخرى.
 ```
@@ -3159,7 +3159,7 @@ translated (by machine 🤖) as:
 ```
 Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn\'t work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by email (side panel -> about -> send email).
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تعذر تفعيل عضوية الامتياز من حساب Google الخاص بك. إذا كنت قد اشتريت عضوية الامتياز مؤخراً من جهاز آخر، قد تحتاج إلى الانتظار بعض الوقت لتعميم عملية الشراء، قد يساعد إعادة تشغيل جهازك لجعل العملية اسرع. إن كان لا يزال لا يعمل، تأكد من أنك اشتريت وقمت بتثبيت التطبيق وتشغيله بنفس حساب Google. إذا استمرت المشكلة، سوف أقوم بمساعدتك بأفضل ما يمكن، يمكنك التواصل معي عن طريق البريد الإلكتروني من خلال (القائمة الجانبية -&gt; حول -&gt; إرسال email ).
 ```
@@ -3169,7 +3169,7 @@ translated (by machine 🤖) as:
 ```
 Distance: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 المسافة: %s
 ```
@@ -3180,7 +3180,7 @@ translated (by machine 🤖) as:
 Perimeter: %1$s
 Area: %2$s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 المحيط: %1$s 
 المساحة: %2$s
@@ -3191,7 +3191,7 @@ translated (by machine 🤖) as:
 ```
 Extra information
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 معلومات اضافية
 ```
@@ -3201,7 +3201,7 @@ translated (by machine 🤖) as:
 ```
 Insert…
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إدراج…
 ```
@@ -3211,7 +3211,7 @@ translated (by machine 🤖) as:
 ```
 Replace title
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 استبدال الاسم
 ```
@@ -3221,7 +3221,7 @@ translated (by machine 🤖) as:
 ```
 Replace description
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 استبدال الوصف
 ```
@@ -3231,7 +3231,7 @@ translated (by machine 🤖) as:
 ```
 Unit of distance
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 وحدة المسافة
 ```
@@ -3241,7 +3241,7 @@ translated (by machine 🤖) as:
 ```
 Unit of area
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 وحدة المساحة
 ```
@@ -3251,7 +3251,7 @@ translated (by machine 🤖) as:
 ```
 Metric (%s)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 متري (%s)
 ```
@@ -3261,7 +3261,7 @@ translated (by machine 🤖) as:
 ```
 Imperial (%s)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إمبراطوري (%s)
 ```
@@ -3271,7 +3271,7 @@ translated (by machine 🤖) as:
 ```
 Images
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 صور
 ```
@@ -3281,7 +3281,7 @@ translated (by machine 🤖) as:
 ```
 Select image
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 اختر صورة
 ```
@@ -3291,7 +3291,7 @@ translated (by machine 🤖) as:
 ```
 Imported images
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 الصور المستوردة
 ```
@@ -3301,7 +3301,7 @@ translated (by machine 🤖) as:
 ```
 Fit in a %1$sx%2$s square
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تملأ مربع %1$sx%2$s
 ```
@@ -3311,7 +3311,7 @@ translated (by machine 🤖) as:
 ```
 Full quality
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 الجودة الكاملة
 ```
@@ -3321,7 +3321,7 @@ translated (by machine 🤖) as:
 ```
 Mobile data
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 انترنت الهاتف (البيانات)
 ```
@@ -3331,7 +3331,7 @@ translated (by machine 🤖) as:
 ```
 Wifi
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 الـ Wifi
 ```
@@ -3341,7 +3341,7 @@ translated (by machine 🤖) as:
 ```
 Disabled
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 غير مفعل
 ```
@@ -3351,7 +3351,7 @@ translated (by machine 🤖) as:
 ```
 Up to %s per sync
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ما يصل الى %s في المزامنة
 ```
@@ -3361,7 +3361,7 @@ translated (by machine 🤖) as:
 ```
 Unlimited
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 غير محدود
 ```
@@ -3371,7 +3371,7 @@ translated (by machine 🤖) as:
 ```
 The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings. You can also click "force sync" to sync just one time without data volume limit.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تم إلغاء عملية المزامنة لأنها تجاوزت حد حجم البيانات المسموح بها. لزيادة أو تغيير الحد، انتقل إلى الإعدادات. يمكنك أيضا النقر فوق "إجبار المزامنة" لمزامنة مرة واحدة فقط دون حدود حجم البيانات.
 ```
@@ -3381,7 +3381,7 @@ translated (by machine 🤖) as:
 ```
 Force sync
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إجبار المزامنة
 ```
@@ -3391,7 +3391,7 @@ translated (by machine 🤖) as:
 ```
 This will override the usual data limit just for this one time. Force sync?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 هذا سيتجاوز حد البيانات المسموح به لهذه المرة فقط. هل تريد إكمال المزامنة؟
 ```
@@ -3401,7 +3401,7 @@ translated (by machine 🤖) as:
 ```
 Retry
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إعادة المحاولة
 ```
@@ -3411,7 +3411,7 @@ translated (by machine 🤖) as:
 ```
 Add image
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إضافة صورة
 ```
@@ -3421,7 +3421,7 @@ translated (by machine 🤖) as:
 ```
 From camera
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 من الكاميرا
 ```
@@ -3431,7 +3431,7 @@ translated (by machine 🤖) as:
 ```
 From gallery
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 من المعرض
 ```
@@ -3441,7 +3441,7 @@ translated (by machine 🤖) as:
 ```
 Importing image…
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 جاري إستيراد الصورة…
 ```
@@ -3451,7 +3451,7 @@ translated (by machine 🤖) as:
 ```
 Offline (Mapsforge BETA)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 دون اتصال ( Mapsforge BETA )
 ```
@@ -3461,7 +3461,7 @@ translated (by machine 🤖) as:
 ```
 Exporting…
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 جاري التصدير…
 ```
@@ -3471,7 +3471,7 @@ translated (by machine 🤖) as:
 ```
 Export failed
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فشل التصدير
 ```
@@ -3481,7 +3481,7 @@ translated (by machine 🤖) as:
 ```
 Export succeeded
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 نجح التصدير
 ```
@@ -3491,7 +3491,7 @@ translated (by machine 🤖) as:
 ```
 KMZ
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 KMZ
 ```
@@ -3501,7 +3501,7 @@ KMZ
 ```
 KML
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 KML
 ```
@@ -3511,7 +3511,7 @@ KML
 ```
 Importing file…
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 جاري استيراد الملف…
 ```
@@ -3521,7 +3521,7 @@ translated (by machine 🤖) as:
 ```
 Show warning icon for sync
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 اظهار ايقونة تحذير المزامنة
 ```
@@ -3531,7 +3531,7 @@ translated (by machine 🤖) as:
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تم إحباط المزامنة لأن أحد ملفات الوسائط على السحابة كان مفقوداً. يمكنك تجاهل الملفات المفقودة عن طريق النقر على "إجبار المزامنة". تحذير: تجاهل الملفات المفقودة سيؤدي إلى حذفها من قاعدة البيانات، وهو يعني أن الأجهزة الأخرى التي لا تزال تملك نسخة محلية من هذه الملفات ستقوم بحذفها عند قيامها بعملية المزامنة.
 ```
@@ -3541,7 +3541,7 @@ translated (by machine 🤖) as:
 ```
 This will force the sync and ignore the missing cloud files. The missing links will be removed from the database. Other devices still owning a local version of the missing cloud files will delete them upon their next sync. Data consumption limits will be ignored for this special sync. Force Sync?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 سيقوم هذا بإجبار عملية المزامنة وتجاهل الملفات المفقودة على السحابة. سيتم حذف روابط هذه الملفات من قاعدة البيانات. الأجهزة الأخرى التي لا تزال تملك نسخة محلية من هذه الملفات ستقوم بحذفها عند قيامها بعملية المزامنة في المرة القادمة. سيتم تجاهل حدود استهلاك البيانات لهذه العملية الخاصة من المزامنة. هل تريد استكمال إجبار المزامنة؟
 ```
@@ -3551,7 +3551,7 @@ translated (by machine 🤖) as:
 ```
 Marker media files ignored on import: %1$d
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ملفات وسائط العلامات التي تم تجاهلها عند الاستيراد: %1$d
 ```
@@ -3561,7 +3561,7 @@ translated (by machine 🤖) as:
 ```
 Checking premium status…
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 جاري التحقق من حالة عضوية الامتياز…
 ```
@@ -3571,7 +3571,7 @@ translated (by machine 🤖) as:
 ```
 General
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 عام
 ```
@@ -3581,7 +3581,7 @@ translated (by machine 🤖) as:
 ```
 Toilets
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 مراحيض
 ```
@@ -3591,7 +3591,7 @@ translated (by machine 🤖) as:
 ```
 Food
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 طعام
 ```
@@ -3601,7 +3601,7 @@ translated (by machine 🤖) as:
 ```
 Stores
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 مخازن
 ```
@@ -3611,7 +3611,7 @@ translated (by machine 🤖) as:
 ```
 Land activities
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 أنشطة على الأرض
 ```
@@ -3621,7 +3621,7 @@ translated (by machine 🤖) as:
 ```
 Water activies
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 أنشطة في الماء
 ```
@@ -3631,7 +3631,7 @@ translated (by machine 🤖) as:
 ```
 Winter activies
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 أنشطة شتوية
 ```
@@ -3641,7 +3641,7 @@ translated (by machine 🤖) as:
 ```
 Transport
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 مواصلات
 ```
@@ -3651,7 +3651,7 @@ translated (by machine 🤖) as:
 ```
 Health
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 صحة
 ```
@@ -3661,7 +3661,7 @@ translated (by machine 🤖) as:
 ```
 Entertainment
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تسلية
 ```
@@ -3671,7 +3671,7 @@ translated (by machine 🤖) as:
 ```
 Services
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خدمات
 ```
@@ -3681,7 +3681,7 @@ translated (by machine 🤖) as:
 ```
 Business
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 عمل
 ```
@@ -3691,7 +3691,7 @@ translated (by machine 🤖) as:
 ```
 Government
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 حكومة
 ```
@@ -3701,7 +3701,7 @@ translated (by machine 🤖) as:
 ```
 Religious
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ديني
 ```
@@ -3711,7 +3711,7 @@ translated (by machine 🤖) as:
 ```
 Accessibility
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إمكانية الوصول
 ```
@@ -3721,7 +3721,7 @@ translated (by machine 🤖) as:
 ```
 Select icon
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 حدد رمز
 ```
@@ -3731,7 +3731,7 @@ translated (by machine 🤖) as:
 ```
 Icon and color
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 رمز ولون
 ```
@@ -3741,7 +3741,7 @@ translated (by machine 🤖) as:
 ```
 Generic
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 عام
 ```
@@ -3751,7 +3751,7 @@ translated (by machine 🤖) as:
 ```
 Beta tester badge: thank you for being a beta tester! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 شارة مختِر النسخة المبدئية: شكراً لك لقيامك بإختبار النسخة المبدئية! هذه الشارة لن تختفي إلا بعد إلغاء تثبيت التطبيق أو مسح بيانات التطبيق. ايضاً هذه الشارة تسمح لك بإستخدام التطبيق بدون أي إعلانات.
 ```
@@ -3761,7 +3761,7 @@ translated (by machine 🤖) as:
 ```
 Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 شارة الترشيح: شكراً لك لدعوة أصدقائك إلى التطبيق! هذه الشارة لن تختفي إلا بعد إلغاء تثبيت التطبيق أو مسح بيانات التطبيق. كما تسمح لك هذا الشارة بإستخدام التطبيق بدون أي إعلانات.
 ```
@@ -3771,7 +3771,7 @@ translated (by machine 🤖) as:
 ```
 Referral
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 نظام الترشيح
 ```
@@ -3781,7 +3781,7 @@ translated (by machine 🤖) as:
 ```
 Removing ads: exchange referrals credits with friends to remove ads
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ازالة الاعلانات: بتادل نقاط نظام الترشيح مع الاصدقاء لإزالة الإعلانات
 ```
@@ -3791,7 +3791,7 @@ translated (by machine 🤖) as:
 ```
 Sent credits: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 النقاط المرسلة: %s
 ```
@@ -3801,7 +3801,7 @@ translated (by machine 🤖) as:
 ```
 Received credits: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 النقاط المتلقاة: %s
 ```
@@ -3811,7 +3811,7 @@ translated (by machine 🤖) as:
 ```
 Contribute to translations
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 المساهمة في الترجمة
 ```
@@ -3821,7 +3821,7 @@ translated (by machine 🤖) as:
 ```
 You understand English and want to help with translations? Click here
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 يمكنك فهم اللغة الإنجليزية وترغب في المساعدة في الترجمة؟ انقر هنا
 ```
@@ -3831,7 +3831,7 @@ translated (by machine 🤖) as:
 ```
 The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لون او رمز المجلد الوِجهة مختلف. هل تريد تحديث لون ورمز العلامة؟
 ```
@@ -3841,7 +3841,7 @@ translated (by machine 🤖) as:
 ```
 Add color
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إضافة لون
 ```
@@ -3851,7 +3851,7 @@ translated (by machine 🤖) as:
 ```
 <![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 <![CDATA[<html><body><b>ما هي عضوية الامتياز?</b><br>بخلاف إزالة الاعلانات , تمنحك عضوية الامتياز الميزات الحصرية التالية:<br>&bull; إمكانية المزامنة الى Google Drive او Dropbox<br>&bull; التعاون عبر Google Drive او Dropbox<br>&bull; عرض واستعادة النسخ السابقة من الخريطة<br></body></html>]]>
 ```
@@ -3861,7 +3861,7 @@ translated (by machine 🤖) as:
 ```
 Marker created from the geo location of the QR code
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 علامة تم انشائها من الموقع الجغرافي لرمز الاستجابة السريعة QR code
 ```
@@ -3871,7 +3871,7 @@ translated (by machine 🤖) as:
 ```
 Failed to read QR code as a geo location
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فشل في قراءة رمز الاستجابة السريعة QR code كموقع جغرافي
 ```
@@ -3881,7 +3881,7 @@ translated (by machine 🤖) as:
 ```
 The app for scanning QR codes could not be found. Do you want to install it?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تعذر العثور على تطبيق قراءة رمز الاستجابة السريعة QR code. هل تريد تثبيته؟
 ```
@@ -3891,7 +3891,7 @@ translated (by machine 🤖) as:
 ```
 Selection action
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إجراءات التحديد
 ```
@@ -3901,7 +3901,7 @@ translated (by machine 🤖) as:
 ```
 Move to left
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 نقل إلى اليسار
 ```
@@ -3911,7 +3911,7 @@ translated (by machine 🤖) as:
 ```
 Move to right
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 التحرك إلى اليمين
 ```
@@ -3921,7 +3921,7 @@ translated (by machine 🤖) as:
 ```
 Rotate to left
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تدوير لليسار
 ```
@@ -3931,7 +3931,7 @@ translated (by machine 🤖) as:
 ```
 Rotate to right
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تدوير إلى اليمين
 ```
@@ -3941,7 +3941,7 @@ translated (by machine 🤖) as:
 ```
 Delete image
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 حذف صورة
 ```
@@ -3951,7 +3951,7 @@ translated (by machine 🤖) as:
 ```
 From local file
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 من ملف محلي
 ```
@@ -3961,7 +3961,7 @@ translated (by machine 🤖) as:
 ```
 What format to you want to use to export?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ما التنسيق الذي تريد استخدامه للتصدير؟
 ```
@@ -3971,7 +3971,7 @@ translated (by machine 🤖) as:
 ```
 The data to export contains media(images) that cannot be included with this export format. The data will be exported without the media. To export everything, choose the KMZ export format.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 البيانات التي تريد تصدير تحتوي على  وسائل (صور) لا يمكن إدراجها مع تنسيق الذي تم اختياره للتصدير. سيتم تصدير البيانات بدون هذه الوسائل (الصور). لتصدير كل شيء، اختر تسنيق KMZ للتصدير.
 ```
@@ -3981,7 +3981,7 @@ translated (by machine 🤖) as:
 ```
 Standard Google Earth format. Cannot contain media.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تنسق Google Earth القياسي. لا يمكن أن يحتوي على وسائل وصور.
 ```
@@ -3991,7 +3991,7 @@ translated (by machine 🤖) as:
 ```
 Zip Google Earth format. Can contain media.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تنسيق Zip Google Earth. يمكن أن يحتوي على وسائل وصور.
 ```
@@ -4001,7 +4001,7 @@ translated (by machine 🤖) as:
 ```
 Standard text spreadsheet format. Cannot contain media. Cannot contain lines or polygons.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تنسيق جداول نصية قياسية. لا يمكن أن يحتوي على وسائل وصور. لا يمكن أن تحتوي على خطوط أو المضلعات.
 ```
@@ -4011,7 +4011,7 @@ translated (by machine 🤖) as:
 ```
 Marker as plain text
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 العلامة كنص فقط
 ```
@@ -4021,7 +4021,7 @@ translated (by machine 🤖) as:
 ```
 Marker as file
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 العلامة كملف
 ```
@@ -4031,7 +4031,7 @@ translated (by machine 🤖) as:
 ```
 Share the selected marker as a file into another app
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 مشاركة العلامة المحددة كملف إلى تطبيق اخر
 ```
@@ -4041,7 +4041,7 @@ translated (by machine 🤖) as:
 ```
 Share as file
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 مشاركة كملف
 ```
@@ -4051,7 +4051,7 @@ translated (by machine 🤖) as:
 ```
 Export to a local file
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تصدير إلى ملف محلي
 ```
@@ -4061,7 +4061,7 @@ translated (by machine 🤖) as:
 ```
 Import or export markers as files
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 استيراد أو تصدير العلامات كملفات
 ```
@@ -4071,7 +4071,7 @@ translated (by machine 🤖) as:
 ```
 The data to export contains complex markers (lines or polygons) that cannot be included with this export format. The data will be exported without those markers. To export everything, choose the KMZ export format.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 البيانات التي يتم تصديرها تحتوي على علامات معقدة (خطوط أو المضلعات) التي لا يمكن إدراجها مع تنسيق التصدير هذا. سيتم تصدير البيانات بدون تلك العلامات. لتصدير كل شيء، اختر تنسيق KMZ للتصدير.
 ```
@@ -4081,7 +4081,7 @@ translated (by machine 🤖) as:
 ```
 Add custom field
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إضافة حقل مخصص
 ```
@@ -4091,7 +4091,7 @@ translated (by machine 🤖) as:
 ```
 Information
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 معلومات
 ```
@@ -4101,7 +4101,7 @@ translated (by machine 🤖) as:
 ```
 Custom fields
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 الحقول المخصصة
 ```
@@ -4111,7 +4111,7 @@ translated (by machine 🤖) as:
 ```
 Field name
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 اسم الحقل
 ```
@@ -4121,7 +4121,7 @@ translated (by machine 🤖) as:
 ```
 Delete field
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 حذف الحقل
 ```
@@ -4131,7 +4131,7 @@ translated (by machine 🤖) as:
 ```
 Attributes
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خصائص
 ```
@@ -4141,7 +4141,7 @@ translated (by machine 🤖) as:
 ```
 New custom field
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 حقل مخصص جديد
 ```
@@ -4151,7 +4151,7 @@ translated (by machine 🤖) as:
 ```
 Modify custom field
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تعديل الحقل المخصص
 ```
@@ -4161,7 +4161,7 @@ translated (by machine 🤖) as:
 ```
 Field enabled. For folders, if enabled, that field will be added automatically to children POIs on creation. For POIs, if enabled, that field will be visible in the details page.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تفعيل الحقل: للمجلدات، إذا كان مفعل، سيتم إضافة هذا الحقل تلقائياً إلى علامات هذا المجلد عند إنشاءها. للعلامات، إذا كان مفعل، فسيظهر هذا الحقل في صفحة التفاصيل.
 ```
@@ -4171,7 +4171,7 @@ translated (by machine 🤖) as:
 ```
 Field info
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 معلومات الحقل
 ```
@@ -4181,7 +4181,7 @@ translated (by machine 🤖) as:
 ```
 Select field type
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 حدد نوع الحقل
 ```
@@ -4191,7 +4191,7 @@ translated (by machine 🤖) as:
 ```
 Boolean (True or False)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 منطقي (صحيح أو خطأ)
 ```
@@ -4201,7 +4201,7 @@ translated (by machine 🤖) as:
 ```
 Default value
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 القيمة الافتراضية
 ```
@@ -4211,7 +4211,7 @@ translated (by machine 🤖) as:
 ```
 Date
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تاريخ
 ```
@@ -4221,7 +4221,7 @@ translated (by machine 🤖) as:
 ```
 Email
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 بريد إلكتروني
 ```
@@ -4231,7 +4231,7 @@ translated (by machine 🤖) as:
 ```
 Text
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 نص
 ```
@@ -4241,7 +4241,7 @@ translated (by machine 🤖) as:
 ```
 Multiple choice
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 متعدد الخيارات
 ```
@@ -4251,7 +4251,7 @@ translated (by machine 🤖) as:
 ```
 Add choice
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إضافة خيار
 ```
@@ -4261,7 +4261,7 @@ translated (by machine 🤖) as:
 ```
 Duplicates are not allowed
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لا يسمح بالتكرارات
 ```
@@ -4271,7 +4271,7 @@ translated (by machine 🤖) as:
 ```
 Phone
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 هاتف
 ```
@@ -4281,7 +4281,7 @@ translated (by machine 🤖) as:
 ```
 Web link
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 رابط موقع
 ```
@@ -4291,7 +4291,7 @@ translated (by machine 🤖) as:
 ```
 Choices list
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 قائمة خيارات
 ```
@@ -4301,7 +4301,7 @@ translated (by machine 🤖) as:
 ```
 Select default value
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 حدد القيمة الافتراضية
 ```
@@ -4311,7 +4311,7 @@ translated (by machine 🤖) as:
 ```
 Creation date
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تاريخ الإنشاء
 ```
@@ -4321,7 +4321,7 @@ translated (by machine 🤖) as:
 ```
 POI Options
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خيارات العلامة
 ```
@@ -4331,7 +4331,7 @@ translated (by machine 🤖) as:
 ```
 Delete POI
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 حذف العلامة
 ```
@@ -4341,7 +4341,7 @@ translated (by machine 🤖) as:
 ```
 Select value
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 اختر قيمة
 ```
@@ -4351,7 +4351,7 @@ translated (by machine 🤖) as:
 ```
 Used by folders
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 مستخدم في المجلد
 ```
@@ -4361,7 +4361,7 @@ translated (by machine 🤖) as:
 ```
 Edit field
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تعديل الحقل
 ```
@@ -4371,7 +4371,7 @@ translated (by machine 🤖) as:
 ```
 Add folder field
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إضافة حقل مجلد
 ```
@@ -4381,7 +4381,7 @@ translated (by machine 🤖) as:
 ```
 Reorder fields
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إعادة ترتيب الحقول
 ```
@@ -4391,7 +4391,7 @@ translated (by machine 🤖) as:
 ```
 Pick the fields you want to apply to this folder\'s POIs
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 اختر الحقول التي تريد تطبيقها على علامات هذا المجلد
 ```
@@ -4401,7 +4401,7 @@ translated (by machine 🤖) as:
 ```
 The destination folder has different field values. Pick the fields you want to apply to moved POIs.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 يحتوي مجلد الوِجهة على قيم حقول مختلفة. اختر الحقول التي تريد تطبيقها على العلامات المنقولة.
 ```
@@ -4411,7 +4411,7 @@ translated (by machine 🤖) as:
 ```
 Update color
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تحديث اللون
 ```
@@ -4421,7 +4421,7 @@ translated (by machine 🤖) as:
 ```
 Update pin icon
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تحديث رمز الدبوس
 ```
@@ -4431,7 +4431,7 @@ translated (by machine 🤖) as:
 ```
 Add field if missing: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إضافة حقل إذا كان مفقوداً: %s
 ```
@@ -4441,7 +4441,7 @@ translated (by machine 🤖) as:
 ```
 Remove field if present: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 إزالة الحقل إذا كان موجوداً: %s
 ```
@@ -4451,7 +4451,7 @@ translated (by machine 🤖) as:
 ```
 Update field name if different: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تحديث اسم الحقل إذا كان مختلفاً: %s
 ```
@@ -4461,7 +4461,7 @@ translated (by machine 🤖) as:
 ```
 More options…
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 المزيد من الخيارات…
 ```
@@ -4471,7 +4471,7 @@ translated (by machine 🤖) as:
 ```
 Folder options
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خيارات المجلد
 ```
@@ -4481,7 +4481,7 @@ translated (by machine 🤖) as:
 ```
 Edit email
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تعديل الـ email
 ```
@@ -4491,7 +4491,7 @@ translated (by machine 🤖) as:
 ```
 Edit web link
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تعديل رابط موقع الويب
 ```
@@ -4501,7 +4501,7 @@ translated (by machine 🤖) as:
 ```
 Decimal accuracy
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 الدقة العشرية
 ```
@@ -4511,7 +4511,7 @@ translated (by machine 🤖) as:
 ```
 Details copied to clipboard
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 تم نسخ التفاصيل إلى الحافظة
 ```
@@ -4521,7 +4521,7 @@ translated (by machine 🤖) as:
 ```
 Copy
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 نسخ
 ```
@@ -4531,7 +4531,7 @@ translated (by machine 🤖) as:
 ```
 Do you want to click here? ^‿^
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 هل تريد النقر هنا؟ ^‿^
 ```
@@ -4559,7 +4559,7 @@ And finally, thank you for reading this :-)
 Regards
 Sébastien
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 مهلا ، شكرا لك على فضولك! 
  
@@ -4587,7 +4587,7 @@ translated (by machine 🤖) as:
 ```
 Normal with indoor
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 طبيعي مع داخلي
 ```
@@ -4597,7 +4597,7 @@ translated (by machine 🤖) as:
 ```
 Floating marker titles
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 اسماء العلامات العائمة
 ```
@@ -4607,7 +4607,7 @@ translated (by machine 🤖) as:
 ```
 Maximum number
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 أقصى عدد
 ```
@@ -4617,7 +4617,7 @@ translated (by machine 🤖) as:
 ```
 Text size
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 حجم الخط
 ```
@@ -4627,7 +4627,7 @@ translated (by machine 🤖) as:
 ```
 Search failed => %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 فشل البحث => %s
 ```
@@ -4637,7 +4637,7 @@ translated (by machine 🤖) as:
 ```
 API key tutorial
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 دليل تعليمي عن API key
 ```
@@ -4647,7 +4647,7 @@ translated (by machine 🤖) as:
 ```
 Click here to see details on how to obtain an API key for your account.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 انقر هنا للاطلاع على تفاصيل حول كيفية الحصول على API key لحسابك.
 ```
@@ -4657,7 +4657,7 @@ translated (by machine 🤖) as:
 ```
 Personal API key
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 المفتاح الخاص API key
 ```
@@ -4667,7 +4667,7 @@ translated (by machine 🤖) as:
 ```
 None
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 لا شيء
 ```
@@ -4679,7 +4679,7 @@ You can search for places with "Google Places API". This search requires an inte
 
 You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 يمكنك البحث عن الأماكن بإستخدام "Google Places API". يتطلب هذا البحث اتصالاً بالإنترنت.
 
@@ -4691,7 +4691,7 @@ translated (by machine 🤖) as:
 ```
 Do you enjoy the app?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 هل تستمتع بالتطبيق؟
 ```
@@ -4701,7 +4701,7 @@ translated (by machine 🤖) as:
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 هل تريد أن ترسل لي email لتخبرني كيف يمكنني تحسين التطبيق؟
 ```
@@ -4711,7 +4711,7 @@ translated (by machine 🤖) as:
 ```
 Display extra POI fields
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 عرض حقول علامات إضافية
 ```
@@ -4721,7 +4721,7 @@ translated (by machine 🤖) as:
 ```
 IGN plans
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خطط IGN
 ```
@@ -4731,7 +4731,7 @@ translated (by machine 🤖) as:
 ```
 IGN maps
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 خرائط IGN
 ```
@@ -4741,7 +4741,7 @@ translated (by machine 🤖) as:
 ```
 IGN - Cadastral parcels
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 IGN - الطرود المساحية
 ```
@@ -4751,7 +4751,7 @@ IGN - الطرود المساحية
 ```
 IGN - Aerial
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 IGN - جوي
 ```
@@ -4761,7 +4761,7 @@ IGN - جوي
 ```
 Type more and press enter again for refined results
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 اكتب المزيد واضغط على Enter مرة أخرى للحصول على نتائج جيدة
 ```
