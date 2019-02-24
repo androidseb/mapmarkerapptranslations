@@ -4765,3 +4765,101 @@ translated (by machine 🤖) as:
 ```
 輸入更多並再次按Enter鍵以獲得精煉結果
 ```
+
+
+## Translation Key: settings_search_provider_section_title
+```
+External search
+```
+translated (by machine 🤖) as:
+```
+外部搜索
+```
+
+
+## Translation Key: search_source
+```
+Search source
+```
+translated (by machine 🤖) as:
+```
+搜索來源
+```
+
+
+## Translation Key: search_source_ntim
+```
+Map Marker's Nominatim server
+```
+translated (by machine 🤖) as:
+```
+Map Marker的Nominatim服務器
+```
+
+
+## Translation Key: search_source_gps
+```
+Google Places Search API
+```
+translated (by machine 🤖) as:
+```
+Google Places Search API
+```
+
+
+## Translation Key: search_source_here
+```
+Here Places Search API
+```
+translated (by machine 🤖) as:
+```
+Here Places Search API
+```
+
+
+## Translation Key: google_search_not_started_text3
+```
+You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
+```
+translated (by machine 🤖) as:
+```
+您可以使用“%s”搜索地點。此搜索需要互聯網連接。輸入您的搜索，然後按Enter鍵。
+```
+
+
+## Translation Key: special_thanks_title
+```
+Special thanks
+```
+translated (by machine 🤖) as:
+```
+特別感謝
+```
+
+
+## Translation Key: special_thanks_description
+```
+A special thank you to the people who helped me
+```
+translated (by machine 🤖) as:
+```
+特別感謝幫助我的人們
+```
+
+
+## Translation Key: thank_you_message
+```
+Special thanks to the people who worked hard to help with the app translations:
+%s
+…And also those who declined mention
+
+Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
+```
+translated (by machine 🤖) as:
+```
+特別感謝那些努力幫助應用翻譯的人：
+%s
+......還有那些拒絕提及的人
+
+此外，感謝所有多年來給我反饋的用戶，並不斷幫助我改進應用程序。
+```

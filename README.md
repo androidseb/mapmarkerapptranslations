@@ -33,7 +33,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 ## Translation languages list
 
-[Arabic (100% human-translated)](./translations/ar_strings.md)
+[Arabic (98% human-translated)](./translations/ar_strings.md)
 
 [Bulgarian (0% human-translated)](./translations/bg_strings.md)
 
@@ -49,11 +49,11 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Danish (0% human-translated)](./translations/da_strings.md)
 
-[Dutch (97% human-translated)](./translations/nl_strings.md)
+[Dutch (95% human-translated)](./translations/nl_strings.md)
 
 [Finnish (0% human-translated)](./translations/fi_strings.md)
 
-[German (97% human-translated)](./translations/de_strings.md)
+[German (95% human-translated)](./translations/de_strings.md)
 
 [Greek (0% human-translated)](./translations/el_strings.md)
 
@@ -75,27 +75,27 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Latvian (0% human-translated)](./translations/lv_strings.md)
 
-[Lithuanian (86% human-translated)](./translations/lt_strings.md)
+[Lithuanian (84% human-translated)](./translations/lt_strings.md)
 
 [Norwegian (0% human-translated)](./translations/no_strings.md)
 
-[Polish (97% human-translated)](./translations/pl_strings.md)
+[Polish (95% human-translated)](./translations/pl_strings.md)
 
 [Portuguese (0% human-translated)](./translations/pt_strings.md)
 
 [Romanian (0% human-translated)](./translations/ro_strings.md)
 
-[Russian (97% human-translated)](./translations/ru_strings.md)
+[Russian (95% human-translated)](./translations/ru_strings.md)
 
 [Serbian (0% human-translated)](./translations/sr_strings.md)
 
 [Slovak (0% human-translated)](./translations/sk_strings.md)
 
-[Slovenian (95% human-translated)](./translations/sl_strings.md)
+[Slovenian (93% human-translated)](./translations/sl_strings.md)
 
 [Spanish (0% human-translated)](./translations/es_strings.md)
 
-[Swedish (96% human-translated)](./translations/sv_strings.md)
+[Swedish (95% human-translated)](./translations/sv_strings.md)
 
 [Thai (0% human-translated)](./translations/th_strings.md)
 

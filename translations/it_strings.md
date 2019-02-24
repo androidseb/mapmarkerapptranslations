@@ -4765,3 +4765,101 @@ translated (by machine 🤖) as:
 ```
 Scrivi di più e premi di nuovo invio per risultati raffinati
 ```
+
+
+## Translation Key: settings_search_provider_section_title
+```
+External search
+```
+translated (by machine 🤖) as:
+```
+Ricerca esterna
+```
+
+
+## Translation Key: search_source
+```
+Search source
+```
+translated (by machine 🤖) as:
+```
+Cerca fonte
+```
+
+
+## Translation Key: search_source_ntim
+```
+Map Marker's Nominatim server
+```
+translated (by machine 🤖) as:
+```
+Il server Nominatim di Map Marker
+```
+
+
+## Translation Key: search_source_gps
+```
+Google Places Search API
+```
+translated (by machine 🤖) as:
+```
+API di ricerca di Google Places
+```
+
+
+## Translation Key: search_source_here
+```
+Here Places Search API
+```
+translated (by machine 🤖) as:
+```
+Here Places Search API
+```
+
+
+## Translation Key: google_search_not_started_text3
+```
+You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
+```
+translated (by machine 🤖) as:
+```
+Puoi cercare posti con "%s". Questa ricerca richiede una connessione Internet. Inserisci la tua ricerca e poi premi invio.
+```
+
+
+## Translation Key: special_thanks_title
+```
+Special thanks
+```
+translated (by machine 🤖) as:
+```
+Ringraziamenti speciali
+```
+
+
+## Translation Key: special_thanks_description
+```
+A special thank you to the people who helped me
+```
+translated (by machine 🤖) as:
+```
+Un ringraziamento speciale alle persone che mi hanno aiutato
+```
+
+
+## Translation Key: thank_you_message
+```
+Special thanks to the people who worked hard to help with the app translations:
+%s
+…And also those who declined mention
+
+Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
+```
+translated (by machine 🤖) as:
+```
+Un ringraziamento speciale alle persone che hanno lavorato duramente per aiutare con le traduzioni delle app:
+%s
+... E anche quelli che hanno rifiutato di parlare
+
+Inoltre, grazie a tutti gli utenti che mi hanno dato feedback nel corso degli anni e che mi hanno aiutato a migliorare continuamente l'app.
+```

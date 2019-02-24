@@ -4763,3 +4763,101 @@ translated (by machine 🤖) as:
 ```
 Typ meer en druk nogmaals op enter voor verfijnde resultaten
 ```
+
+
+## Translation Key: settings_search_provider_section_title
+```
+External search
+```
+translated (by machine 🤖) as:
+```
+Extern zoeken
+```
+
+
+## Translation Key: search_source
+```
+Search source
+```
+translated (by machine 🤖) as:
+```
+Zoek bron
+```
+
+
+## Translation Key: search_source_ntim
+```
+Map Marker's Nominatim server
+```
+translated (by machine 🤖) as:
+```
+Map Marker's Nominatim-server
+```
+
+
+## Translation Key: search_source_gps
+```
+Google Places Search API
+```
+translated (by machine 🤖) as:
+```
+Google Places Search API
+```
+
+
+## Translation Key: search_source_here
+```
+Here Places Search API
+```
+translated (by machine 🤖) as:
+```
+Here Places Search API
+```
+
+
+## Translation Key: google_search_not_started_text3
+```
+You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
+```
+translated (by machine 🤖) as:
+```
+U kunt zoeken naar plaatsen met "%s". Voor deze zoekopdracht is een internetverbinding vereist. Voer je zoekopdracht in en druk op Enter.
+```
+
+
+## Translation Key: special_thanks_title
+```
+Special thanks
+```
+translated (by machine 🤖) as:
+```
+Speciale dank
+```
+
+
+## Translation Key: special_thanks_description
+```
+A special thank you to the people who helped me
+```
+translated (by machine 🤖) as:
+```
+Een speciaal bedankje aan de mensen die me hebben geholpen
+```
+
+
+## Translation Key: thank_you_message
+```
+Special thanks to the people who worked hard to help with the app translations:
+%s
+…And also those who declined mention
+
+Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
+```
+translated (by machine 🤖) as:
+```
+Speciale dank aan de mensen die hard hebben gewerkt om te helpen met de app-vertalingen:
+%s
+... En ook degenen die weigerden te vermelden
+
+Dank ook aan alle gebruikers die me feedback gaven door de jaren heen en hielpen me constant om de app beter te maken.
+```

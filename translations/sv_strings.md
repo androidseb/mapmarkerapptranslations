@@ -4511,7 +4511,7 @@ Decimalnoggrannhet
 ```
 Details copied to clipboard
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Detaljer kopierade till Urklipp
 ```
@@ -4764,4 +4764,102 @@ Type more and press enter again for refined results
 translated (by machine 🤖) as:
 ```
 Skriv mer och tryck på enter igen för raffinerade resultat
+```
+
+
+## Translation Key: settings_search_provider_section_title
+```
+External search
+```
+translated (by machine 🤖) as:
+```
+Extern sökning
+```
+
+
+## Translation Key: search_source
+```
+Search source
+```
+translated (by machine 🤖) as:
+```
+Sökkälla
+```
+
+
+## Translation Key: search_source_ntim
+```
+Map Marker's Nominatim server
+```
+translated (by machine 🤖) as:
+```
+Map Marker: s Nominatim-server
+```
+
+
+## Translation Key: search_source_gps
+```
+Google Places Search API
+```
+translated (by machine 🤖) as:
+```
+Google Places Search API
+```
+
+
+## Translation Key: search_source_here
+```
+Here Places Search API
+```
+translated (by machine 🤖) as:
+```
+Here Places Search API
+```
+
+
+## Translation Key: google_search_not_started_text3
+```
+You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
+```
+translated (by machine 🤖) as:
+```
+Du kan söka efter platser med "%s". Den här sökningen kräver en internetanslutning. Ange din sökning och tryck sedan på Enter.
+```
+
+
+## Translation Key: special_thanks_title
+```
+Special thanks
+```
+translated (by machine 🤖) as:
+```
+Speciellt tack
+```
+
+
+## Translation Key: special_thanks_description
+```
+A special thank you to the people who helped me
+```
+translated (by machine 🤖) as:
+```
+Ett särskilt tack till de människor som hjälpte mig
+```
+
+
+## Translation Key: thank_you_message
+```
+Special thanks to the people who worked hard to help with the app translations:
+%s
+…And also those who declined mention
+
+Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
+```
+translated (by machine 🤖) as:
+```
+Särskilt tack till de personer som jobbat hårt för att hjälpa till med appoversättningarna:
+%s
+... Och även de som nekade nämna
+
+Tack också till alla användare som gav mig feedback genom åren och hjälpte mig kontinuerligt att göra appen bättre.
 ```

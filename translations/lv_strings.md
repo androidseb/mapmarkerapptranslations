@@ -4765,3 +4765,101 @@ translated (by machine 🤖) as:
 ```
 Ievadiet vairāk un nospiediet vēlreiz, lai iegūtu precīzus rezultātus
 ```
+
+
+## Translation Key: settings_search_provider_section_title
+```
+External search
+```
+translated (by machine 🤖) as:
+```
+Ārējā meklēšana
+```
+
+
+## Translation Key: search_source
+```
+Search source
+```
+translated (by machine 🤖) as:
+```
+Meklēšanas avots
+```
+
+
+## Translation Key: search_source_ntim
+```
+Map Marker's Nominatim server
+```
+translated (by machine 🤖) as:
+```
+15 Nominatim serveris
+```
+
+
+## Translation Key: search_source_gps
+```
+Google Places Search API
+```
+translated (by machine 🤖) as:
+```
+Google vietu meklēšanas API
+```
+
+
+## Translation Key: search_source_here
+```
+Here Places Search API
+```
+translated (by machine 🤖) as:
+```
+Here Places Search API
+```
+
+
+## Translation Key: google_search_not_started_text3
+```
+You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
+```
+translated (by machine 🤖) as:
+```
+Jūs varat meklēt vietas ar "%s". Šim meklējumam ir nepieciešams interneta pieslēgums. Ievadiet meklēšanu un pēc tam nospiediet Enter.
+```
+
+
+## Translation Key: special_thanks_title
+```
+Special thanks
+```
+translated (by machine 🤖) as:
+```
+Īpašs paldies
+```
+
+
+## Translation Key: special_thanks_description
+```
+A special thank you to the people who helped me
+```
+translated (by machine 🤖) as:
+```
+Īpašs paldies cilvēkiem, kas man palīdzēja
+```
+
+
+## Translation Key: thank_you_message
+```
+Special thanks to the people who worked hard to help with the app translations:
+%s
+…And also those who declined mention
+
+Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
+```
+translated (by machine 🤖) as:
+```
+Īpašs paldies cilvēkiem, kas smagi strādāja, lai palīdzētu lietotņu tulkojumiem:
+%s
+… Un arī tie, kas atteicās pieminēt
+
+Arī paldies visiem lietotājiem, kuri gadu gaitā sniedza man atsauksmes un nepārtraukti palīdzēja man padarīt lietotni labāku.
+```

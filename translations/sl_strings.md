@@ -4764,3 +4764,101 @@ translated (by machine 🤖) as:
 ```
 Vnesite več in ponovno pritisnite enter za izboljšane rezultate
 ```
+
+
+## Translation Key: settings_search_provider_section_title
+```
+External search
+```
+translated (by machine 🤖) as:
+```
+Zunanje iskanje
+```
+
+
+## Translation Key: search_source
+```
+Search source
+```
+translated (by machine 🤖) as:
+```
+Iskalni vir
+```
+
+
+## Translation Key: search_source_ntim
+```
+Map Marker's Nominatim server
+```
+translated (by machine 🤖) as:
+```
+Strežnik Nominatim
+```
+
+
+## Translation Key: search_source_gps
+```
+Google Places Search API
+```
+translated (by machine 🤖) as:
+```
+API za Google Iskanje mest
+```
+
+
+## Translation Key: search_source_here
+```
+Here Places Search API
+```
+translated (by machine 🤖) as:
+```
+Here Places Search API
+```
+
+
+## Translation Key: google_search_not_started_text3
+```
+You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
+```
+translated (by machine 🤖) as:
+```
+Poiščete lahko mesta z »%s«. To iskanje zahteva internetno povezavo. Vnesite iskanje in nato pritisnite Enter.
+```
+
+
+## Translation Key: special_thanks_title
+```
+Special thanks
+```
+translated (by machine 🤖) as:
+```
+Posebna zahvala
+```
+
+
+## Translation Key: special_thanks_description
+```
+A special thank you to the people who helped me
+```
+translated (by machine 🤖) as:
+```
+Posebna zahvala ljudem, ki so mi pomagali
+```
+
+
+## Translation Key: thank_you_message
+```
+Special thanks to the people who worked hard to help with the app translations:
+%s
+…And also those who declined mention
+
+Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
+```
+translated (by machine 🤖) as:
+```
+Posebna zahvala osebam, ki so trdo delale, da bi pomagale pri prevajanju aplikacij:
+%s
+… In tudi tisti, ki so omenili
+
+Prav tako, hvala vsem uporabnikom, ki so mi v preteklih letih dali povratne informacije in mi neprestano pomagali izboljšati aplikacijo.
+```

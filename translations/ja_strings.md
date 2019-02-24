@@ -4766,3 +4766,101 @@ translated (by machine 🤖) as:
 ```
 絞り込み検索結果を表示するには、moreと入力してもう一度Enterを押します
 ```
+
+
+## Translation Key: settings_search_provider_section_title
+```
+External search
+```
+translated (by machine 🤖) as:
+```
+外部検索
+```
+
+
+## Translation Key: search_source
+```
+Search source
+```
+translated (by machine 🤖) as:
+```
+検索元
+```
+
+
+## Translation Key: search_source_ntim
+```
+Map Marker's Nominatim server
+```
+translated (by machine 🤖) as:
+```
+Map MarkerのNominatimサーバー
+```
+
+
+## Translation Key: search_source_gps
+```
+Google Places Search API
+```
+translated (by machine 🤖) as:
+```
+Googleプレイス検索API
+```
+
+
+## Translation Key: search_source_here
+```
+Here Places Search API
+```
+translated (by machine 🤖) as:
+```
+Here Places Search API
+```
+
+
+## Translation Key: google_search_not_started_text3
+```
+You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
+```
+translated (by machine 🤖) as:
+```
+あなたは "%s"で場所を検索することができます。この検索にはインターネット接続が必要です。検索を入力してEnterを押してください。
+```
+
+
+## Translation Key: special_thanks_title
+```
+Special thanks
+```
+translated (by machine 🤖) as:
+```
+特別な感謝
+```
+
+
+## Translation Key: special_thanks_description
+```
+A special thank you to the people who helped me
+```
+translated (by machine 🤖) as:
+```
+私を助けてくれた人々に感謝します
+```
+
+
+## Translation Key: thank_you_message
+```
+Special thanks to the people who worked hard to help with the app translations:
+%s
+…And also those who declined mention
+
+Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
+```
+translated (by machine 🤖) as:
+```
+アプリの翻訳を手伝ってくれた人々に感謝します。
+%s
+…そしてまた言及を断った人々
+
+また、何年にもわたって私にフィードバックをしてくれ、継続的に私がアプリをより良くするのを助けてくれたすべてのユーザーに感謝します。
+```

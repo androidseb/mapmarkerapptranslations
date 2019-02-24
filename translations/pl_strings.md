@@ -4765,3 +4765,101 @@ translated (by machine 🤖) as:
 ```
 Wpisz więcej i ponownie naciśnij enter, aby uzyskać wyrafinowane wyniki
 ```
+
+
+## Translation Key: settings_search_provider_section_title
+```
+External search
+```
+translated (by machine 🤖) as:
+```
+Wyszukiwanie zewnętrzne
+```
+
+
+## Translation Key: search_source
+```
+Search source
+```
+translated (by machine 🤖) as:
+```
+Wyszukaj źródło
+```
+
+
+## Translation Key: search_source_ntim
+```
+Map Marker's Nominatim server
+```
+translated (by machine 🤖) as:
+```
+Serwer Nominatim Map Marker
+```
+
+
+## Translation Key: search_source_gps
+```
+Google Places Search API
+```
+translated (by machine 🤖) as:
+```
+Interfejs API wyszukiwarki Google
+```
+
+
+## Translation Key: search_source_here
+```
+Here Places Search API
+```
+translated (by machine 🤖) as:
+```
+Here Places Search API
+```
+
+
+## Translation Key: google_search_not_started_text3
+```
+You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
+```
+translated (by machine 🤖) as:
+```
+Możesz szukać miejsc z "%s". To wyszukiwanie wymaga połączenia z Internetem. Wpisz zapytanie, a następnie naciśnij Enter.
+```
+
+
+## Translation Key: special_thanks_title
+```
+Special thanks
+```
+translated (by machine 🤖) as:
+```
+Szczególne podziękowania
+```
+
+
+## Translation Key: special_thanks_description
+```
+A special thank you to the people who helped me
+```
+translated (by machine 🤖) as:
+```
+Specjalne podziękowania dla osób, które mi pomogły
+```
+
+
+## Translation Key: thank_you_message
+```
+Special thanks to the people who worked hard to help with the app translations:
+%s
+…And also those who declined mention
+
+Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
+```
+translated (by machine 🤖) as:
+```
+Specjalne podziękowania dla osób, które ciężko pracowały, aby pomóc w tłumaczeniu aplikacji:
+%s
+... A także tych, którzy odmówili wzmianki
+
+Dziękuję również wszystkim użytkownikom, którzy udzielili mi opinii na przestrzeni lat i ciągle pomagali mi ulepszyć aplikację.
+```

@@ -4765,3 +4765,101 @@ translated (by machine 🤖) as:
 ```
 הקלד עוד והקש enter שוב לקבלת תוצאות מעודנות
 ```
+
+
+## Translation Key: settings_search_provider_section_title
+```
+External search
+```
+translated (by machine 🤖) as:
+```
+חיפוש חיצוני
+```
+
+
+## Translation Key: search_source
+```
+Search source
+```
+translated (by machine 🤖) as:
+```
+חיפוש מקור
+```
+
+
+## Translation Key: search_source_ntim
+```
+Map Marker's Nominatim server
+```
+translated (by machine 🤖) as:
+```
+שרת Nominatim של Map Marker
+```
+
+
+## Translation Key: search_source_gps
+```
+Google Places Search API
+```
+translated (by machine 🤖) as:
+```
+ממשק API לחיפוש של מקומות Google
+```
+
+
+## Translation Key: search_source_here
+```
+Here Places Search API
+```
+translated (by machine 🤖) as:
+```
+Here Places Search API
+```
+
+
+## Translation Key: google_search_not_started_text3
+```
+You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
+```
+translated (by machine 🤖) as:
+```
+ניתן לחפש מקומות עם "%s". חיפוש זה מחייב חיבור לאינטרנט. הזן את החיפוש שלך ולאחר מכן הקש Enter.
+```
+
+
+## Translation Key: special_thanks_title
+```
+Special thanks
+```
+translated (by machine 🤖) as:
+```
+תודות מיוחדות
+```
+
+
+## Translation Key: special_thanks_description
+```
+A special thank you to the people who helped me
+```
+translated (by machine 🤖) as:
+```
+תודה מיוחדת לאנשים שעזרו לי
+```
+
+
+## Translation Key: thank_you_message
+```
+Special thanks to the people who worked hard to help with the app translations:
+%s
+…And also those who declined mention
+
+Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
+```
+translated (by machine 🤖) as:
+```
+תודה מיוחדת לאנשים שעבדו קשה כדי לעזור בתרגומי האפליקציה:
+%s
+... וגם אלה שסירבו להזכיר
+
+כמו כן, תודה לכל המשתמשים שנתנו לי משוב במשך השנים ועזרו לי באופן רציף להפוך את האפליקציה לטובה יותר.
+```

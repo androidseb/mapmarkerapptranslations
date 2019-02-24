@@ -4762,3 +4762,101 @@ translated (by machine 🤖) as:
 ```
 Введите больше и нажмите ввод еще раз для уточнения результатов
 ```
+
+
+## Translation Key: settings_search_provider_section_title
+```
+External search
+```
+translated (by machine 🤖) as:
+```
+Внешний поиск
+```
+
+
+## Translation Key: search_source
+```
+Search source
+```
+translated (by machine 🤖) as:
+```
+Поиск источника
+```
+
+
+## Translation Key: search_source_ntim
+```
+Map Marker's Nominatim server
+```
+translated (by machine 🤖) as:
+```
+Номинатим сервер Map Marker
+```
+
+
+## Translation Key: search_source_gps
+```
+Google Places Search API
+```
+translated (by machine 🤖) as:
+```
+API Google Places Search
+```
+
+
+## Translation Key: search_source_here
+```
+Here Places Search API
+```
+translated (by machine 🤖) as:
+```
+Here Places Search API
+```
+
+
+## Translation Key: google_search_not_started_text3
+```
+You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
+```
+translated (by machine 🤖) as:
+```
+Вы можете искать места с "%s". Этот поиск требует подключения к интернету. Введите ваш поиск, а затем нажмите Enter.
+```
+
+
+## Translation Key: special_thanks_title
+```
+Special thanks
+```
+translated (by machine 🤖) as:
+```
+Особая благодарность
+```
+
+
+## Translation Key: special_thanks_description
+```
+A special thank you to the people who helped me
+```
+translated (by machine 🤖) as:
+```
+Отдельное спасибо людям, которые помогли мне
+```
+
+
+## Translation Key: thank_you_message
+```
+Special thanks to the people who worked hard to help with the app translations:
+%s
+…And also those who declined mention
+
+Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
+```
+translated (by machine 🤖) as:
+```
+Отдельное спасибо людям, которые усердно работали, чтобы помочь с переводами приложений:
+%s
+… А также те, кто отказался упоминать
+
+Также, спасибо всем пользователям, которые давали мне отзывы на протяжении многих лет и постоянно помогали мне сделать приложение лучше.
+```

@@ -4765,3 +4765,101 @@ translated (by machine 🤖) as:
 ```
 Укуцајте још и поново притисните ентер за прецизније резултате
 ```
+
+
+## Translation Key: settings_search_provider_section_title
+```
+External search
+```
+translated (by machine 🤖) as:
+```
+Ектернал сеарцх
+```
+
+
+## Translation Key: search_source
+```
+Search source
+```
+translated (by machine 🤖) as:
+```
+Извор претраживања
+```
+
+
+## Translation Key: search_source_ntim
+```
+Map Marker's Nominatim server
+```
+translated (by machine 🤖) as:
+```
+Map Marker'с Номинатим сервер
+```
+
+
+## Translation Key: search_source_gps
+```
+Google Places Search API
+```
+translated (by machine 🤖) as:
+```
+АПИ за претрагу Гоогле места
+```
+
+
+## Translation Key: search_source_here
+```
+Here Places Search API
+```
+translated (by machine 🤖) as:
+```
+Here Places Search API
+```
+
+
+## Translation Key: google_search_not_started_text3
+```
+You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
+```
+translated (by machine 🤖) as:
+```
+Можете тражити мјеста са "%s". Ова претрага захтијева интернет везу. Унесите претрагу и затим притисните ентер.
+```
+
+
+## Translation Key: special_thanks_title
+```
+Special thanks
+```
+translated (by machine 🤖) as:
+```
+Посебну захвалност
+```
+
+
+## Translation Key: special_thanks_description
+```
+A special thank you to the people who helped me
+```
+translated (by machine 🤖) as:
+```
+Посебно хвала људима који су ми помогли
+```
+
+
+## Translation Key: thank_you_message
+```
+Special thanks to the people who worked hard to help with the app translations:
+%s
+…And also those who declined mention
+
+Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
+```
+translated (by machine 🤖) as:
+```
+Посебно се захваљујемо људима који су напорно радили да помогну при преводу апликација:
+%s
+… И они који су то одбили
+
+Такође, хвала свим корисницима који су ми давали повратне информације током година и стално су ми помагали да побољшам апликацију.
+```

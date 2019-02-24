@@ -4765,3 +4765,101 @@ translated (by machine 🤖) as:
 ```
 Escriu més i premeu Retorn per obtenir resultats més refinats
 ```
+
+
+## Translation Key: settings_search_provider_section_title
+```
+External search
+```
+translated (by machine 🤖) as:
+```
+Cerca externa
+```
+
+
+## Translation Key: search_source
+```
+Search source
+```
+translated (by machine 🤖) as:
+```
+Font de cerca
+```
+
+
+## Translation Key: search_source_ntim
+```
+Map Marker's Nominatim server
+```
+translated (by machine 🤖) as:
+```
+Nominatim del servidor Map Marker
+```
+
+
+## Translation Key: search_source_gps
+```
+Google Places Search API
+```
+translated (by machine 🤖) as:
+```
+API de cerca de Google Places
+```
+
+
+## Translation Key: search_source_here
+```
+Here Places Search API
+```
+translated (by machine 🤖) as:
+```
+Here Places Search API
+```
+
+
+## Translation Key: google_search_not_started_text3
+```
+You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
+```
+translated (by machine 🤖) as:
+```
+Podeu cercar llocs amb "%s". Aquesta cerca requereix una connexió a Internet. Introduïu la cerca i premeu Intro.
+```
+
+
+## Translation Key: special_thanks_title
+```
+Special thanks
+```
+translated (by machine 🤖) as:
+```
+Especial agraïment
+```
+
+
+## Translation Key: special_thanks_description
+```
+A special thank you to the people who helped me
+```
+translated (by machine 🤖) as:
+```
+Un agraïment especial a la gent que m'ha ajudat
+```
+
+
+## Translation Key: thank_you_message
+```
+Special thanks to the people who worked hard to help with the app translations:
+%s
+…And also those who declined mention
+
+Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
+```
+translated (by machine 🤖) as:
+```
+Un agraïment especial a les persones que han treballat dur per ajudar amb les traduccions de l'aplicació:
+%s
+... I també els que van rebutjar esment
+
+També, gràcies a tots els usuaris que em van donar comentaris al llarg dels anys i que em van ajudar a millorar l'aplicació.
+```

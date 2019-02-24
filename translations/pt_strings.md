@@ -4765,3 +4765,101 @@ translated (by machine 🤖) as:
 ```
 Digite mais e pressione enter novamente para resultados refinados
 ```
+
+
+## Translation Key: settings_search_provider_section_title
+```
+External search
+```
+translated (by machine 🤖) as:
+```
+Pesquisa externa
+```
+
+
+## Translation Key: search_source
+```
+Search source
+```
+translated (by machine 🤖) as:
+```
+Fonte de pesquisa
+```
+
+
+## Translation Key: search_source_ntim
+```
+Map Marker's Nominatim server
+```
+translated (by machine 🤖) as:
+```
+Servidor Nominatim do Map Marker
+```
+
+
+## Translation Key: search_source_gps
+```
+Google Places Search API
+```
+translated (by machine 🤖) as:
+```
+API de pesquisa do Google Places
+```
+
+
+## Translation Key: search_source_here
+```
+Here Places Search API
+```
+translated (by machine 🤖) as:
+```
+Here Places Search API
+```
+
+
+## Translation Key: google_search_not_started_text3
+```
+You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
+```
+translated (by machine 🤖) as:
+```
+Você pode procurar lugares com "%s". Esta pesquisa requer uma conexão com a internet. Digite sua pesquisa e, em seguida, pressione enter.
+```
+
+
+## Translation Key: special_thanks_title
+```
+Special thanks
+```
+translated (by machine 🤖) as:
+```
+Agradecimentos especiais
+```
+
+
+## Translation Key: special_thanks_description
+```
+A special thank you to the people who helped me
+```
+translated (by machine 🤖) as:
+```
+Um agradecimento especial às pessoas que me ajudaram
+```
+
+
+## Translation Key: thank_you_message
+```
+Special thanks to the people who worked hard to help with the app translations:
+%s
+…And also those who declined mention
+
+Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
+```
+translated (by machine 🤖) as:
+```
+Um agradecimento especial às pessoas que trabalharam duro para ajudar com as traduções de aplicativos:
+%s
+… E também aqueles que recusaram mencionar
+
+Além disso, agradeço a todos os usuários que me deram feedback ao longo dos anos e continuamente me ajudaram a melhorar o aplicativo.
+```

@@ -4765,3 +4765,101 @@ translated (by machine 🤖) as:
 ```
 Introduceți mai mult și apăsați din nou tasta Enter pentru rezultate rafinate
 ```
+
+
+## Translation Key: settings_search_provider_section_title
+```
+External search
+```
+translated (by machine 🤖) as:
+```
+Căutare externă
+```
+
+
+## Translation Key: search_source
+```
+Search source
+```
+translated (by machine 🤖) as:
+```
+Sursă de căutare
+```
+
+
+## Translation Key: search_source_ntim
+```
+Map Marker's Nominatim server
+```
+translated (by machine 🤖) as:
+```
+Map Marker a serverului Nominatim
+```
+
+
+## Translation Key: search_source_gps
+```
+Google Places Search API
+```
+translated (by machine 🤖) as:
+```
+API-ul Căutare Google Locații
+```
+
+
+## Translation Key: search_source_here
+```
+Here Places Search API
+```
+translated (by machine 🤖) as:
+```
+Here Places Search API
+```
+
+
+## Translation Key: google_search_not_started_text3
+```
+You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
+```
+translated (by machine 🤖) as:
+```
+Puteți căuta locații cu "%s". Această căutare necesită o conexiune la internet. Introduceți căutarea și apoi apăsați pe Enter.
+```
+
+
+## Translation Key: special_thanks_title
+```
+Special thanks
+```
+translated (by machine 🤖) as:
+```
+Multumiri speciale
+```
+
+
+## Translation Key: special_thanks_description
+```
+A special thank you to the people who helped me
+```
+translated (by machine 🤖) as:
+```
+Vă mulțumesc special celor care m-au ajutat
+```
+
+
+## Translation Key: thank_you_message
+```
+Special thanks to the people who worked hard to help with the app translations:
+%s
+…And also those who declined mention
+
+Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
+```
+translated (by machine 🤖) as:
+```
+Mulțumiri speciale celor care au muncit din greu pentru a ajuta la traducerea aplicațiilor:
+%s
+... Și, de asemenea, cei care au refuzat să menționeze
+
+De asemenea, vă mulțumesc tuturor utilizatorilor care mi-au dat feedback de-a lungul anilor și mi-au ajutat continuu să îmbunătățesc aplicația.
+```

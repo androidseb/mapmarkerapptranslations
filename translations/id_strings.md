@@ -4765,3 +4765,101 @@ translated (by machine 🤖) as:
 ```
 Ketik lebih banyak dan tekan enter lagi untuk hasil yang lebih baik
 ```
+
+
+## Translation Key: settings_search_provider_section_title
+```
+External search
+```
+translated (by machine 🤖) as:
+```
+Pencarian eksternal
+```
+
+
+## Translation Key: search_source
+```
+Search source
+```
+translated (by machine 🤖) as:
+```
+Sumber pencarian
+```
+
+
+## Translation Key: search_source_ntim
+```
+Map Marker's Nominatim server
+```
+translated (by machine 🤖) as:
+```
+Server Nominatim Map Marker
+```
+
+
+## Translation Key: search_source_gps
+```
+Google Places Search API
+```
+translated (by machine 🤖) as:
+```
+API Pencarian Google Places
+```
+
+
+## Translation Key: search_source_here
+```
+Here Places Search API
+```
+translated (by machine 🤖) as:
+```
+Here Places Search API
+```
+
+
+## Translation Key: google_search_not_started_text3
+```
+You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
+```
+translated (by machine 🤖) as:
+```
+Anda dapat mencari tempat dengan "%s". Pencarian ini membutuhkan koneksi internet. Masukkan pencarian Anda dan kemudian tekan enter.
+```
+
+
+## Translation Key: special_thanks_title
+```
+Special thanks
+```
+translated (by machine 🤖) as:
+```
+Terima kasih khusus
+```
+
+
+## Translation Key: special_thanks_description
+```
+A special thank you to the people who helped me
+```
+translated (by machine 🤖) as:
+```
+Terima kasih khusus kepada orang-orang yang membantu saya
+```
+
+
+## Translation Key: thank_you_message
+```
+Special thanks to the people who worked hard to help with the app translations:
+%s
+…And also those who declined mention
+
+Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
+```
+translated (by machine 🤖) as:
+```
+Terima kasih khusus kepada orang-orang yang bekerja keras untuk membantu terjemahan aplikasi:
+%s
+... Dan juga mereka yang menolak menyebutkan
+
+Juga, terima kasih kepada semua pengguna yang memberi saya umpan balik selama bertahun-tahun dan terus membantu saya membuat aplikasi lebih baik.
+```

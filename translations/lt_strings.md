@@ -4764,3 +4764,101 @@ translated (by machine 🤖) as:
 ```
 Įveskite daugiau ir spauskite dar kartą, kad gautumėte rafinuotų rezultatų
 ```
+
+
+## Translation Key: settings_search_provider_section_title
+```
+External search
+```
+translated (by machine 🤖) as:
+```
+Išorinė paieška
+```
+
+
+## Translation Key: search_source
+```
+Search source
+```
+translated (by machine 🤖) as:
+```
+Paieškos šaltinis
+```
+
+
+## Translation Key: search_source_ntim
+```
+Map Marker's Nominatim server
+```
+translated (by machine 🤖) as:
+```
+Map Marker „Nominatim“ serveris
+```
+
+
+## Translation Key: search_source_gps
+```
+Google Places Search API
+```
+translated (by machine 🤖) as:
+```
+„Google“ vietų paieškos API
+```
+
+
+## Translation Key: search_source_here
+```
+Here Places Search API
+```
+translated (by machine 🤖) as:
+```
+Here Places Search API
+```
+
+
+## Translation Key: google_search_not_started_text3
+```
+You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
+```
+translated (by machine 🤖) as:
+```
+Galite ieškoti vietų su „%s“. Ši paieška reikalauja interneto ryšio. Įveskite paiešką ir paspauskite Enter.
+```
+
+
+## Translation Key: special_thanks_title
+```
+Special thanks
+```
+translated (by machine 🤖) as:
+```
+Ypač ačiū
+```
+
+
+## Translation Key: special_thanks_description
+```
+A special thank you to the people who helped me
+```
+translated (by machine 🤖) as:
+```
+Ypač ačiū žmonėms, kurie man padėjo
+```
+
+
+## Translation Key: thank_you_message
+```
+Special thanks to the people who worked hard to help with the app translations:
+%s
+…And also those who declined mention
+
+Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
+```
+translated (by machine 🤖) as:
+```
+Ypatingai dėkojame žmonėms, kurie sunkiai dirbo, kad padėtų su programos vertimais:
+%s
+… Ir taip pat tie, kurie atsisakė paminėti
+
+Taip pat dėkoju visiems naudotojams, kurie per daug metų davė atsiliepimų ir nuolat padėjo geriau pritaikyti programą.
+```

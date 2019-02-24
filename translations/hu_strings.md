@@ -4765,3 +4765,101 @@ translated (by machine 🤖) as:
 ```
 Írjon be többet, és a kifinomult eredményekhez nyomja meg ismét az Enter billentyűt
 ```
+
+
+## Translation Key: settings_search_provider_section_title
+```
+External search
+```
+translated (by machine 🤖) as:
+```
+Külső keresés
+```
+
+
+## Translation Key: search_source
+```
+Search source
+```
+translated (by machine 🤖) as:
+```
+Keresési forrás
+```
+
+
+## Translation Key: search_source_ntim
+```
+Map Marker's Nominatim server
+```
+translated (by machine 🤖) as:
+```
+Map Marker Nominatim kiszolgálója
+```
+
+
+## Translation Key: search_source_gps
+```
+Google Places Search API
+```
+translated (by machine 🤖) as:
+```
+A Google Helyek keresése API
+```
+
+
+## Translation Key: search_source_here
+```
+Here Places Search API
+```
+translated (by machine 🤖) as:
+```
+Here Places Search API
+```
+
+
+## Translation Key: google_search_not_started_text3
+```
+You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
+```
+translated (by machine 🤖) as:
+```
+A (z) "%s" helyekkel kereshet. Ez a keresés internetkapcsolatot igényel. Adja meg a keresést, majd nyomja meg az Enter billentyűt.
+```
+
+
+## Translation Key: special_thanks_title
+```
+Special thanks
+```
+translated (by machine 🤖) as:
+```
+Külön köszönet
+```
+
+
+## Translation Key: special_thanks_description
+```
+A special thank you to the people who helped me
+```
+translated (by machine 🤖) as:
+```
+Külön köszönöm az embereket, akik segítettek nekem
+```
+
+
+## Translation Key: thank_you_message
+```
+Special thanks to the people who worked hard to help with the app translations:
+%s
+…And also those who declined mention
+
+Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
+```
+translated (by machine 🤖) as:
+```
+Külön köszönet azoknak az embereknek, akik keményen dolgoztak, hogy segítsenek az alkalmazás fordításaiban:
+%s
+… És azok is, akik elutasították
+
+Köszönjük mindazoknak a felhasználóknak, akik az évek során visszajelzést adtak nekem, és folyamatosan segítettek az alkalmazás jobbá tételében.
+```

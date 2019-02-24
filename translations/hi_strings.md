@@ -4765,3 +4765,101 @@ translated (by machine 🤖) as:
 ```
 अधिक टाइप करें और परिष्कृत परिणामों के लिए फिर से दर्ज करें
 ```
+
+
+## Translation Key: settings_search_provider_section_title
+```
+External search
+```
+translated (by machine 🤖) as:
+```
+बाहरी खोज
+```
+
+
+## Translation Key: search_source
+```
+Search source
+```
+translated (by machine 🤖) as:
+```
+खोज स्रोत
+```
+
+
+## Translation Key: search_source_ntim
+```
+Map Marker's Nominatim server
+```
+translated (by machine 🤖) as:
+```
+Map Marker का Nominatim सर्वर
+```
+
+
+## Translation Key: search_source_gps
+```
+Google Places Search API
+```
+translated (by machine 🤖) as:
+```
+Google स्थल खोज API
+```
+
+
+## Translation Key: search_source_here
+```
+Here Places Search API
+```
+translated (by machine 🤖) as:
+```
+Here Places Search API
+```
+
+
+## Translation Key: google_search_not_started_text3
+```
+You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
+```
+translated (by machine 🤖) as:
+```
+आप "%s" के साथ स्थानों की खोज कर सकते हैं। इस खोज के लिए इंटरनेट कनेक्शन की आवश्यकता होती है। अपनी खोज दर्ज करें और फिर हिट दर्ज करें।
+```
+
+
+## Translation Key: special_thanks_title
+```
+Special thanks
+```
+translated (by machine 🤖) as:
+```
+विशेष धन्यवाद
+```
+
+
+## Translation Key: special_thanks_description
+```
+A special thank you to the people who helped me
+```
+translated (by machine 🤖) as:
+```
+एक विशेष धन्यवाद उन लोगों के लिए जिन्होंने मेरी मदद की
+```
+
+
+## Translation Key: thank_you_message
+```
+Special thanks to the people who worked hard to help with the app translations:
+%s
+…And also those who declined mention
+
+Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
+```
+translated (by machine 🤖) as:
+```
+उन लोगों के लिए विशेष धन्यवाद जिन्होंने ऐप अनुवाद में मदद करने के लिए कड़ी मेहनत की:
+%s
+... और उन लोगों का भी जिन्होंने उल्लेख करने से इनकार कर दिया
+
+इसके अलावा, उन सभी उपयोगकर्ताओं को धन्यवाद जिन्होंने मुझे वर्षों में प्रतिक्रिया दी और लगातार मुझे ऐप को बेहतर बनाने में मदद की।
+```

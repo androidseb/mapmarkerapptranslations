@@ -4765,3 +4765,101 @@ translated (by machine 🤖) as:
 ```
 more를 입력하고 Enter 키를 다시 누르면 세련된 결과가 나타납니다.
 ```
+
+
+## Translation Key: settings_search_provider_section_title
+```
+External search
+```
+translated (by machine 🤖) as:
+```
+외부 검색
+```
+
+
+## Translation Key: search_source
+```
+Search source
+```
+translated (by machine 🤖) as:
+```
+검색 소스
+```
+
+
+## Translation Key: search_source_ntim
+```
+Map Marker's Nominatim server
+```
+translated (by machine 🤖) as:
+```
+Map Marker 님의 Nominatim 서버
+```
+
+
+## Translation Key: search_source_gps
+```
+Google Places Search API
+```
+translated (by machine 🤖) as:
+```
+Google 지역 정보 검색 API
+```
+
+
+## Translation Key: search_source_here
+```
+Here Places Search API
+```
+translated (by machine 🤖) as:
+```
+Here Places Search API
+```
+
+
+## Translation Key: google_search_not_started_text3
+```
+You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
+```
+translated (by machine 🤖) as:
+```
+"%s"이 (가)있는 장소를 검색 할 수 있습니다. 이 검색에는 인터넷 연결이 필요합니다. 검색을 입력 한 다음 Enter 키를 누릅니다.
+```
+
+
+## Translation Key: special_thanks_title
+```
+Special thanks
+```
+translated (by machine 🤖) as:
+```
+특별 감사
+```
+
+
+## Translation Key: special_thanks_description
+```
+A special thank you to the people who helped me
+```
+translated (by machine 🤖) as:
+```
+특별한 도움을 주신 사람들에게 감사드립니다.
+```
+
+
+## Translation Key: thank_you_message
+```
+Special thanks to the people who worked hard to help with the app translations:
+%s
+…And also those who declined mention
+
+Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
+```
+translated (by machine 🤖) as:
+```
+앱 번역을 돕기 위해 열심히 노력한 사람들에게 감사드립니다.
+%s
+... 그리고 언급을 거절 한 사람들
+
+또한 수년 동안 저에게 의견을 보내 주신 모든 사용자에게 감사 드리며 지속적으로 앱을 개선하는 데 지속적으로 도움이되었습니다.
+```
