@@ -4863,3 +4863,13 @@ Specjalne podziękowania dla osób, które ciężko pracowały, aby pomóc w tł
 
 Dziękuję również wszystkim użytkownikom, którzy udzielili mi opinii na przestrzeni lat i ciągle pomagali mi ulepszyć aplikację.
 ```
+
+
+## Translation Key: search_source_pelias
+```
+Map Marker's Pelias server
+```
+translated (by machine 🤖) as:
+```
+Serwer Pelias Map Marker
+```

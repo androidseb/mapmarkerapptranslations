@@ -4863,3 +4863,13 @@ Särskilt tack till de personer som jobbat hårt för att hjälpa till med appov
 
 Tack också till alla användare som gav mig feedback genom åren och hjälpte mig kontinuerligt att göra appen bättre.
 ```
+
+
+## Translation Key: search_source_pelias
+```
+Map Marker's Pelias server
+```
+translated (by machine 🤖) as:
+```
+Map Marker: s Pelias-server
+```

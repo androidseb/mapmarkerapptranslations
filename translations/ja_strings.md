@@ -4864,3 +4864,13 @@ translated (by machine 🤖) as:
 
 また、何年にもわたって私にフィードバックをしてくれ、継続的に私がアプリをより良くするのを助けてくれたすべてのユーザーに感謝します。
 ```
+
+
+## Translation Key: search_source_pelias
+```
+Map Marker's Pelias server
+```
+translated (by machine 🤖) as:
+```
+Map MarkerのPeliasサーバー
+```

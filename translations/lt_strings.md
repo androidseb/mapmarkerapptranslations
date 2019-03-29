@@ -4862,3 +4862,13 @@ Ypatingai dėkojame žmonėms, kurie sunkiai dirbo, kad padėtų su programos ve
 
 Taip pat dėkoju visiems naudotojams, kurie per daug metų davė atsiliepimų ir nuolat padėjo geriau pritaikyti programą.
 ```
+
+
+## Translation Key: search_source_pelias
+```
+Map Marker's Pelias server
+```
+translated (by machine 🤖) as:
+```
+Map Marker „Pelias“ serveris
+```

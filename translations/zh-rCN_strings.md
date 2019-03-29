@@ -4863,3 +4863,13 @@ translated (by machine 🤖) as:
 
 此外，感谢所有多年来给我反馈的用户，并不断帮助我改进应用程序。
 ```
+
+
+## Translation Key: search_source_pelias
+```
+Map Marker's Pelias server
+```
+translated (by machine 🤖) as:
+```
+Map Marker的Pelias服务器
+```

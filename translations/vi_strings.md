@@ -4863,3 +4863,13 @@ Và cũng là những người từ chối đề cập đến
 
 Ngoài ra, cảm ơn tất cả những người dùng đã cho tôi phản hồi trong những năm qua và liên tục giúp tôi làm cho ứng dụng tốt hơn.
 ```
+
+
+## Translation Key: search_source_pelias
+```
+Map Marker's Pelias server
+```
+translated (by machine 🤖) as:
+```
+Máy chủ Pelias của Map Marker
+```

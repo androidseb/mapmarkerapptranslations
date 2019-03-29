@@ -4863,3 +4863,13 @@ Posebno zahvaljujemo ljudima koji su naporno radili kako bi pomogli pri prijevod
 
 Također, hvala svim korisnicima koji su mi davali povratne informacije tijekom godina i stalno su mi pomagali da poboljšam aplikaciju.
 ```
+
+
+## Translation Key: search_source_pelias
+```
+Map Marker's Pelias server
+```
+translated (by machine 🤖) as:
+```
+Map Marker's Pelias poslužitelj
+```

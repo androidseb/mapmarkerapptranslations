@@ -4863,3 +4863,13 @@ translated (by machine 🤖) as:
 
 Arī paldies visiem lietotājiem, kuri gadu gaitā sniedza man atsauksmes un nepārtraukti palīdzēja man padarīt lietotni labāku.
 ```
+
+
+## Translation Key: search_source_pelias
+```
+Map Marker's Pelias server
+```
+translated (by machine 🤖) as:
+```
+Map Marker Pelias serveris
+```

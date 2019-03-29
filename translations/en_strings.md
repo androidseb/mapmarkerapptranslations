@@ -1,4 +1,4 @@
-# Map Marker translations for Korean (ko)
+# Map Marker translations for English (en)
 
 You want to help improve this translation file? Read the [main page](https://github.com/androidseb/mapmarkerapptranslations)
 
@@ -19,7 +19,7 @@ Yes
 ```
 translated (by machine 🤖) as:
 ```
-예
+Yes
 ```
 
 
@@ -29,7 +29,7 @@ No
 ```
 translated (by machine 🤖) as:
 ```
-아니
+No
 ```
 
 
@@ -39,7 +39,7 @@ Cancel
 ```
 translated (by machine 🤖) as:
 ```
-취소
+Cancel
 ```
 
 
@@ -49,7 +49,7 @@ New marker
 ```
 translated (by machine 🤖) as:
 ```
-새로운 마커
+New marker
 ```
 
 
@@ -59,7 +59,7 @@ Title
 ```
 translated (by machine 🤖) as:
 ```
-이름
+Title
 ```
 
 
@@ -69,7 +69,7 @@ Description
 ```
 translated (by machine 🤖) as:
 ```
-기술
+Description
 ```
 
 
@@ -79,7 +79,7 @@ Do you really want to delete this marker?
 ```
 translated (by machine 🤖) as:
 ```
-당신은 정말이 마커를 삭제 하시겠습니까?
+Do you really want to delete this marker?
 ```
 
 
@@ -89,7 +89,7 @@ GPS coordinates
 ```
 translated (by machine 🤖) as:
 ```
-GPS 좌표
+GPS coordinates
 ```
 
 
@@ -99,7 +99,7 @@ Could not copy coordinates to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-좌표를 클립 보드에 복사 할 수 없습니다
+Could not copy coordinates to clipboard
 ```
 
 
@@ -109,7 +109,7 @@ Coordinates copied to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-클립 보드에 복사 한 좌표
+Coordinates copied to clipboard
 ```
 
 
@@ -119,7 +119,7 @@ Failed to access application save directory. Make sure that your device is not b
 ```
 translated (by machine 🤖) as:
 ```
-저장 디렉토리 응용 프로그램에 액세스 할 수 없습니다. 장치가 USB 케이블로 컴퓨터에 액세스하고 있지 않은지 확인하고 응용 프로그램을 다시 시작합니다.
+Failed to access application save directory. Make sure that your device is not being accessed by a computer with the USB cable, and restart the app.
 ```
 
 
@@ -129,7 +129,7 @@ Untitled
 ```
 translated (by machine 🤖) as:
 ```
-제목 없음
+Untitled
 ```
 
 
@@ -139,7 +139,7 @@ All
 ```
 translated (by machine 🤖) as:
 ```
-모든
+All
 ```
 
 
@@ -149,7 +149,7 @@ Add folder
 ```
 translated (by machine 🤖) as:
 ```
-폴더 추가
+Add folder
 ```
 
 
@@ -159,7 +159,7 @@ Modify folder
 ```
 translated (by machine 🤖) as:
 ```
-폴더를 수정
+Modify folder
 ```
 
 
@@ -169,7 +169,7 @@ Are you sure you want to delete this folder? All markers associated to this fold
 ```
 translated (by machine 🤖) as:
 ```
-이 폴더를 삭제 하시겠습니까? 이 폴더에 관련된 모든 마커는 영구적으로 삭제됩니다!
+Are you sure you want to delete this folder? All markers associated to this folder will be deleted permanently!
 ```
 
 
@@ -179,7 +179,7 @@ Failed to create new folder, it already exists
 ```
 translated (by machine 🤖) as:
 ```
-새 폴더를 만들 수 없습니다, 그것은 이미 존재
+Failed to create new folder, it already exists
 ```
 
 
@@ -189,7 +189,7 @@ Failed to rename the folder, the destination name already exists
 ```
 translated (by machine 🤖) as:
 ```
-폴더의 이름을 변경하는 데 실패, 대상 이름이 이미 존재합니다
+Failed to rename the folder, the destination name already exists
 ```
 
 
@@ -199,7 +199,7 @@ Latitude:
 ```
 translated (by machine 🤖) as:
 ```
-위도 :
+Latitude:
 ```
 
 
@@ -209,7 +209,7 @@ Longitude:
 ```
 translated (by machine 🤖) as:
 ```
-경도 :
+Longitude:
 ```
 
 
@@ -219,7 +219,7 @@ Could not write file.
 ```
 translated (by machine 🤖) as:
 ```
-파일을 쓸 수 없습니다.
+Could not write file.
 ```
 
 
@@ -229,7 +229,7 @@ Import/Export
 ```
 translated (by machine 🤖) as:
 ```
-가져 오기 / 내보내기
+Import/Export
 ```
 
 
@@ -239,7 +239,7 @@ Import markers
 ```
 translated (by machine 🤖) as:
 ```
-가져 오기 마커
+Import markers
 ```
 
 
@@ -249,7 +249,7 @@ File imported successfully
 ```
 translated (by machine 🤖) as:
 ```
-파일을 성공적으로 가져
+File imported successfully
 ```
 
 
@@ -259,7 +259,7 @@ File import failed
 ```
 translated (by machine 🤖) as:
 ```
-파일 가져 오기 실패
+File import failed
 ```
 
 
@@ -269,7 +269,7 @@ Location services
 ```
 translated (by machine 🤖) as:
 ```
-위치 서비스
+Location services
 ```
 
 
@@ -279,7 +279,7 @@ Location services are disabled. To get your current location you must enable the
 ```
 translated (by machine 🤖) as:
 ```
-위치 서비스는 사용할 수 없습니다. 현재 위치를 얻으려면 당신이 그들을 사용하도록 설정해야합니다.
+Location services are disabled. To get your current location you must enable them.
 ```
 
 
@@ -289,7 +289,7 @@ Could not find address
 ```
 translated (by machine 🤖) as:
 ```
-주소를 찾을 수 없습니다
+Could not find address
 ```
 
 
@@ -299,7 +299,7 @@ Searching&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-검색 중&#8230;
+Searching&#8230;
 ```
 
 
@@ -309,7 +309,7 @@ Search
 ```
 translated (by machine 🤖) as:
 ```
-수색
+Search
 ```
 
 
@@ -319,7 +319,7 @@ Share via
 ```
 translated (by machine 🤖) as:
 ```
-를 통해 공유
+Share via
 ```
 
 
@@ -329,7 +329,7 @@ Do you want to import the content of this file?
 ```
 translated (by machine 🤖) as:
 ```
-이 파일의 내용을 가져 하시겠습니까?
+Do you want to import the content of this file?
 ```
 
 
@@ -339,7 +339,7 @@ Folder name
 ```
 translated (by machine 🤖) as:
 ```
-폴더 이름
+Folder name
 ```
 
 
@@ -349,7 +349,7 @@ Save
 ```
 translated (by machine 🤖) as:
 ```
-저장
+Save
 ```
 
 
@@ -359,7 +359,7 @@ Close
 ```
 translated (by machine 🤖) as:
 ```
-가까운
+Close
 ```
 
 
@@ -369,7 +369,7 @@ Are you sure you want to delete the selected markers?
 ```
 translated (by machine 🤖) as:
 ```
-당신이 선택한 마커를 삭제 하시겠습니까?
+Are you sure you want to delete the selected markers?
 ```
 
 
@@ -379,7 +379,7 @@ Move markers to folder
 ```
 translated (by machine 🤖) as:
 ```
-폴더로 마커를 이동
+Move markers to folder
 ```
 
 
@@ -389,7 +389,7 @@ Share
 ```
 translated (by machine 🤖) as:
 ```
-몫
+Share
 ```
 
 
@@ -399,7 +399,7 @@ Folder:
 ```
 translated (by machine 🤖) as:
 ```
-폴더 :
+Folder:
 ```
 
 
@@ -409,7 +409,7 @@ Snapshot of my markers on Map Marker
 ```
 translated (by machine 🤖) as:
 ```
-내 마커의 스냅 샷 Map Marker
+Snapshot of my markers on Map Marker
 ```
 
 
@@ -420,8 +420,8 @@ This snapshot was made with the app Map Marker:
 ```
 translated (by machine 🤖) as:
 ```
-이 스냅 샷은 응용 프로그램과 함께 만들어진 Map Marker : 
- %s
+This snapshot was made with the app Map Marker:
+%s
 ```
 
 
@@ -431,7 +431,7 @@ Processing data&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-데이터 처리 중&#8230;
+Processing data&#8230;
 ```
 
 
@@ -441,7 +441,7 @@ You have unsaved modifications, do you want to save them?
 ```
 translated (by machine 🤖) as:
 ```
-당신은 저장되지 않은 수정이 당신이 그들을 저장 하시겠습니까?
+You have unsaved modifications, do you want to save them?
 ```
 
 
@@ -451,7 +451,7 @@ Use the long press on the map to create a new marker
 ```
 translated (by machine 🤖) as:
 ```
-새로운 마커를 만들지도를 길게 누르면 사용
+Use the long press on the map to create a new marker
 ```
 
 
@@ -461,7 +461,7 @@ Map type
 ```
 translated (by machine 🤖) as:
 ```
-지도 유형
+Map type
 ```
 
 
@@ -471,7 +471,7 @@ Normal
 ```
 translated (by machine 🤖) as:
 ```
-표준
+Normal
 ```
 
 
@@ -481,7 +481,7 @@ Satellite
 ```
 translated (by machine 🤖) as:
 ```
-위성
+Satellite
 ```
 
 
@@ -491,7 +491,7 @@ Terrain
 ```
 translated (by machine 🤖) as:
 ```
-지역
+Terrain
 ```
 
 
@@ -501,7 +501,7 @@ Hybrid
 ```
 translated (by machine 🤖) as:
 ```
-잡종
+Hybrid
 ```
 
 
@@ -512,8 +512,8 @@ Send me an email :-)
 ```
 translated (by machine 🤖) as:
 ```
-문제 발견? 개선 아이디어가? 
- 나에게 보내기 email :-)
+Found a problem? Have an idea of improvement?
+Send me an email :-)
 ```
 
 
@@ -523,7 +523,7 @@ Send email&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-보내기 email&#8230;
+Send email&#8230;
 ```
 
 
@@ -534,8 +534,8 @@ Rate it 5 stars :-)
 ```
 translated (by machine 🤖) as:
 ```
-당신은 응용 프로그램을 좋아하세요? 
- 비율 그것을 별 5 개를 :-)
+You like the app?
+Rate it 5 stars :-)
 ```
 
 
@@ -545,7 +545,7 @@ Change folder to&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-에 폴더를 변경&#8230;
+Change folder to&#8230;
 ```
 
 
@@ -555,7 +555,7 @@ Directions
 ```
 translated (by machine 🤖) as:
 ```
-오시는 길
+Directions
 ```
 
 
@@ -565,7 +565,7 @@ Acquiring location&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-위치를 획득&#8230;
+Acquiring location&#8230;
 ```
 
 
@@ -575,7 +575,7 @@ Meters
 ```
 translated (by machine 🤖) as:
 ```
-미터
+Meters
 ```
 
 
@@ -585,7 +585,7 @@ Km
 ```
 translated (by machine 🤖) as:
 ```
-km
+Km
 ```
 
 
@@ -595,7 +595,7 @@ Feet
 ```
 translated (by machine 🤖) as:
 ```
-피트
+Feet
 ```
 
 
@@ -605,7 +605,7 @@ Miles
 ```
 translated (by machine 🤖) as:
 ```
-마일
+Miles
 ```
 
 
@@ -615,7 +615,7 @@ Adjust map camera position when guiding to a marker location
 ```
 translated (by machine 🤖) as:
 ```
-마커의 위치를​​ 안내 할 때지도 카메라 위치를 조정
+Adjust map camera position when guiding to a marker location
 ```
 
 
@@ -625,7 +625,7 @@ Keep screen on when guiding to a marker location
 ```
 translated (by machine 🤖) as:
 ```
-마커 위치로 안내하는 경우에 화면을 유지
+Keep screen on when guiding to a marker location
 ```
 
 
@@ -635,7 +635,7 @@ Marker details copied to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-마커 정보는 클립 보드에 복사
+Marker details copied to clipboard
 ```
 
 
@@ -645,7 +645,7 @@ Long press to drag and move the marker
 ```
 translated (by machine 🤖) as:
 ```
-길게 눌러 드래그 앤 마커를 이동
+Long press to drag and move the marker
 ```
 
 
@@ -655,7 +655,7 @@ Error starting internal task manager, app will now exit
 ```
 translated (by machine 🤖) as:
 ```
-내부 작업 관리자를 시작 오류 응용 프로그램은 종료 지금 것이다
+Error starting internal task manager, app will now exit
 ```
 
 
@@ -665,7 +665,7 @@ Do not show again
 ```
 translated (by machine 🤖) as:
 ```
-다시 표시하지 않음
+Do not show again
 ```
 
 
@@ -675,7 +675,7 @@ Could not create the map capture
 ```
 translated (by machine 🤖) as:
 ```
-지도 캡처를 만들 수 없습니다
+Could not create the map capture
 ```
 
 
@@ -685,7 +685,7 @@ Metric (Kilometers/Meters)
 ```
 translated (by machine 🤖) as:
 ```
-미터 (킬로미터 / 미터)
+Metric (Kilometers/Meters)
 ```
 
 
@@ -695,7 +695,7 @@ Imperial (Miles/Feet)
 ```
 translated (by machine 🤖) as:
 ```
-제국 (마일 / 피트)
+Imperial (Miles/Feet)
 ```
 
 
@@ -705,7 +705,7 @@ There is a problem with Google Play Services: it needs to be installed, updated 
 ```
 translated (by machine 🤖) as:
 ```
-에 문제가 있습니다 Google Play Services : 그것은 설치, 업데이트 또는 활성화 될 필요가있다. 시도하고 그것을 해결하려면 확인을 클릭합니다.
+There is a problem with Google Play Services: it needs to be installed, updated or activated. Click OK to try and solve it.
 ```
 
 
@@ -715,7 +715,7 @@ Delete folder
 ```
 translated (by machine 🤖) as:
 ```
-폴더를 삭제
+Delete folder
 ```
 
 
@@ -725,7 +725,7 @@ If you like my app you can reward me by taking the time to give a good rating :-
 ```
 translated (by machine 🤖) as:
 ```
-당신이 내 응용 프로그램을 좋아하는 경우에 당신은 좋은 평가를 제공하기 위해 시간을내어 나를 보답 :-)
+If you like my app you can reward me by taking the time to give a good rating :-)
 ```
 
 
@@ -736,8 +736,8 @@ to the Play Store
 ```
 translated (by machine 🤖) as:
 ```
-OK 나에게 걸릴 
- 에게 Play Store
+OK take me
+to the Play Store
 ```
 
 
@@ -748,8 +748,8 @@ gave a rating
 ```
 translated (by machine 🤖) as:
 ```
-이미 
- 점을 받았습니다
+I already
+gave a rating
 ```
 
 
@@ -760,8 +760,8 @@ remind me
 ```
 translated (by machine 🤖) as:
 ```
-아마 나중에 
- 를 생각 나게
+Maybe later
+remind me
 ```
 
 
@@ -772,8 +772,8 @@ do not remind me
 ```
 translated (by machine 🤖) as:
 ```
-아마 나중에 
- 를 생각 나게하지 않습니다
+Maybe later
+do not remind me
 ```
 
 
@@ -783,7 +783,7 @@ Could not find the place
 ```
 translated (by machine 🤖) as:
 ```
-장소를 찾을 수 없습니다
+Could not find the place
 ```
 
 
@@ -793,7 +793,7 @@ Could not find another map application
 ```
 translated (by machine 🤖) as:
 ```
-다른지도 응용 프로그램을 찾을 수 없습니다
+Could not find another map application
 ```
 
 
@@ -803,7 +803,7 @@ Move the map around to place your marker where you want and click OK to place it
 ```
 translated (by machine 🤖) as:
 ```
-당신이 원하는 당신의 마커를 배치하는 주변의지도를 이동하여 배치 확인을 클릭합니다
+Move the map around to place your marker where you want and click OK to place it.
 ```
 
 
@@ -813,7 +813,7 @@ Imported marker
 ```
 translated (by machine 🤖) as:
 ```
-수입 마커
+Imported marker
 ```
 
 
@@ -823,7 +823,7 @@ Settings
 ```
 translated (by machine 🤖) as:
 ```
-설정
+Settings
 ```
 
 
@@ -833,7 +833,7 @@ Display zoom buttons
 ```
 translated (by machine 🤖) as:
 ```
-디스플레이 줌 버튼
+Display zoom buttons
 ```
 
 
@@ -843,7 +843,7 @@ Decimal degrees
 ```
 translated (by machine 🤖) as:
 ```
-진수도
+Decimal degrees
 ```
 
 
@@ -853,7 +853,7 @@ Degrees decimal minutes
 ```
 translated (by machine 🤖) as:
 ```
-소수점 분 학위
+Degrees decimal minutes
 ```
 
 
@@ -863,7 +863,7 @@ Degrees minutes seconds
 ```
 translated (by machine 🤖) as:
 ```
-분 초 학위
+Degrees minutes seconds
 ```
 
 
@@ -873,7 +873,7 @@ Coordinates format
 ```
 translated (by machine 🤖) as:
 ```
-좌표 형식
+Coordinates format
 ```
 
 
@@ -883,7 +883,7 @@ GPS and wireless networks only
 ```
 translated (by machine 🤖) as:
 ```
-GPS 및 무선 네트워크 만
+GPS and wireless networks only
 ```
 
 
@@ -893,7 +893,7 @@ GPS and wireless networks or magnetic sensor
 ```
 translated (by machine 🤖) as:
 ```
-GPS 및 무선 네트워크 또는 자기 센서
+GPS and wireless networks or magnetic sensor
 ```
 
 
@@ -903,7 +903,7 @@ Magnetic sensor only
 ```
 translated (by machine 🤖) as:
 ```
-자기 센서 만
+Magnetic sensor only
 ```
 
 
@@ -913,7 +913,7 @@ Used compass sensor
 ```
 translated (by machine 🤖) as:
 ```
-중고 나침반 센서
+Used compass sensor
 ```
 
 
@@ -923,7 +923,7 @@ FAQ/Help
 ```
 translated (by machine 🤖) as:
 ```
-FAQ / 도움말
+FAQ/Help
 ```
 
 
@@ -933,7 +933,7 @@ Folders
 ```
 translated (by machine 🤖) as:
 ```
-폴더
+Folders
 ```
 
 
@@ -943,7 +943,7 @@ Help and settings
 ```
 translated (by machine 🤖) as:
 ```
-도움말 및 설정
+Help and settings
 ```
 
 
@@ -953,7 +953,7 @@ Language
 ```
 translated (by machine 🤖) as:
 ```
-언어
+Language
 ```
 
 
@@ -963,7 +963,7 @@ Marker popup style
 ```
 translated (by machine 🤖) as:
 ```
-마커 팝업 스타일
+Marker popup style
 ```
 
 
@@ -973,7 +973,7 @@ Bottom
 ```
 translated (by machine 🤖) as:
 ```
-바닥
+Bottom
 ```
 
 
@@ -983,7 +983,7 @@ Bubble
 ```
 translated (by machine 🤖) as:
 ```
-거품
+Bubble
 ```
 
 
@@ -993,7 +993,7 @@ Coordinates
 ```
 translated (by machine 🤖) as:
 ```
-좌표
+Coordinates
 ```
 
 
@@ -1003,7 +1003,7 @@ Contextual
 ```
 translated (by machine 🤖) as:
 ```
-콘텐츠
+Contextual
 ```
 
 
@@ -1013,7 +1013,7 @@ Always
 ```
 translated (by machine 🤖) as:
 ```
-항상
+Always
 ```
 
 
@@ -1023,7 +1023,7 @@ Crosshair display
 ```
 translated (by machine 🤖) as:
 ```
-십자선 표시
+Crosshair display
 ```
 
 
@@ -1033,7 +1033,7 @@ Coordinates window
 ```
 translated (by machine 🤖) as:
 ```
-좌표 창
+Coordinates window
 ```
 
 
@@ -1043,7 +1043,7 @@ Lat:
 ```
 translated (by machine 🤖) as:
 ```
-위도 :
+Lat:
 ```
 
 
@@ -1053,7 +1053,7 @@ Lng:
 ```
 translated (by machine 🤖) as:
 ```
-LNG 선 :
+Lng:
 ```
 
 
@@ -1063,7 +1063,7 @@ Marker instant adding mode
 ```
 translated (by machine 🤖) as:
 ```
-모드를 추가 마커 인스턴트
+Marker instant adding mode
 ```
 
 
@@ -1073,7 +1073,7 @@ Advanced
 ```
 translated (by machine 🤖) as:
 ```
-고급
+Advanced
 ```
 
 
@@ -1083,7 +1083,7 @@ Display
 ```
 translated (by machine 🤖) as:
 ```
-디스플레이
+Display
 ```
 
 
@@ -1093,7 +1093,7 @@ Actions
 ```
 translated (by machine 🤖) as:
 ```
-행위
+Actions
 ```
 
 
@@ -1103,7 +1103,7 @@ Language and units
 ```
 translated (by machine 🤖) as:
 ```
-언어 및 단위
+Language and units
 ```
 
 
@@ -1113,7 +1113,7 @@ Markers ignored on import (duplicates): %1$d
 ```
 translated (by machine 🤖) as:
 ```
-수입 무시 마커 (중복) : %1$d
+Markers ignored on import (duplicates): %1$d
 ```
 
 
@@ -1123,7 +1123,7 @@ translated (by machine 🤖) as:
 ```
 translated (by machine 🤖) as:
 ```
-%1$d 마커
+%1$d markers
 ```
 
 
@@ -1133,7 +1133,7 @@ No auto naming
 ```
 translated (by machine 🤖) as:
 ```
-없음 자동 명명되지
+No auto naming
 ```
 
 
@@ -1143,7 +1143,7 @@ Auto naming "number"
 ```
 translated (by machine 🤖) as:
 ```
-자동 이름 지정 "수"
+Auto naming "number"
 ```
 
 
@@ -1153,7 +1153,7 @@ Auto naming "Marker number"
 ```
 translated (by machine 🤖) as:
 ```
-자동 이름 지정 "마커 번호"
+Auto naming "Marker number"
 ```
 
 
@@ -1163,7 +1163,7 @@ New marker auto naming
 ```
 translated (by machine 🤖) as:
 ```
-새로운 마커 자동 이름 지정
+New marker auto naming
 ```
 
 
@@ -1173,7 +1173,7 @@ Marker %1$d
 ```
 translated (by machine 🤖) as:
 ```
-마커 %1$d
+Marker %1$d
 ```
 
 
@@ -1183,7 +1183,7 @@ Waiting for location&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-위치 기다리는 중&#8230;
+Waiting for location&#8230;
 ```
 
 
@@ -1193,7 +1193,7 @@ Open the help page and see the FAQ
 ```
 translated (by machine 🤖) as:
 ```
-도움말 페이지를 열고 FAQ를 참조하십시오
+Open the help page and see the FAQ
 ```
 
 
@@ -1203,7 +1203,7 @@ Features
 ```
 translated (by machine 🤖) as:
 ```
-특징
+Features
 ```
 
 
@@ -1213,7 +1213,7 @@ View the list of upcoming features for the next app version
 ```
 translated (by machine 🤖) as:
 ```
-응용 프로그램의 다음 버전에 곧 기능 목록보기
+View the list of upcoming features for the next app version
 ```
 
 
@@ -1223,7 +1223,7 @@ Help &amp; Feedback
 ```
 translated (by machine 🤖) as:
 ```
-도움말 및 피드백
+Help &amp; Feedback
 ```
 
 
@@ -1233,7 +1233,7 @@ About
 ```
 translated (by machine 🤖) as:
 ```
-약
+About
 ```
 
 
@@ -1243,7 +1243,7 @@ Distance to %1$s
 ```
 translated (by machine 🤖) as:
 ```
-까지의 거리 %1$s
+Distance to %1$s
 ```
 
 
@@ -1253,7 +1253,7 @@ Snapshot
 ```
 translated (by machine 🤖) as:
 ```
-스냅 사진
+Snapshot
 ```
 
 
@@ -1263,7 +1263,7 @@ Share a snapshot of the map
 ```
 translated (by machine 🤖) as:
 ```
-지도의 스냅 샷을 공유하기
+Share a snapshot of the map
 ```
 
 
@@ -1273,7 +1273,7 @@ All markers and folders
 ```
 translated (by machine 🤖) as:
 ```
-모든 마커 및 폴더
+All markers and folders
 ```
 
 
@@ -1283,7 +1283,7 @@ translated (by machine 🤖) as:
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;HTML&gt; &lt;BODY&gt; &lt;b&gt;를 나침반에 적절한 북쪽으로 방향을 얻기 위하여, 당신은 제대로 당신에게 전화를 교정 할 필요가있다. 휴대 전화를 교정하려면 &lt;BR&gt; 단순히 팔을 그려 주위를 이동 . 움직임은 폭이 더 나은 효율을 약 3 번 반복해야합니다. 당신은 어떤 시간에 이렇게 당신에게 전화를 보정 할 수 있습니다 그림입니다. &lt;/ B&gt;의 &lt;br&gt; 교정은 한계를 가지고 충분하지 않을 수도 있습니다 로 &lt;br&gt; • 큰 금속 물체로 &lt;br&gt; 자동차 / 버스 / 기차 / 비행기의 내부 • • 자석의 &lt;br&gt; • 전자 기기 &lt;/ BODY&gt; &lt;/ HTML&gt;과 같은 근처의 간섭을 반대합니다
+<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
 ```
 
 
@@ -1293,7 +1293,7 @@ Badges
 ```
 translated (by machine 🤖) as:
 ```
-배지
+Badges
 ```
 
 
@@ -1303,7 +1303,7 @@ Buy a donation badge
 ```
 translated (by machine 🤖) as:
 ```
-기부 배지를 구입
+Buy a donation badge
 ```
 
 
@@ -1313,7 +1313,7 @@ Thank you for your donation! This donation badge grants you access to premium fe
 ```
 translated (by machine 🤖) as:
 ```
-기부 주셔서 감사합니다! 당신이 프리미엄에 접근이 기부 배지 보조금은 기능 :-)
+Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
 
 
@@ -1323,7 +1323,7 @@ Default folder
 ```
 translated (by machine 🤖) as:
 ```
-기본 폴더
+Default folder
 ```
 
 
@@ -1333,7 +1333,7 @@ Sync options
 ```
 translated (by machine 🤖) as:
 ```
-동기화 옵션
+Sync options
 ```
 
 
@@ -1343,7 +1343,7 @@ Google Drive
 ```
 translated (by machine 🤖) as:
 ```
-구글 드라이브
+Google Drive
 ```
 
 
@@ -1353,7 +1353,7 @@ Dropbox
 ```
 translated (by machine 🤖) as:
 ```
-보관
+Dropbox
 ```
 
 
@@ -1363,7 +1363,7 @@ Configuring&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-구성&#8230;
+Configuring&#8230;
 ```
 
 
@@ -1373,7 +1373,7 @@ Sync now
 ```
 translated (by machine 🤖) as:
 ```
-지금 동기화
+Sync now
 ```
 
 
@@ -1383,7 +1383,7 @@ Never
 ```
 translated (by machine 🤖) as:
 ```
-어머 놀랐다
+Never
 ```
 
 
@@ -1393,7 +1393,7 @@ Syncing…
 ```
 translated (by machine 🤖) as:
 ```
-동기화&#8230;
+Syncing…
 ```
 
 
@@ -1403,7 +1403,7 @@ Select folder
 ```
 translated (by machine 🤖) as:
 ```
-폴더 선택
+Select folder
 ```
 
 
@@ -1413,7 +1413,7 @@ Load error
 ```
 translated (by machine 🤖) as:
 ```
-로드 오류
+Load error
 ```
 
 
@@ -1423,7 +1423,7 @@ Retry
 ```
 translated (by machine 🤖) as:
 ```
-재시도
+Retry
 ```
 
 
@@ -1433,7 +1433,7 @@ Root
 ```
 translated (by machine 🤖) as:
 ```
-뿌리
+Root
 ```
 
 
@@ -1443,7 +1443,7 @@ Shared
 ```
 translated (by machine 🤖) as:
 ```
-공유
+Shared
 ```
 
 
@@ -1453,7 +1453,7 @@ Purchase successful!
 ```
 translated (by machine 🤖) as:
 ```
-성공적인 구입!
+Purchase successful!
 ```
 
 
@@ -1463,7 +1463,7 @@ Purchase failed: %1$s
 ```
 translated (by machine 🤖) as:
 ```
-구매 실패 : %1$s
+Purchase failed: %1$s
 ```
 
 
@@ -1473,7 +1473,7 @@ Premium access available! You currently have access to premium features.
 ```
 translated (by machine 🤖) as:
 ```
-프리미엄 액세스 가능합니다! 당신은 현재 프리미엄 기능에 액세스 할 수 있습니다.
+Premium access available! You currently have access to premium features.
 ```
 
 
@@ -1483,7 +1483,7 @@ You cannot select that folder because it contains multiple files named %1$s. The
 ```
 translated (by machine 🤖) as:
 ```
-이 이름이 여러 개의 파일이 포함되어 있기 때문에 해당 폴더를 선택할 수 없습니다 %1$s . 동기는 그 이름 만 하나의 파일을 포함하는 폴더를 필요로한다.
+You cannot select that folder because it contains multiple files named %1$s. The sync requires the folder to contain only one file with that name.
 ```
 
 
@@ -1493,7 +1493,7 @@ It seems sync data already exists in that folder. If you select that folder, you
 ```
 translated (by machine 🤖) as:
 ```
-그것은 동기화 데이터가 이미 해당 폴더에 존재하는 것 같다. 해당 폴더를 선택하면 동기화를 수행 할 때, 해당 지역의 데이터 폴더의 데이터와 병합됩니다. 당신이 원하는 무엇인가요?
+It seems sync data already exists in that folder. If you select that folder, your local data will be merged with the folder data when sync is performed. Is that what you want?
 ```
 
 
@@ -1503,7 +1503,7 @@ File options
 ```
 translated (by machine 🤖) as:
 ```
-파일 옵션
+File options
 ```
 
 
@@ -1513,7 +1513,7 @@ Cloud sync
 ```
 translated (by machine 🤖) as:
 ```
-클라우드 동기화
+Cloud sync
 ```
 
 
@@ -1523,7 +1523,7 @@ Sync this map file on the cloud
 ```
 translated (by machine 🤖) as:
 ```
-클라우드에서이 맵 파일을 동기화
+Sync this map file on the cloud
 ```
 
 
@@ -1533,7 +1533,7 @@ Map file
 ```
 translated (by machine 🤖) as:
 ```
-지도 파일
+Map file
 ```
 
 
@@ -1543,7 +1543,7 @@ Create local map
 ```
 translated (by machine 🤖) as:
 ```
-지역지도 만들기
+Create local map
 ```
 
 
@@ -1553,7 +1553,7 @@ Create a new map file locally
 ```
 translated (by machine 🤖) as:
 ```
-로컬 새로운 맵 파일을 만듭니다
+Create a new map file locally
 ```
 
 
@@ -1563,7 +1563,7 @@ Create cloud map
 ```
 translated (by machine 🤖) as:
 ```
-구름지도 만들기
+Create cloud map
 ```
 
 
@@ -1573,7 +1573,7 @@ Create a map file on the cloud
 ```
 translated (by machine 🤖) as:
 ```
-구름에 맵 파일을 만듭니다
+Create a map file on the cloud
 ```
 
 
@@ -1583,7 +1583,7 @@ Retrieves changes from the cloud and sends local changes to the cloud
 ```
 translated (by machine 🤖) as:
 ```
-클라우드의 변경 사항을 검색하고 클라우드로 로컬 변경 사항을 전송
+Retrieves changes from the cloud and sends local changes to the cloud
 ```
 
 
@@ -1593,7 +1593,7 @@ Rename
 ```
 translated (by machine 🤖) as:
 ```
-이름 바꾸기
+Rename
 ```
 
 
@@ -1603,7 +1603,7 @@ Rename the map
 ```
 translated (by machine 🤖) as:
 ```
-지도의 이름을 바꿉니다
+Rename the map
 ```
 
 
@@ -1613,7 +1613,7 @@ Enter new name
 ```
 translated (by machine 🤖) as:
 ```
-새 이름을 입력합니다
+Enter new name
 ```
 
 
@@ -1623,7 +1623,7 @@ Enter the new map\'s name
 ```
 translated (by machine 🤖) as:
 ```
-새로운 맵의 이름을 입력합니다
+Enter the new map\'s name
 ```
 
 
@@ -1633,7 +1633,7 @@ translated (by machine 🤖) as:
 ```
 translated (by machine 🤖) as:
 ```
-%1$d 폴더, %2$d 마커, 크기 : %3$d KB
+%1$d folders, %2$d markers, size: %3$d KB
 ```
 
 
@@ -1643,7 +1643,7 @@ Create new folder
 ```
 translated (by machine 🤖) as:
 ```
-새 폴더 만들기
+Create new folder
 ```
 
 
@@ -1653,7 +1653,7 @@ Could not create folder: name empty
 ```
 translated (by machine 🤖) as:
 ```
-폴더를 만들 수 없습니다 : 빈 이름
+Could not create folder: name empty
 ```
 
 
@@ -1663,7 +1663,7 @@ Could not create folder: error occurred
 ```
 translated (by machine 🤖) as:
 ```
-폴더를 만들 수 없습니다 : 오류가 발생했습니다
+Could not create folder: error occurred
 ```
 
 
@@ -1673,7 +1673,7 @@ Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
 translated (by machine 🤖) as:
 ```
-구입해 주셔서 감사합니다 Map Marker 프리미엄 업그레이드를 :-)
+Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
 
 
@@ -1683,7 +1683,7 @@ Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
 translated (by machine 🤖) as:
 ```
-무료 주장하여 관심을 보여 주셔서 감사합니다 Map Marker 프리미엄 :-)
+Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
 
 
@@ -1693,7 +1693,7 @@ Premium
 ```
 translated (by machine 🤖) as:
 ```
-프리미엄
+Premium
 ```
 
 
@@ -1703,7 +1703,7 @@ Upgrade to premium and take full advantage of Map Marker features!
 ```
 translated (by machine 🤖) as:
 ```
-프리미엄으로 업그레이드하고 최대한 활용할 Map Marker 기능을!
+Upgrade to premium and take full advantage of Map Marker features!
 ```
 
 
@@ -1713,7 +1713,7 @@ Sorry, you need the premium upgrade to access this feature. Upgrade to premium a
 ```
 translated (by machine 🤖) as:
 ```
-죄송합니다, 당신은이 기능에 액세스 할 수 프리미엄 업그레이드를해야합니다. 프리미엄으로 업그레이드하고 최대한 활용할 Map Marker 기능을!
+Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
 
 
@@ -1723,7 +1723,7 @@ You have the premium upgrade for free! You can still purchase it if you want to 
 ```
 translated (by machine 🤖) as:
 ```
-당신은 무료로 프리미엄 업그레이드를! 당신이 당신의 지원 보여주고 싶은 경우에 당신은 여전히 구입할 수 있습니다 :-)
+You have the premium upgrade for free! You can still purchase it if you want to show your support :-)
 ```
 
 
@@ -1733,7 +1733,7 @@ Purchase the premium upgrade
 ```
 translated (by machine 🤖) as:
 ```
-프리미엄 업그레이드를 구입
+Purchase the premium upgrade
 ```
 
 
@@ -1743,7 +1743,7 @@ My Google account already has premium access, activate it!
 ```
 translated (by machine 🤖) as:
 ```
-내 Google 계정이 이미 프리미엄 액세스 할 수있는, 활성화!
+My Google account already has premium access, activate it!
 ```
 
 
@@ -1753,7 +1753,7 @@ Troubleshooting
 ```
 translated (by machine 🤖) as:
 ```
-문제 해결
+Troubleshooting
 ```
 
 
@@ -1763,7 +1763,7 @@ Open a list of actions to solve possible problems
 ```
 translated (by machine 🤖) as:
 ```
-가능한 문제를 해결하기 위해 작업 목록을 엽니 다
+Open a list of actions to solve possible problems
 ```
 
 
@@ -1773,7 +1773,7 @@ Test internet
 ```
 translated (by machine 🤖) as:
 ```
-시험 인터넷
+Test internet
 ```
 
 
@@ -1783,7 +1783,7 @@ Checks that the app has access to internet
 ```
 translated (by machine 🤖) as:
 ```
-응용 프로그램은 인터넷에 액세스 할 수 있는지 확인합니다
+Checks that the app has access to internet
 ```
 
 
@@ -1793,7 +1793,7 @@ Test file writing
 ```
 translated (by machine 🤖) as:
 ```
-테스트 파일 쓰기
+Test file writing
 ```
 
 
@@ -1803,7 +1803,7 @@ Checks that the app can save files on the internal SD card
 ```
 translated (by machine 🤖) as:
 ```
-앱이 내부 SD 카드에 파일을 저장할 수 있음을 확인합니다
+Checks that the app can save files on the internal SD card
 ```
 
 
@@ -1813,7 +1813,7 @@ GP Services (app)
 ```
 translated (by machine 🤖) as:
 ```
-GP 서비스 (응용 프로그램)
+GP Services (app)
 ```
 
 
@@ -1823,7 +1823,7 @@ Open the details of the currently installed Google Play Services app
 ```
 translated (by machine 🤖) as:
 ```
-현재 설치의 세부 사항 열고 Google Play Services 응용 프로그램을
+Open the details of the currently installed Google Play Services app
 ```
 
 
@@ -1833,7 +1833,7 @@ GP Services (store)
 ```
 translated (by machine 🤖) as:
 ```
-GP 서비스 (상점)
+GP Services (store)
 ```
 
 
@@ -1843,7 +1843,7 @@ Google Play (app)
 ```
 translated (by machine 🤖) as:
 ```
-구글 플레이 (응용 프로그램)
+Google Play (app)
 ```
 
 
@@ -1853,7 +1853,7 @@ Contact support
 ```
 translated (by machine 🤖) as:
 ```
-연락 지원
+Contact support
 ```
 
 
@@ -1863,7 +1863,7 @@ Write an email to support with the details of your problem
 ```
 translated (by machine 🤖) as:
 ```
-쓰기 email 문제의 세부 사항과 지원을
+Write an email to support with the details of your problem
 ```
 
 
@@ -1873,7 +1873,7 @@ Device network unavailable
 ```
 translated (by machine 🤖) as:
 ```
-장치 네트워크를 사용할 수 없습니다에게
+Device network unavailable
 ```
 
 
@@ -1883,7 +1883,7 @@ Testing&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-테스트&#8230;
+Testing&#8230;
 ```
 
 
@@ -1893,7 +1893,7 @@ Network test succeeded
 ```
 translated (by machine 🤖) as:
 ```
-네트워크 테스트 성공
+Network test succeeded
 ```
 
 
@@ -1903,7 +1903,7 @@ Network test failed
 ```
 translated (by machine 🤖) as:
 ```
-네트워크 테스트 실패
+Network test failed
 ```
 
 
@@ -1913,7 +1913,7 @@ Disk test failed: could not write to internal storage
 ```
 translated (by machine 🤖) as:
 ```
-디스크 테스트가 실패 : 내부 저장 장치에 쓸 수 없습니다
+Disk test failed: could not write to internal storage
 ```
 
 
@@ -1923,7 +1923,7 @@ Disk test failed: could not write to external storage
 ```
 translated (by machine 🤖) as:
 ```
-디스크 테스트가 실패 : 외부 저장 장치에 쓸 수 없습니다
+Disk test failed: could not write to external storage
 ```
 
 
@@ -1933,7 +1933,7 @@ Disk test succeeded
 ```
 translated (by machine 🤖) as:
 ```
-디스크 테스트 성공
+Disk test succeeded
 ```
 
 
@@ -1943,7 +1943,7 @@ App failed to start: %s
 ```
 translated (by machine 🤖) as:
 ```
-응용 프로그램을 시작하지 못했습니다 : %s
+App failed to start: %s
 ```
 
 
@@ -1953,7 +1953,7 @@ The file does not exist
 ```
 translated (by machine 🤖) as:
 ```
-파일이 존재하지 않습니다
+The file does not exist
 ```
 
 
@@ -1963,7 +1963,7 @@ Share cloud map
 ```
 translated (by machine 🤖) as:
 ```
-공유 구름지도
+Share cloud map
 ```
 
 
@@ -1973,7 +1973,7 @@ Open the cloud map folder to view its properties and share it with other people
 ```
 translated (by machine 🤖) as:
 ```
-그것의 속성을 볼 클라우드 맵 폴더를 열고 다른 사람과 공유
+Open the cloud map folder to view its properties and share it with other people
 ```
 
 
@@ -1983,7 +1983,7 @@ Internal file to SD
 ```
 translated (by machine 🤖) as:
 ```
-SD로 내부 파일
+Internal file to SD
 ```
 
 
@@ -1993,7 +1993,7 @@ Copy the app hidden internal files to the sdcard
 ```
 translated (by machine 🤖) as:
 ```
-sdcard에 앱 숨김 내부 파일을 복사
+Copy the app hidden internal files to the sdcard
 ```
 
 
@@ -2003,7 +2003,7 @@ Enter destination folder path
 ```
 translated (by machine 🤖) as:
 ```
-대상 폴더 경로를 입력
+Enter destination folder path
 ```
 
 
@@ -2013,7 +2013,7 @@ Could not create folder
 ```
 translated (by machine 🤖) as:
 ```
-폴더를 만들 수 없습니다
+Could not create folder
 ```
 
 
@@ -2023,7 +2023,7 @@ Files successfully saved to: %s
 ```
 translated (by machine 🤖) as:
 ```
-파일이 성공적으로 저장 : %s
+Files successfully saved to: %s
 ```
 
 
@@ -2033,7 +2033,7 @@ View history/Restore
 ```
 translated (by machine 🤖) as:
 ```
-보기 역사 / 복원
+View history/Restore
 ```
 
 
@@ -2043,7 +2043,7 @@ View history of modifications to the cloud folder and select a version to restor
 ```
 translated (by machine 🤖) as:
 ```
-클라우드 폴더에 수정의 역사를보고 복원하는 버전을 선택
+View history of modifications to the cloud folder and select a version to restore to
 ```
 
 
@@ -2053,7 +2053,7 @@ Create map file
 ```
 translated (by machine 🤖) as:
 ```
-지도 파일을 만듭니다
+Create map file
 ```
 
 
@@ -2063,7 +2063,7 @@ Create a new map file locally or on the cloud
 ```
 translated (by machine 🤖) as:
 ```
-로컬 또는 클라우드에 새로운 맵 파일을 만듭니다
+Create a new map file locally or on the cloud
 ```
 
 
@@ -2073,7 +2073,7 @@ Open cloud map
 ```
 translated (by machine 🤖) as:
 ```
-오픈 클라우드지도
+Open cloud map
 ```
 
 
@@ -2083,7 +2083,7 @@ Open a map file from the cloud
 ```
 translated (by machine 🤖) as:
 ```
-클라우드에서지도 파일을 엽니 다
+Open a map file from the cloud
 ```
 
 
@@ -2093,7 +2093,7 @@ Map Marker needs the permission to access your location in order to display it o
 ```
 translated (by machine 🤖) as:
 ```
-Map Marker 지도에 표시하기 위해 사용자의 위치에 액세스 할 수있는 권한이 필요합니다
+Map Marker needs the permission to access your location in order to display it on the map
 ```
 
 
@@ -2103,7 +2103,7 @@ Map Marker needs the permission to access to the storage of your device
 ```
 translated (by machine 🤖) as:
 ```
-Map Marker 장치의 저장 장치에 액세스 할 수있는 권한이 필요합니다
+Map Marker needs the permission to access to the storage of your device
 ```
 
 
@@ -2113,7 +2113,7 @@ Open settings
 ```
 translated (by machine 🤖) as:
 ```
-오픈 설정
+Open settings
 ```
 
 
@@ -2123,7 +2123,7 @@ No map folder found on the cloud
 ```
 translated (by machine 🤖) as:
 ```
-클라우드에서 찾을 수 없음지도 폴더 없다
+No map folder found on the cloud
 ```
 
 
@@ -2133,7 +2133,7 @@ Auto sync
 ```
 translated (by machine 🤖) as:
 ```
-자동 동기화
+Auto sync
 ```
 
 
@@ -2143,7 +2143,7 @@ Choose a version to restore to
 ```
 translated (by machine 🤖) as:
 ```
-복원 할 버전을 선택
+Choose a version to restore to
 ```
 
 
@@ -2153,7 +2153,7 @@ You must sync first before restoring an older version
 ```
 translated (by machine 🤖) as:
 ```
-먼저 이전 버전을 복원하기 전에 동기화해야합니다
+You must sync first before restoring an older version
 ```
 
 
@@ -2163,7 +2163,7 @@ Are you sure you want to restore this version?
 ```
 translated (by machine 🤖) as:
 ```
-이 버전을 복원 하시겠습니까?
+Are you sure you want to restore this version?
 ```
 
 
@@ -2173,7 +2173,7 @@ Map Marker lost permissions to write to your cloud account. Sync will always fai
 ```
 translated (by machine 🤖) as:
 ```
-Map Marker 손실 권한은 클라우드 계정에 기록합니다. 이가 해결 될 때까지 동기화는 항상 실패합니다. 당신은 지금 그것을 해결하기 위해시겠습니까?
+Map Marker lost permissions to write to your cloud account. Sync will always fail until this is fixed. Do you want to fix it now?
 ```
 
 
@@ -2183,7 +2183,7 @@ A sync error occurred. Please try again.
 ```
 translated (by machine 🤖) as:
 ```
-동기화 오류가 발생했습니다. 다시 시도하십시오.
+A sync error occurred. Please try again.
 ```
 
 
@@ -2193,7 +2193,7 @@ A sync error occurred: network error. Please try again.
 ```
 translated (by machine 🤖) as:
 ```
-동기화 오류가 발생했습니다 : 네트워크 오류가 발생했습니다. 다시 시도하십시오.
+A sync error occurred: network error. Please try again.
 ```
 
 
@@ -2203,7 +2203,7 @@ A sync error occurred: conflict, another device was performing the sync at the s
 ```
 translated (by machine 🤖) as:
 ```
-싱크 오류가 발생 충돌, 다른 장치가 동시에 동기화를 수행 하였다. 다시 시도하십시오.
+A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
 
 
@@ -2213,7 +2213,7 @@ Changes are available from the cloud
 ```
 translated (by machine 🤖) as:
 ```
-변경 사항은 클라우드에서 사용할 수 있습니다
+Changes are available from the cloud
 ```
 
 
@@ -2223,7 +2223,7 @@ Changes made from another device were synced on the cloud. You can retrieve thos
 ```
 translated (by machine 🤖) as:
 ```
-다른 장치에서의 변경 사항은 클라우드에 동기화되었다. 당신은 동기화하여 변경 사항을 검색 할 수 있습니다.
+Changes made from another device were synced on the cloud. You can retrieve those changes by syncing.
 ```
 
 
@@ -2233,7 +2233,7 @@ Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for det
 ```
 translated (by machine 🤖) as:
 ```
-클라우드 스토리지 권한을 복원하는 데 실패했습니다. 클라우드 권한을 복원하는 방법에 대한 자세한 내용&gt; "자주 묻는 질문"- "정보"를 참조하시기 바랍니다.
+Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for details on how to restore cloud permissions.
 ```
 
 
@@ -2243,7 +2243,7 @@ A sync error occurred: duplicate index, there are at least two files named index
 ```
 translated (by machine 🤖) as:
 ```
-동기화 오류가 발생했습니다 :지도 클라우드 폴더에 index.json라는 이름의 두 개 이상의 파일이 인덱스를 복제. 수동으로 중복을 제거하고 다시 시도하십시오.
+A sync error occurred: duplicate index, there are at least two files named index.json in the map cloud folder. Remove the duplicates manually and try again.
 ```
 
 
@@ -2253,7 +2253,7 @@ Phone number
 ```
 translated (by machine 🤖) as:
 ```
-전화 번호
+Phone number
 ```
 
 
@@ -2263,7 +2263,7 @@ Edit phone number
 ```
 translated (by machine 🤖) as:
 ```
-편집 전화 번호
+Edit phone number
 ```
 
 
@@ -2273,7 +2273,7 @@ Map Marker needs the permission to make calls on your device
 ```
 translated (by machine 🤖) as:
 ```
-Map Marker 장치에 전화를 걸 수있는 권한이 필요합니다
+Map Marker needs the permission to make calls on your device
 ```
 
 
@@ -2283,7 +2283,7 @@ No phone number is defined for that marker
 ```
 translated (by machine 🤖) as:
 ```
-아무런 전화 번호는 해당 마커에 대해 정의되어 있지
+No phone number is defined for that marker
 ```
 
 
@@ -2293,7 +2293,7 @@ Navigation options
 ```
 translated (by machine 🤖) as:
 ```
-탐색 옵션
+Navigation options
 ```
 
 
@@ -2303,7 +2303,7 @@ Open the marker location in this app
 ```
 translated (by machine 🤖) as:
 ```
-이 응용 프로그램의 아이콘 위치를 엽니 다
+Open the marker location in this app
 ```
 
 
@@ -2313,7 +2313,7 @@ Open the marker street view in this app
 ```
 translated (by machine 🤖) as:
 ```
-이 응용 프로그램에서 마커의 스트리트 뷰 (Street View)를 엽니 다
+Open the marker street view in this app
 ```
 
 
@@ -2323,7 +2323,7 @@ Enter navigation mode in this app to get directions to the marker
 ```
 translated (by machine 🤖) as:
 ```
-마커에 방향을 얻을이 응용 프로그램의 탐색 모드를 입력
+Enter navigation mode in this app to get directions to the marker
 ```
 
 
@@ -2333,7 +2333,7 @@ Other options
 ```
 translated (by machine 🤖) as:
 ```
-다른 옵션
+Other options
 ```
 
 
@@ -2343,7 +2343,7 @@ Share the selected marker as plain text into another app
 ```
 translated (by machine 🤖) as:
 ```
-다른 응용 프로그램에 일반 텍스트로 선택한 마커를 공유하기
+Share the selected marker as plain text into another app
 ```
 
 
@@ -2353,7 +2353,7 @@ translated (by machine 🤖) as:
 ```
 translated (by machine 🤖) as:
 ```
-%1$d 에 마커 %2$d 폴더
+%1$d markers in %2$d folders
 ```
 
 
@@ -2363,7 +2363,7 @@ A sync error occurred: the cloud data has been updated with a more recent versio
 ```
 translated (by machine 🤖) as:
 ```
-동기화 오류가 발생했습니다 : 클라우드 데이터는 응용 프로그램의 최신 버전으로 업데이트되었습니다. 당신은 업데이트해야합니다 Map Marker 동기화하기 위해이 장치에.
+A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
 
 
@@ -2373,7 +2373,7 @@ Could not find a phone app on this device.
 ```
 translated (by machine 🤖) as:
 ```
-이 장치 전화 응용 프로그램을 찾을 수 없습니다.
+Could not find a phone app on this device.
 ```
 
 
@@ -2383,7 +2383,7 @@ Phone number options
 ```
 translated (by machine 🤖) as:
 ```
-전화 번호 옵션
+Phone number options
 ```
 
 
@@ -2393,7 +2393,7 @@ Call phone number
 ```
 translated (by machine 🤖) as:
 ```
-전화 전화 번호
+Call phone number
 ```
 
 
@@ -2403,7 +2403,7 @@ Dial phone number
 ```
 translated (by machine 🤖) as:
 ```
-전화 번호로 전화를 겁니다
+Dial phone number
 ```
 
 
@@ -2413,7 +2413,7 @@ Text phone number
 ```
 translated (by machine 🤖) as:
 ```
-텍스트 전화 번호
+Text phone number
 ```
 
 
@@ -2423,7 +2423,7 @@ Default navigation action
 ```
 translated (by machine 🤖) as:
 ```
-기본 탐색 활동
+Default navigation action
 ```
 
 
@@ -2433,7 +2433,7 @@ Default phone action
 ```
 translated (by machine 🤖) as:
 ```
-기본 전화 동작
+Default phone action
 ```
 
 
@@ -2443,7 +2443,7 @@ Ask
 ```
 translated (by machine 🤖) as:
 ```
-청하다
+Ask
 ```
 
 
@@ -2453,7 +2453,7 @@ Premium free trial
 ```
 translated (by machine 🤖) as:
 ```
-프리미엄 무료 평가판
+Premium free trial
 ```
 
 
@@ -2463,7 +2463,7 @@ What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-프리미엄 업그레이드는 무엇입니까?
+What is the premium upgrade?
 ```
 
 
@@ -2473,7 +2473,7 @@ Premium free trial started! The trial will expire at the following date: %s
 ```
 translated (by machine 🤖) as:
 ```
-프리미엄 무료 평가판 시작! 재판은 다음 날짜에 만료됩니다 : %s
+Premium free trial started! The trial will expire at the following date: %s
 ```
 
 
@@ -2484,8 +2484,8 @@ Trial expiration:
 ```
 translated (by machine 🤖) as:
 ```
-평가판 만료 : 
- %s
+Trial expiration:
+%s
 ```
 
 
@@ -2495,7 +2495,7 @@ Trial expired
 ```
 translated (by machine 🤖) as:
 ```
-평가판이 만료
+Trial expired
 ```
 
 
@@ -2505,7 +2505,7 @@ Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
 translated (by machine 🤖) as:
 ```
-동기화 취소 : 당신은 동기화를 수행하기 위해 프리미엄 업그레이드를해야합니다.
+Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
 
 
@@ -2515,7 +2515,7 @@ Error: trial starting in the future!
 ```
 translated (by machine 🤖) as:
 ```
-오류 : 향후 재판 시작!
+Error: trial starting in the future!
 ```
 
 
@@ -2525,7 +2525,7 @@ Thank you for your purchase!
 ```
 translated (by machine 🤖) as:
 ```
-구입 주셔서 감사합니다!
+Thank you for your purchase!
 ```
 
 
@@ -2535,7 +2535,7 @@ Browse
 ```
 translated (by machine 🤖) as:
 ```
-검색
+Browse
 ```
 
 
@@ -2545,7 +2545,7 @@ Organize
 ```
 translated (by machine 🤖) as:
 ```
-구성
+Organize
 ```
 
 
@@ -2555,7 +2555,7 @@ Create
 ```
 translated (by machine 🤖) as:
 ```
-몹시 떠들어 대다
+Create
 ```
 
 
@@ -2565,7 +2565,7 @@ Retry
 ```
 translated (by machine 🤖) as:
 ```
-다시 해 보다
+Retry
 ```
 
 
@@ -2575,7 +2575,7 @@ Search failed
 ```
 translated (by machine 🤖) as:
 ```
-검색 실패
+Search failed
 ```
 
 
@@ -2585,7 +2585,7 @@ Search failed, network error
 ```
 translated (by machine 🤖) as:
 ```
-검색 실패, 네트워크 오류
+Search failed, network error
 ```
 
 
@@ -2595,7 +2595,7 @@ Details
 ```
 translated (by machine 🤖) as:
 ```
-세부
+Details
 ```
 
 
@@ -2605,7 +2605,7 @@ Sync error
 ```
 translated (by machine 🤖) as:
 ```
-동기화 오류
+Sync error
 ```
 
 
@@ -2615,7 +2615,7 @@ The file already exists, do you want to overwrite it?
 ```
 translated (by machine 🤖) as:
 ```
-파일이 이미 덮어 쓰시겠습니까 존재?
+The file already exists, do you want to overwrite it?
 ```
 
 
@@ -2625,7 +2625,7 @@ Copy markers to folder
 ```
 translated (by machine 🤖) as:
 ```
-복사 마커 폴더로
+Copy markers to folder
 ```
 
 
@@ -2635,7 +2635,7 @@ Error loading the Google Map component. Please restart the app.
 ```
 translated (by machine 🤖) as:
 ```
-로드 오류 Google Map 구성 요소를. 응용 프로그램을 다시 시작하십시오.
+Error loading the Google Map component. Please restart the app.
 ```
 
 
@@ -2645,7 +2645,7 @@ You will see the list of your markers here. You currently have no markers in the
 ```
 translated (by machine 🤖) as:
 ```
-당신은 여기에서 마커의 목록을 볼 수 있습니다. 현재 선택한 폴더 (들)에는 마커가 없습니다. 아래 버튼을 클릭하여 새로운 마커를 추가 할 수 있습니다.
+You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
 
 
@@ -2655,7 +2655,7 @@ No search results
 ```
 translated (by machine 🤖) as:
 ```
-검색 결과 없음
+No search results
 ```
 
 
@@ -2695,7 +2695,7 @@ Bing Aerial With Labels
 ```
 translated (by machine 🤖) as:
 ```
-Bing Aerial 레이블
+Bing Aerial With Labels
 ```
 
 
@@ -2715,7 +2715,7 @@ Offline maps
 ```
 translated (by machine 🤖) as:
 ```
-오프라인지도
+Offline maps
 ```
 
 
@@ -2725,7 +2725,7 @@ No folder selected
 ```
 translated (by machine 🤖) as:
 ```
-선택 없음 폴더 없음
+No folder selected
 ```
 
 
@@ -2735,7 +2735,7 @@ Storage folder
 ```
 translated (by machine 🤖) as:
 ```
-저장 폴더
+Storage folder
 ```
 
 
@@ -2746,8 +2746,8 @@ Test results of the offline maps folder:
 ```
 translated (by machine 🤖) as:
 ```
-오프라인지도 폴더의 시험 결과 : 
- %s
+Test results of the offline maps folder:
+%s
 ```
 
 
@@ -2757,7 +2757,7 @@ No folder is selected for offline map files. In order to use offline maps, open 
 ```
 translated (by machine 🤖) as:
 ```
-없음 폴더는 오프라인 맵 파일을 선택하지 않습니다. 오프라인지도를 사용하여 설정을 열고 오프라인지도 파일 폴더를 선택하기 위해.
+No folder is selected for offline map files. In order to use offline maps, open the settings and select a folder for offline map files.
 ```
 
 
@@ -2767,7 +2767,7 @@ The selected offline map folder you selected contains no files. Make sure you ad
 ```
 translated (by machine 🤖) as:
 ```
-선택한 선택한 오프라인지도 폴더에 파일이 없습니다. 그렇지 않으면 맵이 비어있을 것입니다, 당신은 오프라인지도를 사용하기 전에 해당 폴더에 오프라인지도 파일을 추가해야합니다.
+The selected offline map folder you selected contains no files. Make sure you add the offline map files in that folder before using offline maps, otherwise the map will be empty.
 ```
 
 
@@ -2777,7 +2777,7 @@ Success: %s
 ```
 translated (by machine 🤖) as:
 ```
-성공 : %s
+Success: %s
 ```
 
 
@@ -2787,7 +2787,7 @@ Failed: %s
 ```
 translated (by machine 🤖) as:
 ```
-실패 : %s
+Failed: %s
 ```
 
 
@@ -2797,7 +2797,7 @@ How to do it?
 ```
 translated (by machine 🤖) as:
 ```
-그것을 어떻게?
+How to do it?
 ```
 
 
@@ -2807,7 +2807,7 @@ Click here to open the web page explaining how to obtain those maps.
 ```
 translated (by machine 🤖) as:
 ```
-그지도를 얻는 방법을 설명하는 웹 페이지를 열려면 여기를 클릭하세요.
+Click here to open the web page explaining how to obtain those maps.
 ```
 
 
@@ -2817,7 +2817,7 @@ Credits
 ```
 translated (by machine 🤖) as:
 ```
-크레딧
+Credits
 ```
 
 
@@ -2827,7 +2827,7 @@ Copyright and legal mentions
 ```
 translated (by machine 🤖) as:
 ```
-저작권 및 법적는 언급
+Copyright and legal mentions
 ```
 
 
@@ -2839,9 +2839,9 @@ Legal mentions for other map data than Google Maps:
 ```
 translated (by machine 🤖) as:
 ```
-법적 이외의지도 데이터에 대한 언급 Google Maps : 
- 
- %s
+Legal mentions for other map data than Google Maps:
+
+%s
 ```
 
 
@@ -2851,7 +2851,7 @@ Disable error file dump
 ```
 translated (by machine 🤖) as:
 ```
-안 오류 파일 덤프
+Disable error file dump
 ```
 
 
@@ -2861,7 +2861,7 @@ Disable writing app errors to a file on the SD card
 ```
 translated (by machine 🤖) as:
 ```
-SD 카드의 파일에 앱 기록 오류 중지
+Disable writing app errors to a file on the SD card
 ```
 
 
@@ -2871,7 +2871,7 @@ Enable error file dump
 ```
 translated (by machine 🤖) as:
 ```
-오류 파일 덤프를 사용
+Enable error file dump
 ```
 
 
@@ -2881,7 +2881,7 @@ Enable writing app errors to a file on the SD card
 ```
 translated (by machine 🤖) as:
 ```
-SD 카드의 파일에 앱 기록 오류 사용
+Enable writing app errors to a file on the SD card
 ```
 
 
@@ -2891,7 +2891,7 @@ Start background sync…
 ```
 translated (by machine 🤖) as:
 ```
-배경 동기화를 시작합니다&#8230;
+Start background sync…
 ```
 
 
@@ -2901,7 +2901,7 @@ Never
 ```
 translated (by machine 🤖) as:
 ```
-못
+Never
 ```
 
 
@@ -2911,7 +2911,7 @@ When app enters background
 ```
 translated (by machine 🤖) as:
 ```
-때 응용 프로그램이 백그라운드로 전환
+When app enters background
 ```
 
 
@@ -2921,7 +2921,7 @@ translated (by machine 🤖) as:
 ```
 translated (by machine 🤖) as:
 ```
-%d 초 앱이 배경을 입력 한 후
+%d seconds after the app enters background
 ```
 
 
@@ -2931,7 +2931,7 @@ translated (by machine 🤖) as:
 ```
 translated (by machine 🤖) as:
 ```
-%d 분 앱은 백그라운드로 전환 된 후,
+%d minutes after the app enters background
 ```
 
 
@@ -2941,7 +2941,7 @@ Sync starting in %d seconds
 ```
 translated (by machine 🤖) as:
 ```
-동기화부터 %d 초
+Sync starting in %d seconds
 ```
 
 
@@ -2951,7 +2951,7 @@ You can cancel the sync at any time and your data will be synced on next attempt
 ```
 translated (by machine 🤖) as:
 ```
-언제든지 동기화를 취소 할 수 있습니다 귀하의 데이터는 다음 시도에서 동기화됩니다.
+You can cancel the sync at any time and your data will be synced on next attempt.
 ```
 
 
@@ -2961,7 +2961,7 @@ Press back again to exit
 ```
 translated (by machine 🤖) as:
 ```
-를 눌러 다시 종료
+Press back again to exit
 ```
 
 
@@ -2971,7 +2971,7 @@ Cannot start sync with no internet access on the device.
 ```
 translated (by machine 🤖) as:
 ```
-장치에서 인터넷에 액세스 동기화를 시작할 수 없습니다.
+Cannot start sync with no internet access on the device.
 ```
 
 
@@ -2981,7 +2981,7 @@ Manage map files
 ```
 translated (by machine 🤖) as:
 ```
-맵 파일 관리
+Manage map files
 ```
 
 
@@ -2991,7 +2991,7 @@ Map files
 ```
 translated (by machine 🤖) as:
 ```
-지도 파일
+Map files
 ```
 
 
@@ -3001,7 +3001,7 @@ Delete map file
 ```
 translated (by machine 🤖) as:
 ```
-맵 파일을 삭제
+Delete map file
 ```
 
 
@@ -3011,7 +3011,7 @@ This action will delete the map file from this device
 ```
 translated (by machine 🤖) as:
 ```
-이 작업은이 장치에서 맵 파일을 삭제합니다
+This action will delete the map file from this device
 ```
 
 
@@ -3021,7 +3021,7 @@ This action will delete the map file from your device forever. All the markers i
 ```
 translated (by machine 🤖) as:
 ```
-이 작업은 영원히 당신의 장치에서 맵 파일을 삭제합니다. 그 파일 안에 모든 마커가 손실됩니다. 확실합니까?
+This action will delete the map file from your device forever. All the markers inside that file will be lost. Are you sure?
 ```
 
 
@@ -3031,7 +3031,7 @@ This action will delete the map file from your device forever. All changes not y
 ```
 translated (by machine 🤖) as:
 ```
-이 작업은 영원히 당신의 장치에서 맵 파일을 삭제합니다. 아직 클라우드로 동기화되지 않은 모든 변경 사항이 손실됩니다. 클라우드 폴더에이 작업의 영향을받지 않습니다 당신은 수동으로 삭제해야합니다. 확실합니까?
+This action will delete the map file from your device forever. All changes not yet synced to the cloud will be lost. The cloud folder will not be affected by this action and you will have to delete it manually. Are you sure?
 ```
 
 
@@ -3041,7 +3041,7 @@ Map file successfully deleted
 ```
 translated (by machine 🤖) as:
 ```
-지도 파일이 삭제
+Map file successfully deleted
 ```
 
 
@@ -3051,7 +3051,7 @@ Could not delete map file: %s
 ```
 translated (by machine 🤖) as:
 ```
-맵 파일을 삭제할 수 없습니다 : %s
+Could not delete map file: %s
 ```
 
 
@@ -3061,7 +3061,7 @@ Marker saved in a non visible folder
 ```
 translated (by machine 🤖) as:
 ```
-마커는 비 표시 폴더에 저장
+Marker saved in a non visible folder
 ```
 
 
@@ -3071,7 +3071,7 @@ Your changes have not been synced recently. Make sure you keep your cloud copy u
 ```
 translated (by machine 🤖) as:
 ```
-변경 사항은 최근에 동기화되지 않았습니다. 당신이 당신의 구름이 최신 복사 유지해야합니다. 지금 동기화 하시겠습니까?
+Your changes have not been synced recently. Make sure you keep your cloud copy up to date. Do you want to sync now?
 ```
 
 
@@ -3081,7 +3081,7 @@ The markers of this map file are currently only saved on this device. It is reco
 ```
 translated (by machine 🤖) as:
 ```
-이 맵 파일의 마커는 현재이 장치에 저장됩니다. 그 손실을 방지하기 위해 클라우드에 마커를 저장하는 것이 좋습니다. 당신은 지금 클라우드에 저장 하시겠습니까?
+The markers of this map file are currently only saved on this device. It is recommended to save your markers on the cloud to avoid losing them. Do you want to save them to the cloud now?
 ```
 
 
@@ -3091,7 +3091,7 @@ Do you want to sync this map file? With manual you will need to sync manually ev
 ```
 translated (by machine 🤖) as:
 ```
-이 맵 파일을 동기화 하시겠습니까? 수동으로 수동으로 모든 시간을 동기화해야합니다. 자동 (권장)를 사용하면 대상 클라우드 폴더에 자동으로 응용 프로그램이 배경을 입력 할 때마다 시작됩니다 클라우드로 동기화를 선택합니다.
+Do you want to sync this map file? With manual you will need to sync manually every time. With automatic (recommended) you will select a destination cloud folder and the sync to the cloud will start automatically every time the app enters background.
 ```
 
 
@@ -3101,7 +3101,7 @@ Automatic
 ```
 translated (by machine 🤖) as:
 ```
-오토매틱
+Automatic
 ```
 
 
@@ -3111,7 +3111,7 @@ Manual
 ```
 translated (by machine 🤖) as:
 ```
-조작
+Manual
 ```
 
 
@@ -3121,7 +3121,7 @@ You can sync a map file on the cloud at any time by clicking on the map file in 
 ```
 translated (by machine 🤖) as:
 ```
-당신은 사이드 바에서 맵 파일을 클릭 한 다음 "클라우드 동기화"옵션을 선택하여 언제든지 클라우드에 맵 파일을 동기화 할 수 있습니다.
+You can sync a map file on the cloud at any time by clicking on the map file in the side bar and then choosing the "Cloud sync" option.
 ```
 
 
@@ -3131,7 +3131,7 @@ You can sync a map file manually to the cloud at any time by clicking the "share
 ```
 translated (by machine 🤖) as:
 ```
-당신은 당신의 마음에 드는 클라우드 스토리지 응용 프로그램을 선택하여 다음 다음 "기타 옵션"다음 "모든 마커 및 폴더"및 주요 작업 표시 줄에서 "공유"버튼을 클릭하여 언제든지 클라우드에 수동으로 맵 파일을 동기화 할 수 있습니다.
+You can sync a map file manually to the cloud at any time by clicking the "share" button in the main action bar, and then "Other options" and then "All markers and folders" and then by selecting your favorite cloud storage app.
 ```
 
 
@@ -3141,7 +3141,7 @@ Move the map around to place the points, click \'+\' to add a point, click \'-\'
 ```
 translated (by machine 🤖) as:
 ```
-클릭 한 점을 추가하려면 '+'를 클릭 포인트를 배치하는 주변의지도를 이동 '-'이전 / 다음 버튼으로 포인트를 포인트를 제거하고 전환 할 수 있습니다. 마지막으로 모양을 저장하려면 저장을 클릭합니다.
+Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
 
 
@@ -3151,7 +3151,7 @@ There are not enough points to create the shape. Create more points and try agai
 ```
 translated (by machine 🤖) as:
 ```
-모양을 만들 수있는 충분한 포인트가 없습니다. 더 많은 포인트를 생성하고 다시 시도하십시오.
+There are not enough points to create the shape. Create more points and try again.
 ```
 
 
@@ -3161,7 +3161,7 @@ Could not activate the premium upgrade from your Google account. If you purchase
 ```
 translated (by machine 🤖) as:
 ```
-Google 계정에서 프리미엄 업그레이드를 활성화 할 수 없습니다. 다른 장치에서 최근 프리미엄 업그레이드를 구입 한 경우 구입이 전파를 들어, 당신은 당신의 장치를 다시 시작하면 빠르게 만들 수, 조금 기다려야 할 수도 있습니다. 여전히 작동하지 않는 경우,이 응용 프로그램을 설치, 구입과 같은 Google 계정으로 활성화해야합니다. 문제가 지속되면, 나는 당신에게 내가 할 수있는 최선을 도움이 될 것입니다, 당신은로 연락 할 수 있습니다 email (측면 패널 -&gt; 정보 -&gt; 보낼 email ).
+Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn\'t work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by email (side panel -> about -> send email).
 ```
 
 
@@ -3171,7 +3171,7 @@ Distance: %s
 ```
 translated (by machine 🤖) as:
 ```
-거리 : %s
+Distance: %s
 ```
 
 
@@ -3182,8 +3182,8 @@ Area: %2$s
 ```
 translated (by machine 🤖) as:
 ```
-경계 : %1$s 
- 지역 : %2$s
+Perimeter: %1$s
+Area: %2$s
 ```
 
 
@@ -3193,7 +3193,7 @@ Extra information
 ```
 translated (by machine 🤖) as:
 ```
-추가 정보
+Extra information
 ```
 
 
@@ -3203,7 +3203,7 @@ Insert…
 ```
 translated (by machine 🤖) as:
 ```
-끼워 넣다…
+Insert…
 ```
 
 
@@ -3213,7 +3213,7 @@ Replace title
 ```
 translated (by machine 🤖) as:
 ```
-제목을 교체
+Replace title
 ```
 
 
@@ -3223,7 +3223,7 @@ Replace description
 ```
 translated (by machine 🤖) as:
 ```
-설명을 교체
+Replace description
 ```
 
 
@@ -3233,7 +3233,7 @@ Unit of distance
 ```
 translated (by machine 🤖) as:
 ```
-거리의 단위
+Unit of distance
 ```
 
 
@@ -3243,7 +3243,7 @@ Unit of area
 ```
 translated (by machine 🤖) as:
 ```
-단위 면적
+Unit of area
 ```
 
 
@@ -3253,7 +3253,7 @@ Metric (%s)
 ```
 translated (by machine 🤖) as:
 ```
-수치 ( %s )
+Metric (%s)
 ```
 
 
@@ -3263,7 +3263,7 @@ Imperial (%s)
 ```
 translated (by machine 🤖) as:
 ```
-제국 ( %s )
+Imperial (%s)
 ```
 
 
@@ -3273,7 +3273,7 @@ Images
 ```
 translated (by machine 🤖) as:
 ```
-이미지
+Images
 ```
 
 
@@ -3283,7 +3283,7 @@ Select image
 ```
 translated (by machine 🤖) as:
 ```
-이미지 선택
+Select image
 ```
 
 
@@ -3293,7 +3293,7 @@ Imported images
 ```
 translated (by machine 🤖) as:
 ```
-가져온 이미지
+Imported images
 ```
 
 
@@ -3303,7 +3303,7 @@ Fit in a %1$sx%2$s square
 ```
 translated (by machine 🤖) as:
 ```
-(A)에 장착 %1$s 의 X %2$s 광장
+Fit in a %1$sx%2$s square
 ```
 
 
@@ -3313,7 +3313,7 @@ Full quality
 ```
 translated (by machine 🤖) as:
 ```
-전체 품질
+Full quality
 ```
 
 
@@ -3323,7 +3323,7 @@ Mobile data
 ```
 translated (by machine 🤖) as:
 ```
-모바일 데이터
+Mobile data
 ```
 
 
@@ -3343,7 +3343,7 @@ Disabled
 ```
 translated (by machine 🤖) as:
 ```
-장애인
+Disabled
 ```
 
 
@@ -3353,7 +3353,7 @@ Up to %s per sync
 ```
 translated (by machine 🤖) as:
 ```
-최대 %s 동기 당
+Up to %s per sync
 ```
 
 
@@ -3363,7 +3363,7 @@ Unlimited
 ```
 translated (by machine 🤖) as:
 ```
-제한 없는
+Unlimited
 ```
 
 
@@ -3373,7 +3373,7 @@ The sync was aborted because it was exceeding the allowed data volume limit. To 
 ```
 translated (by machine 🤖) as:
 ```
-이 허용 된 데이터 량의 한계를 초과했기 때문에 동기화가 중단되었다. 설정으로 이동, 증가 또는 제한을 변경합니다. 또한 데이터 볼륨 제한없이 한 시간을 동기화 "강제 동기화"를 클릭 할 수 있습니다.
+The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings. You can also click "force sync" to sync just one time without data volume limit.
 ```
 
 
@@ -3383,7 +3383,7 @@ Force sync
 ```
 translated (by machine 🤖) as:
 ```
-강제 동기화
+Force sync
 ```
 
 
@@ -3393,7 +3393,7 @@ This will override the usual data limit just for this one time. Force sync?
 ```
 translated (by machine 🤖) as:
 ```
-이것은 단지이 한 시간 동안 일반적인 데이터 제한을 우선합니다. 강제 동기화?
+This will override the usual data limit just for this one time. Force sync?
 ```
 
 
@@ -3403,7 +3403,7 @@ Retry
 ```
 translated (by machine 🤖) as:
 ```
-다시 해 보다
+Retry
 ```
 
 
@@ -3413,7 +3413,7 @@ Add image
 ```
 translated (by machine 🤖) as:
 ```
-이미지 추가
+Add image
 ```
 
 
@@ -3423,7 +3423,7 @@ From camera
 ```
 translated (by machine 🤖) as:
 ```
-카메라에서
+From camera
 ```
 
 
@@ -3433,7 +3433,7 @@ From gallery
 ```
 translated (by machine 🤖) as:
 ```
-갤러리에서
+From gallery
 ```
 
 
@@ -3443,7 +3443,7 @@ Importing image…
 ```
 translated (by machine 🤖) as:
 ```
-이미지를 가져 오기&#8230;
+Importing image…
 ```
 
 
@@ -3453,7 +3453,7 @@ Offline (Mapsforge BETA)
 ```
 translated (by machine 🤖) as:
 ```
-오프라인 ( Mapsforge BETA )
+Offline (Mapsforge BETA)
 ```
 
 
@@ -3463,7 +3463,7 @@ Exporting…
 ```
 translated (by machine 🤖) as:
 ```
-내보내기&#8230;
+Exporting…
 ```
 
 
@@ -3473,7 +3473,7 @@ Export failed
 ```
 translated (by machine 🤖) as:
 ```
-수출 실패
+Export failed
 ```
 
 
@@ -3483,7 +3483,7 @@ Export succeeded
 ```
 translated (by machine 🤖) as:
 ```
-수출 성공
+Export succeeded
 ```
 
 
@@ -3513,7 +3513,7 @@ Importing file…
 ```
 translated (by machine 🤖) as:
 ```
-파일을 가져 오는 중&#8230;
+Importing file…
 ```
 
 
@@ -3523,7 +3523,7 @@ Show warning icon for sync
 ```
 translated (by machine 🤖) as:
 ```
-동기화에 대한 경고 아이콘 표시
+Show warning icon for sync
 ```
 
 
@@ -3533,7 +3533,7 @@ translated (by machine 🤖) as:
 ```
 translated (by machine 🤖) as:
 ```
-클라우드의 미디어 파일 중 하나가 누락 되었기 때문에 동기화가 중단되었습니다. 당신은 "강제 동기화 \"를 클릭하여 파일을 누락 무시할 수 있습니다. 경고 무시하고 누락 된 파일은 다른 장치가 여전히 동기화시 삭제 할 파일의 로컬 복사본을 갖는 것을 의미 데이터베이스에서 제거 될 것입니다.
+"The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
 
 
@@ -3543,7 +3543,7 @@ This will force the sync and ignore the missing cloud files. The missing links w
 ```
 translated (by machine 🤖) as:
 ```
-이 동기화를 강제로 누락 된 클라우드 파일을 무시합니다. 누락 된 링크는 데이터베이스에서 제거됩니다. 다른 장치는 여전히 다음 동기화시 삭제됩니다 누락 된 클라우드 파일의 로컬 버전을 소유. 데이터 사용량 제한이 특별한 동기에 대해 무시됩니다. 강제로 동기화?
+This will force the sync and ignore the missing cloud files. The missing links will be removed from the database. Other devices still owning a local version of the missing cloud files will delete them upon their next sync. Data consumption limits will be ignored for this special sync. Force Sync?
 ```
 
 
@@ -3553,7 +3553,7 @@ Marker media files ignored on import: %1$d
 ```
 translated (by machine 🤖) as:
 ```
-수입 무시 마커 미디어 파일 : %1$d
+Marker media files ignored on import: %1$d
 ```
 
 
@@ -3563,7 +3563,7 @@ Checking premium status…
 ```
 translated (by machine 🤖) as:
 ```
-프리미엄 상태를 확인 중&#8230;
+Checking premium status…
 ```
 
 
@@ -3573,7 +3573,7 @@ General
 ```
 translated (by machine 🤖) as:
 ```
-일반
+General
 ```
 
 
@@ -3583,7 +3583,7 @@ Toilets
 ```
 translated (by machine 🤖) as:
 ```
-화장실
+Toilets
 ```
 
 
@@ -3593,7 +3593,7 @@ Food
 ```
 translated (by machine 🤖) as:
 ```
-식품
+Food
 ```
 
 
@@ -3603,7 +3603,7 @@ Stores
 ```
 translated (by machine 🤖) as:
 ```
-백화점
+Stores
 ```
 
 
@@ -3613,7 +3613,7 @@ Land activities
 ```
 translated (by machine 🤖) as:
 ```
-육상 활동
+Land activities
 ```
 
 
@@ -3623,7 +3623,7 @@ Water activies
 ```
 translated (by machine 🤖) as:
 ```
-물 된 활동에
+Water activies
 ```
 
 
@@ -3633,7 +3633,7 @@ Winter activies
 ```
 translated (by machine 🤖) as:
 ```
-겨울 된 활동에
+Winter activies
 ```
 
 
@@ -3643,7 +3643,7 @@ Transport
 ```
 translated (by machine 🤖) as:
 ```
-수송
+Transport
 ```
 
 
@@ -3653,7 +3653,7 @@ Health
 ```
 translated (by machine 🤖) as:
 ```
-건강
+Health
 ```
 
 
@@ -3663,7 +3663,7 @@ Entertainment
 ```
 translated (by machine 🤖) as:
 ```
-환대
+Entertainment
 ```
 
 
@@ -3673,7 +3673,7 @@ Services
 ```
 translated (by machine 🤖) as:
 ```
-서비스
+Services
 ```
 
 
@@ -3683,7 +3683,7 @@ Business
 ```
 translated (by machine 🤖) as:
 ```
-사업
+Business
 ```
 
 
@@ -3693,7 +3693,7 @@ Government
 ```
 translated (by machine 🤖) as:
 ```
-정부
+Government
 ```
 
 
@@ -3703,7 +3703,7 @@ Religious
 ```
 translated (by machine 🤖) as:
 ```
-종교적인
+Religious
 ```
 
 
@@ -3713,7 +3713,7 @@ Accessibility
 ```
 translated (by machine 🤖) as:
 ```
-접근성
+Accessibility
 ```
 
 
@@ -3723,7 +3723,7 @@ Select icon
 ```
 translated (by machine 🤖) as:
 ```
-선택 아이콘
+Select icon
 ```
 
 
@@ -3733,7 +3733,7 @@ Icon and color
 ```
 translated (by machine 🤖) as:
 ```
-아이콘과 색상
+Icon and color
 ```
 
 
@@ -3743,7 +3743,7 @@ Generic
 ```
 translated (by machine 🤖) as:
 ```
-일반적인
+Generic
 ```
 
 
@@ -3753,7 +3753,7 @@ Beta tester badge: thank you for being a beta tester! This badge will disappear 
 ```
 translated (by machine 🤖) as:
 ```
-베타 테스터 배지 : 베타 테스터 주셔서 감사합니다! 이 배지는 응용 프로그램을 제거하거나 응용 프로그램 데이터를 삭제에 사라집니다. 이 배지는 앱에 광고가 없습니다 수 있습니다.
+Beta tester badge: thank you for being a beta tester! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
 
 
@@ -3763,7 +3763,7 @@ Referral badge: thank you for inviting your friends to the app! This badge will 
 ```
 translated (by machine 🤖) as:
 ```
-추천 배지 : 응용 프로그램에 친구를 초대 주셔서 감사합니다! 이 배지는 응용 프로그램을 제거하거나 응용 프로그램 데이터를 삭제에 사라집니다. 이 배지는 앱에 광고가 없습니다 수 있습니다.
+Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
 
 
@@ -3773,7 +3773,7 @@ Referral
 ```
 translated (by machine 🤖) as:
 ```
-추천
+Referral
 ```
 
 
@@ -3783,7 +3783,7 @@ Removing ads: exchange referrals credits with friends to remove ads
 ```
 translated (by machine 🤖) as:
 ```
-광고를 제거하는 친구들과 교환 추천 크레딧 : 광고를 제거
+Removing ads: exchange referrals credits with friends to remove ads
 ```
 
 
@@ -3793,7 +3793,7 @@ Sent credits: %s
 ```
 translated (by machine 🤖) as:
 ```
-보낸 크레딧 : %s
+Sent credits: %s
 ```
 
 
@@ -3803,7 +3803,7 @@ Received credits: %s
 ```
 translated (by machine 🤖) as:
 ```
-받은 학점 : %s
+Received credits: %s
 ```
 
 
@@ -3813,7 +3813,7 @@ Contribute to translations
 ```
 translated (by machine 🤖) as:
 ```
-번역에 기여
+Contribute to translations
 ```
 
 
@@ -3823,7 +3823,7 @@ You understand English and want to help with translations? Click here
 ```
 translated (by machine 🤖) as:
 ```
-당신은 영어를 이해하고 번역에 도움을 줄까? 여기를 클릭하십시오
+You understand English and want to help with translations? Click here
 ```
 
 
@@ -3833,7 +3833,7 @@ The destination folder\'s color or icon is different. Do you want to update the 
 ```
 translated (by machine 🤖) as:
 ```
-대상 폴더의 색상이나 아이콘이 다릅니다. 당신은 마커 색상과 아이콘을 업데이트 하시겠습니까?
+The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
 ```
 
 
@@ -3843,7 +3843,7 @@ Add color
 ```
 translated (by machine 🤖) as:
 ```
-색상 추가
+Add color
 ```
 
 
@@ -3853,7 +3853,7 @@ translated (by machine 🤖) as:
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;HTML&gt; &lt;BODY&gt; &lt;b&gt;를 프리미엄 업그레이드 무엇 &lt;/ b&gt;을 제거하는 광고의 위에, 프리미엄 업그레이드는 다음과 같은 독점적 인 프리미엄 기능을 잠금 해제로 &lt;br&gt;?에로 &lt;br&gt; • 동기화 Google Drive 또는 Dropbox 로 &lt;br&gt; • 협력을 통한 Google Drive 또는 Dropbox 로 &lt;br&gt; •지도 버전의 역사와 복원로 &lt;br&gt; &lt;/ BODY&gt; &lt;/ HTML&gt;
+<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
 ```
 
 
@@ -3863,7 +3863,7 @@ Marker created from the geo location of the QR code
 ```
 translated (by machine 🤖) as:
 ```
-QR 코드의 위치 정보로부터 생성 마커
+Marker created from the geo location of the QR code
 ```
 
 
@@ -3873,7 +3873,7 @@ Failed to read QR code as a geo location
 ```
 translated (by machine 🤖) as:
 ```
-지리적 위치로 QR 코드를 읽지 못했습니다
+Failed to read QR code as a geo location
 ```
 
 
@@ -3883,7 +3883,7 @@ The app for scanning QR codes could not be found. Do you want to install it?
 ```
 translated (by machine 🤖) as:
 ```
-스캔 QR 코드에 대한 응용 프로그램을 찾을 수 없습니다. 당신은 그것을 설치 하시겠습니까?
+The app for scanning QR codes could not be found. Do you want to install it?
 ```
 
 
@@ -3893,7 +3893,7 @@ Selection action
 ```
 translated (by machine 🤖) as:
 ```
-선택 활동
+Selection action
 ```
 
 
@@ -3903,7 +3903,7 @@ Move to left
 ```
 translated (by machine 🤖) as:
 ```
-왼쪽으로 이동
+Move to left
 ```
 
 
@@ -3913,7 +3913,7 @@ Move to right
 ```
 translated (by machine 🤖) as:
 ```
-오른쪽으로 이동
+Move to right
 ```
 
 
@@ -3923,7 +3923,7 @@ Rotate to left
 ```
 translated (by machine 🤖) as:
 ```
-왼쪽으로 회전
+Rotate to left
 ```
 
 
@@ -3933,7 +3933,7 @@ Rotate to right
 ```
 translated (by machine 🤖) as:
 ```
-오른쪽으로 회전
+Rotate to right
 ```
 
 
@@ -3943,7 +3943,7 @@ Delete image
 ```
 translated (by machine 🤖) as:
 ```
-이미지 삭제
+Delete image
 ```
 
 
@@ -3953,7 +3953,7 @@ From local file
 ```
 translated (by machine 🤖) as:
 ```
-로컬 파일에서
+From local file
 ```
 
 
@@ -3963,7 +3963,7 @@ What format to you want to use to export?
 ```
 translated (by machine 🤖) as:
 ```
-당신에게 어떤 형식으로 수출하는 데 사용할?
+What format to you want to use to export?
 ```
 
 
@@ -3973,7 +3973,7 @@ The data to export contains media(images) that cannot be included with this expo
 ```
 translated (by machine 🤖) as:
 ```
-수출에 대한 데이터는이 내보내기 형식에 포함 할 수없는 미디어 (이미지)가 포함되어 있습니다. 데이터는 미디어없이 내 보냅니다. 모두를 내보내려면 선택 KMZ 수출 형식을.
+The data to export contains media(images) that cannot be included with this export format. The data will be exported without the media. To export everything, choose the KMZ export format.
 ```
 
 
@@ -3983,7 +3983,7 @@ Standard Google Earth format. Cannot contain media.
 ```
 translated (by machine 🤖) as:
 ```
-표준 Google Earth 형식입니다. 미디어를 포함 할 수 없습니다.
+Standard Google Earth format. Cannot contain media.
 ```
 
 
@@ -3993,7 +3993,7 @@ Zip Google Earth format. Can contain media.
 ```
 translated (by machine 🤖) as:
 ```
-Zip Google Earth 형식입니다. 미디어를 포함 할 수 있습니다.
+Zip Google Earth format. Can contain media.
 ```
 
 
@@ -4003,7 +4003,7 @@ Standard text spreadsheet format. Cannot contain media. Cannot contain lines or 
 ```
 translated (by machine 🤖) as:
 ```
-표준 텍스트 스프레드 시트 형식. 미디어를 포함 할 수 없습니다. 선 또는 다각형을 포함 할 수 없습니다.
+Standard text spreadsheet format. Cannot contain media. Cannot contain lines or polygons.
 ```
 
 
@@ -4013,7 +4013,7 @@ Marker as plain text
 ```
 translated (by machine 🤖) as:
 ```
-일반 텍스트로 마커
+Marker as plain text
 ```
 
 
@@ -4023,7 +4023,7 @@ Marker as file
 ```
 translated (by machine 🤖) as:
 ```
-파일로 마커
+Marker as file
 ```
 
 
@@ -4033,7 +4033,7 @@ Share the selected marker as a file into another app
 ```
 translated (by machine 🤖) as:
 ```
-다른 응용 프로그램에 파일로 선택한 마커를 공유하기
+Share the selected marker as a file into another app
 ```
 
 
@@ -4043,7 +4043,7 @@ Share as file
 ```
 translated (by machine 🤖) as:
 ```
-파일로 공유하기
+Share as file
 ```
 
 
@@ -4053,7 +4053,7 @@ Export to a local file
 ```
 translated (by machine 🤖) as:
 ```
-로컬 파일로 내보내기
+Export to a local file
 ```
 
 
@@ -4063,7 +4063,7 @@ Import or export markers as files
 ```
 translated (by machine 🤖) as:
 ```
-파일로 가져 오기 또는 내보내기 마커
+Import or export markers as files
 ```
 
 
@@ -4073,7 +4073,7 @@ The data to export contains complex markers (lines or polygons) that cannot be i
 ```
 translated (by machine 🤖) as:
 ```
-수출에 대한 데이터는이 내보내기 형식에 포함 할 수없는 복잡한 마커 (선 또는 다각형)가 포함되어 있습니다. 데이터는 그 마커없이 내 보냅니다. 모두를 내보내려면 선택 KMZ 수출 형식을.
+The data to export contains complex markers (lines or polygons) that cannot be included with this export format. The data will be exported without those markers. To export everything, choose the KMZ export format.
 ```
 
 
@@ -4083,7 +4083,7 @@ Add custom field
 ```
 translated (by machine 🤖) as:
 ```
-사용자 정의 필드 추가
+Add custom field
 ```
 
 
@@ -4093,7 +4093,7 @@ Information
 ```
 translated (by machine 🤖) as:
 ```
-정보
+Information
 ```
 
 
@@ -4103,7 +4103,7 @@ Custom fields
 ```
 translated (by machine 🤖) as:
 ```
-사용자 정의 필드
+Custom fields
 ```
 
 
@@ -4113,7 +4113,7 @@ Field name
 ```
 translated (by machine 🤖) as:
 ```
-분야 명
+Field name
 ```
 
 
@@ -4123,7 +4123,7 @@ Delete field
 ```
 translated (by machine 🤖) as:
 ```
-입력란 삭제
+Delete field
 ```
 
 
@@ -4133,7 +4133,7 @@ Attributes
 ```
 translated (by machine 🤖) as:
 ```
-속성
+Attributes
 ```
 
 
@@ -4143,7 +4143,7 @@ New custom field
 ```
 translated (by machine 🤖) as:
 ```
-새 맞춤 입력란
+New custom field
 ```
 
 
@@ -4153,7 +4153,7 @@ Modify custom field
 ```
 translated (by machine 🤖) as:
 ```
-사용자 정의 필드 수정
+Modify custom field
 ```
 
 
@@ -4163,7 +4163,7 @@ Field enabled. For folders, if enabled, that field will be added automatically t
 ```
 translated (by machine 🤖) as:
 ```
-사용 가능한 필드. 폴더의 경우, 활성화하면 해당 필드가 생성시 하위 POI에 자동으로 추가됩니다. POI의 경우, 활성화 된 경우 해당 필드가 세부 정보 페이지에 표시됩니다.
+Field enabled. For folders, if enabled, that field will be added automatically to children POIs on creation. For POIs, if enabled, that field will be visible in the details page.
 ```
 
 
@@ -4173,7 +4173,7 @@ Field info
 ```
 translated (by machine 🤖) as:
 ```
-필드 정보
+Field info
 ```
 
 
@@ -4183,7 +4183,7 @@ Select field type
 ```
 translated (by machine 🤖) as:
 ```
-입력란 유형 선택
+Select field type
 ```
 
 
@@ -4193,7 +4193,7 @@ Boolean (True or False)
 ```
 translated (by machine 🤖) as:
 ```
-부울 (True 또는 False)
+Boolean (True or False)
 ```
 
 
@@ -4203,7 +4203,7 @@ Default value
 ```
 translated (by machine 🤖) as:
 ```
-기본값
+Default value
 ```
 
 
@@ -4213,7 +4213,7 @@ Date
 ```
 translated (by machine 🤖) as:
 ```
-날짜
+Date
 ```
 
 
@@ -4223,7 +4223,7 @@ Email
 ```
 translated (by machine 🤖) as:
 ```
-이메일
+Email
 ```
 
 
@@ -4233,7 +4233,7 @@ Text
 ```
 translated (by machine 🤖) as:
 ```
-본문
+Text
 ```
 
 
@@ -4243,7 +4243,7 @@ Multiple choice
 ```
 translated (by machine 🤖) as:
 ```
-다중 선택
+Multiple choice
 ```
 
 
@@ -4253,7 +4253,7 @@ Add choice
 ```
 translated (by machine 🤖) as:
 ```
-선택 사항 추가
+Add choice
 ```
 
 
@@ -4263,7 +4263,7 @@ Duplicates are not allowed
 ```
 translated (by machine 🤖) as:
 ```
-중복은 허용되지 않습니다.
+Duplicates are not allowed
 ```
 
 
@@ -4273,7 +4273,7 @@ Phone
 ```
 translated (by machine 🤖) as:
 ```
-전화
+Phone
 ```
 
 
@@ -4283,7 +4283,7 @@ Web link
 ```
 translated (by machine 🤖) as:
 ```
-웹 링크
+Web link
 ```
 
 
@@ -4293,7 +4293,7 @@ Choices list
 ```
 translated (by machine 🤖) as:
 ```
-선택 목록
+Choices list
 ```
 
 
@@ -4303,7 +4303,7 @@ Select default value
 ```
 translated (by machine 🤖) as:
 ```
-기본값 선택
+Select default value
 ```
 
 
@@ -4313,7 +4313,7 @@ Creation date
 ```
 translated (by machine 🤖) as:
 ```
-생산 일
+Creation date
 ```
 
 
@@ -4323,7 +4323,7 @@ POI Options
 ```
 translated (by machine 🤖) as:
 ```
-관심 장소 옵션
+POI Options
 ```
 
 
@@ -4333,7 +4333,7 @@ Delete POI
 ```
 translated (by machine 🤖) as:
 ```
-관심 장소 삭제
+Delete POI
 ```
 
 
@@ -4343,7 +4343,7 @@ Select value
 ```
 translated (by machine 🤖) as:
 ```
-값 선택
+Select value
 ```
 
 
@@ -4353,7 +4353,7 @@ Used by folders
 ```
 translated (by machine 🤖) as:
 ```
-폴더별로 사용
+Used by folders
 ```
 
 
@@ -4363,7 +4363,7 @@ Edit field
 ```
 translated (by machine 🤖) as:
 ```
-입력란 수정
+Edit field
 ```
 
 
@@ -4373,7 +4373,7 @@ Add folder field
 ```
 translated (by machine 🤖) as:
 ```
-폴더 추가 필드
+Add folder field
 ```
 
 
@@ -4383,7 +4383,7 @@ Reorder fields
 ```
 translated (by machine 🤖) as:
 ```
-필드 재정렬
+Reorder fields
 ```
 
 
@@ -4393,7 +4393,7 @@ Pick the fields you want to apply to this folder\'s POIs
 ```
 translated (by machine 🤖) as:
 ```
-이 폴더의 POI에 적용 할 입력란을 선택하십시오.
+Pick the fields you want to apply to this folder\'s POIs
 ```
 
 
@@ -4403,7 +4403,7 @@ The destination folder has different field values. Pick the fields you want to a
 ```
 translated (by machine 🤖) as:
 ```
-대상 폴더의 필드 값이 다릅니다. 이동 된 관심 장소에 적용 할 입력란을 선택하십시오.
+The destination folder has different field values. Pick the fields you want to apply to moved POIs.
 ```
 
 
@@ -4413,7 +4413,7 @@ Update color
 ```
 translated (by machine 🤖) as:
 ```
-색상 업데이트
+Update color
 ```
 
 
@@ -4423,7 +4423,7 @@ Update pin icon
 ```
 translated (by machine 🤖) as:
 ```
-핀 아이콘 업데이트
+Update pin icon
 ```
 
 
@@ -4433,7 +4433,7 @@ Add field if missing: %s
 ```
 translated (by machine 🤖) as:
 ```
-누락 된 필드 추가 : %s
+Add field if missing: %s
 ```
 
 
@@ -4443,7 +4443,7 @@ Remove field if present: %s
 ```
 translated (by machine 🤖) as:
 ```
-필드가 있으면 제거하십시오 : %s
+Remove field if present: %s
 ```
 
 
@@ -4453,7 +4453,7 @@ Update field name if different: %s
 ```
 translated (by machine 🤖) as:
 ```
-다른 경우 필드 이름 업데이트 : %s
+Update field name if different: %s
 ```
 
 
@@ -4463,7 +4463,7 @@ More options…
 ```
 translated (by machine 🤖) as:
 ```
-추가 옵션&#8230;
+More options…
 ```
 
 
@@ -4473,7 +4473,7 @@ Folder options
 ```
 translated (by machine 🤖) as:
 ```
-폴더 옵션
+Folder options
 ```
 
 
@@ -4483,7 +4483,7 @@ Edit email
 ```
 translated (by machine 🤖) as:
 ```
-email 수정
+Edit email
 ```
 
 
@@ -4493,7 +4493,7 @@ Edit web link
 ```
 translated (by machine 🤖) as:
 ```
-웹 링크 수정
+Edit web link
 ```
 
 
@@ -4503,7 +4503,7 @@ Decimal accuracy
 ```
 translated (by machine 🤖) as:
 ```
-십진법 정확도
+Decimal accuracy
 ```
 
 
@@ -4513,7 +4513,7 @@ Details copied to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-클립 보드에 복사 된 세부 정보
+Details copied to clipboard
 ```
 
 
@@ -4523,7 +4523,7 @@ Copy
 ```
 translated (by machine 🤖) as:
 ```
-부
+Copy
 ```
 
 
@@ -4533,7 +4533,7 @@ Do you want to click here? ^‿^
 ```
 translated (by machine 🤖) as:
 ```
-여기를 클릭 하시겠습니까? ^ ‿ ^
+Do you want to click here? ^‿^
 ```
 
 
@@ -4561,25 +4561,25 @@ Sébastien
 ```
 translated (by machine 🤖) as:
 ```
-이봐 요, 호기심에 감사드립니다! 
- 
- 여기 광고 배너가 있었는데 뭔가 다른 것을 시도하고이 간단한 메시지로 바꾸기로 결정했습니다&#8230; 
- 
- 취미로 내 앱을 만들었습니다 추가적으로 풀 타임 일을하는 데 더하여, 그것은 4 년 넘게 많은 시간을 보냈던 측면 프로젝트가되었습니다. 
- 
- 당신이 앱을 좋아하고 유용하다고 생각하길 바랍니다. 나는 당신이 지불하지 않고 모든 것을 할 수있는 방식으로 만들었습니다, 조금 더 많은 작업이 필요할지도 모릅니다. 데이터를 수동으로 가져 오거나 내보낼 수 있으므로 지불 할 필요가 없으므로 클라우드 동기화가 더욱 편리합니다. 
- 
- 앱이 마음에 들면 그것을 지원하십시오. 돈을 쓸 필요가 없습니다. 그 어떤 제스처라도 도움이됩니다 : 
- - 주변 사람들과 앱에 대해 이야기하십시오 
- - 앱을 상점에서 추천하도록 평가하십시오. 
- - 프리미엄 업그레이드를 구입하십시오 (하단 배너가 제거됩니다) 
- 
- 앱이 마음에 들지 않으면 email 하십시오. ( "about"섹션에서) 어떻게 개선 할 수 있는지 알려주십시오. 나는 그들이 놓친 것에 대해 나에게 말한 많은 사용자들의 피드백 덕분에 지금까지이 기회를 얻었으며, 나는 모든 email 답장을 보내고 있으므로 부끄러워 말라! 
- 
- 그리고 마지막으로,이 읽어 주셔서 감사합니다 :-) 
- 
- 안부 
- 세바스티앙를
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time for over 4 years now.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
 ```
 
 
@@ -4589,7 +4589,7 @@ Normal with indoor
 ```
 translated (by machine 🤖) as:
 ```
-실내 일반
+Normal with indoor
 ```
 
 
@@ -4599,7 +4599,7 @@ Floating marker titles
 ```
 translated (by machine 🤖) as:
 ```
-떠있는 마커 제목
+Floating marker titles
 ```
 
 
@@ -4609,7 +4609,7 @@ Maximum number
 ```
 translated (by machine 🤖) as:
 ```
-최대 수
+Maximum number
 ```
 
 
@@ -4619,7 +4619,7 @@ Text size
 ```
 translated (by machine 🤖) as:
 ```
-텍스트 크기
+Text size
 ```
 
 
@@ -4629,7 +4629,7 @@ Search failed => %s
 ```
 translated (by machine 🤖) as:
 ```
-검색 실패 =&gt; %s
+Search failed => %s
 ```
 
 
@@ -4639,7 +4639,7 @@ API key tutorial
 ```
 translated (by machine 🤖) as:
 ```
-API key 튜토리얼
+API key tutorial
 ```
 
 
@@ -4649,7 +4649,7 @@ Click here to see details on how to obtain an API key for your account.
 ```
 translated (by machine 🤖) as:
 ```
-귀하의 계정에 API key을 얻는 방법에 대한 자세한 내용을 보려면 여기를 클릭하십시오.
+Click here to see details on how to obtain an API key for your account.
 ```
 
 
@@ -4659,7 +4659,7 @@ Personal API key
 ```
 translated (by machine 🤖) as:
 ```
-개인 API key
+Personal API key
 ```
 
 
@@ -4669,7 +4669,7 @@ None
 ```
 translated (by machine 🤖) as:
 ```
-없음
+None
 ```
 
 
@@ -4681,9 +4681,9 @@ You have configured your personal Google Places API key: your search will be usi
 ```
 translated (by machine 🤖) as:
 ```
-"Google Places API"이 (가)있는 장소를 검색 할 수 있습니다. 이 검색에는 인터넷 연결이 필요합니다.
+You can search for places with "Google Places API". This search requires an internet connection.
 
-개인 Google Places API 키를 구성했습니다 : 개인 Google Places API 검색 할당량을 사용하여 검색합니다.
+You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
 ```
 
 
@@ -4693,7 +4693,7 @@ Do you enjoy the app?
 ```
 translated (by machine 🤖) as:
 ```
-이 앱을 즐기십니까?
+Do you enjoy the app?
 ```
 
 
@@ -4703,7 +4703,7 @@ Would you like to send me an email to tell me how I could improve the app?
 ```
 translated (by machine 🤖) as:
 ```
-앱을 개선 할 수있는 방법을 알려주기 위해 email을 보내시겠습니까?
+Would you like to send me an email to tell me how I could improve the app?
 ```
 
 
@@ -4713,7 +4713,7 @@ Display extra POI fields
 ```
 translated (by machine 🤖) as:
 ```
-추가 POI 필드 표시
+Display extra POI fields
 ```
 
 
@@ -4723,7 +4723,7 @@ IGN plans
 ```
 translated (by machine 🤖) as:
 ```
-IGN 계획
+IGN plans
 ```
 
 
@@ -4733,7 +4733,7 @@ IGN maps
 ```
 translated (by machine 🤖) as:
 ```
-IGN 맵
+IGN maps
 ```
 
 
@@ -4743,7 +4743,7 @@ IGN - Cadastral parcels
 ```
 translated (by machine 🤖) as:
 ```
-IGN - 지적 구획
+IGN - Cadastral parcels
 ```
 
 
@@ -4753,7 +4753,7 @@ IGN - Aerial
 ```
 translated (by machine 🤖) as:
 ```
-IGN - 항공
+IGN - Aerial
 ```
 
 
@@ -4763,7 +4763,7 @@ Type more and press enter again for refined results
 ```
 translated (by machine 🤖) as:
 ```
-more를 입력하고 Enter 키를 다시 누르면 세련된 결과가 나타납니다.
+Type more and press enter again for refined results
 ```
 
 
@@ -4773,7 +4773,7 @@ External search
 ```
 translated (by machine 🤖) as:
 ```
-외부 검색
+External search
 ```
 
 
@@ -4783,7 +4783,7 @@ Search source
 ```
 translated (by machine 🤖) as:
 ```
-검색 소스
+Search source
 ```
 
 
@@ -4793,7 +4793,7 @@ Map Marker's Nominatim server
 ```
 translated (by machine 🤖) as:
 ```
-Map Marker 님의 Nominatim 서버
+Map Marker's Nominatim server
 ```
 
 
@@ -4803,7 +4803,7 @@ Google Places Search API
 ```
 translated (by machine 🤖) as:
 ```
-Google 지역 정보 검색 API
+Google Places Search API
 ```
 
 
@@ -4823,7 +4823,7 @@ You can search for places with "%s". This search requires an internet connection
 ```
 translated (by machine 🤖) as:
 ```
-"%s"이 (가)있는 장소를 검색 할 수 있습니다. 이 검색에는 인터넷 연결이 필요합니다. 검색을 입력 한 다음 Enter 키를 누릅니다.
+You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
 ```
 
 
@@ -4833,7 +4833,7 @@ Special thanks
 ```
 translated (by machine 🤖) as:
 ```
-특별 감사
+Special thanks
 ```
 
 
@@ -4843,7 +4843,7 @@ A special thank you to the people who helped me
 ```
 translated (by machine 🤖) as:
 ```
-특별한 도움을 주신 사람들에게 감사드립니다.
+A special thank you to the people who helped me
 ```
 
 
@@ -4857,11 +4857,11 @@ Also, thank you to all the users who gave me feedback over the years and continu
 ```
 translated (by machine 🤖) as:
 ```
-앱 번역을 돕기 위해 열심히 노력한 사람들에게 감사드립니다.
+Special thanks to the people who worked hard to help with the app translations:
 %s
-... 그리고 언급을 거절 한 사람들
+…And also those who declined mention
 
-또한 수년 동안 저에게 의견을 보내 주신 모든 사용자에게 감사 드리며 지속적으로 앱을 개선하는 데 지속적으로 도움이되었습니다.
+Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
 ```
 
 
@@ -4871,5 +4871,5 @@ Map Marker's Pelias server
 ```
 translated (by machine 🤖) as:
 ```
-Map Marker의 Pelias 서버
+Map Marker's Pelias server
 ```

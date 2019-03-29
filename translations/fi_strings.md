@@ -4863,3 +4863,13 @@ Erityinen kiitos ihmisille, jotka ovat tehneet kovasti töitä apuohjelman kää
 
 Kiitos myös kaikille käyttäjille, jotka antoivat minulle palautetta vuosien varrella ja auttoivat minua jatkuvasti tekemään sovelluksesta paremman.
 ```
+
+
+## Translation Key: search_source_pelias
+```
+Map Marker's Pelias server
+```
+translated (by machine 🤖) as:
+```
+Map Marker: n Pelias-palvelin
+```
