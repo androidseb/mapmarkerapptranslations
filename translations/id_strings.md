@@ -3531,7 +3531,7 @@ Tampilkan ikon peringatan untuk sinkronisasi
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 sync itu dibatalkan karena salah satu file media pada awan itu hilang. Anda dapat mengabaikan file yang hilang dengan mengklik "kekuatan sync". Peringatan, mengabaikan file yang hilang akan mengakibatkan menghapus mereka dari database, yang berarti bahwa perangkat lain masih memiliki salinan lokal file akan menghapusnya setelah sync.
 ```
@@ -4872,4 +4872,372 @@ Map Marker's Pelias server
 translated (by machine 🤖) as:
 ```
 Server Pelias Map Marker
+```
+
+
+## Translation Key: ios_local_map_file
+```
+Local map file
+```
+translated (by machine 🤖) as:
+```
+File peta lokal
+```
+
+
+## Translation Key: ios_delete
+```
+Delete
+```
+translated (by machine 🤖) as:
+```
+Menghapus
+```
+
+
+## Translation Key: ios_search_places
+```
+Search places
+```
+translated (by machine 🤖) as:
+```
+Cari tempat
+```
+
+
+## Translation Key: marker_search_result_text_create_marker
+```
+Create marker
+```
+translated (by machine 🤖) as:
+```
+Buat penanda
+```
+
+
+## Translation Key: ios_cloud_map_file_with_account
+```
+Cloud map file with account:
+```
+translated (by machine 🤖) as:
+```
+File peta cloud dengan akun:
+```
+
+
+## Translation Key: ios_premium_options_dialog_info
+```
+Information
+```
+translated (by machine 🤖) as:
+```
+Informasi
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_body
+```
+Exclusive premium features:
+- No ads
+- Sync on Google Drive
+- Collaborate via Google Drive
+
+You can purchase the lifetime premium upgrade for your Apple account by clicking the "Purchase" button below.
+```
+translated (by machine 🤖) as:
+```
+Fitur premium eksklusif:
+- Tanpa iklan
+- Sinkronisasi pada Google Drive
+- Berkolaborasi via Google Drive
+
+Anda dapat membeli pemutakhiran premium seumur hidup untuk akun Apple Anda dengan mengeklik tombol "Beli" di bawah.
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_cta_purchase
+```
+Purchase
+```
+translated (by machine 🤖) as:
+```
+Membeli
+```
+
+
+## Translation Key: ios_premium_restore_dialog_title
+```
+Restore premium upgrade
+```
+translated (by machine 🤖) as:
+```
+Kembalikan upgrade premium
+```
+
+
+## Translation Key: ios_premium_restore_dialog_body
+```
+If you have purchased the premium upgrade with your Apple account, you can restore it by tapping the "Restore" button below. Do you want to restore it?
+```
+translated (by machine 🤖) as:
+```
+Jika Anda telah membeli pemutakhiran premium dengan akun Apple Anda, Anda dapat memulihkannya dengan mengetuk tombol "Pulihkan" di bawah. Apakah Anda ingin mengembalikannya?
+```
+
+
+## Translation Key: ios_premium_restore_dialog_cta_restore_purchases
+```
+Restore Purchases
+```
+translated (by machine 🤖) as:
+```
+Mengembalikan pembelian
+```
+
+
+## Translation Key: ios_premium_restore_succeeded
+```
+Premium upgrade successfully restored!
+```
+translated (by machine 🤖) as:
+```
+Pembaruan premium berhasil dipulihkan!
+```
+
+
+## Translation Key: ios_iap_error_premium_restore_failed
+```
+Could not restore the premium upgrade from your account
+```
+translated (by machine 🤖) as:
+```
+Tidak dapat mengembalikan pemutakhiran premium dari akun Anda
+```
+
+
+## Translation Key: ios_iap_error_retrieving_product_information
+```
+Error: could not retrieve the product information.
+```
+translated (by machine 🤖) as:
+```
+Kesalahan: tidak dapat mengambil informasi produk.
+```
+
+
+## Translation Key: ios_iap_error_cannot_make_payments
+```
+Error: it seems your iTunes account is not able to make payments. Please verify your payment settings and try again.
+```
+translated (by machine 🤖) as:
+```
+Kesalahan: sepertinya akun iTunes Anda tidak dapat melakukan pembayaran. Harap verifikasi pengaturan pembayaran Anda dan coba lagi.
+```
+
+
+## Translation Key: ios_iap_error_purchase_failed
+```
+Error: purchase failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Kesalahan: pembelian gagal, silakan coba lagi.
+```
+
+
+## Translation Key: ios_iap_error_itunes_connect_store
+```
+Error: could not connect to iTunes store.
+```
+translated (by machine 🤖) as:
+```
+Kesalahan: tidak dapat terhubung ke iTunes store.
+```
+
+
+## Translation Key: ios_has_local_changes_last_sync
+```
+Has local changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+Memiliki perubahan lokal, sinkronisasi terakhir:
+```
+
+
+## Translation Key: ios_has_cloud_changes_last_sync
+```
+Has cloud changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+Memiliki perubahan cloud, sinkronisasi terakhir:
+```
+
+
+## Translation Key: ios_all_changes_synced_last_sync
+```
+All changes synced, last sync:
+```
+translated (by machine 🤖) as:
+```
+Semua perubahan disinkronkan, sinkronisasi terakhir:
+```
+
+
+## Translation Key: ios_message_sync_error_occured_db_version_too_old
+```
+A sync error occurred: the cloud data was created with an older version of the Android app. You need to sync the cloud data again from a more recent version of the Android app before it can be synced here.
+```
+translated (by machine 🤖) as:
+```
+Terjadi kesalahan sinkronisasi: data cloud dibuat dengan versi aplikasi Android yang lebih lama. Anda perlu menyinkronkan lagi data cloud dari versi aplikasi Android yang lebih baru sebelum dapat disinkronkan di sini.
+```
+
+
+## Translation Key: ios_message_sync_error_missing_cloud_file
+```
+A sync error occurred: an essential cloud file could not be found.
+
+If you own the cloud account where the cloud map is located, then you probably accidentally deleted it, check your cloud trash folder, you might be able to restore it!
+
+If the cloud account where the cloud map is located is not your own and is shared with you, ask the cloud account owner.
+```
+translated (by machine 🤖) as:
+```
+Terjadi kesalahan sinkronisasi: file cloud yang penting tidak dapat ditemukan.
+
+Jika Anda memiliki akun cloud di mana peta cloud berada, maka Anda mungkin secara tidak sengaja menghapusnya, periksa folder tempat sampah cloud Anda, Anda mungkin dapat mengembalikannya!
+
+Jika akun cloud tempat peta cloud itu bukan milik Anda dan dibagikan dengan Anda, tanyakan kepada pemilik akun cloud.
+```
+
+
+## Translation Key: react_webapp_file_dropzone_hint_text
+```
+Drop some files here, or click to select files to upload.
+```
+translated (by machine 🤖) as:
+```
+Letakkan beberapa file di sini, atau klik untuk memilih file yang akan diunggah.
+```
+
+
+## Translation Key: react_webapp_file_dropzone_uploading_text
+```
+Uploading files…
+```
+translated (by machine 🤖) as:
+```
+Mengunggah file ...
+```
+
+
+## Translation Key: react_webapp_cannot_add_images_on_local_map_message
+```
+You need to open a cloud map in order to be able to add images. Open a cloud map, or sync this map to the cloud and try again.
+```
+translated (by machine 🤖) as:
+```
+Anda harus membuka peta cloud agar dapat menambahkan gambar. Buka peta cloud, atau sinkronkan peta ini ke cloud dan coba lagi.
+```
+
+
+## Translation Key: some_files_failed_to_upload
+```
+Some files failed to upload.
+```
+translated (by machine 🤖) as:
+```
+Beberapa file gagal diunggah.
+```
+
+
+## Translation Key: react_webapp_log_in_title
+```
+Log in
+```
+translated (by machine 🤖) as:
+```
+Masuk
+```
+
+
+## Translation Key: react_webapp_log_in_message
+```
+To continue, you need to log in with your cloud account. Click the "log in" button below to log in.
+```
+translated (by machine 🤖) as:
+```
+Untuk melanjutkan, Anda harus masuk dengan akun cloud Anda. Klik tombol "masuk" di bawah untuk masuk.
+```
+
+
+## Translation Key: react_webapp_select_file_title
+```
+Select a file
+```
+translated (by machine 🤖) as:
+```
+Pilih file
+```
+
+
+## Translation Key: react_webapp_select_file_message
+```
+Drop a file here, or click here to select from your computer.
+```
+translated (by machine 🤖) as:
+```
+Letakkan file di sini, atau klik di sini untuk memilih dari komputer Anda.
+```
+
+
+## Translation Key: react_app_use_cloud_account_x
+```
+Use cloud account: %s
+```
+translated (by machine 🤖) as:
+```
+Gunakan akun cloud: %s
+```
+
+
+## Translation Key: react_app_use_other_cloud_account
+```
+Use other cloud account
+```
+translated (by machine 🤖) as:
+```
+Gunakan akun cloud lainnya
+```
+
+
+## Translation Key: react_app_choices_list_cannot_be_empty
+```
+The choices list cannot be empty
+```
+translated (by machine 🤖) as:
+```
+Daftar pilihan tidak boleh kosong
+```
+
+
+## Translation Key: react_app_empty_choices_are_not_allowed
+```
+Empty choices are not allowed
+```
+translated (by machine 🤖) as:
+```
+Pilihan kosong tidak diperbolehkan
+```
+
+
+## Translation Key: react_app_custom_field_name_cannot_be_empty
+```
+The name of the custom field cannot be empty
+```
+translated (by machine 🤖) as:
+```
+Nama bidang khusus tidak boleh kosong
 ```

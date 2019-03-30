@@ -3531,7 +3531,7 @@ Mostrar ícone de aviso para sincronização
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 A sincronização foi abortado porque um dos arquivos de mídia na nuvem estava faltando. Você pode ignorar arquivos ausentes clicando "força sync". Aviso, ignorando os arquivos que faltam resultará em removê-los do banco de dados, o que significa que outros dispositivos ainda ter uma cópia local do arquivo irá excluí-lo em cima de sincronização.
 ```
@@ -4872,4 +4872,372 @@ Map Marker's Pelias server
 translated (by machine 🤖) as:
 ```
 Servidor Pelias do Map Marker
+```
+
+
+## Translation Key: ios_local_map_file
+```
+Local map file
+```
+translated (by machine 🤖) as:
+```
+Arquivo de mapa local
+```
+
+
+## Translation Key: ios_delete
+```
+Delete
+```
+translated (by machine 🤖) as:
+```
+Excluir
+```
+
+
+## Translation Key: ios_search_places
+```
+Search places
+```
+translated (by machine 🤖) as:
+```
+Pesquisar lugares
+```
+
+
+## Translation Key: marker_search_result_text_create_marker
+```
+Create marker
+```
+translated (by machine 🤖) as:
+```
+Criar marcador
+```
+
+
+## Translation Key: ios_cloud_map_file_with_account
+```
+Cloud map file with account:
+```
+translated (by machine 🤖) as:
+```
+Arquivo de mapa da nuvem com conta:
+```
+
+
+## Translation Key: ios_premium_options_dialog_info
+```
+Information
+```
+translated (by machine 🤖) as:
+```
+Em formação
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_body
+```
+Exclusive premium features:
+- No ads
+- Sync on Google Drive
+- Collaborate via Google Drive
+
+You can purchase the lifetime premium upgrade for your Apple account by clicking the "Purchase" button below.
+```
+translated (by machine 🤖) as:
+```
+Recursos premium exclusivos:
+- sem anúncios
+- Sincronizar em Google Drive
+- Colabore via Google Drive
+
+Você pode adquirir a atualização premium vitalícia da sua conta da Apple clicando no botão "Comprar" abaixo.
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_cta_purchase
+```
+Purchase
+```
+translated (by machine 🤖) as:
+```
+Compra
+```
+
+
+## Translation Key: ios_premium_restore_dialog_title
+```
+Restore premium upgrade
+```
+translated (by machine 🤖) as:
+```
+Restaurar atualização premium
+```
+
+
+## Translation Key: ios_premium_restore_dialog_body
+```
+If you have purchased the premium upgrade with your Apple account, you can restore it by tapping the "Restore" button below. Do you want to restore it?
+```
+translated (by machine 🤖) as:
+```
+Se você comprou a atualização premium com sua conta da Apple, poderá restaurá-la tocando no botão "Restaurar" abaixo. Você quer restaurá-lo?
+```
+
+
+## Translation Key: ios_premium_restore_dialog_cta_restore_purchases
+```
+Restore Purchases
+```
+translated (by machine 🤖) as:
+```
+Restaurar compras
+```
+
+
+## Translation Key: ios_premium_restore_succeeded
+```
+Premium upgrade successfully restored!
+```
+translated (by machine 🤖) as:
+```
+Upgrade Premium restaurado com sucesso!
+```
+
+
+## Translation Key: ios_iap_error_premium_restore_failed
+```
+Could not restore the premium upgrade from your account
+```
+translated (by machine 🤖) as:
+```
+Não foi possível restaurar a atualização premium da sua conta
+```
+
+
+## Translation Key: ios_iap_error_retrieving_product_information
+```
+Error: could not retrieve the product information.
+```
+translated (by machine 🤖) as:
+```
+Erro: não foi possível recuperar as informações do produto.
+```
+
+
+## Translation Key: ios_iap_error_cannot_make_payments
+```
+Error: it seems your iTunes account is not able to make payments. Please verify your payment settings and try again.
+```
+translated (by machine 🤖) as:
+```
+Erro: parece que a sua conta do iTunes não é capaz de efetuar pagamentos. Confirme suas configurações de pagamento e tente novamente.
+```
+
+
+## Translation Key: ios_iap_error_purchase_failed
+```
+Error: purchase failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Erro: falha na compra, tente novamente.
+```
+
+
+## Translation Key: ios_iap_error_itunes_connect_store
+```
+Error: could not connect to iTunes store.
+```
+translated (by machine 🤖) as:
+```
+Erro: não foi possível conectar-se à loja do iTunes.
+```
+
+
+## Translation Key: ios_has_local_changes_last_sync
+```
+Has local changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+Tem alterações locais, última sincronização:
+```
+
+
+## Translation Key: ios_has_cloud_changes_last_sync
+```
+Has cloud changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+Tem alterações na nuvem, última sincronização:
+```
+
+
+## Translation Key: ios_all_changes_synced_last_sync
+```
+All changes synced, last sync:
+```
+translated (by machine 🤖) as:
+```
+Todas as alterações sincronizadas, última sincronização:
+```
+
+
+## Translation Key: ios_message_sync_error_occured_db_version_too_old
+```
+A sync error occurred: the cloud data was created with an older version of the Android app. You need to sync the cloud data again from a more recent version of the Android app before it can be synced here.
+```
+translated (by machine 🤖) as:
+```
+Ocorreu um erro de sincronização: os dados da nuvem foram criados com uma versão mais antiga do aplicativo para Android. Você precisa sincronizar os dados em nuvem novamente a partir de uma versão mais recente do aplicativo para Android antes que possa ser sincronizado aqui.
+```
+
+
+## Translation Key: ios_message_sync_error_missing_cloud_file
+```
+A sync error occurred: an essential cloud file could not be found.
+
+If you own the cloud account where the cloud map is located, then you probably accidentally deleted it, check your cloud trash folder, you might be able to restore it!
+
+If the cloud account where the cloud map is located is not your own and is shared with you, ask the cloud account owner.
+```
+translated (by machine 🤖) as:
+```
+Ocorreu um erro de sincronização: não foi possível encontrar um arquivo de nuvem essencial.
+
+Se você possui a conta na nuvem em que o mapa da nuvem está localizado, provavelmente a excluiu acidentalmente, verifique a pasta da lixeira na nuvem e talvez seja possível restaurá-la.
+
+Se a conta da nuvem em que o mapa da nuvem estiver localizado não for sua e for compartilhada com você, pergunte ao proprietário da conta na nuvem.
+```
+
+
+## Translation Key: react_webapp_file_dropzone_hint_text
+```
+Drop some files here, or click to select files to upload.
+```
+translated (by machine 🤖) as:
+```
+Solte alguns arquivos aqui ou clique para selecionar os arquivos para upload.
+```
+
+
+## Translation Key: react_webapp_file_dropzone_uploading_text
+```
+Uploading files…
+```
+translated (by machine 🤖) as:
+```
+Upload de arquivos ...
+```
+
+
+## Translation Key: react_webapp_cannot_add_images_on_local_map_message
+```
+You need to open a cloud map in order to be able to add images. Open a cloud map, or sync this map to the cloud and try again.
+```
+translated (by machine 🤖) as:
+```
+Você precisa abrir um mapa de nuvem para poder adicionar imagens. Abra um mapa da nuvem ou sincronize este mapa com a nuvem e tente novamente.
+```
+
+
+## Translation Key: some_files_failed_to_upload
+```
+Some files failed to upload.
+```
+translated (by machine 🤖) as:
+```
+Alguns arquivos não foram enviados.
+```
+
+
+## Translation Key: react_webapp_log_in_title
+```
+Log in
+```
+translated (by machine 🤖) as:
+```
+Entrar
+```
+
+
+## Translation Key: react_webapp_log_in_message
+```
+To continue, you need to log in with your cloud account. Click the "log in" button below to log in.
+```
+translated (by machine 🤖) as:
+```
+Para continuar, você precisa fazer o login com sua conta na nuvem. Clique no botão "fazer login" abaixo para fazer o login.
+```
+
+
+## Translation Key: react_webapp_select_file_title
+```
+Select a file
+```
+translated (by machine 🤖) as:
+```
+Selecione um arquivo
+```
+
+
+## Translation Key: react_webapp_select_file_message
+```
+Drop a file here, or click here to select from your computer.
+```
+translated (by machine 🤖) as:
+```
+Solte um arquivo aqui ou clique aqui para selecionar do seu computador.
+```
+
+
+## Translation Key: react_app_use_cloud_account_x
+```
+Use cloud account: %s
+```
+translated (by machine 🤖) as:
+```
+Use a conta da nuvem: %s
+```
+
+
+## Translation Key: react_app_use_other_cloud_account
+```
+Use other cloud account
+```
+translated (by machine 🤖) as:
+```
+Use outra conta na nuvem
+```
+
+
+## Translation Key: react_app_choices_list_cannot_be_empty
+```
+The choices list cannot be empty
+```
+translated (by machine 🤖) as:
+```
+A lista de opções não pode estar vazia
+```
+
+
+## Translation Key: react_app_empty_choices_are_not_allowed
+```
+Empty choices are not allowed
+```
+translated (by machine 🤖) as:
+```
+Escolhas vazias não são permitidas
+```
+
+
+## Translation Key: react_app_custom_field_name_cannot_be_empty
+```
+The name of the custom field cannot be empty
+```
+translated (by machine 🤖) as:
+```
+O nome do campo personalizado não pode estar vazio
 ```

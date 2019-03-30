@@ -4873,3 +4873,371 @@ translated (by machine 🤖) as:
 ```
 Serwer Pelias Map Marker
 ```
+
+
+## Translation Key: ios_local_map_file
+```
+Local map file
+```
+translated (by machine 🤖) as:
+```
+Plik mapy lokalnej
+```
+
+
+## Translation Key: ios_delete
+```
+Delete
+```
+translated (by machine 🤖) as:
+```
+Kasować
+```
+
+
+## Translation Key: ios_search_places
+```
+Search places
+```
+translated (by machine 🤖) as:
+```
+Wyszukaj miejsca
+```
+
+
+## Translation Key: marker_search_result_text_create_marker
+```
+Create marker
+```
+translated (by machine 🤖) as:
+```
+Utwórz znacznik
+```
+
+
+## Translation Key: ios_cloud_map_file_with_account
+```
+Cloud map file with account:
+```
+translated (by machine 🤖) as:
+```
+Plik mapy chmury z kontem:
+```
+
+
+## Translation Key: ios_premium_options_dialog_info
+```
+Information
+```
+translated (by machine 🤖) as:
+```
+Informacja
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_body
+```
+Exclusive premium features:
+- No ads
+- Sync on Google Drive
+- Collaborate via Google Drive
+
+You can purchase the lifetime premium upgrade for your Apple account by clicking the "Purchase" button below.
+```
+translated (by machine 🤖) as:
+```
+Ekskluzywne funkcje premium:
+- Bez reklam
+- Synchronizuj na Google Drive
+- Współpracuj przez Google Drive
+
+Możesz zakupić dożywotnią premię premium dla konta Apple, klikając przycisk „Kup” poniżej.
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_cta_purchase
+```
+Purchase
+```
+translated (by machine 🤖) as:
+```
+Zakup
+```
+
+
+## Translation Key: ios_premium_restore_dialog_title
+```
+Restore premium upgrade
+```
+translated (by machine 🤖) as:
+```
+Przywróć ulepszenie premium
+```
+
+
+## Translation Key: ios_premium_restore_dialog_body
+```
+If you have purchased the premium upgrade with your Apple account, you can restore it by tapping the "Restore" button below. Do you want to restore it?
+```
+translated (by machine 🤖) as:
+```
+Jeśli zakupiłeś upgrade premium z kontem Apple, możesz go przywrócić, klikając przycisk „Przywróć” poniżej. Czy chcesz go przywrócić?
+```
+
+
+## Translation Key: ios_premium_restore_dialog_cta_restore_purchases
+```
+Restore Purchases
+```
+translated (by machine 🤖) as:
+```
+Przywróć zakupy
+```
+
+
+## Translation Key: ios_premium_restore_succeeded
+```
+Premium upgrade successfully restored!
+```
+translated (by machine 🤖) as:
+```
+Aktualizacja Premium została pomyślnie przywrócona!
+```
+
+
+## Translation Key: ios_iap_error_premium_restore_failed
+```
+Could not restore the premium upgrade from your account
+```
+translated (by machine 🤖) as:
+```
+Nie można przywrócić ulepszenia premium z konta
+```
+
+
+## Translation Key: ios_iap_error_retrieving_product_information
+```
+Error: could not retrieve the product information.
+```
+translated (by machine 🤖) as:
+```
+Błąd: nie można pobrać informacji o produkcie.
+```
+
+
+## Translation Key: ios_iap_error_cannot_make_payments
+```
+Error: it seems your iTunes account is not able to make payments. Please verify your payment settings and try again.
+```
+translated (by machine 🤖) as:
+```
+Błąd: wydaje się, że Twoje konto iTunes nie jest w stanie dokonywać płatności. Sprawdź ustawienia płatności i spróbuj ponownie.
+```
+
+
+## Translation Key: ios_iap_error_purchase_failed
+```
+Error: purchase failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Błąd: zakup nie powiódł się, spróbuj ponownie.
+```
+
+
+## Translation Key: ios_iap_error_itunes_connect_store
+```
+Error: could not connect to iTunes store.
+```
+translated (by machine 🤖) as:
+```
+Błąd: nie można połączyć się ze sklepem iTunes.
+```
+
+
+## Translation Key: ios_has_local_changes_last_sync
+```
+Has local changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+Ma lokalne zmiany, ostatnia synchronizacja:
+```
+
+
+## Translation Key: ios_has_cloud_changes_last_sync
+```
+Has cloud changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+Czy zmiany w chmurze, ostatnia synchronizacja:
+```
+
+
+## Translation Key: ios_all_changes_synced_last_sync
+```
+All changes synced, last sync:
+```
+translated (by machine 🤖) as:
+```
+Wszystkie zmiany zsynchronizowane, ostatnia synchronizacja:
+```
+
+
+## Translation Key: ios_message_sync_error_occured_db_version_too_old
+```
+A sync error occurred: the cloud data was created with an older version of the Android app. You need to sync the cloud data again from a more recent version of the Android app before it can be synced here.
+```
+translated (by machine 🤖) as:
+```
+Wystąpił błąd synchronizacji: dane w chmurze zostały utworzone przy użyciu starszej wersji aplikacji na Androida. Musisz ponownie zsynchronizować dane w chmurze z nowszej wersji aplikacji na Androida, zanim będzie można ją tutaj zsynchronizować.
+```
+
+
+## Translation Key: ios_message_sync_error_missing_cloud_file
+```
+A sync error occurred: an essential cloud file could not be found.
+
+If you own the cloud account where the cloud map is located, then you probably accidentally deleted it, check your cloud trash folder, you might be able to restore it!
+
+If the cloud account where the cloud map is located is not your own and is shared with you, ask the cloud account owner.
+```
+translated (by machine 🤖) as:
+```
+Wystąpił błąd synchronizacji: nie można znaleźć istotnego pliku chmury.
+
+Jeśli posiadasz konto w chmurze, na którym znajduje się mapa chmur, prawdopodobnie przypadkowo go usunąłeś, sprawdź folder śmieci w chmurze, możesz go przywrócić!
+
+Jeśli konto w chmurze, na którym znajduje się mapa w chmurze, nie jest twoje i jest Ci udostępniane, zapytaj właściciela konta w chmurze.
+```
+
+
+## Translation Key: react_webapp_file_dropzone_hint_text
+```
+Drop some files here, or click to select files to upload.
+```
+translated (by machine 🤖) as:
+```
+Upuść tutaj niektóre pliki lub kliknij, aby wybrać pliki do przesłania.
+```
+
+
+## Translation Key: react_webapp_file_dropzone_uploading_text
+```
+Uploading files…
+```
+translated (by machine 🤖) as:
+```
+Przesyłanie plików…
+```
+
+
+## Translation Key: react_webapp_cannot_add_images_on_local_map_message
+```
+You need to open a cloud map in order to be able to add images. Open a cloud map, or sync this map to the cloud and try again.
+```
+translated (by machine 🤖) as:
+```
+Musisz otworzyć mapę w chmurze, aby móc dodawać obrazy. Otwórz mapę w chmurze lub zsynchronizuj tę mapę z chmurą i spróbuj ponownie.
+```
+
+
+## Translation Key: some_files_failed_to_upload
+```
+Some files failed to upload.
+```
+translated (by machine 🤖) as:
+```
+Niektóre pliki nie zostały przesłane.
+```
+
+
+## Translation Key: react_webapp_log_in_title
+```
+Log in
+```
+translated (by machine 🤖) as:
+```
+Zaloguj Się
+```
+
+
+## Translation Key: react_webapp_log_in_message
+```
+To continue, you need to log in with your cloud account. Click the "log in" button below to log in.
+```
+translated (by machine 🤖) as:
+```
+Aby kontynuować, musisz zalogować się na swoje konto w chmurze. Kliknij przycisk „Zaloguj się” poniżej, aby się zalogować.
+```
+
+
+## Translation Key: react_webapp_select_file_title
+```
+Select a file
+```
+translated (by machine 🤖) as:
+```
+Wybierz plik
+```
+
+
+## Translation Key: react_webapp_select_file_message
+```
+Drop a file here, or click here to select from your computer.
+```
+translated (by machine 🤖) as:
+```
+Upuść plik tutaj lub kliknij tutaj, aby wybrać z komputera.
+```
+
+
+## Translation Key: react_app_use_cloud_account_x
+```
+Use cloud account: %s
+```
+translated (by machine 🤖) as:
+```
+Użyj konta w chmurze: %s
+```
+
+
+## Translation Key: react_app_use_other_cloud_account
+```
+Use other cloud account
+```
+translated (by machine 🤖) as:
+```
+Użyj innego konta w chmurze
+```
+
+
+## Translation Key: react_app_choices_list_cannot_be_empty
+```
+The choices list cannot be empty
+```
+translated (by machine 🤖) as:
+```
+Lista wyborów nie może być pusta
+```
+
+
+## Translation Key: react_app_empty_choices_are_not_allowed
+```
+Empty choices are not allowed
+```
+translated (by machine 🤖) as:
+```
+Puste wybory nie są dozwolone
+```
+
+
+## Translation Key: react_app_custom_field_name_cannot_be_empty
+```
+The name of the custom field cannot be empty
+```
+translated (by machine 🤖) as:
+```
+Nazwa niestandardowego pola nie może być pusta
+```

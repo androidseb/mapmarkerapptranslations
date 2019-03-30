@@ -3531,7 +3531,7 @@ translated (by machine 🤖) as:
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 सिंक निरस्त किया गया था क्योंकि बादल पर मीडिया फ़ाइलों में से एक याद आ रही थी। आप "बल सिंक" पर क्लिक करके फाइल गायब अनदेखा कर सकते हैं। चेतावनी की अनदेखी लापता फाइलों उन्हें डेटाबेस, जिसका मतलब है कि अन्य उपकरणों अभी भी फ़ाइल की एक स्थानीय प्रतिलिपि होने सिंक पर इसे हटा देगा से हटाने में परिणाम होगा।
 ```
@@ -4872,4 +4872,372 @@ Map Marker's Pelias server
 translated (by machine 🤖) as:
 ```
 Map Marker का पेलियास सर्वर
+```
+
+
+## Translation Key: ios_local_map_file
+```
+Local map file
+```
+translated (by machine 🤖) as:
+```
+स्थानीय मानचित्र फ़ाइल
+```
+
+
+## Translation Key: ios_delete
+```
+Delete
+```
+translated (by machine 🤖) as:
+```
+हटाना
+```
+
+
+## Translation Key: ios_search_places
+```
+Search places
+```
+translated (by machine 🤖) as:
+```
+स्थानों की खोज करें
+```
+
+
+## Translation Key: marker_search_result_text_create_marker
+```
+Create marker
+```
+translated (by machine 🤖) as:
+```
+मार्कर बनाएं
+```
+
+
+## Translation Key: ios_cloud_map_file_with_account
+```
+Cloud map file with account:
+```
+translated (by machine 🤖) as:
+```
+खाते के साथ क्लाउड मैप फ़ाइल:
+```
+
+
+## Translation Key: ios_premium_options_dialog_info
+```
+Information
+```
+translated (by machine 🤖) as:
+```
+जानकारी
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_body
+```
+Exclusive premium features:
+- No ads
+- Sync on Google Drive
+- Collaborate via Google Drive
+
+You can purchase the lifetime premium upgrade for your Apple account by clicking the "Purchase" button below.
+```
+translated (by machine 🤖) as:
+```
+विशिष्ट प्रीमियम विशेषताएं:
+- विज्ञापन नहीं
+- Google Drive पर सिंक करें
+- Google Drive के माध्यम से सहयोग करें
+
+आप नीचे दिए गए "खरीद" बटन पर क्लिक करके अपने Apple खाते के लिए आजीवन प्रीमियम अपग्रेड खरीद सकते हैं
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_cta_purchase
+```
+Purchase
+```
+translated (by machine 🤖) as:
+```
+खरीद फरोख्त
+```
+
+
+## Translation Key: ios_premium_restore_dialog_title
+```
+Restore premium upgrade
+```
+translated (by machine 🤖) as:
+```
+प्रीमियम अपग्रेड बहाल करें
+```
+
+
+## Translation Key: ios_premium_restore_dialog_body
+```
+If you have purchased the premium upgrade with your Apple account, you can restore it by tapping the "Restore" button below. Do you want to restore it?
+```
+translated (by machine 🤖) as:
+```
+यदि आपने अपने ऐप्पल खाते से प्रीमियम अपग्रेड खरीदा है, तो आप नीचे दिए गए "रिस्टोर" बटन पर टैप करके इसे पुनर्स्थापित कर सकते हैं। क्या आप इसे पुनर्स्थापित करना चाहते हैं?
+```
+
+
+## Translation Key: ios_premium_restore_dialog_cta_restore_purchases
+```
+Restore Purchases
+```
+translated (by machine 🤖) as:
+```
+खरीदारी वापस लौटाएं
+```
+
+
+## Translation Key: ios_premium_restore_succeeded
+```
+Premium upgrade successfully restored!
+```
+translated (by machine 🤖) as:
+```
+प्रीमियम उन्नयन सफलतापूर्वक बहाल!
+```
+
+
+## Translation Key: ios_iap_error_premium_restore_failed
+```
+Could not restore the premium upgrade from your account
+```
+translated (by machine 🤖) as:
+```
+आपके खाते से प्रीमियम अपग्रेड को पुनर्स्थापित नहीं किया जा सका
+```
+
+
+## Translation Key: ios_iap_error_retrieving_product_information
+```
+Error: could not retrieve the product information.
+```
+translated (by machine 🤖) as:
+```
+त्रुटि: उत्पाद जानकारी प्राप्त नहीं कर सका।
+```
+
+
+## Translation Key: ios_iap_error_cannot_make_payments
+```
+Error: it seems your iTunes account is not able to make payments. Please verify your payment settings and try again.
+```
+translated (by machine 🤖) as:
+```
+त्रुटि: ऐसा लगता है कि आपका iTunes खाता भुगतान करने में सक्षम नहीं है। कृपया अपनी भुगतान सेटिंग सत्यापित करें और पुनः प्रयास करें।
+```
+
+
+## Translation Key: ios_iap_error_purchase_failed
+```
+Error: purchase failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+त्रुटि: खरीद विफल रही, कृपया पुनः प्रयास करें।
+```
+
+
+## Translation Key: ios_iap_error_itunes_connect_store
+```
+Error: could not connect to iTunes store.
+```
+translated (by machine 🤖) as:
+```
+त्रुटि: iTunes स्टोर से कनेक्ट नहीं हो सका।
+```
+
+
+## Translation Key: ios_has_local_changes_last_sync
+```
+Has local changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+स्थानीय परिवर्तन हैं, अंतिम सिंक:
+```
+
+
+## Translation Key: ios_has_cloud_changes_last_sync
+```
+Has cloud changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+बादल परिवर्तन, अंतिम सिंक है:
+```
+
+
+## Translation Key: ios_all_changes_synced_last_sync
+```
+All changes synced, last sync:
+```
+translated (by machine 🤖) as:
+```
+सभी परिवर्तन सिंक किए गए, अंतिम सिंक:
+```
+
+
+## Translation Key: ios_message_sync_error_occured_db_version_too_old
+```
+A sync error occurred: the cloud data was created with an older version of the Android app. You need to sync the cloud data again from a more recent version of the Android app before it can be synced here.
+```
+translated (by machine 🤖) as:
+```
+एक सिंक त्रुटि हुई: क्लाउड डेटा को एंड्रॉइड ऐप के पुराने संस्करण के साथ बनाया गया था। क्लाउड डेटा को एंड्रॉइड ऐप के हाल के संस्करण से फिर से सिंक करने की आवश्यकता है, इससे पहले कि वह यहां सिंक किया जा सके।
+```
+
+
+## Translation Key: ios_message_sync_error_missing_cloud_file
+```
+A sync error occurred: an essential cloud file could not be found.
+
+If you own the cloud account where the cloud map is located, then you probably accidentally deleted it, check your cloud trash folder, you might be able to restore it!
+
+If the cloud account where the cloud map is located is not your own and is shared with you, ask the cloud account owner.
+```
+translated (by machine 🤖) as:
+```
+एक सिंक त्रुटि हुई: एक आवश्यक क्लाउड फ़ाइल नहीं मिली।
+
+यदि आप क्लाउड अकाउंट के मालिक हैं, जहां क्लाउड मैप स्थित है, तो संभवतः आपने गलती से इसे हटा दिया है, अपने क्लाउड ट्रैश फ़ोल्डर की जांच करें, आप इसे पुनर्स्थापित करने में सक्षम हो सकते हैं!
+
+यदि क्लाउड खाता जहां क्लाउड मैप स्थित है, वह आपका नहीं है और आपके साथ साझा किया जाता है, तो क्लाउड खाता स्वामी से पूछें।
+```
+
+
+## Translation Key: react_webapp_file_dropzone_hint_text
+```
+Drop some files here, or click to select files to upload.
+```
+translated (by machine 🤖) as:
+```
+यहां कुछ फ़ाइलें छोड़ें, या अपलोड करने के लिए फ़ाइलों का चयन करने के लिए क्लिक करें।
+```
+
+
+## Translation Key: react_webapp_file_dropzone_uploading_text
+```
+Uploading files…
+```
+translated (by machine 🤖) as:
+```
+फ़ाइलें अपलोड हो रही हैं…
+```
+
+
+## Translation Key: react_webapp_cannot_add_images_on_local_map_message
+```
+You need to open a cloud map in order to be able to add images. Open a cloud map, or sync this map to the cloud and try again.
+```
+translated (by machine 🤖) as:
+```
+छवियों को जोड़ने में सक्षम होने के लिए आपको क्लाउड मैप खोलने की आवश्यकता है। क्लाउड मैप खोलें, या इस मैप को क्लाउड से सिंक करें और फिर से प्रयास करें।
+```
+
+
+## Translation Key: some_files_failed_to_upload
+```
+Some files failed to upload.
+```
+translated (by machine 🤖) as:
+```
+कुछ फाइलें अपलोड करने में विफल रहीं।
+```
+
+
+## Translation Key: react_webapp_log_in_title
+```
+Log in
+```
+translated (by machine 🤖) as:
+```
+लॉग इन करें
+```
+
+
+## Translation Key: react_webapp_log_in_message
+```
+To continue, you need to log in with your cloud account. Click the "log in" button below to log in.
+```
+translated (by machine 🤖) as:
+```
+जारी रखने के लिए, आपको अपने क्लाउड खाते से लॉग इन करना होगा। लॉग इन करने के लिए नीचे दिए गए "लॉग इन" बटन पर क्लिक करें।
+```
+
+
+## Translation Key: react_webapp_select_file_title
+```
+Select a file
+```
+translated (by machine 🤖) as:
+```
+किसी फाइल का चयन करें
+```
+
+
+## Translation Key: react_webapp_select_file_message
+```
+Drop a file here, or click here to select from your computer.
+```
+translated (by machine 🤖) as:
+```
+फ़ाइल को यहां छोड़ें, या अपने कंप्यूटर से चयन करने के लिए यहां क्लिक करें।
+```
+
+
+## Translation Key: react_app_use_cloud_account_x
+```
+Use cloud account: %s
+```
+translated (by machine 🤖) as:
+```
+क्लाउड अकाउंट का उपयोग करें: %s
+```
+
+
+## Translation Key: react_app_use_other_cloud_account
+```
+Use other cloud account
+```
+translated (by machine 🤖) as:
+```
+अन्य क्लाउड खाते का उपयोग करें
+```
+
+
+## Translation Key: react_app_choices_list_cannot_be_empty
+```
+The choices list cannot be empty
+```
+translated (by machine 🤖) as:
+```
+विकल्प सूची खाली नहीं हो सकती
+```
+
+
+## Translation Key: react_app_empty_choices_are_not_allowed
+```
+Empty choices are not allowed
+```
+translated (by machine 🤖) as:
+```
+खाली विकल्पों की अनुमति नहीं है
+```
+
+
+## Translation Key: react_app_custom_field_name_cannot_be_empty
+```
+The name of the custom field cannot be empty
+```
+translated (by machine 🤖) as:
+```
+कस्टम फ़ील्ड का नाम रिक्त नहीं हो सकता
 ```

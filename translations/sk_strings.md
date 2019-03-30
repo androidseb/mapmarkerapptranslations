@@ -3531,7 +3531,7 @@ Zobraziť ikonu varovanie pre synchronizáciu
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Synchronizácia bola prerušená, pretože jeden z mediálnych súborov na oblaku chýbal. Môžete ignorovať chýbajúce súbory kliknutím na "force sync". Upozornenie, ignoruje chýbajúce súbory budú mať za následok ich odstránenie z databázy, čo znamená, že iná zariadenie stále majú lokálnu kópiu súboru vymaže ju pri synchronizácii.
 ```
@@ -4872,4 +4872,372 @@ Map Marker's Pelias server
 translated (by machine 🤖) as:
 ```
 Map Marker je server Pelias
+```
+
+
+## Translation Key: ios_local_map_file
+```
+Local map file
+```
+translated (by machine 🤖) as:
+```
+Súbor lokálnej mapy
+```
+
+
+## Translation Key: ios_delete
+```
+Delete
+```
+translated (by machine 🤖) as:
+```
+vymazať
+```
+
+
+## Translation Key: ios_search_places
+```
+Search places
+```
+translated (by machine 🤖) as:
+```
+Hľadať miesta
+```
+
+
+## Translation Key: marker_search_result_text_create_marker
+```
+Create marker
+```
+translated (by machine 🤖) as:
+```
+Vytvorte značku
+```
+
+
+## Translation Key: ios_cloud_map_file_with_account
+```
+Cloud map file with account:
+```
+translated (by machine 🤖) as:
+```
+Súbor s mapou Cloud s účtom:
+```
+
+
+## Translation Key: ios_premium_options_dialog_info
+```
+Information
+```
+translated (by machine 🤖) as:
+```
+informácie
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_body
+```
+Exclusive premium features:
+- No ads
+- Sync on Google Drive
+- Collaborate via Google Drive
+
+You can purchase the lifetime premium upgrade for your Apple account by clicking the "Purchase" button below.
+```
+translated (by machine 🤖) as:
+```
+Exkluzívne prémiové funkcie:
+- Žiadne reklamy
+- Synchronizovať Google Drive
+- Spolupráca cez Google Drive
+
+Aktualizáciu celoživotného poistného pre svoj účet Apple si môžete zakúpiť kliknutím na tlačidlo „Nákup“ nižšie.
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_cta_purchase
+```
+Purchase
+```
+translated (by machine 🤖) as:
+```
+nákup
+```
+
+
+## Translation Key: ios_premium_restore_dialog_title
+```
+Restore premium upgrade
+```
+translated (by machine 🤖) as:
+```
+Obnovte prémiovú aktualizáciu
+```
+
+
+## Translation Key: ios_premium_restore_dialog_body
+```
+If you have purchased the premium upgrade with your Apple account, you can restore it by tapping the "Restore" button below. Do you want to restore it?
+```
+translated (by machine 🤖) as:
+```
+Ak ste si zakúpili prémiovú aktualizáciu so svojím účtom Apple, môžete ju obnoviť klepnutím na tlačidlo „Obnoviť“ nižšie. Chcete ho obnoviť?
+```
+
+
+## Translation Key: ios_premium_restore_dialog_cta_restore_purchases
+```
+Restore Purchases
+```
+translated (by machine 🤖) as:
+```
+Obnoviť nákupy
+```
+
+
+## Translation Key: ios_premium_restore_succeeded
+```
+Premium upgrade successfully restored!
+```
+translated (by machine 🤖) as:
+```
+Aktualizácia Premium úspešne obnovená!
+```
+
+
+## Translation Key: ios_iap_error_premium_restore_failed
+```
+Could not restore the premium upgrade from your account
+```
+translated (by machine 🤖) as:
+```
+Nepodarilo sa obnoviť inováciu prémií z vášho účtu
+```
+
+
+## Translation Key: ios_iap_error_retrieving_product_information
+```
+Error: could not retrieve the product information.
+```
+translated (by machine 🤖) as:
+```
+Chyba: Nebolo možné získať informácie o produkte.
+```
+
+
+## Translation Key: ios_iap_error_cannot_make_payments
+```
+Error: it seems your iTunes account is not able to make payments. Please verify your payment settings and try again.
+```
+translated (by machine 🤖) as:
+```
+Chyba: zdá sa, že váš účet iTunes nie je schopný vykonávať platby. Skontrolujte nastavenia platby a skúste to znova.
+```
+
+
+## Translation Key: ios_iap_error_purchase_failed
+```
+Error: purchase failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Chyba: nákup zlyhal, skúste to znova.
+```
+
+
+## Translation Key: ios_iap_error_itunes_connect_store
+```
+Error: could not connect to iTunes store.
+```
+translated (by machine 🤖) as:
+```
+Chyba: Nepodarilo sa pripojiť k úložisku iTunes.
+```
+
+
+## Translation Key: ios_has_local_changes_last_sync
+```
+Has local changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+Má miestne zmeny, poslednú synchronizáciu:
+```
+
+
+## Translation Key: ios_has_cloud_changes_last_sync
+```
+Has cloud changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+Má zmeny cloudu, poslednú synchronizáciu:
+```
+
+
+## Translation Key: ios_all_changes_synced_last_sync
+```
+All changes synced, last sync:
+```
+translated (by machine 🤖) as:
+```
+Všetky synchronizované zmeny, posledná synchronizácia:
+```
+
+
+## Translation Key: ios_message_sync_error_occured_db_version_too_old
+```
+A sync error occurred: the cloud data was created with an older version of the Android app. You need to sync the cloud data again from a more recent version of the Android app before it can be synced here.
+```
+translated (by machine 🤖) as:
+```
+Vyskytla sa chyba synchronizácie: údaje mraku sa vytvorili pomocou staršej verzie aplikácie Android. Pred tým, ako ho budete môcť synchronizovať, musíte údaje o oblakoch znova synchronizovať s novšou verziou aplikácie pre systém Android.
+```
+
+
+## Translation Key: ios_message_sync_error_missing_cloud_file
+```
+A sync error occurred: an essential cloud file could not be found.
+
+If you own the cloud account where the cloud map is located, then you probably accidentally deleted it, check your cloud trash folder, you might be able to restore it!
+
+If the cloud account where the cloud map is located is not your own and is shared with you, ask the cloud account owner.
+```
+translated (by machine 🤖) as:
+```
+Vyskytla sa chyba synchronizácie: základný súbor mraku sa nepodarilo nájsť.
+
+Ak vlastníte cloudový účet, na ktorom sa nachádza mapa mrakov, pravdepodobne ste ho omylom odstránili, skontrolujte priečinok s odpadom v cloude, možno ho budete môcť obnoviť!
+
+Ak účet mraku, na ktorom je umiestnená mapa mrakov, nie je váš vlastný a je s vami zdieľaný, opýtajte sa vlastníka účtu typu cloud.
+```
+
+
+## Translation Key: react_webapp_file_dropzone_hint_text
+```
+Drop some files here, or click to select files to upload.
+```
+translated (by machine 🤖) as:
+```
+Zrušte niektoré súbory alebo kliknutím vyberte súbory, ktoré chcete odovzdať.
+```
+
+
+## Translation Key: react_webapp_file_dropzone_uploading_text
+```
+Uploading files…
+```
+translated (by machine 🤖) as:
+```
+Odovzdávajú sa súbory ...
+```
+
+
+## Translation Key: react_webapp_cannot_add_images_on_local_map_message
+```
+You need to open a cloud map in order to be able to add images. Open a cloud map, or sync this map to the cloud and try again.
+```
+translated (by machine 🤖) as:
+```
+Ak chcete pridať obrázky, musíte otvoriť mapu mrakov. Otvorte mapu mrakov alebo synchronizujte túto mapu s cloudom a skúste to znova.
+```
+
+
+## Translation Key: some_files_failed_to_upload
+```
+Some files failed to upload.
+```
+translated (by machine 🤖) as:
+```
+Niektoré súbory sa nepodarilo odovzdať.
+```
+
+
+## Translation Key: react_webapp_log_in_title
+```
+Log in
+```
+translated (by machine 🤖) as:
+```
+Prihlásiť sa
+```
+
+
+## Translation Key: react_webapp_log_in_message
+```
+To continue, you need to log in with your cloud account. Click the "log in" button below to log in.
+```
+translated (by machine 🤖) as:
+```
+Ak chcete pokračovať, musíte sa prihlásiť do svojho účtu služby cloud. Ak sa chcete prihlásiť, kliknite na tlačidlo "prihlásiť sa" nižšie.
+```
+
+
+## Translation Key: react_webapp_select_file_title
+```
+Select a file
+```
+translated (by machine 🤖) as:
+```
+Vyberte súbor
+```
+
+
+## Translation Key: react_webapp_select_file_message
+```
+Drop a file here, or click here to select from your computer.
+```
+translated (by machine 🤖) as:
+```
+Zrušte súbor tu, alebo kliknite sem a vyberte si z počítača.
+```
+
+
+## Translation Key: react_app_use_cloud_account_x
+```
+Use cloud account: %s
+```
+translated (by machine 🤖) as:
+```
+Použiť účet cloud: %s
+```
+
+
+## Translation Key: react_app_use_other_cloud_account
+```
+Use other cloud account
+```
+translated (by machine 🤖) as:
+```
+Použiť iný účet v cloude
+```
+
+
+## Translation Key: react_app_choices_list_cannot_be_empty
+```
+The choices list cannot be empty
+```
+translated (by machine 🤖) as:
+```
+Zoznam možností nemôže byť prázdny
+```
+
+
+## Translation Key: react_app_empty_choices_are_not_allowed
+```
+Empty choices are not allowed
+```
+translated (by machine 🤖) as:
+```
+Prázdne voľby nie sú povolené
+```
+
+
+## Translation Key: react_app_custom_field_name_cannot_be_empty
+```
+The name of the custom field cannot be empty
+```
+translated (by machine 🤖) as:
+```
+Názov vlastného poľa nemôže byť prázdny
 ```

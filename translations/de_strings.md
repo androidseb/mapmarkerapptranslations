@@ -4873,3 +4873,371 @@ translated (by machine 🤖) as:
 ```
 Map Markers Pelias-Server
 ```
+
+
+## Translation Key: ios_local_map_file
+```
+Local map file
+```
+translated (by machine 🤖) as:
+```
+Lokale Kartendatei
+```
+
+
+## Translation Key: ios_delete
+```
+Delete
+```
+translated (by machine 🤖) as:
+```
+Löschen
+```
+
+
+## Translation Key: ios_search_places
+```
+Search places
+```
+translated (by machine 🤖) as:
+```
+Orte suchen
+```
+
+
+## Translation Key: marker_search_result_text_create_marker
+```
+Create marker
+```
+translated (by machine 🤖) as:
+```
+Marker erstellen
+```
+
+
+## Translation Key: ios_cloud_map_file_with_account
+```
+Cloud map file with account:
+```
+translated (by machine 🤖) as:
+```
+Cloud-Map-Datei mit Konto:
+```
+
+
+## Translation Key: ios_premium_options_dialog_info
+```
+Information
+```
+translated (by machine 🤖) as:
+```
+Information
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_body
+```
+Exclusive premium features:
+- No ads
+- Sync on Google Drive
+- Collaborate via Google Drive
+
+You can purchase the lifetime premium upgrade for your Apple account by clicking the "Purchase" button below.
+```
+translated (by machine 🤖) as:
+```
+Exklusive Premium-Funktionen:
+- Keine Werbung
+- Synchronisation auf Google Drive
+- Zusammenarbeit über Google Drive
+
+Sie können das lebenslange Premium-Upgrade für Ihr Apple-Konto erwerben, indem Sie unten auf die Schaltfläche "Kaufen" klicken.
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_cta_purchase
+```
+Purchase
+```
+translated (by machine 🤖) as:
+```
+Kauf
+```
+
+
+## Translation Key: ios_premium_restore_dialog_title
+```
+Restore premium upgrade
+```
+translated (by machine 🤖) as:
+```
+Stellen Sie das Premium-Upgrade wieder her
+```
+
+
+## Translation Key: ios_premium_restore_dialog_body
+```
+If you have purchased the premium upgrade with your Apple account, you can restore it by tapping the "Restore" button below. Do you want to restore it?
+```
+translated (by machine 🤖) as:
+```
+Wenn Sie das Premium-Upgrade mit Ihrem Apple-Konto erworben haben, können Sie es wiederherstellen. Möchten Sie es wiederherstellen?
+```
+
+
+## Translation Key: ios_premium_restore_dialog_cta_restore_purchases
+```
+Restore Purchases
+```
+translated (by machine 🤖) as:
+```
+Käufe wiederherstellen
+```
+
+
+## Translation Key: ios_premium_restore_succeeded
+```
+Premium upgrade successfully restored!
+```
+translated (by machine 🤖) as:
+```
+Premium Upgrade erfolgreich wiederhergestellt!
+```
+
+
+## Translation Key: ios_iap_error_premium_restore_failed
+```
+Could not restore the premium upgrade from your account
+```
+translated (by machine 🤖) as:
+```
+Das Premium-Upgrade konnte von Ihrem Konto nicht wiederhergestellt werden
+```
+
+
+## Translation Key: ios_iap_error_retrieving_product_information
+```
+Error: could not retrieve the product information.
+```
+translated (by machine 🤖) as:
+```
+Fehler: Die Produktinformationen konnten nicht abgerufen werden.
+```
+
+
+## Translation Key: ios_iap_error_cannot_make_payments
+```
+Error: it seems your iTunes account is not able to make payments. Please verify your payment settings and try again.
+```
+translated (by machine 🤖) as:
+```
+Fehler: Es scheint, dass Ihr iTunes-Konto keine Zahlungen tätigen kann. Bitte überprüfen Sie Ihre Zahlungseinstellungen und versuchen Sie es erneut.
+```
+
+
+## Translation Key: ios_iap_error_purchase_failed
+```
+Error: purchase failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Fehler: Kauf fehlgeschlagen, bitte erneut versuchen.
+```
+
+
+## Translation Key: ios_iap_error_itunes_connect_store
+```
+Error: could not connect to iTunes store.
+```
+translated (by machine 🤖) as:
+```
+Fehler: Es konnte keine Verbindung zum iTunes Store hergestellt werden.
+```
+
+
+## Translation Key: ios_has_local_changes_last_sync
+```
+Has local changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+Hat lokale Änderungen, letzte Synchronisierung:
+```
+
+
+## Translation Key: ios_has_cloud_changes_last_sync
+```
+Has cloud changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+Hat Cloud-Änderungen, letzte Synchronisierung:
+```
+
+
+## Translation Key: ios_all_changes_synced_last_sync
+```
+All changes synced, last sync:
+```
+translated (by machine 🤖) as:
+```
+Alle Änderungen synchronisiert, letzte Synchronisierung:
+```
+
+
+## Translation Key: ios_message_sync_error_occured_db_version_too_old
+```
+A sync error occurred: the cloud data was created with an older version of the Android app. You need to sync the cloud data again from a more recent version of the Android app before it can be synced here.
+```
+translated (by machine 🤖) as:
+```
+Ein Synchronisierungsfehler ist aufgetreten: Die Cloud-Daten wurden mit einer älteren Version der Android-App erstellt. Sie müssen die Cloud-Daten erneut mit einer neueren Version der Android-App synchronisieren, bevor sie hier synchronisiert werden können.
+```
+
+
+## Translation Key: ios_message_sync_error_missing_cloud_file
+```
+A sync error occurred: an essential cloud file could not be found.
+
+If you own the cloud account where the cloud map is located, then you probably accidentally deleted it, check your cloud trash folder, you might be able to restore it!
+
+If the cloud account where the cloud map is located is not your own and is shared with you, ask the cloud account owner.
+```
+translated (by machine 🤖) as:
+```
+Ein Synchronisierungsfehler ist aufgetreten: Eine wesentliche Cloud-Datei wurde nicht gefunden.
+
+Wenn Sie das Cloud-Konto besitzen, in dem sich die Cloud-Karte befindet, haben Sie sie wahrscheinlich aus Versehen gelöscht. Überprüfen Sie Ihren Cloud-Papierkorb, und Sie können ihn möglicherweise wiederherstellen.
+
+Wenn das Cloud-Konto, in dem sich die Cloud-Karte befindet, nicht Ihrem eigenen gehört und für Sie freigegeben ist, fragen Sie den Cloud-Kontoinhaber.
+```
+
+
+## Translation Key: react_webapp_file_dropzone_hint_text
+```
+Drop some files here, or click to select files to upload.
+```
+translated (by machine 🤖) as:
+```
+Legen Sie einige Dateien hier ab oder klicken Sie auf, um die Dateien zum Hochladen auszuwählen.
+```
+
+
+## Translation Key: react_webapp_file_dropzone_uploading_text
+```
+Uploading files…
+```
+translated (by machine 🤖) as:
+```
+Dateien hochladen…
+```
+
+
+## Translation Key: react_webapp_cannot_add_images_on_local_map_message
+```
+You need to open a cloud map in order to be able to add images. Open a cloud map, or sync this map to the cloud and try again.
+```
+translated (by machine 🤖) as:
+```
+Sie müssen eine Cloud-Karte öffnen, um Bilder hinzufügen zu können. Öffnen Sie eine Cloud-Map oder synchronisieren Sie diese mit der Cloud und versuchen Sie es erneut.
+```
+
+
+## Translation Key: some_files_failed_to_upload
+```
+Some files failed to upload.
+```
+translated (by machine 🤖) as:
+```
+Einige Dateien konnten nicht hochgeladen werden.
+```
+
+
+## Translation Key: react_webapp_log_in_title
+```
+Log in
+```
+translated (by machine 🤖) as:
+```
+Einloggen
+```
+
+
+## Translation Key: react_webapp_log_in_message
+```
+To continue, you need to log in with your cloud account. Click the "log in" button below to log in.
+```
+translated (by machine 🤖) as:
+```
+Um fortzufahren, müssen Sie sich mit Ihrem Cloud-Konto anmelden. Klicken Sie unten auf die Schaltfläche "Anmelden", um sich anzumelden.
+```
+
+
+## Translation Key: react_webapp_select_file_title
+```
+Select a file
+```
+translated (by machine 🤖) as:
+```
+Wählen Sie eine Datei aus
+```
+
+
+## Translation Key: react_webapp_select_file_message
+```
+Drop a file here, or click here to select from your computer.
+```
+translated (by machine 🤖) as:
+```
+Legen Sie eine Datei hier ab oder klicken Sie hier, um sie von Ihrem Computer auszuwählen.
+```
+
+
+## Translation Key: react_app_use_cloud_account_x
+```
+Use cloud account: %s
+```
+translated (by machine 🤖) as:
+```
+Cloud-Konto verwenden: %s
+```
+
+
+## Translation Key: react_app_use_other_cloud_account
+```
+Use other cloud account
+```
+translated (by machine 🤖) as:
+```
+Verwenden Sie ein anderes Cloud-Konto
+```
+
+
+## Translation Key: react_app_choices_list_cannot_be_empty
+```
+The choices list cannot be empty
+```
+translated (by machine 🤖) as:
+```
+Die Auswahlliste darf nicht leer sein
+```
+
+
+## Translation Key: react_app_empty_choices_are_not_allowed
+```
+Empty choices are not allowed
+```
+translated (by machine 🤖) as:
+```
+Leere Auswahlmöglichkeiten sind nicht zulässig
+```
+
+
+## Translation Key: react_app_custom_field_name_cannot_be_empty
+```
+The name of the custom field cannot be empty
+```
+translated (by machine 🤖) as:
+```
+Der Name des benutzerdefinierten Feldes darf nicht leer sein
+```

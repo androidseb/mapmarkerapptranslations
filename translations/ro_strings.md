@@ -3531,7 +3531,7 @@ Afișați pictograma de avertizare pentru sincronizare
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Sincronizarea a fost abandonată, deoarece unul dintre fișierele media de pe nor lipsea. Puteți ignora fișierele lipsă făcând clic pe "forță de sincronizare". De avertizare, ignorând fișiere lipsă va avea ca rezultat scoaterea lor din baza de date, ceea ce înseamnă că alte dispozitive în continuare o copie locală a fișierului se va șterge după sincronizare.
 ```
@@ -4872,4 +4872,372 @@ Map Marker's Pelias server
 translated (by machine 🤖) as:
 ```
 Map Marker a serverului Pelias
+```
+
+
+## Translation Key: ios_local_map_file
+```
+Local map file
+```
+translated (by machine 🤖) as:
+```
+Fișierul hărții locale
+```
+
+
+## Translation Key: ios_delete
+```
+Delete
+```
+translated (by machine 🤖) as:
+```
+Șterge
+```
+
+
+## Translation Key: ios_search_places
+```
+Search places
+```
+translated (by machine 🤖) as:
+```
+Căutați locații
+```
+
+
+## Translation Key: marker_search_result_text_create_marker
+```
+Create marker
+```
+translated (by machine 🤖) as:
+```
+Creați un marker
+```
+
+
+## Translation Key: ios_cloud_map_file_with_account
+```
+Cloud map file with account:
+```
+translated (by machine 🤖) as:
+```
+Fișier cu hartă cloud cu cont:
+```
+
+
+## Translation Key: ios_premium_options_dialog_info
+```
+Information
+```
+translated (by machine 🤖) as:
+```
+informație
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_body
+```
+Exclusive premium features:
+- No ads
+- Sync on Google Drive
+- Collaborate via Google Drive
+
+You can purchase the lifetime premium upgrade for your Apple account by clicking the "Purchase" button below.
+```
+translated (by machine 🤖) as:
+```
+Caracteristici premium exclusive:
+- Fără reclame
+- Sincronizare pe Google Drive
+- Colaborați prin Google Drive
+
+Puteți achiziționa upgrade-ul pentru întreaga durată de viață pentru contul dvs. Apple făcând clic pe butonul "Achiziție" de mai jos.
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_cta_purchase
+```
+Purchase
+```
+translated (by machine 🤖) as:
+```
+Cumpărare
+```
+
+
+## Translation Key: ios_premium_restore_dialog_title
+```
+Restore premium upgrade
+```
+translated (by machine 🤖) as:
+```
+Restaurați upgrade-ul premium
+```
+
+
+## Translation Key: ios_premium_restore_dialog_body
+```
+If you have purchased the premium upgrade with your Apple account, you can restore it by tapping the "Restore" button below. Do you want to restore it?
+```
+translated (by machine 🤖) as:
+```
+Dacă ați achiziționat upgrade-ul premium cu contul dvs. Apple, îl puteți restabili prin atingerea butonului "Restaurare" de mai jos. Doriți să-l restabiliți?
+```
+
+
+## Translation Key: ios_premium_restore_dialog_cta_restore_purchases
+```
+Restore Purchases
+```
+translated (by machine 🤖) as:
+```
+Restaurați achizițiile
+```
+
+
+## Translation Key: ios_premium_restore_succeeded
+```
+Premium upgrade successfully restored!
+```
+translated (by machine 🤖) as:
+```
+Premium upgrade restaurat cu succes!
+```
+
+
+## Translation Key: ios_iap_error_premium_restore_failed
+```
+Could not restore the premium upgrade from your account
+```
+translated (by machine 🤖) as:
+```
+Nu s-a putut restabili upgrade-ul premium din cont
+```
+
+
+## Translation Key: ios_iap_error_retrieving_product_information
+```
+Error: could not retrieve the product information.
+```
+translated (by machine 🤖) as:
+```
+Eroare: nu a putut fi recuperată informațiile despre produs.
+```
+
+
+## Translation Key: ios_iap_error_cannot_make_payments
+```
+Error: it seems your iTunes account is not able to make payments. Please verify your payment settings and try again.
+```
+translated (by machine 🤖) as:
+```
+Eroare: se pare că contul dvs. iTunes nu poate efectua plăți. Verificați setările de plată și încercați din nou.
+```
+
+
+## Translation Key: ios_iap_error_purchase_failed
+```
+Error: purchase failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Eroare: achiziția a eșuat, încercați din nou.
+```
+
+
+## Translation Key: ios_iap_error_itunes_connect_store
+```
+Error: could not connect to iTunes store.
+```
+translated (by machine 🤖) as:
+```
+Eroare: nu s-a putut conecta la magazinul iTunes.
+```
+
+
+## Translation Key: ios_has_local_changes_last_sync
+```
+Has local changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+Are modificări locale, ultima sincronizare:
+```
+
+
+## Translation Key: ios_has_cloud_changes_last_sync
+```
+Has cloud changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+Are modificări în cloud, ultima sincronizare:
+```
+
+
+## Translation Key: ios_all_changes_synced_last_sync
+```
+All changes synced, last sync:
+```
+translated (by machine 🤖) as:
+```
+Toate modificările sincronizate, ultima sincronizare:
+```
+
+
+## Translation Key: ios_message_sync_error_occured_db_version_too_old
+```
+A sync error occurred: the cloud data was created with an older version of the Android app. You need to sync the cloud data again from a more recent version of the Android app before it can be synced here.
+```
+translated (by machine 🤖) as:
+```
+A apărut o eroare de sincronizare: datele din cloud au fost create cu o versiune mai veche a aplicației Android. Trebuie să sincronizați din nou datele din cloud de la o versiune mai recentă a aplicației Android înainte de a putea fi sincronizată aici.
+```
+
+
+## Translation Key: ios_message_sync_error_missing_cloud_file
+```
+A sync error occurred: an essential cloud file could not be found.
+
+If you own the cloud account where the cloud map is located, then you probably accidentally deleted it, check your cloud trash folder, you might be able to restore it!
+
+If the cloud account where the cloud map is located is not your own and is shared with you, ask the cloud account owner.
+```
+translated (by machine 🤖) as:
+```
+A apărut o eroare de sincronizare: nu a putut fi găsit un fișier nor important.
+
+Dacă dețineți contul din cloud în cazul în care este localizată harta cu nor, atunci probabil că ați șters-o accidental, verificați folderul cu coș de gunoi din nor, s-ar putea să-l restabiliți!
+
+Dacă contul nor în care este localizat harta cloud nu este al tău și este împărțit cu tine, întreabă proprietarul contului din cloud.
+```
+
+
+## Translation Key: react_webapp_file_dropzone_hint_text
+```
+Drop some files here, or click to select files to upload.
+```
+translated (by machine 🤖) as:
+```
+Dați câteva fișiere aici sau faceți clic pentru a selecta fișierele pe care să le încărcați.
+```
+
+
+## Translation Key: react_webapp_file_dropzone_uploading_text
+```
+Uploading files…
+```
+translated (by machine 🤖) as:
+```
+Încărcarea fișierelor ...
+```
+
+
+## Translation Key: react_webapp_cannot_add_images_on_local_map_message
+```
+You need to open a cloud map in order to be able to add images. Open a cloud map, or sync this map to the cloud and try again.
+```
+translated (by machine 🤖) as:
+```
+Trebuie să deschideți o hartă cloud pentru a putea adăuga imagini. Deschideți o hartă cloud sau sincronizați această hartă cu nor și încercați din nou.
+```
+
+
+## Translation Key: some_files_failed_to_upload
+```
+Some files failed to upload.
+```
+translated (by machine 🤖) as:
+```
+Unele fișiere nu au putut fi încărcate.
+```
+
+
+## Translation Key: react_webapp_log_in_title
+```
+Log in
+```
+translated (by machine 🤖) as:
+```
+Logare
+```
+
+
+## Translation Key: react_webapp_log_in_message
+```
+To continue, you need to log in with your cloud account. Click the "log in" button below to log in.
+```
+translated (by machine 🤖) as:
+```
+Pentru a continua, trebuie să vă conectați cu contul dvs. din cloud. Faceți clic pe butonul "conectați" de mai jos pentru a vă conecta.
+```
+
+
+## Translation Key: react_webapp_select_file_title
+```
+Select a file
+```
+translated (by machine 🤖) as:
+```
+Selectați un fișier
+```
+
+
+## Translation Key: react_webapp_select_file_message
+```
+Drop a file here, or click here to select from your computer.
+```
+translated (by machine 🤖) as:
+```
+Aruncați un fișier aici sau faceți clic aici pentru a selecta de pe computer.
+```
+
+
+## Translation Key: react_app_use_cloud_account_x
+```
+Use cloud account: %s
+```
+translated (by machine 🤖) as:
+```
+Utilizați contul nor: %s
+```
+
+
+## Translation Key: react_app_use_other_cloud_account
+```
+Use other cloud account
+```
+translated (by machine 🤖) as:
+```
+Utilizați alt cont de cloud
+```
+
+
+## Translation Key: react_app_choices_list_cannot_be_empty
+```
+The choices list cannot be empty
+```
+translated (by machine 🤖) as:
+```
+Lista de alegeri nu poate fi goală
+```
+
+
+## Translation Key: react_app_empty_choices_are_not_allowed
+```
+Empty choices are not allowed
+```
+translated (by machine 🤖) as:
+```
+Opțiunile goale nu sunt permise
+```
+
+
+## Translation Key: react_app_custom_field_name_cannot_be_empty
+```
+The name of the custom field cannot be empty
+```
+translated (by machine 🤖) as:
+```
+Numele câmpului personalizat nu poate fi gol
 ```

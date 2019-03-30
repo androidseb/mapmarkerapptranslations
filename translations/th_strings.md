@@ -3531,7 +3531,7 @@ translated (by machine 🤖) as:
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ซิงค์ถูกยกเลิกเนื่องจากไฟล์สื่อบนระบบคลาวด์ที่ขาดหายไป คุณสามารถละเว้นแฟ้มที่หายไปโดยการคลิกที่ "แรงซิงค์" คำเตือนละเว้นแฟ้มที่หายไปจะส่งผลในการลบออกจากฐานข้อมูลซึ่งหมายความว่าอุปกรณ์อื่น ๆ ยังคงมีสำเนาของไฟล์จะลบมันเมื่อซิงค์
 ```
@@ -4873,4 +4873,372 @@ Map Marker's Pelias server
 translated (by machine 🤖) as:
 ```
 เซิร์ฟเวอร์ Pelias ของ Map Marker
+```
+
+
+## Translation Key: ios_local_map_file
+```
+Local map file
+```
+translated (by machine 🤖) as:
+```
+ไฟล์แผนที่ในเครื่อง
+```
+
+
+## Translation Key: ios_delete
+```
+Delete
+```
+translated (by machine 🤖) as:
+```
+ลบ
+```
+
+
+## Translation Key: ios_search_places
+```
+Search places
+```
+translated (by machine 🤖) as:
+```
+ค้นหาสถานที่
+```
+
+
+## Translation Key: marker_search_result_text_create_marker
+```
+Create marker
+```
+translated (by machine 🤖) as:
+```
+สร้างเครื่องหมาย
+```
+
+
+## Translation Key: ios_cloud_map_file_with_account
+```
+Cloud map file with account:
+```
+translated (by machine 🤖) as:
+```
+ไฟล์แผนที่บนคลาวด์ที่มีบัญชี:
+```
+
+
+## Translation Key: ios_premium_options_dialog_info
+```
+Information
+```
+translated (by machine 🤖) as:
+```
+ข้อมูล
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_body
+```
+Exclusive premium features:
+- No ads
+- Sync on Google Drive
+- Collaborate via Google Drive
+
+You can purchase the lifetime premium upgrade for your Apple account by clicking the "Purchase" button below.
+```
+translated (by machine 🤖) as:
+```
+คุณสมบัติพิเศษระดับพรีเมียม:
+- ไม่มีโฆษณา
+- ซิงค์กับ Google Drive
+- ทำงานร่วมกันผ่าน Google Drive
+
+คุณสามารถซื้อการอัพเกรดระดับพรีเมียมสำหรับบัญชี Apple ของคุณได้โดยคลิกปุ่ม "ซื้อ" ด้านล่าง
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_cta_purchase
+```
+Purchase
+```
+translated (by machine 🤖) as:
+```
+ซื้อ
+```
+
+
+## Translation Key: ios_premium_restore_dialog_title
+```
+Restore premium upgrade
+```
+translated (by machine 🤖) as:
+```
+คืนค่าการอัปเกรดพรีเมี่ยม
+```
+
+
+## Translation Key: ios_premium_restore_dialog_body
+```
+If you have purchased the premium upgrade with your Apple account, you can restore it by tapping the "Restore" button below. Do you want to restore it?
+```
+translated (by machine 🤖) as:
+```
+หากคุณซื้อการอัปเกรดพรีเมี่ยมด้วยบัญชี Apple ของคุณคุณสามารถคืนค่าได้โดยแตะปุ่ม "กู้คืน" ด้านล่าง คุณต้องการคืนค่าหรือไม่
+```
+
+
+## Translation Key: ios_premium_restore_dialog_cta_restore_purchases
+```
+Restore Purchases
+```
+translated (by machine 🤖) as:
+```
+เรียกคืนการซื้อสินค้า
+```
+
+
+## Translation Key: ios_premium_restore_succeeded
+```
+Premium upgrade successfully restored!
+```
+translated (by machine 🤖) as:
+```
+การอัปเกรดพรีเมี่ยมกู้คืนสำเร็จแล้ว!
+```
+
+
+## Translation Key: ios_iap_error_premium_restore_failed
+```
+Could not restore the premium upgrade from your account
+```
+translated (by machine 🤖) as:
+```
+ไม่สามารถคืนค่าการอัปเกรดพรีเมียมจากบัญชีของคุณ
+```
+
+
+## Translation Key: ios_iap_error_retrieving_product_information
+```
+Error: could not retrieve the product information.
+```
+translated (by machine 🤖) as:
+```
+ข้อผิดพลาด: ไม่สามารถดึงข้อมูลผลิตภัณฑ์
+```
+
+
+## Translation Key: ios_iap_error_cannot_make_payments
+```
+Error: it seems your iTunes account is not able to make payments. Please verify your payment settings and try again.
+```
+translated (by machine 🤖) as:
+```
+ข้อผิดพลาด: ดูเหมือนว่าบัญชี iTunes ของคุณไม่สามารถชำระเงินได้ โปรดยืนยันการตั้งค่าการชำระเงินของคุณแล้วลองอีกครั้ง
+```
+
+
+## Translation Key: ios_iap_error_purchase_failed
+```
+Error: purchase failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+ข้อผิดพลาด: การซื้อล้มเหลวโปรดลองอีกครั้ง
+```
+
+
+## Translation Key: ios_iap_error_itunes_connect_store
+```
+Error: could not connect to iTunes store.
+```
+translated (by machine 🤖) as:
+```
+ข้อผิดพลาด: ไม่สามารถเชื่อมต่อกับร้านค้า iTunes
+```
+
+
+## Translation Key: ios_has_local_changes_last_sync
+```
+Has local changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+มีการเปลี่ยนแปลงในท้องถิ่นซิงค์ครั้งสุดท้าย:
+```
+
+
+## Translation Key: ios_has_cloud_changes_last_sync
+```
+Has cloud changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+มีการเปลี่ยนแปลงของคลาวด์การซิงค์ครั้งล่าสุด:
+```
+
+
+## Translation Key: ios_all_changes_synced_last_sync
+```
+All changes synced, last sync:
+```
+translated (by machine 🤖) as:
+```
+ซิงค์การเปลี่ยนแปลงทั้งหมดแล้ว, ซิงค์ครั้งสุดท้าย:
+```
+
+
+## Translation Key: ios_message_sync_error_occured_db_version_too_old
+```
+A sync error occurred: the cloud data was created with an older version of the Android app. You need to sync the cloud data again from a more recent version of the Android app before it can be synced here.
+```
+translated (by machine 🤖) as:
+```
+เกิดข้อผิดพลาดในการซิงค์: ข้อมูลระบบคลาวด์ถูกสร้างขึ้นด้วยแอพ Android รุ่นเก่ากว่า คุณต้องซิงค์ข้อมูลคลาวด์อีกครั้งจากแอพ Android เวอร์ชันใหม่กว่าก่อนจึงจะสามารถซิงค์ได้ที่นี่
+```
+
+
+## Translation Key: ios_message_sync_error_missing_cloud_file
+```
+A sync error occurred: an essential cloud file could not be found.
+
+If you own the cloud account where the cloud map is located, then you probably accidentally deleted it, check your cloud trash folder, you might be able to restore it!
+
+If the cloud account where the cloud map is located is not your own and is shared with you, ask the cloud account owner.
+```
+translated (by machine 🤖) as:
+```
+เกิดข้อผิดพลาดในการซิงค์: ไม่พบไฟล์คลาวด์ที่จำเป็น
+
+หากคุณเป็นเจ้าของบัญชีคลาวด์ซึ่งเป็นที่ตั้งของแผนที่คลาวด์คุณอาจลบโดยไม่ตั้งใจตรวจสอบโฟลเดอร์ถังขยะบนคลาวด์ของคุณคุณอาจกู้คืนได้!
+
+หากบัญชีคลาวด์ที่แผนที่คลาวด์ตั้งอยู่ไม่ใช่ของคุณและแชร์กับคุณให้ถามเจ้าของบัญชีคลาวด์
+```
+
+
+## Translation Key: react_webapp_file_dropzone_hint_text
+```
+Drop some files here, or click to select files to upload.
+```
+translated (by machine 🤖) as:
+```
+วางไฟล์ที่นี่หรือคลิกเพื่อเลือกไฟล์ที่จะอัปโหลด
+```
+
+
+## Translation Key: react_webapp_file_dropzone_uploading_text
+```
+Uploading files…
+```
+translated (by machine 🤖) as:
+```
+กำลังอัปโหลดไฟล์ ...
+```
+
+
+## Translation Key: react_webapp_cannot_add_images_on_local_map_message
+```
+You need to open a cloud map in order to be able to add images. Open a cloud map, or sync this map to the cloud and try again.
+```
+translated (by machine 🤖) as:
+```
+คุณต้องเปิดแผนที่คลาวด์เพื่อที่จะสามารถเพิ่มภาพได้ เปิดแผนที่คลาวด์หรือซิงค์แผนที่นี้กับคลาวด์แล้วลองอีกครั้ง
+```
+
+
+## Translation Key: some_files_failed_to_upload
+```
+Some files failed to upload.
+```
+translated (by machine 🤖) as:
+```
+การอัปโหลดบางไฟล์ล้มเหลว
+```
+
+
+## Translation Key: react_webapp_log_in_title
+```
+Log in
+```
+translated (by machine 🤖) as:
+```
+เข้าสู่ระบบ
+```
+
+
+## Translation Key: react_webapp_log_in_message
+```
+To continue, you need to log in with your cloud account. Click the "log in" button below to log in.
+```
+translated (by machine 🤖) as:
+```
+ในการดำเนินการต่อคุณต้องลงชื่อเข้าใช้ด้วยบัญชีคลาวด์ของคุณ คลิกปุ่ม "เข้าสู่ระบบ" ด้านล่างเพื่อเข้าสู่ระบบ
+```
+
+
+## Translation Key: react_webapp_select_file_title
+```
+Select a file
+```
+translated (by machine 🤖) as:
+```
+เลือกไฟล์
+```
+
+
+## Translation Key: react_webapp_select_file_message
+```
+Drop a file here, or click here to select from your computer.
+```
+translated (by machine 🤖) as:
+```
+วางไฟล์ที่นี่หรือคลิกที่นี่เพื่อเลือกจากคอมพิวเตอร์ของคุณ
+```
+
+
+## Translation Key: react_app_use_cloud_account_x
+```
+Use cloud account: %s
+```
+translated (by machine 🤖) as:
+```
+ใช้บัญชีคลาวด์: %s
+```
+
+
+## Translation Key: react_app_use_other_cloud_account
+```
+Use other cloud account
+```
+translated (by machine 🤖) as:
+```
+ใช้บัญชีคลาวด์อื่น
+```
+
+
+## Translation Key: react_app_choices_list_cannot_be_empty
+```
+The choices list cannot be empty
+```
+translated (by machine 🤖) as:
+```
+รายการตัวเลือกต้องไม่ว่างเปล่า
+```
+
+
+## Translation Key: react_app_empty_choices_are_not_allowed
+```
+Empty choices are not allowed
+```
+translated (by machine 🤖) as:
+```
+ไม่อนุญาตให้ใช้ตัวเลือกที่ว่างเปล่า
+```
+
+
+## Translation Key: react_app_custom_field_name_cannot_be_empty
+```
+The name of the custom field cannot be empty
+```
+translated (by machine 🤖) as:
+```
+ชื่อของฟิลด์ที่กำหนดเองต้องไม่ว่างเปล่า
 ```

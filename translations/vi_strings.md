@@ -3531,7 +3531,7 @@ Hiển thị biểu tượng cảnh báo cho đồng bộ
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Việc đồng bộ hóa đã bị hủy bỏ vì một trong những tập tin media trên điện toán đám mây đã mất tích. Bạn có thể bỏ qua các file bị thiếu bằng cách nhấn "lực lượng đồng bộ". Cảnh báo, bỏ qua các file bị mất sẽ cho kết quả trong việc loại bỏ chúng ra khỏi cơ sở dữ liệu, có nghĩa là các thiết bị khác vẫn có một bản sao địa phương của tập tin sẽ xóa nó khi đồng bộ hóa.
 ```
@@ -4872,4 +4872,372 @@ Map Marker's Pelias server
 translated (by machine 🤖) as:
 ```
 Máy chủ Pelias của Map Marker
+```
+
+
+## Translation Key: ios_local_map_file
+```
+Local map file
+```
+translated (by machine 🤖) as:
+```
+Tập tin bản đồ địa phương
+```
+
+
+## Translation Key: ios_delete
+```
+Delete
+```
+translated (by machine 🤖) as:
+```
+Xóa bỏ
+```
+
+
+## Translation Key: ios_search_places
+```
+Search places
+```
+translated (by machine 🤖) as:
+```
+Tìm kiếm địa điểm
+```
+
+
+## Translation Key: marker_search_result_text_create_marker
+```
+Create marker
+```
+translated (by machine 🤖) as:
+```
+Tạo điểm đánh dấu
+```
+
+
+## Translation Key: ios_cloud_map_file_with_account
+```
+Cloud map file with account:
+```
+translated (by machine 🤖) as:
+```
+Tệp bản đồ đám mây có tài khoản:
+```
+
+
+## Translation Key: ios_premium_options_dialog_info
+```
+Information
+```
+translated (by machine 🤖) as:
+```
+Thông tin
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_body
+```
+Exclusive premium features:
+- No ads
+- Sync on Google Drive
+- Collaborate via Google Drive
+
+You can purchase the lifetime premium upgrade for your Apple account by clicking the "Purchase" button below.
+```
+translated (by machine 🤖) as:
+```
+Các tính năng cao cấp độc quyền:
+- Không quảng cáo
+- Đồng bộ hóa trên Google Drive
+- Cộng tác qua Google Drive
+
+Bạn có thể mua bản nâng cấp cao cấp trọn đời cho tài khoản Apple của mình bằng cách nhấp vào nút "Mua hàng" bên dưới.
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_cta_purchase
+```
+Purchase
+```
+translated (by machine 🤖) as:
+```
+Mua, tựa vào, bám vào
+```
+
+
+## Translation Key: ios_premium_restore_dialog_title
+```
+Restore premium upgrade
+```
+translated (by machine 🤖) as:
+```
+Khôi phục nâng cấp cao cấp
+```
+
+
+## Translation Key: ios_premium_restore_dialog_body
+```
+If you have purchased the premium upgrade with your Apple account, you can restore it by tapping the "Restore" button below. Do you want to restore it?
+```
+translated (by machine 🤖) as:
+```
+Nếu bạn đã mua bản nâng cấp cao cấp bằng tài khoản Apple của mình, bạn có thể khôi phục bằng cách nhấn nút "Khôi phục" bên dưới. Bạn có muốn khôi phục nó?
+```
+
+
+## Translation Key: ios_premium_restore_dialog_cta_restore_purchases
+```
+Restore Purchases
+```
+translated (by machine 🤖) as:
+```
+Khôi phục mua hàng
+```
+
+
+## Translation Key: ios_premium_restore_succeeded
+```
+Premium upgrade successfully restored!
+```
+translated (by machine 🤖) as:
+```
+Nâng cấp thành công được khôi phục!
+```
+
+
+## Translation Key: ios_iap_error_premium_restore_failed
+```
+Could not restore the premium upgrade from your account
+```
+translated (by machine 🤖) as:
+```
+Không thể khôi phục nâng cấp cao cấp từ tài khoản của bạn
+```
+
+
+## Translation Key: ios_iap_error_retrieving_product_information
+```
+Error: could not retrieve the product information.
+```
+translated (by machine 🤖) as:
+```
+Lỗi: không thể truy xuất thông tin sản phẩm.
+```
+
+
+## Translation Key: ios_iap_error_cannot_make_payments
+```
+Error: it seems your iTunes account is not able to make payments. Please verify your payment settings and try again.
+```
+translated (by machine 🤖) as:
+```
+Lỗi: có vẻ như tài khoản iTunes của bạn không thể thực hiện thanh toán. Vui lòng xác minh cài đặt thanh toán của bạn và thử lại.
+```
+
+
+## Translation Key: ios_iap_error_purchase_failed
+```
+Error: purchase failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Lỗi: mua hàng thất bại, vui lòng thử lại.
+```
+
+
+## Translation Key: ios_iap_error_itunes_connect_store
+```
+Error: could not connect to iTunes store.
+```
+translated (by machine 🤖) as:
+```
+Lỗi: không thể kết nối với cửa hàng iTunes.
+```
+
+
+## Translation Key: ios_has_local_changes_last_sync
+```
+Has local changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+Có thay đổi cục bộ, đồng bộ hóa lần cuối:
+```
+
+
+## Translation Key: ios_has_cloud_changes_last_sync
+```
+Has cloud changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+Có thay đổi đám mây, đồng bộ hóa lần cuối:
+```
+
+
+## Translation Key: ios_all_changes_synced_last_sync
+```
+All changes synced, last sync:
+```
+translated (by machine 🤖) as:
+```
+Tất cả các thay đổi được đồng bộ hóa, đồng bộ hóa cuối cùng:
+```
+
+
+## Translation Key: ios_message_sync_error_occured_db_version_too_old
+```
+A sync error occurred: the cloud data was created with an older version of the Android app. You need to sync the cloud data again from a more recent version of the Android app before it can be synced here.
+```
+translated (by machine 🤖) as:
+```
+Xảy ra lỗi đồng bộ hóa: dữ liệu đám mây được tạo bằng phiên bản cũ hơn của ứng dụng Android. Bạn cần đồng bộ lại dữ liệu đám mây từ phiên bản mới hơn của ứng dụng Android trước khi có thể đồng bộ hóa tại đây.
+```
+
+
+## Translation Key: ios_message_sync_error_missing_cloud_file
+```
+A sync error occurred: an essential cloud file could not be found.
+
+If you own the cloud account where the cloud map is located, then you probably accidentally deleted it, check your cloud trash folder, you might be able to restore it!
+
+If the cloud account where the cloud map is located is not your own and is shared with you, ask the cloud account owner.
+```
+translated (by machine 🤖) as:
+```
+Xảy ra lỗi đồng bộ hóa: không thể tìm thấy tệp đám mây thiết yếu.
+
+Nếu bạn sở hữu tài khoản đám mây nơi đặt bản đồ đám mây, thì có lẽ bạn đã vô tình xóa nó, kiểm tra thư mục thùng rác trên đám mây của bạn, bạn có thể khôi phục nó!
+
+Nếu tài khoản đám mây nơi đặt bản đồ đám mây không phải là của riêng bạn và được chia sẻ với bạn, hãy hỏi chủ sở hữu tài khoản đám mây.
+```
+
+
+## Translation Key: react_webapp_file_dropzone_hint_text
+```
+Drop some files here, or click to select files to upload.
+```
+translated (by machine 🤖) as:
+```
+Thả một số tệp ở đây hoặc nhấp để chọn tệp để tải lên.
+```
+
+
+## Translation Key: react_webapp_file_dropzone_uploading_text
+```
+Uploading files…
+```
+translated (by machine 🤖) as:
+```
+Đang tải lên tập tin
+```
+
+
+## Translation Key: react_webapp_cannot_add_images_on_local_map_message
+```
+You need to open a cloud map in order to be able to add images. Open a cloud map, or sync this map to the cloud and try again.
+```
+translated (by machine 🤖) as:
+```
+Bạn cần mở một bản đồ đám mây để có thể thêm hình ảnh. Mở bản đồ đám mây hoặc đồng bộ hóa bản đồ này với đám mây và thử lại.
+```
+
+
+## Translation Key: some_files_failed_to_upload
+```
+Some files failed to upload.
+```
+translated (by machine 🤖) as:
+```
+Một số tệp không thể tải lên.
+```
+
+
+## Translation Key: react_webapp_log_in_title
+```
+Log in
+```
+translated (by machine 🤖) as:
+```
+Đăng nhập
+```
+
+
+## Translation Key: react_webapp_log_in_message
+```
+To continue, you need to log in with your cloud account. Click the "log in" button below to log in.
+```
+translated (by machine 🤖) as:
+```
+Để tiếp tục, bạn cần đăng nhập bằng tài khoản đám mây của mình. Nhấp vào nút "đăng nhập" bên dưới để đăng nhập.
+```
+
+
+## Translation Key: react_webapp_select_file_title
+```
+Select a file
+```
+translated (by machine 🤖) as:
+```
+Chọn một tập tin
+```
+
+
+## Translation Key: react_webapp_select_file_message
+```
+Drop a file here, or click here to select from your computer.
+```
+translated (by machine 🤖) as:
+```
+Thả một tập tin ở đây, hoặc bấm vào đây để chọn từ máy tính của bạn.
+```
+
+
+## Translation Key: react_app_use_cloud_account_x
+```
+Use cloud account: %s
+```
+translated (by machine 🤖) as:
+```
+Sử dụng tài khoản đám mây: %s
+```
+
+
+## Translation Key: react_app_use_other_cloud_account
+```
+Use other cloud account
+```
+translated (by machine 🤖) as:
+```
+Sử dụng tài khoản đám mây khác
+```
+
+
+## Translation Key: react_app_choices_list_cannot_be_empty
+```
+The choices list cannot be empty
+```
+translated (by machine 🤖) as:
+```
+Danh sách lựa chọn không thể để trống
+```
+
+
+## Translation Key: react_app_empty_choices_are_not_allowed
+```
+Empty choices are not allowed
+```
+translated (by machine 🤖) as:
+```
+Lựa chọn trống không được phép
+```
+
+
+## Translation Key: react_app_custom_field_name_cannot_be_empty
+```
+The name of the custom field cannot be empty
+```
+translated (by machine 🤖) as:
+```
+Tên của trường tùy chỉnh không thể để trống
 ```

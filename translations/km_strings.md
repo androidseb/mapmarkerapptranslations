@@ -3531,7 +3531,7 @@ translated (by machine 🤖) as:
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ធ្វើសមកាលកម្មត្រូវបានបោះបង់ដោយសារតែមួយនៃឯកសារប្រព័ន្ធផ្សព្វផ្សាយនៅលើពពកបានបាត់ខ្លួន។ អ្នកអាចមិនអើពើដោយការចុចលើឯកសារដែលបាត់ខ្លួន "កម្លាំងធ្វើសមកាលកម្ម" ។ ព្រមាន, មិនអើពើនឹងឯកសារដែលបានបាត់ខ្លួននឹងមានលទ្ធផលនៅយកពួកវាចេញពីមូលដ្ឋានទិន្នន័យដែលមានន័យថាឧបករណ៍ផ្សេងទៀតនៅតែមានច្បាប់ចម្លងមូលដ្ឋានរបស់ឯកសារដែលនឹងលុបលើសមកាលកម្ម។
 ```
@@ -4872,4 +4872,372 @@ Map Marker's Pelias server
 translated (by machine 🤖) as:
 ```
 ម៉ាស៊ីនបម្រើ Pelias របស់ Map Marker
+```
+
+
+## Translation Key: ios_local_map_file
+```
+Local map file
+```
+translated (by machine 🤖) as:
+```
+ឯកសារផែនទីក្នុងតំបន់
+```
+
+
+## Translation Key: ios_delete
+```
+Delete
+```
+translated (by machine 🤖) as:
+```
+លុប
+```
+
+
+## Translation Key: ios_search_places
+```
+Search places
+```
+translated (by machine 🤖) as:
+```
+ស្វែងរកកន្លែង
+```
+
+
+## Translation Key: marker_search_result_text_create_marker
+```
+Create marker
+```
+translated (by machine 🤖) as:
+```
+បង្កើតសញ្ញាសម្គាល់
+```
+
+
+## Translation Key: ios_cloud_map_file_with_account
+```
+Cloud map file with account:
+```
+translated (by machine 🤖) as:
+```
+ឯកសារផែនទីពពកជាមួយគណនី:
+```
+
+
+## Translation Key: ios_premium_options_dialog_info
+```
+Information
+```
+translated (by machine 🤖) as:
+```
+ពត៌មាន
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_body
+```
+Exclusive premium features:
+- No ads
+- Sync on Google Drive
+- Collaborate via Google Drive
+
+You can purchase the lifetime premium upgrade for your Apple account by clicking the "Purchase" button below.
+```
+translated (by machine 🤖) as:
+```
+លក្ខណៈពិសេសល្អ ៗ ពិសេស:
+- គ្មានពាណិជ្ជកម្មទេ
+- ធ្វើសមកាលកម្មនៅលើ Google Drive
+- សហការតាមរយៈ Google Drive
+
+អ្នកអាចទិញការតំឡើងបុព្វលាភពេញមួយជីវិតសម្រាប់គណនី Apple របស់អ្នកដោយចុចប៊ូតុង "ទិញ" ខាងក្រោម។
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_cta_purchase
+```
+Purchase
+```
+translated (by machine 🤖) as:
+```
+ការទិញ
+```
+
+
+## Translation Key: ios_premium_restore_dialog_title
+```
+Restore premium upgrade
+```
+translated (by machine 🤖) as:
+```
+ស្តារការដំឡើងកម្រិតខ្ពស់
+```
+
+
+## Translation Key: ios_premium_restore_dialog_body
+```
+If you have purchased the premium upgrade with your Apple account, you can restore it by tapping the "Restore" button below. Do you want to restore it?
+```
+translated (by machine 🤖) as:
+```
+ប្រសិនបើអ្នកបានទិញការដំឡើងកម្រិតខ្ពស់ជាមួយគណនី Apple របស់អ្នកអ្នកអាចស្តារវាដោយគ្រាន់តែចុចប៊ូតុង "ស្តារ" ខាងក្រោម។ តើអ្នកចង់ស្ដារវាឡើងវិញទេ?
+```
+
+
+## Translation Key: ios_premium_restore_dialog_cta_restore_purchases
+```
+Restore Purchases
+```
+translated (by machine 🤖) as:
+```
+ស្តារការទិញ
+```
+
+
+## Translation Key: ios_premium_restore_succeeded
+```
+Premium upgrade successfully restored!
+```
+translated (by machine 🤖) as:
+```
+ការដំឡើងកំណែពិសេសត្រូវបានស្ដារដោយជោគជ័យ!
+```
+
+
+## Translation Key: ios_iap_error_premium_restore_failed
+```
+Could not restore the premium upgrade from your account
+```
+translated (by machine 🤖) as:
+```
+មិនអាចស្ដារការដំឡើងកម្រិតខ្ពស់ពីគណនីរបស់អ្នក
+```
+
+
+## Translation Key: ios_iap_error_retrieving_product_information
+```
+Error: could not retrieve the product information.
+```
+translated (by machine 🤖) as:
+```
+កំហុស: មិនអាចរកបានព័ត៌មានផលិតផល។
+```
+
+
+## Translation Key: ios_iap_error_cannot_make_payments
+```
+Error: it seems your iTunes account is not able to make payments. Please verify your payment settings and try again.
+```
+translated (by machine 🤖) as:
+```
+កំហុស: វាហាក់ដូចជាគណនី iTunes របស់អ្នកមិនអាចទូទាត់បានទេ។ សូមផ្ទៀងផ្ទាត់ការកំណត់ការបង់ប្រាក់របស់អ្នកហើយព្យាយាមម្តងទៀត។
+```
+
+
+## Translation Key: ios_iap_error_purchase_failed
+```
+Error: purchase failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+កំហុស: ការទិញបរាជ័យ។ សូមព្យាយាមម្តងទៀត។
+```
+
+
+## Translation Key: ios_iap_error_itunes_connect_store
+```
+Error: could not connect to iTunes store.
+```
+translated (by machine 🤖) as:
+```
+កំហុស: មិនអាចភ្ជាប់ទៅហាង iTunes ។
+```
+
+
+## Translation Key: ios_has_local_changes_last_sync
+```
+Has local changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+មានការផ្លាស់ប្តូរក្នុងស្រុកសមកាលកម្មចុងក្រោយ:
+```
+
+
+## Translation Key: ios_has_cloud_changes_last_sync
+```
+Has cloud changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+មានការផ្លាស់ប្តូរពពកសមកាលកម្មចុងក្រោយ:
+```
+
+
+## Translation Key: ios_all_changes_synced_last_sync
+```
+All changes synced, last sync:
+```
+translated (by machine 🤖) as:
+```
+ការផ្លាស់ប្ដូរទាំងអស់បានធ្វើសមកាលកម្ម, ធ្វើសមកាលកម្មចុងក្រោយ:
+```
+
+
+## Translation Key: ios_message_sync_error_occured_db_version_too_old
+```
+A sync error occurred: the cloud data was created with an older version of the Android app. You need to sync the cloud data again from a more recent version of the Android app before it can be synced here.
+```
+translated (by machine 🤖) as:
+```
+កំហុសឆ្គងសមកម្មបានកើតឡើង: ទិន្នន័យពពកត្រូវបានបង្កើតជាមួយកំណែចាស់របស់កម្មវិធី Android ។ អ្នកត្រូវធ្វើសមកាលកម្មទិន្នន័យពពកជាថ្មីម្តងទៀតពីកំណែថ្មីរបស់កម្មវិធី Android មុនពេលវាអាចធ្វើសមកាលកម្មនៅទីនេះ។
+```
+
+
+## Translation Key: ios_message_sync_error_missing_cloud_file
+```
+A sync error occurred: an essential cloud file could not be found.
+
+If you own the cloud account where the cloud map is located, then you probably accidentally deleted it, check your cloud trash folder, you might be able to restore it!
+
+If the cloud account where the cloud map is located is not your own and is shared with you, ask the cloud account owner.
+```
+translated (by machine 🤖) as:
+```
+កំហុសឆ្គងសមកម្មបានកើតឡើង: មិនអាចស្វែងរកឯកសារពពកសំខាន់បានទេ។
+
+ប្រសិនបើអ្នកជាម្ចាស់គណនីពពកដែលមានផែនទីពពកនោះអ្នកប្រហែលជាបានលុបវាដោយចៃដន្យពិនិត្យមើលថតធុងសំរាមរបស់អ្នកអ្នកអាចស្ដារវាឡើងវិញបាន!
+
+ប្រសិនបើគណនីពពកដែលមានផែនទីពពកមិនមែនជារបស់អ្នកផ្ទាល់និងត្រូវបានចែករំលែកជាមួយអ្នកសូមសួរម្ចាស់គណនីពពក។
+```
+
+
+## Translation Key: react_webapp_file_dropzone_hint_text
+```
+Drop some files here, or click to select files to upload.
+```
+translated (by machine 🤖) as:
+```
+ទម្លាក់ឯកសារខ្លះនៅទីនេះឬចុចដើម្បីជ្រើសរើសឯកសារដើម្បីផ្ទុកឡើង។
+```
+
+
+## Translation Key: react_webapp_file_dropzone_uploading_text
+```
+Uploading files…
+```
+translated (by machine 🤖) as:
+```
+កំពុងផ្ទុកឯកសារឡើង ...
+```
+
+
+## Translation Key: react_webapp_cannot_add_images_on_local_map_message
+```
+You need to open a cloud map in order to be able to add images. Open a cloud map, or sync this map to the cloud and try again.
+```
+translated (by machine 🤖) as:
+```
+អ្នកត្រូវបើកផែនទីពពកដើម្បីអាចបន្ថែមរូបភាពបាន។ បើកផែនទីពពកឬធ្វើសមកាលកម្មផែនទីនេះទៅពពកហើយព្យាយាមម្តងទៀត។
+```
+
+
+## Translation Key: some_files_failed_to_upload
+```
+Some files failed to upload.
+```
+translated (by machine 🤖) as:
+```
+ឯកសារខ្លះបានបរាជ័យក្នុងការផ្ទុកឡើង។
+```
+
+
+## Translation Key: react_webapp_log_in_title
+```
+Log in
+```
+translated (by machine 🤖) as:
+```
+ចូល
+```
+
+
+## Translation Key: react_webapp_log_in_message
+```
+To continue, you need to log in with your cloud account. Click the "log in" button below to log in.
+```
+translated (by machine 🤖) as:
+```
+ដើម្បីបន្តអ្នកត្រូវចូលដោយប្រើគណនីពពករបស់អ្នក។ ចុចប៊ូតុង "ចូល" ខាងក្រោមដើម្បីចូល។
+```
+
+
+## Translation Key: react_webapp_select_file_title
+```
+Select a file
+```
+translated (by machine 🤖) as:
+```
+ជ្រើសរើសឯកសារ
+```
+
+
+## Translation Key: react_webapp_select_file_message
+```
+Drop a file here, or click here to select from your computer.
+```
+translated (by machine 🤖) as:
+```
+ទម្លាក់ឯកសារនៅទីនេះឬចុចទីនេះដើម្បីជ្រើសរើសពីកុំព្យូទ័ររបស់អ្នក។
+```
+
+
+## Translation Key: react_app_use_cloud_account_x
+```
+Use cloud account: %s
+```
+translated (by machine 🤖) as:
+```
+ប្រើគណនីពពក: %s
+```
+
+
+## Translation Key: react_app_use_other_cloud_account
+```
+Use other cloud account
+```
+translated (by machine 🤖) as:
+```
+ប្រើគណនីពពកផ្សេងទៀត
+```
+
+
+## Translation Key: react_app_choices_list_cannot_be_empty
+```
+The choices list cannot be empty
+```
+translated (by machine 🤖) as:
+```
+បញ្ជីជម្រើសមិនអាចទទេ
+```
+
+
+## Translation Key: react_app_empty_choices_are_not_allowed
+```
+Empty choices are not allowed
+```
+translated (by machine 🤖) as:
+```
+ជម្រើសទទេមិនត្រូវបានអនុញ្ញាតទេ
+```
+
+
+## Translation Key: react_app_custom_field_name_cannot_be_empty
+```
+The name of the custom field cannot be empty
+```
+translated (by machine 🤖) as:
+```
+ឈ្មោះវាលផ្ទាល់ខ្លួនមិនអាចទទេបានទេ
 ```

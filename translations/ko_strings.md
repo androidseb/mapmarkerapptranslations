@@ -3531,7 +3531,7 @@ translated (by machine 🤖) as:
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 클라우드의 미디어 파일 중 하나가 누락 되었기 때문에 동기화가 중단되었습니다. 당신은 "강제 동기화"를 클릭하여 파일을 누락 무시할 수 있습니다. 경고 무시하고 누락 된 파일은 다른 장치가 여전히 동기화시 삭제 할 파일의 로컬 복사본을 갖는 것을 의미 데이터베이스에서 제거 될 것입니다.
 ```
@@ -4872,4 +4872,372 @@ Map Marker's Pelias server
 translated (by machine 🤖) as:
 ```
 Map Marker의 Pelias 서버
+```
+
+
+## Translation Key: ios_local_map_file
+```
+Local map file
+```
+translated (by machine 🤖) as:
+```
+로컬 맵 파일
+```
+
+
+## Translation Key: ios_delete
+```
+Delete
+```
+translated (by machine 🤖) as:
+```
+지우다
+```
+
+
+## Translation Key: ios_search_places
+```
+Search places
+```
+translated (by machine 🤖) as:
+```
+장소 검색
+```
+
+
+## Translation Key: marker_search_result_text_create_marker
+```
+Create marker
+```
+translated (by machine 🤖) as:
+```
+마커 만들기
+```
+
+
+## Translation Key: ios_cloud_map_file_with_account
+```
+Cloud map file with account:
+```
+translated (by machine 🤖) as:
+```
+계정이있는 클라우드 맵 파일 :
+```
+
+
+## Translation Key: ios_premium_options_dialog_info
+```
+Information
+```
+translated (by machine 🤖) as:
+```
+정보
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_body
+```
+Exclusive premium features:
+- No ads
+- Sync on Google Drive
+- Collaborate via Google Drive
+
+You can purchase the lifetime premium upgrade for your Apple account by clicking the "Purchase" button below.
+```
+translated (by machine 🤖) as:
+```
+독점 프리미엄 기능 :
+- 광고 없음
+- 동기화 Google Drive
+- Google Drive를 통한 공동 작업
+
+아래 "구매"버튼을 클릭하여 Apple 계정의 평생 업그레이드를 구입할 수 있습니다.
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_cta_purchase
+```
+Purchase
+```
+translated (by machine 🤖) as:
+```
+매수
+```
+
+
+## Translation Key: ios_premium_restore_dialog_title
+```
+Restore premium upgrade
+```
+translated (by machine 🤖) as:
+```
+프리미엄 업그레이드 복원
+```
+
+
+## Translation Key: ios_premium_restore_dialog_body
+```
+If you have purchased the premium upgrade with your Apple account, you can restore it by tapping the "Restore" button below. Do you want to restore it?
+```
+translated (by machine 🤖) as:
+```
+Apple 계정으로 프리미엄 업그레이드를 구입 한 경우, 아래의 "복원"버튼을 눌러 복원 할 수 있습니다. 복원 하시겠습니까?
+```
+
+
+## Translation Key: ios_premium_restore_dialog_cta_restore_purchases
+```
+Restore Purchases
+```
+translated (by machine 🤖) as:
+```
+구매를 복원
+```
+
+
+## Translation Key: ios_premium_restore_succeeded
+```
+Premium upgrade successfully restored!
+```
+translated (by machine 🤖) as:
+```
+프리미엄 업그레이드가 성공적으로 복원되었습니다!
+```
+
+
+## Translation Key: ios_iap_error_premium_restore_failed
+```
+Could not restore the premium upgrade from your account
+```
+translated (by machine 🤖) as:
+```
+계정에서 프리미엄 업그레이드를 복원 할 수 없습니다.
+```
+
+
+## Translation Key: ios_iap_error_retrieving_product_information
+```
+Error: could not retrieve the product information.
+```
+translated (by machine 🤖) as:
+```
+오류 : 제품 정보를 검색 할 수 없습니다.
+```
+
+
+## Translation Key: ios_iap_error_cannot_make_payments
+```
+Error: it seems your iTunes account is not able to make payments. Please verify your payment settings and try again.
+```
+translated (by machine 🤖) as:
+```
+오류 : 귀하의 iTunes 계정으로 결제 할 수없는 것 같습니다. 결제 설정을 확인하고 다시 시도하십시오.
+```
+
+
+## Translation Key: ios_iap_error_purchase_failed
+```
+Error: purchase failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+오류 : 구매가 실패했습니다. 다시 시도하십시오.
+```
+
+
+## Translation Key: ios_iap_error_itunes_connect_store
+```
+Error: could not connect to iTunes store.
+```
+translated (by machine 🤖) as:
+```
+오류 : iTunes 상점에 연결할 수 없습니다.
+```
+
+
+## Translation Key: ios_has_local_changes_last_sync
+```
+Has local changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+로컬 변경, 마지막 동기화 :
+```
+
+
+## Translation Key: ios_has_cloud_changes_last_sync
+```
+Has cloud changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+클라우드 변경, 마지막 동기화 :
+```
+
+
+## Translation Key: ios_all_changes_synced_last_sync
+```
+All changes synced, last sync:
+```
+translated (by machine 🤖) as:
+```
+모든 변경 사항이 동기화되고, 마지막 동기화 :
+```
+
+
+## Translation Key: ios_message_sync_error_occured_db_version_too_old
+```
+A sync error occurred: the cloud data was created with an older version of the Android app. You need to sync the cloud data again from a more recent version of the Android app before it can be synced here.
+```
+translated (by machine 🤖) as:
+```
+동기화 오류가 발생했습니다. 클라우드 데이터가 이전 버전의 Android 앱에서 생성되었습니다. 최신 버전의 Android 앱에서 클라우드 데이터를 다시 동기화해야 동기화 할 수 있습니다.
+```
+
+
+## Translation Key: ios_message_sync_error_missing_cloud_file
+```
+A sync error occurred: an essential cloud file could not be found.
+
+If you own the cloud account where the cloud map is located, then you probably accidentally deleted it, check your cloud trash folder, you might be able to restore it!
+
+If the cloud account where the cloud map is located is not your own and is shared with you, ask the cloud account owner.
+```
+translated (by machine 🤖) as:
+```
+동기화 오류가 발생했습니다 : 필수 클라우드 파일을 찾을 수 없습니다.
+
+클라우드지도가있는 클라우드 계정을 소유 한 경우 우연히 실수로 삭제하고 클라우드 휴지통 폴더를 확인하면 복원 할 수 있습니다!
+
+클라우드지도가있는 클라우드 계정이 자신의 것이 아니며 나와 공유 된 경우 클라우드 계정 소유자에게 문의하십시오.
+```
+
+
+## Translation Key: react_webapp_file_dropzone_hint_text
+```
+Drop some files here, or click to select files to upload.
+```
+translated (by machine 🤖) as:
+```
+여기에 파일을 버리거나 클릭하여 업로드 할 파일을 선택하십시오.
+```
+
+
+## Translation Key: react_webapp_file_dropzone_uploading_text
+```
+Uploading files…
+```
+translated (by machine 🤖) as:
+```
+파일 업로드 중 ...
+```
+
+
+## Translation Key: react_webapp_cannot_add_images_on_local_map_message
+```
+You need to open a cloud map in order to be able to add images. Open a cloud map, or sync this map to the cloud and try again.
+```
+translated (by machine 🤖) as:
+```
+이미지를 추가하려면 클라우드 맵을 열어야합니다. 클라우드 맵을 열거 나이 맵을 클라우드에 동기화하고 다시 시도하십시오.
+```
+
+
+## Translation Key: some_files_failed_to_upload
+```
+Some files failed to upload.
+```
+translated (by machine 🤖) as:
+```
+일부 파일을 업로드하지 못했습니다.
+```
+
+
+## Translation Key: react_webapp_log_in_title
+```
+Log in
+```
+translated (by machine 🤖) as:
+```
+로그인
+```
+
+
+## Translation Key: react_webapp_log_in_message
+```
+To continue, you need to log in with your cloud account. Click the "log in" button below to log in.
+```
+translated (by machine 🤖) as:
+```
+계속하려면 클라우드 계정으로 로그인해야합니다. 로그인하려면 아래 "로그인"버튼을 클릭하십시오.
+```
+
+
+## Translation Key: react_webapp_select_file_title
+```
+Select a file
+```
+translated (by machine 🤖) as:
+```
+파일 선택
+```
+
+
+## Translation Key: react_webapp_select_file_message
+```
+Drop a file here, or click here to select from your computer.
+```
+translated (by machine 🤖) as:
+```
+파일을 여기에 놓거나 여기를 클릭하여 컴퓨터에서 선택하십시오.
+```
+
+
+## Translation Key: react_app_use_cloud_account_x
+```
+Use cloud account: %s
+```
+translated (by machine 🤖) as:
+```
+클라우드 계정 사용 : %s
+```
+
+
+## Translation Key: react_app_use_other_cloud_account
+```
+Use other cloud account
+```
+translated (by machine 🤖) as:
+```
+다른 클라우드 계정 사용
+```
+
+
+## Translation Key: react_app_choices_list_cannot_be_empty
+```
+The choices list cannot be empty
+```
+translated (by machine 🤖) as:
+```
+선택 목록은 비워 둘 수 없습니다.
+```
+
+
+## Translation Key: react_app_empty_choices_are_not_allowed
+```
+Empty choices are not allowed
+```
+translated (by machine 🤖) as:
+```
+빈 선택 항목은 허용되지 않습니다.
+```
+
+
+## Translation Key: react_app_custom_field_name_cannot_be_empty
+```
+The name of the custom field cannot be empty
+```
+translated (by machine 🤖) as:
+```
+맞춤 입력란 이름은 비워 둘 수 없습니다.
 ```

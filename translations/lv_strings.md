@@ -3531,7 +3531,7 @@ Parādiet brīdinājuma ikonu sinhronizāciju
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Sinhronizācijas tika pārtraukta, jo viens no multivides failus uz mākoni trūka. Jūs varat ignorēt trūkstošos failus, noklikšķinot uz "spēka sinhronizācijas". Brīdinājums, ignorējot trūkstošos failus radīs atceļot tos no datu bāzes, kas nozīmē, ka citas ierīces joprojām lokālo kopiju failu izdzēsīs to uz sinhronizāciju.
 ```
@@ -4872,4 +4872,372 @@ Map Marker's Pelias server
 translated (by machine 🤖) as:
 ```
 Map Marker Pelias serveris
+```
+
+
+## Translation Key: ios_local_map_file
+```
+Local map file
+```
+translated (by machine 🤖) as:
+```
+Vietējais kartes fails
+```
+
+
+## Translation Key: ios_delete
+```
+Delete
+```
+translated (by machine 🤖) as:
+```
+Dzēst
+```
+
+
+## Translation Key: ios_search_places
+```
+Search places
+```
+translated (by machine 🤖) as:
+```
+Meklēt vietas
+```
+
+
+## Translation Key: marker_search_result_text_create_marker
+```
+Create marker
+```
+translated (by machine 🤖) as:
+```
+Izveidot marķieri
+```
+
+
+## Translation Key: ios_cloud_map_file_with_account
+```
+Cloud map file with account:
+```
+translated (by machine 🤖) as:
+```
+Mākoņa kartes fails ar kontu:
+```
+
+
+## Translation Key: ios_premium_options_dialog_info
+```
+Information
+```
+translated (by machine 🤖) as:
+```
+Informācija
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_body
+```
+Exclusive premium features:
+- No ads
+- Sync on Google Drive
+- Collaborate via Google Drive
+
+You can purchase the lifetime premium upgrade for your Apple account by clicking the "Purchase" button below.
+```
+translated (by machine 🤖) as:
+```
+Ekskluzīvas piemaksas iespējas:
+- Nav reklāmu
+- Sinhronizācija Google Drive
+- Sadarboties ar Google Drive
+
+Jūs varat iegādāties Apple konta mūža piemaksu jauninājumu, noklikšķinot uz pogas "Iegāde".
+```
+
+
+## Translation Key: ios_premium_purchase_dialog_cta_purchase
+```
+Purchase
+```
+translated (by machine 🤖) as:
+```
+Pirkums
+```
+
+
+## Translation Key: ios_premium_restore_dialog_title
+```
+Restore premium upgrade
+```
+translated (by machine 🤖) as:
+```
+Atjaunot piemaksu jaunināšanu
+```
+
+
+## Translation Key: ios_premium_restore_dialog_body
+```
+If you have purchased the premium upgrade with your Apple account, you can restore it by tapping the "Restore" button below. Do you want to restore it?
+```
+translated (by machine 🤖) as:
+```
+Ja esat iegādājies piemaksu jauninājumu ar savu Apple kontu, varat to atjaunot, pieskaroties zemāk esošajai pogai "Atjaunot". Vai vēlaties to atjaunot?
+```
+
+
+## Translation Key: ios_premium_restore_dialog_cta_restore_purchases
+```
+Restore Purchases
+```
+translated (by machine 🤖) as:
+```
+Atjaunot pirkumus
+```
+
+
+## Translation Key: ios_premium_restore_succeeded
+```
+Premium upgrade successfully restored!
+```
+translated (by machine 🤖) as:
+```
+Premium atjaunošana veiksmīgi atjaunota!
+```
+
+
+## Translation Key: ios_iap_error_premium_restore_failed
+```
+Could not restore the premium upgrade from your account
+```
+translated (by machine 🤖) as:
+```
+Nevarēja atjaunot piemaksas jaunināšanu no sava konta
+```
+
+
+## Translation Key: ios_iap_error_retrieving_product_information
+```
+Error: could not retrieve the product information.
+```
+translated (by machine 🤖) as:
+```
+Kļūda: nevarēja iegūt informāciju par produktu.
+```
+
+
+## Translation Key: ios_iap_error_cannot_make_payments
+```
+Error: it seems your iTunes account is not able to make payments. Please verify your payment settings and try again.
+```
+translated (by machine 🤖) as:
+```
+Kļūda: šķiet, ka jūsu iTunes konts nevar veikt maksājumus. Lūdzu, pārbaudiet maksājumu iestatījumus un mēģiniet vēlreiz.
+```
+
+
+## Translation Key: ios_iap_error_purchase_failed
+```
+Error: purchase failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Kļūda: iegāde neizdevās, lūdzu, mēģiniet vēlreiz.
+```
+
+
+## Translation Key: ios_iap_error_itunes_connect_store
+```
+Error: could not connect to iTunes store.
+```
+translated (by machine 🤖) as:
+```
+Kļūda: nevarēja izveidot savienojumu ar iTunes veikalu.
+```
+
+
+## Translation Key: ios_has_local_changes_last_sync
+```
+Has local changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+Ir vietējās izmaiņas, pēdējā sinhronizācija:
+```
+
+
+## Translation Key: ios_has_cloud_changes_last_sync
+```
+Has cloud changes, last sync:
+```
+translated (by machine 🤖) as:
+```
+Vai mākonis ir mainījies, pēdējā sinhronizācija:
+```
+
+
+## Translation Key: ios_all_changes_synced_last_sync
+```
+All changes synced, last sync:
+```
+translated (by machine 🤖) as:
+```
+Visas izmaiņas sinhronizētas, pēdējā sinhronizācija:
+```
+
+
+## Translation Key: ios_message_sync_error_occured_db_version_too_old
+```
+A sync error occurred: the cloud data was created with an older version of the Android app. You need to sync the cloud data again from a more recent version of the Android app before it can be synced here.
+```
+translated (by machine 🤖) as:
+```
+Radās sinhronizācijas kļūda: mākoņa dati tika izveidoti ar vecāku Android lietotnes versiju. Lai sinhronizētu šeit, jums ir vēlreiz jāsaskaņo mākoņa dati no jaunākās Android lietotnes versijas.
+```
+
+
+## Translation Key: ios_message_sync_error_missing_cloud_file
+```
+A sync error occurred: an essential cloud file could not be found.
+
+If you own the cloud account where the cloud map is located, then you probably accidentally deleted it, check your cloud trash folder, you might be able to restore it!
+
+If the cloud account where the cloud map is located is not your own and is shared with you, ask the cloud account owner.
+```
+translated (by machine 🤖) as:
+```
+Radās sinhronizācijas kļūda: nevarēja atrast būtisku mākoņa failu.
+
+Ja jums ir mākoņa konts, kurā atrodas mākoņa karte, tad jūs, iespējams, to nejauši izdzēsāt, pārbaudiet mākoņa miskastes mapi, iespējams, varēsiet to atjaunot!
+
+Ja mākoņa konts, kurā atrodas mākoņa karte, nav jūsu pašu un tiek koplietots ar jums, vaicājiet mākoņa konta īpašniekam.
+```
+
+
+## Translation Key: react_webapp_file_dropzone_hint_text
+```
+Drop some files here, or click to select files to upload.
+```
+translated (by machine 🤖) as:
+```
+Atmetiet dažus failus šeit vai noklikšķiniet, lai atlasītu augšupielādējamos failus.
+```
+
+
+## Translation Key: react_webapp_file_dropzone_uploading_text
+```
+Uploading files…
+```
+translated (by machine 🤖) as:
+```
+Failu augšupielāde ...
+```
+
+
+## Translation Key: react_webapp_cannot_add_images_on_local_map_message
+```
+You need to open a cloud map in order to be able to add images. Open a cloud map, or sync this map to the cloud and try again.
+```
+translated (by machine 🤖) as:
+```
+Lai varētu pievienot attēlus, jums ir nepieciešams atvērt mākoņa karti. Atveriet mākoņu karti vai sinhronizējiet šo karti mākonis un mēģiniet vēlreiz.
+```
+
+
+## Translation Key: some_files_failed_to_upload
+```
+Some files failed to upload.
+```
+translated (by machine 🤖) as:
+```
+Daži faili nav augšupielādēti.
+```
+
+
+## Translation Key: react_webapp_log_in_title
+```
+Log in
+```
+translated (by machine 🤖) as:
+```
+Pieslēgties
+```
+
+
+## Translation Key: react_webapp_log_in_message
+```
+To continue, you need to log in with your cloud account. Click the "log in" button below to log in.
+```
+translated (by machine 🤖) as:
+```
+Lai turpinātu, jums ir jāpiesakās ar mākoņa kontu. Lai pieteiktos, noklikšķiniet uz tālāk norādītās pogas.
+```
+
+
+## Translation Key: react_webapp_select_file_title
+```
+Select a file
+```
+translated (by machine 🤖) as:
+```
+Atlasiet failu
+```
+
+
+## Translation Key: react_webapp_select_file_message
+```
+Drop a file here, or click here to select from your computer.
+```
+translated (by machine 🤖) as:
+```
+Atmetiet failu šeit vai noklikšķiniet šeit, lai izvēlētos no sava datora.
+```
+
+
+## Translation Key: react_app_use_cloud_account_x
+```
+Use cloud account: %s
+```
+translated (by machine 🤖) as:
+```
+Izmantojiet mākoņa kontu: %s
+```
+
+
+## Translation Key: react_app_use_other_cloud_account
+```
+Use other cloud account
+```
+translated (by machine 🤖) as:
+```
+Izmantojiet citu mākoņa kontu
+```
+
+
+## Translation Key: react_app_choices_list_cannot_be_empty
+```
+The choices list cannot be empty
+```
+translated (by machine 🤖) as:
+```
+Izvēlņu saraksts nevar būt tukšs
+```
+
+
+## Translation Key: react_app_empty_choices_are_not_allowed
+```
+Empty choices are not allowed
+```
+translated (by machine 🤖) as:
+```
+Tukšas izvēles nav atļautas
+```
+
+
+## Translation Key: react_app_custom_field_name_cannot_be_empty
+```
+The name of the custom field cannot be empty
+```
+translated (by machine 🤖) as:
+```
+Pielāgotā lauka nosaukums nevar būt tukšs
 ```
