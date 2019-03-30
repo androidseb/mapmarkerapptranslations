@@ -8,7 +8,7 @@ if [ $TR_HUMAN_COUNT -ne "0" ]; then
 	TR_MACHINE_COUNT=$(cat $LANGUAGE_FILE_PATH|grep "translated (by machine"|wc -l)
 	set +e
 	TR_TOTAL=$(expr $TR_HUMAN_COUNT + $TR_MACHINE_COUNT)
-	set -e
 	COMPLETION_PERCENTAGE=$(expr $TR_HUMAN_COUNT \* 100 / $TR_TOTAL)
+	set -e
 fi
 echo "["$LANGUAGE_NAME" ("$COMPLETION_PERCENTAGE"% human-translated)]("$LANGUAGE_FILE_PATH")"
