@@ -7,7 +7,7 @@ You want to help improve this translation file? Read the [main page](https://git
 ```
 OK
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 OK
 ```
@@ -17,7 +17,7 @@ OK
 ```
 Yes
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Oui
 ```
@@ -27,7 +27,7 @@ Oui
 ```
 No
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Non
 ```
@@ -37,7 +37,7 @@ Non
 ```
 Cancel
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Annuler
 ```
@@ -47,7 +47,7 @@ Annuler
 ```
 New marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Nouveau marqueur
 ```
@@ -57,7 +57,7 @@ Nouveau marqueur
 ```
 Title
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Titre
 ```
@@ -67,7 +67,7 @@ Titre
 ```
 Description
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Description
 ```
@@ -77,7 +77,7 @@ Description
 ```
 Do you really want to delete this marker?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Voulez-vous vraiment supprimer ce marqueur ?
 ```
@@ -87,7 +87,7 @@ Voulez-vous vraiment supprimer ce marqueur ?
 ```
 GPS coordinates
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Coordonnées GPS
 ```
@@ -97,7 +97,7 @@ Coordonnées GPS
 ```
 Could not copy coordinates to clipboard
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Impossible de copier les coordonnées vers le presse-papier
 ```
@@ -107,7 +107,7 @@ Impossible de copier les coordonnées vers le presse-papier
 ```
 Coordinates copied to clipboard
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Coordonnées copiées vers le presse-papier
 ```
@@ -117,7 +117,7 @@ Coordonnées copiées vers le presse-papier
 ```
 Failed to access application save directory. Make sure that your device is not being accessed by a computer with the USB cable, and restart the app.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Impossible d\'accéder au répertoire de sauvegarde de l\'application. Assurez-vous que votre appareil n\'est pas branché à un ordinateur et redémarrez l\'application.
 ```
@@ -127,7 +127,7 @@ Impossible d\'accéder au répertoire de sauvegarde de l\'application. Assurez-v
 ```
 Untitled
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Sans titre
 ```
@@ -137,7 +137,7 @@ Sans titre
 ```
 All
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Tous
 ```
@@ -147,7 +147,7 @@ Tous
 ```
 Add folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ajouter un dossier
 ```
@@ -157,7 +157,7 @@ Ajouter un dossier
 ```
 Modify folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Modifier dossier
 ```
@@ -167,7 +167,7 @@ Modifier dossier
 ```
 Are you sure you want to delete this folder? All markers associated to this folder will be deleted permanently!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Êtes-vous sûr de vouloir supprimer ce dossier ? Tous les marqueurs associés à ce dossier seront supprimés de façon permanente !
 ```
@@ -177,7 +177,7 @@ translated (by machine 🤖) as:
 ```
 Failed to create new folder, it already exists
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Impossible de créer le nouveau dossier, il existe déjà
 ```
@@ -187,7 +187,7 @@ Impossible de créer le nouveau dossier, il existe déjà
 ```
 Failed to rename the folder, the destination name already exists
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Impossible de renommer le dossier, le nom de destination existe déjà
 ```
@@ -197,7 +197,7 @@ Impossible de renommer le dossier, le nom de destination existe déjà
 ```
 Latitude:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Latitude :
 ```
@@ -207,7 +207,7 @@ Latitude :
 ```
 Longitude:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Longitude :
 ```
@@ -217,7 +217,7 @@ Longitude :
 ```
 Could not write file.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Erreur d\'écriture du fichier.
 ```
@@ -227,7 +227,7 @@ Erreur d\'écriture du fichier.
 ```
 Import/Export
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Importer/Exporter
 ```
@@ -237,7 +237,7 @@ Importer/Exporter
 ```
 Import markers
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Importer des marqueurs
 ```
@@ -247,7 +247,7 @@ Importer des marqueurs
 ```
 File imported successfully
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Fichier importé avec succès
 ```
@@ -257,7 +257,7 @@ Fichier importé avec succès
 ```
 File import failed
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Import du fichier échoué
 ```
@@ -267,7 +267,7 @@ Import du fichier échoué
 ```
 Location services
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Services de localisation
 ```
@@ -277,7 +277,7 @@ Services de localisation
 ```
 Location services are disabled. To get your current location you must enable them.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Les services de localisation sont désactivés. Pour obtenir votre position vous devez les activer.
 ```
@@ -287,7 +287,7 @@ Les services de localisation sont désactivés. Pour obtenir votre position vous
 ```
 Could not find address
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Impossible de trouver l\'adresse
 ```
@@ -297,7 +297,7 @@ Impossible de trouver l\'adresse
 ```
 Searching&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Recherche&#8230;
 ```
@@ -307,7 +307,7 @@ Recherche&#8230;
 ```
 Search
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Recherche
 ```
@@ -317,7 +317,7 @@ Recherche
 ```
 Share via
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Partager via
 ```
@@ -327,7 +327,7 @@ Partager via
 ```
 Do you want to import the content of this file?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Voulez-vous importer le contenu de ce fichier ?
 ```
@@ -337,7 +337,7 @@ Voulez-vous importer le contenu de ce fichier ?
 ```
 Folder name
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Nom du dossier
 ```
@@ -347,7 +347,7 @@ Nom du dossier
 ```
 Save
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Enregistrer
 ```
@@ -357,7 +357,7 @@ Enregistrer
 ```
 Close
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Fermer
 ```
@@ -367,7 +367,7 @@ Fermer
 ```
 Are you sure you want to delete the selected markers?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Êtes-vous sûr de vouloir supprimer les marqueurs sélectionnés ?
 ```
@@ -377,7 +377,7 @@ translated (by machine 🤖) as:
 ```
 Move markers to folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Déplacer les marqueurs vers le dossier
 ```
@@ -387,7 +387,7 @@ Déplacer les marqueurs vers le dossier
 ```
 Share
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Partager
 ```
@@ -397,7 +397,7 @@ Partager
 ```
 Folder:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Dossier :
 ```
@@ -407,7 +407,7 @@ Dossier :
 ```
 Snapshot of my markers on Map Marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Capture de mes marqueurs sur Map Marker
 ```
@@ -418,7 +418,7 @@ Capture de mes marqueurs sur Map Marker
 This snapshot was made with the app Map Marker:
 %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Cette capture a été réalisée depuis l\'application Map Marker :
 %s
@@ -429,7 +429,7 @@ Cette capture a été réalisée depuis l\'application Map Marker :
 ```
 Processing data&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Traitement des données&#8230;
 ```
@@ -439,7 +439,7 @@ Traitement des données&#8230;
 ```
 You have unsaved modifications, do you want to save them?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vous avez des modifications non sauvegardées, voulez-vous les sauvegarder ?
 ```
@@ -449,7 +449,7 @@ Vous avez des modifications non sauvegardées, voulez-vous les sauvegarder ?
 ```
 Use the long press on the map to create a new marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Utiliser le clic long sur la carte pour ajouter un marqueur
 ```
@@ -459,7 +459,7 @@ Utiliser le clic long sur la carte pour ajouter un marqueur
 ```
 Map type
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Type de carte
 ```
@@ -469,7 +469,7 @@ Type de carte
 ```
 Normal
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Normale
 ```
@@ -479,7 +479,7 @@ Normale
 ```
 Satellite
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Satellite
 ```
@@ -489,7 +489,7 @@ Satellite
 ```
 Terrain
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Terrain
 ```
@@ -499,7 +499,7 @@ Terrain
 ```
 Hybrid
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Hybride
 ```
@@ -510,7 +510,7 @@ Hybride
 Found a problem? Have an idea of improvement?
 Send me an email :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Un problème ? Une idée d\'amélioration ?
 Envoyez-moi un email :-)
@@ -521,7 +521,7 @@ Envoyez-moi un email :-)
 ```
 Send email&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Envoyer email&#8230;
 ```
@@ -532,7 +532,7 @@ Envoyer email&#8230;
 You like the app?
 Rate it 5 stars :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vous aimez l\'application ?
 Notez-la 5 étoiles :-)
@@ -543,7 +543,7 @@ Notez-la 5 étoiles :-)
 ```
 Change folder to&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Changer de dossier&#8230;
 ```
@@ -553,7 +553,7 @@ Changer de dossier&#8230;
 ```
 Directions
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Directions
 ```
@@ -563,7 +563,7 @@ Directions
 ```
 Acquiring location&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Acquisition de la position&#8230;
 ```
@@ -573,7 +573,7 @@ Acquisition de la position&#8230;
 ```
 Meters
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Mètres
 ```
@@ -583,7 +583,7 @@ Mètres
 ```
 Km
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Km
 ```
@@ -593,7 +593,7 @@ Km
 ```
 Feet
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Pieds
 ```
@@ -603,7 +603,7 @@ Pieds
 ```
 Miles
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Miles
 ```
@@ -613,7 +613,7 @@ Miles
 ```
 Adjust map camera position when guiding to a marker location
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ajuster la caméra de la carte lors du guidage vers la position d\'un marqueur
 ```
@@ -623,7 +623,7 @@ Ajuster la caméra de la carte lors du guidage vers la position d\'un marqueur
 ```
 Keep screen on when guiding to a marker location
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Garder l\'écran allumé lors du guidage vers la position d\'un marqueur
 ```
@@ -633,7 +633,7 @@ Garder l\'écran allumé lors du guidage vers la position d\'un marqueur
 ```
 Marker details copied to clipboard
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Détails du marqueur copiés vers le presse-papier
 ```
@@ -643,7 +643,7 @@ Détails du marqueur copiés vers le presse-papier
 ```
 Long press to drag and move the marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Appui long pour glisser et déplacer le marqueur
 ```
@@ -653,7 +653,7 @@ Appui long pour glisser et déplacer le marqueur
 ```
 Error starting internal task manager, app will now exit
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Erreur lors du démarrage du gestionnaire de tâche interne, l\'application va maintenant se fermer
 ```
@@ -663,7 +663,7 @@ Erreur lors du démarrage du gestionnaire de tâche interne, l\'application va m
 ```
 Do not show again
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ne plus afficher
 ```
@@ -673,7 +673,7 @@ Ne plus afficher
 ```
 Could not create the map capture
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Impossible de créer la capture de la carte
 ```
@@ -683,7 +683,7 @@ Impossible de créer la capture de la carte
 ```
 Metric (Kilometers/Meters)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Métrique (Kilomètres/Mètres)
 ```
@@ -693,7 +693,7 @@ Métrique (Kilomètres/Mètres)
 ```
 Imperial (Miles/Feet)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Impérial (Miles/Pieds)
 ```
@@ -703,7 +703,7 @@ Impérial (Miles/Pieds)
 ```
 There is a problem with Google Play Services: it needs to be installed, updated or activated. Click OK to try and solve it.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Il y a un problème avec Google Play Services, une installation ou mise à jour ou activation est nécessaire. Cliquez OK pour tenter de le résoudre.
 ```
@@ -713,7 +713,7 @@ Il y a un problème avec Google Play Services, une installation ou mise à jour 
 ```
 Delete folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Supprimer le dossier
 ```
@@ -723,7 +723,7 @@ Supprimer le dossier
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Si vous aimez mon application, vous pouvez me récompenser en prenant le temps de lui donner une bonne note :-)
 ```
@@ -734,7 +734,7 @@ Si vous aimez mon application, vous pouvez me récompenser en prenant le temps d
 OK take me
 to the Play Store
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 OK ouvrir
 le Play Store
@@ -746,7 +746,7 @@ le Play Store
 I already
 gave a rating
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 J\'ai déjà
 donné une note
@@ -758,7 +758,7 @@ donné une note
 Maybe later
 remind me
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Peut-être plus tard
 rappelez-moi
@@ -770,7 +770,7 @@ rappelez-moi
 Maybe later
 do not remind me
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Peut-être plus tard
 ne me rappelez pas
@@ -781,7 +781,7 @@ ne me rappelez pas
 ```
 Could not find the place
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Impossible de trouver l\'endroit
 ```
@@ -791,7 +791,7 @@ Impossible de trouver l\'endroit
 ```
 Could not find another map application
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Impossible de trouver une application de cartes
 ```
@@ -801,7 +801,7 @@ Impossible de trouver une application de cartes
 ```
 Move the map around to place your marker where you want and click OK to place it.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Déplacez la carte pour placer votre marqueur où vous voulez, puis cliquez sur OK pour le placer.
 ```
@@ -811,7 +811,7 @@ Déplacez la carte pour placer votre marqueur où vous voulez, puis cliquez sur 
 ```
 Imported marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Marqueur importé
 ```
@@ -821,7 +821,7 @@ Marqueur importé
 ```
 Settings
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Réglages
 ```
@@ -831,7 +831,7 @@ Réglages
 ```
 Display zoom buttons
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Afficher les boutons de zoom
 ```
@@ -841,7 +841,7 @@ Afficher les boutons de zoom
 ```
 Decimal degrees
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Degrés décimaux
 ```
@@ -851,7 +851,7 @@ Degrés décimaux
 ```
 Degrees decimal minutes
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Degrés à minutes décimales
 ```
@@ -861,7 +861,7 @@ Degrés à minutes décimales
 ```
 Degrees minutes seconds
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Degrés minutes secondes
 ```
@@ -871,7 +871,7 @@ Degrés minutes secondes
 ```
 Coordinates format
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Format de coordonnées
 ```
@@ -881,7 +881,7 @@ Format de coordonnées
 ```
 GPS and wireless networks only
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 GPS et réseaux sans fils seulement
 ```
@@ -891,7 +891,7 @@ GPS et réseaux sans fils seulement
 ```
 GPS and wireless networks or magnetic sensor
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 GPS et réseaux sans fils ou capteur magnétique
 ```
@@ -901,7 +901,7 @@ GPS et réseaux sans fils ou capteur magnétique
 ```
 Magnetic sensor only
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Capteur magnétique seulement
 ```
@@ -911,7 +911,7 @@ Capteur magnétique seulement
 ```
 Used compass sensor
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Capteur boussole utilisé
 ```
@@ -921,7 +921,7 @@ Capteur boussole utilisé
 ```
 FAQ/Help
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 FAQ/Aide
 ```
@@ -931,7 +931,7 @@ FAQ/Aide
 ```
 Folders
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Dossiers
 ```
@@ -941,7 +941,7 @@ Dossiers
 ```
 Help and settings
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Aide et réglages
 ```
@@ -951,7 +951,7 @@ Aide et réglages
 ```
 Language
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Langue
 ```
@@ -961,7 +961,7 @@ Langue
 ```
 Marker popup style
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Style de popup de marqueur
 ```
@@ -971,7 +971,7 @@ Style de popup de marqueur
 ```
 Bottom
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 En bas
 ```
@@ -981,7 +981,7 @@ En bas
 ```
 Bubble
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Bulle
 ```
@@ -991,7 +991,7 @@ Bulle
 ```
 Coordinates
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Coordonnées
 ```
@@ -1001,7 +1001,7 @@ Coordonnées
 ```
 Contextual
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Contextuel
 ```
@@ -1011,7 +1011,7 @@ Contextuel
 ```
 Always
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Toujours
 ```
@@ -1021,7 +1021,7 @@ Toujours
 ```
 Crosshair display
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Affichage du viseur
 ```
@@ -1031,7 +1031,7 @@ Affichage du viseur
 ```
 Coordinates window
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Fenêtres de coordonnées
 ```
@@ -1041,7 +1041,7 @@ Fenêtres de coordonnées
 ```
 Lat:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Lat:
 ```
@@ -1051,7 +1051,7 @@ Lat:
 ```
 Lng:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Lng:
 ```
@@ -1061,7 +1061,7 @@ Lng:
 ```
 Marker instant adding mode
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Mode d'ajout de marqueur instantanné
 ```
@@ -1071,7 +1071,7 @@ Mode d'ajout de marqueur instantanné
 ```
 Advanced
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Avancé
 ```
@@ -1081,7 +1081,7 @@ Avancé
 ```
 Display
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Affichage
 ```
@@ -1091,7 +1091,7 @@ Affichage
 ```
 Actions
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Actions
 ```
@@ -1101,7 +1101,7 @@ Actions
 ```
 Language and units
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Langues et unités
 ```
@@ -1111,7 +1111,7 @@ Langues et unités
 ```
 Markers ignored on import (duplicates): %1$d
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Marqueurs ignorés à l'import (doublons) : %1$d
 ```
@@ -1121,7 +1121,7 @@ Marqueurs ignorés à l'import (doublons) : %1$d
 ```
 %1$d markers
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 %1$d marqueurs
 ```
@@ -1131,7 +1131,7 @@ translated (by machine 🤖) as:
 ```
 No auto naming
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Pas d'auto nommage
 ```
@@ -1141,7 +1141,7 @@ Pas d'auto nommage
 ```
 Auto naming "number"
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Auto nommage "nombre"
 ```
@@ -1151,7 +1151,7 @@ Auto nommage "nombre"
 ```
 Auto naming "Marker number"
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Auto nommage "Marqueur nombre"
 ```
@@ -1161,7 +1161,7 @@ Auto nommage "Marqueur nombre"
 ```
 New marker auto naming
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Nommage auto des nouveaux marqueurs
 ```
@@ -1171,7 +1171,7 @@ Nommage auto des nouveaux marqueurs
 ```
 Marker %1$d
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Marqueur %1$d
 ```
@@ -1181,7 +1181,7 @@ Marqueur %1$d
 ```
 Waiting for location&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 En attente de position&#8230;
 ```
@@ -1191,7 +1191,7 @@ En attente de position&#8230;
 ```
 Open the help page and see the FAQ
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ouvrir la page d'aide et voir la FAQ
 ```
@@ -1201,7 +1201,7 @@ Ouvrir la page d'aide et voir la FAQ
 ```
 Features
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Fonctionnalités
 ```
@@ -1211,7 +1211,7 @@ Fonctionnalités
 ```
 View the list of upcoming features for the next app version
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Voir la liste des fonctionnalités à venir pour la prochaine version
 ```
@@ -1221,7 +1221,7 @@ Voir la liste des fonctionnalités à venir pour la prochaine version
 ```
 Help &amp; Feedback
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Aide &amp; Commentaires
 ```
@@ -1231,7 +1231,7 @@ Aide &amp; Commentaires
 ```
 About
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 À propos
 ```
@@ -1241,7 +1241,7 @@ translated (by machine 🤖) as:
 ```
 Distance to %1$s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Distance à %1$s
 ```
@@ -1251,7 +1251,7 @@ Distance à %1$s
 ```
 Snapshot
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Capture
 ```
@@ -1261,7 +1261,7 @@ Capture
 ```
 Share a snapshot of the map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Partager une capture de la carte
 ```
@@ -1271,7 +1271,7 @@ Partager une capture de la carte
 ```
 All markers and folders
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Tous les marqueurs et dossiers
 ```
@@ -1281,7 +1281,7 @@ Tous les marqueurs et dossiers
 ```
 <![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 <![CDATA[<html><body><b>Afin d'obtenir la bonne direction du nord pour la boussole, vous devez calibrer votre appareil correctement.<br>Pour calibrer votre appareil, bougez le simplement en dessinant un 8. Le mouvement doit être ample et répété 3 fois pour plus d'efficacité.<br>Vous pouvez calibrer votre appareil en faisant ça n'importe quand.</b><br><br>La calibration a ses limitations et pourrait ne pas suffire pour contrer les interférences alentours telles que :<br>&bull; gros objets en métal<br>&bull; appareils électronique<br>&bull; aimants<br>&bull; l'intérieur de voiture/bus/train/avion</body></html>]]>
 ```
@@ -1291,7 +1291,7 @@ translated (by machine 🤖) as:
 ```
 Badges
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Badges
 ```
@@ -1301,7 +1301,7 @@ Badges
 ```
 Buy a donation badge
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Acheter un badge de donation
 ```
@@ -1311,7 +1311,7 @@ Acheter un badge de donation
 ```
 Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Merci pour votre donation ! Ce badge vous donne accès aux fonctionnalités premium :-)
 ```
@@ -1321,7 +1321,7 @@ Merci pour votre donation ! Ce badge vous donne accès aux fonctionnalités prem
 ```
 Default folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Dossier par défaut
 ```
@@ -1331,7 +1331,7 @@ Dossier par défaut
 ```
 Sync options
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Options de synchronisation
 ```
@@ -1341,7 +1341,7 @@ Options de synchronisation
 ```
 Google Drive
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Google Drive
 ```
@@ -1351,7 +1351,7 @@ Google Drive
 ```
 Dropbox
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Dropbox
 ```
@@ -1361,7 +1361,7 @@ Dropbox
 ```
 Configuring&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Configuration&#8230;
 ```
@@ -1371,7 +1371,7 @@ Configuration&#8230;
 ```
 Sync now
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Synchroniser maintenant
 ```
@@ -1381,7 +1381,7 @@ Synchroniser maintenant
 ```
 Never
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Jamais
 ```
@@ -1391,7 +1391,7 @@ Jamais
 ```
 Syncing…
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Synchronisation…
 ```
@@ -1401,7 +1401,7 @@ Synchronisation…
 ```
 Select folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Sélectionner dossier
 ```
@@ -1411,7 +1411,7 @@ Sélectionner dossier
 ```
 Load error
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Erreur de chargement
 ```
@@ -1421,7 +1421,7 @@ Erreur de chargement
 ```
 Retry
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Réessayer
 ```
@@ -1431,7 +1431,7 @@ Réessayer
 ```
 Root
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Racine
 ```
@@ -1441,7 +1441,7 @@ Racine
 ```
 Shared
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Partagé
 ```
@@ -1451,7 +1451,7 @@ Partagé
 ```
 Purchase successful!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Achat réussi !
 ```
@@ -1461,7 +1461,7 @@ Achat réussi !
 ```
 Purchase failed: %1$s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Achat échoué : %1$s
 ```
@@ -1471,7 +1471,7 @@ Achat échoué : %1$s
 ```
 Premium access available! You currently have access to premium features.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Accès premium disponible ! Vous avez actuellement accès aux fonctionnalités premium.
 ```
@@ -1481,7 +1481,7 @@ Accès premium disponible ! Vous avez actuellement accès aux fonctionnalités p
 ```
 You cannot select that folder because it contains multiple files named %1$s. The sync requires the folder to contain only one file with that name.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Impossible de sélectionner ce dossier car il contient plusieurs fichiers nommés %1$s. La sync nécessite que le dossier ne contienne qu'un seul fichier avec ce nom.
 ```
@@ -1491,7 +1491,7 @@ Impossible de sélectionner ce dossier car il contient plusieurs fichiers nommé
 ```
 It seems sync data already exists in that folder. If you select that folder, your local data will be merged with the folder data when sync is performed. Is that what you want?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Il semble que des données de sync existent déjà dans ce dossier. Si vous sélectionnez ce dossier, vos données locales seront fusionnées avec les données du dossier lorsque la sync sera effectuée. Est-ce ce que vous souhaitez ?
 ```
@@ -1501,7 +1501,7 @@ Il semble que des données de sync existent déjà dans ce dossier. Si vous sél
 ```
 File options
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Options de fichier
 ```
@@ -1511,7 +1511,7 @@ Options de fichier
 ```
 Cloud sync
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Sync cloud
 ```
@@ -1521,7 +1521,7 @@ Sync cloud
 ```
 Sync this map file on the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Sync ce fichier de carte sur le cloud
 ```
@@ -1531,7 +1531,7 @@ Sync ce fichier de carte sur le cloud
 ```
 Map file
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Fichier de carte
 ```
@@ -1541,7 +1541,7 @@ Fichier de carte
 ```
 Create local map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Créer carte locale
 ```
@@ -1551,7 +1551,7 @@ Créer carte locale
 ```
 Create a new map file locally
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Créer un fichier de carte localement
 ```
@@ -1561,7 +1561,7 @@ Créer un fichier de carte localement
 ```
 Create cloud map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Créer carte cloud
 ```
@@ -1571,7 +1571,7 @@ Créer carte cloud
 ```
 Create a map file on the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Créer un fichier de carte sur le cloud
 ```
@@ -1581,7 +1581,7 @@ Créer un fichier de carte sur le cloud
 ```
 Retrieves changes from the cloud and sends local changes to the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Récupère les changements depuis le cloud et envoie les changements locaux vers le cloud
 ```
@@ -1591,7 +1591,7 @@ Récupère les changements depuis le cloud et envoie les changements locaux vers
 ```
 Rename
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Renommer
 ```
@@ -1601,7 +1601,7 @@ Renommer
 ```
 Rename the map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Renommer la carte
 ```
@@ -1611,7 +1611,7 @@ Renommer la carte
 ```
 Enter new name
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Entrez le nouveau nom
 ```
@@ -1621,7 +1621,7 @@ Entrez le nouveau nom
 ```
 Enter the new map\'s name
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Entrez le nouveau nom de la carte
 ```
@@ -1631,7 +1631,7 @@ Entrez le nouveau nom de la carte
 ```
 %1$d folders, %2$d markers, size: %3$d KB
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 %1$d dossiers, %2$d marqueurs, taille : %3$d KB
 ```
@@ -1641,7 +1641,7 @@ translated (by machine 🤖) as:
 ```
 Create new folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Créer un nouveau dossier
 ```
@@ -1651,7 +1651,7 @@ Créer un nouveau dossier
 ```
 Could not create folder: name empty
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Impossible de créer le dossier : nom vide
 ```
@@ -1661,7 +1661,7 @@ Impossible de créer le dossier : nom vide
 ```
 Could not create folder: error occurred
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Impossible de créer le dossier : une erreur s'est produite
 ```
@@ -1671,7 +1671,7 @@ Impossible de créer le dossier : une erreur s'est produite
 ```
 Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Merci d'avoir acheté la mise à niveau Map Marker Premium :-)
 ```
@@ -1681,7 +1681,7 @@ Merci d'avoir acheté la mise à niveau Map Marker Premium :-)
 ```
 Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Merci d'avoir montré votre intérêt en réclamant votre mise à niveau gratuite Map Marker Premium :-)
 ```
@@ -1691,7 +1691,7 @@ Merci d'avoir montré votre intérêt en réclamant votre mise à niveau gratuit
 ```
 Premium
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Premium
 ```
@@ -1701,7 +1701,7 @@ Premium
 ```
 Upgrade to premium and take full advantage of Map Marker features!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Faites la mise à niveau premium et profitez des pleines fonctionnalités de Map Marker !
 ```
@@ -1711,7 +1711,7 @@ Faites la mise à niveau premium et profitez des pleines fonctionnalités de Map
 ```
 Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Désolé, la mise à niveau premium est nécessaire pour accéder à cette fonction. Faites la mise à niveau premium et profitez des pleines fonctionnalités de Map Marker !
 ```
@@ -1721,7 +1721,7 @@ Désolé, la mise à niveau premium est nécessaire pour accéder à cette fonct
 ```
 You have the premium upgrade for free! You can still purchase it if you want to show your support :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vous avez la mise à niveau premium gratuite ! Vous pouvez toujours l'acheter si vous voulez montrer votre soutient :-)
 ```
@@ -1731,7 +1731,7 @@ Vous avez la mise à niveau premium gratuite ! Vous pouvez toujours l'acheter si
 ```
 Purchase the premium upgrade
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Acheter la mise à niveau premium
 ```
@@ -1741,7 +1741,7 @@ Acheter la mise à niveau premium
 ```
 My Google account already has premium access, activate it!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Mon compte Google a déjà un accès premium, l'activer !
 ```
@@ -1751,7 +1751,7 @@ Mon compte Google a déjà un accès premium, l'activer !
 ```
 Troubleshooting
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Dépannage
 ```
@@ -1761,7 +1761,7 @@ Dépannage
 ```
 Open a list of actions to solve possible problems
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ouvrir une liste d'actions pour résoudre des problèmes possibles
 ```
@@ -1771,7 +1771,7 @@ Ouvrir une liste d'actions pour résoudre des problèmes possibles
 ```
 Test internet
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Tester internet
 ```
@@ -1781,7 +1781,7 @@ Tester internet
 ```
 Checks that the app has access to internet
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vérifier que l'application a accès à internet
 ```
@@ -1791,7 +1791,7 @@ Vérifier que l'application a accès à internet
 ```
 Test file writing
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Tester l'écriture de fichier
 ```
@@ -1801,7 +1801,7 @@ Tester l'écriture de fichier
 ```
 Checks that the app can save files on the internal SD card
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vérifier que l'application peut écrire des fichier sur la carte SD interne
 ```
@@ -1811,7 +1811,7 @@ Vérifier que l'application peut écrire des fichier sur la carte SD interne
 ```
 GP Services (app)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 GP Services (app)
 ```
@@ -1821,7 +1821,7 @@ GP Services (app)
 ```
 Open the details of the currently installed Google Play Services app
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ouvrir les détails de l'application installée Google Play Services
 ```
@@ -1831,7 +1831,7 @@ Ouvrir les détails de l'application installée Google Play Services
 ```
 GP Services (store)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 GP Services (store)
 ```
@@ -1841,7 +1841,7 @@ GP Services (store)
 ```
 Google Play (app)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Google Play (app)
 ```
@@ -1851,7 +1851,7 @@ Google Play (app)
 ```
 Contact support
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Contacter le support
 ```
@@ -1861,7 +1861,7 @@ Contacter le support
 ```
 Write an email to support with the details of your problem
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Écrire un email au support avec les détails de votre problème
 ```
@@ -1871,7 +1871,7 @@ translated (by machine 🤖) as:
 ```
 Device network unavailable
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Réseau non accessible sur l'appareil
 ```
@@ -1881,7 +1881,7 @@ Réseau non accessible sur l'appareil
 ```
 Testing&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Test&#8230;
 ```
@@ -1891,7 +1891,7 @@ Test&#8230;
 ```
 Network test succeeded
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Test de réseau réussi
 ```
@@ -1901,7 +1901,7 @@ Test de réseau réussi
 ```
 Network test failed
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Test de réseau échoué
 ```
@@ -1911,7 +1911,7 @@ Test de réseau échoué
 ```
 Disk test failed: could not write to internal storage
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Test de disque échoué : impossible d'écrire sur le stockage interne
 ```
@@ -1921,7 +1921,7 @@ Test de disque échoué : impossible d'écrire sur le stockage interne
 ```
 Disk test failed: could not write to external storage
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Test de disque échoué : impossible d'écrire sur le stockage externe
 ```
@@ -1931,7 +1931,7 @@ Test de disque échoué : impossible d'écrire sur le stockage externe
 ```
 Disk test succeeded
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Test de disque réussi
 ```
@@ -1941,7 +1941,7 @@ Test de disque réussi
 ```
 App failed to start: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Impossible de démarrer l'application: %s
 ```
@@ -1951,7 +1951,7 @@ Impossible de démarrer l'application: %s
 ```
 The file does not exist
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Le fichier n'existe pas
 ```
@@ -1961,7 +1961,7 @@ Le fichier n'existe pas
 ```
 Share cloud map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Partager la carte cloud
 ```
@@ -1971,7 +1971,7 @@ Partager la carte cloud
 ```
 Open the cloud map folder to view its properties and share it with other people
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ouvrir les propriétés du dossier de la carte sur le cloud pour le partager avec d'autres personnes
 ```
@@ -1981,7 +1981,7 @@ Ouvrir les propriétés du dossier de la carte sur le cloud pour le partager ave
 ```
 Internal file to SD
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Fichiers internes vers SD
 ```
@@ -1991,7 +1991,7 @@ Fichiers internes vers SD
 ```
 Copy the app hidden internal files to the sdcard
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Copier les fichiers internes cachés de l'application vers la carte SD
 ```
@@ -2001,7 +2001,7 @@ Copier les fichiers internes cachés de l'application vers la carte SD
 ```
 Enter destination folder path
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Entrez le chemin du dossier de destination
 ```
@@ -2011,7 +2011,7 @@ Entrez le chemin du dossier de destination
 ```
 Could not create folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Impossible de créer le dossier
 ```
@@ -2021,7 +2021,7 @@ Impossible de créer le dossier
 ```
 Files successfully saved to: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Fichiers copiés avec succès vers : %s
 ```
@@ -2031,7 +2031,7 @@ Fichiers copiés avec succès vers : %s
 ```
 View history/Restore
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Voir historique/Restaurer
 ```
@@ -2041,7 +2041,7 @@ Voir historique/Restaurer
 ```
 View history of modifications to the cloud folder and select a version to restore to
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Voir l'historique des modifications sur le dossier du cloud et sélectionner une version à restaurer
 ```
@@ -2051,7 +2051,7 @@ Voir l'historique des modifications sur le dossier du cloud et sélectionner une
 ```
 Create map file
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Créer un fichier de carte
 ```
@@ -2061,7 +2061,7 @@ Créer un fichier de carte
 ```
 Create a new map file locally or on the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Créer un nouveau fichier de carte localement ou sur le cloud
 ```
@@ -2071,7 +2071,7 @@ Créer un nouveau fichier de carte localement ou sur le cloud
 ```
 Open cloud map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ouvrir carte cloud
 ```
@@ -2081,7 +2081,7 @@ Ouvrir carte cloud
 ```
 Open a map file from the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ouvrir un fichier de carte depuis le cloud
 ```
@@ -2091,7 +2091,7 @@ Ouvrir un fichier de carte depuis le cloud
 ```
 Map Marker needs the permission to access your location in order to display it on the map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Map Marker a besoin d'accéder à votre position pour l'afficher sur la carte
 ```
@@ -2101,7 +2101,7 @@ Map Marker a besoin d'accéder à votre position pour l'afficher sur la carte
 ```
 Map Marker needs the permission to access to the storage of your device
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Map Marker a besoin d'accéder au stockage de votre appareil
 ```
@@ -2111,7 +2111,7 @@ Map Marker a besoin d'accéder au stockage de votre appareil
 ```
 Open settings
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ouvrir paramètres
 ```
@@ -2121,7 +2121,7 @@ Ouvrir paramètres
 ```
 No map folder found on the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Aucun dossier de carte trouvé sur le cloud
 ```
@@ -2131,7 +2131,7 @@ Aucun dossier de carte trouvé sur le cloud
 ```
 Auto sync
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Sync auto
 ```
@@ -2141,7 +2141,7 @@ Sync auto
 ```
 Choose a version to restore to
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Choisissez une version à restaurer
 ```
@@ -2151,7 +2151,7 @@ Choisissez une version à restaurer
 ```
 You must sync first before restoring an older version
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vous devez d'abord effectuer une synchronisation avant de restaurer une ancienne version
 ```
@@ -2161,7 +2161,7 @@ Vous devez d'abord effectuer une synchronisation avant de restaurer une ancienne
 ```
 Are you sure you want to restore this version?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Êtes-vous sûr de vouloir restaurer cette version ?
 ```
@@ -2171,7 +2171,7 @@ translated (by machine 🤖) as:
 ```
 Map Marker lost permissions to write to your cloud account. Sync will always fail until this is fixed. Do you want to fix it now?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Map Marker a perdu la permission d'écrire dans votre compte cloud. La synchronisation échouera tout le temps jusqu'à ce que cela soit corrigé. Voulez-vous corriger cela maintenant ?
 ```
@@ -2181,7 +2181,7 @@ Map Marker a perdu la permission d'écrire dans votre compte cloud. La synchroni
 ```
 A sync error occurred. Please try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Une erreur de synchronisation s'est produite. Veuillez réessayer.
 ```
@@ -2191,7 +2191,7 @@ Une erreur de synchronisation s'est produite. Veuillez réessayer.
 ```
 A sync error occurred: network error. Please try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Une erreur de synchronisation s'est produite : erreur réseau. Veuillez réessayer.
 ```
@@ -2201,7 +2201,7 @@ Une erreur de synchronisation s'est produite : erreur réseau. Veuillez réessay
 ```
 A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Une erreur de synchronisation s'est produite : conflit, un autre appareil se synchronisait en même temps. Veuillez réessayer.
 ```
@@ -2211,7 +2211,7 @@ Une erreur de synchronisation s'est produite : conflit, un autre appareil se syn
 ```
 Changes are available from the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Des changements sont disponibles sur le cloud
 ```
@@ -2221,7 +2221,7 @@ Des changements sont disponibles sur le cloud
 ```
 Changes made from another device were synced on the cloud. You can retrieve those changes by syncing.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Des changements effectués depuis un autre appareil ont été synchronisés sur le cloud. Vous pouvez récupérer ces changements en effectuant une sync.
 ```
@@ -2231,7 +2231,7 @@ Des changements effectués depuis un autre appareil ont été synchronisés sur 
 ```
 Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for details on how to restore cloud permissions.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Impossible de récupérer les permissions du stockage cloud. Veuillez regarder "À propos" -> "FAQ" pour plus de détails sur comment restaurer les permissions cloud.
 ```
@@ -2241,7 +2241,7 @@ Impossible de récupérer les permissions du stockage cloud. Veuillez regarder "
 ```
 A sync error occurred: duplicate index, there are at least two files named index.json in the map cloud folder. Remove the duplicates manually and try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Une erreur de synchronisation s'est produite: double index, il y a au moins deux fichiers nommés index.json dans le dossier de carte cloud. Veuillez supprimer les doublons manuellement et réessayez.
 ```
@@ -2251,7 +2251,7 @@ Une erreur de synchronisation s'est produite: double index, il y a au moins deux
 ```
 Phone number
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Numéro de téléphone
 ```
@@ -2261,7 +2261,7 @@ Numéro de téléphone
 ```
 Edit phone number
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Modifier le numéro de téléphone
 ```
@@ -2271,7 +2271,7 @@ Modifier le numéro de téléphone
 ```
 Map Marker needs the permission to make calls on your device
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Map Marker a besoin de la permission de passer des appels depuis votre appareil
 ```
@@ -2281,7 +2281,7 @@ Map Marker a besoin de la permission de passer des appels depuis votre appareil
 ```
 No phone number is defined for that marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Aucun numéro de téléphone défini pour ce marqueur
 ```
@@ -2291,7 +2291,7 @@ Aucun numéro de téléphone défini pour ce marqueur
 ```
 Navigation options
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Options de navigation
 ```
@@ -2301,7 +2301,7 @@ Options de navigation
 ```
 Open the marker location in this app
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ouvrir l'emplacement de ce marqueur dans cette app
 ```
@@ -2311,7 +2311,7 @@ Ouvrir l'emplacement de ce marqueur dans cette app
 ```
 Open the marker street view in this app
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ouvrir la street view du marqueur dans cette app
 ```
@@ -2321,7 +2321,7 @@ Ouvrir la street view du marqueur dans cette app
 ```
 Enter navigation mode in this app to get directions to the marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Entrez dans le mode navigation de cette app pour obtenir des directions vers le marqueur
 ```
@@ -2331,7 +2331,7 @@ Entrez dans le mode navigation de cette app pour obtenir des directions vers le 
 ```
 Other options
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Autres options
 ```
@@ -2341,7 +2341,7 @@ Autres options
 ```
 Share the selected marker as plain text into another app
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Partager le marqueur sélectionné comme texte vers une autre appli
 ```
@@ -2351,7 +2351,7 @@ Partager le marqueur sélectionné comme texte vers une autre appli
 ```
 %1$d markers in %2$d folders
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 %1$d marqueurs dans %2$d dossiers
 ```
@@ -2361,7 +2361,7 @@ translated (by machine 🤖) as:
 ```
 A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Une erreur de synchronisation s'est produite : les données du cloud ont été mises à jour avec une version plus récente de l'application. Vous devez mettre Map Marker à jour sur cet appareil pour synchroniser.
 ```
@@ -2371,7 +2371,7 @@ Une erreur de synchronisation s'est produite : les données du cloud ont été m
 ```
 Could not find a phone app on this device.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Impossible de trouver une application de téléphone sur cet appareil.
 ```
@@ -2381,7 +2381,7 @@ Impossible de trouver une application de téléphone sur cet appareil.
 ```
 Phone number options
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Option du numéro de téléphone
 ```
@@ -2391,7 +2391,7 @@ Option du numéro de téléphone
 ```
 Call phone number
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Appeler le numéro
 ```
@@ -2401,7 +2401,7 @@ Appeler le numéro
 ```
 Dial phone number
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Composer le numéro
 ```
@@ -2411,7 +2411,7 @@ Composer le numéro
 ```
 Text phone number
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Texter le numéro
 ```
@@ -2421,7 +2421,7 @@ Texter le numéro
 ```
 Default navigation action
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Action par défaut pour la navigation
 ```
@@ -2431,7 +2431,7 @@ Action par défaut pour la navigation
 ```
 Default phone action
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Action par défaut pour le téléphone
 ```
@@ -2441,7 +2441,7 @@ Action par défaut pour le téléphone
 ```
 Ask
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Demander
 ```
@@ -2451,7 +2451,7 @@ Demander
 ```
 Premium free trial
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Démo gratuite premium
 ```
@@ -2461,7 +2461,7 @@ Démo gratuite premium
 ```
 What is the premium upgrade?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Qu'est-ce que la mise à niveau premium ?
 ```
@@ -2471,7 +2471,7 @@ Qu'est-ce que la mise à niveau premium ?
 ```
 Premium free trial started! The trial will expire at the following date: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Démo de la mise à niveau premium démarré ! La démo expirera à la date suivante : %s
 ```
@@ -2482,7 +2482,7 @@ Démo de la mise à niveau premium démarré ! La démo expirera à la date suiv
 Trial expiration:
 %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Expiration de la démo :
 %s
@@ -2493,7 +2493,7 @@ Expiration de la démo :
 ```
 Trial expired
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Démo expirée
 ```
@@ -2503,7 +2503,7 @@ Démo expirée
 ```
 Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Synchronisation annulée : la mise à niveau premium est nécessaire pour la synchronisation.
 ```
@@ -2513,7 +2513,7 @@ Synchronisation annulée : la mise à niveau premium est nécessaire pour la syn
 ```
 Error: trial starting in the future!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Erreur: démo démarrant dans le futur !
 ```
@@ -2523,7 +2523,7 @@ Erreur: démo démarrant dans le futur !
 ```
 Thank you for your purchase!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Merci pour votre achat !
 ```
@@ -2533,7 +2533,7 @@ Merci pour votre achat !
 ```
 Browse
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Parcourir
 ```
@@ -2543,7 +2543,7 @@ Parcourir
 ```
 Organize
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Organiser
 ```
@@ -2553,7 +2553,7 @@ Organiser
 ```
 Create
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Créer
 ```
@@ -2563,7 +2563,7 @@ Créer
 ```
 Retry
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Réessayer
 ```
@@ -2573,7 +2573,7 @@ Réessayer
 ```
 Search failed
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Recherche échouée
 ```
@@ -2583,7 +2583,7 @@ Recherche échouée
 ```
 Search failed, network error
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Recherche échouée, erreur réseau
 ```
@@ -2593,7 +2593,7 @@ Recherche échouée, erreur réseau
 ```
 Details
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Détails
 ```
@@ -2603,7 +2603,7 @@ Détails
 ```
 Sync error
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Erreur de synchronisation
 ```
@@ -2613,7 +2613,7 @@ Erreur de synchronisation
 ```
 The file already exists, do you want to overwrite it?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Le fichier existe déjà, voulez-vous l'écraser ?
 ```
@@ -2623,7 +2623,7 @@ Le fichier existe déjà, voulez-vous l'écraser ?
 ```
 Copy markers to folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Copier les marqueurs dans le dossier
 ```
@@ -2633,7 +2633,7 @@ Copier les marqueurs dans le dossier
 ```
 Error loading the Google Map component. Please restart the app.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Erreur lors du chargement du composant Google Maps. Veuillez redémarrer l'application.
 ```
@@ -2643,7 +2643,7 @@ Erreur lors du chargement du composant Google Maps. Veuillez redémarrer l'appli
 ```
 You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vous verrez la liste des marqueurs ici. Vous n'avez actuellement aucun marqueur dans le(s) dossier(s) séléctionné(s). Vous pouvez ajouter un nouveau marqueur en cliquant sur le bouton ci-dessous.
 ```
@@ -2653,7 +2653,7 @@ Vous verrez la liste des marqueurs ici. Vous n'avez actuellement aucun marqueur 
 ```
 No search results
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Aucun résultats de recherche
 ```
@@ -2663,7 +2663,7 @@ Aucun résultats de recherche
 ```
 Open Street Map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Open Street Map
 ```
@@ -2673,7 +2673,7 @@ Open Street Map
 ```
 Bing Road
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Bing Road
 ```
@@ -2683,7 +2683,7 @@ Bing Road
 ```
 Bing Aerial
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Bing Aerial
 ```
@@ -2693,7 +2693,7 @@ Bing Aerial
 ```
 Bing Aerial With Labels
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Bing Aerial With Labels
 ```
@@ -2703,7 +2703,7 @@ Bing Aerial With Labels
 ```
 ArcGIS Server
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ArcGIS Server
 ```
@@ -2713,7 +2713,7 @@ ArcGIS Server
 ```
 Offline maps
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Cartes hors ligne
 ```
@@ -2723,7 +2723,7 @@ Cartes hors ligne
 ```
 No folder selected
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Aucun dossier sélectionné
 ```
@@ -2733,7 +2733,7 @@ Aucun dossier sélectionné
 ```
 Storage folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Dossier de stockage
 ```
@@ -2744,7 +2744,7 @@ Dossier de stockage
 Test results of the offline maps folder:
 %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Résultats du test du dossier de cartes hors ligne :
 %s
@@ -2755,7 +2755,7 @@ Résultats du test du dossier de cartes hors ligne :
 ```
 No folder is selected for offline map files. In order to use offline maps, open the settings and select a folder for offline map files.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Aucun dossier n'est sélectionné pour les fichiers de carte hors ligne. Afin d'utiliser les cartes hors ligne, ouvrez les réglages et sélectionnez un dossier pour les fichiers de carte hors ligne.
 ```
@@ -2765,7 +2765,7 @@ Aucun dossier n'est sélectionné pour les fichiers de carte hors ligne. Afin d'
 ```
 The selected offline map folder you selected contains no files. Make sure you add the offline map files in that folder before using offline maps, otherwise the map will be empty.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Le dossier sélectionné ne contient aucun fichiers. Assurez-vous d'ajouter les fichiers de carte hors ligne avant d'utiliser les cartes hors ligne, autrement la carte sera vide.
 ```
@@ -2775,7 +2775,7 @@ Le dossier sélectionné ne contient aucun fichiers. Assurez-vous d'ajouter les 
 ```
 Success: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Réussi : %s
 ```
@@ -2785,7 +2785,7 @@ Réussi : %s
 ```
 Failed: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Échoué : %s
 ```
@@ -2795,7 +2795,7 @@ translated (by machine 🤖) as:
 ```
 How to do it?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Comment faire ?
 ```
@@ -2805,7 +2805,7 @@ Comment faire ?
 ```
 Click here to open the web page explaining how to obtain those maps.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Cliquez ici pour ouvrir la page web expliquant comment obtenir ces cartes.
 ```
@@ -2815,7 +2815,7 @@ Cliquez ici pour ouvrir la page web expliquant comment obtenir ces cartes.
 ```
 Credits
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Crédits
 ```
@@ -2825,7 +2825,7 @@ Crédits
 ```
 Copyright and legal mentions
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Copyright et mentions légales
 ```
@@ -2837,7 +2837,7 @@ Legal mentions for other map data than Google Maps:
 
 %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Mentions légales pour les autres données de carte que Google Maps :
 
@@ -2849,7 +2849,7 @@ Mentions légales pour les autres données de carte que Google Maps :
 ```
 Disable error file dump
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Désactiver l'écriture de fichier d'erreur
 ```
@@ -2859,7 +2859,7 @@ Désactiver l'écriture de fichier d'erreur
 ```
 Disable writing app errors to a file on the SD card
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Désactiver l'écriture de fichier d'erreur vers la carte SD
 ```
@@ -2869,7 +2869,7 @@ Désactiver l'écriture de fichier d'erreur vers la carte SD
 ```
 Enable error file dump
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Activer l'écriture de fichier d'erreur
 ```
@@ -2879,7 +2879,7 @@ Activer l'écriture de fichier d'erreur
 ```
 Enable writing app errors to a file on the SD card
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Activer l'écriture de fichier d'erreur vers la carte SD
 ```
@@ -2889,7 +2889,7 @@ Activer l'écriture de fichier d'erreur vers la carte SD
 ```
 Start background sync…
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Démarrer sync arrière-plan…
 ```
@@ -2899,7 +2899,7 @@ Démarrer sync arrière-plan…
 ```
 Never
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Jamais
 ```
@@ -2909,7 +2909,7 @@ Jamais
 ```
 When app enters background
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Lorsque l'app entre en arrière-plan
 ```
@@ -2919,7 +2919,7 @@ Lorsque l'app entre en arrière-plan
 ```
 %d seconds after the app enters background
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 %d secondes après que l'app entre en arrière-plan
 ```
@@ -2929,7 +2929,7 @@ translated (by machine 🤖) as:
 ```
 %d minutes after the app enters background
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 %d minutes après que l'app entre en arrière-plan
 ```
@@ -2939,7 +2939,7 @@ translated (by machine 🤖) as:
 ```
 Sync starting in %d seconds
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Synchronisation dans %d secondes
 ```
@@ -2949,7 +2949,7 @@ Synchronisation dans %d secondes
 ```
 You can cancel the sync at any time and your data will be synced on next attempt.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vous pouvez annuler la synchronisation à tout moment et vos données seront synchronisées à la prochaine tentative.
 ```
@@ -2959,7 +2959,7 @@ Vous pouvez annuler la synchronisation à tout moment et vos données seront syn
 ```
 Press back again to exit
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Cliquez retour à nouveau pour quitter
 ```
@@ -2969,7 +2969,7 @@ Cliquez retour à nouveau pour quitter
 ```
 Cannot start sync with no internet access on the device.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Impossible de démarrer la synchronisation sans accès internet sur l'appareil.
 ```
@@ -2979,7 +2979,7 @@ Impossible de démarrer la synchronisation sans accès internet sur l'appareil.
 ```
 Manage map files
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Gérer les fichiers de carte
 ```
@@ -2989,7 +2989,7 @@ Gérer les fichiers de carte
 ```
 Map files
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Fichiers de carte
 ```
@@ -2999,7 +2999,7 @@ Fichiers de carte
 ```
 Delete map file
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Effacer fichier carte
 ```
@@ -3009,7 +3009,7 @@ Effacer fichier carte
 ```
 This action will delete the map file from this device
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Cette action effacera le fichier de carte de cet appareil
 ```
@@ -3019,7 +3019,7 @@ Cette action effacera le fichier de carte de cet appareil
 ```
 This action will delete the map file from your device forever. All the markers inside that file will be lost. Are you sure?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Cette action effacera le fichier de carte de votre appareil pour toujours. Tous les marqueurs dans ce fichier seront perdus. Êtes-vous sûr ?
 ```
@@ -3029,7 +3029,7 @@ Cette action effacera le fichier de carte de votre appareil pour toujours. Tous 
 ```
 This action will delete the map file from your device forever. All changes not yet synced to the cloud will be lost. The cloud folder will not be affected by this action and you will have to delete it manually. Are you sure?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Cette action effacera le fichier de carte de votre appareil pour toujours. Tous les changements pas encore synchronisés seront perdus. Le dossier cloud ne sera pas affecté par cette action et vous devrez l'effacer manuellement. Êtes-vous sûr ?
 ```
@@ -3039,7 +3039,7 @@ Cette action effacera le fichier de carte de votre appareil pour toujours. Tous 
 ```
 Map file successfully deleted
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Fichier de carte effacé avec succès
 ```
@@ -3049,7 +3049,7 @@ Fichier de carte effacé avec succès
 ```
 Could not delete map file: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Impossible d'effacer le fichier de carte : %s
 ```
@@ -3059,7 +3059,7 @@ Impossible d'effacer le fichier de carte : %s
 ```
 Marker saved in a non visible folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Marqueur enregistré dans un dossier non visible
 ```
@@ -3069,7 +3069,7 @@ Marqueur enregistré dans un dossier non visible
 ```
 Your changes have not been synced recently. Make sure you keep your cloud copy up to date. Do you want to sync now?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vos modifications n'ont pas été enregistrées récemment. Assurez-vous de garder votre copie du cloud à jour. Voulez-vous synchroniser maintenant?
 ```
@@ -3079,7 +3079,7 @@ Vos modifications n'ont pas été enregistrées récemment. Assurez-vous de gard
 ```
 The markers of this map file are currently only saved on this device. It is recommended to save your markers on the cloud to avoid losing them. Do you want to save them to the cloud now?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Les marqueurs de ce fichier de carte ne sont actuellement sauvegardés que sur cet appareil. Il est recommandé de sauvegarder vos marqueurs sur le cloud pour éviter de les perdre. Voulez-vous les sauvegarder sur le cloud maintenant ?
 ```
@@ -3089,7 +3089,7 @@ Les marqueurs de ce fichier de carte ne sont actuellement sauvegardés que sur c
 ```
 Do you want to sync this map file? With manual you will need to sync manually every time. With automatic (recommended) you will select a destination cloud folder and the sync to the cloud will start automatically every time the app enters background.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Voulez-vous synchroniser ce fichier de carte? En manuel vous devrez synchroniser manuellement à chaque fois. En automatique (recommandé) vous sélectionnerez un dossier cloud de destination et la synchronisation démarrera chaque fois que l'application entrera en arrière-plan.
 ```
@@ -3099,7 +3099,7 @@ Voulez-vous synchroniser ce fichier de carte? En manuel vous devrez synchroniser
 ```
 Automatic
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Automatique
 ```
@@ -3109,7 +3109,7 @@ Automatique
 ```
 Manual
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Manuel
 ```
@@ -3119,7 +3119,7 @@ Manuel
 ```
 You can sync a map file on the cloud at any time by clicking on the map file in the side bar and then choosing the "Cloud sync" option.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vous pouvez synchroniser un fichier de carte sur le cloud à tout moment en cliquant sur le fichier dans la barre latéralle, puis en sélectionnant l'option "Sync cloud".
 ```
@@ -3129,7 +3129,7 @@ Vous pouvez synchroniser un fichier de carte sur le cloud à tout moment en cliq
 ```
 You can sync a map file manually to the cloud at any time by clicking the "share" button in the main action bar, and then "Other options" and then "All markers and folders" and then by selecting your favorite cloud storage app.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vous pouvez synchroniser un fichier de carte manuellement à tout moment en cliquant sur le bouton "partager" dans la barre d'action principale, puis "Autres options", puis "Tous les marqueurs et dossiers", puis en sélectionnant votre application de stockage cloud favorite.
 ```
@@ -3139,7 +3139,7 @@ Vous pouvez synchroniser un fichier de carte manuellement à tout moment en cliq
 ```
 Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Déplacez la carte pour placer les points, cliquez '+' pour ajouter un point, cliquez '-' pour retirer un point et changez de point avec les boutons suivant/précédent. Enfin, cliquez sauvegarder pour enregistrer la forme.
 ```
@@ -3149,7 +3149,7 @@ Déplacez la carte pour placer les points, cliquez '+' pour ajouter un point, cl
 ```
 There are not enough points to create the shape. Create more points and try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Il n'y a pas assez de points pour créer la forme. Créez plus de points et essayez de nouveau.
 ```
@@ -3159,7 +3159,7 @@ Il n'y a pas assez de points pour créer la forme. Créez plus de points et essa
 ```
 Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn\'t work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by email (side panel -> about -> send email).
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Impossible d'activer la mise à niveau premium depuis votre compte Google. Si vous avez acheté la mise à niveau récemment depuis un autre appareil, il se pourrait que vous ayez à attendre un peu pour que l'achat se propage, redémarrer votre appareil pourrait accélérer les choses. Si ça ne fonctionne toujours pas, assurez vous d'avoir acheté, installé l'application et activé depuis le même compte Google. Si le problème persiste, je vous aiderai de mon mieux, vous pouvez me contacter par courriel (barre latérale -> à propos -> envoyer courriel).
 ```
@@ -3169,7 +3169,7 @@ Impossible d'activer la mise à niveau premium depuis votre compte Google. Si vo
 ```
 Distance: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Distance: %s
 ```
@@ -3180,7 +3180,7 @@ Distance: %s
 Perimeter: %1$s
 Area: %2$s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Périmètre: %1$s
 Aire: %2$s
@@ -3191,7 +3191,7 @@ Aire: %2$s
 ```
 Extra information
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Info supplémentaire
 ```
@@ -3201,7 +3201,7 @@ Info supplémentaire
 ```
 Insert…
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Insérer…
 ```
@@ -3211,7 +3211,7 @@ Insérer…
 ```
 Replace title
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Remplacer titre
 ```
@@ -3221,7 +3221,7 @@ Remplacer titre
 ```
 Replace description
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Remplacer description
 ```
@@ -3231,7 +3231,7 @@ Remplacer description
 ```
 Unit of distance
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Unité de distance
 ```
@@ -3241,7 +3241,7 @@ Unité de distance
 ```
 Unit of area
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Unité d'aire
 ```
@@ -3251,7 +3251,7 @@ Unité d'aire
 ```
 Metric (%s)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Métrique (%s)
 ```
@@ -3261,7 +3261,7 @@ Métrique (%s)
 ```
 Imperial (%s)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Impériale (%s)
 ```
@@ -3271,7 +3271,7 @@ Impériale (%s)
 ```
 Images
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Images
 ```
@@ -3281,7 +3281,7 @@ Images
 ```
 Select image
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Sélectionner image
 ```
@@ -3291,7 +3291,7 @@ Sélectionner image
 ```
 Imported images
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Images importées
 ```
@@ -3301,7 +3301,7 @@ Images importées
 ```
 Fit in a %1$sx%2$s square
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Dans un carré de %1$sx%2$s
 ```
@@ -3311,7 +3311,7 @@ Dans un carré de %1$sx%2$s
 ```
 Full quality
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Qualité complète
 ```
@@ -3321,7 +3321,7 @@ Qualité complète
 ```
 Mobile data
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Données mobiles
 ```
@@ -3331,7 +3331,7 @@ Données mobiles
 ```
 Wifi
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Wifi
 ```
@@ -3341,7 +3341,7 @@ Wifi
 ```
 Disabled
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Désactivé
 ```
@@ -3351,7 +3351,7 @@ Désactivé
 ```
 Up to %s per sync
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Jusqu'à %s par sync
 ```
@@ -3361,7 +3361,7 @@ Jusqu'à %s par sync
 ```
 Unlimited
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Illimité
 ```
@@ -3371,7 +3371,7 @@ Illimité
 ```
 The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings. You can also click "force sync" to sync just one time without data volume limit.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 La sync a été interrompue car elle dépassait la limite du volume de données autorisée. Pour augmenter ou modifier la limite, allez dans les réglages. Vous pouvez aussi cliquer "forcer sync" pour sync juste une fois en ignorant la limite sur le volume de données.
 ```
@@ -3381,7 +3381,7 @@ La sync a été interrompue car elle dépassait la limite du volume de données 
 ```
 Force sync
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Forcer sync
 ```
@@ -3391,7 +3391,7 @@ Forcer sync
 ```
 This will override the usual data limit just for this one time. Force sync?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Cela ignorera les limites habituelles de données juste pour cette fois, forcer la sync ?
 ```
@@ -3401,7 +3401,7 @@ Cela ignorera les limites habituelles de données juste pour cette fois, forcer 
 ```
 Retry
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Réessayer
 ```
@@ -3411,7 +3411,7 @@ Réessayer
 ```
 Add image
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ajouter image
 ```
@@ -3421,7 +3421,7 @@ Ajouter image
 ```
 From camera
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Depuis la caméra
 ```
@@ -3431,7 +3431,7 @@ Depuis la caméra
 ```
 From gallery
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Depuis la gallerie
 ```
@@ -3441,7 +3441,7 @@ Depuis la gallerie
 ```
 Importing image…
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Import de l'image…
 ```
@@ -3451,7 +3451,7 @@ Import de l'image…
 ```
 Offline (Mapsforge BETA)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Hors ligne (Mapsforge BETA)
 ```
@@ -3461,7 +3461,7 @@ Hors ligne (Mapsforge BETA)
 ```
 Exporting…
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Export…
 ```
@@ -3471,7 +3471,7 @@ Export…
 ```
 Export failed
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Export échoué
 ```
@@ -3481,7 +3481,7 @@ Export échoué
 ```
 Export succeeded
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Export réussi
 ```
@@ -3491,7 +3491,7 @@ Export réussi
 ```
 KMZ
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 KMZ
 ```
@@ -3501,7 +3501,7 @@ KMZ
 ```
 KML
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 KML
 ```
@@ -3511,7 +3511,7 @@ KML
 ```
 Importing file…
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Import du fichier…
 ```
@@ -3521,7 +3521,7 @@ Import du fichier…
 ```
 Show warning icon for sync
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Afficher l'icône d'alerte pour la sync
 ```
@@ -3531,7 +3531,7 @@ Afficher l'icône d'alerte pour la sync
 ```
 "The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 La sync a été interrompue car un des fichiers média était manquant sur le cloud. Vous pouvez ignorer les fichiers manquants en cliqant "forcer sync". Attention, ignorer les fichiers manquants les supprimera de la base de donnée ce qui signifie que d'autres appareils ayant toujours une copie locale des fichiers les supprimeront lors de la sync.
 ```
@@ -3541,7 +3541,7 @@ La sync a été interrompue car un des fichiers média était manquant sur le cl
 ```
 This will force the sync and ignore the missing cloud files. The missing links will be removed from the database. Other devices still owning a local version of the missing cloud files will delete them upon their next sync. Data consumption limits will be ignored for this special sync. Force Sync?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ceci forcera la sync et ignorera les fichiers cloud manquants. Les liens manquants seront effacés de la base de donnée. Les autres appareils ayant encore une version locale des fichiers manquants les effaceront lors de leur prochaine synchronisation. Les limites de consommation de données seront ignorées pour cette sync spéciale. Forcer la sync ?
 ```
@@ -3551,7 +3551,7 @@ Ceci forcera la sync et ignorera les fichiers cloud manquants. Les liens manquan
 ```
 Marker media files ignored on import: %1$d
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Fichiers média de marqueur ignorés à l'import: %1$d
 ```
@@ -3561,7 +3561,7 @@ Fichiers média de marqueur ignorés à l'import: %1$d
 ```
 Checking premium status…
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vérification du statut premium…
 ```
@@ -3571,7 +3571,7 @@ Vérification du statut premium…
 ```
 General
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Général
 ```
@@ -3581,7 +3581,7 @@ Général
 ```
 Toilets
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Toilettes
 ```
@@ -3591,7 +3591,7 @@ Toilettes
 ```
 Food
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Nourriture
 ```
@@ -3601,7 +3601,7 @@ Nourriture
 ```
 Stores
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Magasins
 ```
@@ -3611,7 +3611,7 @@ Magasins
 ```
 Land activities
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Activités terrestres
 ```
@@ -3621,7 +3621,7 @@ Activités terrestres
 ```
 Water activies
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Activités aquatiques
 ```
@@ -3631,7 +3631,7 @@ Activités aquatiques
 ```
 Winter activies
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Activités d'hiver
 ```
@@ -3641,7 +3641,7 @@ Activités d'hiver
 ```
 Transport
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Transport
 ```
@@ -3651,7 +3651,7 @@ Transport
 ```
 Health
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Santé
 ```
@@ -3661,7 +3661,7 @@ Santé
 ```
 Entertainment
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Divertissement
 ```
@@ -3671,7 +3671,7 @@ Divertissement
 ```
 Services
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Services
 ```
@@ -3681,7 +3681,7 @@ Services
 ```
 Business
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Commerce
 ```
@@ -3691,7 +3691,7 @@ Commerce
 ```
 Government
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Gouvernement
 ```
@@ -3701,7 +3701,7 @@ Gouvernement
 ```
 Religious
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Religion
 ```
@@ -3711,7 +3711,7 @@ Religion
 ```
 Accessibility
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Accessibilité
 ```
@@ -3721,7 +3721,7 @@ Accessibilité
 ```
 Select icon
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Sélectionner icône
 ```
@@ -3731,7 +3731,7 @@ Sélectionner icône
 ```
 Icon and color
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Icône et couleur
 ```
@@ -3741,7 +3741,7 @@ Icône et couleur
 ```
 Generic
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Générique
 ```
@@ -3751,7 +3751,7 @@ Générique
 ```
 Beta tester badge: thank you for being a beta tester! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Badge testeur beta : merci d'être un testeur beta ! Ce badge disparaîtra seulement lors de la désinstallation de l'application ou lors de la suppression des données de l'application. Ce badge vous permet de n'avoir aucune publicité dans l'application.
 ```
@@ -3761,7 +3761,7 @@ Badge testeur beta : merci d'être un testeur beta ! Ce badge disparaîtra seule
 ```
 Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Badge parainage : merci d'avoir invité vos amis sur l'application ! Ce badge disparaîtra seulement lors de la désinstallation de l'application ou lors de la suppression des données de l'application. Ce badge vous permet de n'avoir aucune publicité dans l'application.
 ```
@@ -3771,7 +3771,7 @@ Badge parainage : merci d'avoir invité vos amis sur l'application ! Ce badge di
 ```
 Referral
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Parainage
 ```
@@ -3781,7 +3781,7 @@ Parainage
 ```
 Removing ads: exchange referrals credits with friends to remove ads
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Supprimer les pubs: échangez des crédits de parainage avec vos amis pour supprimer les publicités
 ```
@@ -3791,7 +3791,7 @@ Supprimer les pubs: échangez des crédits de parainage avec vos amis pour suppr
 ```
 Sent credits: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Crédits envoyés : %s
 ```
@@ -3801,7 +3801,7 @@ Crédits envoyés : %s
 ```
 Received credits: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Crédits reçus : %s
 ```
@@ -3811,7 +3811,7 @@ Crédits reçus : %s
 ```
 Contribute to translations
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Contribuer aux traductions
 ```
@@ -3821,7 +3821,7 @@ Contribuer aux traductions
 ```
 You understand English and want to help with translations? Click here
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vous comprenez l'anglais et voulez aider à la traduction? Cliquez ici
 ```
@@ -3831,7 +3831,7 @@ Vous comprenez l'anglais et voulez aider à la traduction? Cliquez ici
 ```
 The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 La couleur ou l'icône du dossier de destination est différente. Voulez-vous ajuster la couleur et l'icône du marqueur ?
 ```
@@ -3841,7 +3841,7 @@ La couleur ou l'icône du dossier de destination est différente. Voulez-vous aj
 ```
 Add color
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ajouter couleur
 ```
@@ -3851,7 +3851,7 @@ Ajouter couleur
 ```
 <![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 <![CDATA[<html><body><b>Qu'est-ce que la mise à niveau premium ?</b><br>En plus de supprimer les publicités, la mise à niveau premium débloque les fonctionnalités premium exclusives suivantes :<br>&bull; Synchronisation sur Google Drive ou Dropbox<br>&bull; Partager et collaborer via Google Drive or Dropbox<br>&bull; Historique des versions de la carte et restauration</body></html>]]>
 ```
@@ -3861,7 +3861,7 @@ translated (by machine 🤖) as:
 ```
 Marker created from the geo location of the QR code
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Marqueur créé depuis l'emplacement géographique du code QR
 ```
@@ -3871,7 +3871,7 @@ Marqueur créé depuis l'emplacement géographique du code QR
 ```
 Failed to read QR code as a geo location
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Impossible de lire le code QR comme emplacement géographique
 ```
@@ -3881,7 +3881,7 @@ Impossible de lire le code QR comme emplacement géographique
 ```
 The app for scanning QR codes could not be found. Do you want to install it?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 L'application pour scanner des codes QR n'a pas pu être trouvée. Voulez-vous l'installer ?
 ```
@@ -3891,7 +3891,7 @@ L'application pour scanner des codes QR n'a pas pu être trouvée. Voulez-vous l
 ```
 Selection action
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Sélectionner action
 ```
@@ -3901,7 +3901,7 @@ Sélectionner action
 ```
 Move to left
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Déplacer à gauche
 ```
@@ -3911,7 +3911,7 @@ Déplacer à gauche
 ```
 Move to right
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Déplacer à droite
 ```
@@ -3921,7 +3921,7 @@ Déplacer à droite
 ```
 Rotate to left
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Tourner à gauche
 ```
@@ -3931,7 +3931,7 @@ Tourner à gauche
 ```
 Rotate to right
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Tourner à droite
 ```
@@ -3941,7 +3941,7 @@ Tourner à droite
 ```
 Delete image
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Supprimer l'image
 ```
@@ -3951,7 +3951,7 @@ Supprimer l'image
 ```
 From local file
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Depuis un fichier local
 ```
@@ -3961,7 +3961,7 @@ Depuis un fichier local
 ```
 What format to you want to use to export?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Quel format d'export voulez-vous utiliser ?
 ```
@@ -3971,7 +3971,7 @@ Quel format d'export voulez-vous utiliser ?
 ```
 The data to export contains media(images) that cannot be included with this export format. The data will be exported without the media. To export everything, choose the KMZ export format.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Les données à exporter contiennent des médias (images) qui ne peuvent être inclus avec ce format. Les données seront exportées sans les médias. Pour tout exporter, choisissez le format KMZ.
 ```
@@ -3981,7 +3981,7 @@ Les données à exporter contiennent des médias (images) qui ne peuvent être i
 ```
 Standard Google Earth format. Cannot contain media.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Format standard Google Earth. Ne peut pas contenir médias.
 ```
@@ -3991,7 +3991,7 @@ Format standard Google Earth. Ne peut pas contenir médias.
 ```
 Zip Google Earth format. Can contain media.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Format zip Google Earth. Peut contenir des médias.
 ```
@@ -4001,7 +4001,7 @@ Format zip Google Earth. Peut contenir des médias.
 ```
 Standard text spreadsheet format. Cannot contain media. Cannot contain lines or polygons.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Format standard texte tableur. Ne peut pas contenir de médias. Ne peut pas contenir de lignes ou de polygones.
 ```
@@ -4011,7 +4011,7 @@ Format standard texte tableur. Ne peut pas contenir de médias. Ne peut pas cont
 ```
 Marker as plain text
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Marqueur en texte
 ```
@@ -4021,7 +4021,7 @@ Marqueur en texte
 ```
 Marker as file
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Marqueur en fichier
 ```
@@ -4031,7 +4031,7 @@ Marqueur en fichier
 ```
 Share the selected marker as a file into another app
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Partager le marqueur sélectionné en fichier vers une autre app
 ```
@@ -4041,7 +4041,7 @@ Partager le marqueur sélectionné en fichier vers une autre app
 ```
 Share as file
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Partager en fichier
 ```
@@ -4051,7 +4051,7 @@ Partager en fichier
 ```
 Export to a local file
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Exporter vers un fichier local
 ```
@@ -4061,7 +4061,7 @@ Exporter vers un fichier local
 ```
 Import or export markers as files
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Importez ou exportez des marqueurs en fichiers
 ```
@@ -4071,7 +4071,7 @@ Importez ou exportez des marqueurs en fichiers
 ```
 The data to export contains complex markers (lines or polygons) that cannot be included with this export format. The data will be exported without those markers. To export everything, choose the KMZ export format.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Les données à exporter contiennent des marqueurs complexes (lignes ou polygones) qui ne peuvent pas être inclus avec ce format. Les données seront exportées sans ces marqueurs. Pour tout exporter, choisissez le format KMZ.
 ```
@@ -4081,7 +4081,7 @@ Les données à exporter contiennent des marqueurs complexes (lignes ou polygone
 ```
 Add custom field
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ajouter champs personnalisé
 ```
@@ -4091,7 +4091,7 @@ Ajouter champs personnalisé
 ```
 Information
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Information
 ```
@@ -4101,7 +4101,7 @@ Information
 ```
 Custom fields
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Champs personnalisés
 ```
@@ -4111,7 +4111,7 @@ Champs personnalisés
 ```
 Field name
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Nom du champs
 ```
@@ -4121,7 +4121,7 @@ Nom du champs
 ```
 Delete field
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Supprimer champs
 ```
@@ -4131,7 +4131,7 @@ Supprimer champs
 ```
 Attributes
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Attributs
 ```
@@ -4141,7 +4141,7 @@ Attributs
 ```
 New custom field
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Nouveau champs personnalisé
 ```
@@ -4151,7 +4151,7 @@ Nouveau champs personnalisé
 ```
 Modify custom field
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Modifier champs personnalisé
 ```
@@ -4161,7 +4161,7 @@ Modifier champs personnalisé
 ```
 Field enabled. For folders, if enabled, that field will be added automatically to children POIs on creation. For POIs, if enabled, that field will be visible in the details page.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Champs activé. Pour les dossiers, si activé, ce champs sera ajouté aux marqueurs enfants à la création. Pour les marqueurs, si activé, ce champs sera visible dans la page des détails.
 ```
@@ -4171,7 +4171,7 @@ Champs activé. Pour les dossiers, si activé, ce champs sera ajouté aux marque
 ```
 Field info
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Infos champs
 ```
@@ -4181,7 +4181,7 @@ Infos champs
 ```
 Select field type
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Sélectionnez le type de champs
 ```
@@ -4191,7 +4191,7 @@ Sélectionnez le type de champs
 ```
 Boolean (True or False)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Booléen (Vrai ou Faux)
 ```
@@ -4201,7 +4201,7 @@ Booléen (Vrai ou Faux)
 ```
 Default value
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Valeur par défaut
 ```
@@ -4211,7 +4211,7 @@ Valeur par défaut
 ```
 Date
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Date
 ```
@@ -4221,7 +4221,7 @@ Date
 ```
 Email
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Courriel
 ```
@@ -4231,7 +4231,7 @@ Courriel
 ```
 Text
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Texte
 ```
@@ -4241,7 +4241,7 @@ Texte
 ```
 Multiple choice
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Choix multiple
 ```
@@ -4251,7 +4251,7 @@ Choix multiple
 ```
 Add choice
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ajouter choix
 ```
@@ -4261,7 +4261,7 @@ Ajouter choix
 ```
 Duplicates are not allowed
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Les doublons ne sont pas autorisés.
 ```
@@ -4271,7 +4271,7 @@ Les doublons ne sont pas autorisés.
 ```
 Phone
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Téléphone
 ```
@@ -4281,7 +4281,7 @@ Téléphone
 ```
 Web link
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Lien web
 ```
@@ -4291,7 +4291,7 @@ Lien web
 ```
 Choices list
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Liste des choix
 ```
@@ -4301,7 +4301,7 @@ Liste des choix
 ```
 Select default value
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Sélectionner valeur par défaut
 ```
@@ -4311,7 +4311,7 @@ Sélectionner valeur par défaut
 ```
 Creation date
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Date de création
 ```
@@ -4321,7 +4321,7 @@ Date de création
 ```
 POI Options
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Options POI
 ```
@@ -4331,7 +4331,7 @@ Options POI
 ```
 Delete POI
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Supprimer POI
 ```
@@ -4341,7 +4341,7 @@ Supprimer POI
 ```
 Select value
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Sélectionner valeur
 ```
@@ -4351,7 +4351,7 @@ Sélectionner valeur
 ```
 Used by folders
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Utilisées par des dossiers
 ```
@@ -4361,7 +4361,7 @@ Utilisées par des dossiers
 ```
 Edit field
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Éditer champs
 ```
@@ -4371,7 +4371,7 @@ translated (by machine 🤖) as:
 ```
 Add folder field
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ajouter champs dossier
 ```
@@ -4381,7 +4381,7 @@ Ajouter champs dossier
 ```
 Reorder fields
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Changer l'ordre des champs
 ```
@@ -4391,7 +4391,7 @@ Changer l'ordre des champs
 ```
 Pick the fields you want to apply to this folder\'s POIs
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Choisissez les champs que vous voulez appliquer aux POIs de ce dossier.
 ```
@@ -4401,7 +4401,7 @@ Choisissez les champs que vous voulez appliquer aux POIs de ce dossier.
 ```
 The destination folder has different field values. Pick the fields you want to apply to moved POIs.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Le dossier de destination a des champs différents. Choisisez les champs que vous voulez appliquer aux POIs déplacés.
 ```
@@ -4411,7 +4411,7 @@ Le dossier de destination a des champs différents. Choisisez les champs que vou
 ```
 Update color
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Mettre à jour la couleur
 ```
@@ -4421,7 +4421,7 @@ Mettre à jour la couleur
 ```
 Update pin icon
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Mettre à jour l'icône
 ```
@@ -4431,7 +4431,7 @@ Mettre à jour l'icône
 ```
 Add field if missing: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ajouter le champs si manquant : %s
 ```
@@ -4441,7 +4441,7 @@ Ajouter le champs si manquant : %s
 ```
 Remove field if present: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Supprimer le champs si présent : %s
 ```
@@ -4451,7 +4451,7 @@ Supprimer le champs si présent : %s
 ```
 Update field name if different: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Mettre à jour le nom si différent : %s
 ```
@@ -4461,7 +4461,7 @@ Mettre à jour le nom si différent : %s
 ```
 More options…
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Plus d'options…
 ```
@@ -4471,7 +4471,7 @@ Plus d'options…
 ```
 Folder options
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Folder options
 ```
@@ -4481,7 +4481,7 @@ Folder options
 ```
 Edit email
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Éditer courriel
 ```
@@ -4491,7 +4491,7 @@ translated (by machine 🤖) as:
 ```
 Edit web link
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Éditer le lien web
 ```
@@ -4501,7 +4501,7 @@ translated (by machine 🤖) as:
 ```
 Decimal accuracy
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Précision décimale
 ```
@@ -4511,7 +4511,7 @@ Précision décimale
 ```
 Details copied to clipboard
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Détails copiés dans le press-papier
 ```
@@ -4521,7 +4521,7 @@ Détails copiés dans le press-papier
 ```
 Copy
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Copier
 ```
@@ -4531,9 +4531,9 @@ Copier
 ```
 Do you want to click here? ^‿^
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Voulez-vous cliquer ici? ^ ^
+Voulez-vous cliquer ici ? ^‿^
 ```
 
 
@@ -4559,24 +4559,24 @@ And finally, thank you for reading this :-)
 Regards
 Sébastien
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Hey, merci pour votre curiosité!
+Merci pour votre curiosité !
 
-J'avais l'habitude d'avoir une bannière publicitaire ici et j'ai décidé d'essayer quelque chose de différent et de le remplacer par ce simple message…
+J'avais une bannière publicitaire ici avant et j'ai décidé d'essayer quelque chose de différent et de la remplacer par ce simple message…
 
 J'ai créé cette application pendant mon temps libre comme passe-temps, en plus d'avoir un emploi à plein temps, et il s'avère que c'est devenu un projet parallèle sur lequel j'ai passé beaucoup de temps pendant plus de 4 ans maintenant.
 
-J'espère que vous aimez l'application et que vous la trouvez utile. J'ai réussi à tout faire sans payer, cela pourrait prendre un peu plus de travail. Vous êtes libre d'importer ou d'exporter les données manuellement, vous n'avez donc jamais à payer, c'est simplement que la synchronisation dans le cloud est plus pratique.
+J'espère que vous aimez l'application et que vous la trouvez utile. L'application est faite de façon à ce que vous puissiez tout faire sans payer mais parfois de manière moins pratique. Vous êtes libre d'importer ou d'exporter les données manuellement, vous n'avez donc jamais à payer, c'est simplement que la synchronisation dans le cloud est plus pratique.
 
-Si vous aimez l'application, merci de la soutenir: vous n'avez pas à dépenser d'argent pour cela, aucun de ces gestes ne vous aide:
+Si vous aimez l'application, merci de la soutenir : vous n'avez pas à dépenser d'argent pour cela, chacun de ces gestes peut aider:
 - parler de l'application aux gens autour de vous
-- évaluer l'application pour la recommander sur le magasin
-- acheter la mise à jour premium (enlèvera la bannière du bas)
+- noter l'application pour la recommander sur Google Play
+- acheter la mise à niveau premium (enlèvera la bannière du bas)
 
-Si vous n'aimez pas l'application, veuillez email m'écrire (dans la section "à propos de") et dites-moi comment je peux l'améliorer. Je suis venu si loin grâce aux commentaires de nombreux utilisateurs qui m'ont dit ce qu'ils avaient manqué ou non, et je réponds à tous les célibataires email, alors ne soyez pas timide!
+Si vous n'aimez pas l'application, écrivez-moi un courriel (dans la section "à propos") et dites-moi comment je peux l'améliorer. Je suis arrivé jusque ici grâce aux commentaires de nombreux utilisateurs qui m'ont dit ce qu'ils voulaient, et je lis tous les courriels, alors ne soyez pas timides !
 
-Et enfin, merci de lire ceci :-)
+Enfin, merci d'avoir lu ce message :-)
 
 Cordialement
 Sébastien
@@ -4587,7 +4587,7 @@ Sébastien
 ```
 Normal with indoor
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Normal avec intérieur
 ```
@@ -4597,7 +4597,7 @@ Normal avec intérieur
 ```
 Floating marker titles
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Titres flottants pour marqueurs
 ```
@@ -4607,7 +4607,7 @@ Titres flottants pour marqueurs
 ```
 Maximum number
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Nombre maximum
 ```
@@ -4617,7 +4617,7 @@ Nombre maximum
 ```
 Text size
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Taille du texte
 ```
@@ -4627,7 +4627,7 @@ Taille du texte
 ```
 Search failed => %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Recherche échouée => %s
 ```
@@ -4637,7 +4637,7 @@ Recherche échouée => %s
 ```
 API key tutorial
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Tutoriel API key
 ```
@@ -4647,7 +4647,7 @@ Tutoriel API key
 ```
 Click here to see details on how to obtain an API key for your account.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Cliquez ici to voir les détails sur comment obtenir une API key pour votre compte.
 ```
@@ -4657,7 +4657,7 @@ Cliquez ici to voir les détails sur comment obtenir une API key pour votre comp
 ```
 Personal API key
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 API key personnelle
 ```
@@ -4667,7 +4667,7 @@ API key personnelle
 ```
 None
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Aucune
 ```
@@ -4679,7 +4679,7 @@ You can search for places with "Google Places API". This search requires an inte
 
 You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vous pouvez chercher des endroits avec "Google Places API". Cette recherche nécessite une connexion internet.
 
@@ -4691,7 +4691,7 @@ Vous avez configuré votre API key Google Places API personnelle : votre recherc
 ```
 Do you enjoy the app?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Aimez-vous cette application ?
 ```
@@ -4701,7 +4701,7 @@ Aimez-vous cette application ?
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Voudriez-vous m'envoyer un courriel pour me dire comment je pourrais améliorer l'application ?
 ```
@@ -4711,7 +4711,7 @@ Voudriez-vous m'envoyer un courriel pour me dire comment je pourrais améliorer 
 ```
 Display extra POI fields
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Afficher les champs supplémentaires des POI
 ```
@@ -4721,7 +4721,7 @@ Afficher les champs supplémentaires des POI
 ```
 IGN plans
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 IGN - Plans
 ```
@@ -4731,7 +4731,7 @@ IGN - Plans
 ```
 IGN maps
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 IGN - Cartes
 ```
@@ -4741,7 +4741,7 @@ IGN - Cartes
 ```
 IGN - Cadastral parcels
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 IGN - Parcelles cadastrales
 ```
@@ -4751,7 +4751,7 @@ IGN - Parcelles cadastrales
 ```
 IGN - Aerial
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 IGN - Photographies aériennes
 ```
@@ -4761,7 +4761,7 @@ IGN - Photographies aériennes
 ```
 Type more and press enter again for refined results
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Écrivez plus puis appuyez sur entrée de nouveau pour raffiner
 ```
@@ -4771,7 +4771,7 @@ translated (by machine 🤖) as:
 ```
 External search
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Recherche externe
 ```
@@ -4781,7 +4781,7 @@ Recherche externe
 ```
 Search source
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Source de recherche
 ```
@@ -4791,7 +4791,7 @@ Source de recherche
 ```
 Map Marker's Nominatim server
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Serveur Nominatim de Map Marker
 ```
@@ -4801,7 +4801,7 @@ Serveur Nominatim de Map Marker
 ```
 Google Places Search API
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 API de recherche Google Places
 ```
@@ -4811,7 +4811,7 @@ API de recherche Google Places
 ```
 Here Places Search API
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 API de recherche Here Places
 ```
@@ -4821,7 +4821,7 @@ API de recherche Here Places
 ```
 You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vous pouvez chercher des endroits avec "%s". Cette recherche nécessite une connexion internet. Entrez votre recheche, puis appuyez sur entrée.
 ```
@@ -4831,7 +4831,7 @@ Vous pouvez chercher des endroits avec "%s". Cette recherche nécessite une conn
 ```
 Special thanks
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Remerciements spéciaux
 ```
@@ -4841,7 +4841,7 @@ Remerciements spéciaux
 ```
 A special thank you to the people who helped me
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Un grand merci aux gens qui m'ont aidé
 ```
@@ -4855,7 +4855,7 @@ Special thanks to the people who worked hard to help with the app translations:
 
 Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Un grand merci aux gens qui m'ont aidé avec les traductions de l'application:
 %s
@@ -4869,7 +4869,7 @@ Un grand merci aux gens qui m'ont aidé avec les traductions de l'application:
 ```
 Map Marker's Pelias server
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Serveur Pelias de Map Marker
 ```
