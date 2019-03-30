@@ -1152,7 +1152,7 @@ Auto naming "Marker number"
 ```
 translated (by human 👀) as:
 ```
-Samodejno poimenovanje \številka Marker""
+Samodejno poimenovanje "številka Marker"
 ```
 
 
@@ -3120,7 +3120,7 @@ You can sync a map file on the cloud at any time by clicking on the map file in 
 ```
 translated (by human 👀) as:
 ```
-Lahko sinhronizirate zemljevida datoteke na oblak kadarkoli s klikom na zemljevidu datoteko v stranski vrstici in nato izberete možnost \sinhronizacije v oblaku"."
+Lahko sinhronizirate zemljevida datoteke na oblak kadarkoli s klikom na zemljevidu datoteko v stranski vrstici in nato izberete možnost "sinhronizacije v oblaku".
 ```
 
 
@@ -3532,7 +3532,7 @@ Prikaži opozorilno ikono za sinhronizacijo
 ```
 translated (by human 👀) as:
 ```
-Sinhronizacija je bila prekinjena, ker manjka ena od medijskih datotek v oblaku. Datoteke, ki so na voljo, lahko prezrete, tako da kliknete \ "sinhroniziraj ". Opozorilo in ignoriranje manjkajočih datotek bo imelo za posledico njihovo odstranitev iz baze podatkov, kar pomeni, da bodo druge naprave, ki imajo še vedno lokalno kopijo datoteke, izbrisale ob sinhronizaciji."
+Sinhronizacija je bila prekinjena, ker manjka ena od medijskih datotek v oblaku. Datoteke, ki so na voljo, lahko prezrete, tako da kliknete "sinhroniziraj". Opozorilo in ignoriranje manjkajočih datotek bo imelo za posledico njihovo odstranitev iz baze podatkov, kar pomeni, da bodo druge naprave, ki imajo še vedno lokalno kopijo datoteke, izbrisale ob sinhronizaciji."
 ```
 
 

@@ -4393,7 +4393,7 @@ Pick the fields you want to apply to this folder's POIs
 ```
 translated (by machine 🤖) as:
 ```
-Bu klasöre \ 'nin İÇN'lerine uygulamak istediğiniz alanları seçin
+Bu klasöre 'nin İÇN'lerine uygulamak istediğiniz alanları seçin
 ```
 
 

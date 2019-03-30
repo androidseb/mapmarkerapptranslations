@@ -771,7 +771,7 @@ do not remind me
 ```
 translated (by human 👀) as:
 ```
-Misschien later \ herinner me niet
+Misschien later herinner me niet
 ```
 
 

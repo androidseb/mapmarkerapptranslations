@@ -3131,7 +3131,7 @@ You can sync a map file manually to the cloud at any time by clicking the "share
 ```
 translated (by machine 🤖) as:
 ```
-You can sync a map file manually to the cloud at any time by clicking the \share" button in the main action bar, and then "Other options" and then "All markers and folders" and then by selecting your favourite cloud storage app.
+You can sync a map file manually to the cloud at any time by clicking the "share" button in the main action bar, and then "Other options" and then "All markers and folders" and then by selecting your favourite cloud storage app.
 ```
 
 

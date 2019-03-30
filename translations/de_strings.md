@@ -2233,7 +2233,7 @@ Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for det
 ```
 translated (by human 👀) as:
 ```
-Fehler beim Wiederherstellen der Cloud-Storage-Berechtigungen. Bitte finden Sie unter \Über" -&gt; "FAQ" die Anleitung, wie man die Cloud-Storage-Berechtigungen erneuert.
+Fehler beim Wiederherstellen der Cloud-Storage-Berechtigungen. Bitte finden Sie unter "Über" -&gt; "FAQ" die Anleitung, wie man die Cloud-Storage-Berechtigungen erneuert.
 ```
 
 

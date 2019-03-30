@@ -736,7 +736,7 @@ to the Play Store
 ```
 translated (by human 👀) as:
 ```
-GERAI atverkite\ „Play Store“
+GERAI atverkite "Play Store"
 ```
 
 
@@ -1142,7 +1142,7 @@ Auto naming "number"
 ```
 translated (by human 👀) as:
 ```
-Automatinis vadinimas \„numeris\“
+Automatinis vadinimas "numeris"
 ```
 
 
@@ -1152,7 +1152,7 @@ Auto naming "Marker number"
 ```
 translated (by human 👀) as:
 ```
-Automatinis vadinimas \„Žymeklio numeris\“
+Automatinis vadinimas "Žymeklio numeris"
 ```
 
 
@@ -1622,7 +1622,7 @@ Enter the new map's name
 ```
 translated (by human 👀) as:
 ```
-Įveskite naujo žemėlapio\ pavadinimą
+Įveskite naujo žemėlapio pavadinimą
 ```
 
 
@@ -3120,7 +3120,7 @@ You can sync a map file on the cloud at any time by clicking on the map file in 
 ```
 translated (by human 👀) as:
 ```
-Žemėlapį debesyse galite sinchronizuoti bet kuriuo metu paspausdami žemėlapio bylą šoninėje juostoje ir pasirinkdami parinktį \„Debesų sinchronizacija\“.
+Žemėlapį debesyse galite sinchronizuoti bet kuriuo metu paspausdami žemėlapio bylą šoninėje juostoje ir pasirinkdami parinktį "Debesų sinchronizacija".
 ```
 
 
@@ -3130,7 +3130,7 @@ You can sync a map file manually to the cloud at any time by clicking the "share
 ```
 translated (by human 👀) as:
 ```
-Žemėlapio bylą bet kuriuo metu galite sinchronizuoti rankiniu būdu į „debesis“ paspausdami pagrindinėje funkcijų juostoje esantį mygtuką \„dalintis\“, tada \„Kitos parinktys\“, \„Visi žymekliai ir aplankai\“ ir pasirinkdami savo pamėgtąją „debesų“ saugyklos programėlę.
+Žemėlapio bylą bet kuriuo metu galite sinchronizuoti rankiniu būdu į "debesis" paspausdami pagrindinėje funkcijų juostoje esantį mygtuką "dalintis", tada "Kitos parinktys", "Visi žymekliai ir aplankai" ir pasirinkdami savo pamėgtąją "debesų" saugyklos programėlę.
 ```
 
 
@@ -3372,7 +3372,7 @@ The sync was aborted because it was exceeding the allowed data volume limit. To 
 ```
 translated (by human 👀) as:
 ```
-Sinchronizacija buvo nutraukta, kadangi ji viršijo leistiną duomenų kiekio apribojimą. Apribojimo padidinimui ar pakeitimui atverkite nustatymus. Taip pat galite paspausti \„sinchronizuoti priverstinai\“ sinchronizavimui vieną kartą be duomenų kiekio apribojimo.
+Sinchronizacija buvo nutraukta, kadangi ji viršijo leistiną duomenų kiekio apribojimą. Apribojimo padidinimui ar pakeitimui atverkite nustatymus. Taip pat galite paspausti "sinchronizuoti priverstinai" sinchronizavimui vieną kartą be duomenų kiekio apribojimo.
 ```
 
 
@@ -3532,7 +3532,7 @@ Rodyti įspėjimo piktogramą sinchronizacijai
 ```
 translated (by human 👀) as:
 ```
-Sinchronizacija buvo nutraukta, nes „debesyje“ trūko vienos iš daugialypės terpės bylų. Galite nekreipti dėmesio į trūkstamas bylas paspausdami \sinchronizuoti priverstinai\“. Dėmesio trūkstamų bylų ignoravimas lems jų pašalinimą iš duomenų bazės, tai reiškia, kad kiti įrenginiai, kuriuose vis dar yra vietinė bylos kopija ją pašalins sinchronizacijos metu.“
+Sinchronizacija buvo nutraukta, nes "debesyje" trūko vienos iš daugialypės terpės bylų. Galite nekreipti dėmesio į trūkstamas bylas paspausdami "sinchronizuoti priverstinai". Dėmesio trūkstamų bylų ignoravimas lems jų pašalinimą iš duomenų bazės, tai reiškia, kad kiti įrenginiai, kuriuose vis dar yra vietinė bylos kopija ją pašalins sinchronizacijos metu.“
 ```
 
 
