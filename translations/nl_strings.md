@@ -1617,7 +1617,7 @@ Voer nieuwe naam
 
 ## Translation Key: enter_new_maps_name
 ```
-Enter the new map\'s name
+Enter the new map's name
 ```
 translated (by human 👀) as:
 ```
@@ -3135,7 +3135,7 @@ U kunt een kaart bestand handmatig synchroniseren met de cloud op elk gewenst mo
 
 ## Translation Key: new_polyshape_hint_text
 ```
-Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
+Move the map around to place the points, click '+' to add a point, click '-' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
 translated (by human 👀) as:
 ```
@@ -3827,7 +3827,7 @@ U begrijpt het Engels en willen helpen met de vertaling? Klik hier
 
 ## Translation Key: change_marker_color_and_icon_to_dest_folder_question
 ```
-The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
+The destination folder's color or icon is different. Do you want to update the marker color and icon?
 ```
 translated (by human 👀) as:
 ```
@@ -4387,7 +4387,7 @@ Herorden velden
 
 ## Translation Key: apply_folder_fields_to_child_pois_message
 ```
-Pick the fields you want to apply to this folder\'s POIs
+Pick the fields you want to apply to this folder's POIs
 ```
 translated (by human 👀) as:
 ```

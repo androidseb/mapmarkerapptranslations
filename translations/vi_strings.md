@@ -1619,7 +1619,7 @@ Nhập tên mới
 
 ## Translation Key: enter_new_maps_name
 ```
-Enter the new map\'s name
+Enter the new map's name
 ```
 translated (by machine 🤖) as:
 ```
@@ -3137,7 +3137,7 @@ Bạn có thể đồng bộ hóa một tập tin bản đồ bằng tay để c
 
 ## Translation Key: new_polyshape_hint_text
 ```
-Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
+Move the map around to place the points, click '+' to add a point, click '-' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
 translated (by machine 🤖) as:
 ```
@@ -3829,7 +3829,7 @@ Bạn hiểu tiếng Anh và muốn giúp đỡ với các bản dịch? Bấm v
 
 ## Translation Key: change_marker_color_and_icon_to_dest_folder_question
 ```
-The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
+The destination folder's color or icon is different. Do you want to update the marker color and icon?
 ```
 translated (by machine 🤖) as:
 ```
@@ -4389,7 +4389,7 @@ Sắp xếp lại trường
 
 ## Translation Key: apply_folder_fields_to_child_pois_message
 ```
-Pick the fields you want to apply to this folder\'s POIs
+Pick the fields you want to apply to this folder's POIs
 ```
 translated (by machine 🤖) as:
 ```

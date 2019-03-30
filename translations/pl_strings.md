@@ -1619,7 +1619,7 @@ Wpisz nową nazwę
 
 ## Translation Key: enter_new_maps_name
 ```
-Enter the new map\'s name
+Enter the new map's name
 ```
 translated (by human 👀) as:
 ```
@@ -3137,7 +3137,7 @@ Możesz zsynchronizować plik mapy ręcznie do chmury w dowolnym momencie, klika
 
 ## Translation Key: new_polyshape_hint_text
 ```
-Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
+Move the map around to place the points, click '+' to add a point, click '-' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
 translated (by human 👀) as:
 ```
@@ -3829,7 +3829,7 @@ Jeżeli chcesz pomoć przetłumaczyć aplikację? Kliknij tutaj
 
 ## Translation Key: change_marker_color_and_icon_to_dest_folder_question
 ```
-The destination folder\'s color or icon is different. Do you want to update the marker color and icon?
+The destination folder's color or icon is different. Do you want to update the marker color and icon?
 ```
 translated (by human 👀) as:
 ```
@@ -4389,7 +4389,7 @@ Zmień kolejność pól
 
 ## Translation Key: apply_folder_fields_to_child_pois_message
 ```
-Pick the fields you want to apply to this folder\'s POIs
+Pick the fields you want to apply to this folder's POIs
 ```
 translated (by human 👀) as:
 ```
