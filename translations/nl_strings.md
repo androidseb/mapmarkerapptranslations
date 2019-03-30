@@ -3155,7 +3155,7 @@ Er zijn niet genoeg punten om de vorm te maken. Maak meer punten en probeer het 
 
 ## Translation Key: could_not_activate_premium_error_message
 ```
-Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn\'t work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by email (side panel -> about -> send email).
+Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn't work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by email (side panel -> about -> send email).
 ```
 translated (by human 👀) as:
 ```
