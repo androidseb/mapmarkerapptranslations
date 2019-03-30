@@ -3533,7 +3533,7 @@ Mostrar ícone de aviso para sincronização
 ```
 translated (by machine 🤖) as:
 ```
-A sincronização foi abortado porque um dos arquivos de mídia na nuvem estava faltando. Você pode ignorar arquivos ausentes clicando "força sync \". Aviso, ignorando os arquivos que faltam resultará em removê-los do banco de dados, o que significa que outros dispositivos ainda ter uma cópia local do arquivo irá excluí-lo em cima de sincronização.
+A sincronização foi abortado porque um dos arquivos de mídia na nuvem estava faltando. Você pode ignorar arquivos ausentes clicando "força sync". Aviso, ignorando os arquivos que faltam resultará em removê-los do banco de dados, o que significa que outros dispositivos ainda ter uma cópia local do arquivo irá excluí-lo em cima de sincronização.
 ```
 
 

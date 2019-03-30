@@ -3533,7 +3533,7 @@ Afișați pictograma de avertizare pentru sincronizare
 ```
 translated (by machine 🤖) as:
 ```
-Sincronizarea a fost abandonată, deoarece unul dintre fișierele media de pe nor lipsea. Puteți ignora fișierele lipsă făcând clic pe "forță de sincronizare \". De avertizare, ignorând fișiere lipsă va avea ca rezultat scoaterea lor din baza de date, ceea ce înseamnă că alte dispozitive în continuare o copie locală a fișierului se va șterge după sincronizare.
+Sincronizarea a fost abandonată, deoarece unul dintre fișierele media de pe nor lipsea. Puteți ignora fișierele lipsă făcând clic pe "forță de sincronizare". De avertizare, ignorând fișiere lipsă va avea ca rezultat scoaterea lor din baza de date, ceea ce înseamnă că alte dispozitive în continuare o copie locală a fișierului se va șterge după sincronizare.
 ```
 
 

@@ -3533,7 +3533,7 @@ Mostrar icono de advertencia para la sincronización
 ```
 translated (by machine 🤖) as:
 ```
-La sincronización se ha cancelado debido a que uno de los archivos multimedia en la nube había desaparecido. Puede pasar por alto los archivos que faltan haciendo clic en "fuerza de sincronización \". Advertencia, haciendo caso omiso de los archivos que faltan se traducirá en la eliminación de ellos a partir de la base de datos, lo que significa que otros dispositivos que todavía tiene una copia local del archivo lo eliminará en sincronía.
+La sincronización se ha cancelado debido a que uno de los archivos multimedia en la nube había desaparecido. Puede pasar por alto los archivos que faltan haciendo clic en "fuerza de sincronización". Advertencia, haciendo caso omiso de los archivos que faltan se traducirá en la eliminación de ellos a partir de la base de datos, lo que significa que otros dispositivos que todavía tiene una copia local del archivo lo eliminará en sincronía.
 ```
 
 

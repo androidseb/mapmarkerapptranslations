@@ -3533,7 +3533,7 @@ Vis advarselsikon for synkronisering
 ```
 translated (by machine 🤖) as:
 ```
-Synkroniseringen ble avbrutt fordi en av mediefiler på skyen manglet. Du kan overse manglende filer ved å klikke "force sync \". Advarsel, vil ignorerer manglende filer resultere i å fjerne dem fra databasen, noe som betyr at andre enheter fortsatt å ha en lokal kopi av filen vil slette den ved synkronisering.
+Synkroniseringen ble avbrutt fordi en av mediefiler på skyen manglet. Du kan overse manglende filer ved å klikke "force sync". Advarsel, vil ignorerer manglende filer resultere i å fjerne dem fra databasen, noe som betyr at andre enheter fortsatt å ha en lokal kopi av filen vil slette den ved synkronisering.
 ```
 
 

@@ -3533,7 +3533,7 @@ Zobraziť ikonu varovanie pre synchronizáciu
 ```
 translated (by machine 🤖) as:
 ```
-Synchronizácia bola prerušená, pretože jeden z mediálnych súborov na oblaku chýbal. Môžete ignorovať chýbajúce súbory kliknutím na "force sync \". Upozornenie, ignoruje chýbajúce súbory budú mať za následok ich odstránenie z databázy, čo znamená, že iná zariadenie stále majú lokálnu kópiu súboru vymaže ju pri synchronizácii.
+Synchronizácia bola prerušená, pretože jeden z mediálnych súborov na oblaku chýbal. Môžete ignorovať chýbajúce súbory kliknutím na "force sync". Upozornenie, ignoruje chýbajúce súbory budú mať za následok ich odstránenie z databázy, čo znamená, že iná zariadenie stále majú lokálnu kópiu súboru vymaže ju pri synchronizácii.
 ```
 
 

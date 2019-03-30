@@ -3533,7 +3533,7 @@ Parādiet brīdinājuma ikonu sinhronizāciju
 ```
 translated (by machine 🤖) as:
 ```
-Sinhronizācijas tika pārtraukta, jo viens no multivides failus uz mākoni trūka. Jūs varat ignorēt trūkstošos failus, noklikšķinot uz "spēka sinhronizācijas \". Brīdinājums, ignorējot trūkstošos failus radīs atceļot tos no datu bāzes, kas nozīmē, ka citas ierīces joprojām lokālo kopiju failu izdzēsīs to uz sinhronizāciju.
+Sinhronizācijas tika pārtraukta, jo viens no multivides failus uz mākoni trūka. Jūs varat ignorēt trūkstošos failus, noklikšķinot uz "spēka sinhronizācijas". Brīdinājums, ignorējot trūkstošos failus radīs atceļot tos no datu bāzes, kas nozīmē, ka citas ierīces joprojām lokālo kopiju failu izdzēsīs to uz sinhronizāciju.
 ```
 
 

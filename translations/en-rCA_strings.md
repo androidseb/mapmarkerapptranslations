@@ -1623,7 +1623,7 @@ Enter the new map's name
 ```
 translated (by machine 🤖) as:
 ```
-Enter the new map\'s name
+Enter the new map's name
 ```
 
 
@@ -3141,7 +3141,7 @@ Move the map around to place the points, click '+' to add a point, click '-' to 
 ```
 translated (by machine 🤖) as:
 ```
-Move the map around to place the points, click \'+\' to add a point, click \'-\' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
+Move the map around to place the points, click '+' to add a point, click '-' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
 
 
@@ -3161,7 +3161,7 @@ Could not activate the premium upgrade from your Google account. If you purchase
 ```
 translated (by machine 🤖) as:
 ```
-Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn\'t work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by e-mail (side panel -> about -> send e-mail).
+Could not activate the premium upgrade from your Google account. If you purchased the premium upgrade recently from another device, you might need to wait a little for the purchase to propagate, restarting your device could make it faster. If it still doesn't work, make sure you purchased, installed the app and activated with the same Google account. If the problem persists, I will help you the best I can, you can contact me by e-mail (side panel -> about -> send e-mail).
 ```
 
 
@@ -3833,7 +3833,7 @@ The destination folder's color or icon is different. Do you want to update the m
 ```
 translated (by machine 🤖) as:
 ```
-The destination folder\'s colour or icon is different. Do you want to update the marker colour and icon?
+The destination folder's colour or icon is different. Do you want to update the marker colour and icon?
 ```
 
 
@@ -4393,7 +4393,7 @@ Pick the fields you want to apply to this folder's POIs
 ```
 translated (by machine 🤖) as:
 ```
-Pick the fields you want to apply to this folder\'s POIs
+Pick the fields you want to apply to this folder's POIs
 ```
 
 

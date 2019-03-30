@@ -119,7 +119,7 @@ Failed to access application save directory. Make sure that your device is not b
 ```
 translated (by human 👀) as:
 ```
-Impossible d\'accéder au répertoire de sauvegarde de l\'application. Assurez-vous que votre appareil n\'est pas branché à un ordinateur et redémarrez l\'application.
+Impossible d'accéder au répertoire de sauvegarde de l'application. Assurez-vous que votre appareil n'est pas branché à un ordinateur et redémarrez l'application.
 ```
 
 
@@ -219,7 +219,7 @@ Could not write file.
 ```
 translated (by human 👀) as:
 ```
-Erreur d\'écriture du fichier.
+Erreur d'écriture du fichier.
 ```
 
 
@@ -289,7 +289,7 @@ Could not find address
 ```
 translated (by human 👀) as:
 ```
-Impossible de trouver l\'adresse
+Impossible de trouver l'adresse
 ```
 
 
@@ -420,7 +420,7 @@ This snapshot was made with the app Map Marker:
 ```
 translated (by human 👀) as:
 ```
-Cette capture a été réalisée depuis l\'application Map Marker :
+Cette capture a été réalisée depuis l'application Map Marker :
 %s
 ```
 
@@ -512,7 +512,7 @@ Send me an email :-)
 ```
 translated (by human 👀) as:
 ```
-Un problème ? Une idée d\'amélioration ?
+Un problème ? Une idée d'amélioration ?
 Envoyez-moi un email :-)
 ```
 
@@ -534,7 +534,7 @@ Rate it 5 stars :-)
 ```
 translated (by human 👀) as:
 ```
-Vous aimez l\'application ?
+Vous aimez l'application ?
 Notez-la 5 étoiles :-)
 ```
 
@@ -615,7 +615,7 @@ Adjust map camera position when guiding to a marker location
 ```
 translated (by human 👀) as:
 ```
-Ajuster la caméra de la carte lors du guidage vers la position d\'un marqueur
+Ajuster la caméra de la carte lors du guidage vers la position d'un marqueur
 ```
 
 
@@ -625,7 +625,7 @@ Keep screen on when guiding to a marker location
 ```
 translated (by human 👀) as:
 ```
-Garder l\'écran allumé lors du guidage vers la position d\'un marqueur
+Garder l'écran allumé lors du guidage vers la position d'un marqueur
 ```
 
 
@@ -655,7 +655,7 @@ Error starting internal task manager, app will now exit
 ```
 translated (by human 👀) as:
 ```
-Erreur lors du démarrage du gestionnaire de tâche interne, l\'application va maintenant se fermer
+Erreur lors du démarrage du gestionnaire de tâche interne, l'application va maintenant se fermer
 ```
 
 
@@ -748,7 +748,7 @@ gave a rating
 ```
 translated (by human 👀) as:
 ```
-J\'ai déjà
+J'ai déjà
 donné une note
 ```
 
@@ -783,7 +783,7 @@ Could not find the place
 ```
 translated (by human 👀) as:
 ```
-Impossible de trouver l\'endroit
+Impossible de trouver l'endroit
 ```
 
 

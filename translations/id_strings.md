@@ -3533,7 +3533,7 @@ Tampilkan ikon peringatan untuk sinkronisasi
 ```
 translated (by machine 🤖) as:
 ```
-sync itu dibatalkan karena salah satu file media pada awan itu hilang. Anda dapat mengabaikan file yang hilang dengan mengklik "kekuatan sync \". Peringatan, mengabaikan file yang hilang akan mengakibatkan menghapus mereka dari database, yang berarti bahwa perangkat lain masih memiliki salinan lokal file akan menghapusnya setelah sync.
+sync itu dibatalkan karena salah satu file media pada awan itu hilang. Anda dapat mengabaikan file yang hilang dengan mengklik "kekuatan sync". Peringatan, mengabaikan file yang hilang akan mengakibatkan menghapus mereka dari database, yang berarti bahwa perangkat lain masih memiliki salinan lokal file akan menghapusnya setelah sync.
 ```
 
 

@@ -3533,7 +3533,7 @@ Prikaži ikonu upozorenja za sinkroniziranje
 ```
 translated (by machine 🤖) as:
 ```
-Sinkronizacija je prekinut jer je jedan od medijskih datoteka na oblaku nedostaje. Možete ignorirati datoteke koje nedostaju klikom "force sinkro \". Upozorenje, ignoriranje nedostaje datoteka će rezultirati u uklanjanju ih iz baze podataka, što znači da ostali uređaji još uvijek ima lokalnu kopiju datoteke će ga izbrisati nakon sinkronizacije.
+Sinkronizacija je prekinut jer je jedan od medijskih datoteka na oblaku nedostaje. Možete ignorirati datoteke koje nedostaju klikom "force sinkro". Upozorenje, ignoriranje nedostaje datoteka će rezultirati u uklanjanju ih iz baze podataka, što znači da ostali uređaji još uvijek ima lokalnu kopiju datoteke će ga izbrisati nakon sinkronizacije.
 ```
 
 

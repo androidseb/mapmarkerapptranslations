@@ -3533,7 +3533,7 @@ Itt található figyelmeztető ikon szinkron
 ```
 translated (by machine 🤖) as:
 ```
-A szinkronizálás megszakadt, mert az egyik a média fájlokat a felhő eltűnt. Figyelmen kívül hagyhatja a hiányzó fájlokat kattintva "erő sync \". Figyelem, figyelmen kívül hagyva a hiányzó fájlokat eredményez eltávolítja őket az adatbázisból, ami azt jelenti, hogy más eszközök is, amelyek a helyi másolatot a fájl törli azt követően szinkronban.
+A szinkronizálás megszakadt, mert az egyik a média fájlokat a felhő eltűnt. Figyelmen kívül hagyhatja a hiányzó fájlokat kattintva "erő sync". Figyelem, figyelmen kívül hagyva a hiányzó fájlokat eredményez eltávolítja őket az adatbázisból, ami azt jelenti, hogy más eszközök is, amelyek a helyi másolatot a fájl törli azt követően szinkronban.
 ```
 
 

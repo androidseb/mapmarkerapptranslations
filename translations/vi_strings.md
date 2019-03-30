@@ -3533,7 +3533,7 @@ Hiển thị biểu tượng cảnh báo cho đồng bộ
 ```
 translated (by machine 🤖) as:
 ```
-Việc đồng bộ hóa đã bị hủy bỏ vì một trong những tập tin media trên điện toán đám mây đã mất tích. Bạn có thể bỏ qua các file bị thiếu bằng cách nhấn "lực lượng đồng bộ \". Cảnh báo, bỏ qua các file bị mất sẽ cho kết quả trong việc loại bỏ chúng ra khỏi cơ sở dữ liệu, có nghĩa là các thiết bị khác vẫn có một bản sao địa phương của tập tin sẽ xóa nó khi đồng bộ hóa.
+Việc đồng bộ hóa đã bị hủy bỏ vì một trong những tập tin media trên điện toán đám mây đã mất tích. Bạn có thể bỏ qua các file bị thiếu bằng cách nhấn "lực lượng đồng bộ". Cảnh báo, bỏ qua các file bị mất sẽ cho kết quả trong việc loại bỏ chúng ra khỏi cơ sở dữ liệu, có nghĩa là các thiết bị khác vẫn có một bản sao địa phương của tập tin sẽ xóa nó khi đồng bộ hóa.
 ```
 
 

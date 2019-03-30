@@ -3533,7 +3533,7 @@ Näytä varoitus kuvake synkronointia
 ```
 translated (by machine 🤖) as:
 ```
-Sync keskeytettiin, koska yksi mediatiedostoja pilvi puuttui. Voit ohittaa puuttuvat tiedostot napsauttamalla "voima sync \". Varoitus, välittämättä puuttuvat tiedostot johtaa niiden poistaminen tietokannasta, mikä tarkoittaa sitä, että muita laitteita on edelleen paikallisen kopion tiedostosta poistaa asiakseen synkronointi.
+Sync keskeytettiin, koska yksi mediatiedostoja pilvi puuttui. Voit ohittaa puuttuvat tiedostot napsauttamalla "voima sync". Varoitus, välittämättä puuttuvat tiedostot johtaa niiden poistaminen tietokannasta, mikä tarkoittaa sitä, että muita laitteita on edelleen paikallisen kopion tiedostosta poistaa asiakseen synkronointi.
 ```
 
 

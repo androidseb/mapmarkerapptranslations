@@ -3533,7 +3533,7 @@ Senkronizasyon için uyarı simgesi göster
 ```
 translated (by machine 🤖) as:
 ```
-bulut medya dosyalardan biri eksik olduğundan eşitleme iptal edildi. Sen "kuvvet senkronizasyon \" tıklayarak dosyaları eksik yok sayabilirsiniz. Uyarı, ihmal eksik dosyalar diğer cihazlar hala senkronize üzerine onu silecektir dosyanın yerel kopyasını sahip olduğu anlamına gelir veritabanı çıkardıktan neden olacaktır.
+bulut medya dosyalardan biri eksik olduğundan eşitleme iptal edildi. Sen "kuvvet senkronizasyon" tıklayarak dosyaları eksik yok sayabilirsiniz. Uyarı, ihmal eksik dosyalar diğer cihazlar hala senkronize üzerine onu silecektir dosyanın yerel kopyasını sahip olduğu anlamına gelir veritabanı çıkardıktan neden olacaktır.
 ```
 
 
