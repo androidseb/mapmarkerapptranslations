@@ -5241,3 +5241,53 @@ translated (by machine 🤖) as:
 ```
 Mukautetun kentän nimi ei voi olla tyhjä
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+Poista kaksoiskappaleet
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Etsi ja poista kopiot
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Tämä etsii päällekkäisiä merkkejä täsmälleen samoilla tiedoilla ja poistaa kaksoiskappaleet. Vain yksi kopio kustakin ainutlaatuisesta merkistä jää tämän puhdistuksen jälkeen. Haluatko edetä?
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+Kaksoiskappaleiden haku ja poistaminen…
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+Poistettu %d kopiota
+```

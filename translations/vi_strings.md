@@ -5241,3 +5241,53 @@ translated (by machine 🤖) as:
 ```
 Tên của trường tùy chỉnh không thể để trống
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+Loại bỏ các bản sao
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Tìm kiếm và xóa các bản sao
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Điều này sẽ tìm kiếm các dấu trùng lặp với cùng một dữ liệu và xóa các bản sao. Chỉ có một bản sao của mỗi điểm đánh dấu duy nhất sẽ được để lại sau khi dọn dẹp này. Bạn có muốn tiếp tục?
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+Tìm kiếm và xóa các bản sao
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+Đã xóa %d trùng lặp
+```

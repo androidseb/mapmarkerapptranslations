@@ -5240,3 +5240,53 @@ translated (by machine 🤖) as:
 ```
 Ime polja po meri ne sme biti prazno
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+Odstrani dvojnike
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Iskanje in brisanje dvojnikov
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+S tem boste poiskali podvojene oznake z istimi podatki in izbrisali dvojnike. Po tem čiščenju bo ostala le ena kopija vsakega posebnega označevalnika. Ali želite nadaljevati?
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+Iskanje in brisanje podvojenih ...
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+Izbrisanih %d dvojnikov
+```

@@ -5241,3 +5241,53 @@ translated (by machine 🤖) as:
 ```
 Назва спеціального поля не може бути порожнім
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+Видалити дублікати
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Пошук і видалення дублікатів
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Це призведе до пошуку дублікатів маркерів з однаковими даними та видалення дублікатів. Лише одна копія кожного унікального маркера залишиться після цього очищення. Ви хочете продовжити?
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+Пошук і видалення дублікатів ...
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+Видалено дублікатів %d
+```

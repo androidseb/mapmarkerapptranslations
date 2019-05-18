@@ -5240,3 +5240,53 @@ translated (by machine 🤖) as:
 ```
 Pasirinktinio lauko pavadinimas negali būti tuščias
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+Pašalinti dublikatus
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Ieškokite ir pašalinkite dublikatus
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Tokiu būdu ieškos dvigubų žymenų su tais pačiais duomenimis ir ištrins dublikatus. Po šio valymo bus palikta tik viena kiekvieno unikalaus žymeklio kopija. Ar norite testi?
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+Dublikatų paieška ir trynimas ...
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+Ištrinti %d dublikatai
+```

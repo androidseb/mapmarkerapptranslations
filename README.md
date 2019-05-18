@@ -33,7 +33,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 ## Translation languages list
 
-[Arabic (91% human-translated)](./translations/ar_strings.md)
+[Arabic (90% human-translated)](./translations/ar_strings.md)
 
 [Bulgarian (0% human-translated)](./translations/bg_strings.md)
 
@@ -47,13 +47,13 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Czech (0% human-translated)](./translations/cs_strings.md)
 
-[Danish (0% human-translated)](./translations/da_strings.md)
+[Danish (32% human-translated)](./translations/da_strings.md)
 
-[Dutch (88% human-translated)](./translations/nl_strings.md)
+[Dutch (87% human-translated)](./translations/nl_strings.md)
 
 [Finnish (0% human-translated)](./translations/fi_strings.md)
 
-[German (88% human-translated)](./translations/de_strings.md)
+[German (87% human-translated)](./translations/de_strings.md)
 
 [Greek (0% human-translated)](./translations/el_strings.md)
 
@@ -75,17 +75,17 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Latvian (0% human-translated)](./translations/lv_strings.md)
 
-[Lithuanian (78% human-translated)](./translations/lt_strings.md)
+[Lithuanian (77% human-translated)](./translations/lt_strings.md)
 
 [Norwegian (0% human-translated)](./translations/no_strings.md)
 
-[Polish (88% human-translated)](./translations/pl_strings.md)
+[Polish (87% human-translated)](./translations/pl_strings.md)
 
 [Portuguese (0% human-translated)](./translations/pt_strings.md)
 
 [Romanian (0% human-translated)](./translations/ro_strings.md)
 
-[Russian (88% human-translated)](./translations/ru_strings.md)
+[Russian (87% human-translated)](./translations/ru_strings.md)
 
 [Serbian (0% human-translated)](./translations/sr_strings.md)
 
@@ -95,7 +95,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Spanish (0% human-translated)](./translations/es_strings.md)
 
-[Swedish (88% human-translated)](./translations/sv_strings.md)
+[Swedish (87% human-translated)](./translations/sv_strings.md)
 
 [Thai (0% human-translated)](./translations/th_strings.md)
 

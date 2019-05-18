@@ -5241,3 +5241,53 @@ translated (by machine 🤖) as:
 ```
 Pielāgotā lauka nosaukums nevar būt tukšs
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+Noņemiet dublikātus
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Meklēt un dzēst dublikātus
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Tas meklēs dublētus marķierus ar tādiem pašiem datiem un dzēsīs dublikātus. Pēc šīs tīrīšanas tiks atstāts tikai viens katra unikālā marķiera eksemplārs. Vai vēlaties turpināt?
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+Dublikātu meklēšana un dzēšana ...
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+Dzēsti %d dublikāti
+```

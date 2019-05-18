@@ -5241,3 +5241,53 @@ translated (by machine 🤖) as:
 ```
 Numele câmpului personalizat nu poate fi gol
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+Eliminați duplicatele
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Căutați și ștergeți duplicate
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Aceasta va căuta markeri duplicat cu exact aceleași date și va șterge duplicatele. Numai o copie a fiecărui marcator unic va fi lăsată după această curățare. Doriți să continuați?
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+Căutarea și ștergerea duplicatelor ...
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+S-au șters duplicate
+```

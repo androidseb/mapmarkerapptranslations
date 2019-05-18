@@ -5241,3 +5241,53 @@ translated (by machine 🤖) as:
 ```
 ឈ្មោះវាលផ្ទាល់ខ្លួនមិនអាចទទេបានទេ
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+យកស្ទួនចេញ
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+ស្វែងរកនិងលុបស្ទួន
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+នេះនឹងស្វែងរកសញ្ញាសម្គាល់ស្ទួនជាមួយទិន្នន័យដូចគ្នានិងលុបស្ទួន។ ច្បាប់ចម្លងតែមួយគត់តែមួយនឹងត្រូវបានរក្សាទុកបន្ទាប់ពីការបោសសំអាតនេះ។ តើអ្នកចង់បន្តទេ?
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+ស្វែងរកនិងលុបស្ទួន ...
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+បានលុប %d ស្ទួន
+```

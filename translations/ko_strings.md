@@ -5241,3 +5241,53 @@ translated (by machine 🤖) as:
 ```
 맞춤 입력란 이름은 비워 둘 수 없습니다.
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+중복 된 항목 삭제
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+중복 검색 및 삭제
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+이렇게하면 똑같은 데이터로 중복 마커를 검색하고 중복 된 마커를 삭제합니다. 이 정리 후에는 각 고유 마커의 사본 하나만 남게됩니다. 진행 하시겠습니까?
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+중복 검색 및 삭제 중 ...
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+%d 중복을 삭제했습니다.
+```

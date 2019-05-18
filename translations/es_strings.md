@@ -5241,3 +5241,53 @@ translated (by machine 🤖) as:
 ```
 El nombre del campo personalizado no puede estar vacío
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+Eliminar duplicados
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Buscar y borrar duplicados
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Esto buscará marcadores duplicados con los mismos datos exactos y eliminará los duplicados. Solo se dejará una copia de cada marcador único después de esta limpieza. Quieres proceder?
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+Buscando y eliminando duplicados ...
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+Borrado %d duplicados
+```

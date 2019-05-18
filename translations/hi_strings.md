@@ -5241,3 +5241,53 @@ translated (by machine 🤖) as:
 ```
 कस्टम फ़ील्ड का नाम रिक्त नहीं हो सकता
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+डुप्लिकेट निकालें
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+डुप्लिकेट खोजें और हटाएं
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+यह ठीक उसी डेटा के साथ डुप्लिकेट मार्कर की खोज करेगा और डुप्लिकेट को हटा देगा। प्रत्येक क्लीन मार्कर की केवल एक प्रति इस सफाई के बाद छोड़ दी जाएगी। क्या आप आगे बढ़ना चाहते हैं?
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+डुप्लिकेट को खोज रहा है और हटा रहा है ...
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+हटाए गए %d डुप्लिकेट
+```

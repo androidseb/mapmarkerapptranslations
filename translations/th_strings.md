@@ -5242,3 +5242,53 @@ translated (by machine 🤖) as:
 ```
 ชื่อของฟิลด์ที่กำหนดเองต้องไม่ว่างเปล่า
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+ลบรายการซ้ำ
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+ค้นหาและลบรายการซ้ำ
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+วิธีนี้จะค้นหาเครื่องหมายที่ซ้ำกันด้วยข้อมูลเดียวกันที่แน่นอนและลบรายการที่ซ้ำกัน จะมีเพียงหนึ่งสำเนาของเครื่องหมายที่ไม่ซ้ำกันแต่ละอันจะถูกทิ้งไว้หลังจากการล้างข้อมูลนี้ คุณต้องการดำเนินการต่อหรือไม่
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+กำลังค้นหาและลบรายการที่ซ้ำ ...
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+ลบ %d รายการที่ซ้ำกัน
+```

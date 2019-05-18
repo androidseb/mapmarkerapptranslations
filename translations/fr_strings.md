@@ -5241,3 +5241,53 @@ translated (by human 👀) as:
 ```
 Le nom du champs personnalisé ne peut pas être vide
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by human 👀) as:
+```
+Supprimer doublons
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by human 👀) as:
+```
+Rechercher et supprimer les doublons
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by human 👀) as:
+```
+Cela recherchera les marqueurs doublons avec exactement les mêmes données et supprimera les doublons. Seulement une copie de chaque marqueur unique restera après ce nettoyage. Voulez-vous continuer ?
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by human 👀) as:
+```
+Recherche et suppression des doublons…
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by human 👀) as:
+```
+%d doublons supprimés
+```

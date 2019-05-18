@@ -5241,3 +5241,53 @@ translated (by machine 🤖) as:
 ```
 Naziv prilagođenog polja ne može biti prazan
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+Uklanjanje duplikata
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Pretraživanje i brisanje duplikata
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Na taj ćete način tražiti dvostruke oznake s istim podacima i izbrisati duplikate. Nakon ovog čišćenja ostat će samo jedna kopija svakog jedinstvenog markera. Želiš li nastaviti?
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+Pretraživanje i brisanje duplikata ...
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+Izbrisano %d duplikata
+```

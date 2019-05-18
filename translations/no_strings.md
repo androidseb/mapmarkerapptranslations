@@ -5241,3 +5241,53 @@ translated (by machine 🤖) as:
 ```
 Navnet på det egendefinerte feltet kan ikke være tomt
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+Fjern duplikater
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Søk og slett duplikater
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Dette vil søke etter dupliserte markører med nøyaktig samme data og slette duplikatene. Bare én kopi av hver unike markør vil bli etterlatt etter denne opprydningen. Vil du fortsette?
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+Søker og sletter duplikater ...
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+Slettet %d duplikater
+```

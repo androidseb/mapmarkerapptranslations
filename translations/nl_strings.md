@@ -5239,3 +5239,53 @@ translated (by machine 🤖) as:
 ```
 De naam van het aangepaste veld mag niet leeg zijn
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+Verwijder duplicaten
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Zoek en verwijder duplicaten
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Hiermee wordt gezocht naar dubbele markeringen met exact dezelfde gegevens en worden de duplicaten verwijderd. Na deze opruiming blijft slechts één kopie van elke unieke markering over. Wil je doorgaan?
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+Duplicaten zoeken en verwijderen ...
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+%d duplicaten verwijderd
+```

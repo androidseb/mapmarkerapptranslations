@@ -5241,3 +5241,53 @@ translated (by machine 🤖) as:
 ```
 Име прилагођеног поља не може бити празно
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+Уклони дупликате
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Претражујте и бришите дупликате
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Ово ће тражити дупле маркере са истим подацима и избрисати дупликате. Само једна копија сваког јединственог маркера ће остати након овог чишћења. Да ли желите да наставите?
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+Претраживање и брисање дупликата ...
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+Избрисано %d дупликата
+```

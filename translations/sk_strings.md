@@ -5241,3 +5241,53 @@ translated (by machine 🤖) as:
 ```
 Názov vlastného poľa nemôže byť prázdny
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+Odstráňte duplikáty
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Vyhľadajte a odstráňte duplikáty
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Toto bude vyhľadávať duplicitné značky s presne rovnakými údajmi a odstrániť duplikáty. Po tomto vyčistení zostane len jedna kópia každého jedinečného markera. Chcete pokračovať?
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+Vyhľadávanie a odstraňovanie duplikátov ...
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+Odstránené duplikáty %d
+```

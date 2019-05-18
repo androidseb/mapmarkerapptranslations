@@ -5242,3 +5242,53 @@ translated (by machine 🤖) as:
 ```
 カスタムフィールドの名前は空にできません
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+重複を削除
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+重複を検索して削除する
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+これにより、まったく同じデータを持つ重複マーカーが検索され、重複が削除されます。このクリーンアップの後、それぞれのユニークマーカーのコピーが1つだけ残ります。続行しますか？
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+重複の検索と削除…
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+%d重複を削除しました
+```

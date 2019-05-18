@@ -5238,3 +5238,53 @@ translated (by machine 🤖) as:
 ```
 Имя настраиваемого поля не может быть пустым
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+Удалить дубликаты
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Поиск и удаление дубликатов
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Это позволит найти дубликаты маркеров с точно такими же данными и удалить дубликаты. После этой очистки останется только одна копия каждого уникального маркера. Вы хотите продолжить?
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+Поиск и удаление дубликатов ...
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+Удалено %d дубликатов
+```

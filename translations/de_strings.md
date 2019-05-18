@@ -5241,3 +5241,53 @@ translated (by machine 🤖) as:
 ```
 Der Name des benutzerdefinierten Feldes darf nicht leer sein
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+Duplikate entfernen
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Suche und lösche Duplikate
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Dadurch wird nach doppelten Markierungen mit genau den gleichen Daten gesucht und die doppelten Markierungen gelöscht. Nach dieser Bereinigung bleibt nur eine Kopie jedes einzelnen Markers übrig. Möchten Sie fortfahren?
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+Duplikate suchen und löschen…
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+%d Duplikate gelöscht
+```

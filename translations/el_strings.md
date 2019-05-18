@@ -5241,3 +5241,53 @@ translated (by machine 🤖) as:
 ```
 Το όνομα του προσαρμοσμένου πεδίου δεν μπορεί να είναι άδειο
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+Καταργήστε τα διπλά
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Αναζήτηση και διαγραφή διπλότυπων
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Αυτό θα αναζητήσει διπλούς δείκτες με τα ίδια ακριβώς δεδομένα και θα διαγράψει τα διπλότυπα. Μόνο ένα αντίγραφο κάθε μοναδικού δείκτη θα μείνει μετά από αυτό το καθαρισμό. Θέλετε να συνεχίσετε?
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+Αναζήτηση και διαγραφή διπλότυπων ...
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+Διαγράφηκαν %d αντίγραφα
+```

@@ -5241,3 +5241,53 @@ translated (by machine 🤖) as:
 ```
 Името на персонализираното поле не може да бъде празно
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+Премахване на дубликати
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Търсене и изтриване на дубликати
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Това ще потърси дублиращи се маркери с точно същите данни и ще изтрие дубликатите. Само едно копие от всеки уникален маркер ще бъде оставено след това почистване. Искаш ли да продължиш?
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+Търсене и изтриване на дубликати ...
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+Изтрити %d дублирания
+```

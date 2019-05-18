@@ -5241,3 +5241,53 @@ translated (by machine 🤖) as:
 ```
 El nom del camp personalitzat no pot estar buit
 ```
+
+
+## Translation Key: search_delete_duplicates_title
+```
+Remove duplicates
+```
+translated (by machine 🤖) as:
+```
+Elimina els duplicats
+```
+
+
+## Translation Key: search_delete_duplicates_description
+```
+Search and delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Cerqueu i suprimiu duplicats
+```
+
+
+## Translation Key: search_delete_duplicates_confirmation_question
+```
+This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Això cercarà marcadors duplicats amb les mateixes dades i suprimirà els duplicats. Només quedarà una còpia de cada marcador únic després d’aquesta neteja. Voleu continuar?
+```
+
+
+## Translation Key: searching_and_deleting_duplicates
+```
+Searching and deleting duplicates…
+```
+translated (by machine 🤖) as:
+```
+Cerca i supressió de duplicats ...
+```
+
+
+## Translation Key: deleted_x_duplicates
+```
+Deleted %d duplicates
+```
+translated (by machine 🤖) as:
+```
+%d duplicats suprimits
+```
