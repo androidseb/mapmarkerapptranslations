@@ -7,7 +7,7 @@ You want to help improve this translation file? Read the [main page](https://git
 ```
 OK
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ОК
 ```
@@ -17,7 +17,7 @@ translated (by machine 🤖) as:
 ```
 Yes
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Так
 ```
@@ -37,7 +37,7 @@ translated (by human 👀) as:
 ```
 Cancel
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Скасувати
 ```
@@ -47,7 +47,7 @@ translated (by machine 🤖) as:
 ```
 New marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Новий маркер
 ```
@@ -57,7 +57,7 @@ translated (by machine 🤖) as:
 ```
 Title
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Назва
 ```
@@ -67,7 +67,7 @@ translated (by machine 🤖) as:
 ```
 Description
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Опис
 ```
@@ -77,7 +77,7 @@ translated (by machine 🤖) as:
 ```
 Do you really want to delete this marker?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ви дійсно хочете видалити цей маркер?
 ```
@@ -87,7 +87,7 @@ translated (by machine 🤖) as:
 ```
 GPS coordinates
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Координати GPS
 ```
@@ -97,7 +97,7 @@ translated (by machine 🤖) as:
 ```
 Could not copy coordinates to clipboard
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Не вдалося скопіювати координати в буфер обміну
 ```
@@ -127,7 +127,7 @@ translated (by human 👀) as:
 ```
 Untitled
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Без назви
 ```
@@ -137,7 +137,7 @@ translated (by machine 🤖) as:
 ```
 All
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Всі
 ```
@@ -147,7 +147,7 @@ translated (by machine 🤖) as:
 ```
 Add folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Додати папку
 ```
@@ -157,7 +157,7 @@ translated (by machine 🤖) as:
 ```
 Modify folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Змінити папку
 ```
@@ -197,7 +197,7 @@ translated (by human 👀) as:
 ```
 Latitude:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Широта:
 ```
@@ -207,7 +207,7 @@ translated (by machine 🤖) as:
 ```
 Longitude:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Довгота:
 ```
@@ -217,7 +217,7 @@ translated (by machine 🤖) as:
 ```
 Could not write file.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Не вдалося записати файл.
 ```
@@ -247,7 +247,7 @@ translated (by human 👀) as:
 ```
 File imported successfully
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Файл успішно імпортовано
 ```
@@ -287,7 +287,7 @@ translated (by human 👀) as:
 ```
 Could not find address
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Не вдалося знайти адресу
 ```
@@ -297,7 +297,7 @@ translated (by machine 🤖) as:
 ```
 Searching&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Пошук&#8230;
 ```
@@ -317,7 +317,7 @@ translated (by human 👀) as:
 ```
 Share via
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Поділитися по
 ```
@@ -337,7 +337,7 @@ translated (by human 👀) as:
 ```
 Folder name
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ім'я папки
 ```
@@ -347,7 +347,7 @@ translated (by machine 🤖) as:
 ```
 Save
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Зберегти
 ```
@@ -367,7 +367,7 @@ translated (by human 👀) as:
 ```
 Are you sure you want to delete the selected markers?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ви впевнені, що хочете видалити вибрані маркери?
 ```
@@ -377,7 +377,7 @@ translated (by machine 🤖) as:
 ```
 Move markers to folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Переміщення маркерів в папку
 ```
@@ -397,7 +397,7 @@ translated (by human 👀) as:
 ```
 Folder:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Папка:
 ```
@@ -407,7 +407,7 @@ translated (by machine 🤖) as:
 ```
 Snapshot of my markers on Map Marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Знімок з моїх маркерів на Map Marker
 ```
@@ -429,7 +429,7 @@ translated (by human 👀) as:
 ```
 Processing data&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Обробка даних&#8230;
 ```
@@ -449,7 +449,7 @@ translated (by human 👀) as:
 ```
 Use the long press on the map to create a new marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Використовуйте довге натискання на карті, щоб створити новий маркер
 ```
@@ -459,7 +459,7 @@ translated (by machine 🤖) as:
 ```
 Map type
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Тип карти
 ```
@@ -469,7 +469,7 @@ translated (by machine 🤖) as:
 ```
 Normal
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Нормальний
 ```
@@ -479,7 +479,7 @@ translated (by machine 🤖) as:
 ```
 Satellite
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Супутникове
 ```
@@ -489,7 +489,7 @@ translated (by machine 🤖) as:
 ```
 Terrain
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Місцевість
 ```
@@ -521,7 +521,7 @@ translated (by human 👀) as:
 ```
 Send email&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Відправити email&#8230;
 ```
@@ -553,7 +553,7 @@ translated (by human 👀) as:
 ```
 Directions
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Напрямки
 ```
@@ -573,7 +573,7 @@ translated (by human 👀) as:
 ```
 Meters
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Метри
 ```
@@ -583,7 +583,7 @@ translated (by machine 🤖) as:
 ```
 Km
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Km
 ```
@@ -713,7 +713,7 @@ translated (by human 👀) as:
 ```
 Delete folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Видалити папку
 ```
@@ -781,7 +781,7 @@ translated (by human 👀) as:
 ```
 Could not find the place
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Не вдалося знайти місце
 ```
@@ -821,7 +821,7 @@ translated (by human 👀) as:
 ```
 Settings
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Налаштування
 ```
@@ -841,7 +841,7 @@ translated (by human 👀) as:
 ```
 Decimal degrees
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Десяткові градуси
 ```
@@ -881,7 +881,7 @@ translated (by human 👀) as:
 ```
 GPS and wireless networks only
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Тільки GPS і бездротові мережі
 ```
@@ -891,7 +891,7 @@ translated (by machine 🤖) as:
 ```
 GPS and wireless networks or magnetic sensor
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 GPS і бездротові мережі або магнітний датчик
 ```
@@ -901,7 +901,7 @@ GPS і бездротові мережі або магнітний датчик
 ```
 Magnetic sensor only
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Тільки Магнітний датчик
 ```
@@ -921,7 +921,7 @@ translated (by human 👀) as:
 ```
 FAQ/Help
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 FAQ / Допомога
 ```
@@ -931,7 +931,7 @@ FAQ / Допомога
 ```
 Folders
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Папки
 ```
@@ -941,7 +941,7 @@ translated (by machine 🤖) as:
 ```
 Help and settings
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Допомога та налаштування
 ```
@@ -951,7 +951,7 @@ translated (by machine 🤖) as:
 ```
 Language
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Мова
 ```
@@ -971,7 +971,7 @@ translated (by human 👀) as:
 ```
 Bottom
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Дно
 ```
@@ -991,7 +991,7 @@ translated (by human 👀) as:
 ```
 Coordinates
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Координати
 ```
