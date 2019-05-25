@@ -101,7 +101,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Turkish (0% human-translated)](./translations/tr_strings.md)
 
-[Ukrainian (0% human-translated)](./translations/uk_strings.md)
+[Ukrainian (9% human-translated)](./translations/uk_strings.md)
 
 [Vietnamese (0% human-translated)](./translations/vi_strings.md)
 

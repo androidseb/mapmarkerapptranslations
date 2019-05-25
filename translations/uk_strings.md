@@ -27,7 +27,7 @@ translated (by machine 🤖) as:
 ```
 No
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ні
 ```
@@ -107,7 +107,7 @@ translated (by machine 🤖) as:
 ```
 Coordinates copied to clipboard
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Координати скопійовано в буфер обміну
 ```
@@ -117,7 +117,7 @@ translated (by machine 🤖) as:
 ```
 Failed to access application save directory. Make sure that your device is not being accessed by a computer with the USB cable, and restart the app.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Не вдалося отримати доступ до папки для збереження. Переконайтеся, що ваш пристрій недоступний з комп'ютера через USB кабель і перезавантажте додаток.
 ```
@@ -167,7 +167,7 @@ translated (by machine 🤖) as:
 ```
 Are you sure you want to delete this folder? All markers associated to this folder will be deleted permanently!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ви впевнені, що хочете видалити цю папку? Всі маркери, пов'язані з цією папкою, будуть видалені назавжди!
 ```
@@ -177,7 +177,7 @@ translated (by machine 🤖) as:
 ```
 Failed to create new folder, it already exists
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Не вдалося створити нову папку, папка з такою назвою вже існує
 ```
@@ -187,7 +187,7 @@ translated (by machine 🤖) as:
 ```
 Failed to rename the folder, the destination name already exists
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Не вдалося перейменувати папку, папка з такою назвою вже існує
 ```
@@ -227,7 +227,7 @@ translated (by machine 🤖) as:
 ```
 Import/Export
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Імпорт/Експорт
 ```
@@ -237,7 +237,7 @@ translated (by machine 🤖) as:
 ```
 Import markers
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Імпортувати маркери
 ```
@@ -257,7 +257,7 @@ translated (by machine 🤖) as:
 ```
 File import failed
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Імпорт файлу не вдався
 ```
@@ -267,7 +267,7 @@ translated (by machine 🤖) as:
 ```
 Location services
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Служба місцезнаходження
 ```
@@ -277,7 +277,7 @@ translated (by machine 🤖) as:
 ```
 Location services are disabled. To get your current location you must enable them.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Визначення місцезнаходження відключено. Щоб отримати ваше поточне місце розташування необхідно його включити.
 ```
@@ -307,7 +307,7 @@ translated (by machine 🤖) as:
 ```
 Search
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Шукати
 ```
@@ -327,7 +327,7 @@ translated (by machine 🤖) as:
 ```
 Do you want to import the content of this file?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ви хочете імпортувати вміст цього файлу?
 ```
@@ -357,7 +357,7 @@ translated (by machine 🤖) as:
 ```
 Close
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Закрити
 ```
@@ -387,7 +387,7 @@ translated (by machine 🤖) as:
 ```
 Share
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Поділитися
 ```
@@ -418,7 +418,7 @@ translated (by machine 🤖) as:
 This snapshot was made with the app Map Marker:
 %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Цей знімок було зроблено додатком Map Marker : 
  %s
@@ -439,7 +439,7 @@ translated (by machine 🤖) as:
 ```
 You have unsaved modifications, do you want to save them?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ви не зберегли зміни, ви хочете зберегти їх?
 ```
@@ -499,7 +499,7 @@ translated (by machine 🤖) as:
 ```
 Hybrid
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Гібридна
 ```
@@ -510,7 +510,7 @@ translated (by machine 🤖) as:
 Found a problem? Have an idea of improvement?
 Send me an email :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Знайшли проблему? Маєте ідею про поліпшення? 
 Відправити мені email :-)
@@ -532,7 +532,7 @@ translated (by machine 🤖) as:
 You like the app?
 Rate it 5 stars :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Вам подобається цей додаток? 
 Оцініть в 5 зірок :-)
@@ -543,7 +543,7 @@ translated (by machine 🤖) as:
 ```
 Change folder to&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Змінити папку на&#8230;
 ```
@@ -563,7 +563,7 @@ translated (by machine 🤖) as:
 ```
 Acquiring location&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Знайдене розташування&#8230;
 ```
@@ -593,7 +593,7 @@ Km
 ```
 Feet
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Фути
 ```
@@ -603,7 +603,7 @@ translated (by machine 🤖) as:
 ```
 Miles
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Милі
 ```
@@ -613,7 +613,7 @@ translated (by machine 🤖) as:
 ```
 Adjust map camera position when guiding to a marker location
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Відрегулюйте положення камери карти при навігації до місцезнаходження маркера
 ```
@@ -623,7 +623,7 @@ translated (by machine 🤖) as:
 ```
 Keep screen on when guiding to a marker location
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Тримайте екран увімкненимпри навігації до місцезнаходження маркера
 ```
@@ -633,7 +633,7 @@ translated (by machine 🤖) as:
 ```
 Marker details copied to clipboard
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Деталі маркера зкопійовано в буфер обміну
 ```
@@ -643,7 +643,7 @@ translated (by machine 🤖) as:
 ```
 Long press to drag and move the marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Довге натискання щоб перетягувати та переміщувати маркер
 ```
@@ -653,7 +653,7 @@ translated (by machine 🤖) as:
 ```
 Error starting internal task manager, app will now exit
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Помилка при запуску внутрішнього диспетчера задач, додаток буде закрито
 ```
@@ -663,7 +663,7 @@ translated (by machine 🤖) as:
 ```
 Do not show again
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Не показувати знову
 ```
@@ -673,7 +673,7 @@ translated (by machine 🤖) as:
 ```
 Could not create the map capture
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Не вдалося створити знімок карти
 ```
@@ -683,7 +683,7 @@ translated (by machine 🤖) as:
 ```
 Metric (Kilometers/Meters)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Метрична (км/м)
 ```
@@ -693,7 +693,7 @@ translated (by machine 🤖) as:
 ```
 Imperial (Miles/Feet)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Імперська (милі/фути)
 ```
@@ -703,7 +703,7 @@ translated (by machine 🤖) as:
 ```
 There is a problem with Google Play Services: it needs to be installed, updated or activated. Click OK to try and solve it.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Проблема з Google Play Services: необхідно встановлення, оновлення або активація. Натисніть кнопку OK, щоб спробувати вирішити цю проблему.
 ```
@@ -723,7 +723,7 @@ translated (by machine 🤖) as:
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Якщо вам подобається мій додаток, ви можете винагородити мене, знайшовши час дати хорошу оцінку :-)
 ```
@@ -734,7 +734,7 @@ translated (by machine 🤖) as:
 OK take me
 to the Play Store
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ОК перейти 
 на Play Store
@@ -746,7 +746,7 @@ translated (by machine 🤖) as:
 I already
 gave a rating
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Я вже 
 дав оцінку
@@ -758,7 +758,7 @@ translated (by machine 🤖) as:
 Maybe later
 remind me
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Можливо пізніше 
 нагадайте мені
@@ -770,7 +770,7 @@ translated (by machine 🤖) as:
 Maybe later
 do not remind me
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Можливо, пізніше 
 не нагадувати мені
@@ -791,7 +791,7 @@ translated (by machine 🤖) as:
 ```
 Could not find another map application
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Не вдалося знайти інший додаток мап
 ```
@@ -801,7 +801,7 @@ translated (by machine 🤖) as:
 ```
 Move the map around to place your marker where you want and click OK to place it.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Пересуньте карту, щоб помістити маркер де хочете, і натисніть кнопку ОК, щоб помістити його
 ```
@@ -811,7 +811,7 @@ translated (by machine 🤖) as:
 ```
 Imported marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Імпортовані маркер
 ```
@@ -831,7 +831,7 @@ translated (by machine 🤖) as:
 ```
 Display zoom buttons
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Відобразити кнопки масштабування
 ```
@@ -851,7 +851,7 @@ translated (by machine 🤖) as:
 ```
 Degrees decimal minutes
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Десяткові градуси мінут
 ```
@@ -861,7 +861,7 @@ translated (by machine 🤖) as:
 ```
 Degrees minutes seconds
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Градуси Мінути Секунди
 ```
@@ -871,7 +871,7 @@ translated (by machine 🤖) as:
 ```
 Coordinates format
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Формат координат
 ```
@@ -911,7 +911,7 @@ translated (by machine 🤖) as:
 ```
 Used compass sensor
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Використано датчик компаса
 ```
@@ -961,7 +961,7 @@ translated (by machine 🤖) as:
 ```
 Marker popup style
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Стиль спливаючого вікна маркера
 ```
@@ -981,7 +981,7 @@ translated (by machine 🤖) as:
 ```
 Bubble
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Кулька
 ```
@@ -1001,7 +1001,7 @@ translated (by machine 🤖) as:
 ```
 Contextual
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Контексний
 ```
