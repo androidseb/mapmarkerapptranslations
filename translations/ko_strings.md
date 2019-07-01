@@ -4633,60 +4633,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: google_places_api_how_to_title
-```
-API key tutorial
-```
-translated (by machine 🤖) as:
-```
-API key 튜토리얼
-```
-
-
-## Translation Key: google_places_api_how_to_description
-```
-Click here to see details on how to obtain an API key for your account.
-```
-translated (by machine 🤖) as:
-```
-귀하의 계정에 API key을 얻는 방법에 대한 자세한 내용을 보려면 여기를 클릭하십시오.
-```
-
-
-## Translation Key: personal_google_places_api_key
-```
-Personal API key
-```
-translated (by machine 🤖) as:
-```
-개인 API key
-```
-
-
-## Translation Key: google_places_api_key_none
-```
-None
-```
-translated (by machine 🤖) as:
-```
-없음
-```
-
-
-## Translation Key: google_search_not_started_personal_api_key_text
-```
-You can search for places with "Google Places API". This search requires an internet connection.
-
-You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
-```
-translated (by machine 🤖) as:
-```
-"Google Places API"이 (가)있는 장소를 검색 할 수 있습니다. 이 검색에는 인터넷 연결이 필요합니다.
-
-개인 Google Places API 키를 구성했습니다 : 개인 Google Places API 검색 할당량을 사용하여 검색합니다.
-```
-
-
 ## Translation Key: do_you_enjoy_the_app_question
 ```
 Do you enjoy the app?
@@ -4817,7 +4763,7 @@ Here Places Search API
 ```
 
 
-## Translation Key: google_search_not_started_text3
+## Translation Key: places_search_not_started_text
 ```
 You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
 ```
@@ -5290,4 +5236,94 @@ Deleted %d duplicates
 translated (by machine 🤖) as:
 ```
 %d 중복을 삭제했습니다.
+```
+
+
+## Translation Key: switch_search_source_button_hint_text
+```
+Would you prefer to search from another source?
+```
+translated (by machine 🤖) as:
+```
+다른 출처에서 검색 하시겠습니까?
+```
+
+
+## Translation Key: switch_search_source_button_text
+```
+Change source
+```
+translated (by machine 🤖) as:
+```
+소스 변경
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title
+```
+Places search sources tutorial
+```
+translated (by machine 🤖) as:
+```
+지역 정보 검색 자습서
+```
+
+
+## Translation Key: places_search_sources_config_how_to_description
+```
+Wondering how to configure search sources? Click here.
+```
+translated (by machine 🤖) as:
+```
+검색 소스를 구성하는 방법을 알고 싶으십니까? 여기를 클릭하십시오.
+```
+
+
+## Translation Key: settings_places_search_sources_section_title
+```
+Places search sources
+```
+translated (by machine 🤖) as:
+```
+장소 검색 소스
+```
+
+
+## Translation Key: action_add_or_configure_search_source
+```
+Add or configure search source
+```
+translated (by machine 🤖) as:
+```
+검색 소스 추가 또는 구성
+```
+
+
+## Translation Key: select_search_source
+```
+Select search source
+```
+translated (by machine 🤖) as:
+```
+검색 소스 선택
+```
+
+
+## Translation Key: enter_value_for_field_x
+```
+Enter value for field "%s"
+```
+translated (by machine 🤖) as:
+```
+"%s"필드 값 입력
+```
+
+
+## Translation Key: search_source_algolia
+```
+Algolia Places Search API
+```
+translated (by machine 🤖) as:
+```
+Algolia Places Search API
 ```

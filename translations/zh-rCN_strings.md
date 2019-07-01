@@ -4633,60 +4633,6 @@ Search failed =&gt; %s
 ```
 
 
-## Translation Key: google_places_api_how_to_title
-```
-API key tutorial
-```
-translated (by machine 🤖) as:
-```
-API key教程
-```
-
-
-## Translation Key: google_places_api_how_to_description
-```
-Click here to see details on how to obtain an API key for your account.
-```
-translated (by machine 🤖) as:
-```
-点击此处查看有关如何为您的帐户获取API key的详细信息。
-```
-
-
-## Translation Key: personal_google_places_api_key
-```
-Personal API key
-```
-translated (by machine 🤖) as:
-```
-个人API key
-```
-
-
-## Translation Key: google_places_api_key_none
-```
-None
-```
-translated (by machine 🤖) as:
-```
-没有
-```
-
-
-## Translation Key: google_search_not_started_personal_api_key_text
-```
-You can search for places with "Google Places API". This search requires an internet connection.
-
-You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
-```
-translated (by machine 🤖) as:
-```
-您可以使用“Google Places API”搜索地点。此搜索需要互联网连接。
-
-您已配置个人Google Places API密钥：您的搜索将使用您的个人Google Places API搜索配额。
-```
-
-
 ## Translation Key: do_you_enjoy_the_app_question
 ```
 Do you enjoy the app?
@@ -4817,7 +4763,7 @@ Here Places Search API
 ```
 
 
-## Translation Key: google_search_not_started_text3
+## Translation Key: places_search_not_started_text
 ```
 You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
 ```
@@ -5290,4 +5236,94 @@ Deleted %d duplicates
 translated (by machine 🤖) as:
 ```
 删除%d重复
+```
+
+
+## Translation Key: switch_search_source_button_hint_text
+```
+Would you prefer to search from another source?
+```
+translated (by machine 🤖) as:
+```
+您想从其他来源搜索吗？
+```
+
+
+## Translation Key: switch_search_source_button_text
+```
+Change source
+```
+translated (by machine 🤖) as:
+```
+改变来源
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title
+```
+Places search sources tutorial
+```
+translated (by machine 🤖) as:
+```
+放置搜索源教程
+```
+
+
+## Translation Key: places_search_sources_config_how_to_description
+```
+Wondering how to configure search sources? Click here.
+```
+translated (by machine 🤖) as:
+```
+想知道如何配置搜索源？点击这里。
+```
+
+
+## Translation Key: settings_places_search_sources_section_title
+```
+Places search sources
+```
+translated (by machine 🤖) as:
+```
+放置搜索来源
+```
+
+
+## Translation Key: action_add_or_configure_search_source
+```
+Add or configure search source
+```
+translated (by machine 🤖) as:
+```
+添加或配置搜索源
+```
+
+
+## Translation Key: select_search_source
+```
+Select search source
+```
+translated (by machine 🤖) as:
+```
+选择搜索源
+```
+
+
+## Translation Key: enter_value_for_field_x
+```
+Enter value for field "%s"
+```
+translated (by machine 🤖) as:
+```
+输入字段“%s”的值
+```
+
+
+## Translation Key: search_source_algolia
+```
+Algolia Places Search API
+```
+translated (by machine 🤖) as:
+```
+Algolia Places Search API
 ```

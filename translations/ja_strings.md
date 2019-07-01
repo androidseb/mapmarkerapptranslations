@@ -4634,60 +4634,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: google_places_api_how_to_title
-```
-API key tutorial
-```
-translated (by machine 🤖) as:
-```
-API keyチュートリアル
-```
-
-
-## Translation Key: google_places_api_how_to_description
-```
-Click here to see details on how to obtain an API key for your account.
-```
-translated (by machine 🤖) as:
-```
-アカウントのAPI keyの取得方法の詳細については、ここをクリックしてください。
-```
-
-
-## Translation Key: personal_google_places_api_key
-```
-Personal API key
-```
-translated (by machine 🤖) as:
-```
-個人API key
-```
-
-
-## Translation Key: google_places_api_key_none
-```
-None
-```
-translated (by machine 🤖) as:
-```
-無し
-```
-
-
-## Translation Key: google_search_not_started_personal_api_key_text
-```
-You can search for places with "Google Places API". This search requires an internet connection.
-
-You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
-```
-translated (by machine 🤖) as:
-```
-あなたは "_ 22"で場所を検索することができます。この検索にはインターネット接続が必要です。
-
-あなたはあなたの個人用Google Places APIキーを設定しました：あなたの検索はあなたの個人用Google Places API検索クォータを使うでしょう。
-```
-
-
 ## Translation Key: do_you_enjoy_the_app_question
 ```
 Do you enjoy the app?
@@ -4818,7 +4764,7 @@ Here Places Search API
 ```
 
 
-## Translation Key: google_search_not_started_text3
+## Translation Key: places_search_not_started_text
 ```
 You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
 ```
@@ -5291,4 +5237,94 @@ Deleted %d duplicates
 translated (by machine 🤖) as:
 ```
 %d重複を削除しました
+```
+
+
+## Translation Key: switch_search_source_button_hint_text
+```
+Would you prefer to search from another source?
+```
+translated (by machine 🤖) as:
+```
+他の情報源から検索しますか？
+```
+
+
+## Translation Key: switch_search_source_button_text
+```
+Change source
+```
+translated (by machine 🤖) as:
+```
+ソースを変更
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title
+```
+Places search sources tutorial
+```
+translated (by machine 🤖) as:
+```
+場所検索ソースのチュートリアル
+```
+
+
+## Translation Key: places_search_sources_config_how_to_description
+```
+Wondering how to configure search sources? Click here.
+```
+translated (by machine 🤖) as:
+```
+検索ソースを設定する方法を疑問に思う？ここをクリック。
+```
+
+
+## Translation Key: settings_places_search_sources_section_title
+```
+Places search sources
+```
+translated (by machine 🤖) as:
+```
+場所の検索ソース
+```
+
+
+## Translation Key: action_add_or_configure_search_source
+```
+Add or configure search source
+```
+translated (by machine 🤖) as:
+```
+検索ソースを追加または設定する
+```
+
+
+## Translation Key: select_search_source
+```
+Select search source
+```
+translated (by machine 🤖) as:
+```
+検索元を選択
+```
+
+
+## Translation Key: enter_value_for_field_x
+```
+Enter value for field "%s"
+```
+translated (by machine 🤖) as:
+```
+フィールド "%s"に値を入力してください
+```
+
+
+## Translation Key: search_source_algolia
+```
+Algolia Places Search API
+```
+translated (by machine 🤖) as:
+```
+Algolia Places Search API
 ```

@@ -4633,60 +4633,6 @@ Recherche échouée => %s
 ```
 
 
-## Translation Key: google_places_api_how_to_title
-```
-API key tutorial
-```
-translated (by human 👀) as:
-```
-Tutoriel API key
-```
-
-
-## Translation Key: google_places_api_how_to_description
-```
-Click here to see details on how to obtain an API key for your account.
-```
-translated (by human 👀) as:
-```
-Cliquez ici to voir les détails sur comment obtenir une API key pour votre compte.
-```
-
-
-## Translation Key: personal_google_places_api_key
-```
-Personal API key
-```
-translated (by human 👀) as:
-```
-API key personnelle
-```
-
-
-## Translation Key: google_places_api_key_none
-```
-None
-```
-translated (by human 👀) as:
-```
-Aucune
-```
-
-
-## Translation Key: google_search_not_started_personal_api_key_text
-```
-You can search for places with "Google Places API". This search requires an internet connection.
-
-You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
-```
-translated (by human 👀) as:
-```
-Vous pouvez chercher des endroits avec "Google Places API". Cette recherche nécessite une connexion internet.
-
-Vous avez configuré votre API key Google Places API personnelle : votre recherche utilisera votre quota Google Places API personel.
-```
-
-
 ## Translation Key: do_you_enjoy_the_app_question
 ```
 Do you enjoy the app?
@@ -4817,7 +4763,7 @@ API de recherche Here Places
 ```
 
 
-## Translation Key: google_search_not_started_text3
+## Translation Key: places_search_not_started_text
 ```
 You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
 ```
@@ -5290,4 +5236,94 @@ Deleted %d duplicates
 translated (by human 👀) as:
 ```
 %d doublons supprimés
+```
+
+
+## Translation Key: switch_search_source_button_hint_text
+```
+Would you prefer to search from another source?
+```
+translated (by human 👀) as:
+```
+Préférez-vous rechercher avec une autre source ?
+```
+
+
+## Translation Key: switch_search_source_button_text
+```
+Change source
+```
+translated (by human 👀) as:
+```
+Changer source
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title
+```
+Places search sources tutorial
+```
+translated (by human 👀) as:
+```
+Tutoriel de source de recherche
+```
+
+
+## Translation Key: places_search_sources_config_how_to_description
+```
+Wondering how to configure search sources? Click here.
+```
+translated (by human 👀) as:
+```
+Vous vous demandez comment configurer les sources de recherche ? Cliquez ici.
+```
+
+
+## Translation Key: settings_places_search_sources_section_title
+```
+Places search sources
+```
+translated (by human 👀) as:
+```
+Source de recherches de lieux
+```
+
+
+## Translation Key: action_add_or_configure_search_source
+```
+Add or configure search source
+```
+translated (by human 👀) as:
+```
+Ajouter ou configurer une source
+```
+
+
+## Translation Key: select_search_source
+```
+Select search source
+```
+translated (by human 👀) as:
+```
+Sélectionner source de recherche
+```
+
+
+## Translation Key: enter_value_for_field_x
+```
+Enter value for field "%s"
+```
+translated (by human 👀) as:
+```
+Entrez la valeur pour le champs "%s"
+```
+
+
+## Translation Key: search_source_algolia
+```
+Algolia Places Search API
+```
+translated (by human 👀) as:
+```
+API de recherche Algolia Places
 ```

@@ -4633,60 +4633,6 @@ Meklēšana neizdevās =&gt; %s
 ```
 
 
-## Translation Key: google_places_api_how_to_title
-```
-API key tutorial
-```
-translated (by machine 🤖) as:
-```
-API key apmācība
-```
-
-
-## Translation Key: google_places_api_how_to_description
-```
-Click here to see details on how to obtain an API key for your account.
-```
-translated (by machine 🤖) as:
-```
-Noklikšķiniet šeit, lai skatītu informāciju par to, kā iegūt API key kontu savam kontam.
-```
-
-
-## Translation Key: personal_google_places_api_key
-```
-Personal API key
-```
-translated (by machine 🤖) as:
-```
-Personīga API key
-```
-
-
-## Translation Key: google_places_api_key_none
-```
-None
-```
-translated (by machine 🤖) as:
-```
-Nav
-```
-
-
-## Translation Key: google_search_not_started_personal_api_key_text
-```
-You can search for places with "Google Places API". This search requires an internet connection.
-
-You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
-```
-translated (by machine 🤖) as:
-```
-Jūs varat meklēt vietas ar "Google Places API". Šim meklējumam ir nepieciešams interneta pieslēgums.
-
-Jūs esat konfigurējis savu personīgo Google Places API taustiņu: jūsu meklēšana tiks izmantota, izmantojot jūsu personīgo Google Places API meklēšanas kvotu.
-```
-
-
 ## Translation Key: do_you_enjoy_the_app_question
 ```
 Do you enjoy the app?
@@ -4817,7 +4763,7 @@ Here Places Search API
 ```
 
 
-## Translation Key: google_search_not_started_text3
+## Translation Key: places_search_not_started_text
 ```
 You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
 ```
@@ -5290,4 +5236,94 @@ Deleted %d duplicates
 translated (by machine 🤖) as:
 ```
 Dzēsti %d dublikāti
+```
+
+
+## Translation Key: switch_search_source_button_hint_text
+```
+Would you prefer to search from another source?
+```
+translated (by machine 🤖) as:
+```
+Vai vēlaties meklēt no cita avota?
+```
+
+
+## Translation Key: switch_search_source_button_text
+```
+Change source
+```
+translated (by machine 🤖) as:
+```
+Mainīt avotu
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title
+```
+Places search sources tutorial
+```
+translated (by machine 🤖) as:
+```
+Vietu meklēšanas avotu apmācība
+```
+
+
+## Translation Key: places_search_sources_config_how_to_description
+```
+Wondering how to configure search sources? Click here.
+```
+translated (by machine 🤖) as:
+```
+Domājat, kā konfigurēt meklēšanas avotus? Noklikšķiniet šeit.
+```
+
+
+## Translation Key: settings_places_search_sources_section_title
+```
+Places search sources
+```
+translated (by machine 🤖) as:
+```
+Vietu meklēšanas avoti
+```
+
+
+## Translation Key: action_add_or_configure_search_source
+```
+Add or configure search source
+```
+translated (by machine 🤖) as:
+```
+Pievienojiet vai konfigurējiet meklēšanas avotu
+```
+
+
+## Translation Key: select_search_source
+```
+Select search source
+```
+translated (by machine 🤖) as:
+```
+Izvēlieties meklēšanas avotu
+```
+
+
+## Translation Key: enter_value_for_field_x
+```
+Enter value for field "%s"
+```
+translated (by machine 🤖) as:
+```
+Ievadiet lauka "%s" vērtību
+```
+
+
+## Translation Key: search_source_algolia
+```
+Algolia Places Search API
+```
+translated (by machine 🤖) as:
+```
+Algolia Places Search API
 ```

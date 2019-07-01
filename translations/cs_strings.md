@@ -4633,60 +4633,6 @@ Hledání se nezdařilo =&gt; %s
 ```
 
 
-## Translation Key: google_places_api_how_to_title
-```
-API key tutorial
-```
-translated (by machine 🤖) as:
-```
-API key výukový program
-```
-
-
-## Translation Key: google_places_api_how_to_description
-```
-Click here to see details on how to obtain an API key for your account.
-```
-translated (by machine 🤖) as:
-```
-Kliknutím sem zobrazíte podrobnosti o tom, jak získat účet API key pro váš účet.
-```
-
-
-## Translation Key: personal_google_places_api_key
-```
-Personal API key
-```
-translated (by machine 🤖) as:
-```
-Osobní API key
-```
-
-
-## Translation Key: google_places_api_key_none
-```
-None
-```
-translated (by machine 🤖) as:
-```
-Žádný
-```
-
-
-## Translation Key: google_search_not_started_personal_api_key_text
-```
-You can search for places with "Google Places API". This search requires an internet connection.
-
-You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
-```
-translated (by machine 🤖) as:
-```
-Můžete vyhledat místa s "Google Places API". Toto vyhledávání vyžaduje připojení k internetu.
-
-Nakonfigurovali jste svůj osobní klíč Google Places API: vaše vyhledávání bude používat vaši osobní kvótu vyhledávání Google Places API.
-```
-
-
 ## Translation Key: do_you_enjoy_the_app_question
 ```
 Do you enjoy the app?
@@ -4817,7 +4763,7 @@ Here Places Search API
 ```
 
 
-## Translation Key: google_search_not_started_text3
+## Translation Key: places_search_not_started_text
 ```
 You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
 ```
@@ -5290,4 +5236,94 @@ Deleted %d duplicates
 translated (by machine 🤖) as:
 ```
 Odstraněno %d duplikátů
+```
+
+
+## Translation Key: switch_search_source_button_hint_text
+```
+Would you prefer to search from another source?
+```
+translated (by machine 🤖) as:
+```
+Chcete raději vyhledávat z jiného zdroje?
+```
+
+
+## Translation Key: switch_search_source_button_text
+```
+Change source
+```
+translated (by machine 🤖) as:
+```
+Změnit zdroj
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title
+```
+Places search sources tutorial
+```
+translated (by machine 🤖) as:
+```
+Průvodce zdroji míst
+```
+
+
+## Translation Key: places_search_sources_config_how_to_description
+```
+Wondering how to configure search sources? Click here.
+```
+translated (by machine 🤖) as:
+```
+Zajímá vás, jak konfigurovat zdroje vyhledávání? Klikněte zde.
+```
+
+
+## Translation Key: settings_places_search_sources_section_title
+```
+Places search sources
+```
+translated (by machine 🤖) as:
+```
+Vyhledává zdroje vyhledávání
+```
+
+
+## Translation Key: action_add_or_configure_search_source
+```
+Add or configure search source
+```
+translated (by machine 🤖) as:
+```
+Přidat nebo nakonfigurovat zdroj vyhledávání
+```
+
+
+## Translation Key: select_search_source
+```
+Select search source
+```
+translated (by machine 🤖) as:
+```
+Vyberte zdroj vyhledávání
+```
+
+
+## Translation Key: enter_value_for_field_x
+```
+Enter value for field "%s"
+```
+translated (by machine 🤖) as:
+```
+Zadejte hodnotu pro pole „%s“
+```
+
+
+## Translation Key: search_source_algolia
+```
+Algolia Places Search API
+```
+translated (by machine 🤖) as:
+```
+Algolia Places Search API
 ```

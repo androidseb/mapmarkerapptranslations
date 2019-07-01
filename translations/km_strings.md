@@ -4633,60 +4633,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: google_places_api_how_to_title
-```
-API key tutorial
-```
-translated (by machine 🤖) as:
-```
-API key ការបង្រៀន
-```
-
-
-## Translation Key: google_places_api_how_to_description
-```
-Click here to see details on how to obtain an API key for your account.
-```
-translated (by machine 🤖) as:
-```
-សូមចុចនៅទីនេះដើម្បីមើលព័ត៌មានលម្អិតអំពីរបៀបទទួល API key សម្រាប់គណនីរបស់អ្នក។
-```
-
-
-## Translation Key: personal_google_places_api_key
-```
-Personal API key
-```
-translated (by machine 🤖) as:
-```
-ផ្ទាល់ខ្លួន API key
-```
-
-
-## Translation Key: google_places_api_key_none
-```
-None
-```
-translated (by machine 🤖) as:
-```
-គ្មាន
-```
-
-
-## Translation Key: google_search_not_started_personal_api_key_text
-```
-You can search for places with "Google Places API". This search requires an internet connection.
-
-You have configured your personal Google Places API key: your search will be using your personal Google Places API search quota.
-```
-translated (by machine 🤖) as:
-```
-អ្នកអាចស្វែងរកកន្លែងដែលមាន "Google Places API" ។ ការស្វែងរកនេះទាមទារការតភ្ជាប់អ៊ីនធឺណិត។
-
-អ្នកបានកំណត់គន្លឹះ Google Places API ផ្ទាល់ខ្លួនរបស់អ្នក: ការស្វែងរករបស់អ្នកនឹងប្រើកូតាស្វែងរក Google Places API ផ្ទាល់ខ្លួនរបស់អ្នក។
-```
-
-
 ## Translation Key: do_you_enjoy_the_app_question
 ```
 Do you enjoy the app?
@@ -4817,7 +4763,7 @@ Here Places Search API
 ```
 
 
-## Translation Key: google_search_not_started_text3
+## Translation Key: places_search_not_started_text
 ```
 You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
 ```
@@ -5290,4 +5236,94 @@ Deleted %d duplicates
 translated (by machine 🤖) as:
 ```
 បានលុប %d ស្ទួន
+```
+
+
+## Translation Key: switch_search_source_button_hint_text
+```
+Would you prefer to search from another source?
+```
+translated (by machine 🤖) as:
+```
+តើអ្នកចង់ស្វែងរកពីប្រភពផ្សេងទៀតដែរឬទេ?
+```
+
+
+## Translation Key: switch_search_source_button_text
+```
+Change source
+```
+translated (by machine 🤖) as:
+```
+ប្តូរប្រភព
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title
+```
+Places search sources tutorial
+```
+translated (by machine 🤖) as:
+```
+ការណែនាំប្រភពស្វែងរកទីកន្លែង
+```
+
+
+## Translation Key: places_search_sources_config_how_to_description
+```
+Wondering how to configure search sources? Click here.
+```
+translated (by machine 🤖) as:
+```
+ឆ្ងល់ពីរបៀបកំណត់រចនាសម្ព័ន្ធប្រភពស្វែងរក? ចុច​ទីនេះ។
+```
+
+
+## Translation Key: settings_places_search_sources_section_title
+```
+Places search sources
+```
+translated (by machine 🤖) as:
+```
+ប្រភពស្វែងរកទីកន្លែង
+```
+
+
+## Translation Key: action_add_or_configure_search_source
+```
+Add or configure search source
+```
+translated (by machine 🤖) as:
+```
+បន្ថែមឬកំណត់រចនាសម្ព័ន្ធប្រភពស្វែងរក
+```
+
+
+## Translation Key: select_search_source
+```
+Select search source
+```
+translated (by machine 🤖) as:
+```
+ជ្រើសប្រភពស្វែងរក
+```
+
+
+## Translation Key: enter_value_for_field_x
+```
+Enter value for field "%s"
+```
+translated (by machine 🤖) as:
+```
+បញ្ចូលតម្លៃសម្រាប់វាល "%s"
+```
+
+
+## Translation Key: search_source_algolia
+```
+Algolia Places Search API
+```
+translated (by machine 🤖) as:
+```
+Algolia Places Search API
 ```
