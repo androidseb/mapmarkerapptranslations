@@ -5327,3 +5327,23 @@ translated (by machine 🤖) as:
 ```
 Algolia Places Search API
 ```
+
+
+## Translation Key: search_source_test_success_message
+```
+The search source configuration test succeeded! The search with this search source should now work.
+```
+translated (by machine 🤖) as:
+```
+ការធ្វើតេស្តការកំណត់រចនាសម្ព័ន្ធប្រភពស្វែងរកបានជោគជ័យ! ការស្វែងរកជាមួយប្រភពស្វែងរកនេះឥឡូវនេះគួរដំណើរការ។
+```
+
+
+## Translation Key: search_source_test_error_message
+```
+Warning: the search source configuration test failed. The search with this search source might not work.
+```
+translated (by machine 🤖) as:
+```
+ព្រមាន: ការសាកល្បងការកំណត់រចនាសម្ព័ន្ធប្រភពស្វែងរកបានបរាជ័យ។ ការស្វែងរកជាមួយប្រភពស្វែងរកនេះអាចមិនដំណើរការ។
+```

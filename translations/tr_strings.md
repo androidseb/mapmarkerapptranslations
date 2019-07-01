@@ -5327,3 +5327,23 @@ translated (by machine 🤖) as:
 ```
 Algolia Places Search API
 ```
+
+
+## Translation Key: search_source_test_success_message
+```
+The search source configuration test succeeded! The search with this search source should now work.
+```
+translated (by machine 🤖) as:
+```
+Arama kaynağı yapılandırma testi başarılı oldu! Bu arama kaynağındaki arama şimdi çalışmalıdır.
+```
+
+
+## Translation Key: search_source_test_error_message
+```
+Warning: the search source configuration test failed. The search with this search source might not work.
+```
+translated (by machine 🤖) as:
+```
+Uyarı: arama kaynağı yapılandırma testi başarısız oldu. Bu arama kaynağına sahip arama çalışmayabilir.
+```

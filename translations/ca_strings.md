@@ -5327,3 +5327,23 @@ translated (by machine 🤖) as:
 ```
 Algolia Places Search API
 ```
+
+
+## Translation Key: search_source_test_success_message
+```
+The search source configuration test succeeded! The search with this search source should now work.
+```
+translated (by machine 🤖) as:
+```
+La prova de configuració de la font de cerca va tenir èxit! La cerca amb aquesta font de cerca ara hauria de funcionar.
+```
+
+
+## Translation Key: search_source_test_error_message
+```
+Warning: the search source configuration test failed. The search with this search source might not work.
+```
+translated (by machine 🤖) as:
+```
+Avís: la prova de configuració de la font de cerca ha fallat. És possible que la cerca amb aquesta font de cerca no funcioni.
+```
