@@ -5328,6 +5328,16 @@ Algolia Places Search API
 ```
 
 
+## Translation Key: search_source_algolia_private
+```
+Algolia Places Search API (private)
+```
+translated (by machine 🤖) as:
+```
+Algolia Places Search API (zasebno)
+```
+
+
 ## Translation Key: search_source_test_success_message
 ```
 The search source configuration test succeeded! The search with this search source should now work.
