@@ -5318,23 +5318,23 @@ Vnesite vrednost za polje "%s"
 ```
 
 
-## Translation Key: search_source_algolia
+## Translation Key: search_source_algolia_public
 ```
-Algolia Places Search API
+Algolia Places Search API (daily limit)
 ```
 translated (by machine 🤖) as:
 ```
-Algolia Places Search API
+Algolia Places Search API (dnevna omejitev)
 ```
 
 
 ## Translation Key: search_source_algolia_private
 ```
-Algolia Places Search API (private)
+Algolia Places Search API (personal account)
 ```
 translated (by machine 🤖) as:
 ```
-Algolia Places Search API (zasebno)
+Algolia Places Search API (osebni račun)
 ```
 
 

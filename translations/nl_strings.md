@@ -5317,23 +5317,23 @@ Voer waarde in voor veld "%s"
 ```
 
 
-## Translation Key: search_source_algolia
+## Translation Key: search_source_algolia_public
 ```
-Algolia Places Search API
+Algolia Places Search API (daily limit)
 ```
 translated (by machine 🤖) as:
 ```
-Algolia Places Search API
+Algolia Places Search API (dagelijkse limiet)
 ```
 
 
 ## Translation Key: search_source_algolia_private
 ```
-Algolia Places Search API (private)
+Algolia Places Search API (personal account)
 ```
 translated (by machine 🤖) as:
 ```
-Algolia Places Search API (privé)
+Algolia Places Search API (persoonlijk account)
 ```
 
 

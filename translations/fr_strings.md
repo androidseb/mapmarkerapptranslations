@@ -5319,23 +5319,23 @@ Entrez la valeur pour le champs "%s"
 ```
 
 
-## Translation Key: search_source_algolia
+## Translation Key: search_source_algolia_public
 ```
-Algolia Places Search API
+Algolia Places Search API (daily limit)
 ```
 translated (by human 👀) as:
 ```
-API de recherche Algolia Places
+API de recherche Algolia Places (limite quotidienne)
 ```
 
 
 ## Translation Key: search_source_algolia_private
 ```
-Algolia Places Search API (private)
+Algolia Places Search API (personal account)
 ```
 translated (by human 👀) as:
 ```
-API de recherche Algolia Places (privée)
+API de recherche Algolia Places (compte personel)
 ```
 
 

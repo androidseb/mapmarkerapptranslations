@@ -5323,23 +5323,23 @@ Indtast værdi for felt "%s"
 ```
 
 
-## Translation Key: search_source_algolia
+## Translation Key: search_source_algolia_public
 ```
-Algolia Places Search API
+Algolia Places Search API (daily limit)
 ```
 translated (by machine 🤖) as:
 ```
-Algolia Places Search API
+Algolia Places Search API (daglig grænse)
 ```
 
 
 ## Translation Key: search_source_algolia_private
 ```
-Algolia Places Search API (private)
+Algolia Places Search API (personal account)
 ```
 translated (by machine 🤖) as:
 ```
-Algolia Places Search API (privat)
+Algolia Places Search API (personlig konto)
 ```
 
 

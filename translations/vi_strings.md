@@ -5319,23 +5319,23 @@ Nhập giá trị cho trường "%s"
 ```
 
 
-## Translation Key: search_source_algolia
+## Translation Key: search_source_algolia_public
 ```
-Algolia Places Search API
+Algolia Places Search API (daily limit)
 ```
 translated (by machine 🤖) as:
 ```
-Algolia Places Search API
+Algolia Places Search API (giới hạn hàng ngày)
 ```
 
 
 ## Translation Key: search_source_algolia_private
 ```
-Algolia Places Search API (private)
+Algolia Places Search API (personal account)
 ```
 translated (by machine 🤖) as:
 ```
-Algolia Places Search API (riêng tư)
+Algolia Places Search API (tài khoản cá nhân)
 ```
 
 
