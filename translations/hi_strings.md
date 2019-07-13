@@ -5357,3 +5357,63 @@ translated (by machine 🤖) as:
 ```
 चेतावनी: खोज स्रोत कॉन्फ़िगरेशन परीक्षण विफल हुआ। इस खोज स्रोत के साथ खोज कार्य नहीं कर सकता है।
 ```
+
+
+## Translation Key: short_search_source_gps
+```
+Google Places Search
+```
+translated (by machine 🤖) as:
+```
+Google Places Search
+```
+
+
+## Translation Key: short_search_source_here
+```
+HERE
+```
+translated (by machine 🤖) as:
+```
+HERE
+```
+
+
+## Translation Key: short_search_source_ntim
+```
+Nominatim
+```
+translated (by machine 🤖) as:
+```
+Nominatim
+```
+
+
+## Translation Key: short_search_source_pelias
+```
+Pelias
+```
+translated (by machine 🤖) as:
+```
+Pelias
+```
+
+
+## Translation Key: short_search_source_algolia_public
+```
+Algolia (public)
+```
+translated (by machine 🤖) as:
+```
+Algolia (public)
+```
+
+
+## Translation Key: short_search_source_algolia_private
+```
+Algolia (private)
+```
+translated (by machine 🤖) as:
+```
+Algolia (private)
+```

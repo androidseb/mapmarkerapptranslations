@@ -5357,3 +5357,63 @@ translated (by machine 🤖) as:
 ```
 경고 : 검색 소스 구성 테스트가 실패했습니다. 이 검색 소스를 사용한 검색이 작동하지 않을 수 있습니다.
 ```
+
+
+## Translation Key: short_search_source_gps
+```
+Google Places Search
+```
+translated (by machine 🤖) as:
+```
+Google Places Search
+```
+
+
+## Translation Key: short_search_source_here
+```
+HERE
+```
+translated (by machine 🤖) as:
+```
+HERE
+```
+
+
+## Translation Key: short_search_source_ntim
+```
+Nominatim
+```
+translated (by machine 🤖) as:
+```
+Nominatim
+```
+
+
+## Translation Key: short_search_source_pelias
+```
+Pelias
+```
+translated (by machine 🤖) as:
+```
+Pelias
+```
+
+
+## Translation Key: short_search_source_algolia_public
+```
+Algolia (public)
+```
+translated (by machine 🤖) as:
+```
+Algolia (public)
+```
+
+
+## Translation Key: short_search_source_algolia_private
+```
+Algolia (private)
+```
+translated (by machine 🤖) as:
+```
+Algolia (private)
+```
