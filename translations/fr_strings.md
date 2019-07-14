@@ -4571,7 +4571,7 @@ J'espère que vous aimez l'application et que vous la trouvez utile. L'applicati
 
 Si vous aimez l'application, merci de la soutenir : vous n'avez pas à dépenser d'argent pour cela, chacun de ces gestes peut aider:
 - parler de l'application aux gens autour de vous
-- noter l'application pour la recommander sur Google Play
+- noter l'application pour la recommander sur le store
 - acheter la mise à niveau premium (enlèvera la bannière du bas)
 
 Si vous n'aimez pas l'application, écrivez-moi un courriel (dans la section "à propos") et dites-moi comment je peux l'améliorer. Je suis arrivé jusque ici grâce aux commentaires de nombreux utilisateurs qui m'ont dit ce qu'ils voulaient, et je lis tous les courriels, alors ne soyez pas timides !
