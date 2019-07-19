@@ -1063,7 +1063,7 @@ Marker instant adding mode
 ```
 translated (by human 👀) as:
 ```
-Neuen Marker durch Drücken auf die Karte erstellen
+Drücken Sie lange auf die Karte um einen neuen Marker zu erstellen
 ```
 
 
@@ -3523,7 +3523,7 @@ Show warning icon for sync
 ```
 translated (by human 👀) as:
 ```
-Zeigen Warnsymbol für die Synchronisation
+Warnsymbol für die Synchronisation zeigen
 ```
 
 
