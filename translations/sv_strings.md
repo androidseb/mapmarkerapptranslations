@@ -5259,16 +5259,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: places_search_sources_config_how_to_title
-```
-Places search sources tutorial
-```
-translated (by machine 🤖) as:
-```
-Platser Sökkällor handledning
-```
-
-
 ## Translation Key: places_search_sources_config_how_to_description
 ```
 Wondering how to configure search sources? Click here.
@@ -5416,4 +5406,36 @@ Algolia (private)
 translated (by machine 🤖) as:
 ```
 Algolia (private)
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title2
+```
+Tutorial
+```
+translated (by machine 🤖) as:
+```
+Handledning
+```
+
+
+## Translation Key: search_source_disclaimer_text
+```
+The default search experience is not optimal, but it works without configuration.
+
+If you use search a lot, it is strongly recommended to configure a third party search source to benefit from better search results.
+
+It should only take a little bit of your time and will allow you to benefit from much better search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+Standard sökupplevelsen är inte optimal, men den fungerar utan konfiguration.
+
+Om du använder en sökning mycket rekommenderas starkt att konfigurera en tredjeparts sökkälla för att få bättre sökresultat.
+
+Det bör bara ta lite av din tid och gör att du kan dra nytta av mycket bättre sökresultat gratis.
+
+Klicka på "Ändra källa" -knappen och sedan "Alternativ" för att lära dig mer.
 ```

@@ -5259,16 +5259,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: places_search_sources_config_how_to_title
-```
-Places search sources tutorial
-```
-translated (by machine 🤖) as:
-```
-지역 정보 검색 자습서
-```
-
-
 ## Translation Key: places_search_sources_config_how_to_description
 ```
 Wondering how to configure search sources? Click here.
@@ -5416,4 +5406,36 @@ Algolia (private)
 translated (by machine 🤖) as:
 ```
 Algolia (private)
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title2
+```
+Tutorial
+```
+translated (by machine 🤖) as:
+```
+지도 시간
+```
+
+
+## Translation Key: search_source_disclaimer_text
+```
+The default search experience is not optimal, but it works without configuration.
+
+If you use search a lot, it is strongly recommended to configure a third party search source to benefit from better search results.
+
+It should only take a little bit of your time and will allow you to benefit from much better search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+기본 검색 환경은 최적이 아니지만 구성없이 작동합니다.
+
+검색을 많이 사용하는 경우 더 나은 검색 결과를 얻으려면 타사 검색 소스를 구성하는 것이 좋습니다.
+
+시간이 조금 걸릴뿐 아니라 더 나은 검색 결과를 무료로 얻을 수 있습니다.
+
+자세한 내용을 보려면 "소스 변경"버튼을 클릭 한 다음 "자습서"옵션을 클릭하십시오.
 ```

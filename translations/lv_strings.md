@@ -5259,16 +5259,6 @@ Mainīt avotu
 ```
 
 
-## Translation Key: places_search_sources_config_how_to_title
-```
-Places search sources tutorial
-```
-translated (by machine 🤖) as:
-```
-Vietu meklēšanas avotu apmācība
-```
-
-
 ## Translation Key: places_search_sources_config_how_to_description
 ```
 Wondering how to configure search sources? Click here.
@@ -5416,4 +5406,36 @@ Algolia (private)
 translated (by machine 🤖) as:
 ```
 Algolia (private)
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title2
+```
+Tutorial
+```
+translated (by machine 🤖) as:
+```
+Apmācība
+```
+
+
+## Translation Key: search_source_disclaimer_text
+```
+The default search experience is not optimal, but it works without configuration.
+
+If you use search a lot, it is strongly recommended to configure a third party search source to benefit from better search results.
+
+It should only take a little bit of your time and will allow you to benefit from much better search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+Noklusējuma meklēšanas pieredze nav optimāla, bet tā darbojas bez konfigurācijas.
+
+Ja izmantojat meklēšanu, ir ļoti ieteicams konfigurēt trešās puses meklēšanas avotu, lai gūtu labumu no labākiem meklēšanas rezultātiem.
+
+Tam vajadzētu būt tikai nedaudz laika un ļaus jums izmantot daudz labākus meklēšanas rezultātus bez maksas.
+
+Lai uzzinātu vairāk, noklikšķiniet uz pogas "Mainīt avotu" un pēc tam opciju "Tutorial".
 ```

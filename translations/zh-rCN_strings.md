@@ -5259,16 +5259,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: places_search_sources_config_how_to_title
-```
-Places search sources tutorial
-```
-translated (by machine 🤖) as:
-```
-放置搜索源教程
-```
-
-
 ## Translation Key: places_search_sources_config_how_to_description
 ```
 Wondering how to configure search sources? Click here.
@@ -5416,4 +5406,36 @@ Algolia (private)
 translated (by machine 🤖) as:
 ```
 Algolia (private)
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title2
+```
+Tutorial
+```
+translated (by machine 🤖) as:
+```
+教程
+```
+
+
+## Translation Key: search_source_disclaimer_text
+```
+The default search experience is not optimal, but it works without configuration.
+
+If you use search a lot, it is strongly recommended to configure a third party search source to benefit from better search results.
+
+It should only take a little bit of your time and will allow you to benefit from much better search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+默认搜索体验不是最佳，但无需配置即可运行。
+
+如果您经常使用搜索，强烈建议您配置第三方搜索源，以便从更好的搜索结果中受益。
+
+它应该只花一点时间，让您免费获得更好的搜索结果。
+
+单击“更改源”按钮，然后单击“教程”选项以了解更多信息。
 ```

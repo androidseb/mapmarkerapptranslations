@@ -5259,16 +5259,6 @@ Quelle ändern
 ```
 
 
-## Translation Key: places_search_sources_config_how_to_title
-```
-Places search sources tutorial
-```
-translated (by machine 🤖) as:
-```
-Lernprogramm für die Suche nach Orten
-```
-
-
 ## Translation Key: places_search_sources_config_how_to_description
 ```
 Wondering how to configure search sources? Click here.
@@ -5416,4 +5406,36 @@ Algolia (private)
 translated (by machine 🤖) as:
 ```
 Algolia (private)
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title2
+```
+Tutorial
+```
+translated (by machine 🤖) as:
+```
+Tutorial
+```
+
+
+## Translation Key: search_source_disclaimer_text
+```
+The default search experience is not optimal, but it works without configuration.
+
+If you use search a lot, it is strongly recommended to configure a third party search source to benefit from better search results.
+
+It should only take a little bit of your time and will allow you to benefit from much better search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+Die Standardsuchfunktion ist nicht optimal, funktioniert jedoch ohne Konfiguration.
+
+Wenn Sie die Suche häufig verwenden, wird dringend empfohlen, eine Suchquelle eines Drittanbieters zu konfigurieren, um von besseren Suchergebnissen zu profitieren.
+
+Dies sollte nur einen kleinen Teil Ihrer Zeit in Anspruch nehmen und es Ihnen ermöglichen, kostenlos von viel besseren Suchergebnissen zu profitieren.
+
+Klicken Sie auf die Schaltfläche "Quelle ändern" und dann auf die Option "Lernprogramm", um weitere Informationen zu erhalten.
 ```

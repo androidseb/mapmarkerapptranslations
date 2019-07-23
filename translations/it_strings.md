@@ -5259,16 +5259,6 @@ Cambia sorgente
 ```
 
 
-## Translation Key: places_search_sources_config_how_to_title
-```
-Places search sources tutorial
-```
-translated (by machine 🤖) as:
-```
-Luoghi di ricerca fonti di tutorial
-```
-
-
 ## Translation Key: places_search_sources_config_how_to_description
 ```
 Wondering how to configure search sources? Click here.
@@ -5416,4 +5406,36 @@ Algolia (private)
 translated (by machine 🤖) as:
 ```
 Algolia (private)
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title2
+```
+Tutorial
+```
+translated (by machine 🤖) as:
+```
+lezione
+```
+
+
+## Translation Key: search_source_disclaimer_text
+```
+The default search experience is not optimal, but it works without configuration.
+
+If you use search a lot, it is strongly recommended to configure a third party search source to benefit from better search results.
+
+It should only take a little bit of your time and will allow you to benefit from much better search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+L'esperienza di ricerca predefinita non è ottimale, ma funziona senza configurazione.
+
+Se si utilizza molto la ricerca, si consiglia vivamente di configurare una fonte di ricerca di terze parti per beneficiare di risultati di ricerca migliori.
+
+Dovrebbe richiedere solo un po 'del tuo tempo e ti permetterà di beneficiare gratuitamente di risultati di ricerca molto migliori.
+
+Fai clic sul pulsante "Cambia sorgente" e quindi sull'opzione "Tutorial" per saperne di più.
 ```

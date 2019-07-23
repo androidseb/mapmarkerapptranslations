@@ -5259,16 +5259,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: places_search_sources_config_how_to_title
-```
-Places search sources tutorial
-```
-translated (by machine 🤖) as:
-```
-स्थान खोज सूत्र ट्यूटोरियल
-```
-
-
 ## Translation Key: places_search_sources_config_how_to_description
 ```
 Wondering how to configure search sources? Click here.
@@ -5416,4 +5406,36 @@ Algolia (private)
 translated (by machine 🤖) as:
 ```
 Algolia (private)
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title2
+```
+Tutorial
+```
+translated (by machine 🤖) as:
+```
+ट्यूटोरियल
+```
+
+
+## Translation Key: search_source_disclaimer_text
+```
+The default search experience is not optimal, but it works without configuration.
+
+If you use search a lot, it is strongly recommended to configure a third party search source to benefit from better search results.
+
+It should only take a little bit of your time and will allow you to benefit from much better search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+डिफ़ॉल्ट खोज अनुभव इष्टतम नहीं है, लेकिन यह कॉन्फ़िगरेशन के बिना काम करता है।
+
+यदि आप खोज का उपयोग करते हैं, तो बेहतर खोज परिणामों से लाभ के लिए तीसरे पक्ष के खोज स्रोत को कॉन्फ़िगर करने की दृढ़ता से अनुशंसा की जाती है।
+
+यह केवल आपका थोड़ा सा समय लेना चाहिए और आपको मुफ्त में बहुत बेहतर खोज परिणामों से लाभान्वित करने की अनुमति देगा।
+
+"स्रोत बदलें" बटन पर क्लिक करें और फिर अधिक जानने के लिए "ट्यूटोरियल" विकल्प।
 ```

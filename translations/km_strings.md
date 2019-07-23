@@ -5259,16 +5259,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: places_search_sources_config_how_to_title
-```
-Places search sources tutorial
-```
-translated (by machine 🤖) as:
-```
-ការណែនាំប្រភពស្វែងរកទីកន្លែង
-```
-
-
 ## Translation Key: places_search_sources_config_how_to_description
 ```
 Wondering how to configure search sources? Click here.
@@ -5416,4 +5406,36 @@ Algolia (private)
 translated (by machine 🤖) as:
 ```
 Algolia (private)
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title2
+```
+Tutorial
+```
+translated (by machine 🤖) as:
+```
+ការបង្រៀន
+```
+
+
+## Translation Key: search_source_disclaimer_text
+```
+The default search experience is not optimal, but it works without configuration.
+
+If you use search a lot, it is strongly recommended to configure a third party search source to benefit from better search results.
+
+It should only take a little bit of your time and will allow you to benefit from much better search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+បទពិសោធស្វែងរកលំនាំដើមមិនល្អប្រសើរទេប៉ុន្តែវាដំណើរការដោយគ្មានការកំណត់រចនាសម្ព័ន្ធ។
+
+ប្រសិនបើអ្នកប្រើការស្វែងរកច្រើនវាត្រូវបានណែនាំឱ្យកំណត់រចនាសម្ព័ន្ធប្រភពស្វែងរកភាគីទីបីដើម្បីទទួលបានអត្ថប្រយោជន៍ពីលទ្ធផលស្វែងរកប្រសើរជាងមុន។
+
+វាគួរតែយកពេលវេលាតិចតួចរបស់អ្នកហើយនឹងអនុញ្ញាតឱ្យអ្នកទទួលបានផលប្រយោជន៍ពីលទ្ធផលស្វែងរកល្អប្រសើរជាងមុនដោយឥតគិតថ្លៃ។
+
+ចុចលើ "ប្តូរប្រភព" ប៊ូតុងហើយបន្ទាប់មកជម្រើស "ការបង្រៀន" ដើម្បីរៀនបន្ថែមទៀត។
 ```

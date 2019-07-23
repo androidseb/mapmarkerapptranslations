@@ -5259,16 +5259,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: places_search_sources_config_how_to_title
-```
-Places search sources tutorial
-```
-translated (by machine 🤖) as:
-```
-Водич за изворе претраживања локација
-```
-
-
 ## Translation Key: places_search_sources_config_how_to_description
 ```
 Wondering how to configure search sources? Click here.
@@ -5416,4 +5406,36 @@ Algolia (private)
 translated (by machine 🤖) as:
 ```
 Algolia (private)
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title2
+```
+Tutorial
+```
+translated (by machine 🤖) as:
+```
+Приручник
+```
+
+
+## Translation Key: search_source_disclaimer_text
+```
+The default search experience is not optimal, but it works without configuration.
+
+If you use search a lot, it is strongly recommended to configure a third party search source to benefit from better search results.
+
+It should only take a little bit of your time and will allow you to benefit from much better search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+Подразумевано искуство претраживања није оптимално, али функционише без конфигурације.
+
+Ако често користите претрагу, препоручује се да конфигуришете извор за претраживање треће стране како бисте имали користи од бољих резултата претраживања.
+
+Требало би да вам одузме мало времена и омогућиће вам да бесплатно искористите много боље резултате претраживања.
+
+Кликните на дугме "Промени извор", а затим на опцију "Водич" да бисте сазнали више.
 ```

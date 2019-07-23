@@ -5259,16 +5259,6 @@ Endre kilde
 ```
 
 
-## Translation Key: places_search_sources_config_how_to_title
-```
-Places search sources tutorial
-```
-translated (by machine 🤖) as:
-```
-Steder søk kilder opplæring
-```
-
-
 ## Translation Key: places_search_sources_config_how_to_description
 ```
 Wondering how to configure search sources? Click here.
@@ -5416,4 +5406,36 @@ Algolia (private)
 translated (by machine 🤖) as:
 ```
 Algolia (private)
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title2
+```
+Tutorial
+```
+translated (by machine 🤖) as:
+```
+Opplæringen
+```
+
+
+## Translation Key: search_source_disclaimer_text
+```
+The default search experience is not optimal, but it works without configuration.
+
+If you use search a lot, it is strongly recommended to configure a third party search source to benefit from better search results.
+
+It should only take a little bit of your time and will allow you to benefit from much better search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+Standard søkeopplevelse er ikke optimal, men den fungerer uten konfigurasjon.
+
+Hvis du bruker søk mye, anbefales det på det sterkeste å konfigurere en tredjeparts søkekilde for å dra nytte av bedre søkeresultater.
+
+Det bør bare ta litt av tiden din, og vil tillate deg å dra nytte av mye bedre søkeresultater gratis.
+
+Klikk på "Endre kilde" -knappen og deretter "Opplæring" -alternativet for å lære mer.
 ```

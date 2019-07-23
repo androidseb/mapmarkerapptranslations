@@ -5260,16 +5260,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: places_search_sources_config_how_to_title
-```
-Places search sources tutorial
-```
-translated (by machine 🤖) as:
-```
-場所検索ソースのチュートリアル
-```
-
-
 ## Translation Key: places_search_sources_config_how_to_description
 ```
 Wondering how to configure search sources? Click here.
@@ -5417,4 +5407,36 @@ Algolia (private)
 translated (by machine 🤖) as:
 ```
 Algolia (private)
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title2
+```
+Tutorial
+```
+translated (by machine 🤖) as:
+```
+チュートリアル
+```
+
+
+## Translation Key: search_source_disclaimer_text
+```
+The default search experience is not optimal, but it works without configuration.
+
+If you use search a lot, it is strongly recommended to configure a third party search source to benefit from better search results.
+
+It should only take a little bit of your time and will allow you to benefit from much better search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+デフォルトの検索エクスペリエンスは最適ではありませんが、設定がなくても機能します。
+
+検索を頻繁に使用する場合は、より良い検索結果を得るためにサードパーティの検索ソースを設定することを強くお勧めします。
+
+それはあなたの時間のほんの少しかかるだけであり、あなたが無料でずっと良い検索結果から利益を得ることを可能にするでしょう。
+
+詳細については、「ソースの変更」ボタンをクリックしてから「チュートリアル」オプションをクリックしてください。
 ```

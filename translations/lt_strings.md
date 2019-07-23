@@ -5258,16 +5258,6 @@ Keisti šaltinį
 ```
 
 
-## Translation Key: places_search_sources_config_how_to_title
-```
-Places search sources tutorial
-```
-translated (by machine 🤖) as:
-```
-Vietų paieškos šaltinių pamoka
-```
-
-
 ## Translation Key: places_search_sources_config_how_to_description
 ```
 Wondering how to configure search sources? Click here.
@@ -5415,4 +5405,36 @@ Algolia (private)
 translated (by machine 🤖) as:
 ```
 Algolia (private)
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title2
+```
+Tutorial
+```
+translated (by machine 🤖) as:
+```
+Pamoka
+```
+
+
+## Translation Key: search_source_disclaimer_text
+```
+The default search experience is not optimal, but it works without configuration.
+
+If you use search a lot, it is strongly recommended to configure a third party search source to benefit from better search results.
+
+It should only take a little bit of your time and will allow you to benefit from much better search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+Numatytoji paieškos patirtis nėra optimali, tačiau ji veikia be konfigūracijos.
+
+Jei naudojate daug paieškos, labai rekomenduojama konfigūruoti trečiosios šalies paieškos šaltinį, kad galėtumėte gauti geresnių paieškos rezultatų.
+
+Tai turėtų užtrukti šiek tiek laiko ir leis jums gauti daug geresnių paieškos rezultatų nemokamai.
+
+Jei norite sužinoti daugiau, spustelėkite mygtuką „Keisti šaltinį“ ir tada „Parinktys“.
 ```

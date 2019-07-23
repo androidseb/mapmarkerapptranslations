@@ -5259,16 +5259,6 @@ Schimbați sursa
 ```
 
 
-## Translation Key: places_search_sources_config_how_to_title
-```
-Places search sources tutorial
-```
-translated (by machine 🤖) as:
-```
-Instrumente pentru sursele de căutare în locații
-```
-
-
 ## Translation Key: places_search_sources_config_how_to_description
 ```
 Wondering how to configure search sources? Click here.
@@ -5416,4 +5406,36 @@ Algolia (private)
 translated (by machine 🤖) as:
 ```
 Algolia (private)
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title2
+```
+Tutorial
+```
+translated (by machine 🤖) as:
+```
+Tutorial
+```
+
+
+## Translation Key: search_source_disclaimer_text
+```
+The default search experience is not optimal, but it works without configuration.
+
+If you use search a lot, it is strongly recommended to configure a third party search source to benefit from better search results.
+
+It should only take a little bit of your time and will allow you to benefit from much better search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+Experiența implicită de căutare nu este optimă, dar funcționează fără configurare.
+
+Dacă utilizați o căutare foarte mult, este recomandat să configurați o sursă de căutare terță parte pentru a beneficia de rezultate mai bune de căutare.
+
+Acesta ar trebui să ia doar puțin din timpul dvs. și vă va permite să beneficiați de rezultate mult mai bune de căutare gratuit.
+
+Faceți clic pe butonul "Schimbare sursă" și apoi pe opțiunea "Tutorial" pentru a afla mai multe.
 ```

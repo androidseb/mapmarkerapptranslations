@@ -5259,16 +5259,6 @@ Vaihda lähde
 ```
 
 
-## Translation Key: places_search_sources_config_how_to_title
-```
-Places search sources tutorial
-```
-translated (by machine 🤖) as:
-```
-Paikkojen hakulähteiden opetusohjelma
-```
-
-
 ## Translation Key: places_search_sources_config_how_to_description
 ```
 Wondering how to configure search sources? Click here.
@@ -5416,4 +5406,36 @@ Algolia (private)
 translated (by machine 🤖) as:
 ```
 Algolia (private)
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title2
+```
+Tutorial
+```
+translated (by machine 🤖) as:
+```
+oppitunti
+```
+
+
+## Translation Key: search_source_disclaimer_text
+```
+The default search experience is not optimal, but it works without configuration.
+
+If you use search a lot, it is strongly recommended to configure a third party search source to benefit from better search results.
+
+It should only take a little bit of your time and will allow you to benefit from much better search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+Oletushakukokemus ei ole optimaalinen, mutta se toimii ilman konfigurointia.
+
+Jos käytät hakua paljon, on erittäin suositeltavaa määrittää kolmannen osapuolen hakulähde hyötymään paremmista hakutuloksista.
+
+Sen pitäisi kestää vain vähän aikaa ja antaa sinulle mahdollisuuden hyötyä paljon paremmista hakutuloksista ilmaiseksi.
+
+Klikkaa "Muuta lähdettä" -painiketta ja sitten "Opetusohjelma" -vaihtoehtoa saadaksesi lisätietoja.
 ```

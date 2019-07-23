@@ -5259,16 +5259,6 @@ Thay đổi nguồn
 ```
 
 
-## Translation Key: places_search_sources_config_how_to_title
-```
-Places search sources tutorial
-```
-translated (by machine 🤖) as:
-```
-Hướng dẫn tìm kiếm địa điểm
-```
-
-
 ## Translation Key: places_search_sources_config_how_to_description
 ```
 Wondering how to configure search sources? Click here.
@@ -5416,4 +5406,36 @@ Algolia (private)
 translated (by machine 🤖) as:
 ```
 Algolia (private)
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title2
+```
+Tutorial
+```
+translated (by machine 🤖) as:
+```
+Hướng dẫn
+```
+
+
+## Translation Key: search_source_disclaimer_text
+```
+The default search experience is not optimal, but it works without configuration.
+
+If you use search a lot, it is strongly recommended to configure a third party search source to benefit from better search results.
+
+It should only take a little bit of your time and will allow you to benefit from much better search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+Trải nghiệm tìm kiếm mặc định không tối ưu, nhưng nó hoạt động mà không cần cấu hình.
+
+Nếu bạn sử dụng tìm kiếm nhiều, chúng tôi khuyên bạn nên định cấu hình nguồn tìm kiếm của bên thứ ba để hưởng lợi từ kết quả tìm kiếm tốt hơn.
+
+Nó chỉ nên mất một chút thời gian của bạn và sẽ cho phép bạn được hưởng lợi từ kết quả tìm kiếm tốt hơn nhiều miễn phí.
+
+Nhấp vào nút "Thay đổi nguồn" và sau đó tùy chọn "Hướng dẫn" để tìm hiểu thêm.
 ```

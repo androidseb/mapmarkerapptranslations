@@ -5259,16 +5259,6 @@ Zmeniť zdroj
 ```
 
 
-## Translation Key: places_search_sources_config_how_to_title
-```
-Places search sources tutorial
-```
-translated (by machine 🤖) as:
-```
-Sprievodca zdrojmi miest služby Miesta
-```
-
-
 ## Translation Key: places_search_sources_config_how_to_description
 ```
 Wondering how to configure search sources? Click here.
@@ -5416,4 +5406,36 @@ Algolia (private)
 translated (by machine 🤖) as:
 ```
 Algolia (private)
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title2
+```
+Tutorial
+```
+translated (by machine 🤖) as:
+```
+cvičenie
+```
+
+
+## Translation Key: search_source_disclaimer_text
+```
+The default search experience is not optimal, but it works without configuration.
+
+If you use search a lot, it is strongly recommended to configure a third party search source to benefit from better search results.
+
+It should only take a little bit of your time and will allow you to benefit from much better search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+Predvolené vyhľadávanie nie je optimálne, ale funguje bez konfigurácie.
+
+Ak často používate vyhľadávanie, dôrazne sa odporúča nakonfigurovať zdroj vyhľadávania tretej strany, aby využíval lepšie výsledky vyhľadávania.
+
+Malo by to trvať iba trochu času a umožní vám bezplatne využívať oveľa lepšie výsledky vyhľadávania.
+
+Ak sa chcete dozvedieť viac, kliknite na tlačidlo „Zmeniť zdroj“ a potom na možnosť „Výukový program“.
 ```

@@ -5259,16 +5259,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: places_search_sources_config_how_to_title
-```
-Places search sources tutorial
-```
-translated (by machine 🤖) as:
-```
-מקורות חיפוש של מקורות חיפוש
-```
-
-
 ## Translation Key: places_search_sources_config_how_to_description
 ```
 Wondering how to configure search sources? Click here.
@@ -5416,4 +5406,36 @@ Algolia (private)
 translated (by machine 🤖) as:
 ```
 Algolia (private)
+```
+
+
+## Translation Key: places_search_sources_config_how_to_title2
+```
+Tutorial
+```
+translated (by machine 🤖) as:
+```
+הדרכה
+```
+
+
+## Translation Key: search_source_disclaimer_text
+```
+The default search experience is not optimal, but it works without configuration.
+
+If you use search a lot, it is strongly recommended to configure a third party search source to benefit from better search results.
+
+It should only take a little bit of your time and will allow you to benefit from much better search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+חוויית החיפוש המוגדרת כברירת מחדל אינה אופטימלית, אך היא פועלת ללא תצורה.
+
+אם אתה משתמש בחיפוש רב, מומלץ בחום להגדיר תצורה של מקור חיפוש של צד שלישי כדי ליהנות מתוצאות חיפוש טובות יותר.
+
+זה צריך לקחת רק קצת מזמנך ויאפשר לך ליהנות מתוצאות חיפוש טובות בהרבה בחינם.
+
+לחץ על כפתור "שנה מקור" ואז על האפשרות "הדרכה" למידע נוסף.
 ```
