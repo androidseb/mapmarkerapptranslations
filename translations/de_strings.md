@@ -1061,9 +1061,9 @@ Länge:
 ```
 Marker instant adding mode
 ```
-translated (by human 👀) as:
+translated (by machine 🤖) as:
 ```
-Drücken Sie lange auf die Karte um einen neuen Marker zu erstellen
+Sofortiger Modus zum Hinzufügen von Markern
 ```
 
 

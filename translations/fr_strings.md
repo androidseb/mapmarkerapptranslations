@@ -5431,11 +5431,11 @@ Click the "Change source" button and then the "Tutorial" option to learn more.
 ```
 translated (by machine 🤖) as:
 ```
-The default search experience is not optimal, but it works without configuration.
+L'expérience par défaut de la recherche n'est pas optimale, mais elle fonctionne sans configuration.
 
-If you use search a lot, it is strongly recommended to configure a third party search source to benefit from better search results.
+Si vous utilisez beaucoup la recherche, il est fortement recommandé de configurer une source de recherche tierce-partie pour bénéficier de meilleurs résultats de recherche.
 
-It should only take a little bit of your time and will allow you to benefit from much better search results for free.
+Cela ne devrait prendre qu'un peu de temps et vous permettra de bénéficier de bien meilleurs résultats de recherche gratuitement.
 
-Click the "Change source" button and then the "Tutorial" option to learn more.
+Cliquez le bouton "Changer source", puis l'option "Tutorial" pour en apprendre plus.
 ```
