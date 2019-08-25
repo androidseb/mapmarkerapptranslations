@@ -3267,6 +3267,116 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: uoa_metric_option_hint
+```
+m²/a/ha/km²
+```
+translated (by machine 🤖) as:
+```
+_៤៦
+```
+
+
+## Translation Key: uoa_imperial_option_hint
+```
+Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
+```
+translated (by machine 🤖) as:
+```
+_៤៧
+```
+
+
+## Translation Key: uoa_square_meter_abreviation
+```
+m²
+```
+translated (by machine 🤖) as:
+```
+_៤៨
+```
+
+
+## Translation Key: uoa_are_abreviation
+```
+a
+```
+translated (by machine 🤖) as:
+```
+_៤៩
+```
+
+
+## Translation Key: uoa_hectare_abreviation
+```
+ha
+```
+translated (by machine 🤖) as:
+```
+h_៤៩
+```
+
+
+## Translation Key: uoa_square_kilometer_abreviation
+```
+km²
+```
+translated (by machine 🤖) as:
+```
+k_៤៨
+```
+
+
+## Translation Key: uoa_square_yard_abreviation
+```
+Square yard
+```
+translated (by machine 🤖) as:
+```
+Square yard ។
+```
+
+
+## Translation Key: uoa_square_rod_abreviation
+```
+rd²
+```
+translated (by machine 🤖) as:
+```
+_៥៣
+```
+
+
+## Translation Key: uoa_acre_abreviation
+```
+Acre
+```
+translated (by machine 🤖) as:
+```
+_៥៤
+```
+
+
+## Translation Key: uoa_township_abreviation
+```
+Township
+```
+translated (by machine 🤖) as:
+```
+_៥៥
+```
+
+
+## Translation Key: uoa_square_mile_abreviation
+```
+mi²
+```
+translated (by machine 🤖) as:
+```
+_៥៦
+```
+
+
 ## Translation Key: images
 ```
 Images

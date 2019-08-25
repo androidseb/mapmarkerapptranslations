@@ -3267,6 +3267,116 @@ Imperial ( %s )
 ```
 
 
+## Translation Key: uoa_metric_option_hint
+```
+m²/a/ha/km²
+```
+translated (by machine 🤖) as:
+```
+m²/a/ha/km²
+```
+
+
+## Translation Key: uoa_imperial_option_hint
+```
+Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
+```
+translated (by machine 🤖) as:
+```
+Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
+```
+
+
+## Translation Key: uoa_square_meter_abreviation
+```
+m²
+```
+translated (by machine 🤖) as:
+```
+m²
+```
+
+
+## Translation Key: uoa_are_abreviation
+```
+a
+```
+translated (by machine 🤖) as:
+```
+a
+```
+
+
+## Translation Key: uoa_hectare_abreviation
+```
+ha
+```
+translated (by machine 🤖) as:
+```
+ha
+```
+
+
+## Translation Key: uoa_square_kilometer_abreviation
+```
+km²
+```
+translated (by machine 🤖) as:
+```
+km²
+```
+
+
+## Translation Key: uoa_square_yard_abreviation
+```
+Square yard
+```
+translated (by machine 🤖) as:
+```
+Square Instagram Hesabındaki Resim ve Videoları yard
+```
+
+
+## Translation Key: uoa_square_rod_abreviation
+```
+rd²
+```
+translated (by machine 🤖) as:
+```
+rd²
+```
+
+
+## Translation Key: uoa_acre_abreviation
+```
+Acre
+```
+translated (by machine 🤖) as:
+```
+Acre
+```
+
+
+## Translation Key: uoa_township_abreviation
+```
+Township
+```
+translated (by machine 🤖) as:
+```
+Township
+```
+
+
+## Translation Key: uoa_square_mile_abreviation
+```
+mi²
+```
+translated (by machine 🤖) as:
+```
+mi²
+```
+
+
 ## Translation Key: images
 ```
 Images
