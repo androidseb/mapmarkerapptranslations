@@ -5549,3 +5549,43 @@ translated (by machine 🤖) as:
 
 انقر فوق الزر "تغيير المصدر" ثم خيار "البرنامج التعليمي" لمعرفة المزيد.
 ```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated Android Street Addresses Finder
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by machine 🤖) as:
+```
+Android Geocoder
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated مكتشف عناوين شارع iOS
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by machine 🤖) as:
+```
+دائرة الرقابة الداخلية الجغرافية
+```

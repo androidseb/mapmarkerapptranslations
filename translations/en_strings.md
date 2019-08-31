@@ -5549,3 +5549,43 @@ It should only take a little bit of your time and will allow you to benefit from
 
 Click the "Change source" button and then the "Tutorial" option to learn more.
 ```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated Android Street Addresses Finder
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by machine 🤖) as:
+```
+Android Geocoder
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated iOS Street Addresses Finder
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by machine 🤖) as:
+```
+iOS Geocoder
+```

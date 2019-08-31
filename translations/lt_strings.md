@@ -5548,3 +5548,43 @@ Tai turėtų užtrukti šiek tiek laiko ir leis jums gauti daug geresnių paieš
 
 Jei norite sužinoti daugiau, spustelėkite mygtuką „Keisti šaltinį“ ir tada „Parinktys“.
 ```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integra „Android“ gatvių adresų ieškiklis
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by machine 🤖) as:
+```
+„Android Geocoder“
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+„Integrated iOS“ gatvių adresų ieškiklis
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by machine 🤖) as:
+```
+„iOS Geocoder“
+```

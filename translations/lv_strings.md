@@ -5549,3 +5549,43 @@ Tam vajadzētu būt tikai nedaudz laika un ļaus jums izmantot daudz labākus me
 
 Lai uzzinātu vairāk, noklikšķiniet uz pogas "Mainīt avotu" un pēc tam opciju "Tutorial".
 ```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integra: Android ielas adrešu meklētājs
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by machine 🤖) as:
+```
+Android ģeocoderis
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated iOS Street Adres Finder
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by machine 🤖) as:
+```
+iOS Geocoder
+```

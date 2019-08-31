@@ -5463,9 +5463,9 @@ Attention : le test de la configuration de la source de recherche a échoué. La
 ```
 Google Places Search
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Google Places Search
+Recherche de lieux de Google
 ```
 
 
@@ -5473,7 +5473,7 @@ Google Places Search
 ```
 HERE
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 HERE
 ```
@@ -5483,7 +5483,7 @@ HERE
 ```
 Nominatim
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Nominatim
 ```
@@ -5493,7 +5493,7 @@ Nominatim
 ```
 Pelias
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Pelias
 ```
@@ -5503,7 +5503,7 @@ Pelias
 ```
 Algolia (public)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Algolia (public)
 ```
@@ -5513,7 +5513,7 @@ Algolia (public)
 ```
 Algolia (private)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Algolia (private)
 ```
@@ -5523,9 +5523,9 @@ Algolia (private)
 ```
 Tutorial
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Tutorial
+Tutoriel
 ```
 
 
@@ -5539,7 +5539,7 @@ It should only take a little bit of your time and will allow you to benefit from
 
 Click the "Change source" button and then the "Tutorial" option to learn more.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 L'expérience par défaut de la recherche n'est pas optimale, mais elle fonctionne sans configuration.
 
@@ -5547,5 +5547,45 @@ Si vous utilisez beaucoup la recherche, il est fortement recommandé de configur
 
 Cela ne devrait prendre qu'un peu de temps et vous permettra de bénéficier de bien meilleurs résultats de recherche gratuitement.
 
-Cliquez le bouton "Changer source", puis l'option "Tutorial" pour en apprendre plus.
+Cliquez le bouton "Changer source", puis l'option "Tutoriel" pour en apprendre plus.
+```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by human 👀) as:
+```
+Recherche d'addresses intégrée à Android
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by human 👀) as:
+```
+Géocodeur Android
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by human 👀) as:
+```
+Recherche d'addresses intégrée à iOS
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by human 👀) as:
+```
+Géocodeur iOS
 ```

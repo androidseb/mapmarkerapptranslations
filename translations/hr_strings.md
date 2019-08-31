@@ -5549,3 +5549,43 @@ Trebalo bi samo uzeti malo vremena i omogućiti vam da besplatno iskoristite mno
 
 Kliknite gumb "Promijeni izvor", a zatim opciju "Vodič" da biste saznali više.
 ```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated Android Street Adress Finder
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by machine 🤖) as:
+```
+Android Geocoder
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated iOS Traženje adresa ulica
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by machine 🤖) as:
+```
+iOS Geocoder
+```

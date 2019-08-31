@@ -5549,3 +5549,43 @@ translated (by machine 🤖) as:
 
 Щоб дізнатися більше, натисніть кнопку "Змінити джерело", а потім - "Підручник".
 ```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated Шукач адрес вулиць Android
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by machine 🤖) as:
+```
+Android Geocoder
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated Шукач адрес вуличних iOS
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by machine 🤖) as:
+```
+Геокодер iOS
+```

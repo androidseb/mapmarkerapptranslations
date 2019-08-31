@@ -5550,3 +5550,43 @@ translated (by machine 🤖) as:
 
 คลิกปุ่ม "เปลี่ยนแหล่งที่มา" จากนั้นเลือก "บทช่วยสอน" เพื่อเรียนรู้เพิ่มเติม
 ```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+ตัวค้นหาที่อยู่ของ Android Street Integrated
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by machine 🤖) as:
+```
+Android Geocoder
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+ตัวค้นหาที่อยู่ iOS Street Integrated
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by machine 🤖) as:
+```
+iOS Geocoder
+```

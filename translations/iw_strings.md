@@ -5549,3 +5549,43 @@ translated (by machine 🤖) as:
 
 לחץ על כפתור "שנה מקור" ואז על האפשרות "הדרכה" למידע נוסף.
 ```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+מציג כתובות רחוב אנדרואיד של Integrated
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by machine 🤖) as:
+```
+Geocoder אנדרואיד
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+מציאת כתובות רחוב iOS של Integrated
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by machine 🤖) as:
+```
+iOS Geocoder
+```

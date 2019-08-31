@@ -5549,3 +5549,43 @@ Nó chỉ nên mất một chút thời gian của bạn và sẽ cho phép bạ
 
 Nhấp vào nút "Thay đổi nguồn" và sau đó tùy chọn "Hướng dẫn" để tìm hiểu thêm.
 ```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated Trình tìm địa chỉ đường phố Android
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by machine 🤖) as:
+```
+Trình mã hóa địa lý Android
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Trình tìm địa chỉ đường phố Integrated
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by machine 🤖) as:
+```
+Trình mã hóa địa lý iOS
+```

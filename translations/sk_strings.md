@@ -5549,3 +5549,43 @@ Malo by to trvať iba trochu času a umožní vám bezplatne využívať oveľa 
 
 Ak sa chcete dozvedieť viac, kliknite na tlačidlo „Zmeniť zdroj“ a potom na možnosť „Výukový program“.
 ```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated Android Street Addresses Finder
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by machine 🤖) as:
+```
+Android Geocoder
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated iOS Street Addresses Finder
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by machine 🤖) as:
+```
+Geocoder pre iOS
+```

@@ -5549,3 +5549,43 @@ Sadece biraz zamanınızı ayırmalı ve çok daha iyi arama sonuçlarından üc
 
 Daha fazla bilgi edinmek için "Kaynak değiştir" düğmesini ve ardından "Eğitim" seçeneğini tıklayın.
 ```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated Android Sokak Adresleri Bulucu
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by machine 🤖) as:
+```
+Android Geocoder
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated iOS Sokak Adresleri Bulucu
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by machine 🤖) as:
+```
+iOS Geocoder
+```

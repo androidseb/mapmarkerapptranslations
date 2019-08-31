@@ -5549,3 +5549,43 @@ translated (by machine 🤖) as:
 
 "स्रोत बदलें" बटन पर क्लिक करें और फिर अधिक जानने के लिए "ट्यूटोरियल" विकल्प।
 ```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated Android स्ट्रीट पता खोजक
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by machine 🤖) as:
+```
+एंड्रॉइड जियोकोडर
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated iOS स्ट्रीट पता खोजक
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by machine 🤖) as:
+```
+आईओएस जियोकोडर
+```

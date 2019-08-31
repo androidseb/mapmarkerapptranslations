@@ -5549,3 +5549,43 @@ translated (by machine 🤖) as:
 
 Кликните на дугме "Промени извор", а затим на опцију "Водич" да бисте сазнали више.
 ```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Интегрaтед Андроид претраживач адреса улица
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by machine 🤖) as:
+```
+Андроид Геоцодер
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Интегрaтед иОС Стреет Аддресс Финдер
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by machine 🤖) as:
+```
+иОС Геоцодер
+```

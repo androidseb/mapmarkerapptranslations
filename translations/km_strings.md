@@ -5549,3 +5549,43 @@ translated (by machine 🤖) as:
 
 ចុចលើ "ប្តូរប្រភព" ប៊ូតុងហើយបន្ទាប់មកជម្រើស "ការបង្រៀន" ដើម្បីរៀនបន្ថែមទៀត។
 ```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+ឧបករណ៍ស្វែងរកអាស័យដ្ឋានតាមអ៊ិនធឺរណែតដែលមានលក្ខណៈរួមបញ្ចូលគ្នា។
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by machine 🤖) as:
+```
+ប្រព័ន្ធប្រតិបត្តិការ Android Geocoder ។
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+ឧបករណ៍ស្វែងរកអាស័យដ្ឋានផ្លូវអ៊ីនធឺរណែត Integrated ។
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by machine 🤖) as:
+```
+ប្រព័ន្ធប្រតិបត្តិការ iOS Geocoder ។
+```

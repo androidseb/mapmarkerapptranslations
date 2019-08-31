@@ -5549,3 +5549,43 @@ Solo debe tomar un poco de su tiempo y le permitirá beneficiarse de resultados 
 
 Haga clic en el botón "Cambiar fuente" y luego en la opción "Tutorial" para obtener más información.
 ```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated Buscador de direcciones de calles de Android
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by machine 🤖) as:
+```
+Android Geocoder
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated Buscador de direcciones de calles iOS
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by machine 🤖) as:
+```
+Geocoder iOS
+```

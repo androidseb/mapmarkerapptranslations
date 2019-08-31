@@ -5549,3 +5549,43 @@ Dovrebbe richiedere solo un po 'del tuo tempo e ti permetterà di beneficiare gr
 
 Fai clic sul pulsante "Cambia sorgente" e quindi sull'opzione "Tutorial" per saperne di più.
 ```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integratore di indirizzi di strada Android Integrated
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by machine 🤖) as:
+```
+Geocoder Android
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integratore di indirizzi di strada iOS Integrated
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by machine 🤖) as:
+```
+Geocoder iOS
+```

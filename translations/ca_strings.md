@@ -5549,3 +5549,43 @@ Només hauria de prendre una mica del vostre temps i us permetrà beneficiar-vos
 
 Feu clic al botó "Canvia la font" i després l'opció "Tutorial" per obtenir més informació.
 ```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated Finder d'adreces de carrer Android
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by machine 🤖) as:
+```
+Geocoder Android
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated Finder d'adreces de carrer iOS
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by machine 🤖) as:
+```
+Geocoder iOS
+```

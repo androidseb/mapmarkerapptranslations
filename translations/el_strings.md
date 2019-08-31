@@ -5549,3 +5549,43 @@ translated (by machine 🤖) as:
 
 Κάντε κλικ στο κουμπί "Αλλαγή πηγής" και στη συνέχεια στην επιλογή "Εκμάθηση" για να μάθετε περισσότερα.
 ```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated Finder διευθύνσεων οδού Android
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by machine 🤖) as:
+```
+Android Geocoder
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated Finder διευθύνσεων οδού iOS
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by machine 🤖) as:
+```
+iOS Geocoder
+```

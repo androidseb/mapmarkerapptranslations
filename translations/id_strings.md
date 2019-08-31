@@ -5549,3 +5549,43 @@ Seharusnya hanya mengambil sedikit waktu Anda dan akan memungkinkan Anda untuk m
 
 Klik tombol "Ubah sumber" dan kemudian opsi "Tutorial" untuk mempelajari lebih lanjut.
 ```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated Pencari Alamat Jalan Android
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by machine 🤖) as:
+```
+Android Geocoder
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated Pencari Alamat Jalan iOS
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by machine 🤖) as:
+```
+iOS Geocoder
+```

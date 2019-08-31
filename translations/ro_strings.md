@@ -5549,3 +5549,43 @@ Acesta ar trebui să ia doar puțin din timpul dvs. și vă va permite să benef
 
 Faceți clic pe butonul "Schimbare sursă" și apoi pe opțiunea "Tutorial" pentru a afla mai multe.
 ```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated Finder de adrese stradale Android
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by machine 🤖) as:
+```
+Geocoder Android
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated Căutare de adrese stradale iOS
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by machine 🤖) as:
+```
+Geocoder iOS
+```

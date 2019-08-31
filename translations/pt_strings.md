@@ -5549,3 +5549,43 @@ Deve levar apenas um pouco do seu tempo e permitirá que você se beneficie de r
 
 Clique no botão "Alterar fonte" e depois na opção "Tutorial" para saber mais.
 ```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Localizador Android de Endereços de Rua Integrated
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by machine 🤖) as:
+```
+Geocoder Android
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Localizador de endereços de ruas iOS Integrated
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by machine 🤖) as:
+```
+Geocoder iOS
+```

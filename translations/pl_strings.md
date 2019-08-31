@@ -5549,3 +5549,43 @@ Powinno to zająć tylko trochę czasu i pozwoli Ci korzystać z dużo lepszych 
 
 Kliknij przycisk „Zmień źródło”, a następnie opcję „Samouczek”, aby dowiedzieć się więcej.
 ```
+
+
+## Translation Key: search_source_android_geocoder
+```
+Integrated Android Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated Android Wyszukiwarka adresów ulic
+```
+
+
+## Translation Key: short_search_source_android_geocoder
+```
+Android Geocoder
+```
+translated (by machine 🤖) as:
+```
+Geokoder Android
+```
+
+
+## Translation Key: search_source_ios_geocoder
+```
+Integrated iOS Street Addresses Finder
+```
+translated (by machine 🤖) as:
+```
+Integrated Wyszukiwarka adresów ulicznych iOS
+```
+
+
+## Translation Key: short_search_source_ios_geocoder
+```
+iOS Geocoder
+```
+translated (by machine 🤖) as:
+```
+Geokoder iOS
+```
