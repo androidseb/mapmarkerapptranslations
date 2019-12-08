@@ -5609,3 +5609,23 @@ translated (by human 👀) as:
 ```
 Bing
 ```
+
+
+## Translation Key: react_webapp_file_selection_error_one_file_only
+```
+You can only select one file to import at a time
+```
+translated (by human 👀) as:
+```
+Vous pouvez seulement sélectionner un fichier à importer à la fois
+```
+
+
+## Translation Key: react_webapp_file_selection_wrong_file_extension
+```
+You can only import files with the following extensions: %s
+```
+translated (by human 👀) as:
+```
+Vous pouvez seulement importer des fichiers avec les extensions suivantes : %s
+```

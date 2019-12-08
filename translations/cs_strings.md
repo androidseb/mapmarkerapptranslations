@@ -5609,3 +5609,23 @@ translated (by machine 🤖) as:
 ```
 Bing
 ```
+
+
+## Translation Key: react_webapp_file_selection_error_one_file_only
+```
+You can only select one file to import at a time
+```
+translated (by machine 🤖) as:
+```
+Můžete vybrat pouze jeden soubor, do kterého chcete importovat čas at a
+```
+
+
+## Translation Key: react_webapp_file_selection_wrong_file_extension
+```
+You can only import files with the following extensions: %s
+```
+translated (by machine 🤖) as:
+```
+Can importujete pouze soubory s následujícími příponami: %s
+```
