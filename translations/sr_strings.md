@@ -5589,3 +5589,23 @@ translated (by machine 🤖) as:
 ```
 иОС Геоцодер
 ```
+
+
+## Translation Key: search_source_bing
+```
+Microsoft Bing Places Search
+```
+translated (by machine 🤖) as:
+```
+Мицрософт Бинг Плaцес Сеaрцх
+```
+
+
+## Translation Key: short_search_source_bing
+```
+Bing
+```
+translated (by machine 🤖) as:
+```
+Бинг
+```

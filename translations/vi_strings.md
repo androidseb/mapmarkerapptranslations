@@ -5557,7 +5557,7 @@ Integrated Android Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-Integrated Trình tìm địa chỉ đường phố Android
+Trình tìm địa chỉ đường phố Android Integrated
 ```
 
 
@@ -5588,4 +5588,24 @@ iOS Geocoder
 translated (by machine 🤖) as:
 ```
 Trình mã hóa địa lý iOS
+```
+
+
+## Translation Key: search_source_bing
+```
+Microsoft Bing Places Search
+```
+translated (by machine 🤖) as:
+```
+Microsoft Bing Places Search
+```
+
+
+## Translation Key: short_search_source_bing
+```
+Bing
+```
+translated (by machine 🤖) as:
+```
+Bing
 ```

@@ -5589,3 +5589,23 @@ translated (by machine 🤖) as:
 ```
 आईओएस जियोकोडर
 ```
+
+
+## Translation Key: search_source_bing
+```
+Microsoft Bing Places Search
+```
+translated (by machine 🤖) as:
+```
+Microsoft बिंग Places Search
+```
+
+
+## Translation Key: short_search_source_bing
+```
+Bing
+```
+translated (by machine 🤖) as:
+```
+बिंग
+```

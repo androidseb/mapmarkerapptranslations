@@ -5589,3 +5589,23 @@ translated (by machine 🤖) as:
 ```
 iOS 지오 코더
 ```
+
+
+## Translation Key: search_source_bing
+```
+Microsoft Bing Places Search
+```
+translated (by machine 🤖) as:
+```
+Microsoft Bing Places Search
+```
+
+
+## Translation Key: short_search_source_bing
+```
+Bing
+```
+translated (by machine 🤖) as:
+```
+빙
+```

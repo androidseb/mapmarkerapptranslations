@@ -5586,3 +5586,23 @@ translated (by machine 🤖) as:
 ```
 iOS геокодер
 ```
+
+
+## Translation Key: search_source_bing
+```
+Microsoft Bing Places Search
+```
+translated (by machine 🤖) as:
+```
+Microsoft Bing Places Search
+```
+
+
+## Translation Key: short_search_source_bing
+```
+Bing
+```
+translated (by machine 🤖) as:
+```
+Bing
+```
