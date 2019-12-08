@@ -5557,7 +5557,7 @@ Integrated Android Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-Integroitu49-katuosoitteiden etsijä
+Integrated Android Street Addresses Finder
 ```
 
 
@@ -5567,7 +5567,7 @@ Android Geocoder
 ```
 translated (by machine 🤖) as:
 ```
-Android-geokooderi
+Android Geocoder
 ```
 
 
@@ -5577,7 +5577,7 @@ Integrated iOS Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-Integrated iOS-katuosoitteiden etsijä
+Integrated iOS Street Addresses Finder
 ```
 
 
@@ -5587,7 +5587,7 @@ iOS Geocoder
 ```
 translated (by machine 🤖) as:
 ```
-iOS-geokooderi
+iOS Geocoder
 ```
 
 

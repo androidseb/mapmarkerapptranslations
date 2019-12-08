@@ -5557,7 +5557,7 @@ Integrated Android Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-Integrated Android 주소 검색기
+Integrated Android Street Addresses Finder
 ```
 
 
@@ -5567,7 +5567,7 @@ Android Geocoder
 ```
 translated (by machine 🤖) as:
 ```
-안드로이드 지오 코더
+Android Geocoder
 ```
 
 
@@ -5577,7 +5577,7 @@ Integrated iOS Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-Integrated iOS 주소 찾기
+Integrated iOS Street Addresses Finder
 ```
 
 
@@ -5587,7 +5587,7 @@ iOS Geocoder
 ```
 translated (by machine 🤖) as:
 ```
-iOS 지오 코더
+iOS Geocoder
 ```
 
 
@@ -5607,5 +5607,5 @@ Bing
 ```
 translated (by machine 🤖) as:
 ```
-빙
+Bing
 ```

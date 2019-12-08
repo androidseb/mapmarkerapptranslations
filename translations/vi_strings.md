@@ -5557,7 +5557,7 @@ Integrated Android Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-Trình tìm địa chỉ đường phố Android Integrated
+Integrated Android Street Addresses Finder
 ```
 
 
@@ -5567,7 +5567,7 @@ Android Geocoder
 ```
 translated (by machine 🤖) as:
 ```
-Trình mã hóa địa lý Android
+Android Geocoder
 ```
 
 
@@ -5577,7 +5577,7 @@ Integrated iOS Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-Trình tìm địa chỉ đường phố Integrated
+Integrated iOS Street Addresses Finder
 ```
 
 
@@ -5587,7 +5587,7 @@ iOS Geocoder
 ```
 translated (by machine 🤖) as:
 ```
-Trình mã hóa địa lý iOS
+iOS Geocoder
 ```
 
 

@@ -5556,7 +5556,7 @@ Integrated Android Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-Integra „Android“ gatvių adresų ieškiklis
+Integrated Android Street Addresses Finder
 ```
 
 
@@ -5566,7 +5566,7 @@ Android Geocoder
 ```
 translated (by machine 🤖) as:
 ```
-„Android“ geocoderis
+Android Geocoder
 ```
 
 
@@ -5576,7 +5576,7 @@ Integrated iOS Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-„Integrated iOS“ gatvių adresų ieškiklis
+Integrated iOS Street Addresses Finder
 ```
 
 
@@ -5586,7 +5586,7 @@ iOS Geocoder
 ```
 translated (by machine 🤖) as:
 ```
-„iOS Geocoder“
+iOS Geocoder
 ```
 
 
@@ -5596,7 +5596,7 @@ Microsoft Bing Places Search
 ```
 translated (by machine 🤖) as:
 ```
-„Microsoft Bing Places Search“
+Microsoft Bing Places Search
 ```
 
 
@@ -5606,5 +5606,5 @@ Bing
 ```
 translated (by machine 🤖) as:
 ```
-Bingas
+Bing
 ```

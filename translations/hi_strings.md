@@ -5557,7 +5557,7 @@ Integrated Android Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-Integrated Android स्ट्रीट पता खोजक
+Integrated Android Street Addresses Finder
 ```
 
 
@@ -5567,7 +5567,7 @@ Android Geocoder
 ```
 translated (by machine 🤖) as:
 ```
-एंड्रॉइड जियोकोडर
+Android Geocoder
 ```
 
 
@@ -5577,7 +5577,7 @@ Integrated iOS Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-Integrated iOS स्ट्रीट पता खोजक
+Integrated iOS Street Addresses Finder
 ```
 
 
@@ -5587,7 +5587,7 @@ iOS Geocoder
 ```
 translated (by machine 🤖) as:
 ```
-आईओएस जियोकोडर
+iOS Geocoder
 ```
 
 
@@ -5597,7 +5597,7 @@ Microsoft Bing Places Search
 ```
 translated (by machine 🤖) as:
 ```
-Microsoft बिंग Places Search
+Microsoft Bing Places Search
 ```
 
 
@@ -5607,5 +5607,5 @@ Bing
 ```
 translated (by machine 🤖) as:
 ```
-बिंग
+Bing
 ```

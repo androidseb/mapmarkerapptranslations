@@ -5567,7 +5567,7 @@ Android Geocoder
 ```
 translated (by machine 🤖) as:
 ```
-الروبوت الجغرافي
+Android Geocoder
 ```
 
 
@@ -5577,7 +5577,7 @@ Integrated iOS Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-Integrated مكتشف عناوين شارع iOS
+Integrated iOS Street Addresses Finder
 ```
 
 
@@ -5587,7 +5587,7 @@ iOS Geocoder
 ```
 translated (by machine 🤖) as:
 ```
-دائرة الرقابة الداخلية الجغرافية
+iOS Geocoder
 ```
 
 
@@ -5607,5 +5607,5 @@ Bing
 ```
 translated (by machine 🤖) as:
 ```
-بنج
+Bing
 ```

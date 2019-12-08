@@ -5557,7 +5557,7 @@ Integrated Android Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-Integrated Finder διευθύνσεων οδού Android
+Integrated Android Street Addresses Finder
 ```
 
 
@@ -5577,7 +5577,7 @@ Integrated iOS Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-Integrated Finder διευθύνσεων οδού iOS
+Integrated iOS Street Addresses Finder
 ```
 
 
@@ -5597,7 +5597,7 @@ Microsoft Bing Places Search
 ```
 translated (by machine 🤖) as:
 ```
-Η Microsoft Bing Places Search
+Microsoft Bing Places Search
 ```
 
 

@@ -5577,7 +5577,7 @@ Integrated iOS Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-Integrertated iOS Street Addresses Finder
+Integrated iOS Street Addresses Finder
 ```
 
 

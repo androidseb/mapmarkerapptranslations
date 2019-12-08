@@ -5557,7 +5557,7 @@ Integrated Android Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-Integrated Android Sokak Adresleri Bulucu
+Integrated Android Street Addresses Finder
 ```
 
 
@@ -5577,7 +5577,7 @@ Integrated iOS Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-Integrated iOS Sokak Adresleri Bulucu
+Integrated iOS Street Addresses Finder
 ```
 
 

@@ -5587,7 +5587,7 @@ iOS Geocoder
 ```
 translated (by machine 🤖) as:
 ```
-GeoOSder iOS
+iOS Geocoder
 ```
 
 

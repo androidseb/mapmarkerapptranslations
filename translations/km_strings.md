@@ -5557,7 +5557,7 @@ Integrated Android Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-ឧបករណ៍ស្វែងរកអាស័យដ្ឋានតាមអ៊ិនធឺរណែតដែលមានលក្ខណៈរួមបញ្ចូលគ្នា
+Integrated Android Street Addresses Finder
 ```
 
 
@@ -5567,7 +5567,7 @@ Android Geocoder
 ```
 translated (by machine 🤖) as:
 ```
-ប្រព័ន្ធប្រតិបត្តិការ Android Geocoder
+Android Geocoder
 ```
 
 
@@ -5577,7 +5577,7 @@ Integrated iOS Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-ឧបករណ៍ស្វែងរកអាស័យដ្ឋានផ្លូវអ៊ីនធឺរណែត Integrated
+Integrated iOS Street Addresses Finder
 ```
 
 
@@ -5587,7 +5587,7 @@ iOS Geocoder
 ```
 translated (by machine 🤖) as:
 ```
-ប្រព័ន្ធប្រតិបត្តិការ iOS Geocoder
+iOS Geocoder
 ```
 
 
@@ -5597,7 +5597,7 @@ Microsoft Bing Places Search
 ```
 translated (by machine 🤖) as:
 ```
-ក្រុមហ៊ុន Microsoft Bing Places Search
+Microsoft Bing Places Search
 ```
 
 

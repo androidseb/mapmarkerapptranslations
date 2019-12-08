@@ -5558,7 +5558,7 @@ Integrated Android Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-ตัวค้นหาที่อยู่ของ Android Street Integrated
+Integrated Android Street Addresses Finder
 ```
 
 
@@ -5578,7 +5578,7 @@ Integrated iOS Street Addresses Finder
 ```
 translated (by machine 🤖) as:
 ```
-ตัวค้นหาที่อยู่ iOS Street Integrated
+Integrated iOS Street Addresses Finder
 ```
 
 
