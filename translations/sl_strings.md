@@ -4086,6 +4086,16 @@ Podatki za izvoz vsebujejo medije (slike), ki jih ni mogoče vključiti v ta izv
 ```
 
 
+## Translation Key: export_choice_csv
+```
+CSV
+```
+translated (by machine 🤖) as:
+```
+CSV
+```
+
+
 ## Translation Key: export_choice_kml_details
 ```
 Standard Google Earth format. Cannot contain media.

@@ -4087,6 +4087,16 @@ De data som ska exporteras innehåller media (bilder) som inte kan inkluderas me
 ```
 
 
+## Translation Key: export_choice_csv
+```
+CSV
+```
+translated (by machine 🤖) as:
+```
+CSV
+```
+
+
 ## Translation Key: export_choice_kml_details
 ```
 Standard Google Earth format. Cannot contain media.

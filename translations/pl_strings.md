@@ -4087,6 +4087,16 @@ Dane do eksportu zawierają nośniki (obrazy), których nie można zawrzeć w ty
 ```
 
 
+## Translation Key: export_choice_csv
+```
+CSV
+```
+translated (by machine 🤖) as:
+```
+CSV
+```
+
+
 ## Translation Key: export_choice_kml_details
 ```
 Standard Google Earth format. Cannot contain media.

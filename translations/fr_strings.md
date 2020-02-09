@@ -3271,7 +3271,7 @@ Impériale (%s)
 ```
 m²/a/ha/km²
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 m²/a/ha/km²
 ```
@@ -3281,7 +3281,7 @@ m²/a/ha/km²
 ```
 Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
 ```
@@ -3291,7 +3291,7 @@ Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
 ```
 m²
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 m²
 ```
@@ -3301,7 +3301,7 @@ m²
 ```
 a
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 a
 ```
@@ -3311,7 +3311,7 @@ a
 ```
 ha
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ha
 ```
@@ -3321,7 +3321,7 @@ ha
 ```
 km²
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 km²
 ```
@@ -3331,7 +3331,7 @@ km²
 ```
 Square yard
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Square yard
 ```
@@ -3341,7 +3341,7 @@ Square yard
 ```
 rd²
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 rd²
 ```
@@ -3351,7 +3351,7 @@ rd²
 ```
 Acre
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Acre
 ```
@@ -3361,7 +3361,7 @@ Acre
 ```
 Township
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Township
 ```
@@ -3371,7 +3371,7 @@ Township
 ```
 mi²
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 mi²
 ```
@@ -4084,6 +4084,16 @@ The data to export contains media(images) that cannot be included with this expo
 translated (by human 👀) as:
 ```
 Les données à exporter contiennent des médias (images) qui ne peuvent être inclus avec ce format. Les données seront exportées sans les médias. Pour tout exporter, choisissez le format KMZ.
+```
+
+
+## Translation Key: export_choice_csv
+```
+CSV
+```
+translated (by human 👀) as:
+```
+CSV
 ```
 
 

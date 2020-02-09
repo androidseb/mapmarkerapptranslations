@@ -4087,6 +4087,16 @@ Los datos de exportación contiene los medios de comunicación (imágenes) que n
 ```
 
 
+## Translation Key: export_choice_csv
+```
+CSV
+```
+translated (by machine 🤖) as:
+```
+CSV
+```
+
+
 ## Translation Key: export_choice_kml_details
 ```
 Standard Google Earth format. Cannot contain media.

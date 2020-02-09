@@ -4087,6 +4087,16 @@ Các dữ liệu để xuất khẩu có chứa media (hình ảnh) mà không t
 ```
 
 
+## Translation Key: export_choice_csv
+```
+CSV
+```
+translated (by machine 🤖) as:
+```
+CSV
+```
+
+
 ## Translation Key: export_choice_kml_details
 ```
 Standard Google Earth format. Cannot contain media.

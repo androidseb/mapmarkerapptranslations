@@ -4087,6 +4087,16 @@ Az adatok export tartalmaz média (képek), hogy nem lehet benne, hogy ennek az 
 ```
 
 
+## Translation Key: export_choice_csv
+```
+CSV
+```
+translated (by machine 🤖) as:
+```
+CSV
+```
+
+
 ## Translation Key: export_choice_kml_details
 ```
 Standard Google Earth format. Cannot contain media.

@@ -4087,6 +4087,16 @@ Datan vienti sisältää media (kuvat), joita ei voida sisällyttää tämän vi
 ```
 
 
+## Translation Key: export_choice_csv
+```
+CSV
+```
+translated (by machine 🤖) as:
+```
+CSV
+```
+
+
 ## Translation Key: export_choice_kml_details
 ```
 Standard Google Earth format. Cannot contain media.

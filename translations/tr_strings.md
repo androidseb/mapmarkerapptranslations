@@ -4087,6 +4087,16 @@ ihracat verileri, bu ihracat biçimi ile dahil edilemez medya (resim) içerir. v
 ```
 
 
+## Translation Key: export_choice_csv
+```
+CSV
+```
+translated (by machine 🤖) as:
+```
+CSV
+```
+
+
 ## Translation Key: export_choice_kml_details
 ```
 Standard Google Earth format. Cannot contain media.
