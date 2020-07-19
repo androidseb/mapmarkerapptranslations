@@ -9,7 +9,7 @@ OK
 ```
 translated (by machine 🤖) as:
 ```
-行
+OK
 ```
 
 
@@ -19,7 +19,7 @@ Yes
 ```
 translated (by machine 🤖) as:
 ```
-是的
+Yes
 ```
 
 
@@ -29,7 +29,7 @@ No
 ```
 translated (by machine 🤖) as:
 ```
-沒有
+No
 ```
 
 
@@ -49,7 +49,7 @@ New marker
 ```
 translated (by machine 🤖) as:
 ```
-新標誌
+新標記
 ```
 
 
@@ -59,7 +59,7 @@ Title
 ```
 translated (by machine 🤖) as:
 ```
-稱號
+標題
 ```
 
 
@@ -79,7 +79,7 @@ Do you really want to delete this marker?
 ```
 translated (by machine 🤖) as:
 ```
-你真的要刪除這個標記？
+您確定要刪除這個標記？
 ```
 
 
@@ -99,7 +99,7 @@ Could not copy coordinates to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-無法複製的坐標到剪貼板
+無法複製座標到剪貼簿
 ```
 
 
@@ -109,7 +109,7 @@ Coordinates copied to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-坐標複製到剪貼板
+已複製座標到剪貼板
 ```
 
 
@@ -119,7 +119,7 @@ Failed to access application save directory. Make sure that your device is not b
 ```
 translated (by machine 🤖) as:
 ```
-未能訪問應用程序的保存目錄。請確保您的設備不被電腦使用USB電纜訪問，並重新啟動應用程序。
+無法訪問應用程序的保存目錄。請確保您的設備不被USB線連線到電腦，並重新啟動應用程序。
 ```
 
 
@@ -139,7 +139,7 @@ All
 ```
 translated (by machine 🤖) as:
 ```
-所有
+全部
 ```
 
 
@@ -149,7 +149,7 @@ Add folder
 ```
 translated (by machine 🤖) as:
 ```
-添加文件夾
+新增資料夾夾
 ```
 
 
@@ -159,7 +159,7 @@ Modify folder
 ```
 translated (by machine 🤖) as:
 ```
-修改文件夾
+修改資料夾
 ```
 
 
@@ -169,7 +169,7 @@ Are you sure you want to delete this folder? All markers associated to this fold
 ```
 translated (by machine 🤖) as:
 ```
-你確定要刪除這個文件夾？有關此文件夾的所有標記將被永久刪除！
+您確定要刪除這個資料夾？有關此文件夾內所有標記將被永久刪除！
 ```
 
 
@@ -179,7 +179,7 @@ Failed to create new folder, it already exists
 ```
 translated (by machine 🤖) as:
 ```
-無法創建新的文件夾，它已經存在
+無法創建新資料夾，它已經存在
 ```
 
 
@@ -189,7 +189,7 @@ Failed to rename the folder, the destination name already exists
 ```
 translated (by machine 🤖) as:
 ```
-無法重命名的文件夾，目標名稱已經存在
+無法重新命名該文件夾，目標名稱已經存在
 ```
 
 
@@ -229,7 +229,7 @@ Import/Export
 ```
 translated (by machine 🤖) as:
 ```
-導入/導出
+匯入/匯出
 ```
 
 
@@ -239,7 +239,7 @@ Import markers
 ```
 translated (by machine 🤖) as:
 ```
-進口標誌
+會入標記
 ```
 
 
@@ -249,7 +249,7 @@ File imported successfully
 ```
 translated (by machine 🤖) as:
 ```
-文件導入成功
+文件匯入成功
 ```
 
 
@@ -259,7 +259,7 @@ File import failed
 ```
 translated (by machine 🤖) as:
 ```
-文件導入失敗
+文件匯入失敗
 ```
 
 
@@ -269,7 +269,7 @@ Location services
 ```
 translated (by machine 🤖) as:
 ```
-位置服務
+定位服務
 ```
 
 
@@ -279,7 +279,7 @@ Location services are disabled. To get your current location you must enable the
 ```
 translated (by machine 🤖) as:
 ```
-位置服務被禁用。讓你的當前位置，您必須啟用它們。
+定位服務被停用。為獲取您的當前位置，您必須啟用它們。
 ```
 
 
@@ -319,7 +319,7 @@ Share via
 ```
 translated (by machine 🤖) as:
 ```
-通過分享
+透過分享
 ```
 
 
@@ -329,7 +329,7 @@ Do you want to import the content of this file?
 ```
 translated (by machine 🤖) as:
 ```
-你想導入此文件的內容？
+你想匯入此文件的內容？
 ```
 
 
@@ -339,7 +339,7 @@ Folder name
 ```
 translated (by machine 🤖) as:
 ```
-文件夾名稱
+資料夾名稱
 ```
 
 
@@ -359,7 +359,7 @@ Close
 ```
 translated (by machine 🤖) as:
 ```
-近
+關閉
 ```
 
 
@@ -369,7 +369,7 @@ Are you sure you want to delete the selected markers?
 ```
 translated (by machine 🤖) as:
 ```
-你確定要刪除選定的標記？
+你確定要刪除所選定的標記？
 ```
 
 
@@ -379,7 +379,7 @@ Move markers to folder
 ```
 translated (by machine 🤖) as:
 ```
-移動標記到文件夾
+移動標記到資料夾
 ```
 
 
@@ -399,7 +399,7 @@ Folder:
 ```
 translated (by machine 🤖) as:
 ```
-文件夾：
+資料夾：
 ```
 
 
@@ -409,7 +409,7 @@ Snapshot of my markers on Map Marker
 ```
 translated (by machine 🤖) as:
 ```
-我的標記上的快照Map Marker
+在Map Marker上快照我的標記
 ```
 
 
@@ -420,7 +420,7 @@ This snapshot was made with the app Map Marker:
 ```
 translated (by machine 🤖) as:
 ```
-此快照是用應用程序Map Marker ： 
+此快照是利用Map Marker ： 
  %s
 ```
 
@@ -431,7 +431,7 @@ Processing data&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-處理數據......
+資料處理中......
 ```
 
 
@@ -441,7 +441,7 @@ You have unsaved modifications, do you want to save them?
 ```
 translated (by machine 🤖) as:
 ```
-你有未保存的修改，你想救他們？
+您有未保存的修改，您想儲存嗎？
 ```
 
 
@@ -451,7 +451,7 @@ Use the long press on the map to create a new marker
 ```
 translated (by machine 🤖) as:
 ```
-使用長按地圖上創建一個新的標誌
+利用長按地圖創建一個新標記
 ```
 
 
@@ -471,7 +471,7 @@ Normal
 ```
 translated (by machine 🤖) as:
 ```
-正常
+一般
 ```
 
 
@@ -501,7 +501,7 @@ Hybrid
 ```
 translated (by machine 🤖) as:
 ```
-混合動力
+混合
 ```
 
 
@@ -512,8 +512,8 @@ Send me an email :-)
 ```
 translated (by machine 🤖) as:
 ```
-發現一個問題？有改進的想法？ 
-給我發email :-)
+發現問題？有改進的想法？ 
+請寄email給我 :-)
 ```
 
 
@@ -523,7 +523,7 @@ Send email&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-發送email&#8230;
+寄送email&#8230;
 ```
 
 
@@ -534,8 +534,8 @@ Rate it 5 stars :-)
 ```
 translated (by machine 🤖) as:
 ```
-你喜歡的應用程序？ 
-速率是5星:-)
+您喜歡這個應用程式？ 
+請給5星評價:-)
 ```
 
 
@@ -545,7 +545,7 @@ Change folder to&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-更改文件夾...
+更改文件夾去...
 ```
 
 
@@ -575,7 +575,7 @@ Meters
 ```
 translated (by machine 🤖) as:
 ```
-米
+公尺
 ```
 
 
@@ -585,7 +585,7 @@ Km
 ```
 translated (by machine 🤖) as:
 ```
-千米
+公里
 ```
 
 
@@ -595,7 +595,7 @@ Feet
 ```
 translated (by machine 🤖) as:
 ```
-腳
+英尺
 ```
 
 
@@ -605,7 +605,7 @@ Miles
 ```
 translated (by machine 🤖) as:
 ```
-萬里
+英里
 ```
 
 
@@ -615,7 +615,7 @@ Adjust map camera position when guiding to a marker location
 ```
 translated (by machine 🤖) as:
 ```
-引導到一個標記位置時，調整圖攝像機位置
+導航到一個標記位置時，調整地圖相機位置
 ```
 
 
@@ -625,7 +625,7 @@ Keep screen on when guiding to a marker location
 ```
 translated (by machine 🤖) as:
 ```
-保持屏幕引導到一個標記位置上時，
+導航到一個標記位置上時，保持螢幕開啟
 ```
 
 
@@ -635,7 +635,7 @@ Marker details copied to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-標記詳細信息複製到剪貼板
+將標記詳細資訊複製到剪貼簿
 ```
 
 
@@ -645,7 +645,7 @@ Long press to drag and move the marker
 ```
 translated (by machine 🤖) as:
 ```
-長按拖動和移動標記
+長按拖動標記
 ```
 
 
@@ -655,7 +655,7 @@ Error starting internal task manager, app will now exit
 ```
 translated (by machine 🤖) as:
 ```
-錯誤啟動內部的任務管理器，應用程序現在將退出
+內部啟動任務管理器發生錯誤，應用程序現在將退出
 ```
 
 
@@ -675,7 +675,7 @@ Could not create the map capture
 ```
 translated (by machine 🤖) as:
 ```
-無法創建地圖捕捉
+無法創建地圖截圖
 ```
 
 
@@ -685,7 +685,7 @@ Metric (Kilometers/Meters)
 ```
 translated (by machine 🤖) as:
 ```
-公制（公里/米）
+公制（公里/公尺）
 ```
 
 
@@ -695,7 +695,7 @@ Imperial (Miles/Feet)
 ```
 translated (by machine 🤖) as:
 ```
-帝國（英里/英尺）
+英制（英里/英尺）
 ```
 
 
@@ -705,7 +705,7 @@ There is a problem with Google Play Services: it needs to be installed, updated 
 ```
 translated (by machine 🤖) as:
 ```
-有一個問題Google Play Services ：它需要被安裝，更新或激活。點擊OK，試圖解決這個問題。
+Google Play Services發生問題 ：它需要被安裝，更新或啟動。點擊OK，試圖解決這個問題。
 ```
 
 
@@ -715,7 +715,7 @@ Delete folder
 ```
 translated (by machine 🤖) as:
 ```
-刪除文件夾
+刪除資料夾
 ```
 
 
@@ -725,7 +725,7 @@ If you like my app you can reward me by taking the time to give a good rating :-
 ```
 translated (by machine 🤖) as:
 ```
-如果你喜歡我的應用程序，你可以抽空獎勵我給予良好的評價:-)
+如果您喜歡我的應用程式，您可以撥空給予好評:-)
 ```
 
 
@@ -737,7 +737,7 @@ to the Play Store
 translated (by machine 🤖) as:
 ```
 OK帶我
-到Play Store
+到Play商店
 ```
 
 
@@ -749,7 +749,7 @@ gave a rating
 translated (by machine 🤖) as:
 ```
 我已經
-給評級
+給予評價
 ```
 
 
@@ -760,7 +760,7 @@ remind me
 ```
 translated (by machine 🤖) as:
 ```
-也許以後
+稍後
 提醒我
 ```
 
@@ -772,7 +772,7 @@ do not remind me
 ```
 translated (by machine 🤖) as:
 ```
-也許以後
+稍後
 不要再提醒我
 ```
 
@@ -803,7 +803,7 @@ Move the map around to place your marker where you want and click OK to place it
 ```
 translated (by machine 🤖) as:
 ```
-移動地圖將您的標誌，你想，然後單擊確定將其放置
+您的標記將隨地圖移動到你想要的地方，然後點選ok將其放置
 ```
 
 
@@ -813,7 +813,7 @@ Imported marker
 ```
 translated (by machine 🤖) as:
 ```
-進口標誌
+會入標記
 ```
 
 
