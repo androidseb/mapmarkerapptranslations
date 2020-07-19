@@ -9,7 +9,7 @@ OK
 ```
 translated (by machine 🤖) as:
 ```
-行
+OK
 ```
 
 
@@ -19,7 +19,7 @@ Yes
 ```
 translated (by machine 🤖) as:
 ```
-是的
+Yes
 ```
 
 
@@ -29,7 +29,7 @@ No
 ```
 translated (by machine 🤖) as:
 ```
-沒有
+No
 ```
 
 
@@ -49,7 +49,7 @@ New marker
 ```
 translated (by machine 🤖) as:
 ```
-新標誌
+新標記
 ```
 
 
@@ -59,7 +59,7 @@ Title
 ```
 translated (by machine 🤖) as:
 ```
-稱號
+標題
 ```
 
 
@@ -79,7 +79,7 @@ Do you really want to delete this marker?
 ```
 translated (by machine 🤖) as:
 ```
-你真的要刪除這個標記？
+您真的要刪除這個標記？
 ```
 
 
@@ -99,7 +99,7 @@ Could not copy coordinates to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-無法複製的坐標到剪貼板
+無法複製座標到剪貼簿
 ```
 
 
