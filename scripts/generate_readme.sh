@@ -6,6 +6,7 @@ sh scripts/print_language_md_link.sh "Bulgarian" "bg">>README.md;echo "">>README
 sh scripts/print_language_md_link.sh "Catalan" "ca">>README.md;echo "">>README.md
 sh scripts/print_language_md_link.sh "Chinese Simplified" "zh-rCN">>README.md;echo "">>README.md
 sh scripts/print_language_md_link.sh "Chinese Traditional" "zh-rHK">>README.md;echo "">>README.md
+sh scripts/print_language_md_link.sh "Chinese Taiwan" "zh-rTW">>README.md;echo "">>README.md
 sh scripts/print_language_md_link.sh "Croatian" "hr">>README.md;echo "">>README.md
 sh scripts/print_language_md_link.sh "Czech" "cs">>README.md;echo "">>README.md
 sh scripts/print_language_md_link.sh "Danish" "da">>README.md;echo "">>README.md
