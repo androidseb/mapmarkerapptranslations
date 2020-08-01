@@ -3867,56 +3867,6 @@ Badge testeur beta : merci d'être un testeur beta ! Ce badge disparaîtra seule
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by human 👀) as:
-```
-Badge parainage : merci d'avoir invité vos amis sur l'application ! Ce badge disparaîtra seulement lors de la désinstallation de l'application ou lors de la suppression des données de l'application. Ce badge vous permet de n'avoir aucune publicité dans l'application.
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by human 👀) as:
-```
-Parainage
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by human 👀) as:
-```
-Supprimer les pubs: échangez des crédits de parainage avec vos amis pour supprimer les publicités
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by human 👀) as:
-```
-Crédits envoyés : %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by human 👀) as:
-```
-Crédits reçus : %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

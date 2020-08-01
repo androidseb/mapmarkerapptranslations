@@ -3867,56 +3867,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by machine 🤖) as:
-```
-Упућивање значка: хвала на позиву своје пријатеље у апликацију! Ова значка ће нестати само на деинсталирање апликацију или брисањем података апликацију. Ова значка такође омогућава да нема огласа на апликацији.
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by machine 🤖) as:
-```
-upućivanje
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by machine 🤖) as:
-```
-Уклањање огласа: размена реферала кредите са пријатељима уклањања огласа
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by machine 🤖) as:
-```
-Сент кредит: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by machine 🤖) as:
-```
-Примљени кредити: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

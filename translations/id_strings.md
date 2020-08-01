@@ -3867,56 +3867,6 @@ Beta tester badge: terima kasih untuk menjadi tester beta! lencana ini akan hila
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by machine 🤖) as:
-```
-Rujukan badge: terima kasih untuk mengundang teman ke aplikasi! lencana ini akan hilang hanya pada menguninstall aplikasi atau membersihkan data aplikasi. lencana ini juga memungkinkan Anda untuk memiliki iklan di aplikasi.
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by machine 🤖) as:
-```
-penyerahan
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by machine 🤖) as:
-```
-Menghapus iklan: arahan pertukaran kredit dengan teman-teman untuk menghapus iklan
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by machine 🤖) as:
-```
-Kredit dikirim: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by machine 🤖) as:
-```
-Kredit yang diterima: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

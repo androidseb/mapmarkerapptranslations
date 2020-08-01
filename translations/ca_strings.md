@@ -3867,56 +3867,6 @@ Beta tester insígnia: gràcies per ser un beta tester! Aquest assoliment desapa
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by machine 🤖) as:
-```
-insígnia de la remissió: gràcies per convidar els seus amics a l'aplicació! Aquest assoliment desapareixerà únicament quan la desinstal·lació de l'aplicació o esborrar les dades de l'aplicació. Aquest assoliment també li permet tenir no hi ha anuncis a l'aplicació.
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by machine 🤖) as:
-```
-remissió
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by machine 🤖) as:
-```
-L'eliminació dels anuncis: els crèdits referits intercanvi amb els amics per evitar els anuncis
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by machine 🤖) as:
-```
-Crèdits enviats: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by machine 🤖) as:
-```
-Crèdits: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

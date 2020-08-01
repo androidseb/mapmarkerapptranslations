@@ -3867,56 +3867,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by machine 🤖) as:
-```
-ផ្លាកសញ្ញាបង្អែក: សូមអរគុណចំពោះការអញ្ជើញមិត្តភក្តិរបស់អ្នកទៅកម្មវិធី! ផ្លាកសញ្ញានេះនឹងមិនបង្ហាញតែលើអ្វីដែលបានលុបកម្មវិធីឬទិន្នន័យកម្មវិធីឈូសឆាយនោះ។ ផ្លាកសញ្ញានេះផងដែរអនុញ្ញាតឱ្យអ្នកមានការផ្សព្វផ្សាយពាណិជ្ជកម្មនៅលើកម្មវិធីនោះទេ។
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by machine 🤖) as:
-```
-ការបញ្ជូន
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by machine 🤖) as:
-```
-ការដោះការផ្សព្វផ្សាយពាណិជ្ជកម្ម: ការផ្លាស់ប្តូរជាមួយនឹងការឥណទានបញ្ជូនមិត្តភក្តិយកការផ្សព្វផ្សាយពាណិជ្ជកម្ម
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by machine 🤖) as:
-```
-ឥណទានផ្ញើ: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by machine 🤖) as:
-```
-ទទួលបានឥណទាន: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

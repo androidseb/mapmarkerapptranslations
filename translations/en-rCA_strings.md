@@ -3867,56 +3867,6 @@ Beta tester badge: thank you for being a beta tester! This badge will disappear 
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by machine 🤖) as:
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by machine 🤖) as:
-```
-Referral
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by machine 🤖) as:
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by machine 🤖) as:
-```
-Sent credits: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by machine 🤖) as:
-```
-Received credits: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

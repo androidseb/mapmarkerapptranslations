@@ -3867,56 +3867,6 @@ Beetatestaaja merkki: kiitos ollessa betatestaaja! Tämä merkki häviää vasta
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by machine 🤖) as:
-```
-Referral merkki: kiitos kutsu ystäväsi app! Tämä merkki häviää vasta kun poistanut sovelluksen tai tyhjentämällä sovelluksen tiedot. Tämä merkki voi myös olla mitään mainoksia sovelluksen.
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by machine 🤖) as:
-```
-lähete
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by machine 🤖) as:
-```
-Poistaminen ilmoitukset: vaihto lähetteet krediittiä ystävien Ei mainoksia
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by machine 🤖) as:
-```
-Lähetetyt ov: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by machine 🤖) as:
-```
-Hyvityksiä: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

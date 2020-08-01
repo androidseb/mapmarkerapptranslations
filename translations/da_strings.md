@@ -3871,56 +3871,6 @@ Beta tester badge: tak for at være en beta-tester! Denne badge forsvinder kun e
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by machine 🤖) as:
-```
-Henvisning badge: tak for at invitere dine venner til app! Denne badge forsvinder kun efter at afinstallere app eller rydde app data. Denne badge giver dig også mulighed for at have nogen annoncer på den app.
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by machine 🤖) as:
-```
-Henvisning
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by machine 🤖) as:
-```
-Fjernelse annoncer: udveksling henvisninger kreditter med venner til at fjerne annoncer
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by machine 🤖) as:
-```
-Sendte kreditter: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by machine 🤖) as:
-```
-Modtagne kreditter: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

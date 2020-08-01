@@ -3867,56 +3867,6 @@ tester beta insigna: vă mulțumesc pentru a fi un tester beta! Această emblem�
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by machine 🤖) as:
-```
-insigna de trimitere: vă mulțumesc pentru invitarea prietenilor la app! Această emblemă va dispărea numai după dezinstalarea aplicației sau ștergerea datelor aplicației. De asemenea, insigna vă permite să aveți anunțuri pe app.
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by machine 🤖) as:
-```
-Trimitere
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by machine 🤖) as:
-```
-Eliminarea anunțurilor: credite referrals schimb cu prietenii pentru a elimina anunțurile
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by machine 🤖) as:
-```
-Credite trimise: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by machine 🤖) as:
-```
-Credite primite: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

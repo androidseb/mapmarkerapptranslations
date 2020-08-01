@@ -3867,56 +3867,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by machine 🤖) as:
-```
-रेफरल बिल्ला: आप app करने के लिए अपने मित्रों को आमंत्रित करने के लिए धन्यवाद! यह बिल्ला केवल अनुप्रयोग की स्थापना रद्द या अनुप्रयोग डेटा साफ़ पर गायब हो जाएगा। यह बिल्ला भी आप अनुप्रयोग पर कोई विज्ञापन नहीं करने की अनुमति देता है।
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by machine 🤖) as:
-```
-रेफरल
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by machine 🤖) as:
-```
-मित्र विज्ञापनों को हटाने के साथ विनिमय रेफरल क्रेडिट: विज्ञापन निकाल रहा है
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by machine 🤖) as:
-```
-भेजा क्रेडिट: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by machine 🤖) as:
-```
-प्राप्त क्रेडिट: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

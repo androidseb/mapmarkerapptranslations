@@ -3867,56 +3867,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by machine 🤖) as:
-```
-ป้ายอ้างอิง: ขอขอบคุณสำหรับการเชิญชวนให้เพื่อนของคุณเพื่อ app! ป้ายนี้จะหายไปเมื่อได้ถอนการติดตั้ง app หรือล้างข้อมูลแอป ป้ายนี้ยังช่วยให้คุณมีไม่มีโฆษณาบนแอป
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by machine 🤖) as:
-```
-การอ้างอิง
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by machine 🤖) as:
-```
-การถอดโฆษณา: สินเชื่ออ้างอิงการแลกเปลี่ยนกับเพื่อน ๆ ที่จะลบโฆษณา
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by machine 🤖) as:
-```
-สินเชื่อส่ง: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by machine 🤖) as:
-```
-เครดิตที่ได้รับ: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

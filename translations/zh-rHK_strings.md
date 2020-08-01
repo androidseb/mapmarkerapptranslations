@@ -3867,56 +3867,6 @@ beta測試者徽章：謝謝您的Beta測試！此徽章只會在卸載應用程
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by machine 🤖) as:
-```
-推薦徽章：感謝您邀請您的朋友的應用程序！此徽章只會在卸載應用程序或清除應用數據消失。此徽章，您還可以對應用程序沒有廣告。
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by machine 🤖) as:
-```
-推薦
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by machine 🤖) as:
-```
-刪除廣告：交流轉介學分與朋友移除廣告
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by machine 🤖) as:
-```
-發送學分： %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by machine 🤖) as:
-```
-收到學分： %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

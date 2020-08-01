@@ -3867,56 +3867,6 @@ Beta tester odznak: děkuji vám za to, že beta tester! Tento odznak zmizí pou
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by machine 🤖) as:
-```
-Postoupení odznak: Děkuji za pozvání své přátele k aplikaci! Tento odznak zmizí pouze po odinstalování aplikace nebo vymazání dat aplikace. Tento odznak také vám umožní mít žádné reklamy na app.
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by machine 🤖) as:
-```
-postoupení
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by machine 🤖) as:
-```
-Odstranění reklam: Výměna odkazům úvěry s přáteli na odstranění reklam
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by machine 🤖) as:
-```
-Odeslané kreditů: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by machine 🤖) as:
-```
-Přijaté úvěry: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

@@ -3867,56 +3867,6 @@ Beta tester distintivo: grazie per essere un beta tester! Questo distintivo scom
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by machine 🤖) as:
-```
-distintivo Referral: grazie per invitare i tuoi amici a l'app! Questo distintivo scomparirà solo disinstallare l'applicazione o cancellare i dati delle applicazioni. Questo badge consente anche di avere nessun annuncio sulla app.
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by machine 🤖) as:
-```
-Referral
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by machine 🤖) as:
-```
-Rimozione di annunci: referrals cambio crediti con gli amici per evitare le pubblicità
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by machine 🤖) as:
-```
-Crediti inviati: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by machine 🤖) as:
-```
-Accrediti ricevuti: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

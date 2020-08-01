@@ -3867,56 +3867,6 @@ Beta testeris žetons: paldies par to, ka beta testētājs! Šī emblēma pazud�
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by machine 🤖) as:
-```
-Referral žetons: paldies par aicinot savus draugus uz app! Šī emblēma pazudīs tikai pēc atinstalēšanas lietotni vai klīringa lietotņu datus. Tas žetons arī ļauj jums nav reklāmas app.
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by machine 🤖) as:
-```
-Referral
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by machine 🤖) as:
-```
-Noņemot reklāmas: maiņas nodošanu kredītus ar draugiem, lai novērstu reklāmas
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by machine 🤖) as:
-```
-Nosūtītās kredīti: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by machine 🤖) as:
-```
-Saņemtie kredīti: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

@@ -3867,56 +3867,6 @@ Béta-tesztelő kapott: köszönöm, hogy egy béta teszter! Ez a jelvény eltű
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by machine 🤖) as:
-```
-Referral jelvény: köszönöm meghívhatja barátait a app! Ez a jelvény eltűnik csak azt követően eltávolítani az alkalmazást vagy törlése az alkalmazás adatait. Ez a jelvény azt is lehetővé teszi, hogy nincs hirdetéseket az app.
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by machine 🤖) as:
-```
-referral
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by machine 🤖) as:
-```
-Eltávolítása hirdetések: csere áttétel kredit barátaival eltávolítani hirdetések
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by machine 🤖) as:
-```
-Elküldött kredit: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by machine 🤖) as:
-```
-Kedvezményt kaptak: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

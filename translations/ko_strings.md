@@ -3867,56 +3867,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by machine 🤖) as:
-```
-추천 배지 : 응용 프로그램에 친구를 초대 주셔서 감사합니다! 이 배지는 응용 프로그램을 제거하거나 응용 프로그램 데이터를 삭제에 사라집니다. 이 배지는 앱에 광고가 없습니다 수 있습니다.
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by machine 🤖) as:
-```
-추천
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by machine 🤖) as:
-```
-광고를 제거하는 친구들과 교환 추천 크레딧 : 광고를 제거
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by machine 🤖) as:
-```
-보낸 크레딧 : %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by machine 🤖) as:
-```
-받은 학점 : %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

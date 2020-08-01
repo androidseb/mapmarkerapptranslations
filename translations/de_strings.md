@@ -3867,56 +3867,6 @@ Beta-Tester Abzeichen: Danke dass Sie ein Beta-Tester sind! Dieses Abzeichen wir
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by human 👀) as:
-```
-Referral Abzeichen: Danke für das Empfehlen der App an deine Freunde! Dieses Abzeichen wird nur verschwinden, wenn Sie die App deinstallieren oder die App-Daten löschen. Diese Auszeichnung ermöglicht es Ihnen, keine Werbung in der App angezeigt zu bekommen.
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by human 👀) as:
-```
-Empfehlung
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by human 👀) as:
-```
-Entfernen von Anzeigen: Tauschen Sie Empfehlungen mit Freunden aus um die Werbung zu entfernen
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by human 👀) as:
-```
-Sent Credits: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by human 👀) as:
-```
-Empfangene Credits: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

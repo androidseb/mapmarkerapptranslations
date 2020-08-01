@@ -3867,56 +3867,6 @@ badge Beta tester: obrigado por ser um beta tester! Este emblema desaparecerá a
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by machine 🤖) as:
-```
-crachá de referência: obrigado por convidar seus amigos para o app! Este emblema desaparecerá após a desinstalação do aplicativo ou limpar os dados de aplicativos. Esta medalha também permite que você tenha nenhum anúncio sobre o aplicativo.
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by machine 🤖) as:
-```
-Referência
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by machine 🤖) as:
-```
-Remoção de anúncios: créditos referências de câmbio com os amigos para remover os anúncios
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by machine 🤖) as:
-```
-Créditos enviados: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by machine 🤖) as:
-```
-Créditos recebidos: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

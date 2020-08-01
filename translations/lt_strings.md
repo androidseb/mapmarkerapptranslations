@@ -3866,56 +3866,6 @@ Beta bandytojo ženklelis: dėkojame, kad esate beta bandytojas! Šis ženkliuka
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by human 👀) as:
-```
-Rekomendacijos ženkliukas: dėkojame, kad pakvietėte draugus naudotis programėle! Šis ženkliukas išnyks tik pašalinus programėlę arba išvalius programėlės duomenis. Šis ženkliukas jums taip pat leidžia programėlėje neturėti reklamos.
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by human 👀) as:
-```
-Rekomendacija
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by human 👀) as:
-```
-Reklamų pašalinimas: tam, kad pašalintumėte reklamas keiskitės rekomendacijų kreditais su draugais
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by human 👀) as:
-```
-Siųsti kreditus: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by human 👀) as:
-```
-Gauti kreditai: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

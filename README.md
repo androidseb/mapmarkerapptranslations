@@ -77,7 +77,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Latvian (0% human-translated)](./translations/lv_strings.md)
 
-[Lithuanian (73% human-translated)](./translations/lt_strings.md)
+[Lithuanian (72% human-translated)](./translations/lt_strings.md)
 
 [Norwegian (0% human-translated)](./translations/no_strings.md)
 

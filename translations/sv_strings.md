@@ -3867,56 +3867,6 @@ Betatestaremblem: tack för att du är en betatestare! Detta emblem kommer endas
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by human 👀) as:
-```
-Rekommendationsemblem: tack för att du bjuder in dina vänner till appen! Detta emblem kommer endast att försvinna om du avinstallerar appen eller rensar appdata. Detta emblem gör också att du slipper reklam i appen.
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by human 👀) as:
-```
-Rekommendation
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by human 👀) as:
-```
-Att slippa reklam: byt rekommendationer med dina vänner och slipp reklamen
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by human 👀) as:
-```
-Skickade poäng: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by human 👀) as:
-```
-Mottagna poäng: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

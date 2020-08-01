@@ -3867,56 +3867,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by machine 🤖) as:
-```
-紹介バッジ：アプリにあなたの友人を招待していただきありがとうございます！このバッジは、唯一のアプリケーションをアンインストールするか、アプリデータをクリアしたとき、消えます。このバッジは、またアプリには広告がありませんすることができます。
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by machine 🤖) as:
-```
-紹介
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by machine 🤖) as:
-```
-広告を削除するには、友人との交流の紹介クレジットを：広告を削除
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by machine 🤖) as:
-```
-クレジットを送信： %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by machine 🤖) as:
-```
-受信クレジット： %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

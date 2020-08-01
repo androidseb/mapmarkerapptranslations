@@ -3867,56 +3867,6 @@ translated (by human 👀) as:
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by human 👀) as:
-```
-شارة الترشيح: شكراً لك لدعوة أصدقائك إلى التطبيق! هذه الشارة لن تختفي إلا بعد إلغاء تثبيت التطبيق أو مسح بيانات التطبيق. كما تسمح لك هذا الشارة بإستخدام التطبيق بدون أي إعلانات.
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by human 👀) as:
-```
-نظام الترشيح
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by human 👀) as:
-```
-ازالة الاعلانات: بتادل نقاط نظام الترشيح مع الاصدقاء لإزالة الإعلانات
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by human 👀) as:
-```
-النقاط المرسلة: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by human 👀) as:
-```
-النقاط المتلقاة: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

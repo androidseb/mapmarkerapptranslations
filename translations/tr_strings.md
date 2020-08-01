@@ -3867,56 +3867,6 @@ Beta tester rozeti: bir beta test olmak için teşekkür ederiz! Bu rozet yalnı
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by machine 🤖) as:
-```
-Sevk rozet: app arkadaşlarınızı davet için teşekkür ederiz! Bu rozet yalnızca uygulamayı kaldırmayı veya uygulama verilerini temizleyerek üzerine kaybolur. Bu rozet ayrıca app hiç reklam olmasını sağlar.
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by machine 🤖) as:
-```
-Referans
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by machine 🤖) as:
-```
-reklamları kaldırmak için arkadaşları ile değişim sevk kredisi: reklamların kaldırılmasını
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by machine 🤖) as:
-```
-Gönderilen kredisi: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by machine 🤖) as:
-```
-Alınan krediler: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

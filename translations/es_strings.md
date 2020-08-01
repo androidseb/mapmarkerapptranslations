@@ -3867,56 +3867,6 @@ Beta tester insignia: gracias por ser un beta tester! Este logro desaparecerá �
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by machine 🤖) as:
-```
-insignia de la remisión: gracias por invitar a sus amigos a la aplicación! Este logro desaparecerá únicamente cuando la desinstalación de la aplicación o borrar los datos de la aplicación. Este logro también le permite tener no hay anuncios en la aplicación.
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by machine 🤖) as:
-```
-Remisión
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by machine 🤖) as:
-```
-La eliminación de los anuncios: los créditos referidos intercambio con los amigos para evitar los anuncios
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by machine 🤖) as:
-```
-Créditos enviados: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by machine 🤖) as:
-```
-Créditos: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

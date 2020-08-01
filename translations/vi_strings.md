@@ -3867,56 +3867,6 @@ huy hiệu thử nghiệm Beta: cảm ơn bạn vì đã là một thử nghiệ
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by machine 🤖) as:
-```
-huy hiệu Giới thiệu: cảm ơn bạn đã mời bạn bè của bạn để các ứng dụng! huy hiệu này sẽ biến mất chỉ sau khi gỡ bỏ cài đặt các ứng dụng hoặc xóa dữ liệu ứng dụng. huy hiệu này cũng cho phép bạn không có quảng cáo trên ứng dụng.
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by machine 🤖) as:
-```
-Giới thiệu
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by machine 🤖) as:
-```
-Loại bỏ quảng cáo: giới thiệu trao đổi tín dụng với bạn bè để loại bỏ quảng cáo
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by machine 🤖) as:
-```
-Tín dụng gửi: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by machine 🤖) as:
-```
-Các khoản tín dụng đã nhận: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations

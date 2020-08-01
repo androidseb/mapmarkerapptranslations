@@ -3867,56 +3867,6 @@ značka Beta tester: hvala ti što si beta tester! Ovaj bedž će nestati tek na
 ```
 
 
-## Translation Key: message_referral_badge
-```
-Referral badge: thank you for inviting your friends to the app! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
-```
-translated (by machine 🤖) as:
-```
-Upućivanje značka: hvala za pozivanjem prijatelja u aplikaciju! Ovaj bedž će nestati tek nakon deinstalacije aplikacije ili brisanja podataka aplikacije. Ovaj bedž također vam omogućuje da nema oglasa u aplikaciji.
-```
-
-
-## Translation Key: referral
-```
-Referral
-```
-translated (by machine 🤖) as:
-```
-upućivanje
-```
-
-
-## Translation Key: drawer_referral_description_text
-```
-Removing ads: exchange referrals credits with friends to remove ads
-```
-translated (by machine 🤖) as:
-```
-Uklanjanje oglasa: Razmjena o preporukama kredite s prijateljima ukloniti oglase
-```
-
-
-## Translation Key: referral_sent_x
-```
-Sent credits: %s
-```
-translated (by machine 🤖) as:
-```
-Poslano kredita: %s
-```
-
-
-## Translation Key: referral_received_x
-```
-Received credits: %s
-```
-translated (by machine 🤖) as:
-```
-Primljeni krediti: %s
-```
-
-
 ## Translation Key: translation_contribution_title
 ```
 Contribute to translations
