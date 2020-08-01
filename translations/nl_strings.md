@@ -1280,7 +1280,7 @@ Alle markers en mappen
 ```
 translated (by human 👀) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Om de richting van het noorden van het kompas correct te krijge, moet je je telefoon goed te kalibreren. &lt;br&gt; Om jouw telefoon te kalibreren, beweeg het rond door het tekenen van een 8. De beweging moet breed zijn en ongeveer 3 keer worden herhaald voor een betere efficiëntie. &lt;br&gt; Je kan je toestel op ieder moment kalibreren. &lt;/ b&gt; &lt;br&gt; Het kalibreren heeft zijn beperkingen en is misschien ontoereikend door: &lt;br&gt; • metalen voorwerpen &lt;br&gt; • elektrische apparaten &lt;br&gt; • magneten &lt;br&gt; • in een metalen voertuig auto/bus/trein/vliegtuig</body></html>]]>
+<![CDATA[<html><body><b>Om de richting van het noorden van het kompas correct te krijge, moet je je telefoon goed te kalibreren. <br>Om jouw telefoon te kalibreren, beweeg het rond door het tekenen van een 8. De beweging moet breed zijn en ongeveer 3 keer worden herhaald voor een betere efficiëntie. <br>Je kan je toestel op ieder moment kalibreren.</b><br>Het kalibreren heeft zijn beperkingen en is misschien ontoereikend door: <br>• metalen voorwerpen <br>• elektrische apparaten <br>• magneten <br>• in een metalen voertuig auto/bus/trein/vliegtuig</body></html>]]>
 ```
 
 
