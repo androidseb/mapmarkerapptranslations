@@ -3268,7 +3268,7 @@ Imperiaal (%s)
 ```
 m²/a/ha/km²
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 m²/a/ha/km²
 ```
@@ -3278,7 +3278,7 @@ m²/a/ha/km²
 ```
 Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
 ```
@@ -3288,7 +3288,7 @@ Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
 ```
 m²
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 m²
 ```
@@ -3298,7 +3298,7 @@ m²
 ```
 a
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 a
 ```
@@ -3308,7 +3308,7 @@ a
 ```
 ha
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ha
 ```
@@ -3318,7 +3318,7 @@ ha
 ```
 km²
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 km²
 ```
@@ -3328,7 +3328,7 @@ km²
 ```
 Square yard
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Square yard
 ```
@@ -3338,7 +3338,7 @@ Square yard
 ```
 rd²
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 rd²
 ```
@@ -3348,7 +3348,7 @@ rd²
 ```
 Acre
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Acre
 ```
@@ -3358,7 +3358,7 @@ Acre
 ```
 Township
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Township
 ```
@@ -3368,7 +3368,7 @@ Township
 ```
 mi²
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 mi²
 ```
@@ -4088,7 +4088,7 @@ De te exporteren gegevens bevatten media (foto's) die niet kunnen worden opgenom
 ```
 CSV
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 CSV
 ```
@@ -4754,7 +4754,7 @@ Zoeken mislukt =&gt; %s
 ```
 Do you enjoy the app?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vind je de app leuk?
 ```
@@ -4764,7 +4764,7 @@ Vind je de app leuk?
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Wil je me een email sturen om me te vertellen hoe ik de app kan verbeteren?
 ```
@@ -4774,7 +4774,7 @@ Wil je me een email sturen om me te vertellen hoe ik de app kan verbeteren?
 ```
 Display extra POI fields
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Geef extra POI-velden weer
 ```
@@ -4784,7 +4784,7 @@ Geef extra POI-velden weer
 ```
 IGN plans
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 IGN plannen
 ```
@@ -4794,7 +4794,7 @@ IGN plannen
 ```
 IGN maps
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 IGN-kaarten
 ```
@@ -4804,7 +4804,7 @@ IGN-kaarten
 ```
 IGN - Cadastral parcels
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 IGN - Kadastrale percelen
 ```
@@ -4814,7 +4814,7 @@ IGN - Kadastrale percelen
 ```
 IGN - Aerial
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 IGN - Aerial
 ```
@@ -4824,7 +4824,7 @@ IGN - Aerial
 ```
 Type more and press enter again for refined results
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Typ meer en druk nogmaals op enter voor verfijnde resultaten
 ```
@@ -4834,7 +4834,7 @@ Typ meer en druk nogmaals op enter voor verfijnde resultaten
 ```
 External search
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Extern zoeken
 ```
@@ -4844,7 +4844,7 @@ Extern zoeken
 ```
 Search source
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Zoek bron
 ```
@@ -4854,7 +4854,7 @@ Zoek bron
 ```
 Map Marker's Nominatim server
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Map Marker's Nominatim-server
 ```
@@ -4864,7 +4864,7 @@ Map Marker's Nominatim-server
 ```
 Google Places Search API
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Google Places Search API
 ```
@@ -4874,7 +4874,7 @@ Google Places Search API
 ```
 Here Places Search API
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Here Places Search API
 ```
@@ -4884,7 +4884,7 @@ Here Places Search API
 ```
 You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Je kan zoeken naar plaatsen met "%s". Voor deze zoekopdracht is een internetverbinding vereist. Voer je zoekopdracht in en druk op Enter.
 ```
@@ -4894,7 +4894,7 @@ Je kan zoeken naar plaatsen met "%s". Voor deze zoekopdracht is een internetverb
 ```
 Special thanks
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Speciale dank
 ```
@@ -4904,7 +4904,7 @@ Speciale dank
 ```
 A special thank you to the people who helped me
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Speciaal dank aan de mensen die me hebben geholpen
 ```
@@ -4918,7 +4918,7 @@ Special thanks to the people who worked hard to help with the app translations:
 
 Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Speciale dank aan de mensen die hard hebben gewerkt om te helpen met de app-vertalingen:
 %s
@@ -4932,7 +4932,7 @@ Dank ook aan alle gebruikers die me feedback gaven door de jaren heen en hielpen
 ```
 Map Marker's Pelias server
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Map Marker's Pelias-server
 ```
@@ -4942,7 +4942,7 @@ Map Marker's Pelias-server
 ```
 Local map file
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Lokaal mapbestand
 ```
@@ -4952,7 +4952,7 @@ Lokaal mapbestand
 ```
 Delete
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Verwijder
 ```
@@ -4962,7 +4962,7 @@ Verwijder
 ```
 Search places
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Plaatsen zoeken
 ```
@@ -4972,7 +4972,7 @@ Plaatsen zoeken
 ```
 Create marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Maak een marker
 ```
@@ -4982,7 +4982,7 @@ Maak een marker
 ```
 Cloud map file with account:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Cloudkaartbestand met account:
 ```
@@ -4992,7 +4992,7 @@ Cloudkaartbestand met account:
 ```
 Information
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Informatie
 ```
@@ -5007,7 +5007,7 @@ Exclusive premium features:
 
 You can purchase the lifetime premium upgrade for your Apple account by clicking the "Purchase" button below.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Exclusieve premium-functies:
 - Geen advertenties
@@ -5022,7 +5022,7 @@ U kunt de lifetime premium-upgrade voor jouw Apple-account kopen door hieronder 
 ```
 Purchase
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Aankopen
 ```
@@ -5032,7 +5032,7 @@ Aankopen
 ```
 Restore premium upgrade
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Herstel premium-upgrade
 ```
@@ -5042,7 +5042,7 @@ Herstel premium-upgrade
 ```
 If you have purchased the premium upgrade with your Apple account, you can restore it by tapping the "Restore" button below. Do you want to restore it?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Als je de premium-upgrade met jouw Apple-account hebt gekocht, kan je deze herstellen door op de knop "Aankopen herstellen" hieronder te klikken. Wil je het herstellen?
 ```
@@ -5052,7 +5052,7 @@ Als je de premium-upgrade met jouw Apple-account hebt gekocht, kan je deze herst
 ```
 Restore Purchases
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Aankopen herstellen
 ```
@@ -5062,7 +5062,7 @@ Aankopen herstellen
 ```
 Premium upgrade successfully restored!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Premium-upgrade succesvol hersteld!
 ```
@@ -5072,7 +5072,7 @@ Premium-upgrade succesvol hersteld!
 ```
 Could not restore the premium upgrade from your account
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Kan de premium-upgrade niet herstellen vanuit jouw account
 ```
@@ -5082,7 +5082,7 @@ Kan de premium-upgrade niet herstellen vanuit jouw account
 ```
 Error: could not retrieve the product information.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Fout: kon de productinformatie niet ophalen.
 ```
@@ -5092,7 +5092,7 @@ Fout: kon de productinformatie niet ophalen.
 ```
 Error: it seems your iTunes account is not able to make payments. Please verify your payment settings and try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Fout: het lijkt erop dat jouw iTunes-account geen betalingen kan uitvoeren. Controleer jouw betalingsinstellingen en probeer het opnieuw.
 ```
@@ -5102,7 +5102,7 @@ Fout: het lijkt erop dat jouw iTunes-account geen betalingen kan uitvoeren. Cont
 ```
 Error: purchase failed, please try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Fout: aankoop mislukt, probeer opnieuw.
 ```
@@ -5112,7 +5112,7 @@ Fout: aankoop mislukt, probeer opnieuw.
 ```
 Error: could not connect to iTunes store.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Fout: kan geen verbinding maken met de iTunes Store.
 ```
@@ -5122,7 +5122,7 @@ Fout: kan geen verbinding maken met de iTunes Store.
 ```
 Has local changes, last sync:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Heeft lokale wijzigingen, laatste synchronisatie:
 ```
@@ -5132,7 +5132,7 @@ Heeft lokale wijzigingen, laatste synchronisatie:
 ```
 Has cloud changes, last sync:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Heeft cloudwijzigingen, laatste synchronisatie:
 ```
@@ -5142,7 +5142,7 @@ Heeft cloudwijzigingen, laatste synchronisatie:
 ```
 All changes synced, last sync:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Alle wijzigingen gesynchroniseerd, laatste synchronisatie:
 ```
@@ -5152,7 +5152,7 @@ Alle wijzigingen gesynchroniseerd, laatste synchronisatie:
 ```
 A sync error occurred: the cloud data was created with an older version of the Android app. You need to sync the cloud data again from a more recent version of the Android app before it can be synced here.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Er is een synchronisatiefout opgetreden: de cloudgegevens zijn gemaakt met een oudere versie van de Android-app. Je moet de cloudgegevens opnieuw synchroniseren met een recentere versie van de Android-app voordat deze hier kan worden gesynchroniseerd.
 ```
@@ -5166,7 +5166,7 @@ If you own the cloud account where the cloud map is located, then you probably a
 
 If the cloud account where the cloud map is located is not your own and is shared with you, ask the cloud account owner.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Er is een synchronisatiefout opgetreden: er is geen essentieel cloudbestand gevonden.
 
@@ -5180,7 +5180,7 @@ Als de cloudaccount waar de cloudkaart zich bevindt niet de jouwe is en met je w
 ```
 Drop some files here, or click to select files to upload.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Zet hier enkele bestanden neer of klik om bestanden te selecteren om te uploaden.
 ```
@@ -5190,7 +5190,7 @@ Zet hier enkele bestanden neer of klik om bestanden te selecteren om te uploaden
 ```
 Uploading files…
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Bestanden uploaden ...
 ```
@@ -5200,7 +5200,7 @@ Bestanden uploaden ...
 ```
 You need to open a cloud map in order to be able to add images. Open a cloud map, or sync this map to the cloud and try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 U moet een cloudmap openen om afbeeldingen toe te voegen. Open een cloudmap of synchroniseer deze kaart met de cloud en probeer het opnieuw.
 ```
@@ -5210,7 +5210,7 @@ U moet een cloudmap openen om afbeeldingen toe te voegen. Open een cloudmap of s
 ```
 Some files failed to upload.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Sommige bestanden kunnen niet worden geüpload.
 ```
@@ -5220,7 +5220,7 @@ Sommige bestanden kunnen niet worden geüpload.
 ```
 Log in
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Log in
 ```
@@ -5230,7 +5230,7 @@ Log in
 ```
 To continue, you need to log in with your cloud account. Click the "log in" button below to log in.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Als je wilt doorgaan, moet je je aanmelden met jouw cloudaccount. Klik op de knop 'Inloggen' hieronder om je aan te melden.
 ```
@@ -5240,7 +5240,7 @@ Als je wilt doorgaan, moet je je aanmelden met jouw cloudaccount. Klik op de kno
 ```
 Select a file
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Selecteer een bestand
 ```
@@ -5250,7 +5250,7 @@ Selecteer een bestand
 ```
 Drop a file here, or click here to select from your computer.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Zet hier een bestand neer of klik hier om op jouw computer te selecteren.
 ```
@@ -5260,7 +5260,7 @@ Zet hier een bestand neer of klik hier om op jouw computer te selecteren.
 ```
 Use cloud account: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Gebruik een cloudaccount: %s
 ```
@@ -5270,7 +5270,7 @@ Gebruik een cloudaccount: %s
 ```
 Use other cloud account
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Gebruik een ander cloudaccount
 ```
@@ -5280,7 +5280,7 @@ Gebruik een ander cloudaccount
 ```
 The choices list cannot be empty
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 De keuzelijst mag niet leeg zijn
 ```
@@ -5290,7 +5290,7 @@ De keuzelijst mag niet leeg zijn
 ```
 Empty choices are not allowed
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Lege keuzes zijn niet toegestaan
 ```
@@ -5300,7 +5300,7 @@ Lege keuzes zijn niet toegestaan
 ```
 The name of the custom field cannot be empty
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 De naam van het aangepaste veld mag niet leeg zijn
 ```
@@ -5310,7 +5310,7 @@ De naam van het aangepaste veld mag niet leeg zijn
 ```
 Remove duplicates
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Verwijder duplicaten
 ```
@@ -5320,7 +5320,7 @@ Verwijder duplicaten
 ```
 Search and delete duplicates
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Zoek en verwijder duplicaten
 ```
@@ -5330,7 +5330,7 @@ Zoek en verwijder duplicaten
 ```
 This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Hiermee wordt gezocht naar dubbele markeringen met exact dezelfde gegevens en worden de duplicaten verwijderd. Na deze opruiming blijft slechts één kopie van elke unieke markering over. Wil je doorgaan?
 ```
@@ -5340,7 +5340,7 @@ Hiermee wordt gezocht naar dubbele markeringen met exact dezelfde gegevens en wo
 ```
 Searching and deleting duplicates…
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Duplicaten zoeken en verwijderen ...
 ```
@@ -5350,7 +5350,7 @@ Duplicaten zoeken en verwijderen ...
 ```
 Deleted %d duplicates
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 %d duplicaten verwijderd
 ```
@@ -5360,7 +5360,7 @@ translated (by machine 🤖) as:
 ```
 Would you prefer to search from another source?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Wil je liever vanuit een andere bron zoeken?
 ```
@@ -5370,7 +5370,7 @@ Wil je liever vanuit een andere bron zoeken?
 ```
 Change source
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Verander bron
 ```
@@ -5380,7 +5380,7 @@ Verander bron
 ```
 Wondering how to configure search sources? Click here.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vraag je je af hoe je zoekbronnen configureert? Klik hier.
 ```
@@ -5390,7 +5390,7 @@ Vraag je je af hoe je zoekbronnen configureert? Klik hier.
 ```
 Places search sources
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Zoekbronnen plaatsen
 ```
@@ -5400,7 +5400,7 @@ Zoekbronnen plaatsen
 ```
 Add or configure search source
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Zoekbron toevoegen of configureren
 ```
@@ -5410,7 +5410,7 @@ Zoekbron toevoegen of configureren
 ```
 Select search source
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Selecteer zoekbron
 ```
@@ -5420,7 +5420,7 @@ Selecteer zoekbron
 ```
 Enter value for field "%s"
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Voer waarde in voor veld "%s"
 ```
@@ -5430,7 +5430,7 @@ Voer waarde in voor veld "%s"
 ```
 Algolia Places Search API (daily limit)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Algolia Places Search API (dagelijkse limiet)
 ```
@@ -5440,7 +5440,7 @@ Algolia Places Search API (dagelijkse limiet)
 ```
 Algolia Places Search API (personal account)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Algolia Places Search API (persoonlijk account)
 ```
@@ -5450,7 +5450,7 @@ Algolia Places Search API (persoonlijk account)
 ```
 The search source configuration test succeeded! The search with this search source should now work.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 De configuratie-test voor de zoekopdracht is geslaagd! De zoekopdracht met deze zoekbron zou nu moeten werken.
 ```
@@ -5460,7 +5460,7 @@ De configuratie-test voor de zoekopdracht is geslaagd! De zoekopdracht met deze 
 ```
 Warning: the search source configuration test failed. The search with this search source might not work.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Waarschuwing: de configuratie van de zoekopdracht is mislukt. De zoekopdracht met deze zoekbron werkt mogelijk niet.
 ```
@@ -5470,7 +5470,7 @@ Waarschuwing: de configuratie van de zoekopdracht is mislukt. De zoekopdracht me
 ```
 Google Places Search
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Google Places Search
 ```
@@ -5480,7 +5480,7 @@ Google Places Search
 ```
 HERE
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 HERE
 ```
@@ -5490,7 +5490,7 @@ HERE
 ```
 Nominatim
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Nominatim
 ```
@@ -5500,7 +5500,7 @@ Nominatim
 ```
 Pelias
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Pelias
 ```
@@ -5510,7 +5510,7 @@ Pelias
 ```
 Algolia (public)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Algolia (public)
 ```
@@ -5520,7 +5520,7 @@ Algolia (public)
 ```
 Algolia (private)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Algolia (private)
 ```
@@ -5530,7 +5530,7 @@ Algolia (private)
 ```
 Tutorial
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Tutorial
 ```
@@ -5546,7 +5546,7 @@ It should only take a little bit of your time and will allow you to benefit from
 
 Click the "Change source" button and then the "Tutorial" option to learn more.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 De standaard zoekervaring is niet optimaal, maar het werkt zonder configuratie.
 
@@ -5562,7 +5562,7 @@ Klik op de knop "Bron wijzigen" en vervolgens op de optie "Zelfstudie" voor meer
 ```
 Integrated Android Street Addresses Finder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Integrated Android Street Addresses Finder
 ```
@@ -5572,7 +5572,7 @@ Integrated Android Street Addresses Finder
 ```
 Android Geocoder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Android Geocoder
 ```
@@ -5582,7 +5582,7 @@ Android Geocoder
 ```
 Integrated iOS Street Addresses Finder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Integrated iOS Street Addresses Finder
 ```
@@ -5592,7 +5592,7 @@ Integrated iOS Street Addresses Finder
 ```
 iOS Geocoder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 iOS Geocoder
 ```
@@ -5602,7 +5602,7 @@ iOS Geocoder
 ```
 Microsoft Bing Places Search
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Microsoft Bing Places Search
 ```
@@ -5612,7 +5612,7 @@ Microsoft Bing Places Search
 ```
 Bing
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Bing
 ```

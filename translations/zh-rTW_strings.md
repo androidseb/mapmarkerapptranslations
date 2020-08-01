@@ -1,4 +1,4 @@
-# Map Marker translations for Chinese Traditional (zh-rHK)
+# Map Marker translations for Chinese Taiwan (zh-rTW)
 
 You want to help improve this translation file? Read the [main page](https://github.com/androidseb/mapmarkerapptranslations)
 
