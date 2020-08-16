@@ -43,7 +43,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Chinese Traditional (0% human-translated)](./translations/zh-rHK_strings.md)
 
-[Chinese Taiwan (0% human-translated)](./translations/zh-rTW_strings.md)
+[Chinese Taiwan (28% human-translated)](./translations/zh-rTW_strings.md)
 
 [Croatian (0% human-translated)](./translations/hr_strings.md)
 

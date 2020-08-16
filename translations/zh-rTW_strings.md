@@ -107,7 +107,7 @@ translated (by machine 🤖) as:
 ```
 Coordinates copied to clipboard
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 已複製座標到剪貼簿
 ```
@@ -147,7 +147,7 @@ translated (by machine 🤖) as:
 ```
 Add folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 新增資料夾
 ```
@@ -237,7 +237,7 @@ translated (by machine 🤖) as:
 ```
 Import markers
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 匯入標記
 ```
@@ -247,7 +247,7 @@ translated (by machine 🤖) as:
 ```
 File imported successfully
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 檔案匯入成功
 ```
@@ -257,7 +257,7 @@ translated (by machine 🤖) as:
 ```
 File import failed
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 檔案匯入失敗
 ```
@@ -327,7 +327,7 @@ translated (by machine 🤖) as:
 ```
 Do you want to import the content of this file?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 你想匯入此檔案的內容？
 ```
@@ -418,7 +418,7 @@ translated (by machine 🤖) as:
 This snapshot was made with the app Map Marker:
 %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 此快照是利用Map Marker製作 ： 
  %s
@@ -449,7 +449,7 @@ translated (by machine 🤖) as:
 ```
 Use the long press on the map to create a new marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 長按地圖創建一個新標記
 ```
@@ -553,7 +553,7 @@ translated (by machine 🤖) as:
 ```
 Directions
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 路徑
 ```
@@ -703,7 +703,7 @@ translated (by machine 🤖) as:
 ```
 There is a problem with Google Play Services: it needs to be installed, updated or activated. Click OK to try and solve it.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Google Play Services發生問題 ：它需要被安裝、更新或啟動。點擊OK，嘗試解決這個問題。
 ```
@@ -723,7 +723,7 @@ translated (by machine 🤖) as:
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 如果您喜歡我的應用程式，您可以花費一點時間給予好評:-)
 ```
@@ -734,7 +734,7 @@ translated (by machine 🤖) as:
 OK take me
 to the Play Store
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 OK，帶我到Play商店
 ```
@@ -745,7 +745,7 @@ OK，帶我到Play商店
 I already
 gave a rating
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 我已經給予評價
 ```
@@ -756,7 +756,7 @@ translated (by machine 🤖) as:
 Maybe later
 remind me
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 晚一點
 再提醒我
@@ -768,7 +768,7 @@ translated (by machine 🤖) as:
 Maybe later
 do not remind me
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 晚一點
 不要再提醒我
@@ -789,7 +789,7 @@ translated (by machine 🤖) as:
 ```
 Could not find another map application
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 無法找到另一個地圖應用程式
 ```
@@ -809,7 +809,7 @@ translated (by machine 🤖) as:
 ```
 Imported marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 匯入標記
 ```
@@ -819,7 +819,7 @@ translated (by machine 🤖) as:
 ```
 Settings
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 設定
 ```
@@ -839,7 +839,7 @@ translated (by machine 🤖) as:
 ```
 Decimal degrees
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 DD
 ```
@@ -849,7 +849,7 @@ DD
 ```
 Degrees decimal minutes
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 DDM
 ```
@@ -859,7 +859,7 @@ DDM
 ```
 Degrees minutes seconds
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 DMS
 ```
@@ -879,7 +879,7 @@ translated (by machine 🤖) as:
 ```
 GPS and wireless networks only
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 僅GPS和無線網絡
 ```
@@ -889,7 +889,7 @@ translated (by machine 🤖) as:
 ```
 GPS and wireless networks or magnetic sensor
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 GPS和無線網絡或地磁感測器
 ```
@@ -899,7 +899,7 @@ GPS和無線網絡或地磁感測器
 ```
 Magnetic sensor only
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 只有地磁感測器
 ```
@@ -909,7 +909,7 @@ translated (by machine 🤖) as:
 ```
 Used compass sensor
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 使用指南針感測器
 ```
@@ -959,7 +959,7 @@ translated (by machine 🤖) as:
 ```
 Marker popup style
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 標記彈出樣式
 ```
@@ -981,7 +981,7 @@ Bubble
 ```
 translated (by machine 🤖) as:
 ```
-範圍
+泡沫
 ```
 
 
@@ -1009,7 +1009,7 @@ translated (by machine 🤖) as:
 ```
 Always
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 總是
 ```
@@ -1019,7 +1019,7 @@ translated (by machine 🤖) as:
 ```
 Crosshair display
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 顯示十字線
 ```
@@ -1049,7 +1049,7 @@ translated (by machine 🤖) as:
 ```
 Lng:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 經度：
 ```
@@ -1069,7 +1069,7 @@ translated (by machine 🤖) as:
 ```
 Advanced
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 進階
 ```
@@ -1091,7 +1091,7 @@ Actions
 ```
 translated (by machine 🤖) as:
 ```
-路徑
+行動
 ```
 
 
@@ -1109,7 +1109,7 @@ translated (by machine 🤖) as:
 ```
 Markers ignored on import (duplicates): %1$d
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 標記匯入忽略（複寫）： %1$d
 ```
@@ -1119,7 +1119,7 @@ translated (by machine 🤖) as:
 ```
 %1$d markers
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 %1$d標記
 ```
@@ -1129,7 +1129,7 @@ translated (by machine 🤖) as:
 ```
 No auto naming
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 無自動命名
 ```
@@ -1139,7 +1139,7 @@ translated (by machine 🤖) as:
 ```
 Auto naming "number"
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 以「編號」自動命名
 ```
@@ -1149,7 +1149,7 @@ translated (by machine 🤖) as:
 ```
 Auto naming "Marker number"
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 以「標記編號」自動命名
 ```
@@ -1159,7 +1159,7 @@ translated (by machine 🤖) as:
 ```
 New marker auto naming
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 自動命名新標記
 ```
@@ -1189,7 +1189,7 @@ translated (by machine 🤖) as:
 ```
 Open the help page and see the FAQ
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 打開幫助頁面，觀看常見問題與解答
 ```
@@ -1199,7 +1199,7 @@ translated (by machine 🤖) as:
 ```
 Features
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 特點
 ```
@@ -1209,7 +1209,7 @@ translated (by machine 🤖) as:
 ```
 View the list of upcoming features for the next app version
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 查看即將推出的下一個版本中的功能列表
 ```
@@ -1229,7 +1229,7 @@ translated (by machine 🤖) as:
 ```
 About
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 關於
 ```
@@ -1279,7 +1279,7 @@ translated (by machine 🤖) as:
 ```
 <![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 &lt;！[CDATA [&lt;HTML&gt; &lt;BODY&gt; &lt;B&gt;為了得到正確指南針方向，你需要正確校正你的手機。只需透過8字形移動並重複3次左右。您可以在任何時候做該動作校正你的手機。&lt;/ B&gt;校正有其局限性，可能是不足以抵銷附近的干擾，如：大型金屬物體、電子設備、磁鐵、位於汽車/巴士/火車/飛機內部&lt;/ body&gt; &lt;/ HTML&gt;
 ```
@@ -1309,7 +1309,7 @@ translated (by machine 🤖) as:
 ```
 Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 謝謝您的捐款！此捐贈徽章可授予您使用高級功能的權限:-)
 ```
@@ -1339,7 +1339,7 @@ translated (by machine 🤖) as:
 ```
 Google Drive
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Google Drive
 ```
@@ -1349,7 +1349,7 @@ Google Drive
 ```
 Dropbox
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Dropbox
 ```
@@ -1359,7 +1359,7 @@ Dropbox
 ```
 Configuring&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 設置...
 ```
@@ -1379,7 +1379,7 @@ translated (by machine 🤖) as:
 ```
 Never
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 永遠不要
 ```
@@ -1409,7 +1409,7 @@ translated (by machine 🤖) as:
 ```
 Load error
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 載入錯誤
 ```
@@ -1429,7 +1429,7 @@ translated (by machine 🤖) as:
 ```
 Root
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 根目錄
 ```
@@ -1469,7 +1469,7 @@ translated (by machine 🤖) as:
 ```
 Premium access available! You currently have access to premium features.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 高級功能可用！您現在可以使用高級功能。
 ```
@@ -1479,7 +1479,7 @@ translated (by machine 🤖) as:
 ```
 You cannot select that folder because it contains multiple files named %1$s. The sync requires the folder to contain only one file with that name.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 您不能選擇該文件夾，因為它包含多個名為％1 $ s的文件。 同步要求文件夾僅包含一個具有該名稱的文件。
 ```
@@ -1489,7 +1489,7 @@ translated (by machine 🤖) as:
 ```
 It seems sync data already exists in that folder. If you select that folder, your local data will be merged with the folder data when sync is performed. Is that what you want?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 似乎該文件夾中已經存在同步數據。 如果選擇該文件夾，則執行同步時，本機數據將與文件夾數據合併。確定要這麼做?
 ```
@@ -1499,7 +1499,7 @@ translated (by machine 🤖) as:
 ```
 File options
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 檔案選項
 ```
@@ -1509,7 +1509,7 @@ translated (by machine 🤖) as:
 ```
 Cloud sync
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 雲端同步
 ```
@@ -1519,7 +1519,7 @@ translated (by machine 🤖) as:
 ```
 Sync this map file on the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 同步雲端上的這個地圖檔案
 ```
@@ -1529,7 +1529,7 @@ translated (by machine 🤖) as:
 ```
 Map file
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 地圖檔案
 ```
@@ -1539,7 +1539,7 @@ translated (by machine 🤖) as:
 ```
 Create local map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 創建本機地圖
 ```
@@ -1549,7 +1549,7 @@ translated (by machine 🤖) as:
 ```
 Create a new map file locally
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 在本機創建一個新的地圖檔案
 ```
@@ -1559,7 +1559,7 @@ translated (by machine 🤖) as:
 ```
 Create cloud map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 創建雲端地圖
 ```
@@ -1569,7 +1569,7 @@ translated (by machine 🤖) as:
 ```
 Create a map file on the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 在雲端上創建地圖檔案
 ```
@@ -1579,7 +1579,7 @@ translated (by machine 🤖) as:
 ```
 Retrieves changes from the cloud and sends local changes to the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 從雲端中檢索更改並將本機更改同步到雲端
 ```
@@ -1589,7 +1589,7 @@ translated (by machine 🤖) as:
 ```
 Rename
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 重新命名
 ```
@@ -1599,7 +1599,7 @@ translated (by machine 🤖) as:
 ```
 Rename the map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 重新命名地圖
 ```
@@ -1619,7 +1619,7 @@ translated (by machine 🤖) as:
 ```
 Enter the new map's name
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 輸入新地圖的名字
 ```
@@ -1629,7 +1629,7 @@ translated (by machine 🤖) as:
 ```
 %1$d folders, %2$d markers, size: %3$d KB
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 %1$d文件夾%2$d標記，尺寸為%3$d KB
 ```
@@ -1649,7 +1649,7 @@ translated (by machine 🤖) as:
 ```
 Could not create folder: name empty
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 無法創建文件夾：名字空白
 ```
@@ -1669,7 +1669,7 @@ translated (by machine 🤖) as:
 ```
 Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 感感謝您購買並升級為Map Marker高級版:-)
 ```
@@ -1679,7 +1679,7 @@ translated (by machine 🤖) as:
 ```
 Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 感謝您對Map Marker感興趣，通過索取免費的高級版:-)
 ```
@@ -1689,7 +1689,7 @@ translated (by machine 🤖) as:
 ```
 Premium
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 高級版
 ```
@@ -1699,7 +1699,7 @@ translated (by machine 🤖) as:
 ```
 Upgrade to premium and take full advantage of Map Marker features!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 升級到高級版，並充分利用Map Marker功能！
 ```
@@ -1709,7 +1709,7 @@ translated (by machine 🤖) as:
 ```
 Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 抱歉，您需要升級到高級版才能使用此功能。 升級到高級版本並充分利用地圖標記功能！
 ```
@@ -1719,7 +1719,7 @@ translated (by machine 🤖) as:
 ```
 You have the premium upgrade for free! You can still purchase it if you want to show your support :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 您有免費的高級版升級！您仍然可以購買它，如果你想表達您的支持:-)
 ```
@@ -1739,7 +1739,7 @@ translated (by machine 🤖) as:
 ```
 My Google account already has premium access, activate it!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 我的Google帳戶已具有高級權限，啟動它！
 ```
@@ -1759,7 +1759,7 @@ translated (by machine 🤖) as:
 ```
 Open a list of actions to solve possible problems
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 打開解決可能出現的問題的操作列表
 ```
@@ -1779,7 +1779,7 @@ translated (by machine 🤖) as:
 ```
 Checks that the app has access to internet
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 檢查該應用程式能夠上網
 ```
@@ -1799,7 +1799,7 @@ translated (by machine 🤖) as:
 ```
 Checks that the app can save files on the internal SD card
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 檢查該應用程式可以儲存內部SD卡上的文件
 ```
@@ -1809,7 +1809,7 @@ translated (by machine 🤖) as:
 ```
 GP Services (app)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Google Play服務（app）
 ```
@@ -1819,7 +1819,7 @@ Google Play服務（app）
 ```
 Open the details of the currently installed Google Play Services app
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 打開當前安裝的Google Play服務應用的詳細信息
 ```
@@ -1829,7 +1829,7 @@ translated (by machine 🤖) as:
 ```
 GP Services (store)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Google Play服務（store）
 ```
@@ -1839,7 +1839,7 @@ Google Play服務（store）
 ```
 Google Play (app)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Google Play (app)
 ```
@@ -1849,7 +1849,7 @@ Google Play (app)
 ```
 Contact support
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 聯繫技術支援
 ```
@@ -1859,7 +1859,7 @@ translated (by machine 🤖) as:
 ```
 Write an email to support with the details of your problem
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 寫一封email詳細描述您的問題來進行技術支援
 ```
@@ -1879,7 +1879,7 @@ translated (by machine 🤖) as:
 ```
 Testing&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 測試中...
 ```
@@ -1909,7 +1909,7 @@ translated (by machine 🤖) as:
 ```
 Disk test failed: could not write to internal storage
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 硬碟測試失敗：無法寫入內部存儲空間
 ```
@@ -1919,7 +1919,7 @@ translated (by machine 🤖) as:
 ```
 Disk test failed: could not write to external storage
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 硬碟測試失敗：無法寫入到外部存儲空間
 ```
@@ -1959,7 +1959,7 @@ translated (by machine 🤖) as:
 ```
 Share cloud map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 分享雲端地圖
 ```
@@ -1969,7 +1969,7 @@ translated (by machine 🤖) as:
 ```
 Open the cloud map folder to view its properties and share it with other people
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 打開雲端地圖文件夾來查看其屬性，並與其他人分享
 ```
@@ -1979,7 +1979,7 @@ translated (by machine 🤖) as:
 ```
 Internal file to SD
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 從內部儲存空間到SD卡
 ```
@@ -2019,7 +2019,7 @@ translated (by machine 🤖) as:
 ```
 Files successfully saved to: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 檔案成功保存到%s
 ```
@@ -2029,7 +2029,7 @@ translated (by machine 🤖) as:
 ```
 View history/Restore
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 查看歷史記錄/還原
 ```
@@ -2039,7 +2039,7 @@ translated (by machine 🤖) as:
 ```
 View history of modifications to the cloud folder and select a version to restore to
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 查看對雲端文件夾的修改歷史記錄，然後選擇要還原的版本
 ```
@@ -2059,7 +2059,7 @@ translated (by machine 🤖) as:
 ```
 Create a new map file locally or on the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 在本機或雲端上創建新的地圖文件
 ```
@@ -2069,7 +2069,7 @@ translated (by machine 🤖) as:
 ```
 Open cloud map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 開啟雲端地圖
 ```
@@ -2079,7 +2079,7 @@ translated (by machine 🤖) as:
 ```
 Open a map file from the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 從雲端開啟地圖檔案
 ```
@@ -2089,7 +2089,7 @@ translated (by machine 🤖) as:
 ```
 Map Marker needs the permission to access your location in order to display it on the map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Map Marker需要您的位置訪問權限，才能在地圖上顯示您的位置
 ```
@@ -2099,7 +2099,7 @@ Map Marker需要您的位置訪問權限，才能在地圖上顯示您的位置
 ```
 Map Marker needs the permission to access to the storage of your device
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Map Marker需要訪問您的設備的存儲權限
 ```
@@ -2109,7 +2109,7 @@ Map Marker需要訪問您的設備的存儲權限
 ```
 Open settings
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 開啟設置
 ```
@@ -2119,7 +2119,7 @@ translated (by machine 🤖) as:
 ```
 No map folder found on the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 在雲端沒有地圖文件夾
 ```
@@ -2139,7 +2139,7 @@ translated (by machine 🤖) as:
 ```
 Choose a version to restore to
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 選擇要還原的版本
 ```
@@ -2149,7 +2149,7 @@ translated (by machine 🤖) as:
 ```
 You must sync first before restoring an older version
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 您必須先同步，然後才能還原舊版本
 ```
@@ -2159,7 +2159,7 @@ translated (by machine 🤖) as:
 ```
 Are you sure you want to restore this version?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 您確定要還原到這個版本？
 ```
@@ -2169,7 +2169,7 @@ translated (by machine 🤖) as:
 ```
 Map Marker lost permissions to write to your cloud account. Sync will always fail until this is fixed. Do you want to fix it now?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Map Marker遺失寫入您雲端帳戶的權限。 此問題解決之前，同步會失敗。 您要立即修復嗎？
 ```
@@ -2179,7 +2179,7 @@ Map Marker遺失寫入您雲端帳戶的權限。 此問題解決之前，同步
 ```
 A sync error occurred. Please try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 發生同步錯誤。請再次重試。
 ```
@@ -2189,7 +2189,7 @@ translated (by machine 🤖) as:
 ```
 A sync error occurred: network error. Please try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 發生同步錯誤：網絡錯誤。 請再試一遍。
 ```
@@ -2199,7 +2199,7 @@ translated (by machine 🤖) as:
 ```
 A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 發生同步錯誤：發生衝突，另一台設備正在同時執行同步。 請再試一遍。
 ```
@@ -2209,7 +2209,7 @@ translated (by machine 🤖) as:
 ```
 Changes are available from the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 可以從雲端中更改
 ```
@@ -2219,7 +2219,7 @@ translated (by machine 🤖) as:
 ```
 Changes made from another device were synced on the cloud. You can retrieve those changes by syncing.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 從另一台設備進行的更改已在雲端上同步。 您可以通過同步來檢索那些更改。
 ```
@@ -2229,7 +2229,7 @@ translated (by machine 🤖) as:
 ```
 Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for details on how to restore cloud permissions.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 無法恢復雲端存儲權限。詳細內容請見“關於” - &gt;“常見問題解答”中關於如何恢復的雲端權限的詳細資訊。
 ```
@@ -2239,7 +2239,7 @@ translated (by machine 🤖) as:
 ```
 A sync error occurred: duplicate index, there are at least two files named index.json in the map cloud folder. Remove the duplicates manually and try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 發生同步錯誤：索引重複，地圖雲文件夾中至少有兩個名為index.json的文件。 手動刪除重複項，然後重試。
 ```
@@ -2269,7 +2269,7 @@ translated (by machine 🤖) as:
 ```
 Map Marker needs the permission to make calls on your device
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Map Marker需要權限才能在您的設備上撥打電話
 ```
@@ -2279,7 +2279,7 @@ Map Marker需要權限才能在您的設備上撥打電話
 ```
 No phone number is defined for that marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 該標記上沒有電話號碼
 ```
@@ -2299,7 +2299,7 @@ translated (by machine 🤖) as:
 ```
 Open the marker location in this app
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 在此應用程序開啟標記位置
 ```
@@ -2309,7 +2309,7 @@ translated (by machine 🤖) as:
 ```
 Open the marker street view in this app
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 在此應用程序中開啟標記觀看街景
 ```
@@ -2319,7 +2319,7 @@ translated (by machine 🤖) as:
 ```
 Enter navigation mode in this app to get directions to the marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 在此應用中進入導航模式以獲取前往標記的路線
 ```
@@ -2339,7 +2339,7 @@ translated (by machine 🤖) as:
 ```
 Share the selected marker as plain text into another app
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 以純文字形式將所選標記分享到另一個應用程序中
 ```
@@ -2359,7 +2359,7 @@ translated (by machine 🤖) as:
 ```
 A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 發生同步錯誤：雲端中的數據已經更新到最新版本的應用程序中。您必須在此設備中更新Map Marker才能同步。
 ```
@@ -2369,7 +2369,7 @@ translated (by machine 🤖) as:
 ```
 Could not find a phone app on this device.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 在此設備上找不到電話app。
 ```
@@ -2389,7 +2389,7 @@ translated (by machine 🤖) as:
 ```
 Call phone number
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 撥打電話號碼
 ```
@@ -2399,7 +2399,7 @@ translated (by machine 🤖) as:
 ```
 Dial phone number
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 撥打電話號碼
 ```
@@ -2409,7 +2409,7 @@ translated (by machine 🤖) as:
 ```
 Text phone number
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 編輯電話號碼
 ```
@@ -2419,7 +2419,7 @@ translated (by machine 🤖) as:
 ```
 Default navigation action
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 預設導航動作
 ```
@@ -2429,7 +2429,7 @@ translated (by machine 🤖) as:
 ```
 Default phone action
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 預設手機動作
 ```
@@ -2439,7 +2439,7 @@ translated (by machine 🤖) as:
 ```
 Ask
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 要求
 ```
@@ -2449,7 +2449,7 @@ translated (by machine 🤖) as:
 ```
 Premium free trial
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 高級版免費試用
 ```
@@ -2459,7 +2459,7 @@ translated (by machine 🤖) as:
 ```
 What is the premium upgrade?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 高級版升級是什麼？
 ```
@@ -2469,7 +2469,7 @@ translated (by machine 🤖) as:
 ```
 Premium free trial started! The trial will expire at the following date: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 高級版的免費試用開始！該適用將在以下日期過期： %s
 ```
@@ -2501,7 +2501,7 @@ translated (by machine 🤖) as:
 ```
 Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 同步已取消：您需要升級到高級版才能執行同步。
 ```
@@ -2511,7 +2511,7 @@ translated (by machine 🤖) as:
 ```
 Error: trial starting in the future!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 錯誤：試用會在未來開始
 ```
@@ -2591,7 +2591,7 @@ translated (by machine 🤖) as:
 ```
 Details
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 詳細資訊
 ```
@@ -2611,7 +2611,7 @@ translated (by machine 🤖) as:
 ```
 The file already exists, do you want to overwrite it?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 該文件已經存在，您想覆蓋它嗎？
 ```
@@ -2621,7 +2621,7 @@ translated (by machine 🤖) as:
 ```
 Copy markers to folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 複製標記到文件夾
 ```
@@ -2631,7 +2631,7 @@ translated (by machine 🤖) as:
 ```
 Error loading the Google Map component. Please restart the app.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 載入Google Map組件時發生錯誤。 請重新啟動應用程序。
 ```
@@ -2641,7 +2641,7 @@ translated (by machine 🤖) as:
 ```
 You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 您將在此處看到標記列表。當前所選文件夾中沒有標記。您可以通過點擊下面的按鈕添加新標記。
 ```
@@ -2651,7 +2651,7 @@ translated (by machine 🤖) as:
 ```
 No search results
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 搜索無結果
 ```
@@ -2691,7 +2691,7 @@ Bing Aerial
 ```
 Bing Aerial With Labels
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Bing Aerial有標籤
 ```
@@ -2721,7 +2721,7 @@ translated (by machine 🤖) as:
 ```
 No folder selected
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 沒有文件夾被選擇
 ```
@@ -2731,7 +2731,7 @@ translated (by machine 🤖) as:
 ```
 Storage folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 存儲空間文件夾
 ```
@@ -2753,7 +2753,7 @@ translated (by machine 🤖) as:
 ```
 No folder is selected for offline map files. In order to use offline maps, open the settings and select a folder for offline map files.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 沒有為離線地圖檔案選擇文件夾。為了使用離線地圖，請打開設置並選擇用於離線地圖檔案的文件夾。
 ```
@@ -2763,7 +2763,7 @@ translated (by machine 🤖) as:
 ```
 The selected offline map folder you selected contains no files. Make sure you add the offline map files in that folder before using offline maps, otherwise the map will be empty.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 您所選擇的離線地圖文件夾不包含檔案。使用離線地圖之前，請確保將離線地圖檔案添加到該文件夾中，否則地圖將為空。
 ```
@@ -2793,7 +2793,7 @@ translated (by machine 🤖) as:
 ```
 How to do it?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 該如何做？
 ```
@@ -2803,7 +2803,7 @@ translated (by machine 🤖) as:
 ```
 Click here to open the web page explaining how to obtain those maps.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 點擊此處打開解釋如何獲取這些地圖的網頁。
 ```
@@ -2813,7 +2813,7 @@ translated (by machine 🤖) as:
 ```
 Credits
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 致謝
 ```
@@ -2823,7 +2823,7 @@ translated (by machine 🤖) as:
 ```
 Copyright and legal mentions
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 版權和法律聲明
 ```
@@ -2835,7 +2835,7 @@ Legal mentions for other map data than Google Maps:
 
 %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 除Google Maps之外的其他地圖數據的法律提及：
  
@@ -2847,7 +2847,7 @@ translated (by machine 🤖) as:
 ```
 Disable error file dump
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 禁用錯誤檔案轉儲存
 ```
@@ -2857,7 +2857,7 @@ translated (by machine 🤖) as:
 ```
 Disable writing app errors to a file on the SD card
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 禁止將應用程序錯誤寫入SD卡上的檔案
 ```
@@ -2867,7 +2867,7 @@ translated (by machine 🤖) as:
 ```
 Enable error file dump
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 啟用錯誤檔案轉儲存
 ```
@@ -2877,7 +2877,7 @@ translated (by machine 🤖) as:
 ```
 Enable writing app errors to a file on the SD card
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 啟用將應用程序錯誤寫入SD卡上的檔案
 ```
@@ -2897,7 +2897,7 @@ translated (by machine 🤖) as:
 ```
 Never
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 永遠不要
 ```
@@ -2917,7 +2917,7 @@ translated (by machine 🤖) as:
 ```
 %d seconds after the app enters background
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 %秒後應用程序進入後台
 ```
@@ -2927,7 +2927,7 @@ translated (by machine 🤖) as:
 ```
 %d minutes after the app enters background
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 %d分後應用程序進入後台
 ```
@@ -2937,7 +2937,7 @@ translated (by machine 🤖) as:
 ```
 Sync starting in %d seconds
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 開始同步%d秒
 ```
@@ -2947,7 +2947,7 @@ translated (by machine 🤖) as:
 ```
 You can cancel the sync at any time and your data will be synced on next attempt.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 您可以隨時取消同步，並且您的數據將在下次嘗試時同步。
 ```
@@ -2957,7 +2957,7 @@ translated (by machine 🤖) as:
 ```
 Press back again to exit
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 再次按下退出離開城市
 ```
@@ -2967,7 +2967,7 @@ translated (by machine 🤖) as:
 ```
 Cannot start sync with no internet access on the device.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 無法在設備上沒有網路訪問的情況下開始同步。
 ```
@@ -2977,7 +2977,7 @@ translated (by machine 🤖) as:
 ```
 Manage map files
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 管理地圖檔案
 ```
@@ -2987,7 +2987,7 @@ translated (by machine 🤖) as:
 ```
 Map files
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 地圖檔案
 ```
@@ -2997,7 +2997,7 @@ translated (by machine 🤖) as:
 ```
 Delete map file
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 刪除地圖檔案
 ```
@@ -3107,7 +3107,7 @@ translated (by machine 🤖) as:
 ```
 Manual
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 使用手冊
 ```
