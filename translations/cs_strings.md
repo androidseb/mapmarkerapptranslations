@@ -1277,13 +1277,35 @@ Všechny značky a složky
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; S cílem získat správné severní směr kompasu, je třeba, aby vám správně kalibrovat telefonu. &lt;br&gt; Při kalibraci telefon, jednoduše pohybovat kolem nakreslením 8 . Tento krok musí být široká a opakuje asi 3x pro lepší účinnost. &lt;br&gt; můžete kalibrovat vám telefon tím, že dělá to kdykoliv. &lt;/ b&gt; &lt;br&gt; kalibrace má svá omezení a nemusí stačit proti rušení blízkých, jako jsou: &lt;br&gt; • velké kovové předměty &lt;br&gt; • elektronická zařízení Galerie • magnety &lt;br&gt; • vnitřní autě / autobusem / vlakem / letadlem &lt;/ body&gt; &lt;/ html&gt;
+Abyste získali kompas správným směrem na sever, musíte zařízení správně kalibrovat.
+Chcete-li provést kalibraci zařízení, jednoduše jej přemístěte nakreslením symbolu 8. Pro větší efektivitu musí být pohyb široký a opakovaný asi 3krát.
+Tímto způsobem můžete provést kalibraci zařízení kdykoli.
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by machine 🤖) as:
+```
+Kalibrace má svá omezení a nemusí stačit k potlačení rušení v okolí, jako například:
+• velké kovové předměty
+• elektronická zařízení
+• magnety
+• uvnitř automobilu / autobusu / vlaku / letadla
 ```
 
 
@@ -3907,13 +3929,29 @@ přidat barvu
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Co je prémie aktualizovat &lt;/ b&gt; &lt;br&gt; Na vrcholu odstraňování reklam, upgrade prémie odemkne následující exkluzivní prémiové rysy:? &lt;br&gt; • Sync Google Drive nebo Dropbox &lt;br&gt; • spolupracovat přes Google Drive nebo Dropbox &lt;br&gt; • historie Mapa verze a obnovení &lt;br&gt; &lt;/ body&gt; &lt;/ html&gt;
+Co je prémiový upgrade?
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by machine 🤖) as:
+```
+Kromě odstraňování reklam prémiový upgrade odemkne následující exkluzivní prémiové funkce:
+• Synchronizace na Google Drive nebo Dropbox
+• Spolupracujte prostřednictvím Google Drive nebo Dropbox
+• Mapovat historii verzí a obnovit
 ```
 
 
@@ -4059,7 +4097,7 @@ Standardní Google Earth formát. Nesmí obsahovat média.
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by machine 🤖) as:
 ```

@@ -1277,13 +1277,35 @@ Alle markører og mapper
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; For at få den rette nordlige retning for kompasset, skal du kalibrere din telefon korrekt &lt;br&gt; at kalibrere din telefon, skal du blot flytte den rundt ved at tegne en 8. . Flytningen skal være bred og gentaget omkring 3 gange for bedre effektivitet. &lt;br&gt; Du kan kalibrere din telefon ved at gøre dette til enhver tid. &lt;/ b&gt; &lt;br&gt; kalibrering har sine begrænsninger og er måske ikke nok at imødegå nærliggende interferens som: &lt;br&gt; • store metalgenstande &lt;br&gt; • elektroniske enheder &lt;br&gt; • magneter &lt;br&gt; • indersiden af ​​en bil / bus / tog / fly &lt;/ body&gt; &lt;/ html&gt;
+For at få den rette nordretning for kompasset, skal du kalibrere enheden korrekt.
+For at kalibrere din enhed skal du blot flytte den rundt ved at tegne en 8. Flytningen skal være bred og gentages ca. 3 gange for bedre effektivitet.
+Du kan kalibrere din enhed ved at gøre dette til enhver tid.
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by machine 🤖) as:
+```
+Kalibreringen har sine begrænsninger og er muligvis ikke nok til at modvirke nærliggende interferenser, såsom:
+• store metalgenstande
+• elektroniske anordninger
+• magneter
+• indersiden af en bil / bus / tog / fly
 ```
 
 
@@ -3911,13 +3933,29 @@ Tilføj farve
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-! &lt;[CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Hvad er præmien opgradering &lt;/ b&gt; &lt;br&gt; Oven i fjerne annoncer, præmien opgraderingen låser følgende eksklusive præmie funktioner:? &lt;br&gt; • Sync på Google Drive eller Dropbox &lt;br&gt; • Samarbejd via Google Drive eller Dropbox &lt;br&gt; • Kort versioner historie og genoprette &lt;br&gt; &lt;/ body&gt; &lt;/ html&gt;
+Hvad er premiumopgraderingen?
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by machine 🤖) as:
+```
+Foruden at fjerne annoncer låser premiumopgraderingen følgende eksklusive premiumfunktioner op:
+• Synkroniseres på Google Drive eller Dropbox
+• Samarbejd via Google Drive eller Dropbox
+• Kortversionshistorik og gendannelse
 ```
 
 
@@ -4063,7 +4101,7 @@ Standard Google Earth format. Kan ikke indeholde medier.
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by machine 🤖) as:
 ```

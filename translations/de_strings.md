@@ -1277,13 +1277,35 @@ Alle Marker und Ordner
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by human 👀) as:
 ```
-<![CDATA[<html><body><b>Um die korrekte Richtung für Norden zu erhalten müssen Sie das Telefon kalibrieren.<br>Dazu bewegen Sie das Telefon mindestens drei mal in Form einer möglichst großen 8.<br>Sie können die Kalibirierung jederzeit wiederholen.</b><br><br>Die Kalibrierung kann durch folgende Umstände beeinflusst werden:<br>&bull; große Metallobjekte<br>&bull; elektronische Geräte<br>&bull; Magnete<br>&bull; im Inneren von Fahrzeugen/Eisenbahnen/Flugzeugen</body></html>]]>
+Um die korrekte Richtung für Norden zu erhalten müssen Sie das Telefon kalibrieren.
+Dazu bewegen Sie das Telefon mindestens drei mal in Form einer möglichst großen 8.
+Sie können die Kalibirierung jederzeit wiederholen.
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by human 👀) as:
+```
+Die Kalibrierung kann durch folgende Umstände beeinflusst werden:
+• große Metallobjekte
+• elektronische Geräte
+• Magnete
+• im Inneren von Fahrzeugen/Eisenbahnen/Flugzeugen
 ```
 
 
@@ -3907,13 +3929,26 @@ Farbe hinzufügen
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by human 👀) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Was die Prämie Upgrade ist &lt;/ b&gt; &lt;br&gt; Oben Entfernen Anzeigen entriegelt der Premium - Upgrade die folgenden exklusiven Premium - Features: &lt;br&gt; • Sync - on - Google Drive oder Dropbox &lt;br&gt; • Zusammenarbeit via Google Drive oder Dropbox &lt;br&gt; • Karten Versionen Geschichte und wiederherstellen &lt;br&gt; &lt;/ body&gt; &lt;/ html&gt;
+Was ist die Prämie Upgrade ?
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by human 👀) as:
+```
+Oben Entfernen Anzeigen entriegelt der Premium - Upgrade die folgenden exklusiven Premium - Features: &lt;br&gt; • Sync - on - Google Drive oder Dropbox &lt;br&gt; • Zusammenarbeit via Google Drive oder Dropbox &lt;br&gt; • Karten Versionen Geschichte und wiederherstellen
 ```
 
 
@@ -4059,7 +4094,7 @@ Standard - Google Earth - Format. Kann keine Medien enthalten.
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by human 👀) as:
 ```

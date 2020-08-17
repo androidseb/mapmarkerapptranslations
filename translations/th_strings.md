@@ -1277,13 +1277,35 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; เพื่อให้ได้ทิศทางเหนือที่เหมาะสมสำหรับเข็มทิศคุณจำเป็นต้องปรับเทียบโทรศัพท์ของคุณอย่างถูกต้อง. ใน To สอบเทียบโทรศัพท์ของคุณเพียงย้ายไปรอบ ๆ โดยการวาด 8 . ย้ายต้องมีความกว้างและทำซ้ำประมาณ 3 ครั้งเพื่อให้มีประสิทธิภาพที่ดีขึ้น. &lt;br&gt; คุณสามารถปรับโทรศัพท์ของคุณโดยการทำเช่นนี้ได้ตลอดเวลา. &lt;/ b&gt; หน้าในการสอบเทียบมีข้อ จำกัด และอาจจะไม่เพียงพอ เพื่อตอบโต้การรบกวนที่ใกล้เคียงเช่น: •วัตถุที่เป็นโลหะขนาดใหญ่ใน•อุปกรณ์อิเล็กทรอนิกส์: •แม่เหล็ก: •ภายในของรถ / รถบัส / รถไฟ / เครื่องบิน &lt;/ body&gt; &lt;/ html&gt;
+เพื่อให้ได้ทิศทางเหนือที่ถูกต้องสำหรับเข็มทิศคุณต้องปรับเทียบอุปกรณ์ของคุณอย่างถูกต้อง
+ในการปรับเทียบอุปกรณ์ของคุณเพียงแค่เลื่อนไปรอบ ๆ โดยวาด 8 การเคลื่อนไหวจะต้องกว้างและทำซ้ำประมาณ 3 ครั้งเพื่อประสิทธิภาพที่ดีขึ้น
+คุณสามารถปรับเทียบอุปกรณ์ของคุณโดยทำสิ่งนี้ได้ทุกเมื่อ
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by machine 🤖) as:
+```
+การสอบเทียบมีข้อ จำกัด และอาจไม่เพียงพอที่จะตอบโต้การรบกวนในบริเวณใกล้เคียงเช่น:
+•วัตถุโลหะขนาดใหญ่
+• อุปกรณ์อิเล็กทรอนิกส์
+•แม่เหล็ก
+•ภายในรถยนต์ / รถบัส / รถไฟ / เครื่องบิน
 ```
 
 
@@ -3907,13 +3929,29 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; อะไรคือสิ่งที่พรีเมี่ยมอัพเกรด &lt;/ b&gt; &lt;br&gt; ด้านบนของโฆษณาถอดอัพเกรดพรีเมี่ยมพรีเมี่ยมเผยคุณสมบัติพิเศษดังต่อไปนี้: • &lt;br&gt; Sync บน Google Drive หรือ Dropbox &lt;br&gt; •การทำงานร่วมกันผ่านทาง Google Drive หรือ Dropbox &lt;br&gt; •ประวัติแผนที่รุ่นและเรียกคืนฟรี &lt;/ body&gt; &lt;/ html&gt;
+การอัปเกรดพรีเมียมคืออะไร?
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by machine 🤖) as:
+```
+นอกเหนือจากการลบโฆษณาแล้วการอัปเกรดพรีเมียมจะปลดล็อกคุณสมบัติพิเศษพิเศษดังต่อไปนี้:
+•ซิงค์บน Google Drive หรือ Dropbox
+•ทำงานร่วมกันผ่าน Google Drive หรือ Dropbox
+•แผนที่ประวัติเวอร์ชันและกู้คืน
 ```
 
 
@@ -4059,7 +4097,7 @@ translated (by machine 🤖) as:
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by machine 🤖) as:
 ```

@@ -1277,13 +1277,35 @@ Semua spidol dan folder
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Dalam rangka untuk mendapatkan arah utara tepat untuk kompas, Anda harus mengkalibrasi Anda telepon dengan benar. &lt;br&gt; Untuk mengkalibrasi telepon Anda, hanya bergerak di sekitar dengan menggambar 8 . Langkah ini harus lebar dan diulang sekitar 3 kali untuk efisiensi yang lebih baik. &lt;br&gt; Anda dapat mengkalibrasi telepon Anda dengan melakukan hal ini setiap saat. &lt;/ b&gt; &lt;br&gt; kalibrasi memiliki keterbatasan dan mungkin tidak cukup untuk melawan gangguan terdekat seperti: Situs • benda logam besar &lt;br&gt; perangkat elektronik • &lt;br&gt; • magnet Situs • bagian dalam mobil / bus / kereta / pesawat &lt;/ body&gt; &lt;/ html&gt;
+Untuk mendapatkan arah utara yang tepat untuk kompas, Anda perlu mengkalibrasi perangkat Anda dengan benar.
+Untuk mengkalibrasi perangkat Anda, cukup gerakkan dengan menggambar 8. Gerakan tersebut harus lebar dan diulang sekitar 3 kali untuk efisiensi yang lebih baik.
+Anda dapat mengkalibrasi perangkat Anda dengan melakukan ini kapan saja.
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by machine 🤖) as:
+```
+Kalibrasi memiliki keterbatasan dan mungkin tidak cukup untuk mengatasi gangguan terdekat seperti:
+• benda logam besar
+• perangkat elektronik
+• magnet
+• bagian dalam mobil / bus / kereta / pesawat
 ```
 
 
@@ -3907,13 +3929,29 @@ Tambahkan warna
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Apa meng-upgrade premium &lt;/ b&gt; Situs Di atas iklan menghapus, upgrade premium membuka fitur premium eksklusif berikut:? • Situs Sync pada Google Drive atau Dropbox Situs • Berkolaborasi via Google Drive atau Dropbox • Situs sejarah Peta versi dan mengembalikan Situs &lt;/ body&gt; &lt;/ html&gt;
+Apa itu peningkatan premium?
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by machine 🤖) as:
+```
+Selain menghapus iklan, upgrade premium membuka fitur premium eksklusif berikut:
+• Sinkronkan pada Google Drive atau Dropbox
+• Berkolaborasi melalui Google Drive atau Dropbox
+• Memetakan riwayat versi dan memulihkan
 ```
 
 
@@ -4059,7 +4097,7 @@ Standard Google Earth Format. tidak dapat berisi media yang.
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by machine 🤖) as:
 ```

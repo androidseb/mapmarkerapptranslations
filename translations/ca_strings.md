@@ -1277,13 +1277,35 @@ Tots els marcadors i carpetes
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Per tal d'obtenir la direcció nord adequat per al compàs, cal calibrar el telèfon correctament. &lt;br&gt; Per calibrar el seu telèfon, només ha de moure dibuixant agost 1 . El moviment ha de ser àmplia i repetida 3 vegades per a una major eficàcia. &lt;br&gt; Vostè pot calibrar telèfon al fer això en qualsevol moment. &lt;/ b&gt; a La calibratge té les seves limitacions i podria no ser suficient per contrarestar les interferències properes com: &lt;br&gt; • objectes metàl·lics grans &lt;br&gt; dispositius electrònics • &lt;br&gt; • imants &lt;br&gt; • l'interior d'un cotxe / autobús / tren / avió &lt;/ body&gt; &lt;/ html&gt;
+Per obtenir la direcció nord adequada per a la brúixola, cal calibrar el dispositiu correctament.
+Per calibrar el dispositiu, només cal moure'l per un dibuix de 8. El moviment ha de ser ampli i repetir unes 3 vegades per millorar l'eficiència.
+Podeu calibrar el dispositiu si ho feu en qualsevol moment.
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by machine 🤖) as:
+```
+La calibració té les seves limitacions i pot no ser suficient per contrarestar interferències properes, com ara:
+• objectes metàl·lics grans
+• dispositius electrònics
+• imants
+• l’interior d’un cotxe / autobús / tren / avió
 ```
 
 
@@ -3907,13 +3929,29 @@ afegir color
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Què és l'actualització de la prima &lt;/ b&gt; &lt;br&gt; A la part superior dels anuncis eliminació, l'actualització prima desbloqueja les següents característiques exclusives de primera qualitat :? &lt;br&gt; • Sincronització en Google Drive o Dropbox &lt;br&gt; • Contribuir, a través de Google Drive o Dropbox &lt;br&gt; • historial de versions Mapa i restaurar &lt;br&gt; &lt;/ body&gt; &lt;/ html&gt;
+Què és l'actualització premium?
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by machine 🤖) as:
+```
+A més de suprimir els anuncis, l'actualització premium desbloqueja les funcions premium exclusives següents:
+• Sincronització dels fitxers Google Drive o Dropbox
+• Col·labora via Google Drive o Dropbox
+• Història i restauració de versions de mapes
 ```
 
 
@@ -4059,7 +4097,7 @@ Estàndard Google Earth format. No pot contenir mitjans de comunicació.
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by machine 🤖) as:
 ```

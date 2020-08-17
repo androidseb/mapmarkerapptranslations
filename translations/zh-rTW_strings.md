@@ -1275,13 +1275,29 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by human 👀) as:
 ```
-&lt;！[CDATA [&lt;HTML&gt; &lt;BODY&gt; &lt;B&gt;為了得到正確指南針方向，你需要正確校正你的手機。只需透過8字形移動並重複3次左右。您可以在任何時候做該動作校正你的手機。&lt;/ B&gt;校正有其局限性，可能是不足以抵銷附近的干擾，如：大型金屬物體、電子設備、磁鐵、位於汽車/巴士/火車/飛機內部&lt;/ body&gt; &lt;/ HTML&gt;
+為了得到正確指南針方向，你需要正確校正你的手機。只需透過8字形移動並重複3次左右。您可以在任何時候做該動作校正你的手機。
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by human 👀) as:
+```
+校正有其局限性，可能是不足以抵銷附近的干擾，如：大型金屬物體、電子設備、磁鐵、位於汽車/巴士/火車/飛機內部
 ```
 
 
@@ -3905,13 +3921,29 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-&lt;！[CDATA [&lt;HTML&gt; &lt;BODY&gt; &lt;b&gt;什麼是溢價升級&lt;/ b&gt;的結果在去除廣告的上方，溢價升級解鎖下列獨家高級功能：？搜索•同步上Google Drive或Dropbox結果•通過協作Google Drive或Dropbox結果•地圖版本歷史和恢復結果&lt;/ body&gt; &lt;/ HTML&gt;
+什麼是高級升級？
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by machine 🤖) as:
+```
+除了刪除廣告外，高級升級還可以解鎖以下獨家高級功能：
+•在Google Drive或Dropbox上同步
+•通過Google Drive或Dropbox進行協作
+•地圖版本歷史記錄和還原
 ```
 
 
@@ -4057,7 +4089,7 @@ translated (by machine 🤖) as:
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by machine 🤖) as:
 ```

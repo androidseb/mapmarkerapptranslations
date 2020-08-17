@@ -1277,13 +1277,35 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by machine 🤖) as:
 ```
-&lt;！[CDATA [&lt;HTML&gt; &lt;BODY&gt; &lt;B&gt;コンパスのための適切な北方向を得るために、あなたが適切にあなたに電話を校正する必要があります。、あなたの携帯電話を校正するために&lt;BR&gt;単に8を描画することによって周りにそれを移動。動きは広く、より良い効率のために約3回繰り返さなければなりません。あなたはいつでもこれを行うことによって、あなたに電話を校正することができます&lt;BR&gt;。&lt;/ b&gt;の&lt;br&gt;ログインキャリブレーションには限界があり、十分ではない可能性がありますオリジナル•大きな金属製の物体オリジナル車/バス/電車/飛行機の内側••磁石&lt;br&gt;ログイン•電子デバイス&lt;/ BODY&gt; &lt;/ HTML&gt;：のような近くの干渉に対抗するために
+コンパスの正しい北方向を取得するには、デバイスを適切に調整する必要があります。
+デバイスを調整するには、8を引いてデバイスを動かします。効率を上げるには、幅を広くし、約3回繰り返す必要があります。
+これにより、いつでもデバイスを調整できます。
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by machine 🤖) as:
+```
+キャリブレーションには制限があり、次のような近くの干渉に対抗するには不十分な場合があります。
+•大きな金属製の物体
+• 電子デバイス
+•磁石
+•車、バス、電車、飛行機の内部
 ```
 
 
@@ -3907,13 +3929,29 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-&lt;！[CDATA [&lt;HTML&gt; &lt;BODY&gt; &lt;b&gt;の広告を削除の上にプレミアムにアップグレードする&lt;/ b&gt; &lt;BR&gt;は何ですか、プレミアムのアップグレードは、次の排他的なプレミアム機能のロックを解除：？&lt;BR&gt;•シンク上Google DriveまたはDropbox &lt;BR&gt;•コラボレーションを経由Google DriveまたはDropbox &lt;BR&gt;•地図バージョン履歴と復元&lt;BR&gt; &lt;/ body&gt; &lt;/ html&gt;この
+プレミアムアップグレードとは何ですか？
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by machine 🤖) as:
+```
+広告の削除に加えて、プレミアムアップグレードでは次の限定的なプレミアム機能が利用できます。
+•Google DriveまたはDropboxで同期
+•Google DriveまたはDropboxを介した共同作業
+•バージョン履歴のマッピングと復元
 ```
 
 
@@ -4059,7 +4097,7 @@ translated (by machine 🤖) as:
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by machine 🤖) as:
 ```

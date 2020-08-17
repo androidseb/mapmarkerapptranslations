@@ -1277,13 +1277,35 @@ Minden markerek és mappák
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Annak érdekében, hogy a megfelelő északi irányt az iránytű, meg kell kalibrálni akkor a telefon rendesen. &lt;BR&gt; Kalibrálja a telefont, egyszerűen mozgatni a rajz egy 8 . A költözés szélesnek kell lenniük, és megismételte körülbelül 3-szor nagyobb hatékonyság érdekében. &lt;br&gt; beállításait is meg telefonon azáltal, hogy ezt bármikor. &lt;/ b&gt; &lt;br&gt; A kalibrációs megvannak a maga korlátai, és talán nem lesz elég hogy szembeszálljanak a közelben zavaró, mint: &lt;br&gt; • nagy fémtárgyak &lt;br&gt; • elektronikus eszközök &lt;br&gt; • mágnesek &lt;br&gt; • a belsejében egy autó / busz / vonat / sík &lt;/ body&gt; &lt;/ html&gt;
+Annak érdekében, hogy megkapja az iránytű megfelelő északi irányát, a készüléket megfelelően kell kalibrálnia.
+A készülék kalibrálásához egyszerűen mozgassa azt körül, rajzolva egy 8-at. A mozgatásnak szélesnek kell lennie, és körülbelül háromszor meg kell ismételnie a jobb hatékonyság érdekében.
+A készüléket bármikor kalibrálhatja.
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by machine 🤖) as:
+```
+A kalibrálásnak megvannak a korlátai, és lehet, hogy nem elegendő a közeli zavarok megszüntetésére, például:
+• nagy fémtárgyak
+• elektronikus eszközök
+• mágnesek
+• egy kocsi / busz / vonat / repülőgép belseje
 ```
 
 
@@ -3907,13 +3929,29 @@ színt
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Mi az a prémium frissíteni? &lt;/ B&gt; katalógusa tetejébe eltávolítjuk azokat a hirdetéseket, a prémium szint kinyitja a következő exkluzív prémium funkciók: • katalógusa Sync Google Drive vagy Dropbox katalógusa • Együttműködés keresztül Google Drive vagy Dropbox katalógusa • térkép változat története és helyreállítása katalógusa &lt;/ body&gt; &lt;/ html&gt;
+Mi a prémium frissítés?
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by machine 🤖) as:
+```
+A hirdetések eltávolítása mellett a prémium frissítés a következő exkluzív prémium funkciókat kínálja:
+• Szinkronizálás Google Drive-en vagy Dropbox-en
+• Együttműködés a Google Drive vagy a Dropbox segítségével
+• Térkép-verziók előzményei és visszaállítása
 ```
 
 
@@ -4059,7 +4097,7 @@ Normál Google Earth formátumban. Nem tartalmazhat média.
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by machine 🤖) as:
 ```

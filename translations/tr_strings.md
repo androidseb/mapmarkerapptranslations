@@ -1277,13 +1277,35 @@ Tüm belirteçler ve klasörler
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; pusula için uygun kuzey yönünü almak için, düzgün, size telefon kalibre etmek gerekiyor. Telefonunuzu kalibre etmek için &lt;br&gt; sadece 8 çizerek etrafında taşımak . hareket genişliğinde ve iyi verimlilik için yaklaşık 3 kez tekrarlandı olmalıdır. Eğer herhangi bir zamanda bu yaparak size telefon kalibre edebilirsiniz otelleri. &lt;/ b&gt; &lt;br&gt; kalibrasyon kendi sınırlamaları vardır ve yeterli olmayabilir &lt;br&gt; • büyük metal nesneler &lt;br&gt; bir araba / otobüs / tren / uçağın iç • • mıknatıslar &lt;br&gt; • elektronik cihazlar &lt;/ body&gt; &lt;/ html&gt;: gibi yakın müdahaleler karşı
+Pusulanın doğru kuzey yönünü elde etmek için, cihazınızı doğru şekilde kalibre etmeniz gerekir.
+Aygıtınızı kalibre etmek için, 8 çizerek hareket ettirin. Daha iyi verimlilik için hareket geniş olmalı ve yaklaşık 3 kez tekrarlanmalıdır.
+Bunu istediğiniz zaman yaparak cihazınızı kalibre edebilirsiniz.
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by machine 🤖) as:
+```
+Kalibrasyonun kendi sınırlamaları vardır ve aşağıdaki gibi yakındaki parazitlere karşı koymak için yeterli olmayabilir:
+• büyük metal nesneler
+• elektronik aletler
+• mıknatıslar
+• araba / otobüs / tren / uçağın içi
 ```
 
 
@@ -3907,13 +3929,29 @@ renk ekleme
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; prim yükseltme nedir &lt;/ b&gt; kaldırma reklamların üstüne, prim yükseltme aşağıdaki özel premium özellikler kilidini &lt;br&gt;:? &lt;br&gt; • Sync Google Drive ya da Dropbox &lt;br&gt; • İşbirliği yoluyla Google Drive ya da Dropbox &lt;br&gt; • Harita versiyonları geçmiş ve geri yükleme &lt;br&gt; &lt;/ body&gt; &lt;/ html&gt;
+Premium yükseltme nedir?
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by machine 🤖) as:
+```
+Premium yükseltme, reklamları kaldırmanın yanı sıra aşağıdaki özel premium özelliklerin kilidini açar:
+• Google Drive veya Dropbox'ta senkronize edin
+• Google Drive veya Dropbox aracılığıyla ortak çalışın
+• Sürüm geçmişini eşleyin ve geri yükleyin
 ```
 
 
@@ -4059,7 +4097,7 @@ Standart Google Earth biçimi. medyayı içeremez.
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by machine 🤖) as:
 ```

@@ -9,7 +9,7 @@ OK
 ```
 translated (by machine 🤖) as:
 ```
-行
+好
 ```
 
 
@@ -19,7 +19,7 @@ Yes
 ```
 translated (by machine 🤖) as:
 ```
-是的
+是
 ```
 
 
@@ -49,7 +49,7 @@ New marker
 ```
 translated (by machine 🤖) as:
 ```
-新標誌
+新標記
 ```
 
 
@@ -59,7 +59,7 @@ Title
 ```
 translated (by machine 🤖) as:
 ```
-稱號
+標題
 ```
 
 
@@ -79,7 +79,7 @@ Do you really want to delete this marker?
 ```
 translated (by machine 🤖) as:
 ```
-你真的要刪除這個標記？
+您確實要刪除此標記嗎？
 ```
 
 
@@ -99,7 +99,7 @@ Could not copy coordinates to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-無法複製的坐標到剪貼板
+無法將坐標複製到剪貼板
 ```
 
 
@@ -109,7 +109,7 @@ Coordinates copied to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-坐標複製到剪貼板
+座標已復製到剪貼板
 ```
 
 
@@ -119,7 +119,7 @@ Failed to access application save directory. Make sure that your device is not b
 ```
 translated (by machine 🤖) as:
 ```
-未能訪問應用程序的保存目錄。請確保您的設備不被電腦使用USB電纜訪問，並重新啟動應用程序。
+無法訪問應用程序保存目錄。確保計算機沒有通過USB電纜訪問您的設備，然後重新啟動該應用程序。
 ```
 
 
@@ -149,7 +149,7 @@ Add folder
 ```
 translated (by machine 🤖) as:
 ```
-添加文件夾
+新增文件夾
 ```
 
 
@@ -159,7 +159,7 @@ Modify folder
 ```
 translated (by machine 🤖) as:
 ```
-修改文件夾
+修改資料夾
 ```
 
 
@@ -169,7 +169,7 @@ Are you sure you want to delete this folder? All markers associated to this fold
 ```
 translated (by machine 🤖) as:
 ```
-你確定要刪除這個文件夾？有關此文件夾的所有標記將被永久刪除！
+您確定要刪除此文件夾嗎？與此文件夾關聯的所有標記將被永久刪除！
 ```
 
 
@@ -179,7 +179,7 @@ Failed to create new folder, it already exists
 ```
 translated (by machine 🤖) as:
 ```
-無法創建新的文件夾，它已經存在
+創建新文件夾失敗，該文件夾已存在
 ```
 
 
@@ -189,7 +189,7 @@ Failed to rename the folder, the destination name already exists
 ```
 translated (by machine 🤖) as:
 ```
-無法重命名的文件夾，目標名稱已經存在
+重命名文件夾失敗，目標名稱已存在
 ```
 
 
@@ -229,7 +229,7 @@ Import/Export
 ```
 translated (by machine 🤖) as:
 ```
-導入/導出
+進出口
 ```
 
 
@@ -239,7 +239,7 @@ Import markers
 ```
 translated (by machine 🤖) as:
 ```
-進口標誌
+導入標記
 ```
 
 
@@ -279,7 +279,7 @@ Location services are disabled. To get your current location you must enable the
 ```
 translated (by machine 🤖) as:
 ```
-位置服務被禁用。讓你的當前位置，您必須啟用它們。
+定位服務已禁用。要獲取當前位置，必須啟用它們。
 ```
 
 
@@ -299,7 +299,7 @@ Searching&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-搜索...
+正在搜索&#8230;
 ```
 
 
@@ -329,7 +329,7 @@ Do you want to import the content of this file?
 ```
 translated (by machine 🤖) as:
 ```
-你想導入此文件的內容？
+您要導入此文件的內容嗎？
 ```
 
 
@@ -359,7 +359,7 @@ Close
 ```
 translated (by machine 🤖) as:
 ```
-近
+關
 ```
 
 
@@ -369,7 +369,7 @@ Are you sure you want to delete the selected markers?
 ```
 translated (by machine 🤖) as:
 ```
-你確定要刪除選定的標記？
+您確定要刪除所選標記嗎？
 ```
 
 
@@ -379,7 +379,7 @@ Move markers to folder
 ```
 translated (by machine 🤖) as:
 ```
-移動標記到文件夾
+將標記移到文件夾
 ```
 
 
@@ -399,7 +399,7 @@ Folder:
 ```
 translated (by machine 🤖) as:
 ```
-文件夾：
+夾：
 ```
 
 
@@ -409,7 +409,7 @@ Snapshot of my markers on Map Marker
 ```
 translated (by machine 🤖) as:
 ```
-我的標記上的快照Map Marker
+Map Marker上我的標記的快照
 ```
 
 
@@ -420,8 +420,8 @@ This snapshot was made with the app Map Marker:
 ```
 translated (by machine 🤖) as:
 ```
-此快照是用應用程序Map Marker ： 
- %s
+該快照是使用Map Marker應用製作的：
+%s
 ```
 
 
@@ -431,7 +431,7 @@ Processing data&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-處理數據......
+正在處理data&#8230;
 ```
 
 
@@ -441,7 +441,7 @@ You have unsaved modifications, do you want to save them?
 ```
 translated (by machine 🤖) as:
 ```
-你有未保存的修改，你想救他們？
+您有未保存的修改，是否要保存？
 ```
 
 
@@ -451,7 +451,7 @@ Use the long press on the map to create a new marker
 ```
 translated (by machine 🤖) as:
 ```
-使用長按地圖上創建一個新的標誌
+長按地圖上的以創建新標記
 ```
 
 
@@ -501,7 +501,7 @@ Hybrid
 ```
 translated (by machine 🤖) as:
 ```
-混合動力
+雜種
 ```
 
 
@@ -512,8 +512,8 @@ Send me an email :-)
 ```
 translated (by machine 🤖) as:
 ```
-發現一個問題？有改進的想法？ 
-給我發email :-)
+發現問題了嗎？有改善的想法嗎？
+給我發送電子郵件:-)
 ```
 
 
@@ -534,8 +534,8 @@ Rate it 5 stars :-)
 ```
 translated (by machine 🤖) as:
 ```
-你喜歡的應用程序？ 
-速率是5星:-)
+你喜歡這個應用程序嗎？
+評價它5 stars :-)
 ```
 
 
@@ -545,7 +545,7 @@ Change folder to&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-更改文件夾...
+將文件夾更改為&#8230;
 ```
 
 
@@ -565,7 +565,7 @@ Acquiring location&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-獲取位置...
+正在獲取location&#8230;
 ```
 
 
@@ -575,7 +575,7 @@ Meters
 ```
 translated (by machine 🤖) as:
 ```
-米
+儀表
 ```
 
 
@@ -605,7 +605,7 @@ Miles
 ```
 translated (by machine 🤖) as:
 ```
-萬里
+邁爾斯
 ```
 
 
@@ -615,7 +615,7 @@ Adjust map camera position when guiding to a marker location
 ```
 translated (by machine 🤖) as:
 ```
-引導到一個標記位置時，調整圖攝像機位置
+引導到標記位置時調整地圖相機的位置
 ```
 
 
@@ -625,7 +625,7 @@ Keep screen on when guiding to a marker location
 ```
 translated (by machine 🤖) as:
 ```
-保持屏幕引導到一個標記位置上時，
+引導至標記位置時保持屏幕打開
 ```
 
 
@@ -635,7 +635,7 @@ Marker details copied to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-標記詳細信息複製到剪貼板
+標記詳細信息已復製到剪貼板
 ```
 
 
@@ -645,7 +645,7 @@ Long press to drag and move the marker
 ```
 translated (by machine 🤖) as:
 ```
-長按拖動和移動標記
+長按以拖動和移動標記
 ```
 
 
@@ -655,7 +655,7 @@ Error starting internal task manager, app will now exit
 ```
 translated (by machine 🤖) as:
 ```
-錯誤啟動內部的任務管理器，應用程序現在將退出
+啟動內部任務管理器時出錯，應用程序現在將退出
 ```
 
 
@@ -665,7 +665,7 @@ Do not show again
 ```
 translated (by machine 🤖) as:
 ```
-不要再顯示
+不再顯示
 ```
 
 
@@ -675,7 +675,7 @@ Could not create the map capture
 ```
 translated (by machine 🤖) as:
 ```
-無法創建地圖捕捉
+無法創建地圖捕獲
 ```
 
 
@@ -695,7 +695,7 @@ Imperial (Miles/Feet)
 ```
 translated (by machine 🤖) as:
 ```
-帝國（英里/英尺）
+英制（英里/英尺）
 ```
 
 
@@ -705,7 +705,7 @@ There is a problem with Google Play Services: it needs to be installed, updated 
 ```
 translated (by machine 🤖) as:
 ```
-有一個問題Google Play Services ：它需要被安裝，更新或激活。點擊OK，試圖解決這個問題。
+Google Play Services存在問題：需要安裝，更新或激活它。單擊“確定”嘗試解決它。
 ```
 
 
@@ -715,7 +715,7 @@ Delete folder
 ```
 translated (by machine 🤖) as:
 ```
-刪除文件夾
+刪除資料夾
 ```
 
 
@@ -725,7 +725,7 @@ If you like my app you can reward me by taking the time to give a good rating :-
 ```
 translated (by machine 🤖) as:
 ```
-如果你喜歡我的應用程序，你可以抽空獎勵我給予良好的評價:-)
+如果您喜歡我的應用，可以花點時間給我一個好評分:-)來獎勵我
 ```
 
 
@@ -736,7 +736,7 @@ to the Play Store
 ```
 translated (by machine 🤖) as:
 ```
-OK帶我
+好吧帶我
 到Play Store
 ```
 
@@ -749,7 +749,7 @@ gave a rating
 translated (by machine 🤖) as:
 ```
 我已經
-給評級
+給了一個評價
 ```
 
 
@@ -773,7 +773,7 @@ do not remind me
 translated (by machine 🤖) as:
 ```
 也許以後
-不要再提醒我
+不要提醒我
 ```
 
 
@@ -783,7 +783,7 @@ Could not find the place
 ```
 translated (by machine 🤖) as:
 ```
-找不到的地方
+找不到地方
 ```
 
 
@@ -793,7 +793,7 @@ Could not find another map application
 ```
 translated (by machine 🤖) as:
 ```
-無法找到另一個地圖應用
+找不到其他地圖應用程序
 ```
 
 
@@ -803,7 +803,7 @@ Move the map around to place your marker where you want and click OK to place it
 ```
 translated (by machine 🤖) as:
 ```
-移動地圖將您的標誌，你想，然後單擊確定將其放置
+移動地圖以將標記放置在所需位置，然後單擊“確定”將其放置。
 ```
 
 
@@ -813,7 +813,7 @@ Imported marker
 ```
 translated (by machine 🤖) as:
 ```
-進口標誌
+進口標記
 ```
 
 
@@ -823,7 +823,7 @@ Settings
 ```
 translated (by machine 🤖) as:
 ```
-設置
+設定值
 ```
 
 
@@ -843,7 +843,7 @@ Decimal degrees
 ```
 translated (by machine 🤖) as:
 ```
-十進制度
+小數度
 ```
 
 
@@ -853,7 +853,7 @@ Degrees decimal minutes
 ```
 translated (by machine 🤖) as:
 ```
-小數度分鐘
+度十進制分鐘
 ```
 
 
@@ -883,7 +883,7 @@ GPS and wireless networks only
 ```
 translated (by machine 🤖) as:
 ```
-只有GPS和無線網絡
+僅GPS和無線網絡
 ```
 
 
@@ -893,7 +893,7 @@ GPS and wireless networks or magnetic sensor
 ```
 translated (by machine 🤖) as:
 ```
-全球定位系統和無線網絡或磁傳感器
+GPS和無線網絡或磁傳感器
 ```
 
 
@@ -903,7 +903,7 @@ Magnetic sensor only
 ```
 translated (by machine 🤖) as:
 ```
-只有磁傳感器
+僅磁傳感器
 ```
 
 
@@ -933,7 +933,7 @@ Folders
 ```
 translated (by machine 🤖) as:
 ```
-文件夾
+資料夾
 ```
 
 
@@ -963,7 +963,7 @@ Marker popup style
 ```
 translated (by machine 🤖) as:
 ```
-標記彈出式的
+標記彈出樣式
 ```
 
 
@@ -993,7 +993,7 @@ Coordinates
 ```
 translated (by machine 🤖) as:
 ```
-坐標
+座標
 ```
 
 
@@ -1003,7 +1003,7 @@ Contextual
 ```
 translated (by machine 🤖) as:
 ```
-上下文
+語境
 ```
 
 
@@ -1013,7 +1013,7 @@ Always
 ```
 translated (by machine 🤖) as:
 ```
-總
+總是
 ```
 
 
@@ -1053,7 +1053,7 @@ Lng:
 ```
 translated (by machine 🤖) as:
 ```
-LNG：
+Lng：
 ```
 
 
@@ -1073,7 +1073,7 @@ Advanced
 ```
 translated (by machine 🤖) as:
 ```
-先進
+高級
 ```
 
 
@@ -1093,7 +1093,7 @@ Actions
 ```
 translated (by machine 🤖) as:
 ```
-行動
+動作
 ```
 
 
@@ -1113,7 +1113,7 @@ Markers ignored on import (duplicates): %1$d
 ```
 translated (by machine 🤖) as:
 ```
-標記忽略進口（重複）： %1$d
+導入時忽略的標記（重複項）：%1$d
 ```
 
 
@@ -1123,7 +1123,7 @@ translated (by machine 🤖) as:
 ```
 translated (by machine 🤖) as:
 ```
-%1$d標誌
+%1$d個標記
 ```
 
 
@@ -1143,7 +1143,7 @@ Auto naming "number"
 ```
 translated (by machine 🤖) as:
 ```
-自動命名“號”
+自動命名“數字”
 ```
 
 
@@ -1163,7 +1163,7 @@ New marker auto naming
 ```
 translated (by machine 🤖) as:
 ```
-新標誌的自動命名
+新標記自動命名
 ```
 
 
@@ -1183,7 +1183,7 @@ Waiting for location&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-等待位置...
+等待location&#8230;
 ```
 
 
@@ -1193,7 +1193,7 @@ Open the help page and see the FAQ
 ```
 translated (by machine 🤖) as:
 ```
-打開幫助頁面，看到的常見問題解答
+打開幫助頁面並查看常見問題解答
 ```
 
 
@@ -1203,7 +1203,7 @@ Features
 ```
 translated (by machine 🤖) as:
 ```
-產品特點
+特徵
 ```
 
 
@@ -1213,7 +1213,7 @@ View the list of upcoming features for the next app version
 ```
 translated (by machine 🤖) as:
 ```
-查看即將推出的功能列表中的下一個版本的應用程序
+查看下一個應用程序版本的即將發布的功能列表
 ```
 
 
@@ -1223,7 +1223,7 @@ Help &amp; Feedback
 ```
 translated (by machine 🤖) as:
 ```
-幫助＆反饋
+幫助&amp;反饋
 ```
 
 
@@ -1233,7 +1233,7 @@ About
 ```
 translated (by machine 🤖) as:
 ```
-大約
+關於
 ```
 
 
@@ -1243,7 +1243,7 @@ Distance to %1$s
 ```
 translated (by machine 🤖) as:
 ```
-距離%1$s
+到%1$s的距離
 ```
 
 
@@ -1263,7 +1263,7 @@ Share a snapshot of the map
 ```
 translated (by machine 🤖) as:
 ```
-分享地圖的快照
+共享地圖快照
 ```
 
 
@@ -1277,13 +1277,35 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by machine 🤖) as:
 ```
-&lt;！[CDATA [&lt;HTML&gt; &lt;BODY&gt; &lt;B&gt;為了得到正確的正北方向的指南針，你需要正確校準你的手機。照片要校準你的手機，只需通過繪製8移動它該舉動必須是廣泛的和更好的效率重複3次左右。照片可以在任何時候做這個校準你的手機。&lt;/ B&gt;點擊看校準有其局限性，可能是​​不夠的對付附近的干擾，如：英•大的金屬物體英•電子設備英•磁鐵英•汽車/巴士/火車/飛機內部&lt;/ body&gt; &lt;/ HTML&gt;
+為了獲得指南針的正確北向，您需要正確校准設備。
+要校準您的設備，只需通過畫一個8來移動它即可。該移動必須很寬並且重複3次以提高效率。
+您可以隨時執行此操作來校准設備。
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by machine 🤖) as:
+```
+校準有其局限性，可能不足以抵消附近的干擾，例如：
+•大金屬物體
+• 電子設備
+•磁鐵
+•汽車/公共汽車/火車/飛機的內部
 ```
 
 
@@ -1313,7 +1335,7 @@ Thank you for your donation! This donation badge grants you access to premium fe
 ```
 translated (by machine 🤖) as:
 ```
-謝謝您的捐款！您可以訪問高級此次捐贈徽章授予特點:-)
+感謝您的捐贈！此捐贈徽章可授予您使用:-)高級功能的權限
 ```
 
 
@@ -1343,7 +1365,7 @@ Google Drive
 ```
 translated (by machine 🤖) as:
 ```
-谷歌驅動器
+Google Drive
 ```
 
 
@@ -1353,7 +1375,7 @@ Dropbox
 ```
 translated (by machine 🤖) as:
 ```
-Dropbox的
+Dropbox
 ```
 
 
@@ -1363,7 +1385,7 @@ Configuring&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-配置...
+配置&#8230;
 ```
 
 
@@ -1383,7 +1405,7 @@ Never
 ```
 translated (by machine 🤖) as:
 ```
-從來沒有
+決不
 ```
 
 
@@ -1393,7 +1415,7 @@ Syncing…
 ```
 translated (by machine 🤖) as:
 ```
-正在同步...
+同步中...
 ```
 
 
@@ -1433,7 +1455,7 @@ Root
 ```
 translated (by machine 🤖) as:
 ```
-樹根
+根
 ```
 
 
@@ -1463,7 +1485,7 @@ Purchase failed: %1$s
 ```
 translated (by machine 🤖) as:
 ```
-購買失敗%1$s
+購買失敗：%1$s
 ```
 
 
@@ -1473,7 +1495,7 @@ Premium access available! You currently have access to premium features.
 ```
 translated (by machine 🤖) as:
 ```
-高級訪問可用！您現在可以訪問高級功能。
+提供高級訪問權限！您目前可以使用高級功能。
 ```
 
 
@@ -1483,7 +1505,7 @@ You cannot select that folder because it contains multiple files named %1$s. The
 ```
 translated (by machine 🤖) as:
 ```
-您不能ca不選擇that文件夾，因為它會conta包含多個文件named %1$s，因為它不連續。同步要求文件夾將that name僅包含在一個文件中conta。
+您不能選擇該文件夾，因為它包含多個名為%1$s的文件。同步要求文件夾僅包含一個具有該名稱的文件。
 ```
 
 
@@ -1493,7 +1515,7 @@ It seems sync data already exists in that folder. If you select that folder, you
 ```
 translated (by machine 🤖) as:
 ```
-這似乎同步數據已經存在的文件夾中。如果您選擇該文件夾，你的本地數據將被合併到文件夾中的數據時進行同步。這就是你想要的嗎？
+似乎該文件夾中已經存在同步數據。如果選擇該文件夾，則執行同步時，本地數據將與文件夾數據合併。那是你要的嗎？
 ```
 
 
@@ -1513,7 +1535,7 @@ Cloud sync
 ```
 translated (by machine 🤖) as:
 ```
-雲同步
+云同步
 ```
 
 
@@ -1523,7 +1545,7 @@ Sync this map file on the cloud
 ```
 translated (by machine 🤖) as:
 ```
-同步雲上的這個地圖文件
+在雲端同步此地圖文件
 ```
 
 
@@ -1533,7 +1555,7 @@ Map file
 ```
 translated (by machine 🤖) as:
 ```
-映射文件
+地圖文件
 ```
 
 
@@ -1553,7 +1575,7 @@ Create a new map file locally
 ```
 translated (by machine 🤖) as:
 ```
-在本地創建一個新的映射文件
+在本地創建新的地圖文件
 ```
 
 
@@ -1573,7 +1595,7 @@ Create a map file on the cloud
 ```
 translated (by machine 🤖) as:
 ```
-創建雲上的地圖文件
+在雲上創建地圖文件
 ```
 
 
@@ -1583,7 +1605,7 @@ Retrieves changes from the cloud and sends local changes to the cloud
 ```
 translated (by machine 🤖) as:
 ```
-檢索從雲的變化，並將本地更改到雲
+從雲中檢索更改並將本地更改發送到雲
 ```
 
 
@@ -1593,7 +1615,7 @@ Rename
 ```
 translated (by machine 🤖) as:
 ```
-重命名
+改名
 ```
 
 
@@ -1613,7 +1635,7 @@ Enter new name
 ```
 translated (by machine 🤖) as:
 ```
-輸入新的名稱
+輸入新名字
 ```
 
 
@@ -1623,7 +1645,7 @@ Enter the new map's name
 ```
 translated (by machine 🤖) as:
 ```
-進入新地圖的名字
+輸入新地圖的名稱
 ```
 
 
@@ -1633,7 +1655,7 @@ translated (by machine 🤖) as:
 ```
 translated (by machine 🤖) as:
 ```
-%1$d文件夾%2$d標誌，尺寸為%3$d KB
+%1$d個文件夾，%2$d個標記，大小：%3$d KB
 ```
 
 
@@ -1643,7 +1665,7 @@ Create new folder
 ```
 translated (by machine 🤖) as:
 ```
-創建新的文件夾
+建立新資料夾
 ```
 
 
@@ -1653,7 +1675,7 @@ Could not create folder: name empty
 ```
 translated (by machine 🤖) as:
 ```
-無法創建文件夾：名空
+無法創建文件夾：名稱為空
 ```
 
 
@@ -1673,7 +1695,7 @@ Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
 translated (by machine 🤖) as:
 ```
-感謝您購買Map Marker高級版升級:-)
+感謝您購買Map Marker高級升級:-)
 ```
 
 
@@ -1683,7 +1705,7 @@ Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
 translated (by machine 🤖) as:
 ```
-感謝您對聲稱你的自由你的興趣Map Marker溢價:-)
+感謝您通過索取免費的Map Marker高級版:-)來表達您的興趣
 ```
 
 
@@ -1703,7 +1725,7 @@ Upgrade to premium and take full advantage of Map Marker features!
 ```
 translated (by machine 🤖) as:
 ```
-升級到高級，並採取充分利用Map Marker功能！
+升級到高級版本並充分利用Map Marker功能！
 ```
 
 
@@ -1713,7 +1735,7 @@ Sorry, you need the premium upgrade to access this feature. Upgrade to premium a
 ```
 translated (by machine 🤖) as:
 ```
-對不起，您所需要的高級升級來訪問此功能。升級到高級，並採取充分利用Map Marker功能！
+抱歉，您需要高級升級才能使用此功能。升級到高級版本並充分利用Map Marker功能！
 ```
 
 
@@ -1723,7 +1745,7 @@ You have the premium upgrade for free! You can still purchase it if you want to 
 ```
 translated (by machine 🤖) as:
 ```
-你有高級升級是免費的！你仍然可以購買它，如果你想顯示您的支持:-)
+您有免費的高級升級！如果您要表示支持:-)，仍然可以購買
 ```
 
 
@@ -1733,7 +1755,7 @@ Purchase the premium upgrade
 ```
 translated (by machine 🤖) as:
 ```
-購買付費升級
+購買高級升級
 ```
 
 
@@ -1743,7 +1765,7 @@ My Google account already has premium access, activate it!
 ```
 translated (by machine 🤖) as:
 ```
-我的谷歌帳戶已具有高級訪問，激活！
+我的Google帳戶已經具有高級訪問權限，請激活它！
 ```
 
 
@@ -1763,7 +1785,7 @@ Open a list of actions to solve possible problems
 ```
 translated (by machine 🤖) as:
 ```
-打開來解決可能出現的問題的行動清單
+打開解決可能出現的問題的操作列表
 ```
 
 
@@ -1773,7 +1795,7 @@ Test internet
 ```
 translated (by machine 🤖) as:
 ```
-測試網絡
+測試互聯網
 ```
 
 
@@ -1783,7 +1805,7 @@ Checks that the app has access to internet
 ```
 translated (by machine 🤖) as:
 ```
-檢查該應用程序能夠訪問互聯網
+檢查應用程序是否可以訪問互聯網
 ```
 
 
@@ -1793,7 +1815,7 @@ Test file writing
 ```
 translated (by machine 🤖) as:
 ```
-測試文件寫入
+測試文件編寫
 ```
 
 
@@ -1803,7 +1825,7 @@ Checks that the app can save files on the internal SD card
 ```
 translated (by machine 🤖) as:
 ```
-檢查該應用程序可以節省內部SD卡上的文件
+檢查應用程序是否可以將文件保存在內部SD卡上
 ```
 
 
@@ -1823,7 +1845,7 @@ Open the details of the currently installed Google Play Services app
 ```
 translated (by machine 🤖) as:
 ```
-打開當前安裝的細節Google Play Services應用
+打開當前安裝的Google Play Services應用程序的詳細信息
 ```
 
 
@@ -1833,7 +1855,7 @@ GP Services (store)
 ```
 translated (by machine 🤖) as:
 ```
-GP服務（店）
+GP服務（商店）
 ```
 
 
@@ -1843,7 +1865,7 @@ Google Play (app)
 ```
 translated (by machine 🤖) as:
 ```
-谷歌播放（應用程序）
+Google Play（應用程序）
 ```
 
 
@@ -1863,7 +1885,7 @@ Write an email to support with the details of your problem
 ```
 translated (by machine 🤖) as:
 ```
-寫email來支持您的問題的細節
+寫一封電子郵件以支持您的問題的詳細信息
 ```
 
 
@@ -1883,7 +1905,7 @@ Testing&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-測試...
+測試&#8230;
 ```
 
 
@@ -1913,7 +1935,7 @@ Disk test failed: could not write to internal storage
 ```
 translated (by machine 🤖) as:
 ```
-硬盤測試失敗：無法寫入內部存儲
+磁盤測試失敗：無法寫入內部存儲
 ```
 
 
@@ -1923,7 +1945,7 @@ Disk test failed: could not write to external storage
 ```
 translated (by machine 🤖) as:
 ```
-硬盤測試失敗：無法寫入到外部存儲
+磁盤測試失敗：無法寫入外部存儲
 ```
 
 
@@ -1943,7 +1965,7 @@ App failed to start: %s
 ```
 translated (by machine 🤖) as:
 ```
-應用程序無法啟動%s
+應用無法啟動：%s
 ```
 
 
@@ -1973,7 +1995,7 @@ Open the cloud map folder to view its properties and share it with other people
 ```
 translated (by machine 🤖) as:
 ```
-打開雲地圖文件夾以查看其屬性，並與其他人共享
+打開雲地圖文件夾以查看其屬性並與其他人共享
 ```
 
 
@@ -1993,7 +2015,7 @@ Copy the app hidden internal files to the sdcard
 ```
 translated (by machine 🤖) as:
 ```
-複製應用程序隱藏的內部文件到SD卡
+將應用程序隱藏的內部文件複製到sdcard
 ```
 
 
@@ -2023,7 +2045,7 @@ Files successfully saved to: %s
 ```
 translated (by machine 🤖) as:
 ```
-文件成功保存到%s
+文件成功保存到：%s
 ```
 
 
@@ -2033,7 +2055,7 @@ View history/Restore
 ```
 translated (by machine 🤖) as:
 ```
-查看歷史記錄/恢復
+查看歷史記錄/還原
 ```
 
 
@@ -2043,7 +2065,7 @@ View history of modifications to the cloud folder and select a version to restor
 ```
 translated (by machine 🤖) as:
 ```
-查看修改歷史到雲文件夾並選擇一個版本恢復到
+查看對雲文件夾的修改歷史記錄，然後選擇要還原到的版本
 ```
 
 
@@ -2053,7 +2075,7 @@ Create map file
 ```
 translated (by machine 🤖) as:
 ```
-創建映射文件
+創建地圖文件
 ```
 
 
@@ -2063,7 +2085,7 @@ Create a new map file locally or on the cloud
 ```
 translated (by machine 🤖) as:
 ```
-在本地或雲中創建一個新的映射文件
+在本地或云上創建新的地圖文件
 ```
 
 
@@ -2073,7 +2095,7 @@ Open cloud map
 ```
 translated (by machine 🤖) as:
 ```
-開放的雲地圖
+打開雲圖
 ```
 
 
@@ -2083,7 +2105,7 @@ Open a map file from the cloud
 ```
 translated (by machine 🤖) as:
 ```
-從雲打開地圖文件
+從雲端打開地圖文件
 ```
 
 
@@ -2093,7 +2115,7 @@ Map Marker needs the permission to access your location in order to display it o
 ```
 translated (by machine 🤖) as:
 ```
-Map Marker需要的訪問權限，以在地圖上顯示您的位置
+Map Marker需要獲得訪問您的位置的權限才能在地圖上顯示
 ```
 
 
@@ -2103,7 +2125,7 @@ Map Marker needs the permission to access to the storage of your device
 ```
 translated (by machine 🤖) as:
 ```
-Map Marker需要訪問到您的設備的存儲權限
+Map Marker需要訪問設備存儲的權限
 ```
 
 
@@ -2123,7 +2145,7 @@ No map folder found on the cloud
 ```
 translated (by machine 🤖) as:
 ```
-沒有在雲中地圖的文件夾
+在雲上找不到地圖文件夾
 ```
 
 
@@ -2143,7 +2165,7 @@ Choose a version to restore to
 ```
 translated (by machine 🤖) as:
 ```
-選擇一個版本恢復到
+選擇要還原的版本
 ```
 
 
@@ -2153,7 +2175,7 @@ You must sync first before restoring an older version
 ```
 translated (by machine 🤖) as:
 ```
-首先恢復了舊版本之前，必須同步
+您必須先同步，然後才能還原舊版本
 ```
 
 
@@ -2163,7 +2185,7 @@ Are you sure you want to restore this version?
 ```
 translated (by machine 🤖) as:
 ```
-你確定要恢復這個版本？
+您確定要還原此版本嗎？
 ```
 
 
@@ -2173,7 +2195,7 @@ Map Marker lost permissions to write to your cloud account. Sync will always fai
 ```
 translated (by machine 🤖) as:
 ```
-Map Marker丟失的權限寫入到您的雲帳戶。同步總是失敗，直到這個是固定的。你現在要解決這個問題？
+Map Marker丟失了寫入您的雲帳戶的權限。解決此問題之前，同步將始終失敗。您要立即修復嗎？
 ```
 
 
@@ -2183,7 +2205,7 @@ A sync error occurred. Please try again.
 ```
 translated (by machine 🤖) as:
 ```
-發生同步錯誤。請重試。
+發生同步錯誤。請再試一遍。
 ```
 
 
@@ -2193,7 +2215,7 @@ A sync error occurred: network error. Please try again.
 ```
 translated (by machine 🤖) as:
 ```
-發生同步錯誤：網絡錯誤。請重試。
+發生同步錯誤：網絡錯誤。請再試一遍。
 ```
 
 
@@ -2203,7 +2225,7 @@ A sync error occurred: conflict, another device was performing the sync at the s
 ```
 translated (by machine 🤖) as:
 ```
-發生同步錯誤：衝突，其他設備在同一時間進行同步。請重試。
+發生同步錯誤：衝突，另一台設備正在同時執行同步。請再試一遍。
 ```
 
 
@@ -2213,7 +2235,7 @@ Changes are available from the cloud
 ```
 translated (by machine 🤖) as:
 ```
-變化可從雲
+可以從雲中獲得更改
 ```
 
 
@@ -2223,7 +2245,7 @@ Changes made from another device were synced on the cloud. You can retrieve thos
 ```
 translated (by machine 🤖) as:
 ```
-從其他設備所做的更改均同步在雲上。您可以通過同步檢索這些變化。
+從另一台設備進行的更改已在雲上同步。您可以通過同步來檢索那些更改。
 ```
 
 
@@ -2233,7 +2255,7 @@ Failed to restore cloud storage permissions. Please see "About" -> "FAQ" for det
 ```
 translated (by machine 🤖) as:
 ```
-無法恢復雲存儲權限。詳細內容請見“關於” - &gt;“常見問題解答”中關於如何恢復的雲權限的詳細信息。
+還原雲存儲權限失敗。有關如何還原雲權限的詳細信息，請參閱“關於”->“常見問題”。
 ```
 
 
@@ -2243,7 +2265,7 @@ A sync error occurred: duplicate index, there are at least two files named index
 ```
 translated (by machine 🤖) as:
 ```
-發生同步錯誤：複製指數，有兩個名為index.json地圖中的雲文件夾至少兩個文件。手動刪除重複項，然後再試一次。
+發生同步錯誤：索引重複，地圖雲文件夾中至少有兩個名為index.json的文件。手動刪除重複項，然後重試。
 ```
 
 
@@ -2263,7 +2285,7 @@ Edit phone number
 ```
 translated (by machine 🤖) as:
 ```
-編輯電話號碼
+修改電話號碼
 ```
 
 
@@ -2273,7 +2295,7 @@ Map Marker needs the permission to make calls on your device
 ```
 translated (by machine 🤖) as:
 ```
-Map Marker需求，讓您的設備上的調用權限
+Map Marker需要權限才能在您的設備上撥打電話
 ```
 
 
@@ -2283,7 +2305,7 @@ No phone number is defined for that marker
 ```
 translated (by machine 🤖) as:
 ```
-沒有電話號碼被定義為標記
+沒有為該標記定義電話號碼
 ```
 
 
@@ -2303,7 +2325,7 @@ Open the marker location in this app
 ```
 translated (by machine 🤖) as:
 ```
-在此應用程序打開的標記位置
+在此應用中打開標記位置
 ```
 
 
@@ -2313,7 +2335,7 @@ Open the marker street view in this app
 ```
 translated (by machine 🤖) as:
 ```
-在此應用程序中打開標記街景
+在此應用中打開標記街景
 ```
 
 
@@ -2323,7 +2345,7 @@ Enter navigation mode in this app to get directions to the marker
 ```
 translated (by machine 🤖) as:
 ```
-在此應用程序進入導航模式，以獲得指示標記
+在此應用中進入導航模式以獲取前往標記的路線
 ```
 
 
@@ -2333,7 +2355,7 @@ Other options
 ```
 translated (by machine 🤖) as:
 ```
-其他選項
+其他選擇
 ```
 
 
@@ -2343,7 +2365,7 @@ Share the selected marker as plain text into another app
 ```
 translated (by machine 🤖) as:
 ```
-分享選擇的標記以純文本到另一個應用程序
+以純文本形式將所選標記共享到另一個應用程序中
 ```
 
 
@@ -2353,7 +2375,7 @@ translated (by machine 🤖) as:
 ```
 translated (by machine 🤖) as:
 ```
-%1$d的標記%2$d文件夾
+%2$d個文件夾中的%1$d個標記
 ```
 
 
@@ -2363,7 +2385,7 @@ A sync error occurred: the cloud data has been updated with a more recent versio
 ```
 translated (by machine 🤖) as:
 ```
-發生同步錯誤：雲中的數據已經更新了最新版本的應用程序中。您必須更新Map Marker此設備同步的。
+發生同步錯誤：雲端數據已使用該應用程序的最新版本進行了更新。您必須在此設備上更新Map Marker才能進行同步。
 ```
 
 
@@ -2373,7 +2395,7 @@ Could not find a phone app on this device.
 ```
 translated (by machine 🤖) as:
 ```
-找不到該設備上的手機應用程序。
+在此設備上找不到電話應用。
 ```
 
 
@@ -2393,7 +2415,7 @@ Call phone number
 ```
 translated (by machine 🤖) as:
 ```
-呼叫電話號碼
+撥打電話
 ```
 
 
@@ -2403,7 +2425,7 @@ Dial phone number
 ```
 translated (by machine 🤖) as:
 ```
-電話號碼
+撥打電話號碼
 ```
 
 
@@ -2423,7 +2445,7 @@ Default navigation action
 ```
 translated (by machine 🤖) as:
 ```
-默認導航行動
+默認導航操作
 ```
 
 
@@ -2433,7 +2455,7 @@ Default phone action
 ```
 translated (by machine 🤖) as:
 ```
-默認手機行動
+默認電話操作
 ```
 
 
@@ -2473,7 +2495,7 @@ Premium free trial started! The trial will expire at the following date: %s
 ```
 translated (by machine 🤖) as:
 ```
-頂級的免費試用開始！該試驗將在以下日期過期： %s
+免費高級試用開始！試用將在以下日期到期：%s
 ```
 
 
@@ -2484,8 +2506,8 @@ Trial expiration:
 ```
 translated (by machine 🤖) as:
 ```
-試用期滿： 
- %s
+試用期滿：
+%s
 ```
 
 
@@ -2505,7 +2527,7 @@ Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
 translated (by machine 🤖) as:
 ```
-同步被取消：您所需要的高級升級，以執行同步。
+同步已取消：您需要進行高級升級才能執行同步。
 ```
 
 
@@ -2515,7 +2537,7 @@ Error: trial starting in the future!
 ```
 translated (by machine 🤖) as:
 ```
-錯誤：在未來的審判開始！
+錯誤：將來會開始試用！
 ```
 
 
@@ -2555,7 +2577,7 @@ Create
 ```
 translated (by machine 🤖) as:
 ```
-創建
+創造
 ```
 
 
@@ -2595,7 +2617,7 @@ Details
 ```
 translated (by machine 🤖) as:
 ```
-詳細信息
+細節
 ```
 
 
@@ -2615,7 +2637,7 @@ The file already exists, do you want to overwrite it?
 ```
 translated (by machine 🤖) as:
 ```
-該文件已經存在，你想覆蓋它嗎？
+該文件已存在，您要覆蓋它嗎？
 ```
 
 
@@ -2625,7 +2647,7 @@ Copy markers to folder
 ```
 translated (by machine 🤖) as:
 ```
-標記複製到文件夾
+將標記複製到文件夾
 ```
 
 
@@ -2635,7 +2657,7 @@ Error loading the Google Map component. Please restart the app.
 ```
 translated (by machine 🤖) as:
 ```
-錯誤加載Google Map組件。請重新啟動應用程序。
+加載Google Map組件時出錯。請重新啟動應用程序。
 ```
 
 
@@ -2645,7 +2667,7 @@ You will see the list of your markers here. You currently have no markers in the
 ```
 translated (by machine 🤖) as:
 ```
-在這裡你會看到你的標記列表。您目前已選定的文件夾（S）中沒有標記。您可以通過點擊下面的按鈕添加新的標記。
+您將在此處看到標記列表。當前，所選文件夾中沒有標記。您可以通過單擊下面的按鈕添加新標記。
 ```
 
 
@@ -2655,7 +2677,7 @@ No search results
 ```
 translated (by machine 🤖) as:
 ```
-無搜索結果
+沒有搜尋結果
 ```
 
 
@@ -2725,7 +2747,7 @@ No folder selected
 ```
 translated (by machine 🤖) as:
 ```
-沒有選擇的文件夾
+未選擇文件夾
 ```
 
 
@@ -2735,7 +2757,7 @@ Storage folder
 ```
 translated (by machine 🤖) as:
 ```
-存儲文件夾
+儲存夾
 ```
 
 
@@ -2746,8 +2768,8 @@ Test results of the offline maps folder:
 ```
 translated (by machine 🤖) as:
 ```
-離線地圖文件夾的測試結果： 
- %s
+離線地圖文件夾的測試結果：
+%s
 ```
 
 
@@ -2757,7 +2779,7 @@ No folder is selected for offline map files. In order to use offline maps, open 
 ```
 translated (by machine 🤖) as:
 ```
-沒有文件夾中選擇了離線地圖文件。為了使用離線地圖，打開設置，並選擇離線地圖文件的文件夾。
+沒有為離線地圖文件選擇文件夾。為了使用離線地圖，請打開設置並選擇用於離線地圖文件的文件夾。
 ```
 
 
@@ -2767,7 +2789,7 @@ The selected offline map folder you selected contains no files. Make sure you ad
 ```
 translated (by machine 🤖) as:
 ```
-您選擇的選擇離線地圖文件夾中沒有文件。請確保您在文件夾中使用離線地圖前添加離線地圖文件，否則地圖將是空的。
+您選擇的所選離線地圖文件夾不包含文件。使用離線地圖之前，請確保將離線地圖文件添加到該文件夾中，否則地圖將為空。
 ```
 
 
@@ -2777,7 +2799,7 @@ Success: %s
 ```
 translated (by machine 🤖) as:
 ```
-成功： %s
+成功：%s
 ```
 
 
@@ -2787,7 +2809,7 @@ Failed: %s
 ```
 translated (by machine 🤖) as:
 ```
-失敗： %s
+失敗：%s
 ```
 
 
@@ -2807,7 +2829,7 @@ Click here to open the web page explaining how to obtain those maps.
 ```
 translated (by machine 🤖) as:
 ```
-點擊這裡打開網頁解釋如何獲取這些地圖。
+單擊此處打開解釋如何獲取這些地圖的網頁。
 ```
 
 
@@ -2817,7 +2839,7 @@ Credits
 ```
 translated (by machine 🤖) as:
 ```
-積分
+學分
 ```
 
 
@@ -2827,7 +2849,7 @@ Copyright and legal mentions
 ```
 translated (by machine 🤖) as:
 ```
-版權和法律聲名
+版權和法律提及
 ```
 
 
@@ -2839,9 +2861,9 @@ Legal mentions for other map data than Google Maps:
 ```
 translated (by machine 🤖) as:
 ```
-法律提到，相比於其它地圖數據Google Maps ： 
- 
- %s
+除Google Maps以外的其他地圖數據的法律聲明：
+
+%s
 ```
 
 
@@ -2861,7 +2883,7 @@ Disable writing app errors to a file on the SD card
 ```
 translated (by machine 🤖) as:
 ```
-禁止寫入應用程序錯誤的文件在SD卡上
+禁止將應用程序錯誤寫入SD卡上的文件
 ```
 
 
@@ -2881,7 +2903,7 @@ Enable writing app errors to a file on the SD card
 ```
 translated (by machine 🤖) as:
 ```
-啟用寫入應用程序錯誤的文件在SD卡上
+啟用將應用程序錯誤寫入SD卡上的文件
 ```
 
 
@@ -2891,7 +2913,7 @@ Start background sync…
 ```
 translated (by machine 🤖) as:
 ```
-啟動後台同步...
+開始後台同步…
 ```
 
 
@@ -2911,7 +2933,7 @@ When app enters background
 ```
 translated (by machine 🤖) as:
 ```
-當應用程序進入後台
+當應用進入後台
 ```
 
 
@@ -2921,7 +2943,7 @@ translated (by machine 🤖) as:
 ```
 translated (by machine 🤖) as:
 ```
-%d秒鐘的應用進入後台後
+應用程序進入後台後%d秒
 ```
 
 
@@ -2931,7 +2953,7 @@ translated (by machine 🤖) as:
 ```
 translated (by machine 🤖) as:
 ```
-%d分應用程序進入後台後
+應用程序進入後台後%d分鐘
 ```
 
 
@@ -2941,7 +2963,7 @@ Sync starting in %d seconds
 ```
 translated (by machine 🤖) as:
 ```
-同步首發%d秒
+%d秒後開始同步
 ```
 
 
@@ -2951,7 +2973,7 @@ You can cancel the sync at any time and your data will be synced on next attempt
 ```
 translated (by machine 🤖) as:
 ```
-您可以隨時取消同步您的信息將在下次嘗試進行同步。
+您可以隨時取消同步，並且您的數據將在下次嘗試時同步。
 ```
 
 
@@ -2961,7 +2983,7 @@ Press back again to exit
 ```
 translated (by machine 🤖) as:
 ```
-再次按下退出
+再按一次退出
 ```
 
 
@@ -2971,7 +2993,7 @@ Cannot start sync with no internet access on the device.
 ```
 translated (by machine 🤖) as:
 ```
-不能與設備上沒有互聯網接入開始同步。
+無法在設備上沒有Internet訪問的情況下開始同步。
 ```
 
 
@@ -3001,7 +3023,7 @@ Delete map file
 ```
 translated (by machine 🤖) as:
 ```
-刪除映射文件
+刪除地圖文件
 ```
 
 
@@ -3011,7 +3033,7 @@ This action will delete the map file from this device
 ```
 translated (by machine 🤖) as:
 ```
-這一行動將刪除此裝置上的地圖文件
+此操作將從此設備中刪除地圖文件
 ```
 
 
@@ -3021,7 +3043,7 @@ This action will delete the map file from your device forever. All the markers i
 ```
 translated (by machine 🤖) as:
 ```
-這一行動將永遠刪除設備中的地圖文件。所有文件內的標記會丟失。你確定？
+此操作將永遠從您的設備中刪除地圖文件。該文件中的所有標記都將丟失。你確定嗎？
 ```
 
 
@@ -3031,7 +3053,7 @@ This action will delete the map file from your device forever. All changes not y
 ```
 translated (by machine 🤖) as:
 ```
-這一行動將永遠刪除設備中的地圖文件。尚未同步到雲中的所有更改將丟失。雲文件夾將不被這個動作受到影響，您必須手動刪除它。你確定？
+此操作將永遠從您的設備中刪除地圖文件。尚未同步到雲的所有更改都將丟失。雲文件夾將不受此操作的影響，您將必須手動將其刪除。你確定嗎？
 ```
 
 
@@ -3041,7 +3063,7 @@ Map file successfully deleted
 ```
 translated (by machine 🤖) as:
 ```
-地圖文件刪除成功
+地圖文件已成功刪除
 ```
 
 
@@ -3051,7 +3073,7 @@ Could not delete map file: %s
 ```
 translated (by machine 🤖) as:
 ```
-無法刪除映射文件： %s
+無法刪除地圖文件：%s
 ```
 
 
@@ -3061,7 +3083,7 @@ Marker saved in a non visible folder
 ```
 translated (by machine 🤖) as:
 ```
-標記保存在一個非可見夾
+標記保存在不可見的文件夾中
 ```
 
 
@@ -3071,7 +3093,7 @@ Your changes have not been synced recently. Make sure you keep your cloud copy u
 ```
 translated (by machine 🤖) as:
 ```
-您的變更尚未最近同步。請務必保持您的雲複製是最新的。你想現在同步？
+您的更改最近尚未同步。確保您的雲副本保持最新。您要立即同步嗎？
 ```
 
 
@@ -3081,7 +3103,7 @@ The markers of this map file are currently only saved on this device. It is reco
 ```
 translated (by machine 🤖) as:
 ```
-此地圖文件的標記目前只保存在該設備上。建議保存在雲中的標記，以避免失去他們。你想，現在將它們保存到雲計算？
+該地圖文件的標記當前僅保存在此設備上。建議將您的標記保存在雲中，以免丟失。您要立即將它們保存到雲中嗎？
 ```
 
 
@@ -3091,7 +3113,7 @@ Do you want to sync this map file? With manual you will need to sync manually ev
 ```
 translated (by machine 🤖) as:
 ```
-你想同步此地圖文件？具有手動，您將需要每次都手動同步。具有自動（推薦），你會選擇一個目標雲文件夾，並同步到雲會在每次進入應用背景時自動啟動。
+您要同步此地圖文件嗎？使用手冊，您將需要每次手動同步。使用自動（推薦）時，您將選擇一個目標雲文件夾，並且每次應用進入後台時，都會自動開始同步到雲。
 ```
 
 
@@ -3121,7 +3143,7 @@ You can sync a map file on the cloud at any time by clicking on the map file in 
 ```
 translated (by machine 🤖) as:
 ```
-您可以通過點擊側邊欄中的地圖文件，然後選擇“雲同步”選項，可以隨時同步雲上的地圖文件。
+您可以隨時通過單擊側邊欄中的地圖文件，然後選擇“云同步”選項來同步雲上的地圖文件。
 ```
 
 
@@ -3131,7 +3153,7 @@ You can sync a map file manually to the cloud at any time by clicking the "share
 ```
 translated (by machine 🤖) as:
 ```
-您可以手動在任何時候通過點擊主操作欄中的“共享”按鈕，選擇你最喜歡的雲存儲應用同步映射文件到雲端，然後在“其他選項”，然後“所有標記和文件夾”，然後。
+您可以隨時單擊主操作欄中的“共享”按鈕，然後依次單擊“其他選項”，“所有標記和文件夾”，然後選擇您喜歡的雲存儲應用程序，將地圖文件手動手動同步到雲中。
 ```
 
 
@@ -3141,7 +3163,7 @@ Move the map around to place the points, click '+' to add a point, click '-' to 
 ```
 translated (by machine 🤖) as:
 ```
-移動地圖放置點，點擊“+”添加點，點擊“ - ”同一個/下一個按鈕刪除一個點和開關點。最後點擊保存，保存的形狀。
+移動地圖以放置點，單擊“ +”添加點，單擊“-”刪除點，然後使用上一個/下一個按鈕切換點。最後單擊“保存”以保存形狀。
 ```
 
 
@@ -3151,7 +3173,7 @@ There are not enough points to create the shape. Create more points and try agai
 ```
 translated (by machine 🤖) as:
 ```
-沒有足夠的點來創建的形狀。創建更多的點，然後再試一次。
+沒有足夠的點來創建形狀。創建更多點，然後重試。
 ```
 
 
@@ -3161,7 +3183,7 @@ Could not activate the premium upgrade from your Google account. If you purchase
 ```
 translated (by machine 🤖) as:
 ```
-無法激活您的帳戶谷歌的保費升級。如果從另一個設備最近購買了高級升級，您可能需要等待一點點購買傳播，重新啟動您的設備可以使其更快。如果仍然不能正常工作，請確保您購買，安裝應用程序，並使用相同的谷歌帳戶被激活。如果問題仍然存在，我會幫你盡我所能，你可以和我聯繫email （側面面板- &gt;關於- &gt;發送email ）。
+無法從您的Google帳戶激活高級升級。如果您最近從另一台設備購買了高級升級，則可能需要稍等片刻才能使購買傳播，重新啟動設備可以使其速度更快。如果仍然無法使用，請確保您購買，安裝了該應用程序並使用相同的Google帳戶激活了該應用程序。如果問題仍然存在，我會盡力為您服務，您可以通過電子郵件與我聯繫（側面板->關於->發送電子郵件）。
 ```
 
 
@@ -3171,7 +3193,7 @@ Distance: %s
 ```
 translated (by machine 🤖) as:
 ```
-距離： %s
+距離：%s
 ```
 
 
@@ -3182,8 +3204,8 @@ Area: %2$s
 ```
 translated (by machine 🤖) as:
 ```
-周長： %1$s 
-面積： %2$s
+周長：%1$s
+區域：%2$s
 ```
 
 
@@ -3213,7 +3235,7 @@ Replace title
 ```
 translated (by machine 🤖) as:
 ```
-更換標題
+替換標題
 ```
 
 
@@ -3223,7 +3245,7 @@ Replace description
 ```
 translated (by machine 🤖) as:
 ```
-更換說明
+替換說明
 ```
 
 
@@ -3233,7 +3255,7 @@ Unit of distance
 ```
 translated (by machine 🤖) as:
 ```
-距離的單位
+距離單位
 ```
 
 
@@ -3243,7 +3265,7 @@ Unit of area
 ```
 translated (by machine 🤖) as:
 ```
-區域的單位
+面積單位
 ```
 
 
@@ -3253,7 +3275,7 @@ Metric (%s)
 ```
 translated (by machine 🤖) as:
 ```
-公制（ %s ）
+公制（%s）
 ```
 
 
@@ -3263,7 +3285,7 @@ Imperial (%s)
 ```
 translated (by machine 🤖) as:
 ```
-帝國（ %s ）
+英制（%s）
 ```
 
 
@@ -3271,7 +3293,7 @@ translated (by machine 🤖) as:
 ```
 m²/a/ha/km²
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 m²/a/ha/km²
 ```
@@ -3281,7 +3303,7 @@ m²/a/ha/km²
 ```
 Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
 ```
@@ -3291,7 +3313,7 @@ Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
 ```
 m²
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 m²
 ```
@@ -3301,7 +3323,7 @@ m²
 ```
 a
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 a
 ```
@@ -3311,7 +3333,7 @@ a
 ```
 ha
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ha
 ```
@@ -3321,7 +3343,7 @@ ha
 ```
 km²
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 km²
 ```
@@ -3331,7 +3353,7 @@ km²
 ```
 Square yard
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Square yard
 ```
@@ -3341,7 +3363,7 @@ Square yard
 ```
 rd²
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 rd²
 ```
@@ -3351,7 +3373,7 @@ rd²
 ```
 Acre
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Acre
 ```
@@ -3361,7 +3383,7 @@ Acre
 ```
 Township
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Township
 ```
@@ -3371,7 +3393,7 @@ Township
 ```
 mi²
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 mi²
 ```
@@ -3413,7 +3435,7 @@ Fit in a %1$sx%2$s square
 ```
 translated (by machine 🤖) as:
 ```
-適合在%1$s點¯x %2$s方
+適合%1$sx%2$s正方形
 ```
 
 
@@ -3423,7 +3445,7 @@ Full quality
 ```
 translated (by machine 🤖) as:
 ```
-全面質量
+全品質
 ```
 
 
@@ -3453,7 +3475,7 @@ Disabled
 ```
 translated (by machine 🤖) as:
 ```
-殘
+殘障人士
 ```
 
 
@@ -3463,7 +3485,7 @@ Up to %s per sync
 ```
 translated (by machine 🤖) as:
 ```
-截至%s每同步
+每次同步最多%s
 ```
 
 
@@ -3483,7 +3505,7 @@ The sync was aborted because it was exceeding the allowed data volume limit. To 
 ```
 translated (by machine 🤖) as:
 ```
-同步被放棄，因為它超過了允許的數據量的限制。要增加或更改限制，進入設置。您也可以點擊“強制同步”來同步數據沒有音量限制只是一個時間。
+同步已中止，因為它超出了允許的數據量限制。要增加或更改限制，請轉到設置。您也可以單擊“強制同步”以僅同步一次，而沒有數據量限制。
 ```
 
 
@@ -3503,7 +3525,7 @@ This will override the usual data limit just for this one time. Force sync?
 ```
 translated (by machine 🤖) as:
 ```
-這將覆蓋常用的數據限制只為這一次。強制同步？
+這將一次僅覆蓋通常的數據限制。強制同步？
 ```
 
 
@@ -3533,7 +3555,7 @@ From camera
 ```
 translated (by machine 🤖) as:
 ```
-從攝像頭
+從相機
 ```
 
 
@@ -3553,7 +3575,7 @@ Importing image…
 ```
 translated (by machine 🤖) as:
 ```
-導入圖像...
+正在導入圖片…
 ```
 
 
@@ -3563,7 +3585,7 @@ Offline (Mapsforge BETA)
 ```
 translated (by machine 🤖) as:
 ```
-離線（ Mapsforge BETA ）
+離線（Mapsforge BETA）
 ```
 
 
@@ -3583,7 +3605,7 @@ Export failed
 ```
 translated (by machine 🤖) as:
 ```
-出口失敗
+導出失敗
 ```
 
 
@@ -3593,7 +3615,7 @@ Export succeeded
 ```
 translated (by machine 🤖) as:
 ```
-出口成功
+導出成功
 ```
 
 
@@ -3623,7 +3645,7 @@ Importing file…
 ```
 translated (by machine 🤖) as:
 ```
-導入文件...
+正在導入文件…
 ```
 
 
@@ -3643,7 +3665,7 @@ translated (by machine 🤖) as:
 ```
 translated (by machine 🤖) as:
 ```
-同步中斷，因為在雲中的媒體文件的一個失踪了。您可以忽略通過點擊"強制同步"丟失的文件。警告，忽略丟失的文件將導致從數據庫中，這意味著其他設備仍然具有該文件的本地副本會刪除它在同步刪除它們。
+“同步已中止，因為雲上的媒體文件之一丟失了。您可以通過單擊“強制同步”來忽略丟失的文件。警告，忽略丟失的文件將導致它們從數據庫中刪除，這意味著其他設備仍在該文件的本地副本將在同步時將其刪除。
 ```
 
 
@@ -3653,7 +3675,7 @@ This will force the sync and ignore the missing cloud files. The missing links w
 ```
 translated (by machine 🤖) as:
 ```
-這將強制同步和忽略缺失雲文件。缺少的環節將被從數據庫中刪除。其他設備仍然擁有失踪的雲文件的本地版本將刪除在他們下次同步。數據消耗量限值將這個特殊的同步被忽略。強制同步？
+這將強制同步，並忽略丟失的雲文件。缺少的鏈接將從數據庫中刪除。仍擁有丟失的雲文件的本地版本的其他設備將在下次同步時將其刪除。此特殊同步將忽略數據消耗限制。強制同步？
 ```
 
 
@@ -3663,7 +3685,7 @@ Marker media files ignored on import: %1$d
 ```
 translated (by machine 🤖) as:
 ```
-忽略進口標記的媒體文件： %1$d
+導入時忽略標記媒體文件：%1$d
 ```
 
 
@@ -3673,7 +3695,7 @@ Checking premium status…
 ```
 translated (by machine 🤖) as:
 ```
-檢查貼水狀態...
+正在檢查高級狀態…
 ```
 
 
@@ -3713,7 +3735,7 @@ Stores
 ```
 translated (by machine 🤖) as:
 ```
-商店
+專賣店
 ```
 
 
@@ -3723,7 +3745,7 @@ Land activities
 ```
 translated (by machine 🤖) as:
 ```
-土地活動
+陸上活動
 ```
 
 
@@ -3733,7 +3755,7 @@ Water activies
 ```
 translated (by machine 🤖) as:
 ```
-水activies
+水上活動
 ```
 
 
@@ -3743,7 +3765,7 @@ Winter activies
 ```
 translated (by machine 🤖) as:
 ```
-冬季activies
+冬季活動
 ```
 
 
@@ -3813,7 +3835,7 @@ Religious
 ```
 translated (by machine 🤖) as:
 ```
-宗教
+宗教信仰
 ```
 
 
@@ -3823,7 +3845,7 @@ Accessibility
 ```
 translated (by machine 🤖) as:
 ```
-無障礙
+輔助功能
 ```
 
 
@@ -3853,7 +3875,7 @@ Generic
 ```
 translated (by machine 🤖) as:
 ```
-通用
+泛型
 ```
 
 
@@ -3863,7 +3885,7 @@ Beta tester badge: thank you for being a beta tester! This badge will disappear 
 ```
 translated (by machine 🤖) as:
 ```
-beta測試者徽章：謝謝您的Beta測試！此徽章只會在卸載應用程序或清除應用數據消失。此徽章，您還可以對應用程序沒有廣告。
+Beta測試員徽章：感謝您成為Beta測試員！僅在卸載應用程序或清除應用程序數據後，此徽章才會消失。此徽章還允許您在該應用上沒有廣告。
 ```
 
 
@@ -3873,7 +3895,7 @@ Contribute to translations
 ```
 translated (by machine 🤖) as:
 ```
-有助於翻譯
+協助翻譯
 ```
 
 
@@ -3883,7 +3905,7 @@ You understand English and want to help with translations? Click here
 ```
 translated (by machine 🤖) as:
 ```
-你懂英語，想幫助翻譯？點擊這裡
+您懂英語，並希望提供翻譯幫助嗎？點擊這裡
 ```
 
 
@@ -3893,7 +3915,7 @@ The destination folder's color or icon is different. Do you want to update the m
 ```
 translated (by machine 🤖) as:
 ```
-目標文件夾的顏色或圖標是不同的。你要更新的標記顏色和圖標？
+目標文件夾的顏色或圖標不同。您要更新標記的顏色和圖標嗎？
 ```
 
 
@@ -3907,13 +3929,29 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-&lt;！[CDATA [&lt;HTML&gt; &lt;BODY&gt; &lt;b&gt;什麼是溢價升級&lt;/ b&gt;的結果在去除廣告的上方，溢價升級解鎖下列獨家高級功能：？搜索•同步上Google Drive或Dropbox結果•通過協作Google Drive或Dropbox結果•地圖版本歷史和恢復結果&lt;/ body&gt; &lt;/ HTML&gt;
+什麼是高級升級？
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by machine 🤖) as:
+```
+除了刪除廣告外，高級升級還可以解鎖以下獨家高級功能：
+•在Google Drive或Dropbox上同步
+•通過Google Drive或Dropbox進行協作
+•地圖版本歷史記錄和還原
 ```
 
 
@@ -3923,7 +3961,7 @@ Marker created from the geo location of the QR code
 ```
 translated (by machine 🤖) as:
 ```
-從QR碼的地理位置創建標記
+從QR碼的地理位置創建的標記
 ```
 
 
@@ -3933,7 +3971,7 @@ Failed to read QR code as a geo location
 ```
 translated (by machine 🤖) as:
 ```
-無法讀取QR代碼作為地理位置
+無法讀取QR碼作為地理位置
 ```
 
 
@@ -3943,7 +3981,7 @@ The app for scanning QR codes could not be found. Do you want to install it?
 ```
 translated (by machine 🤖) as:
 ```
-掃描QR碼應用程式無法找到。你想安裝嗎？
+找不到用於掃描QR碼的應用。您要安裝嗎？
 ```
 
 
@@ -3963,7 +4001,7 @@ Move to left
 ```
 translated (by machine 🤖) as:
 ```
-左移
+向左移動
 ```
 
 
@@ -3973,7 +4011,7 @@ Move to right
 ```
 translated (by machine 🤖) as:
 ```
-右移
+向右移動
 ```
 
 
@@ -3983,7 +4021,7 @@ Rotate to left
 ```
 translated (by machine 🤖) as:
 ```
-循環左移
+向左旋轉
 ```
 
 
@@ -3993,7 +4031,7 @@ Rotate to right
 ```
 translated (by machine 🤖) as:
 ```
-旋轉到正確的
+向右旋轉
 ```
 
 
@@ -4003,7 +4041,7 @@ Delete image
 ```
 translated (by machine 🤖) as:
 ```
-刪除圖像
+刪除圖片
 ```
 
 
@@ -4023,7 +4061,7 @@ What format to you want to use to export?
 ```
 translated (by machine 🤖) as:
 ```
-什麼格式要使用導出？
+您要使用哪種格式導出？
 ```
 
 
@@ -4033,7 +4071,7 @@ The data to export contains media(images) that cannot be included with this expo
 ```
 translated (by machine 🤖) as:
 ```
-要導出的數據包含可以不包括在此導出格式的媒體（圖像）。這些數據將沒有媒體出口。要導出的一切，選擇KMZ導出格式。
+要導出的數據包含此導出格式不能包含的媒體（圖像）。數據將在沒有媒體的情況下導出。要導出所有內容，請選擇KMZ導出格式。
 ```
 
 
@@ -4059,11 +4097,11 @@ translated (by machine 🤖) as:
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by machine 🤖) as:
 ```
-Zip Google Earth格式。可以包含媒體。
+Google Earth壓縮格式。可以包含媒體。
 ```
 
 
@@ -4073,7 +4111,7 @@ Standard text spreadsheet format. Cannot contain media. Cannot contain lines or 
 ```
 translated (by machine 🤖) as:
 ```
-標準文本的電子表格格式。不能包含媒體。不能包含線或面。
+標准文本電子表格格式。不能包含媒體。不能包含線或面。
 ```
 
 
@@ -4093,7 +4131,7 @@ Marker as file
 ```
 translated (by machine 🤖) as:
 ```
-衛星標記文件
+標記為文件
 ```
 
 
@@ -4103,7 +4141,7 @@ Share the selected marker as a file into another app
 ```
 translated (by machine 🤖) as:
 ```
-分享選定標記為一個文件到另一個應用程序
+將所選標記作為文件共享到另一個應用程序
 ```
 
 
@@ -4113,7 +4151,7 @@ Share as file
 ```
 translated (by machine 🤖) as:
 ```
-作為共享文件
+共享為文件
 ```
 
 
@@ -4133,7 +4171,7 @@ Import or export markers as files
 ```
 translated (by machine 🤖) as:
 ```
-導入或導出標記為文件
+將標記導入或導出為文件
 ```
 
 
@@ -4143,7 +4181,7 @@ The data to export contains complex markers (lines or polygons) that cannot be i
 ```
 translated (by machine 🤖) as:
 ```
-要導出的數據包含可以不包括在此導出格式複雜的標誌（線或面）。這些數據將沒有這些標誌物出口。要導出的一切，選擇KMZ導出格式。
+要導出的數據包含複雜的標記（線或面），不能包含在此導出格式中。數據將在沒有那些標記的情況下導出。要導出所有內容，請選擇KMZ導出格式。
 ```
 
 
@@ -4173,7 +4211,7 @@ Custom fields
 ```
 translated (by machine 🤖) as:
 ```
-自定義字段
+自訂欄位
 ```
 
 
@@ -4183,7 +4221,7 @@ Field name
 ```
 translated (by machine 🤖) as:
 ```
-字段名稱
+欄位名稱
 ```
 
 
@@ -4193,7 +4231,7 @@ Delete field
 ```
 translated (by machine 🤖) as:
 ```
-刪除字段
+刪除欄位
 ```
 
 
@@ -4233,7 +4271,7 @@ Field enabled. For folders, if enabled, that field will be added automatically t
 ```
 translated (by machine 🤖) as:
 ```
-已啟用字段。對於文件夾，如果啟用，該字段將自動添加到創建時的兒童POI。對於POI，如果啟用，該字段將在詳細信息頁面中可見。
+字段已啟用。對於文件夾，如果啟用，該字段將在創建時自動添加到子POI。對於POI，如果啟用，該字段將在詳細信息頁面中可見。
 ```
 
 
@@ -4243,7 +4281,7 @@ Field info
 ```
 translated (by machine 🤖) as:
 ```
-字段信息
+領域信息
 ```
 
 
@@ -4253,7 +4291,7 @@ Select field type
 ```
 translated (by machine 🤖) as:
 ```
-選擇字段類型
+選擇欄位類型
 ```
 
 
@@ -4263,7 +4301,7 @@ Boolean (True or False)
 ```
 translated (by machine 🤖) as:
 ```
-布爾（True或False）
+布爾值（真或假）
 ```
 
 
@@ -4323,7 +4361,7 @@ Add choice
 ```
 translated (by machine 🤖) as:
 ```
-添加選項
+添加選擇
 ```
 
 
@@ -4333,7 +4371,7 @@ Duplicates are not allowed
 ```
 translated (by machine 🤖) as:
 ```
-重複是不允許的
+不允許重複
 ```
 
 
@@ -4363,7 +4401,7 @@ Choices list
 ```
 translated (by machine 🤖) as:
 ```
-選擇列表
+選擇清單
 ```
 
 
@@ -4403,7 +4441,7 @@ Delete POI
 ```
 translated (by machine 🤖) as:
 ```
-刪除POI
+刪除興趣點
 ```
 
 
@@ -4413,7 +4451,7 @@ Select value
 ```
 translated (by machine 🤖) as:
 ```
-選擇價值
+選擇值
 ```
 
 
@@ -4433,7 +4471,7 @@ Edit field
 ```
 translated (by machine 🤖) as:
 ```
-編輯字段
+編輯欄位
 ```
 
 
@@ -4453,7 +4491,7 @@ Reorder fields
 ```
 translated (by machine 🤖) as:
 ```
-重新排序字段
+重新排序欄位
 ```
 
 
@@ -4473,7 +4511,7 @@ The destination folder has different field values. Pick the fields you want to a
 ```
 translated (by machine 🤖) as:
 ```
-目標文件夾具有不同的字段值。選擇要應用於移動的POI的字段。
+目標文件夾具有不同的字段值。選擇要應用於已移動POI的字段。
 ```
 
 
@@ -4503,7 +4541,7 @@ Add field if missing: %s
 ```
 translated (by machine 🤖) as:
 ```
-如果缺少添加字段： %s
+如果缺少則添加字段：%s
 ```
 
 
@@ -4513,7 +4551,7 @@ Remove field if present: %s
 ```
 translated (by machine 🤖) as:
 ```
-如果存在，則刪除字段： %s
+刪除字段（如果存在）：%s
 ```
 
 
@@ -4523,7 +4561,7 @@ Update field name if different: %s
 ```
 translated (by machine 🤖) as:
 ```
-如果不同，請更新字段名稱： %s
+更新字段名稱（如果不同）：%s
 ```
 
 
@@ -4553,7 +4591,7 @@ Edit email
 ```
 translated (by machine 🤖) as:
 ```
-編輯email
+編輯電子郵件
 ```
 
 
@@ -4563,7 +4601,7 @@ Edit web link
 ```
 translated (by machine 🤖) as:
 ```
-編輯網頁鏈接
+修改網頁鏈接
 ```
 
 
@@ -4583,7 +4621,7 @@ Details copied to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-詳細信息複製到剪貼板
+詳細信息已復製到剪貼板
 ```
 
 
@@ -4603,7 +4641,7 @@ Do you want to click here? ^‿^
 ```
 translated (by machine 🤖) as:
 ```
-你想點擊這裡嗎？ ^ ^‿
+您要點擊這裡嗎？ ^‿^
 ```
 
 
@@ -4631,25 +4669,25 @@ Sébastien
 ```
 translated (by machine 🤖) as:
 ```
-嘿，謝謝你的好奇心！ 
- 
-我以前在這裡有一個廣告橫幅，我決定嘗試不同的東西，並用這個簡單的消息替換它... 
- 
-我作為業餘愛好在我的空閒時間製作了這個應用程序除了有一份全職工作，事實證明它已經成為一個我已經花了很多時間超過4年的副項目。 
- 
-我希望你喜歡這款應用並發現它很有用。我以某種方式製作它，你可以在不付錢的情況下完成所有工作，它可能只需要更多的工作。您可以手動導入或導出數據，因此您永遠不必付費，只是云同步更方便。 
- 
-如果您喜歡該應用程序，請支持它：您不必花錢，任何這些手勢都有幫助： 
- - 向您周圍的人談論應用程序
- - 評價應用程序推薦它在商店
- - 購買高級升級（將刪除底部橫幅） 
- 
-如果您不喜歡該應用程序，請email me （來自“約”部分）讓我知道如何改進它。我已經走到這一步了，感謝許多用戶的反饋，他們告訴我他們錯過或不喜歡什麼，我回复每一個email ，所以不要害羞！ 
- 
-最後，感謝您閱讀此:-) 
- 
+嘿，謝謝您的好奇心！
+
+我以前在這裡有一個廣告橫幅，因此我決定嘗試一些不同的方法，並用此簡單消息替換它…
+
+我除了業餘時間之外，還業餘時間製作了這個應用程序，結果發現它成了一個附帶項目，我花了很多時間在4年以上的時間裡。
+
+我希望您喜歡該應用程序並發現它有用。我這樣做的方式是，您仍然可以無償地做所有事情，這可能需要更多的工作。您可以自由地手動導入或導出數據，因此您無需支付任何費用，只是云同步更加方便。
+
+如果您喜歡該應用程序，請為其提供支持：您不必為此花錢，這些手勢中的任何一種都可以幫助您：
+-與您周圍的人談論該應用
+-評價應用程序以在商店中推薦它
+-購買高級升級（將刪除底部橫幅）
+
+如果您不喜歡該應用程序，請給我發電子郵件（來自“關於”部分），並讓我知道如何改進它。我走到了這一步，這要歸功於許多用戶的反饋，他們告訴我他們錯過或不喜歡的東西，並且我會回复每封電子郵件，所以請不要害羞！
+
+最後，感謝您閱讀此:-)
+
 問候
- sSébastien
+塞巴斯蒂安
 ```
 
 
@@ -4659,7 +4697,7 @@ Normal with indoor
 ```
 translated (by machine 🤖) as:
 ```
-正常與室內
+室內普通
 ```
 
 
@@ -4679,7 +4717,7 @@ Maximum number
 ```
 translated (by machine 🤖) as:
 ```
-最大數量
+最大人數
 ```
 
 
@@ -4699,7 +4737,7 @@ Search failed => %s
 ```
 translated (by machine 🤖) as:
 ```
-搜索失敗=&gt; %s
+搜索失敗=> %s
 ```
 
 
@@ -4709,7 +4747,7 @@ Do you enjoy the app?
 ```
 translated (by machine 🤖) as:
 ```
-你喜歡這款應用嗎？
+你喜歡這個應用程序嗎？
 ```
 
 
@@ -4719,7 +4757,7 @@ Would you like to send me an email to tell me how I could improve the app?
 ```
 translated (by machine 🤖) as:
 ```
-你想給我發一個email來告訴我如何改進應用程序嗎？
+您想給我發送電子郵件，告訴我如何改進該應用程序嗎？
 ```
 
 
@@ -4759,7 +4797,7 @@ IGN - Cadastral parcels
 ```
 translated (by machine 🤖) as:
 ```
-IGN  - 地籍包裹
+IGN-地籍包裹
 ```
 
 
@@ -4769,7 +4807,7 @@ IGN - Aerial
 ```
 translated (by machine 🤖) as:
 ```
-IGN  - 天線
+IGN-空中
 ```
 
 
@@ -4779,7 +4817,7 @@ Type more and press enter again for refined results
 ```
 translated (by machine 🤖) as:
 ```
-輸入更多並再次按Enter鍵以獲得精煉結果
+鍵入更多，然後再次按Enter以得到更精確的結果
 ```
 
 
@@ -4789,7 +4827,7 @@ External search
 ```
 translated (by machine 🤖) as:
 ```
-外部搜索
+外部搜尋
 ```
 
 
@@ -4799,7 +4837,7 @@ Search source
 ```
 translated (by machine 🤖) as:
 ```
-搜索來源
+搜索源
 ```
 
 
@@ -4809,7 +4847,7 @@ Map Marker's Nominatim server
 ```
 translated (by machine 🤖) as:
 ```
-Map Marker的Nominatim服務器
+Map Marker的名義服務器
 ```
 
 
@@ -4839,7 +4877,7 @@ You can search for places with "%s". This search requires an internet connection
 ```
 translated (by machine 🤖) as:
 ```
-您可以使用“%s”搜索地點。此搜索需要互聯網連接。輸入您的搜索，然後按Enter鍵。
+您可以使用“ %s”搜索地點。此搜索需要互聯網連接。輸入搜索內容，然後按Enter。
 ```
 
 
@@ -4859,7 +4897,7 @@ A special thank you to the people who helped me
 ```
 translated (by machine 🤖) as:
 ```
-特別感謝幫助我的人們
+特別感謝幫助我的人
 ```
 
 
@@ -4873,11 +4911,11 @@ Also, thank you to all the users who gave me feedback over the years and continu
 ```
 translated (by machine 🤖) as:
 ```
-特別感謝那些努力幫助應用翻譯的人：
+特別感謝那些努力為應用程序翻譯提供幫助的人們：
 %s
-......還有那些拒絕提及的人
+…還有那些拒絕提及的人
 
-此外，感謝所有多年來給我反饋的用戶，並不斷幫助我改進應用程序。
+另外，感謝所有多年來向我提供反饋並持續幫助我使應用程序變得更好的用戶。
 ```
 
 
@@ -4937,7 +4975,7 @@ Cloud map file with account:
 ```
 translated (by machine 🤖) as:
 ```
-帶帳號的雲地圖文件：
+帶有帳戶的雲地圖文件：
 ```
 
 
@@ -4962,12 +5000,12 @@ You can purchase the lifetime premium upgrade for your Apple account by clicking
 ```
 translated (by machine 🤖) as:
 ```
-獨家優質功能：
+獨家高級功能：
 - 無廣告
- - 在Google Drive上同步
- - 通過Google Drive進行協作
+-Google Drive同步
+-通過Google Drive進行協作
 
-您可以點擊下方的“購買”按鈕購買Apple帳戶的終身高級版升級。
+您可以通過單擊下面的“購買”按鈕為您的Apple帳戶購買終生高級升級。
 ```
 
 
@@ -4997,7 +5035,7 @@ If you have purchased the premium upgrade with your Apple account, you can resto
 ```
 translated (by machine 🤖) as:
 ```
-如果您已使用Apple帳戶購買了高級升級，則可以通過點擊下方的“恢復”按鈕進行恢復。你想恢復嗎？
+如果您已使用Apple帳戶購買了高級升級，則可以通過點擊下面的“還原”按鈕來還原它。您要還原嗎？
 ```
 
 
@@ -5047,7 +5085,7 @@ Error: it seems your iTunes account is not able to make payments. Please verify 
 ```
 translated (by machine 🤖) as:
 ```
-錯誤：您的iTunes帳戶似乎無法付款。請驗證您的付款設置，然後重試。
+錯誤：看來您的iTunes帳戶無法付款。請驗證您的付款設置，然後重試。
 ```
 
 
@@ -5057,7 +5095,7 @@ Error: purchase failed, please try again.
 ```
 translated (by machine 🤖) as:
 ```
-錯誤：購買失敗，請再試一次。
+錯誤：購買失敗，請重試。
 ```
 
 
@@ -5067,7 +5105,7 @@ Error: could not connect to iTunes store.
 ```
 translated (by machine 🤖) as:
 ```
-錯誤：無法連接到iTunes商店。
+錯誤：無法連接到iTunes Store。
 ```
 
 
@@ -5087,7 +5125,7 @@ Has cloud changes, last sync:
 ```
 translated (by machine 🤖) as:
 ```
-雲更改，上次同步：
+有云更改，上次同步：
 ```
 
 
@@ -5107,7 +5145,7 @@ A sync error occurred: the cloud data was created with an older version of the A
 ```
 translated (by machine 🤖) as:
 ```
-發生同步錯誤：雲數據是使用舊版Android應用程序創建的。您需要在更新版本的Android應用中再次同步雲數據，然後才能在此處進行同步。
+發生同步錯誤：雲數據是使用較舊版本的Android應用創建的。您需要再次從更新版本的Android應用中再次同步雲數據，然後才能在此處同步它。
 ```
 
 
@@ -5121,11 +5159,11 @@ If the cloud account where the cloud map is located is not your own and is share
 ```
 translated (by machine 🤖) as:
 ```
-發生同步錯誤：找不到重要的雲文件。
+發生同步錯誤：找不到必需的雲文件。
 
-如果您擁有云地圖所在的雲帳戶，那麼您可能會意外刪除它，檢查您的雲垃圾文件夾，您可以恢復它！
+如果您擁有云地圖所在的雲帳戶，那麼您可能不小心刪除了該帳戶，請檢查您的雲廢紙folder文件夾，便可以將其還原！
 
-如果雲映射所在的雲帳戶不是您自己的並且與您共享，請詢問云帳戶所有者。
+如果雲地圖所在的雲帳戶不是您自己的並且與您共享，請詢問云帳戶所有者。
 ```
 
 
@@ -5135,7 +5173,7 @@ Drop some files here, or click to select files to upload.
 ```
 translated (by machine 🤖) as:
 ```
-在此處刪除一些文件，或單擊以選擇要上載的文件。
+在此處放置一些文件，或單擊以選擇要上傳的文件。
 ```
 
 
@@ -5145,7 +5183,7 @@ Uploading files…
 ```
 translated (by machine 🤖) as:
 ```
-正在上傳文件......
+上載檔案...
 ```
 
 
@@ -5155,7 +5193,7 @@ You need to open a cloud map in order to be able to add images. Open a cloud map
 ```
 translated (by machine 🤖) as:
 ```
-您需要打開雲地圖才能添加圖像。打開雲地圖，或將此地圖同步到雲端，然後重試。
+您需要打開雲地圖才能添加圖像。打開雲地圖，或將此地圖同步到雲，然後重試。
 ```
 
 
@@ -5165,7 +5203,7 @@ Some files failed to upload.
 ```
 translated (by machine 🤖) as:
 ```
-某些文件無法上傳。
+一些文件上傳失敗。
 ```
 
 
@@ -5185,7 +5223,7 @@ To continue, you need to log in with your cloud account. Click the "log in" butt
 ```
 translated (by machine 🤖) as:
 ```
-要繼續，您需要使用您的雲帳戶登錄。單擊下面的“登錄”按鈕登錄。
+要繼續，您需要使用您的雲帳戶登錄。點擊下面的“登錄”按鈕進行登錄。
 ```
 
 
@@ -5205,7 +5243,7 @@ Drop a file here, or click here to select from your computer.
 ```
 translated (by machine 🤖) as:
 ```
-在此處刪除文件，或單擊此處從您的計算機中進行選擇。
+將文件放在此處，或單擊此處從您的計算機中進行選擇。
 ```
 
 
@@ -5285,7 +5323,7 @@ This will search for duplicate markers with the exact same data and delete the d
 ```
 translated (by machine 🤖) as:
 ```
-這將搜索具有完全相同數據的重複標記並刪除重複項。清理後，只剩下每個唯一標記的一個副本。你想繼續嗎？
+這將搜索具有完全相同數據的重複標記，並刪除重複的標記。清除後，每個唯一標記僅保留一份副本。您要繼續嗎？
 ```
 
 
@@ -5295,7 +5333,7 @@ Searching and deleting duplicates…
 ```
 translated (by machine 🤖) as:
 ```
-搜索和刪除重複項......
+搜索和刪除重複項…
 ```
 
 
@@ -5305,7 +5343,7 @@ Deleted %d duplicates
 ```
 translated (by machine 🤖) as:
 ```
-刪除%d重複
+已刪除%d個重複項
 ```
 
 
@@ -5325,7 +5363,7 @@ Change source
 ```
 translated (by machine 🤖) as:
 ```
-改變來源
+變更來源
 ```
 
 
@@ -5345,7 +5383,7 @@ Places search sources
 ```
 translated (by machine 🤖) as:
 ```
-放置搜索來源
+放置搜索源
 ```
 
 
@@ -5365,7 +5403,7 @@ Select search source
 ```
 translated (by machine 🤖) as:
 ```
-選擇搜索源
+選擇搜索來源
 ```
 
 
@@ -5375,7 +5413,7 @@ Enter value for field "%s"
 ```
 translated (by machine 🤖) as:
 ```
-輸入字段“%s”的值
+輸入字段“ %s”的值
 ```
 
 
@@ -5385,7 +5423,7 @@ Algolia Places Search API (daily limit)
 ```
 translated (by machine 🤖) as:
 ```
-Algolia Places Search API（每日限額）
+Algolia Places Search API（每日上限）
 ```
 
 
@@ -5395,7 +5433,7 @@ Algolia Places Search API (personal account)
 ```
 translated (by machine 🤖) as:
 ```
-Algolia Places Search API（個人賬戶）
+Algolia Places Search API（個人帳戶）
 ```
 
 
@@ -5405,7 +5443,7 @@ The search source configuration test succeeded! The search with this search sour
 ```
 translated (by machine 🤖) as:
 ```
-搜索源配置測試成功！現在可以使用此搜索源進行搜索。
+搜索源配置測試成功！現在，使用該搜索源進行的搜索應該可以進行。
 ```
 
 
@@ -5415,7 +5453,7 @@ Warning: the search source configuration test failed. The search with this searc
 ```
 translated (by machine 🤖) as:
 ```
-警告：搜索源配置測試失敗。使用此搜索源進行搜索可能無效。
+警告：搜索源配置測試失敗。使用此搜索源進行的搜索可能不起作用。
 ```
 
 
@@ -5425,7 +5463,7 @@ Google Places Search
 ```
 translated (by machine 🤖) as:
 ```
-Google Places Search
+Google地方搜索
 ```
 
 
@@ -5435,7 +5473,7 @@ HERE
 ```
 translated (by machine 🤖) as:
 ```
-HERE
+這裡
 ```
 
 
@@ -5445,7 +5483,7 @@ Nominatim
 ```
 translated (by machine 🤖) as:
 ```
-Nominatim
+命題
 ```
 
 
@@ -5455,7 +5493,7 @@ Pelias
 ```
 translated (by machine 🤖) as:
 ```
-Pelias
+佩利亞斯
 ```
 
 
@@ -5465,7 +5503,7 @@ Algolia (public)
 ```
 translated (by machine 🤖) as:
 ```
-Algolia (public)
+阿爾及利亞（公共）
 ```
 
 
@@ -5475,7 +5513,7 @@ Algolia (private)
 ```
 translated (by machine 🤖) as:
 ```
-Algolia (private)
+阿爾及利亞（私人）
 ```
 
 
@@ -5485,7 +5523,7 @@ Tutorial
 ```
 translated (by machine 🤖) as:
 ```
-教程
+講解
 ```
 
 
@@ -5501,11 +5539,11 @@ Click the "Change source" button and then the "Tutorial" option to learn more.
 ```
 translated (by machine 🤖) as:
 ```
-默認搜索體驗不是最佳，但無需配置即可運行。
+默認搜索體驗不是最佳選擇，但無需配置即可使用。
 
-如果您經常使用搜索，強烈建議您配置第三方搜索源，以便從更好的搜索結果中受益。
+如果您經常使用搜索，強烈建議配置第三方搜索源，以從更好的搜索結果中受益。
 
-它應該只花一點時間，讓您免費獲得更好的搜索結果。
+您只需花費一點時間，即可免費獲得更好的搜索結果。
 
 單擊“更改源”按鈕，然後單擊“教程”選項以了解更多信息。
 ```
@@ -5577,7 +5615,7 @@ You can only select one file to import at a time
 ```
 translated (by machine 🤖) as:
 ```
-您can只選擇一個文件導入at a時間
+您一次只能選擇一個文件導入
 ```
 
 
@@ -5587,5 +5625,5 @@ You can only import files with the following extensions: %s
 ```
 translated (by machine 🤖) as:
 ```
-您can僅導入具有以下擴展名的文件：%s
+您只能導入具有以下擴展名的文件：%s
 ```

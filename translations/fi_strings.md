@@ -1277,13 +1277,35 @@ Kaikki markkereita ja kansiot
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Jotta saat asianmukaista pohjoiseen suuntaan kompassin, sinun täytyy kalibroida puhelimessa oikein. &lt;br&gt; Kalibroidaan puhelimesi yksinkertaisesti siirtää sen ympärillä piirtämällä 8 . Tilanne on oltava laaja ja toistuva noin 3 kertaa parempi hyötysuhde. &lt;br&gt; Voit kalibroida puhelimesi tekemällä tämän milloin tahansa. &lt;/ b&gt; &lt;br&gt; kalibrointi on rajansa ja ei ehkä riitä torjua lähellä häiriöt kuten: &lt;br&gt; • iso metalliesineitä &lt;br&gt; • elektroniikkalaitteiden &lt;br&gt; • magneetteja &lt;br&gt; • sisällä auto / bussi / juna / lentokone &lt;/ body&gt; &lt;/ html&gt;
+Laite on kalibroitava oikein, jotta kompassi saa oikean pohjoisen suunnan.
+Kalibroidaksesi laitteen, siirrä sitä vain piirtämällä 8. Liikkeen on oltava leveä ja toistettava noin 3 kertaa paremman tehokkuuden saavuttamiseksi.
+Voit kalibroida laitteen tekemällä tämän milloin tahansa.
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by machine 🤖) as:
+```
+Kalibroinnilla on rajoituksensa, eikä se välttämättä riitä torjumaan lähellä olevia häiriöitä, kuten:
+• isot metalliesineet
+• elektroniset laitteet
+• magneetit
+• auton / linja-auton / junan / lentokoneen sisäpinta
 ```
 
 
@@ -3907,13 +3929,29 @@ Lisää väri
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Mikä on premium päivittää? &lt;/ B&gt; &lt;br&gt; päälle poistamalla mainoksia, palkkio päivitys avaa seuraavat yksinomainen erikoisominaisuuksia: &lt;br&gt; • Sync Google Drive tai Dropbox &lt;br&gt; • Tee yhteistyötä kautta Google Drive tai Dropbox &lt;br&gt; • Map versioiden historiaa ja palauttaa &lt;br&gt; &lt;/ body&gt; &lt;/ html&gt;
+Mikä on premium-päivitys?
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by machine 🤖) as:
+```
+Mainosten poistamisen lisäksi premium-päivitys avaa seuraavat yksinomaiset premium-ominaisuudet:
+• Synkronoi Google Drive tai Dropbox
+• Tee yhteistyötä Google Drive: n tai Dropbox: n kautta
+• Karttaversioiden historia ja palautus
 ```
 
 
@@ -4059,7 +4097,7 @@ Standard Google Earth -muodossa. Ei voi sisältää median.
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by machine 🤖) as:
 ```

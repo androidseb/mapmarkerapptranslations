@@ -1277,13 +1277,35 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;HTML&gt; &lt;शरीर&gt; &lt;b&gt; कम्पास के लिए उचित उत्तर दिशा प्राप्त करने के लिए, आप ठीक से आप फोन जांचना की जरूरत है।, अपने फोन को जांचना करने के लिए व्यापार के लिए बस एक 8 ड्राइंग द्वारा चारों ओर कदम । इस कदम से विस्तृत और बेहतर दक्षता के बारे में 3 बार दोहराया जाना चाहिए। आप किसी भी समय ऐसा करने से आप फोन जांच कर सकते हैं &lt;br&gt;। &lt;/ b&gt; व्यापार लिस्टिंग अंशांकन अपनी सीमाएं हैं और पर्याप्त नहीं हो सकता हिन्दी • बड़ा धातु की वस्तुओं &lt;br&gt; एक कार / बस / ट्रेन / हवाई जहाज के अंदर • • मैग्नेट शब्दकोश हिन्दी • इलेक्ट्रॉनिक उपकरणों के शरीर &lt;/&gt; &lt;/ HTML&gt;: इस तरह के रूप में पास के हस्तक्षेप का मुकाबला करने के लिए
+कम्पास के लिए उचित उत्तर दिशा प्राप्त करने के लिए, आपको डिवाइस को ठीक से जांचने की आवश्यकता है।
+अपने डिवाइस को कैलिब्रेट करने के लिए, बस 8 को खींचकर इसे चारों ओर ले जाएं। बेहतर दक्षता के लिए चाल को चौड़ा और लगभग 3 बार दोहराया जाना चाहिए।
+आप किसी भी समय ऐसा करके आप डिवाइस को कैलिब्रेट कर सकते हैं।
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by machine 🤖) as:
+```
+अंशांकन की अपनी सीमाएं हैं और पास के हस्तक्षेपों का मुकाबला करने के लिए पर्याप्त नहीं हो सकता है जैसे:
+• बड़ी धातु की वस्तुएं
+• इलेक्ट्रॉनिक उपकरणों
+• मैग्नेट
+• कार / बस / ट्रेन / विमान के अंदर
 ```
 
 
@@ -3907,13 +3929,29 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; क्या प्रीमियम उन्नयन है &lt;/ b&gt; &lt;br&gt; हटाने विज्ञापन के शीर्ष पर, प्रीमियम उन्नयन के उपरांत विशेष प्रीमियम सुविधाओं बातें बताता है? &lt;br&gt; • सिंक पर Google Drive या Dropbox &lt;br&gt; • सहयोग करें माध्यम Google Drive या Dropbox &lt;br&gt; • नक्शा संस्करणों इतिहास और बहाल &lt;br&gt; &lt;/ body&gt; &lt;/ html&gt;
+प्रीमियम अपग्रेड क्या है?
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by machine 🤖) as:
+```
+विज्ञापनों को हटाने के शीर्ष पर, प्रीमियम अपग्रेड निम्न विशिष्ट प्रीमियम सुविधाओं को अनलॉक करता है:
+• Google Drive या Dropbox पर सिंक करें
+• Google Drive या Dropbox के माध्यम से सहयोग करें
+• मानचित्र संस्करण इतिहास और पुनर्स्थापना
 ```
 
 
@@ -4059,7 +4097,7 @@ translated (by machine 🤖) as:
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by machine 🤖) as:
 ```

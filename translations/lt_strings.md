@@ -1276,13 +1276,35 @@ Visi žymekliai ir aplankai
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by human 👀) as:
 ```
-<![CDATA[<html><body><b>Tam, kad gautumėte teisingą kompaso šiaurės kryptį, jūsų įrenginys turi būti tinkamai sukalibruotas.<br>Tam, kad sukalibruotumėte savo įrenginį tiesiog pajudinkite jį aplink „piešdami“ ore 8. Tam, kad būtų efektyvesni, judesiai turi būti platūs ir pakartoti apie 3 kartus.<br>Galite sukalibruoti savo įrenginį atlikdami tą bet kuriuo metu.</b><br><br>Kalibravimas taip pat yra ribotas ir jo gali nepakakti tam, kad būtų įveikti šalia esantys trukdžiai, tokie kaip:<br>&bull; dideli metaliniai objektai<br>&bull; elektroniniai prietaisai<br>&bull; magnetai<br>&bull; automobilio/autobuso/traukinio/lėktuvo salonas</body></html>]]>
+Tam, kad gautumėte teisingą kompaso šiaurės kryptį, jūsų įrenginys turi būti tinkamai sukalibruotas.
+Tam, kad sukalibruotumėte savo įrenginį tiesiog pajudinkite jį aplink „piešdami“ ore 8. Tam, kad būtų efektyvesni, judesiai turi būti platūs ir pakartoti apie 3 kartus.
+Galite sukalibruoti savo įrenginį atlikdami tą bet kuriuo metu.
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by human 👀) as:
+```
+Kalibravimas taip pat yra ribotas ir jo gali nepakakti tam, kad būtų įveikti šalia esantys trukdžiai, tokie kaip:
+• dideli metaliniai objektai
+• elektroniniai prietaisai
+• magnetai
+• automobilio/autobuso/traukinio/lėktuvo salonas
 ```
 
 
@@ -3906,13 +3928,29 @@ Pridėti spalvą
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by human 👀) as:
 ```
-<![CDATA[<html><body><b>Kas yra aukštesnės klasės pagerinimas?</b><br>Aukštesnės klasės pagerinimas ne tik pašalina reklamas, tačiau ir atrakina šias aukštesnės klasės išskirtines funkcijas:<br>&bull; Sinchronizacija su „Google Drive“ arba „Dropbox“<br>&bull; Bendradarbiavimas per „Google Drive“ ar „Dropbox“<br>&bull; Žemėlapio versijų istorija ir atkūrimas<br></body></html>]]>
+Kas yra aukštesnės klasės pagerinimas?
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by human 👀) as:
+```
+Aukštesnės klasės pagerinimas ne tik pašalina reklamas, tačiau ir atrakina šias aukštesnės klasės išskirtines funkcijas:
+• Sinchronizacija su „Google Drive“ arba „Dropbox“
+• Bendradarbiavimas per „Google Drive“ ar „Dropbox“
+• Žemėlapio versijų istorija ir atkūrimas
 ```
 
 
@@ -4058,7 +4096,7 @@ translated (by human 👀) as:
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by human 👀) as:
 ```

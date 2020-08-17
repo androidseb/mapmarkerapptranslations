@@ -1277,13 +1277,35 @@ Sve oznake i mape
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; kako bi dobili odgovarajuće sjeverni smjer kompasa, morate vam kalibrirati telefon ispravno. &lt;br&gt; Za kalibraciju telefona, jednostavno ga kretati crtež 8 . potez mora biti široka i ponavlja oko 3 puta za bolju učinkovitost. &lt;br&gt; možete kalibrirati telefon to u bilo kojem trenutku. &lt;/ b&gt; &lt;br&gt; kalibracije ima svoja ograničenja i ne može biti dovoljno kako bi se suprotstavilo blizini smetnje, kao što su: pregled • veliki metalni predmeti pregled • elektronički uređaji Hrvatska • magneti pregled • unutrašnje auto / bus / vlak / avion &lt;/ body&gt; &lt;/ html&gt;
+Da biste za kompas dobili odgovarajući sjeverni smjer, uređaj trebate pravilno kalibrirati.
+Da biste kalibrirali svoj uređaj, jednostavno ga pomaknite crtanjem 8. Potez mora biti širok i ponoviti oko 3 puta za bolju učinkovitost.
+Svoj uređaj možete kalibrirati tako da to učinite u bilo kojem trenutku.
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by machine 🤖) as:
+```
+Umjeravanje ima svoja ograničenja i možda nije dovoljno za suzbijanje smetnji u blizini, kao što su:
+• veliki metalni predmeti
+• elektronički uređaji
+• magneti
+• unutrašnjost automobila / autobusa / vlaka / aviona
 ```
 
 
@@ -3907,13 +3929,29 @@ Dodaj u boji
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-! &lt;[CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Što je premium nadogradnju &lt;/ b&gt; pregled na vrhu uklanjanje oglasa, premija nadogradnja otključava sljedeće ekskluzivne premija značajke: pregled • Sinkronizacija na Google Drive ili Dropbox pregled • Suradnja putem Google Drive ili Dropbox pregled • povijest Karta verzije i vraćanje pregled &lt;/ body&gt; &lt;/ html&gt;
+Što je premijska nadogradnja?
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by machine 🤖) as:
+```
+Osim uklanjanja oglasa, premijska nadogradnja otključava sljedeće ekskluzivne premium značajke:
+• Sinkroniziraj na Google Drive ili Dropbox
+• Suradnja putem Google Drive ili Dropbox
+• Povijest i vraćanje karata verzija karata
 ```
 
 
@@ -4059,7 +4097,7 @@ Standardna Google Earth formatu. Ne može sadržavati medije.
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by machine 🤖) as:
 ```

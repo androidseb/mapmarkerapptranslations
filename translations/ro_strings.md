@@ -1277,13 +1277,35 @@ Toate markeri și foldere
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Pentru a direcției de nord adecvat pentru busola, aveți nevoie pentru a vă calibra telefon corect. &lt;br&gt; Pentru a calibra telefonul, pur și simplu deplasa prin tragere la un 8 . Măsura trebuie să fie larg și repetat de aproximativ 3 ori mai bună eficiență. &lt;br&gt; Puteți să vă calibra telefon de a face acest lucru în orice moment. &lt;/ b&gt; Site-ul de calibrare are limitările sale și ar putea să nu fie suficient de pentru a contracara interferențe din apropiere, cum ar fi: &lt;br&gt; • obiecte metalice mari &lt;br&gt; • dispozitive electronice &lt;br&gt; • magneții &lt;br&gt; • interiorul unei mașini / autobuz / tren / avion &lt;/ body&gt; &lt;/ html&gt;
+Pentru a obține direcția nord adecvată pentru busolă, trebuie să vă calibrați dispozitivul corect.
+Pentru a calibra dispozitivul, pur și simplu mutați-l prin desenarea unui 8. Mișcarea trebuie să fie largă și repetată de aproximativ 3 ori pentru o eficiență mai bună.
+Puteți calibra dispozitivul dvs. făcând acest lucru oricând.
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by machine 🤖) as:
+```
+Etalonarea are limitele sale și s-ar putea să nu fie suficientă pentru a contracara interferențele din apropiere, cum ar fi:
+• obiecte metalice mari
+• dispozitive electronice
+• magneți
+• interiorul unei mașini / autobuze / trenuri / avion
 ```
 
 
@@ -3907,13 +3929,29 @@ adauga culoare
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Ce este să faceți upgrade prima &lt;/ b&gt; &lt;br&gt; Pe deasupra anunțurilor prin eliminarea, actualizarea premium deschide următoarele caracteristici premium exclusive:? &lt;br&gt; • Sincronizare pe Google Drive sau Dropbox &lt;br&gt; • Colaboreaza prin Google Drive sau Dropbox &lt;br&gt; • Istoricul versiunilor Harta si restaurare &lt;br&gt; &lt;/ body&gt; &lt;/ html&gt;
+Care este actualizarea premium?
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by machine 🤖) as:
+```
+Pe lângă eliminarea anunțurilor, actualizarea premium deblochează următoarele funcții premium exclusive:
+• Sincronizare pe Google Drive sau Dropbox
+• Colaborează prin Google Drive sau Dropbox
+• Istoricul și restaurarea versiunilor de hartă
 ```
 
 
@@ -4059,7 +4097,7 @@ Standard Google Earth format. Nu pot conține mass-media.
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by machine 🤖) as:
 ```

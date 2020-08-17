@@ -1277,13 +1277,35 @@ Wszystkie znaczniki i foldery
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by human 👀) as:
 ```
-<![CDATA[<html><body><b>Aby uzyskać właściwy kierunek północny kompasu, musisz poprawnie skalibrować urządzenie. <br> Aby skalibrować urządzenie,  przesuń je dookoła, rysując 8, ruch musi być szeroki i powtarzany około 3 razy dla lepszej wydajności. <br> Możesz skalibrować swoje urządzenie, robiąc to w dowolnym momencie.</b> <br> <br> Kalibracja ma swoje ograniczenia i może nie wystarczyć aby przeciwdziałać pobliskim zakłóceniom, takim jak: <br> &bull; duże metalowe obiekty <br> &bull; urządzenia elektroniczne <br> &bull; magnesy <br> &bull; wnętrze samochodu / autobusu / pociągu / samolotu </body></html>]]>
+Aby uzyskać właściwy kierunek północny kompasu, musisz poprawnie skalibrować urządzenie.
+Aby skalibrować urządzenie,  przesuń je dookoła, rysując 8, ruch musi być szeroki i powtarzany około 3 razy dla lepszej wydajności.
+Możesz skalibrować swoje urządzenie, robiąc to w dowolnym momencie.
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by human 👀) as:
+```
+Kalibracja ma swoje ograniczenia i może nie wystarczyć aby przeciwdziałać pobliskim zakłóceniom, takim jak:
+• duże metalowe obiekty
+• urządzenia elektroniczne
+• magnesy
+• wnętrze samochodu / autobusu / pociągu / samolotu
 ```
 
 
@@ -3907,13 +3929,29 @@ Dodaj kolor
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by human 👀) as:
 ```
-<![CDATA[<html><body><b>Co to jest uaktualnienie premia?</b><br>Największa Oprócz usuwania reklam, uaktualnienie Premium odblokowuje następujące wyjątkowe funkcje premium:<br>&bull; Synchronizacja na Google Drive lub Dropbox Łódź<br>&bull; Współpraca poprzez Google Drive lub Dropbox Łódź <br>&bull; Historia wersje Mapa i przywracania Największa </body> </html>]]>
+Co to jest uaktualnienie premia?
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by human 👀) as:
+```
+Największa Oprócz usuwania reklam, uaktualnienie Premium odblokowuje następujące wyjątkowe funkcje premium:
+• Synchronizacja na Google Drive lub Dropbox Łódź
+• Współpraca poprzez Google Drive lub Dropbox Łódź
+• Historia wersje Mapa i przywracania Największa
 ```
 
 
@@ -4059,7 +4097,7 @@ Standardowy format Google Earth. Nie może zawierać mediów.
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by human 👀) as:
 ```

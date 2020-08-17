@@ -1277,13 +1277,35 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;HTML&gt; &lt;тялото&gt; &lt;б&gt; За да получите най-доброто на север посока за компаса, трябва да калибрирате телефон правилно. &lt;br&gt; Да калибрирате вашия телефон, просто го движите чрез теглене на 8 . Този ход трябва да бъде широк и многократно около 3 пъти по-добра ефективност. &lt;br&gt; Можете да калибрирате телефона, като направите това по всяко време. &lt;/ B&gt; &lt;br&gt; &lt;br&gt; Калибрирането има своите ограничения и да не е достатъчно за противодействие на околните смущения, като например: &lt;br&gt; • големи метални предмети &lt;br&gt; • електронни устройства &lt;br&gt; • магнити &lt;br&gt; • вътрешността на кола / автобус / влак / самолет &lt;/ тялото&gt; &lt;/ HTML&gt;
+За да получите правилната северна посока за компаса, трябва да калибрирате устройството си правилно.
+За да калибрирате устройството си, просто го преместете, като нарисувате 8. Движението трябва да е широко и повторено около 3 пъти за по-добра ефективност.
+Можете да калибрирате устройството си, като направите това по всяко време.
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by machine 🤖) as:
+```
+Калибрирането има своите ограничения и може да не е достатъчно, за да се противопостави на близките смущения като:
+• големи метални предмети
+• електронни устройства
+• магнити
+• вътрешността на автомобил / автобус / влак / самолет
 ```
 
 
@@ -3907,13 +3929,29 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;HTML&gt; &lt;тяло&gt; &lt;б&gt; Какво е премията ъпгрейд &lt;/ б&gt; &lt;br&gt; На върха на премахването на рекламите, ъпгрейд премия отключва следните изключителни характеристики премия:? &lt;br&gt; • Sync на Google Drive или Dropbox &lt;br&gt; • Сътрудничество чрез Google Drive или Dropbox &lt;br&gt; • Карта версии на историята и възстановяване &lt;br&gt; &lt;/ тяло&gt; &lt;/ HTML&gt;
+Какво представлява надстройката на премиите?
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by machine 🤖) as:
+```
+Освен премахването на рекламите, премиум ъпгрейдът отключва следните ексклузивни премиум функции:
+• Синхронизирайте при Google Drive или Dropbox
+• Сътрудничество чрез Google Drive или Dropbox
+• История на картите и възстановяване на версиите им
 ```
 
 
@@ -4059,7 +4097,7 @@ Standard Google Earth формат. Не може да съдържа медии
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by machine 🤖) as:
 ```

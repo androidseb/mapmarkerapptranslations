@@ -1277,13 +1277,35 @@ Tất cả các dấu hiệu và thư mục
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Để có được sự hướng bắc thích hợp cho la bàn, bạn cần phải hiệu chỉnh điện thoại của bạn đúng cách. &lt;br&gt; Để hiệu chỉnh điện thoại của bạn, chỉ cần di chuyển nó xung quanh bằng cách vẽ một 8 . Động thái này phải rộng và lặp lại khoảng 3 lần cho hiệu quả tốt hơn. &lt;br&gt; Bạn có thể hiệu chỉnh điện thoại của bạn bằng cách làm này bất cứ lúc nào. &lt;/ b&gt; &lt;br&gt; Các hiệu chuẩn có những hạn chế của nó và có thể không đủ để chống nhiễu lân cận như: • &lt;br&gt; vật bằng kim loại lớn &lt;br&gt; • thiết bị điện tử &lt;br&gt; • châm &lt;br&gt; • bên trong một chiếc xe hơi / bus / tàu / máy bay &lt;/ body&gt; &lt;/ html&gt;
+Để có được hướng bắc thích hợp cho la bàn, bạn cần phải hiệu chỉnh thiết bị của mình đúng cách.
+Để hiệu chỉnh thiết bị của bạn, chỉ cần di chuyển nó xung quanh bằng cách vẽ hình 8. Việc di chuyển phải rộng và lặp lại khoảng 3 lần để đạt hiệu quả tốt hơn.
+Bạn có thể hiệu chỉnh thiết bị của mình bằng cách thực hiện việc này bất kỳ lúc nào.
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by machine 🤖) as:
+```
+Việc hiệu chuẩn có những hạn chế của nó và có thể không đủ để chống lại các nhiễu gần đó như:
+• vật kim loại lớn
+• các thiết bị điện tử
+• nam châm
+• bên trong ô tô / xe buýt / tàu hỏa / máy bay
 ```
 
 
@@ -3907,13 +3929,29 @@ Thêm màu sắc
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; là gì nâng cấp bảo hiểm &lt;/ b&gt; &lt;br&gt; Ngày đầu của quảng cáo loại bỏ, các nâng cấp bảo hiểm mở ra các tính năng cao cấp độc quyền sau đây:? &lt;br&gt; • Sync trên Google Drive hoặc Dropbox &lt;br&gt; • Phối hợp thông qua Google Drive hoặc Dropbox &lt;br&gt; • phiên bản đồ lịch sử và phục hồi &lt;br&gt; &lt;/ body&gt; &lt;/ html&gt;
+Nâng cấp cao cấp là gì?
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by machine 🤖) as:
+```
+Ngoài việc xóa quảng cáo, bản nâng cấp cao cấp mở khóa các tính năng cao cấp độc quyền sau:
+• Đồng bộ hóa trên Google Drive hoặc Dropbox
+• Cộng tác qua Google Drive hoặc Dropbox
+• Lịch sử và khôi phục các phiên bản bản đồ
 ```
 
 
@@ -4059,7 +4097,7 @@ Chuẩn Google Earth định dạng. Không thể có phương tiện truyền t
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by machine 🤖) as:
 ```

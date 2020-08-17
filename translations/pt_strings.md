@@ -1277,13 +1277,35 @@ Todos os marcadores e pastas
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; A fim de obter a direção norte adequado para a bússola, você precisa calibrar seu telefone corretamente. &lt;br&gt; Para calibrar seu telefone, basta movê-lo pelo desenho de um 8 . O movimento deve ser grande e repetiu cerca de 3 vezes para melhor eficiência. Como você pode calibrar o seu telefone ao fazer isso a qualquer momento. &lt;/ b&gt; &lt;br&gt; A calibração tem suas limitações e pode não ser suficiente para combater interferências nas proximidades, tais como: • &lt;br&gt; grandes objetos metálicos &lt;br&gt; • dispositivos eletrônicos &lt;br&gt; • ímãs &lt;br&gt; • o interior de um carro / ônibus / trem / avião &lt;/ body&gt; &lt;/ html&gt;
+A fim de obter a direção norte adequada para a bússola, você precisa calibrar seu dispositivo adequadamente.
+Para calibrar seu dispositivo, simplesmente mova-o desenhando um 8. O movimento deve ser amplo e repetido cerca de 3 vezes para melhor eficiência.
+Você pode calibrar o seu dispositivo fazendo isso a qualquer momento.
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by machine 🤖) as:
+```
+A calibração tem suas limitações e pode não ser suficiente para conter interferências próximas, como:
+• grandes objetos de metal
+• dispositivos eletrônicos
+• ímãs
+• dentro de um carro / ônibus / trem / avião
 ```
 
 
@@ -3907,13 +3929,29 @@ adicionar cor
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; O que é atualizar o prémio &lt;/ b&gt; &lt;br&gt; No topo de remoção de anúncios, a atualização prémio desbloqueia os seguintes recursos exclusivos de grande valor: &lt;br&gt; • Sync em Google Drive ou Dropbox &lt;br&gt; • Colaboração via Google Drive ou Dropbox &lt;br&gt; • história versões Mapa e restaurar &lt;br&gt; &lt;/ body&gt; &lt;/ html&gt;
+Qual é o upgrade premium?
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by machine 🤖) as:
+```
+Além de remover anúncios, a atualização premium desbloqueia os seguintes recursos premium exclusivos:
+• Sincronizar em Google Drive ou Dropbox
+• Colabore via Google Drive ou Dropbox
+• Histórico de versões do mapa e restauração
 ```
 
 
@@ -4059,7 +4097,7 @@ Padrão Google Earth formato. não pode conter mídia.
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by machine 🤖) as:
 ```

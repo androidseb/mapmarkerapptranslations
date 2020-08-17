@@ -1277,13 +1277,35 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;HTML&gt; &lt;BODY&gt; &lt;b&gt;를 나침반에 적절한 북쪽으로 방향을 얻기 위하여, 당신은 제대로 당신에게 전화를 교정 할 필요가있다. 휴대 전화를 교정하려면 &lt;BR&gt; 단순히 팔을 그려 주위를 이동 . 움직임은 폭이 더 나은 효율을 약 3 번 반복해야합니다. 당신은 어떤 시간에 이렇게 당신에게 전화를 보정 할 수 있습니다 그림입니다. &lt;/ B&gt;의 &lt;br&gt; 교정은 한계를 가지고 충분하지 않을 수도 있습니다 로 &lt;br&gt; • 큰 금속 물체로 &lt;br&gt; 자동차 / 버스 / 기차 / 비행기의 내부 • • 자석의 &lt;br&gt; • 전자 기기 &lt;/ BODY&gt; &lt;/ HTML&gt;과 같은 근처의 간섭을 반대합니다
+나침반의 올바른 북쪽 방향을 얻으려면 장치를 올바르게 보정해야합니다.
+장치를 보정하려면 8을 그려서 장치를 이동하기 만하면됩니다. 더 나은 효율성을 위해 이동은 넓고 약 3 회 반복되어야합니다.
+언제든지이 작업을 수행하여 장치를 보정 할 수 있습니다.
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by machine 🤖) as:
+```
+보정에는 한계가 있으며 다음과 같은 근처의 간섭에 대응하기에 충분하지 않을 수 있습니다.
+• 큰 금속 물체
+• 전자 기기
+• 자석
+• 자동차 / 버스 / 기차 / 비행기 내부
 ```
 
 
@@ -3907,13 +3929,29 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;HTML&gt; &lt;BODY&gt; &lt;b&gt;를 프리미엄 업그레이드 무엇 &lt;/ b&gt;을 제거하는 광고의 위에, 프리미엄 업그레이드는 다음과 같은 독점적 인 프리미엄 기능을 잠금 해제로 &lt;br&gt;?에로 &lt;br&gt; • 동기화 Google Drive 또는 Dropbox 로 &lt;br&gt; • 협력을 통한 Google Drive 또는 Dropbox 로 &lt;br&gt; •지도 버전의 역사와 복원로 &lt;br&gt; &lt;/ BODY&gt; &lt;/ HTML&gt;
+프리미엄 업그레이드 란 무엇입니까?
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by machine 🤖) as:
+```
+광고 제거 외에도 프리미엄 업그레이드는 다음과 같은 독점 프리미엄 기능을 잠금 해제합니다.
+• Google Drive 또는 Dropbox에서 동기화
+• Google Drive 또는 Dropbox을 통해 공동 작업
+•지도 버전 기록 및 복원
 ```
 
 
@@ -4059,7 +4097,7 @@ translated (by machine 🤖) as:
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by machine 🤖) as:
 ```

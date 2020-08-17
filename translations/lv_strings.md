@@ -1277,13 +1277,35 @@ Visi marķieri un mapes
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Lai iegūtu pareizu ziemeļu virzienu kompasu, jums ir nepieciešams kalibrēt jums tālruni pareizi. &lt;br&gt; Lai kalibrētu tālruni, vienkārši pārvietot to apkārt, zīmējot 8 . Pārvietot jābūt plaša un atkārtojas apmēram 3 reizes lielāku efektivitāti. &lt;br&gt; Jūs varat kalibrēt jums tālruni, darot to jebkurā laikā. &lt;/ b&gt; &lt;br&gt; kalibrēšana savi ierobežojumi un var nebūt pietiekami lai cīnītos tuvumā traucējumus, piemēram: &lt;br&gt; • lieli metāla objekti &lt;br&gt; • elektroniskās ierīces maršruts • magnēti &lt;br&gt; • iekšpusē auto / autobusu / vilcienu / plakni &lt;/ body&gt; &lt;/ html&gt;
+Lai iegūtu pareizu kompasa ziemeļu virzienu, ierīce ir jākalibrē pareizi.
+Lai kalibrētu ierīci, vienkārši pārvietojiet to, zīmējot 8. Lai labāku efektivitāti panāktu, pārvietojumam jābūt plašam un apmēram 3 reizes atkārtotam.
+To var veikt jebkurā laikā.
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by machine 🤖) as:
+```
+Kalibrēšanai ir savi ierobežojumi, un ar to var nebūt pietiekami, lai neitralizētu tuvumā esošos traucējumus, piemēram:
+• lieli metāla priekšmeti
+• elektroniskās ierīces
+• magnēti
+• automašīnas / autobusa / vilciena / lidmašīnas iekšpuse
 ```
 
 
@@ -3907,13 +3929,29 @@ Pievienot krāsu
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Kas ir premium jauninājums &lt;/ b&gt; &lt;br&gt; Virsū novēršot reklāmu, piemaksa jauninājums atslēdz šādas izņēmuma piemaksu iezīmes:? &lt;br&gt; • Sync uz Google Drive jeb Dropbox &lt;br&gt; • Sadarboties ar Google Drive vai Dropbox &lt;br&gt; • Kartes versijas vēsture un atjaunot &lt;br&gt; &lt;/ body&gt; &lt;/ html&gt;
+Kas ir premium jauninājums?
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by machine 🤖) as:
+```
+Papildus reklāmu noņemšanai premium jauninājums atslēdz šādas ekskluzīvas premium funkcijas:
+• Sinhronizēt Google Drive vai Dropbox
+• Sadarbojieties, izmantojot Google Drive vai Dropbox
+• Karšu versiju vēsture un atjaunošana
 ```
 
 
@@ -4059,7 +4097,7 @@ Standard Google Earth formātā. Nevar saturēt medijiem.
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by machine 🤖) as:
 ```

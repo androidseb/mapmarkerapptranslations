@@ -1277,13 +1277,35 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by machine 🤖) as:
 ```
-&lt;! [ЦДАТА [&lt;хтмл&gt; &lt;боди&gt; &lt;б&gt; Да би добили одговарајућу северни правац за компаса, потребно је да вам калибрисати телефона правилно &lt;бр&gt; За калибрацију телефон, једноставно помера се цртањем 8. . потез мора бити широка и поновио око 3 пута бољу ефикасност &lt;бр&gt; Можете вам калибрисати телефон тако што то уради у било ком тренутку.. &lt;/ б&gt; &lt;бр&gt; калибрација има своја ограничења и не може бити довољно да се супротставе оближње ометања као што су: &lt;бр&gt; • биг метални предмети &lt;бр&gt; • електронски уређаји &lt;бр&gt; • магнети &lt;бр&gt; • унутрашњости колима / аутобусом / возом / авионом &lt;/ боди&gt; &lt;/ хтмл&gt;
+Да бисте добили компас у правом смеру, требате правилно да га калибрирате.
+Да бисте калибрирали свој уређај, једноставно га померите цртањем 8. Потез мора бити широк и поновити око 3 пута за бољу ефикасност.
+Уређај можете калибрисати тако да то урадите у било ком тренутку.
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by machine 🤖) as:
+```
+Калибрација има своја ограничења и можда неће бити довољна да се супротстави сметњама у близини, као што су:
+• велики метални предмети
+• електронски уређаји
+• магнети
+• унутрашњост аутомобила / аутобуса / воза / авиона
 ```
 
 
@@ -3907,13 +3929,29 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by machine 🤖) as:
 ```
-! &lt;! [ЦДАТА [&lt;хтмл&gt; &lt;боди&gt; &lt;б&gt; Шта је премија упграде &lt;/ б&gt; Поврх свега уклањање огласа, премија надоградња откључава следеће ексклузивне премиум карактеристике: &lt;бр&gt; • Синц на Google Drive или Dropbox &lt;бр&gt; • Сарађивати преко Google Drive или Dropbox &lt;бр&gt; • Карта верзије историје и враћање &lt;бр&gt; &lt;/ боди&gt; &lt;/ хтмл&gt;
+Шта је премијска надоградња?
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by machine 🤖) as:
+```
+Поред уклањања огласа, премиум надоградња откључава следеће ексклузивне премиум карактеристике:
+• Синхронизујте на Google Drive или Dropbox
+• Сурађујте преко Google Drive или Dropbox
+• Историја и обнављање верзија верзија мапа
 ```
 
 
@@ -4059,7 +4097,7 @@ translated (by machine 🤖) as:
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by machine 🤖) as:
 ```

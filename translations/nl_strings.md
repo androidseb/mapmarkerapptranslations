@@ -1274,13 +1274,35 @@ Alle markers en mappen
 ```
 
 
-## Translation Key: compass_calibration_help
+## Translation Key: compass_calibration_help_part_1
 ```
-<![CDATA[<html><body><b>In order to get the proper north direction for the compass, you need to calibrate you device properly.<br>To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.<br>You can calibrate you device by doing this at any time.</b><br><br>The calibration has its limitations and might not be enough to counter nearby interferences such as :<br>&bull; big metal objects<br>&bull; electronic devices<br>&bull; magnets<br>&bull; the inside of a car/bus/train/plane</body></html>]]>
+In order to get the proper north direction for the compass, you need to calibrate you device properly.
+To calibrate your device, simply move it around by drawing a 8. The move must be wide and repeated about 3 times for better efficiency.
+You can calibrate you device by doing this at any time.
 ```
 translated (by human 👀) as:
 ```
-<![CDATA[<html><body><b>Om de richting van het noorden van het kompas correct te krijge, moet je je telefoon goed te kalibreren. <br>Om jouw telefoon te kalibreren, beweeg het rond door het tekenen van een 8. De beweging moet breed zijn en ongeveer 3 keer worden herhaald voor een betere efficiëntie. <br>Je kan je toestel op ieder moment kalibreren.</b><br>Het kalibreren heeft zijn beperkingen en is misschien ontoereikend door: <br>• metalen voorwerpen <br>• elektrische apparaten <br>• magneten <br>• in een metalen voertuig auto/bus/trein/vliegtuig</body></html>]]>
+Om de richting van het noorden van het kompas correct te krijge, moet je je telefoon goed te kalibreren.
+Om jouw telefoon te kalibreren, beweeg het rond door het tekenen van een 8. De beweging moet breed zijn en ongeveer 3 keer worden herhaald voor een betere efficiëntie.
+Je kan je toestel op ieder moment kalibreren.
+```
+
+
+## Translation Key: compass_calibration_help_part_2
+```
+The calibration has its limitations and might not be enough to counter nearby interferences such as :
+• big metal objects
+• electronic devices
+• magnets
+• the inside of a car/bus/train/plane
+```
+translated (by human 👀) as:
+```
+Het kalibreren heeft zijn beperkingen en is misschien ontoereikend door:
+• metalen voorwerpen
+• elektrische apparaten
+• magneten
+• in een metalen voertuig auto/bus/trein/vliegtuig
 ```
 
 
@@ -3904,13 +3926,26 @@ voeg kleur toe
 ```
 
 
-## Translation Key: what_is_premium_explanation_html_text_2
+## Translation Key: what_is_premium_explanation_part_1
 ```
-<![CDATA[<html><body><b>What is the premium upgrade?</b><br>On top of removing ads, the premium upgrade unlocks the following exclusive premium features:<br>&bull; Sync on Google Drive or Dropbox<br>&bull; Collaborate via Google Drive or Dropbox<br>&bull; Map versions history and restore<br></body></html>]]>
+What is the premium upgrade?
 ```
 translated (by human 👀) as:
 ```
-&lt;! [CDATA [&lt;html&gt; &lt;body&gt; &lt;b&gt; Wat is de premium upgraden &lt;/ b&gt; Bovenop de te verwijderen advertenties, ontgrendelt de premium upgrade de volgende exclusieve premium-functies: &lt;br&gt; • Synchronisatie van Google Drive of Dropbox &lt;br&gt; • Samenwerken via Google Drive of Dropbox &lt;br&gt; • Geschiedenis van kaart-versies en het herstel van &lt;br&gt; &lt;/ body&gt; &lt;/ html&gt;
+Wat is de premium upgraden ?
+```
+
+
+## Translation Key: what_is_premium_explanation_part_2
+```
+On top of removing ads, the premium upgrade unlocks the following exclusive premium features:
+• Sync on Google Drive or Dropbox
+• Collaborate via Google Drive or Dropbox
+• Map versions history and restore
+```
+translated (by human 👀) as:
+```
+Bovenop de te verwijderen advertenties, ontgrendelt de premium upgrade de volgende exclusieve premium-functies: &lt;br&gt; • Synchronisatie van Google Drive of Dropbox &lt;br&gt; • Samenwerken via Google Drive of Dropbox &lt;br&gt; • Geschiedenis van kaart-versies en het herstel van
 ```
 
 
@@ -4056,7 +4091,7 @@ Standard Google Earth-formaat. Kan geen mediabestanden bevatten.
 
 ## Translation Key: export_choice_kmz_details
 ```
-Zip Google Earth format. Can contain media.
+Google Earth zipped format. Can contain media.
 ```
 translated (by human 👀) as:
 ```
