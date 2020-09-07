@@ -1119,11 +1119,11 @@ Markörer ignorerade vid import (dubbletter): %1$d
 
 ## Translation Key: x_markers
 ```
-%1$d markers
+%1$s markers
 ```
 translated (by human 👀) as:
 ```
-%1$d markörer
+%1$s markörer
 ```
 
 

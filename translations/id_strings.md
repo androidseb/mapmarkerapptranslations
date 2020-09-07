@@ -1119,11 +1119,11 @@ Spidol diabaikan pada impor (duplikat): %1$d
 
 ## Translation Key: x_markers
 ```
-%1$d markers
+%1$s markers
 ```
 translated (by machine 🤖) as:
 ```
-%1$d penanda
+%1$s penanda
 ```
 
 

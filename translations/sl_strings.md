@@ -1118,11 +1118,11 @@ Markerji niso bili upoštevani pri uvozu (podvojeno): %1$d
 
 ## Translation Key: x_markers
 ```
-%1$d markers
+%1$s markers
 ```
 translated (by human 👀) as:
 ```
-%1$d označevalci
+%1$s označevalci
 ```
 
 

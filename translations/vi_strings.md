@@ -1119,11 +1119,11 @@ Markers bỏ qua khi nhập (bản sao): %1$d
 
 ## Translation Key: x_markers
 ```
-%1$d markers
+%1$s markers
 ```
 translated (by machine 🤖) as:
 ```
-%1$d dấu
+%1$s dấu
 ```
 
 

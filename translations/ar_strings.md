@@ -1119,11 +1119,11 @@ translated (by human 👀) as:
 
 ## Translation Key: x_markers
 ```
-%1$d markers
+%1$s markers
 ```
 translated (by human 👀) as:
 ```
-%1$d علامات
+%1$s علامات
 ```
 
 

@@ -1119,11 +1119,11 @@ Znaczniki ignorowane podczas importu (duplikaty): %1$d
 
 ## Translation Key: x_markers
 ```
-%1$d markers
+%1$s markers
 ```
 translated (by human 👀) as:
 ```
-%1$d znaczniki
+%1$s znaczniki
 ```
 
 
