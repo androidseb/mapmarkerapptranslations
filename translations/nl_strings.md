@@ -5621,3 +5621,123 @@ translated (by machine 🤖) as:
 ```
 U kunt alleen bestanden importeren met de volgende extensies: %s
 ```
+
+
+## Translation Key: confirmation_message_delete_sub_folder
+```
+This folder has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+Deze map heeft submappen. Wilt u ook de submappen verwijderen? Alle markeringen die aan de verwijderde mappen zijn gekoppeld, worden permanent verwijderd!
+```
+
+
+## Translation Key: delete_folder_choice_folder_only
+```
+Delete folder only
+```
+translated (by machine 🤖) as:
+```
+Alleen map verwijderen
+```
+
+
+## Translation Key: delete_folder_choice_folder_plus_sub_folders
+```
+Delete folder + sub-folders
+```
+translated (by machine 🤖) as:
+```
+Verwijder map + submappen
+```
+
+
+## Translation Key: confirmation_message_delete_folder_batch
+```
+Are you sure you want to delete these folders? All markers associated to these folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+Weet u zeker dat u deze mappen wilt verwijderen? Alle markeringen die aan deze mappen zijn gekoppeld, worden definitief verwijderd!
+```
+
+
+## Translation Key: confirmation_message_delete_sub_folder_batch
+```
+At least one of the folders to delete has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+Minstens een van de mappen die u wilt verwijderen, heeft submappen. Wilt u ook de submappen verwijderen? Alle markeringen die aan de verwijderde mappen zijn gekoppeld, worden permanent verwijderd!
+```
+
+
+## Translation Key: create_sub_folder
+```
+Create sub-folder
+```
+translated (by machine 🤖) as:
+```
+Maak een submap
+```
+
+
+## Translation Key: sub_folder_created
+```
+Sub-folder created
+```
+translated (by machine 🤖) as:
+```
+Submap gemaakt
+```
+
+
+## Translation Key: move_folders_to_folder
+```
+Move folders to folder
+```
+translated (by machine 🤖) as:
+```
+Verplaats mappen naar map
+```
+
+
+## Translation Key: error_cant_move_folder_to_descendant
+```
+You cannot move a folder to one of its descendants.
+```
+translated (by machine 🤖) as:
+```
+U kunt een map niet naar een van zijn nakomelingen verplaatsen.
+```
+
+
+## Translation Key: root_folder_name
+```
+Root
+```
+translated (by machine 🤖) as:
+```
+Wortel
+```
+
+
+## Translation Key: current_map_title
+```
+Map
+```
+translated (by machine 🤖) as:
+```
+Kaart
+```
+
+
+## Translation Key: action_select_folders
+```
+Select folders
+```
+translated (by machine 🤖) as:
+```
+Selecteer mappen
+```

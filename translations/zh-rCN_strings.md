@@ -5627,3 +5627,123 @@ translated (by machine 🤖) as:
 ```
 您只能导入具有以下扩展名的文件：%s
 ```
+
+
+## Translation Key: confirmation_message_delete_sub_folder
+```
+This folder has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+此文件夹包含子文件夹。您是否也要删除子文件夹？与已删除文件夹关联的所有标记将被永久删除！
+```
+
+
+## Translation Key: delete_folder_choice_folder_only
+```
+Delete folder only
+```
+translated (by machine 🤖) as:
+```
+仅删除文件夹
+```
+
+
+## Translation Key: delete_folder_choice_folder_plus_sub_folders
+```
+Delete folder + sub-folders
+```
+translated (by machine 🤖) as:
+```
+删除文件夹+子文件夹
+```
+
+
+## Translation Key: confirmation_message_delete_folder_batch
+```
+Are you sure you want to delete these folders? All markers associated to these folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+您确定要删除这些文件夹吗？与这些文件夹关联的所有标记将被永久删除！
+```
+
+
+## Translation Key: confirmation_message_delete_sub_folder_batch
+```
+At least one of the folders to delete has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+至少要删除的文件夹之一具有子文件夹。您是否也要删除子文件夹？与已删除文件夹关联的所有标记将被永久删除！
+```
+
+
+## Translation Key: create_sub_folder
+```
+Create sub-folder
+```
+translated (by machine 🤖) as:
+```
+创建子文件夹
+```
+
+
+## Translation Key: sub_folder_created
+```
+Sub-folder created
+```
+translated (by machine 🤖) as:
+```
+子文件夹已创建
+```
+
+
+## Translation Key: move_folders_to_folder
+```
+Move folders to folder
+```
+translated (by machine 🤖) as:
+```
+将文件夹移到文件夹
+```
+
+
+## Translation Key: error_cant_move_folder_to_descendant
+```
+You cannot move a folder to one of its descendants.
+```
+translated (by machine 🤖) as:
+```
+您不能将文件夹移动到其后代之一。
+```
+
+
+## Translation Key: root_folder_name
+```
+Root
+```
+translated (by machine 🤖) as:
+```
+根
+```
+
+
+## Translation Key: current_map_title
+```
+Map
+```
+translated (by machine 🤖) as:
+```
+地图
+```
+
+
+## Translation Key: action_select_folders
+```
+Select folders
+```
+translated (by machine 🤖) as:
+```
+选择文件夹
+```

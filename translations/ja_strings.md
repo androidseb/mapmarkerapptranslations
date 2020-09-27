@@ -5628,3 +5628,123 @@ translated (by machine 🤖) as:
 ```
 canは、次の拡張子を持つファイルのみをインポートします：%s
 ```
+
+
+## Translation Key: confirmation_message_delete_sub_folder
+```
+This folder has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+このフォルダにはサブフォルダがあります。サブフォルダも削除しますか？削除されたフォルダに関連付けられているすべてのマーカーが完全に削除されます！
+```
+
+
+## Translation Key: delete_folder_choice_folder_only
+```
+Delete folder only
+```
+translated (by machine 🤖) as:
+```
+フォルダのみを削除
+```
+
+
+## Translation Key: delete_folder_choice_folder_plus_sub_folders
+```
+Delete folder + sub-folders
+```
+translated (by machine 🤖) as:
+```
+フォルダとサブフォルダを削除する
+```
+
+
+## Translation Key: confirmation_message_delete_folder_batch
+```
+Are you sure you want to delete these folders? All markers associated to these folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+これらのフォルダを削除してもよろしいですか？これらのフォルダに関連付けられているすべてのマーカーが完全に削除されます！
+```
+
+
+## Translation Key: confirmation_message_delete_sub_folder_batch
+```
+At least one of the folders to delete has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+削除するフォルダの少なくとも1つにサブフォルダがあります。サブフォルダも削除しますか？削除されたフォルダに関連付けられているすべてのマーカーが完全に削除されます！
+```
+
+
+## Translation Key: create_sub_folder
+```
+Create sub-folder
+```
+translated (by machine 🤖) as:
+```
+サブフォルダーを作成
+```
+
+
+## Translation Key: sub_folder_created
+```
+Sub-folder created
+```
+translated (by machine 🤖) as:
+```
+サブフォルダを作成しました
+```
+
+
+## Translation Key: move_folders_to_folder
+```
+Move folders to folder
+```
+translated (by machine 🤖) as:
+```
+フォルダをフォルダに移動
+```
+
+
+## Translation Key: error_cant_move_folder_to_descendant
+```
+You cannot move a folder to one of its descendants.
+```
+translated (by machine 🤖) as:
+```
+フォルダをその子孫に移動することはできません。
+```
+
+
+## Translation Key: root_folder_name
+```
+Root
+```
+translated (by machine 🤖) as:
+```
+ルート
+```
+
+
+## Translation Key: current_map_title
+```
+Map
+```
+translated (by machine 🤖) as:
+```
+地図
+```
+
+
+## Translation Key: action_select_folders
+```
+Select folders
+```
+translated (by machine 🤖) as:
+```
+フォルダを選択
+```

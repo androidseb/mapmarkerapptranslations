@@ -5624,3 +5624,123 @@ translated (by machine 🤖) as:
 ```
 Sie importieren can nur Dateien mit den folgenden Erweiterungen: %s
 ```
+
+
+## Translation Key: confirmation_message_delete_sub_folder
+```
+This folder has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+Dieser Ordner hat Unterordner. Möchten Sie auch die Unterordner löschen? Alle den gelöschten Ordnern zugeordneten Markierungen werden dauerhaft gelöscht!
+```
+
+
+## Translation Key: delete_folder_choice_folder_only
+```
+Delete folder only
+```
+translated (by machine 🤖) as:
+```
+Nur Ordner löschen
+```
+
+
+## Translation Key: delete_folder_choice_folder_plus_sub_folders
+```
+Delete folder + sub-folders
+```
+translated (by machine 🤖) as:
+```
+Ordner + Unterordner löschen
+```
+
+
+## Translation Key: confirmation_message_delete_folder_batch
+```
+Are you sure you want to delete these folders? All markers associated to these folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+Möchten Sie diese Ordner wirklich löschen? Alle mit diesen Ordnern verknüpften Markierungen werden dauerhaft gelöscht!
+```
+
+
+## Translation Key: confirmation_message_delete_sub_folder_batch
+```
+At least one of the folders to delete has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+Mindestens einer der zu löschenden Ordner enthält Unterordner. Möchten Sie auch die Unterordner löschen? Alle den gelöschten Ordnern zugeordneten Markierungen werden dauerhaft gelöscht!
+```
+
+
+## Translation Key: create_sub_folder
+```
+Create sub-folder
+```
+translated (by machine 🤖) as:
+```
+Unterordner erstellen
+```
+
+
+## Translation Key: sub_folder_created
+```
+Sub-folder created
+```
+translated (by machine 🤖) as:
+```
+Unterordner erstellt
+```
+
+
+## Translation Key: move_folders_to_folder
+```
+Move folders to folder
+```
+translated (by machine 🤖) as:
+```
+Verschieben Sie Ordner in Ordner
+```
+
+
+## Translation Key: error_cant_move_folder_to_descendant
+```
+You cannot move a folder to one of its descendants.
+```
+translated (by machine 🤖) as:
+```
+Sie können einen Ordner nicht in einen seiner Nachkommen verschieben.
+```
+
+
+## Translation Key: root_folder_name
+```
+Root
+```
+translated (by machine 🤖) as:
+```
+Wurzel
+```
+
+
+## Translation Key: current_map_title
+```
+Map
+```
+translated (by machine 🤖) as:
+```
+Karte
+```
+
+
+## Translation Key: action_select_folders
+```
+Select folders
+```
+translated (by machine 🤖) as:
+```
+Ordner auswählen
+```

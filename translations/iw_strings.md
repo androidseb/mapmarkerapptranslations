@@ -5627,3 +5627,123 @@ translated (by machine 🤖) as:
 ```
 אתה יכול לייבא רק קבצים עם התוספים הבאים: %s
 ```
+
+
+## Translation Key: confirmation_message_delete_sub_folder
+```
+This folder has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+לתיקיה זו יש תיקיות משנה. האם אתה רוצה למחוק גם את תיקיות המשנה? כל הסמנים המשויכים לתיקיות שנמחקו יימחקו לצמיתות!
+```
+
+
+## Translation Key: delete_folder_choice_folder_only
+```
+Delete folder only
+```
+translated (by machine 🤖) as:
+```
+מחק תיקיה בלבד
+```
+
+
+## Translation Key: delete_folder_choice_folder_plus_sub_folders
+```
+Delete folder + sub-folders
+```
+translated (by machine 🤖) as:
+```
+מחק תיקיה + תיקיות משנה
+```
+
+
+## Translation Key: confirmation_message_delete_folder_batch
+```
+Are you sure you want to delete these folders? All markers associated to these folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+האם אתה בטוח שברצונך למחוק את התיקיות האלה? כל הסמנים המשויכים לתיקיות אלה יימחקו לצמיתות!
+```
+
+
+## Translation Key: confirmation_message_delete_sub_folder_batch
+```
+At least one of the folders to delete has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+לפחות אחת מהתיקיות למחיקה כוללת תיקיות משנה. האם אתה רוצה למחוק גם את תיקיות המשנה? כל הסמנים המשויכים לתיקיות שנמחקו יימחקו לצמיתות!
+```
+
+
+## Translation Key: create_sub_folder
+```
+Create sub-folder
+```
+translated (by machine 🤖) as:
+```
+צור תיקיית משנה
+```
+
+
+## Translation Key: sub_folder_created
+```
+Sub-folder created
+```
+translated (by machine 🤖) as:
+```
+תיקיית משנה נוצרה
+```
+
+
+## Translation Key: move_folders_to_folder
+```
+Move folders to folder
+```
+translated (by machine 🤖) as:
+```
+העבר תיקיות לתיקיה
+```
+
+
+## Translation Key: error_cant_move_folder_to_descendant
+```
+You cannot move a folder to one of its descendants.
+```
+translated (by machine 🤖) as:
+```
+אינך יכול להעביר תיקיה לאחד הצאצאים שלה.
+```
+
+
+## Translation Key: root_folder_name
+```
+Root
+```
+translated (by machine 🤖) as:
+```
+שורש
+```
+
+
+## Translation Key: current_map_title
+```
+Map
+```
+translated (by machine 🤖) as:
+```
+מַפָּה
+```
+
+
+## Translation Key: action_select_folders
+```
+Select folders
+```
+translated (by machine 🤖) as:
+```
+בחר תיקיות
+```

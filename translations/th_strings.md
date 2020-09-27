@@ -5628,3 +5628,123 @@ translated (by machine 🤖) as:
 ```
 คุณ can นำเข้าไฟล์ที่มีนามสกุลต่อไปนี้เท่านั้น: %s
 ```
+
+
+## Translation Key: confirmation_message_delete_sub_folder
+```
+This folder has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+โฟลเดอร์นี้มีโฟลเดอร์ย่อย คุณต้องการลบโฟลเดอร์ย่อยด้วยหรือไม่? เครื่องหมายทั้งหมดที่เกี่ยวข้องกับโฟลเดอร์ที่ถูกลบจะถูกลบอย่างถาวร!
+```
+
+
+## Translation Key: delete_folder_choice_folder_only
+```
+Delete folder only
+```
+translated (by machine 🤖) as:
+```
+ลบโฟลเดอร์เท่านั้น
+```
+
+
+## Translation Key: delete_folder_choice_folder_plus_sub_folders
+```
+Delete folder + sub-folders
+```
+translated (by machine 🤖) as:
+```
+ลบโฟลเดอร์ + โฟลเดอร์ย่อย
+```
+
+
+## Translation Key: confirmation_message_delete_folder_batch
+```
+Are you sure you want to delete these folders? All markers associated to these folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+แน่ใจไหมว่าต้องการลบโฟลเดอร์เหล่านี้ เครื่องหมายทั้งหมดที่เกี่ยวข้องกับโฟลเดอร์เหล่านี้จะถูกลบอย่างถาวร!
+```
+
+
+## Translation Key: confirmation_message_delete_sub_folder_batch
+```
+At least one of the folders to delete has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+โฟลเดอร์ที่จะลบอย่างน้อยหนึ่งโฟลเดอร์มีโฟลเดอร์ย่อย คุณต้องการลบโฟลเดอร์ย่อยด้วยหรือไม่? เครื่องหมายทั้งหมดที่เกี่ยวข้องกับโฟลเดอร์ที่ถูกลบจะถูกลบอย่างถาวร!
+```
+
+
+## Translation Key: create_sub_folder
+```
+Create sub-folder
+```
+translated (by machine 🤖) as:
+```
+สร้างโฟลเดอร์ย่อย
+```
+
+
+## Translation Key: sub_folder_created
+```
+Sub-folder created
+```
+translated (by machine 🤖) as:
+```
+สร้างโฟลเดอร์ย่อยแล้ว
+```
+
+
+## Translation Key: move_folders_to_folder
+```
+Move folders to folder
+```
+translated (by machine 🤖) as:
+```
+ย้ายโฟลเดอร์ไปที่โฟลเดอร์
+```
+
+
+## Translation Key: error_cant_move_folder_to_descendant
+```
+You cannot move a folder to one of its descendants.
+```
+translated (by machine 🤖) as:
+```
+คุณไม่สามารถย้ายโฟลเดอร์ไปยังโฟลเดอร์ที่สืบทอดมาได้
+```
+
+
+## Translation Key: root_folder_name
+```
+Root
+```
+translated (by machine 🤖) as:
+```
+ราก
+```
+
+
+## Translation Key: current_map_title
+```
+Map
+```
+translated (by machine 🤖) as:
+```
+แผนที่
+```
+
+
+## Translation Key: action_select_folders
+```
+Select folders
+```
+translated (by machine 🤖) as:
+```
+เลือกโฟลเดอร์
+```

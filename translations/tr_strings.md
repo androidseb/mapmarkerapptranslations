@@ -5627,3 +5627,123 @@ translated (by machine 🤖) as:
 ```
 Can yalnızca aşağıdaki uzantılara sahip dosyaları içe aktarırsınız: %s
 ```
+
+
+## Translation Key: confirmation_message_delete_sub_folder
+```
+This folder has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+Bu klasörün alt klasörleri vardır. Alt klasörleri de silmek istiyor musunuz? Silinen klasörlerle ilişkili tüm işaretçiler kalıcı olarak silinecektir!
+```
+
+
+## Translation Key: delete_folder_choice_folder_only
+```
+Delete folder only
+```
+translated (by machine 🤖) as:
+```
+Yalnızca klasörü sil
+```
+
+
+## Translation Key: delete_folder_choice_folder_plus_sub_folders
+```
+Delete folder + sub-folders
+```
+translated (by machine 🤖) as:
+```
+Klasörü + alt klasörleri sil
+```
+
+
+## Translation Key: confirmation_message_delete_folder_batch
+```
+Are you sure you want to delete these folders? All markers associated to these folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+Bu klasörleri silmek istediğinizden emin misiniz? Bu klasörlerle ilişkili tüm işaretçiler kalıcı olarak silinecek!
+```
+
+
+## Translation Key: confirmation_message_delete_sub_folder_batch
+```
+At least one of the folders to delete has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+Silinecek klasörlerden en az birinin alt klasörleri var. Alt klasörleri de silmek istiyor musunuz? Silinen klasörlerle ilişkili tüm işaretçiler kalıcı olarak silinecektir!
+```
+
+
+## Translation Key: create_sub_folder
+```
+Create sub-folder
+```
+translated (by machine 🤖) as:
+```
+Alt klasör Oluştur
+```
+
+
+## Translation Key: sub_folder_created
+```
+Sub-folder created
+```
+translated (by machine 🤖) as:
+```
+Alt klasör oluşturuldu
+```
+
+
+## Translation Key: move_folders_to_folder
+```
+Move folders to folder
+```
+translated (by machine 🤖) as:
+```
+Klasörleri klasöre taşı
+```
+
+
+## Translation Key: error_cant_move_folder_to_descendant
+```
+You cannot move a folder to one of its descendants.
+```
+translated (by machine 🤖) as:
+```
+Bir klasörü altlarından birine taşıyamazsınız.
+```
+
+
+## Translation Key: root_folder_name
+```
+Root
+```
+translated (by machine 🤖) as:
+```
+Kök
+```
+
+
+## Translation Key: current_map_title
+```
+Map
+```
+translated (by machine 🤖) as:
+```
+Harita
+```
+
+
+## Translation Key: action_select_folders
+```
+Select folders
+```
+translated (by machine 🤖) as:
+```
+Klasör seçin
+```

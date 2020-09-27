@@ -5627,3 +5627,123 @@ translated (by machine 🤖) as:
 ```
 Bạn can chỉ nhập tệp có phần mở rộng sau: %s
 ```
+
+
+## Translation Key: confirmation_message_delete_sub_folder
+```
+This folder has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+Thư mục này có các thư mục con. Bạn có muốn xóa cả các thư mục con không? Tất cả các điểm đánh dấu liên quan đến các thư mục đã xóa sẽ bị xóa vĩnh viễn!
+```
+
+
+## Translation Key: delete_folder_choice_folder_only
+```
+Delete folder only
+```
+translated (by machine 🤖) as:
+```
+Chỉ xóa thư mục
+```
+
+
+## Translation Key: delete_folder_choice_folder_plus_sub_folders
+```
+Delete folder + sub-folders
+```
+translated (by machine 🤖) as:
+```
+Xóa thư mục + thư mục con
+```
+
+
+## Translation Key: confirmation_message_delete_folder_batch
+```
+Are you sure you want to delete these folders? All markers associated to these folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+Bạn có chắc chắn muốn xóa các thư mục này không? Tất cả các điểm đánh dấu liên quan đến các thư mục này sẽ bị xóa vĩnh viễn!
+```
+
+
+## Translation Key: confirmation_message_delete_sub_folder_batch
+```
+At least one of the folders to delete has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+Ít nhất một trong các thư mục cần xóa có các thư mục con. Bạn có muốn xóa cả các thư mục con không? Tất cả các điểm đánh dấu liên quan đến các thư mục đã xóa sẽ bị xóa vĩnh viễn!
+```
+
+
+## Translation Key: create_sub_folder
+```
+Create sub-folder
+```
+translated (by machine 🤖) as:
+```
+Tạo thư mục con
+```
+
+
+## Translation Key: sub_folder_created
+```
+Sub-folder created
+```
+translated (by machine 🤖) as:
+```
+Đã tạo thư mục con
+```
+
+
+## Translation Key: move_folders_to_folder
+```
+Move folders to folder
+```
+translated (by machine 🤖) as:
+```
+Di chuyển các thư mục vào thư mục
+```
+
+
+## Translation Key: error_cant_move_folder_to_descendant
+```
+You cannot move a folder to one of its descendants.
+```
+translated (by machine 🤖) as:
+```
+Bạn không thể di chuyển một thư mục đến một trong các thư mục con của nó.
+```
+
+
+## Translation Key: root_folder_name
+```
+Root
+```
+translated (by machine 🤖) as:
+```
+Nguồn gốc
+```
+
+
+## Translation Key: current_map_title
+```
+Map
+```
+translated (by machine 🤖) as:
+```
+Bản đồ
+```
+
+
+## Translation Key: action_select_folders
+```
+Select folders
+```
+translated (by machine 🤖) as:
+```
+Chọn thư mục
+```

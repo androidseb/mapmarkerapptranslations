@@ -5627,3 +5627,123 @@ translated (by machine 🤖) as:
 ```
 يمكنك can فقط استيراد الملفات ذات الملحقات التالية: %s
 ```
+
+
+## Translation Key: confirmation_message_delete_sub_folder
+```
+This folder has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+يحتوي هذا المجلد على مجلدات فرعية. هل تريد حذف المجلدات الفرعية أيضًا؟ سيتم حذف جميع العلامات المرتبطة بالمجلدات المحذوفة نهائيًا!
+```
+
+
+## Translation Key: delete_folder_choice_folder_only
+```
+Delete folder only
+```
+translated (by machine 🤖) as:
+```
+احذف المجلد فقط
+```
+
+
+## Translation Key: delete_folder_choice_folder_plus_sub_folders
+```
+Delete folder + sub-folders
+```
+translated (by machine 🤖) as:
+```
+حذف المجلد + المجلدات الفرعية
+```
+
+
+## Translation Key: confirmation_message_delete_folder_batch
+```
+Are you sure you want to delete these folders? All markers associated to these folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+هل أنت متأكد أنك تريد حذف هذه المجلدات؟ سيتم حذف جميع العلامات المرتبطة بهذه المجلدات نهائيًا!
+```
+
+
+## Translation Key: confirmation_message_delete_sub_folder_batch
+```
+At least one of the folders to delete has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+يحتوي مجلد واحد على الأقل من المجلدات المراد حذفها على مجلدات فرعية. هل تريد حذف المجلدات الفرعية أيضًا؟ سيتم حذف جميع العلامات المرتبطة بالمجلدات المحذوفة نهائيًا!
+```
+
+
+## Translation Key: create_sub_folder
+```
+Create sub-folder
+```
+translated (by machine 🤖) as:
+```
+إنشاء فرعي
+```
+
+
+## Translation Key: sub_folder_created
+```
+Sub-folder created
+```
+translated (by machine 🤖) as:
+```
+تم إنشاء مجلد فرعي
+```
+
+
+## Translation Key: move_folders_to_folder
+```
+Move folders to folder
+```
+translated (by machine 🤖) as:
+```
+انقل المجلدات إلى المجلد
+```
+
+
+## Translation Key: error_cant_move_folder_to_descendant
+```
+You cannot move a folder to one of its descendants.
+```
+translated (by machine 🤖) as:
+```
+لا يمكنك نقل مجلد إلى أحد فروعه.
+```
+
+
+## Translation Key: root_folder_name
+```
+Root
+```
+translated (by machine 🤖) as:
+```
+جذر
+```
+
+
+## Translation Key: current_map_title
+```
+Map
+```
+translated (by machine 🤖) as:
+```
+خريطة
+```
+
+
+## Translation Key: action_select_folders
+```
+Select folders
+```
+translated (by machine 🤖) as:
+```
+حدد المجلدات
+```

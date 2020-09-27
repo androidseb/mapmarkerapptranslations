@@ -5627,3 +5627,123 @@ translated (by machine 🤖) as:
 ```
 आप can केवल निम्न एक्सटेंशन वाली फाइलें आयात करते हैं: %s
 ```
+
+
+## Translation Key: confirmation_message_delete_sub_folder
+```
+This folder has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+इस फ़ोल्डर में उप-फ़ोल्डर हैं। क्या आप उप-फ़ोल्डर्स को भी हटाना चाहते हैं? हटाए गए फ़ोल्डरों से संबंधित सभी मार्कर स्थायी रूप से हटा दिए जाएंगे!
+```
+
+
+## Translation Key: delete_folder_choice_folder_only
+```
+Delete folder only
+```
+translated (by machine 🤖) as:
+```
+केवल फ़ोल्डर हटाएं
+```
+
+
+## Translation Key: delete_folder_choice_folder_plus_sub_folders
+```
+Delete folder + sub-folders
+```
+translated (by machine 🤖) as:
+```
+फ़ोल्डर + उप-फ़ोल्डर हटाएँ
+```
+
+
+## Translation Key: confirmation_message_delete_folder_batch
+```
+Are you sure you want to delete these folders? All markers associated to these folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+क्या आप वाकई इन फ़ोल्डरों को हटाना चाहते हैं? इन फ़ोल्डरों से संबंधित सभी मार्कर स्थायी रूप से हटा दिए जाएंगे!
+```
+
+
+## Translation Key: confirmation_message_delete_sub_folder_batch
+```
+At least one of the folders to delete has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
+```
+translated (by machine 🤖) as:
+```
+कम से कम एक फ़ोल्डर को हटाने के लिए उप-फ़ोल्डर्स हैं। क्या आप उप-फ़ोल्डर्स को भी हटाना चाहते हैं? हटाए गए फ़ोल्डरों से संबंधित सभी मार्कर स्थायी रूप से हटा दिए जाएंगे!
+```
+
+
+## Translation Key: create_sub_folder
+```
+Create sub-folder
+```
+translated (by machine 🤖) as:
+```
+उप-फ़ोल्डर बनाएँ
+```
+
+
+## Translation Key: sub_folder_created
+```
+Sub-folder created
+```
+translated (by machine 🤖) as:
+```
+उप-फ़ोल्डर बनाया गया
+```
+
+
+## Translation Key: move_folders_to_folder
+```
+Move folders to folder
+```
+translated (by machine 🤖) as:
+```
+फोल्डर को फोल्डर में ले जाएं
+```
+
+
+## Translation Key: error_cant_move_folder_to_descendant
+```
+You cannot move a folder to one of its descendants.
+```
+translated (by machine 🤖) as:
+```
+आप इसके किसी वंशज को फ़ोल्डर नहीं ले जा सकते।
+```
+
+
+## Translation Key: root_folder_name
+```
+Root
+```
+translated (by machine 🤖) as:
+```
+जड़
+```
+
+
+## Translation Key: current_map_title
+```
+Map
+```
+translated (by machine 🤖) as:
+```
+नक्शा
+```
+
+
+## Translation Key: action_select_folders
+```
+Select folders
+```
+translated (by machine 🤖) as:
+```
+फ़ोल्डर्स का चयन करें
+```
