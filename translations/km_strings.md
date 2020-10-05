@@ -5625,7 +5625,7 @@ You can only import files with the following extensions: %s
 ```
 translated (by machine 🤖) as:
 ```
-អ្នក can នាំចូលតែឯកសារដែលមានផ្នែកបន្ថែមដូចខាងក្រោមៈ _៧
+អ្នកអាចនាំចូលឯកសារបានតែជាមួយផ្នែកបន្ថែមដូចខាងក្រោមៈ%s
 ```
 
 
