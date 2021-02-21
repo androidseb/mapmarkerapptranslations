@@ -5747,3 +5747,71 @@ translated (by machine 🤖) as:
 ```
 फ़ोल्डर्स का चयन करें
 ```
+
+
+## Translation Key: enter_aws_bucket_name
+```
+Enter your bucket name
+```
+translated (by machine 🤖) as:
+```
+अपना बकेट नाम दर्ज करें
+```
+
+
+## Translation Key: enter_aws_acess_key_id
+```
+Enter your access key ID
+```
+translated (by machine 🤖) as:
+```
+अपनी पहुंच कुंजी आईडी दर्ज करें
+```
+
+
+## Translation Key: enter_aws_secret_access_key
+```
+Enter your secret access key
+```
+translated (by machine 🤖) as:
+```
+अपनी गुप्त पहुंच कुंजी दर्ज करें
+```
+
+
+## Translation Key: always_display_default_folder
+```
+Always display the default folder
+```
+translated (by machine 🤖) as:
+```
+हमेशा डिफ़ॉल्ट फ़ोल्डर प्रदर्शित करें
+```
+
+
+## Translation Key: error_cannot_alter_read_only_map
+```
+You cannot make changes on this map file because it is in read-only mode.
+```
+translated (by machine 🤖) as:
+```
+आप इस मैप फ़ाइल में परिवर्तन नहीं कर सकते क्योंकि यह केवल पढ़ने के लिए है।
+```
+
+
+## Translation Key: no_search_source_configured_text
+```
+No search source is configured at the moment. In order to be able to search, you need to configure a third party search source.
+
+It should only take a little bit of your time and will allow you to access search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+फिलहाल कोई खोज स्रोत कॉन्फ़िगर नहीं किया गया है। खोज करने में सक्षम होने के लिए, आपको तीसरे पक्ष के खोज स्रोत को कॉन्फ़िगर करने की आवश्यकता है।
+
+यह केवल आपका थोड़ा सा समय लेना चाहिए और आपको मुफ्त में खोज परिणामों का उपयोग करने की अनुमति देगा।
+
+"स्रोत बदलें" बटन पर क्लिक करें और फिर अधिक जानने के लिए "ट्यूटोरियल" विकल्प।
+```

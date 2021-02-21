@@ -5747,3 +5747,71 @@ translated (by machine 🤖) as:
 ```
 選擇文件夾
 ```
+
+
+## Translation Key: enter_aws_bucket_name
+```
+Enter your bucket name
+```
+translated (by machine 🤖) as:
+```
+輸入您的存儲桶名稱
+```
+
+
+## Translation Key: enter_aws_acess_key_id
+```
+Enter your access key ID
+```
+translated (by machine 🤖) as:
+```
+輸入您的訪問密鑰ID
+```
+
+
+## Translation Key: enter_aws_secret_access_key
+```
+Enter your secret access key
+```
+translated (by machine 🤖) as:
+```
+輸入您的秘密訪問密鑰
+```
+
+
+## Translation Key: always_display_default_folder
+```
+Always display the default folder
+```
+translated (by machine 🤖) as:
+```
+始終顯示默認文件夾
+```
+
+
+## Translation Key: error_cannot_alter_read_only_map
+```
+You cannot make changes on this map file because it is in read-only mode.
+```
+translated (by machine 🤖) as:
+```
+您無法在此地圖文件上進行更改，因為它處於只讀模式。
+```
+
+
+## Translation Key: no_search_source_configured_text
+```
+No search source is configured at the moment. In order to be able to search, you need to configure a third party search source.
+
+It should only take a little bit of your time and will allow you to access search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+目前未配置搜索源。為了能夠進行搜索，您需要配置第三方搜索源。
+
+您只需花費一點時間，即可免費訪問搜索結果。
+
+單擊“更改源”按鈕，然後單擊“教程”選項以了解更多信息。
+```

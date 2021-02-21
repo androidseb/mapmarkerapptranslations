@@ -5747,3 +5747,71 @@ translated (by machine 🤖) as:
 ```
 Selecione as pastas
 ```
+
+
+## Translation Key: enter_aws_bucket_name
+```
+Enter your bucket name
+```
+translated (by machine 🤖) as:
+```
+Insira o nome do seu intervalo
+```
+
+
+## Translation Key: enter_aws_acess_key_id
+```
+Enter your access key ID
+```
+translated (by machine 🤖) as:
+```
+Digite seu ID de chave de acesso
+```
+
+
+## Translation Key: enter_aws_secret_access_key
+```
+Enter your secret access key
+```
+translated (by machine 🤖) as:
+```
+Digite sua chave de acesso secreta
+```
+
+
+## Translation Key: always_display_default_folder
+```
+Always display the default folder
+```
+translated (by machine 🤖) as:
+```
+Sempre exibe a pasta padrão
+```
+
+
+## Translation Key: error_cannot_alter_read_only_map
+```
+You cannot make changes on this map file because it is in read-only mode.
+```
+translated (by machine 🤖) as:
+```
+Você não pode fazer alterações neste arquivo de mapa porque ele está no modo somente leitura.
+```
+
+
+## Translation Key: no_search_source_configured_text
+```
+No search source is configured at the moment. In order to be able to search, you need to configure a third party search source.
+
+It should only take a little bit of your time and will allow you to access search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+Nenhuma fonte de pesquisa está configurada no momento. Para poder pesquisar, você precisa configurar uma fonte de pesquisa de terceiros.
+
+Deve levar apenas um pouco do seu tempo e permitirá que você acesse os resultados da pesquisa gratuitamente.
+
+Clique no botão "Alterar fonte" e depois na opção "Tutorial" para saber mais.
+```

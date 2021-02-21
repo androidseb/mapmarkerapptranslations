@@ -5747,3 +5747,71 @@ translated (by machine 🤖) as:
 ```
 ជ្រើសរើសថតឯកសារ
 ```
+
+
+## Translation Key: enter_aws_bucket_name
+```
+Enter your bucket name
+```
+translated (by machine 🤖) as:
+```
+បញ្ចូលឈ្មោះដាក់ធុងរបស់អ្នក
+```
+
+
+## Translation Key: enter_aws_acess_key_id
+```
+Enter your access key ID
+```
+translated (by machine 🤖) as:
+```
+បញ្ចូលលេខសម្គាល់កូនសោចូលរបស់អ្នក
+```
+
+
+## Translation Key: enter_aws_secret_access_key
+```
+Enter your secret access key
+```
+translated (by machine 🤖) as:
+```
+បញ្ចូលលេខកូដចូលសម្ងាត់របស់អ្នក
+```
+
+
+## Translation Key: always_display_default_folder
+```
+Always display the default folder
+```
+translated (by machine 🤖) as:
+```
+បង្ហាញថតលំនាំដើមជានិច្ច
+```
+
+
+## Translation Key: error_cannot_alter_read_only_map
+```
+You cannot make changes on this map file because it is in read-only mode.
+```
+translated (by machine 🤖) as:
+```
+អ្នកមិនអាចធ្វើការផ្លាស់ប្តូរនៅលើឯកសារផែនទីនេះបានទេពីព្រោះវាស្ថិតក្នុងរបៀបបានតែអាន។
+```
+
+
+## Translation Key: no_search_source_configured_text
+```
+No search source is configured at the moment. In order to be able to search, you need to configure a third party search source.
+
+It should only take a little bit of your time and will allow you to access search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+មិនមានប្រភពស្វែងរកត្រូវបានកំណត់រចនាសម្ព័ន្ធនៅពេលនេះទេ។ ដើម្បីអាចស្វែងរកអ្នកត្រូវកំណត់ប្រភពស្វែងរកភាគីទីបី។
+
+វាគួរតែចំណាយពេលបន្តិចរបស់អ្នកហើយនឹងអនុញ្ញាតឱ្យអ្នកចូលប្រើលទ្ធផលស្វែងរកដោយឥតគិតថ្លៃ។
+
+ចុចប៊ូតុង "ផ្លាស់ប្តូរប្រភព" ហើយបន្ទាប់មកជម្រើស "ឯកសារបង្រៀន" ដើម្បីស្វែងយល់បន្ថែម។
+```

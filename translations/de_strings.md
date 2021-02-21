@@ -5744,3 +5744,71 @@ translated (by machine 🤖) as:
 ```
 Ordner auswählen
 ```
+
+
+## Translation Key: enter_aws_bucket_name
+```
+Enter your bucket name
+```
+translated (by machine 🤖) as:
+```
+Geben Sie Ihren Bucket-Namen ein
+```
+
+
+## Translation Key: enter_aws_acess_key_id
+```
+Enter your access key ID
+```
+translated (by machine 🤖) as:
+```
+Geben Sie Ihre Zugangsschlüssel-ID ein
+```
+
+
+## Translation Key: enter_aws_secret_access_key
+```
+Enter your secret access key
+```
+translated (by machine 🤖) as:
+```
+Geben Sie Ihren geheimen Zugangsschlüssel ein
+```
+
+
+## Translation Key: always_display_default_folder
+```
+Always display the default folder
+```
+translated (by machine 🤖) as:
+```
+Zeigen Sie immer den Standardordner an
+```
+
+
+## Translation Key: error_cannot_alter_read_only_map
+```
+You cannot make changes on this map file because it is in read-only mode.
+```
+translated (by machine 🤖) as:
+```
+Sie können keine Änderungen an dieser Zuordnungsdatei vornehmen, da sie sich im schreibgeschützten Modus befindet.
+```
+
+
+## Translation Key: no_search_source_configured_text
+```
+No search source is configured at the moment. In order to be able to search, you need to configure a third party search source.
+
+It should only take a little bit of your time and will allow you to access search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+Derzeit ist keine Suchquelle konfiguriert. Um suchen zu können, müssen Sie eine Suchquelle eines Drittanbieters konfigurieren.
+
+Es sollte nur ein wenig Zeit in Anspruch nehmen und ermöglicht Ihnen den kostenlosen Zugriff auf Suchergebnisse.
+
+Klicken Sie auf die Schaltfläche "Quelle ändern" und dann auf die Option "Lernprogramm", um weitere Informationen zu erhalten.
+```

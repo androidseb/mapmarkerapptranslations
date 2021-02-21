@@ -5748,3 +5748,71 @@ translated (by machine 🤖) as:
 ```
 เลือกโฟลเดอร์
 ```
+
+
+## Translation Key: enter_aws_bucket_name
+```
+Enter your bucket name
+```
+translated (by machine 🤖) as:
+```
+ป้อนชื่อที่เก็บข้อมูลของคุณ
+```
+
+
+## Translation Key: enter_aws_acess_key_id
+```
+Enter your access key ID
+```
+translated (by machine 🤖) as:
+```
+ป้อนรหัสคีย์การเข้าถึงของคุณ
+```
+
+
+## Translation Key: enter_aws_secret_access_key
+```
+Enter your secret access key
+```
+translated (by machine 🤖) as:
+```
+ป้อนรหัสลับของคุณ
+```
+
+
+## Translation Key: always_display_default_folder
+```
+Always display the default folder
+```
+translated (by machine 🤖) as:
+```
+แสดงโฟลเดอร์เริ่มต้นเสมอ
+```
+
+
+## Translation Key: error_cannot_alter_read_only_map
+```
+You cannot make changes on this map file because it is in read-only mode.
+```
+translated (by machine 🤖) as:
+```
+คุณไม่สามารถทำการเปลี่ยนแปลงบนไฟล์แผนที่นี้ได้เนื่องจากอยู่ในโหมดอ่านอย่างเดียว
+```
+
+
+## Translation Key: no_search_source_configured_text
+```
+No search source is configured at the moment. In order to be able to search, you need to configure a third party search source.
+
+It should only take a little bit of your time and will allow you to access search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+ไม่มีการกำหนดค่าแหล่งการค้นหาในขณะนี้ เพื่อให้สามารถค้นหาได้คุณต้องกำหนดค่าแหล่งการค้นหาของบุคคลที่สาม
+
+ควรใช้เวลาเพียงเล็กน้อยและจะช่วยให้คุณเข้าถึงผลการค้นหาได้ฟรี
+
+คลิกปุ่ม "เปลี่ยนแหล่งที่มา" จากนั้นคลิกตัวเลือก "บทช่วยสอน" เพื่อเรียนรู้เพิ่มเติม
+```

@@ -5747,3 +5747,71 @@ translated (by machine 🤖) as:
 ```
 Wybierz foldery
 ```
+
+
+## Translation Key: enter_aws_bucket_name
+```
+Enter your bucket name
+```
+translated (by machine 🤖) as:
+```
+Wpisz nazwę swojego zasobnika
+```
+
+
+## Translation Key: enter_aws_acess_key_id
+```
+Enter your access key ID
+```
+translated (by machine 🤖) as:
+```
+Wprowadź swój identyfikator klucza dostępu
+```
+
+
+## Translation Key: enter_aws_secret_access_key
+```
+Enter your secret access key
+```
+translated (by machine 🤖) as:
+```
+Wprowadź swój tajny klucz dostępu
+```
+
+
+## Translation Key: always_display_default_folder
+```
+Always display the default folder
+```
+translated (by machine 🤖) as:
+```
+Zawsze wyświetlaj folder domyślny
+```
+
+
+## Translation Key: error_cannot_alter_read_only_map
+```
+You cannot make changes on this map file because it is in read-only mode.
+```
+translated (by machine 🤖) as:
+```
+Nie możesz wprowadzać zmian w tym pliku mapy, ponieważ jest on w trybie tylko do odczytu.
+```
+
+
+## Translation Key: no_search_source_configured_text
+```
+No search source is configured at the moment. In order to be able to search, you need to configure a third party search source.
+
+It should only take a little bit of your time and will allow you to access search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+W tej chwili żadne źródło wyszukiwania nie jest skonfigurowane. Aby móc wyszukiwać, musisz skonfigurować zewnętrzne źródło wyszukiwania.
+
+Powinno to zająć tylko trochę czasu i umożliwi Ci dostęp do wyników wyszukiwania za darmo.
+
+Kliknij przycisk „Zmień źródło”, a następnie opcję „Samouczek”, aby dowiedzieć się więcej.
+```

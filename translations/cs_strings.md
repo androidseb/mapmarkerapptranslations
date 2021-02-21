@@ -5747,3 +5747,71 @@ translated (by machine 🤖) as:
 ```
 Vyberte složky
 ```
+
+
+## Translation Key: enter_aws_bucket_name
+```
+Enter your bucket name
+```
+translated (by machine 🤖) as:
+```
+Zadejte název kbelíku
+```
+
+
+## Translation Key: enter_aws_acess_key_id
+```
+Enter your access key ID
+```
+translated (by machine 🤖) as:
+```
+Zadejte své ID přístupového klíče
+```
+
+
+## Translation Key: enter_aws_secret_access_key
+```
+Enter your secret access key
+```
+translated (by machine 🤖) as:
+```
+Zadejte svůj tajný přístupový klíč
+```
+
+
+## Translation Key: always_display_default_folder
+```
+Always display the default folder
+```
+translated (by machine 🤖) as:
+```
+Vždy zobrazit výchozí složku
+```
+
+
+## Translation Key: error_cannot_alter_read_only_map
+```
+You cannot make changes on this map file because it is in read-only mode.
+```
+translated (by machine 🤖) as:
+```
+V tomto souboru mapy nemůžete provádět změny, protože je v režimu jen pro čtení.
+```
+
+
+## Translation Key: no_search_source_configured_text
+```
+No search source is configured at the moment. In order to be able to search, you need to configure a third party search source.
+
+It should only take a little bit of your time and will allow you to access search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+V tuto chvíli není nakonfigurován žádný zdroj vyhledávání. Abyste mohli vyhledávat, musíte nakonfigurovat vyhledávací zdroj třetí strany.
+
+Mělo by to zabrat jen trochu času a umožní vám bezplatný přístup k výsledkům vyhledávání.
+
+Další informace získáte kliknutím na tlačítko „Změnit zdroj“ a poté na možnost „Výukový program“.
+```

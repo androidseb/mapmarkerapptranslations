@@ -5747,3 +5747,71 @@ translated (by machine 🤖) as:
 ```
 폴더 선택
 ```
+
+
+## Translation Key: enter_aws_bucket_name
+```
+Enter your bucket name
+```
+translated (by machine 🤖) as:
+```
+버킷 이름을 입력하세요.
+```
+
+
+## Translation Key: enter_aws_acess_key_id
+```
+Enter your access key ID
+```
+translated (by machine 🤖) as:
+```
+액세스 키 ID를 입력하세요.
+```
+
+
+## Translation Key: enter_aws_secret_access_key
+```
+Enter your secret access key
+```
+translated (by machine 🤖) as:
+```
+비밀 액세스 키를 입력하세요.
+```
+
+
+## Translation Key: always_display_default_folder
+```
+Always display the default folder
+```
+translated (by machine 🤖) as:
+```
+항상 기본 폴더 표시
+```
+
+
+## Translation Key: error_cannot_alter_read_only_map
+```
+You cannot make changes on this map file because it is in read-only mode.
+```
+translated (by machine 🤖) as:
+```
+이 맵 파일은 읽기 전용 모드이므로 변경할 수 없습니다.
+```
+
+
+## Translation Key: no_search_source_configured_text
+```
+No search source is configured at the moment. In order to be able to search, you need to configure a third party search source.
+
+It should only take a little bit of your time and will allow you to access search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+현재 구성된 검색 소스가 없습니다. 검색 할 수 있으려면 타사 검색 소스를 구성해야합니다.
+
+약간의 시간이 소요되며 검색 결과에 무료로 액세스 할 수 있습니다.
+
+자세한 내용을 보려면 "소스 변경"버튼을 클릭 한 다음 "튜토리얼"옵션을 클릭하십시오.
+```

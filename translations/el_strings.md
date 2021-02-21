@@ -5747,3 +5747,71 @@ translated (by machine 🤖) as:
 ```
 Επιλέξτε φακέλους
 ```
+
+
+## Translation Key: enter_aws_bucket_name
+```
+Enter your bucket name
+```
+translated (by machine 🤖) as:
+```
+Εισαγάγετε το όνομα του κάδου σας
+```
+
+
+## Translation Key: enter_aws_acess_key_id
+```
+Enter your access key ID
+```
+translated (by machine 🤖) as:
+```
+Εισαγάγετε το αναγνωριστικό κλειδιού πρόσβασης
+```
+
+
+## Translation Key: enter_aws_secret_access_key
+```
+Enter your secret access key
+```
+translated (by machine 🤖) as:
+```
+Εισαγάγετε το μυστικό σας κλειδί πρόσβασης
+```
+
+
+## Translation Key: always_display_default_folder
+```
+Always display the default folder
+```
+translated (by machine 🤖) as:
+```
+Να εμφανίζεται πάντα ο προεπιλεγμένος φάκελος
+```
+
+
+## Translation Key: error_cannot_alter_read_only_map
+```
+You cannot make changes on this map file because it is in read-only mode.
+```
+translated (by machine 🤖) as:
+```
+Δεν μπορείτε να κάνετε αλλαγές σε αυτό το αρχείο χάρτη, επειδή βρίσκεται σε λειτουργία μόνο για ανάγνωση.
+```
+
+
+## Translation Key: no_search_source_configured_text
+```
+No search source is configured at the moment. In order to be able to search, you need to configure a third party search source.
+
+It should only take a little bit of your time and will allow you to access search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+Δεν έχει ρυθμιστεί καμία πηγή αναζήτησης αυτήν τη στιγμή. Για να μπορείτε να κάνετε αναζήτηση, πρέπει να διαμορφώσετε μια πηγή αναζήτησης τρίτου μέρους.
+
+Θα χρειαστεί μόνο λίγο χρόνο και θα σας επιτρέψει να έχετε δωρεάν πρόσβαση στα αποτελέσματα αναζήτησης.
+
+Κάντε κλικ στο κουμπί "Αλλαγή πηγής" και στη συνέχεια στην επιλογή "Εκμάθηση" για να μάθετε περισσότερα.
+```

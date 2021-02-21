@@ -5747,3 +5747,71 @@ translated (by machine 🤖) as:
 ```
 Seleccionar carpetas
 ```
+
+
+## Translation Key: enter_aws_bucket_name
+```
+Enter your bucket name
+```
+translated (by machine 🤖) as:
+```
+Ingrese su nombre de depósito
+```
+
+
+## Translation Key: enter_aws_acess_key_id
+```
+Enter your access key ID
+```
+translated (by machine 🤖) as:
+```
+Ingrese su ID de clave de acceso
+```
+
+
+## Translation Key: enter_aws_secret_access_key
+```
+Enter your secret access key
+```
+translated (by machine 🤖) as:
+```
+Ingrese su clave de acceso secreta
+```
+
+
+## Translation Key: always_display_default_folder
+```
+Always display the default folder
+```
+translated (by machine 🤖) as:
+```
+Mostrar siempre la carpeta predeterminada
+```
+
+
+## Translation Key: error_cannot_alter_read_only_map
+```
+You cannot make changes on this map file because it is in read-only mode.
+```
+translated (by machine 🤖) as:
+```
+No puede realizar cambios en este archivo de mapa porque está en modo de solo lectura.
+```
+
+
+## Translation Key: no_search_source_configured_text
+```
+No search source is configured at the moment. In order to be able to search, you need to configure a third party search source.
+
+It should only take a little bit of your time and will allow you to access search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+No hay ninguna fuente de búsqueda configurada en este momento. Para poder realizar búsquedas, debe configurar una fuente de búsqueda de terceros.
+
+Solo debería tomar un poco de su tiempo y le permitirá acceder a los resultados de búsqueda de forma gratuita.
+
+Haga clic en el botón "Cambiar fuente" y luego en la opción "Tutorial" para obtener más información.
+```

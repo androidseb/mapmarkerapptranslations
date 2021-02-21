@@ -5747,3 +5747,71 @@ translated (by machine 🤖) as:
 ```
 Изаберите фасцикле
 ```
+
+
+## Translation Key: enter_aws_bucket_name
+```
+Enter your bucket name
+```
+translated (by machine 🤖) as:
+```
+Унесите своје име сегмента
+```
+
+
+## Translation Key: enter_aws_acess_key_id
+```
+Enter your access key ID
+```
+translated (by machine 🤖) as:
+```
+Унесите свој ИД приступног кључа
+```
+
+
+## Translation Key: enter_aws_secret_access_key
+```
+Enter your secret access key
+```
+translated (by machine 🤖) as:
+```
+Унесите свој тајни приступни кључ
+```
+
+
+## Translation Key: always_display_default_folder
+```
+Always display the default folder
+```
+translated (by machine 🤖) as:
+```
+Увек прикажи подразумевану фасциклу
+```
+
+
+## Translation Key: error_cannot_alter_read_only_map
+```
+You cannot make changes on this map file because it is in read-only mode.
+```
+translated (by machine 🤖) as:
+```
+Не можете извршити промене на овој датотеци мапе јер је у режиму само за читање.
+```
+
+
+## Translation Key: no_search_source_configured_text
+```
+No search source is configured at the moment. In order to be able to search, you need to configure a third party search source.
+
+It should only take a little bit of your time and will allow you to access search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+Тренутно није конфигурисан ниједан извор претраживања. Да бисте могли да претражујете, морате да конфигуришете извор претраге независног произвођача.
+
+Требало би вам одузети само мало времена и омогућиће вам бесплатан приступ резултатима претраге.
+
+Кликните на дугме „Промени извор“, а затим на опцију „Водич“ да бисте сазнали више.
+```

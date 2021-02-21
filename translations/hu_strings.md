@@ -5747,3 +5747,71 @@ translated (by machine 🤖) as:
 ```
 Válassza ki a mappákat
 ```
+
+
+## Translation Key: enter_aws_bucket_name
+```
+Enter your bucket name
+```
+translated (by machine 🤖) as:
+```
+Adja meg a vödör nevét
+```
+
+
+## Translation Key: enter_aws_acess_key_id
+```
+Enter your access key ID
+```
+translated (by machine 🤖) as:
+```
+Írja be a belépési kulcs azonosítóját
+```
+
+
+## Translation Key: enter_aws_secret_access_key
+```
+Enter your secret access key
+```
+translated (by machine 🤖) as:
+```
+Írja be titkos hozzáférési kulcsát
+```
+
+
+## Translation Key: always_display_default_folder
+```
+Always display the default folder
+```
+translated (by machine 🤖) as:
+```
+Mindig jelenítse meg az alapértelmezett mappát
+```
+
+
+## Translation Key: error_cannot_alter_read_only_map
+```
+You cannot make changes on this map file because it is in read-only mode.
+```
+translated (by machine 🤖) as:
+```
+Nem módosíthatja ezt a térképfájlt, mert csak olvasható módban van.
+```
+
+
+## Translation Key: no_search_source_configured_text
+```
+No search source is configured at the moment. In order to be able to search, you need to configure a third party search source.
+
+It should only take a little bit of your time and will allow you to access search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+Jelenleg nincs konfigurálva keresési forrás. A kereséshez be kell állítania egy harmadik fél keresési forrását.
+
+Csak egy kis időbe telik, és lehetővé teszi a keresési eredmények ingyenes elérését.
+
+Kattintson a "Forrás módosítása" gombra, majd a "Bemutató" opcióra a további információkért.
+```

@@ -5741,3 +5741,71 @@ translated (by machine 🤖) as:
 ```
 Selecteer mappen
 ```
+
+
+## Translation Key: enter_aws_bucket_name
+```
+Enter your bucket name
+```
+translated (by machine 🤖) as:
+```
+Voer je bucketnaam in
+```
+
+
+## Translation Key: enter_aws_acess_key_id
+```
+Enter your access key ID
+```
+translated (by machine 🤖) as:
+```
+Voer uw toegangssleutel-ID in
+```
+
+
+## Translation Key: enter_aws_secret_access_key
+```
+Enter your secret access key
+```
+translated (by machine 🤖) as:
+```
+Voer uw geheime toegangssleutel in
+```
+
+
+## Translation Key: always_display_default_folder
+```
+Always display the default folder
+```
+translated (by machine 🤖) as:
+```
+Geef altijd de standaardmap weer
+```
+
+
+## Translation Key: error_cannot_alter_read_only_map
+```
+You cannot make changes on this map file because it is in read-only mode.
+```
+translated (by machine 🤖) as:
+```
+U kunt geen wijzigingen aanbrengen in dit mapbestand omdat het zich in de alleen-lezenmodus bevindt.
+```
+
+
+## Translation Key: no_search_source_configured_text
+```
+No search source is configured at the moment. In order to be able to search, you need to configure a third party search source.
+
+It should only take a little bit of your time and will allow you to access search results for free.
+
+Click the "Change source" button and then the "Tutorial" option to learn more.
+```
+translated (by machine 🤖) as:
+```
+Er is momenteel geen zoekbron geconfigureerd. Om te kunnen zoeken, moet u een zoekbron van derden configureren.
+
+Het zou slechts een klein beetje van uw tijd moeten kosten en u krijgt gratis toegang tot de zoekresultaten.
+
+Klik op de knop "Wijzig bron" en vervolgens op de optie "Zelfstudie" voor meer informatie.
+```
