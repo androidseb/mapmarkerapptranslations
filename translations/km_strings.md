@@ -5825,5 +5825,5 @@ Google authentication error:
 translated (by machine 🤖) as:
 ```
 កំហុសក្នុងការផ្ទៀងផ្ទាត់ Google៖
-_៧
+%s
 ```
