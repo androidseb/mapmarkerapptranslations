@@ -5812,3 +5812,15 @@ translated (by machine 🤖) as:
 
 Нажмите кнопку «Изменить источник», а затем «Учебник», чтобы узнать больше.
 ```
+
+
+## Translation Key: react_app_google_auth_error_x
+```
+Google authentication error:
+%s
+```
+translated (by machine 🤖) as:
+```
+Ошибка аутентификации Google:
+%s
+```

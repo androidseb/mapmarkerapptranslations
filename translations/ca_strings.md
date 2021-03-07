@@ -5815,3 +5815,15 @@ Només us caldrà una mica del vostre temps i us permetrà accedir als resultats
 
 Feu clic al botó "Canvia la font" i, a continuació, a l'opció "Tutorial" per obtenir més informació.
 ```
+
+
+## Translation Key: react_app_google_auth_error_x
+```
+Google authentication error:
+%s
+```
+translated (by machine 🤖) as:
+```
+Error d'autenticació de Google:
+%s
+```

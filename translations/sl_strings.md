@@ -5812,3 +5812,15 @@ Vzelo bi vam le malo časa in vam omogočilo brezplačen dostop do rezultatov is
 
 Kliknite gumb "Spremeni vir" in nato možnost "Vadnica", če želite izvedeti več.
 ```
+
+
+## Translation Key: react_app_google_auth_error_x
+```
+Google authentication error:
+%s
+```
+translated (by machine 🤖) as:
+```
+Napaka pri preverjanju pristnosti Googla:
+%s
+```

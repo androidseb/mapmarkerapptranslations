@@ -5815,3 +5815,15 @@ Trebalo bi vam oduzeti samo malo vremena i omogućit će vam besplatan pristup r
 
 Kliknite gumb "Promijeni izvor", a zatim opciju "Vodič" da biste saznali više.
 ```
+
+
+## Translation Key: react_app_google_auth_error_x
+```
+Google authentication error:
+%s
+```
+translated (by machine 🤖) as:
+```
+Googleova pogreška autentifikacije:
+%s
+```

@@ -5815,3 +5815,15 @@ translated (by machine 🤖) as:
 
 자세한 내용을 보려면 "소스 변경"버튼을 클릭 한 다음 "튜토리얼"옵션을 클릭하십시오.
 ```
+
+
+## Translation Key: react_app_google_auth_error_x
+```
+Google authentication error:
+%s
+```
+translated (by machine 🤖) as:
+```
+Google 인증 오류 :
+%s
+```

@@ -5815,3 +5815,15 @@ Det borde bara ta lite av din tid och låter dig få tillgång till sökresultat
 
 Klicka på knappen "Ändra källa" och sedan på "Självstudier" för att lära dig mer.
 ```
+
+
+## Translation Key: react_app_google_auth_error_x
+```
+Google authentication error:
+%s
+```
+translated (by machine 🤖) as:
+```
+Googles autentiseringsfel:
+%s
+```

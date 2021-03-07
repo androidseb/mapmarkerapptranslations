@@ -5814,3 +5814,15 @@ Tai turėtų užtrukti tik šiek tiek jūsų laiko ir leis jums nemokamai pasiek
 
 Norėdami sužinoti daugiau, spustelėkite mygtuką „Keisti šaltinį“, tada - parinktį „Pamoka“.
 ```
+
+
+## Translation Key: react_app_google_auth_error_x
+```
+Google authentication error:
+%s
+```
+translated (by machine 🤖) as:
+```
+„Google“ autentifikavimo klaida:
+%s
+```

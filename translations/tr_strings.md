@@ -5815,3 +5815,15 @@ Sadece biraz zamanınızı alacaktır ve arama sonuçlarına ücretsiz olarak er
 
 Daha fazla bilgi edinmek için "Kaynağı değiştir" düğmesini ve ardından "Eğitici" seçeneğini tıklayın.
 ```
+
+
+## Translation Key: react_app_google_auth_error_x
+```
+Google authentication error:
+%s
+```
+translated (by machine 🤖) as:
+```
+Google kimlik doğrulama hatası:
+%s
+```

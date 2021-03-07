@@ -5815,3 +5815,15 @@ Csak egy kis időbe telik, és lehetővé teszi a keresési eredmények ingyenes
 
 Kattintson a "Forrás módosítása" gombra, majd a "Bemutató" opcióra a további információkért.
 ```
+
+
+## Translation Key: react_app_google_auth_error_x
+```
+Google authentication error:
+%s
+```
+translated (by machine 🤖) as:
+```
+Google hitelesítési hiba:
+%s
+```

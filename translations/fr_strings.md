@@ -5815,3 +5815,15 @@ Cela ne devrait prendre qu'un peu de temps et vous permettra d'accéder aux rés
 
 Cliquez le bouton "Changer source", puis l'option "Tutoriel" pour en apprendre plus.
 ```
+
+
+## Translation Key: react_app_google_auth_error_x
+```
+Google authentication error:
+%s
+```
+translated (by human 👀) as:
+```
+Erreur d'authentication Google:
+%s
+```

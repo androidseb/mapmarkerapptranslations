@@ -5815,3 +5815,15 @@ Mělo by to zabrat jen trochu času a umožní vám bezplatný přístup k výsl
 
 Další informace získáte kliknutím na tlačítko „Změnit zdroj“ a poté na možnost „Výukový program“.
 ```
+
+
+## Translation Key: react_app_google_auth_error_x
+```
+Google authentication error:
+%s
+```
+translated (by machine 🤖) as:
+```
+Chyba ověřování Google:
+%s
+```

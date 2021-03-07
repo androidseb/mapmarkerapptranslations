@@ -5815,3 +5815,15 @@ It should only take a little bit of your time and will allow you to access searc
 
 Click the "Change source" button and then the "Tutorial" option to learn more.
 ```
+
+
+## Translation Key: react_app_google_auth_error_x
+```
+Google authentication error:
+%s
+```
+translated (by machine 🤖) as:
+```
+Google authentication error:
+%s
+```

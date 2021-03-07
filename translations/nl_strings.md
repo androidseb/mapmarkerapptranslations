@@ -5809,3 +5809,15 @@ Het zou slechts een klein beetje van uw tijd moeten kosten en u krijgt gratis to
 
 Klik op de knop "Wijzig bron" en vervolgens op de optie "Zelfstudie" voor meer informatie.
 ```
+
+
+## Translation Key: react_app_google_auth_error_x
+```
+Google authentication error:
+%s
+```
+translated (by machine 🤖) as:
+```
+Google-verificatiefout:
+%s
+```

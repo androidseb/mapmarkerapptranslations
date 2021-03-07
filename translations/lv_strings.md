@@ -5815,3 +5815,15 @@ Tam vajadzētu aizņemt tikai nedaudz laika, un tas ļaus jums bez maksas piekļ
 
 Noklikšķiniet uz pogas "Mainīt avotu" un pēc tam uz opcijas "Pamācība", lai uzzinātu vairāk.
 ```
+
+
+## Translation Key: react_app_google_auth_error_x
+```
+Google authentication error:
+%s
+```
+translated (by machine 🤖) as:
+```
+Google autentifikācijas kļūda:
+%s
+```

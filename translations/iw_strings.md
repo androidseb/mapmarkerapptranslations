@@ -5815,3 +5815,15 @@ translated (by machine 🤖) as:
 
 לחץ על כפתור "שנה מקור" ואז על האפשרות "הדרכה" למידע נוסף.
 ```
+
+
+## Translation Key: react_app_google_auth_error_x
+```
+Google authentication error:
+%s
+```
+translated (by machine 🤖) as:
+```
+שגיאת אימות של גוגל:
+%s
+```

@@ -5815,3 +5815,15 @@ Sen pitäisi viedä vain vähän aikaa ja antaa sinun käyttää hakutuloksia il
 
 Napsauta "Muuta lähdettä" -painiketta ja sitten "Opetusohjelma" -vaihtoehtoa saadaksesi lisätietoja.
 ```
+
+
+## Translation Key: react_app_google_auth_error_x
+```
+Google authentication error:
+%s
+```
+translated (by machine 🤖) as:
+```
+Googlen todennusvirhe:
+%s
+```

@@ -5812,3 +5812,15 @@ Es sollte nur ein wenig Zeit in Anspruch nehmen und ermöglicht Ihnen den kosten
 
 Klicken Sie auf die Schaltfläche "Quelle ändern" und dann auf die Option "Lernprogramm", um weitere Informationen zu erhalten.
 ```
+
+
+## Translation Key: react_app_google_auth_error_x
+```
+Google authentication error:
+%s
+```
+translated (by machine 🤖) as:
+```
+Google-Authentifizierungsfehler:
+%s
+```

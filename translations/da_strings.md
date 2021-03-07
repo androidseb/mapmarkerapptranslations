@@ -5819,3 +5819,15 @@ Det skal kun tage lidt af din tid og giver dig adgang til søgeresultaterne grat
 
 Klik på knappen "Skift kilde" og derefter på "Vejledning" for at lære mere.
 ```
+
+
+## Translation Key: react_app_google_auth_error_x
+```
+Google authentication error:
+%s
+```
+translated (by machine 🤖) as:
+```
+Google-godkendelsesfejl:
+%s
+```

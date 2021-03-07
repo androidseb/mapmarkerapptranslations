@@ -5815,3 +5815,15 @@ Det tar bare litt tid og gir deg tilgang til søkeresultatene gratis.
 
 Klikk på "Endre kilde" -knappen og deretter på "Veiledning" -alternativet for å lære mer.
 ```
+
+
+## Translation Key: react_app_google_auth_error_x
+```
+Google authentication error:
+%s
+```
+translated (by machine 🤖) as:
+```
+Google-godkjenningsfeil:
+%s
+```

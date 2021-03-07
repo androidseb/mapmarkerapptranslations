@@ -5815,3 +5815,15 @@ Powinno to zająć tylko trochę czasu i umożliwi Ci dostęp do wyników wyszuk
 
 Kliknij przycisk „Zmień źródło”, a następnie opcję „Samouczek”, aby dowiedzieć się więcej.
 ```
+
+
+## Translation Key: react_app_google_auth_error_x
+```
+Google authentication error:
+%s
+```
+translated (by machine 🤖) as:
+```
+Błąd uwierzytelniania Google:
+%s
+```

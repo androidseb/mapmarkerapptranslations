@@ -5815,3 +5815,15 @@ Ar trebui să dureze puțin din timpul dvs. și vă va permite să accesați gra
 
 Faceți clic pe butonul „Schimbați sursa” și apoi pe opțiunea „Tutorial” pentru a afla mai multe.
 ```
+
+
+## Translation Key: react_app_google_auth_error_x
+```
+Google authentication error:
+%s
+```
+translated (by machine 🤖) as:
+```
+Eroare de autentificare Google:
+%s
+```
