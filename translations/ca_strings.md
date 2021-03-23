@@ -4841,16 +4841,6 @@ Font de cerca
 ```
 
 
-## Translation Key: search_source_ntim
-```
-Map Marker's Nominatim server
-```
-translated (by machine 🤖) as:
-```
-Nominatim del servidor Map Marker
-```
-
-
 ## Translation Key: search_source_gps
 ```
 Google Places Search API
@@ -4916,16 +4906,6 @@ Un agraïment especial a les persones que han treballat dur per ajudar amb les t
 ... I també els que van rebutjar esment
 
 També, gràcies a tots els usuaris que em van donar comentaris al llarg dels anys i que em van ajudar a millorar l'aplicació.
-```
-
-
-## Translation Key: search_source_pelias
-```
-Map Marker's Pelias server
-```
-translated (by machine 🤖) as:
-```
-Servidor Pelias de Map Marker
 ```
 
 
@@ -5826,4 +5806,54 @@ translated (by machine 🤖) as:
 ```
 Error d'autenticació de Google:
 %s
+```
+
+
+## Translation Key: map_type_google_maps_plan
+```
+Google Maps (Plan)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (pla)
+```
+
+
+## Translation Key: map_type_google_maps_plan_idm
+```
+Google Maps (Plan + Indoor)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (pla + interior)
+```
+
+
+## Translation Key: map_type_google_maps_satellite
+```
+Google Maps (Satellite)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (satèl·lit)
+```
+
+
+## Translation Key: map_type_google_maps_terrain
+```
+Google Maps (Terrain)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (terreny)
+```
+
+
+## Translation Key: map_type_google_maps_hybrid
+```
+Google Maps (Hybrid)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (híbrid)
 ```

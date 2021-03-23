@@ -4841,16 +4841,6 @@ Keresési forrás
 ```
 
 
-## Translation Key: search_source_ntim
-```
-Map Marker's Nominatim server
-```
-translated (by machine 🤖) as:
-```
-Map Marker Nominatim kiszolgálója
-```
-
-
 ## Translation Key: search_source_gps
 ```
 Google Places Search API
@@ -4916,16 +4906,6 @@ Külön köszönet azoknak az embereknek, akik keményen dolgoztak, hogy segíts
 … És azok is, akik elutasították
 
 Köszönjük mindazoknak a felhasználóknak, akik az évek során visszajelzést adtak nekem, és folyamatosan segítettek az alkalmazás jobbá tételében.
-```
-
-
-## Translation Key: search_source_pelias
-```
-Map Marker's Pelias server
-```
-translated (by machine 🤖) as:
-```
-Map Marker Pelias szerver
 ```
 
 
@@ -5826,4 +5806,54 @@ translated (by machine 🤖) as:
 ```
 Google hitelesítési hiba:
 %s
+```
+
+
+## Translation Key: map_type_google_maps_plan
+```
+Google Maps (Plan)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (terv)
+```
+
+
+## Translation Key: map_type_google_maps_plan_idm
+```
+Google Maps (Plan + Indoor)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (Terv + Beltéri)
+```
+
+
+## Translation Key: map_type_google_maps_satellite
+```
+Google Maps (Satellite)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (műholdas)
+```
+
+
+## Translation Key: map_type_google_maps_terrain
+```
+Google Maps (Terrain)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (terep)
+```
+
+
+## Translation Key: map_type_google_maps_hybrid
+```
+Google Maps (Hybrid)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (hibrid)
 ```

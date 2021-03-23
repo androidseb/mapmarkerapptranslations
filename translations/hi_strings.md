@@ -4841,16 +4841,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: search_source_ntim
-```
-Map Marker's Nominatim server
-```
-translated (by machine 🤖) as:
-```
-Map Marker का Nominatim सर्वर
-```
-
-
 ## Translation Key: search_source_gps
 ```
 Google Places Search API
@@ -4916,16 +4906,6 @@ translated (by machine 🤖) as:
 ... और उन लोगों का भी जिन्होंने उल्लेख करने से इनकार कर दिया
 
 इसके अलावा, उन सभी उपयोगकर्ताओं को धन्यवाद जिन्होंने मुझे वर्षों में प्रतिक्रिया दी और लगातार मुझे ऐप को बेहतर बनाने में मदद की।
-```
-
-
-## Translation Key: search_source_pelias
-```
-Map Marker's Pelias server
-```
-translated (by machine 🤖) as:
-```
-Map Marker का पेलियास सर्वर
 ```
 
 
@@ -5826,4 +5806,54 @@ translated (by machine 🤖) as:
 ```
 Google प्रमाणीकरण त्रुटि:
 %s
+```
+
+
+## Translation Key: map_type_google_maps_plan
+```
+Google Maps (Plan)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (योजना)
+```
+
+
+## Translation Key: map_type_google_maps_plan_idm
+```
+Google Maps (Plan + Indoor)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (योजना + इंडोर)
+```
+
+
+## Translation Key: map_type_google_maps_satellite
+```
+Google Maps (Satellite)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (सैटेलाइट)
+```
+
+
+## Translation Key: map_type_google_maps_terrain
+```
+Google Maps (Terrain)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (इलाक़ा)
+```
+
+
+## Translation Key: map_type_google_maps_hybrid
+```
+Google Maps (Hybrid)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (हाइब्रिड)
 ```

@@ -4835,16 +4835,6 @@ Zoek bron
 ```
 
 
-## Translation Key: search_source_ntim
-```
-Map Marker's Nominatim server
-```
-translated (by human 👀) as:
-```
-Map Marker's Nominatim-server
-```
-
-
 ## Translation Key: search_source_gps
 ```
 Google Places Search API
@@ -4910,16 +4900,6 @@ Speciale dank aan de mensen die hard hebben gewerkt om te helpen met de app-vert
 ... En ook degenen die weigerden te vermelden
 
 Dank ook aan alle gebruikers die me feedback gaven door de jaren heen en hielpen om de app constant beter te maken.
-```
-
-
-## Translation Key: search_source_pelias
-```
-Map Marker's Pelias server
-```
-translated (by human 👀) as:
-```
-Map Marker's Pelias-server
 ```
 
 
@@ -5820,4 +5800,54 @@ translated (by machine 🤖) as:
 ```
 Google-verificatiefout:
 %s
+```
+
+
+## Translation Key: map_type_google_maps_plan
+```
+Google Maps (Plan)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (Plan)
+```
+
+
+## Translation Key: map_type_google_maps_plan_idm
+```
+Google Maps (Plan + Indoor)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (plan + binnen)
+```
+
+
+## Translation Key: map_type_google_maps_satellite
+```
+Google Maps (Satellite)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (satelliet)
+```
+
+
+## Translation Key: map_type_google_maps_terrain
+```
+Google Maps (Terrain)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (terrein)
+```
+
+
+## Translation Key: map_type_google_maps_hybrid
+```
+Google Maps (Hybrid)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (hybride)
 ```

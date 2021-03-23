@@ -4842,16 +4842,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: search_source_ntim
-```
-Map Marker's Nominatim server
-```
-translated (by machine 🤖) as:
-```
-Map MarkerのNominatimサーバー
-```
-
-
 ## Translation Key: search_source_gps
 ```
 Google Places Search API
@@ -4917,16 +4907,6 @@ translated (by machine 🤖) as:
 …そしてまた言及を断った人々
 
 また、何年にもわたって私にフィードバックをしてくれ、継続的に私がアプリをより良くするのを助けてくれたすべてのユーザーに感謝します。
-```
-
-
-## Translation Key: search_source_pelias
-```
-Map Marker's Pelias server
-```
-translated (by machine 🤖) as:
-```
-Map MarkerのPeliasサーバー
 ```
 
 
@@ -5827,4 +5807,54 @@ translated (by machine 🤖) as:
 ```
 Google認証エラー：
 %s
+```
+
+
+## Translation Key: map_type_google_maps_plan
+```
+Google Maps (Plan)
+```
+translated (by machine 🤖) as:
+```
+Google Maps（計画）
+```
+
+
+## Translation Key: map_type_google_maps_plan_idm
+```
+Google Maps (Plan + Indoor)
+```
+translated (by machine 🤖) as:
+```
+Google Maps（計画+屋内）
+```
+
+
+## Translation Key: map_type_google_maps_satellite
+```
+Google Maps (Satellite)
+```
+translated (by machine 🤖) as:
+```
+Google Maps（衛星）
+```
+
+
+## Translation Key: map_type_google_maps_terrain
+```
+Google Maps (Terrain)
+```
+translated (by machine 🤖) as:
+```
+Google Maps（地形）
+```
+
+
+## Translation Key: map_type_google_maps_hybrid
+```
+Google Maps (Hybrid)
+```
+translated (by machine 🤖) as:
+```
+Google Maps（ハイブリッド）
 ```

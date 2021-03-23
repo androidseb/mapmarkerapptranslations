@@ -4841,16 +4841,6 @@ Arama kaynağı
 ```
 
 
-## Translation Key: search_source_ntim
-```
-Map Marker's Nominatim server
-```
-translated (by machine 🤖) as:
-```
-Map Marker'in Nominatim sunucusu
-```
-
-
 ## Translation Key: search_source_gps
 ```
 Google Places Search API
@@ -4916,16 +4906,6 @@ Uygulama çevirilerine yardımcı olmak için çok çalışanlara özel teşekk�
 … Ve aynı zamanda reddetti olanlar söz
 
 Ayrıca, yıllar boyunca bana geri bildirim veren ve uygulamayı daha iyi hale getirmeme yardımcı olan tüm kullanıcılara teşekkür ederim.
-```
-
-
-## Translation Key: search_source_pelias
-```
-Map Marker's Pelias server
-```
-translated (by machine 🤖) as:
-```
-Map Marker'in Pelias sunucusu
 ```
 
 
@@ -5826,4 +5806,54 @@ translated (by machine 🤖) as:
 ```
 Google kimlik doğrulama hatası:
 %s
+```
+
+
+## Translation Key: map_type_google_maps_plan
+```
+Google Maps (Plan)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (Plan)
+```
+
+
+## Translation Key: map_type_google_maps_plan_idm
+```
+Google Maps (Plan + Indoor)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (Plan + İç Mekan)
+```
+
+
+## Translation Key: map_type_google_maps_satellite
+```
+Google Maps (Satellite)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (Uydu)
+```
+
+
+## Translation Key: map_type_google_maps_terrain
+```
+Google Maps (Terrain)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (Arazi)
+```
+
+
+## Translation Key: map_type_google_maps_hybrid
+```
+Google Maps (Hybrid)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (Karma)
 ```

@@ -4842,16 +4842,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: search_source_ntim
-```
-Map Marker's Nominatim server
-```
-translated (by machine 🤖) as:
-```
-เซิร์ฟเวอร์ Nominatim ของ Map Marker
-```
-
-
 ## Translation Key: search_source_gps
 ```
 Google Places Search API
@@ -4917,16 +4907,6 @@ translated (by machine 🤖) as:
 …และคนที่ปฏิเสธพูดถึง
 
 นอกจากนี้ขอขอบคุณผู้ใช้ทุกคนที่ให้ข้อเสนอแนะแก่ฉันตลอดหลายปีที่ผ่านมาและช่วยฉันปรับปรุงแอปให้ดีขึ้นอย่างต่อเนื่อง
-```
-
-
-## Translation Key: search_source_pelias
-```
-Map Marker's Pelias server
-```
-translated (by machine 🤖) as:
-```
-เซิร์ฟเวอร์ Pelias ของ Map Marker
 ```
 
 
@@ -5827,4 +5807,54 @@ translated (by machine 🤖) as:
 ```
 ข้อผิดพลาดในการตรวจสอบสิทธิ์ของ Google:
 %s
+```
+
+
+## Translation Key: map_type_google_maps_plan
+```
+Google Maps (Plan)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (แผน)
+```
+
+
+## Translation Key: map_type_google_maps_plan_idm
+```
+Google Maps (Plan + Indoor)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (แผน + ในร่ม)
+```
+
+
+## Translation Key: map_type_google_maps_satellite
+```
+Google Maps (Satellite)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (ดาวเทียม)
+```
+
+
+## Translation Key: map_type_google_maps_terrain
+```
+Google Maps (Terrain)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (ภูมิประเทศ)
+```
+
+
+## Translation Key: map_type_google_maps_hybrid
+```
+Google Maps (Hybrid)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (ไฮบริด)
 ```

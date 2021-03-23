@@ -4841,16 +4841,6 @@ Nguồn tìm kiếm
 ```
 
 
-## Translation Key: search_source_ntim
-```
-Map Marker's Nominatim server
-```
-translated (by machine 🤖) as:
-```
-Máy chủ Nominatim của Map Marker
-```
-
-
 ## Translation Key: search_source_gps
 ```
 Google Places Search API
@@ -4916,16 +4906,6 @@ translated (by machine 🤖) as:
 Và cũng là những người từ chối đề cập đến
 
 Ngoài ra, cảm ơn tất cả những người dùng đã cho tôi phản hồi trong những năm qua và liên tục giúp tôi làm cho ứng dụng tốt hơn.
-```
-
-
-## Translation Key: search_source_pelias
-```
-Map Marker's Pelias server
-```
-translated (by machine 🤖) as:
-```
-Máy chủ Pelias của Map Marker
 ```
 
 
@@ -5826,4 +5806,54 @@ translated (by machine 🤖) as:
 ```
 Lỗi xác thực của Google:
 %s
+```
+
+
+## Translation Key: map_type_google_maps_plan
+```
+Google Maps (Plan)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (Kế hoạch)
+```
+
+
+## Translation Key: map_type_google_maps_plan_idm
+```
+Google Maps (Plan + Indoor)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (Kế hoạch + Trong nhà)
+```
+
+
+## Translation Key: map_type_google_maps_satellite
+```
+Google Maps (Satellite)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (Vệ tinh)
+```
+
+
+## Translation Key: map_type_google_maps_terrain
+```
+Google Maps (Terrain)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (Địa hình)
+```
+
+
+## Translation Key: map_type_google_maps_hybrid
+```
+Google Maps (Hybrid)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (Kết hợp)
 ```

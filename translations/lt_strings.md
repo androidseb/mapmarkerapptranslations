@@ -4840,16 +4840,6 @@ Paieškos šaltinis
 ```
 
 
-## Translation Key: search_source_ntim
-```
-Map Marker's Nominatim server
-```
-translated (by machine 🤖) as:
-```
-Map Marker „Nominatim“ serveris
-```
-
-
 ## Translation Key: search_source_gps
 ```
 Google Places Search API
@@ -4915,16 +4905,6 @@ Ypatingai dėkojame žmonėms, kurie sunkiai dirbo, kad padėtų su programos ve
 … Ir taip pat tie, kurie atsisakė paminėti
 
 Taip pat dėkoju visiems naudotojams, kurie per daug metų davė atsiliepimų ir nuolat padėjo geriau pritaikyti programą.
-```
-
-
-## Translation Key: search_source_pelias
-```
-Map Marker's Pelias server
-```
-translated (by machine 🤖) as:
-```
-Map Marker „Pelias“ serveris
 ```
 
 
@@ -5825,4 +5805,54 @@ translated (by machine 🤖) as:
 ```
 „Google“ autentifikavimo klaida:
 %s
+```
+
+
+## Translation Key: map_type_google_maps_plan
+```
+Google Maps (Plan)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (planas)
+```
+
+
+## Translation Key: map_type_google_maps_plan_idm
+```
+Google Maps (Plan + Indoor)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (planas + vidinis)
+```
+
+
+## Translation Key: map_type_google_maps_satellite
+```
+Google Maps (Satellite)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (palydovas)
+```
+
+
+## Translation Key: map_type_google_maps_terrain
+```
+Google Maps (Terrain)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (reljefas)
+```
+
+
+## Translation Key: map_type_google_maps_hybrid
+```
+Google Maps (Hybrid)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (hibridinis)
 ```

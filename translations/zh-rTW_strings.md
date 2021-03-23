@@ -4833,16 +4833,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: search_source_ntim
-```
-Map Marker's Nominatim server
-```
-translated (by machine 🤖) as:
-```
-Map Marker的Nominatim服務器
-```
-
-
 ## Translation Key: search_source_gps
 ```
 Google Places Search API
@@ -4908,16 +4898,6 @@ translated (by machine 🤖) as:
 ......還有那些拒絕提及的人
 
 此外，感謝所有多年來給我反饋的用戶，並不斷幫助我改進應用程序。
-```
-
-
-## Translation Key: search_source_pelias
-```
-Map Marker's Pelias server
-```
-translated (by machine 🤖) as:
-```
-Map Marker的Pelias服務器
 ```
 
 
@@ -5818,4 +5798,54 @@ translated (by machine 🤖) as:
 ```
 Google驗證錯誤：
 %s
+```
+
+
+## Translation Key: map_type_google_maps_plan
+```
+Google Maps (Plan)
+```
+translated (by machine 🤖) as:
+```
+Google Maps（計劃）
+```
+
+
+## Translation Key: map_type_google_maps_plan_idm
+```
+Google Maps (Plan + Indoor)
+```
+translated (by machine 🤖) as:
+```
+Google Maps（方案+室內）
+```
+
+
+## Translation Key: map_type_google_maps_satellite
+```
+Google Maps (Satellite)
+```
+translated (by machine 🤖) as:
+```
+Google Maps（衛星）
+```
+
+
+## Translation Key: map_type_google_maps_terrain
+```
+Google Maps (Terrain)
+```
+translated (by machine 🤖) as:
+```
+Google Maps（地形）
+```
+
+
+## Translation Key: map_type_google_maps_hybrid
+```
+Google Maps (Hybrid)
+```
+translated (by machine 🤖) as:
+```
+Google Maps（Hybrid）
 ```

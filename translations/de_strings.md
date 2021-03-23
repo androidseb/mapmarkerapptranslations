@@ -4838,16 +4838,6 @@ Suchquelle
 ```
 
 
-## Translation Key: search_source_ntim
-```
-Map Marker's Nominatim server
-```
-translated (by machine 🤖) as:
-```
-Map Marker's Nominatim-Server
-```
-
-
 ## Translation Key: search_source_gps
 ```
 Google Places Search API
@@ -4913,16 +4903,6 @@ Besonderer Dank geht an die Leute, die hart gearbeitet haben, um bei den App-Üb
 … Und auch diejenigen, die die Erwähnung ablehnten
 
 Danke auch an alle Benutzer, die mir im Laufe der Jahre Feedback gegeben haben und mir dabei geholfen haben, die App besser zu machen.
-```
-
-
-## Translation Key: search_source_pelias
-```
-Map Marker's Pelias server
-```
-translated (by machine 🤖) as:
-```
-Map Markers Pelias-Server
 ```
 
 
@@ -5823,4 +5803,54 @@ translated (by machine 🤖) as:
 ```
 Google-Authentifizierungsfehler:
 %s
+```
+
+
+## Translation Key: map_type_google_maps_plan
+```
+Google Maps (Plan)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (Plan)
+```
+
+
+## Translation Key: map_type_google_maps_plan_idm
+```
+Google Maps (Plan + Indoor)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (Plan + Indoor)
+```
+
+
+## Translation Key: map_type_google_maps_satellite
+```
+Google Maps (Satellite)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (Satellit)
+```
+
+
+## Translation Key: map_type_google_maps_terrain
+```
+Google Maps (Terrain)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (Gelände)
+```
+
+
+## Translation Key: map_type_google_maps_hybrid
+```
+Google Maps (Hybrid)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (Hybrid)
 ```

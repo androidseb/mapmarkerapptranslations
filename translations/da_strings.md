@@ -4845,16 +4845,6 @@ Søg kilde
 ```
 
 
-## Translation Key: search_source_ntim
-```
-Map Marker's Nominatim server
-```
-translated (by machine 🤖) as:
-```
-Map Marker's Nominatim-server
-```
-
-
 ## Translation Key: search_source_gps
 ```
 Google Places Search API
@@ -4920,16 +4910,6 @@ Særlig tak til de mennesker, der har arbejdet hårdt for at hjælpe med appover
 ... Og også dem, der nægtede at nævne
 
 Også tak til alle brugere, der gav mig feedback gennem årene og løbende hjalp mig med at gøre appen bedre.
-```
-
-
-## Translation Key: search_source_pelias
-```
-Map Marker's Pelias server
-```
-translated (by machine 🤖) as:
-```
-Map Marker er Pelias server
 ```
 
 
@@ -5830,4 +5810,54 @@ translated (by machine 🤖) as:
 ```
 Google-godkendelsesfejl:
 %s
+```
+
+
+## Translation Key: map_type_google_maps_plan
+```
+Google Maps (Plan)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (Plan)
+```
+
+
+## Translation Key: map_type_google_maps_plan_idm
+```
+Google Maps (Plan + Indoor)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (Plan + indendørs)
+```
+
+
+## Translation Key: map_type_google_maps_satellite
+```
+Google Maps (Satellite)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (satellit)
+```
+
+
+## Translation Key: map_type_google_maps_terrain
+```
+Google Maps (Terrain)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (Terræn)
+```
+
+
+## Translation Key: map_type_google_maps_hybrid
+```
+Google Maps (Hybrid)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (hybrid)
 ```

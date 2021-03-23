@@ -4838,16 +4838,6 @@ Iskalni vir
 ```
 
 
-## Translation Key: search_source_ntim
-```
-Map Marker's Nominatim server
-```
-translated (by machine 🤖) as:
-```
-Strežnik Nominatim
-```
-
-
 ## Translation Key: search_source_gps
 ```
 Google Places Search API
@@ -4913,16 +4903,6 @@ Posebna zahvala osebam, ki so trdo delale, da bi pomagale pri prevajanju aplikac
 … In tudi tisti, ki so omenili
 
 Prav tako, hvala vsem uporabnikom, ki so mi v preteklih letih dali povratne informacije in mi neprestano pomagali izboljšati aplikacijo.
-```
-
-
-## Translation Key: search_source_pelias
-```
-Map Marker's Pelias server
-```
-translated (by machine 🤖) as:
-```
-Strežnik Pelias Map Marker
 ```
 
 
@@ -5823,4 +5803,54 @@ translated (by machine 🤖) as:
 ```
 Napaka pri preverjanju pristnosti Googla:
 %s
+```
+
+
+## Translation Key: map_type_google_maps_plan
+```
+Google Maps (Plan)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (načrt)
+```
+
+
+## Translation Key: map_type_google_maps_plan_idm
+```
+Google Maps (Plan + Indoor)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (načrt + notranji)
+```
+
+
+## Translation Key: map_type_google_maps_satellite
+```
+Google Maps (Satellite)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (satelit)
+```
+
+
+## Translation Key: map_type_google_maps_terrain
+```
+Google Maps (Terrain)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (teren)
+```
+
+
+## Translation Key: map_type_google_maps_hybrid
+```
+Google Maps (Hybrid)
+```
+translated (by machine 🤖) as:
+```
+Google Maps (hibridno)
 ```

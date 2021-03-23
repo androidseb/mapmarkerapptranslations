@@ -4841,16 +4841,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: search_source_ntim
-```
-Map Marker's Nominatim server
-```
-translated (by machine 🤖) as:
-```
-ម៉ាស៊ីនបម្រើឈ្មោះរបស់ Map Marker
-```
-
-
 ## Translation Key: search_source_gps
 ```
 Google Places Search API
@@ -4916,16 +4906,6 @@ translated (by machine 🤖) as:
 ... ហើយអ្នកដែលបដិសេធមិននិយាយ
 
 ដូចគ្នានេះផងដែរសូមអរគុណដល់អ្នកប្រើទាំងអស់ដែលផ្តល់ឱ្យខ្ញុំនូវមតិរិះគន់ជាច្រើនឆ្នាំមកហើយនិងបន្តជួយខ្ញុំធ្វើអោយកម្មវិធីកាន់តែប្រសើរឡើង។
-```
-
-
-## Translation Key: search_source_pelias
-```
-Map Marker's Pelias server
-```
-translated (by machine 🤖) as:
-```
-ម៉ាស៊ីនបម្រើ Pelias របស់ Map Marker
 ```
 
 
@@ -5826,4 +5806,54 @@ translated (by machine 🤖) as:
 ```
 កំហុសក្នុងការផ្ទៀងផ្ទាត់ Google៖
 %s
+```
+
+
+## Translation Key: map_type_google_maps_plan
+```
+Google Maps (Plan)
+```
+translated (by machine 🤖) as:
+```
+_២៤ (ផែនការ)
+```
+
+
+## Translation Key: map_type_google_maps_plan_idm
+```
+Google Maps (Plan + Indoor)
+```
+translated (by machine 🤖) as:
+```
+_២៤ (ផែនការ + ក្នុងផ្ទះ)
+```
+
+
+## Translation Key: map_type_google_maps_satellite
+```
+Google Maps (Satellite)
+```
+translated (by machine 🤖) as:
+```
+_២៤ (ផ្កាយរណប)
+```
+
+
+## Translation Key: map_type_google_maps_terrain
+```
+Google Maps (Terrain)
+```
+translated (by machine 🤖) as:
+```
+_២៤ (ដែនដី)
+```
+
+
+## Translation Key: map_type_google_maps_hybrid
+```
+Google Maps (Hybrid)
+```
+translated (by machine 🤖) as:
+```
+_២៤ (កូនកាត់)
 ```
