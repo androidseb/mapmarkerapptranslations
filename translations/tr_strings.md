@@ -5857,3 +5857,15 @@ translated (by machine 🤖) as:
 ```
 Google Maps (Karma)
 ```
+
+
+## Translation Key: last_sync_x
+```
+Last sync:
+%s
+```
+translated (by machine 🤖) as:
+```
+Son senkronizasyon:
+%s
+```

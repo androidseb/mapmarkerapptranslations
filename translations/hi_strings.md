@@ -5857,3 +5857,15 @@ translated (by machine 🤖) as:
 ```
 Google Maps (हाइब्रिड)
 ```
+
+
+## Translation Key: last_sync_x
+```
+Last sync:
+%s
+```
+translated (by machine 🤖) as:
+```
+अंतिम सिंक:
+%s
+```

@@ -5858,3 +5858,15 @@ translated (by machine 🤖) as:
 ```
 Google Maps（ハイブリッド）
 ```
+
+
+## Translation Key: last_sync_x
+```
+Last sync:
+%s
+```
+translated (by machine 🤖) as:
+```
+最終同期：
+%s
+```

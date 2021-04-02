@@ -5857,3 +5857,15 @@ translated (by machine 🤖) as:
 ```
 _២៤ (កូនកាត់)
 ```
+
+
+## Translation Key: last_sync_x
+```
+Last sync:
+%s
+```
+translated (by machine 🤖) as:
+```
+ធ្វើសមកាលកម្មចុងក្រោយ៖
+_៧
+```

@@ -5856,3 +5856,15 @@ translated (by machine 🤖) as:
 ```
 Google Maps (hibridinis)
 ```
+
+
+## Translation Key: last_sync_x
+```
+Last sync:
+%s
+```
+translated (by machine 🤖) as:
+```
+Paskutinis sinchronizavimas:
+%s
+```

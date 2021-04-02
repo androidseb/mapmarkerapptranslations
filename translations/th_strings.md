@@ -5858,3 +5858,15 @@ translated (by machine 🤖) as:
 ```
 Google Maps (ไฮบริด)
 ```
+
+
+## Translation Key: last_sync_x
+```
+Last sync:
+%s
+```
+translated (by machine 🤖) as:
+```
+ซิงค์ล่าสุด:
+%s
+```
