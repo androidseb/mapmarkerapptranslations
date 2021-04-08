@@ -79,7 +79,7 @@ Do you really want to delete this marker?
 ```
 translated (by machine 🤖) as:
 ```
-¿Realmente desea eliminar este marcador?
+¿Desea eliminar realmente este marcador?
 ```
 
 
