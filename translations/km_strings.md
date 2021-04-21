@@ -5867,5 +5867,15 @@ Last sync:
 translated (by machine 🤖) as:
 ```
 ធ្វើសមកាលកម្មចុងក្រោយ៖
-_៧
+%s
+```
+
+
+## Translation Key: download_all_images_on_sync
+```
+Download all images
+```
+translated (by machine 🤖) as:
+```
+ទាញយករូបភាពទាំងអស់
 ```

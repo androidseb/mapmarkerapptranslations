@@ -5869,3 +5869,13 @@ translated (by machine 🤖) as:
 上次同步：
 %s
 ```
+
+
+## Translation Key: download_all_images_on_sync
+```
+Download all images
+```
+translated (by machine 🤖) as:
+```
+下載所有圖片
+```

@@ -5869,3 +5869,13 @@ translated (by machine 🤖) as:
 Τελευταίος συγχρονισμός:
 %s
 ```
+
+
+## Translation Key: download_all_images_on_sync
+```
+Download all images
+```
+translated (by machine 🤖) as:
+```
+Λήψη όλων των εικόνων
+```

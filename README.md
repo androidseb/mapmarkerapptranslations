@@ -77,17 +77,17 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Latvian (0% human-translated)](./translations/lv_strings.md)
 
-[Lithuanian (70% human-translated)](./translations/lt_strings.md)
+[Lithuanian (69% human-translated)](./translations/lt_strings.md)
 
 [Norwegian (0% human-translated)](./translations/no_strings.md)
 
-[Polish (79% human-translated)](./translations/pl_strings.md)
+[Polish (78% human-translated)](./translations/pl_strings.md)
 
 [Portuguese (0% human-translated)](./translations/pt_strings.md)
 
 [Romanian (0% human-translated)](./translations/ro_strings.md)
 
-[Russian (79% human-translated)](./translations/ru_strings.md)
+[Russian (78% human-translated)](./translations/ru_strings.md)
 
 [Serbian (0% human-translated)](./translations/sr_strings.md)
 

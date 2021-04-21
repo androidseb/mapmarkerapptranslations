@@ -5870,3 +5870,13 @@ translated (by machine 🤖) as:
 ซิงค์ล่าสุด:
 %s
 ```
+
+
+## Translation Key: download_all_images_on_sync
+```
+Download all images
+```
+translated (by machine 🤖) as:
+```
+ดาวน์โหลดภาพทั้งหมด
+```

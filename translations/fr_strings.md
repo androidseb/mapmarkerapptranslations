@@ -5869,3 +5869,13 @@ translated (by human 👀) as:
 Dernière synchronisation:
 %s
 ```
+
+
+## Translation Key: download_all_images_on_sync
+```
+Download all images
+```
+translated (by human 👀) as:
+```
+Télécharger toutes les images
+```

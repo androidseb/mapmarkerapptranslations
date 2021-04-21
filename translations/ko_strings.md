@@ -5869,3 +5869,13 @@ translated (by machine 🤖) as:
 마지막 동기화 :
 %s
 ```
+
+
+## Translation Key: download_all_images_on_sync
+```
+Download all images
+```
+translated (by machine 🤖) as:
+```
+모든 이미지 다운로드
+```

@@ -5869,3 +5869,13 @@ translated (by machine 🤖) as:
 Poslední synchronizace:
 %s
 ```
+
+
+## Translation Key: download_all_images_on_sync
+```
+Download all images
+```
+translated (by machine 🤖) as:
+```
+Stáhněte si všechny obrázky
+```
