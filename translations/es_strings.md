@@ -99,7 +99,7 @@ Could not copy coordinates to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-No se pudo copiar las coordenadas al portapapeles
+No se pudieron copiar las coordenadas al portapapeles
 ```
 
 
@@ -119,7 +119,7 @@ Failed to access application save directory. Make sure that your device is not b
 ```
 translated (by machine 🤖) as:
 ```
-No se ha podido acceder a la aplicación de ahorro de directorio. Asegúrese de que su dispositivo no está accediendo a un ordenador con el cable USB y reinicie la aplicación.
+Error de acceso al directorio de la aplicación. Asegúrese de que su dispositivo no esté conectado a un ordenador vía USB y reinicie la aplicación.
 ```
 
 
@@ -129,7 +129,7 @@ Untitled
 ```
 translated (by machine 🤖) as:
 ```
-Intitulado
+Sin título
 ```
 
 
@@ -169,7 +169,7 @@ Are you sure you want to delete this folder? All markers associated to this fold
 ```
 translated (by machine 🤖) as:
 ```
-¿Seguro que quieres eliminar esta carpeta? Todos los marcadores asociados a esta carpeta se eliminarán permanentemente!
+¿Está seguro que quiere eliminar esta carpeta? Todos los marcadores asociados a esta carpeta se eliminarán permanentemente!
 ```
 
 
@@ -189,7 +189,7 @@ Failed to rename the folder, the destination name already exists
 ```
 translated (by machine 🤖) as:
 ```
-Error al cambiar el nombre de la carpeta, ya existe el nombre del destino
+Error al renombrar la carpeta, ya existe una carpeta con ese nombre
 ```
 
 
@@ -219,7 +219,7 @@ Could not write file.
 ```
 translated (by machine 🤖) as:
 ```
-No se pudo escribir el archivo.
+No se pudo guardar el archivo.
 ```
 
 
@@ -229,7 +229,7 @@ Import/Export
 ```
 translated (by machine 🤖) as:
 ```
-Importación Y Exportación
+Importar/Exportar
 ```
 
 
@@ -239,7 +239,7 @@ Import markers
 ```
 translated (by machine 🤖) as:
 ```
-Marcadores de importación
+Importar marcadores
 ```
 
 
@@ -259,7 +259,7 @@ File import failed
 ```
 translated (by machine 🤖) as:
 ```
-Importación de archivos no
+Error al importar el archivo
 ```
 
 
@@ -269,7 +269,7 @@ Location services
 ```
 translated (by machine 🤖) as:
 ```
-Servicios de localización
+Servicios de ubicación
 ```
 
 
@@ -279,7 +279,7 @@ Location services are disabled. To get your current location you must enable the
 ```
 translated (by machine 🤖) as:
 ```
-Los servicios de localización están desactivados. Para obtener su ubicación actual debe habilitar ellos.
+Los servicios de ubicación están desactivados. Activelos para poder obtener su ubicación.
 ```
 
 
@@ -309,7 +309,7 @@ Search
 ```
 translated (by machine 🤖) as:
 ```
-Búsqueda
+Buscar
 ```
 
 
@@ -329,7 +329,7 @@ Do you want to import the content of this file?
 ```
 translated (by machine 🤖) as:
 ```
-¿Quieres importar el contenido de este archivo?
+¿Quiere importar el contenido de este archivo?
 ```
 
 
@@ -359,7 +359,7 @@ Close
 ```
 translated (by machine 🤖) as:
 ```
-Cerca
+Cerrar
 ```
 
 
@@ -369,7 +369,7 @@ Are you sure you want to delete the selected markers?
 ```
 translated (by machine 🤖) as:
 ```
-¿Seguro que quieres eliminar los marcadores seleccionados?
+¿Desea eliminar los marcadores seleccionados?
 ```
 
 
@@ -379,7 +379,7 @@ Move markers to folder
 ```
 translated (by machine 🤖) as:
 ```
-Desplazamiento de marcadores a la carpeta
+Mover de marcadores a carpeta
 ```
 
 
@@ -389,7 +389,7 @@ Share
 ```
 translated (by machine 🤖) as:
 ```
-Cuota
+Compartir
 ```
 
 
@@ -409,7 +409,7 @@ Snapshot of my markers on Map Marker
 ```
 translated (by machine 🤖) as:
 ```
-Instantánea de mis marcadores en Map Marker
+Captura de "mis marcadores" en Map Marker
 ```
 
 
@@ -420,7 +420,7 @@ This snapshot was made with the app Map Marker:
 ```
 translated (by machine 🤖) as:
 ```
-Esta instantánea se hizo con la aplicación Map Marker : 
+Esta captura fue realizada con la aplicación Map Marker: 
  %s
 ```
 
@@ -431,7 +431,7 @@ Processing data&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-Procesamiento de datos&#8230;
+Procesando datos&#8230;
 ```
 
 
@@ -441,7 +441,7 @@ You have unsaved modifications, do you want to save them?
 ```
 translated (by machine 🤖) as:
 ```
-Usted tiene modificaciones que no haya guardado, ¿quieres salvarlos?
+Se han realizado cambios sin guardar, ¿quieres guardarlos?
 ```
 
 
@@ -512,8 +512,8 @@ Send me an email :-)
 ```
 translated (by machine 🤖) as:
 ```
-Ha encontrado un problema? ¿Tienes una idea de mejora? 
- mándame un email :-)
+¿Ha encontrado un problema? ¿Tiene una propuesta de mejora? 
+ Envíeme un email :-)
 ```
 
 
@@ -534,8 +534,8 @@ Rate it 5 stars :-)
 ```
 translated (by machine 🤖) as:
 ```
-Si te gusta la aplicación? 
- Rate it 5 estrellas :-)
+¿Te gusta la aplicación? 
+ Dale 5 estrellas :-)
 ```
 
 
@@ -545,7 +545,7 @@ Change folder to&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-Cambiar carpeta para&#8230;
+Cambiar carpeta a&#8230;
 ```
 
 
@@ -555,7 +555,7 @@ Directions
 ```
 translated (by machine 🤖) as:
 ```
-Instrucciones
+Indicaciones
 ```
 
 
@@ -565,7 +565,7 @@ Acquiring location&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-La adquisición de ubicación&#8230;
+Obteniendo ubicación&#8230;
 ```
 
 
@@ -605,7 +605,7 @@ Miles
 ```
 translated (by machine 🤖) as:
 ```
-Miles
+Millas
 ```
 
 
