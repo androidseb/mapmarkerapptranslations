@@ -625,7 +625,7 @@ Keep screen on when guiding to a marker location
 ```
 translated (by machine 🤖) as:
 ```
-Mantenga la pantalla de la hora de orientar a un marcador de ubicación
+Mantener la pantalla encendida mientras se siguen instrucciones de navegación
 ```
 
 
@@ -635,7 +635,7 @@ Marker details copied to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-Detalles marcadores copiados al portapapeles
+Detalles del marcador copiados al portapapeles
 ```
 
 
@@ -675,7 +675,7 @@ Could not create the map capture
 ```
 translated (by machine 🤖) as:
 ```
-No se pudo crear el mapa de captura
+No se pudo crear la captura del mapa
 ```
 
 
@@ -685,7 +685,7 @@ Metric (Kilometers/Meters)
 ```
 translated (by machine 🤖) as:
 ```
-Métricas (kilómetros / Metros)
+Métrica (kilómetros / Metros)
 ```
 
 
@@ -705,7 +705,7 @@ There is a problem with Google Play Services: it needs to be installed, updated 
 ```
 translated (by machine 🤖) as:
 ```
-Hay un problema con Google Play Services : necesita ser instalado, actualizado o activado. Haga clic en Aceptar para tratar de resolverlo.
+Hay un problema con Google Play Services (es necesario instalar, actualizar o activar). Haga clic en Aceptar para tratar de resolver el problema.
 ```
 
 
@@ -725,7 +725,7 @@ If you like my app you can reward me by taking the time to give a good rating :-
 ```
 translated (by machine 🤖) as:
 ```
-Si te gusta mi aplicación me puede premiar por tomarse el tiempo para dar un buen historial de :-)
+Si le gusta mi aplicación, la mejor forma de apoyarme es dejar una buena valoración :-)
 ```
 
 
@@ -737,7 +737,7 @@ to the Play Store
 translated (by machine 🤖) as:
 ```
 Aceptar llevarme 
- al Play Store
+ en la Play Store
 ```
 
 
@@ -748,8 +748,8 @@ gave a rating
 ```
 translated (by machine 🤖) as:
 ```
-Ya 
- dio una clasificación
+Ya dejó
+una valoración
 ```
 
 
@@ -760,8 +760,8 @@ remind me
 ```
 translated (by machine 🤖) as:
 ```
-Quizás posteriores 
- me recuerdan
+Tal vez más tarde 
+Recordarmelo
 ```
 
 
@@ -773,7 +773,7 @@ do not remind me
 translated (by machine 🤖) as:
 ```
 Tal vez más tarde 
- no me recuerdan
+No recordarmelo
 ```
 
 
@@ -803,7 +803,7 @@ Move the map around to place your marker where you want and click OK to place it
 ```
 translated (by machine 🤖) as:
 ```
-Mover el mapa alrededor de depositar su marcador en la que desea y haga clic en Aceptar para colocarla
+Mueva el mapa para colocar su marcador y pulse OK para fijarlo.
 ```
 
 
@@ -813,7 +813,7 @@ Imported marker
 ```
 translated (by machine 🤖) as:
 ```
-Marcador Importado
+Marcador importado
 ```
 
 
@@ -833,7 +833,7 @@ Display zoom buttons
 ```
 translated (by machine 🤖) as:
 ```
-Botones de visualización de zoom
+Botones de zoom
 ```
 
 
@@ -873,7 +873,7 @@ Coordinates format
 ```
 translated (by machine 🤖) as:
 ```
-Formato de Coordenadas
+Formato de coordenadas
 ```
 
 
@@ -883,7 +883,7 @@ GPS and wireless networks only
 ```
 translated (by machine 🤖) as:
 ```
-Sólo redes GPS y móviles
+Sólo GPS y redes móviles
 ```
 
 
@@ -893,7 +893,7 @@ GPS and wireless networks or magnetic sensor
 ```
 translated (by machine 🤖) as:
 ```
-Redes GPS y celulares o sensor magnético
+GPS y redes moviles o sensor magnético
 ```
 
 
