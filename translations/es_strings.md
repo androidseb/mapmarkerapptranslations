@@ -903,7 +903,7 @@ Magnetic sensor only
 ```
 translated (by machine 🤖) as:
 ```
-Único sensor magnético
+Solo sensor magnético
 ```
 
 
@@ -913,7 +913,7 @@ Used compass sensor
 ```
 translated (by machine 🤖) as:
 ```
-Sensor de la brújula usados
+Sensor de brújula usado
 ```
 
 
@@ -963,7 +963,7 @@ Marker popup style
 ```
 translated (by machine 🤖) as:
 ```
-Estilo emergente Marcador
+Estilo de marcador
 ```
 
 
@@ -1023,7 +1023,7 @@ Crosshair display
 ```
 translated (by machine 🤖) as:
 ```
-Pantalla Punto de mira
+Punto de mira
 ```
 
 
@@ -1033,7 +1033,7 @@ Coordinates window
 ```
 translated (by machine 🤖) as:
 ```
-Ventana de Coordenadas
+Ventana de coordenadas
 ```
 
 
