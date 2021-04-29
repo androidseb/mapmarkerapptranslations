@@ -79,7 +79,7 @@ Do you really want to delete this marker?
 ```
 translated (by machine 🤖) as:
 ```
-¿Realmente desea eliminar este marcador?
+¿Desea eliminar realmente este marcador?
 ```
 
 
@@ -99,7 +99,7 @@ Could not copy coordinates to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-No se pudo copiar las coordenadas al portapapeles
+No se pudieron copiar las coordenadas al portapapeles
 ```
 
 
@@ -119,7 +119,7 @@ Failed to access application save directory. Make sure that your device is not b
 ```
 translated (by machine 🤖) as:
 ```
-No se ha podido acceder a la aplicación de ahorro de directorio. Asegúrese de que su dispositivo no está accediendo a un ordenador con el cable USB y reinicie la aplicación.
+Error de acceso al directorio de la aplicación. Asegúrese de que su dispositivo no esté conectado a un ordenador vía USB y reinicie la aplicación.
 ```
 
 
@@ -129,7 +129,7 @@ Untitled
 ```
 translated (by machine 🤖) as:
 ```
-Intitulado
+Sin título
 ```
 
 
@@ -169,7 +169,7 @@ Are you sure you want to delete this folder? All markers associated to this fold
 ```
 translated (by machine 🤖) as:
 ```
-¿Seguro que quieres eliminar esta carpeta? Todos los marcadores asociados a esta carpeta se eliminarán permanentemente!
+¿Está seguro que quiere eliminar esta carpeta? Todos los marcadores asociados a esta carpeta se eliminarán permanentemente!
 ```
 
 
@@ -189,7 +189,7 @@ Failed to rename the folder, the destination name already exists
 ```
 translated (by machine 🤖) as:
 ```
-Error al cambiar el nombre de la carpeta, ya existe el nombre del destino
+Error al renombrar la carpeta, ya existe una carpeta con ese nombre
 ```
 
 
@@ -219,7 +219,7 @@ Could not write file.
 ```
 translated (by machine 🤖) as:
 ```
-No se pudo escribir el archivo.
+No se pudo guardar el archivo.
 ```
 
 
@@ -229,7 +229,7 @@ Import/Export
 ```
 translated (by machine 🤖) as:
 ```
-Importación Y Exportación
+Importar/Exportar
 ```
 
 
@@ -239,7 +239,7 @@ Import markers
 ```
 translated (by machine 🤖) as:
 ```
-Marcadores de importación
+Importar marcadores
 ```
 
 
@@ -259,7 +259,7 @@ File import failed
 ```
 translated (by machine 🤖) as:
 ```
-Importación de archivos no
+Error al importar el archivo
 ```
 
 
@@ -269,7 +269,7 @@ Location services
 ```
 translated (by machine 🤖) as:
 ```
-Servicios de localización
+Servicios de ubicación
 ```
 
 
@@ -279,7 +279,7 @@ Location services are disabled. To get your current location you must enable the
 ```
 translated (by machine 🤖) as:
 ```
-Los servicios de localización están desactivados. Para obtener su ubicación actual debe habilitar ellos.
+Los servicios de ubicación están desactivados. Activelos para poder obtener su ubicación.
 ```
 
 
@@ -309,7 +309,7 @@ Search
 ```
 translated (by machine 🤖) as:
 ```
-Búsqueda
+Buscar
 ```
 
 
@@ -329,7 +329,7 @@ Do you want to import the content of this file?
 ```
 translated (by machine 🤖) as:
 ```
-¿Quieres importar el contenido de este archivo?
+¿Quiere importar el contenido de este archivo?
 ```
 
 
@@ -359,7 +359,7 @@ Close
 ```
 translated (by machine 🤖) as:
 ```
-Cerca
+Cerrar
 ```
 
 
@@ -369,7 +369,7 @@ Are you sure you want to delete the selected markers?
 ```
 translated (by machine 🤖) as:
 ```
-¿Seguro que quieres eliminar los marcadores seleccionados?
+¿Desea eliminar los marcadores seleccionados?
 ```
 
 
@@ -379,7 +379,7 @@ Move markers to folder
 ```
 translated (by machine 🤖) as:
 ```
-Desplazamiento de marcadores a la carpeta
+Mover de marcadores a carpeta
 ```
 
 
@@ -389,7 +389,7 @@ Share
 ```
 translated (by machine 🤖) as:
 ```
-Cuota
+Compartir
 ```
 
 
@@ -409,7 +409,7 @@ Snapshot of my markers on Map Marker
 ```
 translated (by machine 🤖) as:
 ```
-Instantánea de mis marcadores en Map Marker
+Captura de "mis marcadores" en Map Marker
 ```
 
 
@@ -420,7 +420,7 @@ This snapshot was made with the app Map Marker:
 ```
 translated (by machine 🤖) as:
 ```
-Esta instantánea se hizo con la aplicación Map Marker : 
+Esta captura fue realizada con la aplicación Map Marker: 
  %s
 ```
 
@@ -431,7 +431,7 @@ Processing data&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-Procesamiento de datos&#8230;
+Procesando datos&#8230;
 ```
 
 
@@ -441,7 +441,7 @@ You have unsaved modifications, do you want to save them?
 ```
 translated (by machine 🤖) as:
 ```
-Usted tiene modificaciones que no haya guardado, ¿quieres salvarlos?
+Se han realizado cambios sin guardar, ¿quieres guardarlos?
 ```
 
 
@@ -512,8 +512,8 @@ Send me an email :-)
 ```
 translated (by machine 🤖) as:
 ```
-Ha encontrado un problema? ¿Tienes una idea de mejora? 
- mándame un email :-)
+¿Ha encontrado un problema? ¿Tiene una propuesta de mejora? 
+ Envíeme un email :-)
 ```
 
 
@@ -534,8 +534,8 @@ Rate it 5 stars :-)
 ```
 translated (by machine 🤖) as:
 ```
-Si te gusta la aplicación? 
- Rate it 5 estrellas :-)
+¿Te gusta la aplicación? 
+ Dale 5 estrellas :-)
 ```
 
 
@@ -545,7 +545,7 @@ Change folder to&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-Cambiar carpeta para&#8230;
+Cambiar carpeta a&#8230;
 ```
 
 
@@ -555,7 +555,7 @@ Directions
 ```
 translated (by machine 🤖) as:
 ```
-Instrucciones
+Indicaciones
 ```
 
 
@@ -565,7 +565,7 @@ Acquiring location&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-La adquisición de ubicación&#8230;
+Obteniendo ubicación&#8230;
 ```
 
 
@@ -605,7 +605,7 @@ Miles
 ```
 translated (by machine 🤖) as:
 ```
-Miles
+Millas
 ```
 
 
@@ -625,7 +625,7 @@ Keep screen on when guiding to a marker location
 ```
 translated (by machine 🤖) as:
 ```
-Mantenga la pantalla de la hora de orientar a un marcador de ubicación
+Mantener la pantalla encendida mientras se siguen instrucciones de navegación
 ```
 
 
@@ -635,7 +635,7 @@ Marker details copied to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-Detalles marcadores copiados al portapapeles
+Detalles del marcador copiados al portapapeles
 ```
 
 
@@ -675,7 +675,7 @@ Could not create the map capture
 ```
 translated (by machine 🤖) as:
 ```
-No se pudo crear el mapa de captura
+No se pudo crear la captura del mapa
 ```
 
 
@@ -685,7 +685,7 @@ Metric (Kilometers/Meters)
 ```
 translated (by machine 🤖) as:
 ```
-Métricas (kilómetros / Metros)
+Métrica (kilómetros / Metros)
 ```
 
 
@@ -705,7 +705,7 @@ There is a problem with Google Play Services: it needs to be installed, updated 
 ```
 translated (by machine 🤖) as:
 ```
-Hay un problema con Google Play Services : necesita ser instalado, actualizado o activado. Haga clic en Aceptar para tratar de resolverlo.
+Hay un problema con Google Play Services (es necesario instalar, actualizar o activar). Haga clic en Aceptar para tratar de resolver el problema.
 ```
 
 
@@ -725,7 +725,7 @@ If you like my app you can reward me by taking the time to give a good rating :-
 ```
 translated (by machine 🤖) as:
 ```
-Si te gusta mi aplicación me puede premiar por tomarse el tiempo para dar un buen historial de :-)
+Si le gusta mi aplicación, la mejor forma de apoyarme es dejar una buena valoración :-)
 ```
 
 
@@ -737,7 +737,7 @@ to the Play Store
 translated (by machine 🤖) as:
 ```
 Aceptar llevarme 
- al Play Store
+ en la Play Store
 ```
 
 
@@ -748,8 +748,8 @@ gave a rating
 ```
 translated (by machine 🤖) as:
 ```
-Ya 
- dio una clasificación
+Ya dejó
+una valoración
 ```
 
 
@@ -760,8 +760,8 @@ remind me
 ```
 translated (by machine 🤖) as:
 ```
-Quizás posteriores 
- me recuerdan
+Tal vez más tarde 
+Recordarmelo
 ```
 
 
@@ -773,7 +773,7 @@ do not remind me
 translated (by machine 🤖) as:
 ```
 Tal vez más tarde 
- no me recuerdan
+No recordarmelo
 ```
 
 
@@ -803,7 +803,7 @@ Move the map around to place your marker where you want and click OK to place it
 ```
 translated (by machine 🤖) as:
 ```
-Mover el mapa alrededor de depositar su marcador en la que desea y haga clic en Aceptar para colocarla
+Mueva el mapa para colocar su marcador y pulse OK para fijarlo.
 ```
 
 
@@ -813,7 +813,7 @@ Imported marker
 ```
 translated (by machine 🤖) as:
 ```
-Marcador Importado
+Marcador importado
 ```
 
 
@@ -833,7 +833,7 @@ Display zoom buttons
 ```
 translated (by machine 🤖) as:
 ```
-Botones de visualización de zoom
+Botones de zoom
 ```
 
 
@@ -873,7 +873,7 @@ Coordinates format
 ```
 translated (by machine 🤖) as:
 ```
-Formato de Coordenadas
+Formato de coordenadas
 ```
 
 
@@ -883,7 +883,7 @@ GPS and wireless networks only
 ```
 translated (by machine 🤖) as:
 ```
-Sólo redes GPS y móviles
+Sólo GPS y redes móviles
 ```
 
 
@@ -893,7 +893,7 @@ GPS and wireless networks or magnetic sensor
 ```
 translated (by machine 🤖) as:
 ```
-Redes GPS y celulares o sensor magnético
+GPS y redes moviles o sensor magnético
 ```
 
 
@@ -903,7 +903,7 @@ Magnetic sensor only
 ```
 translated (by machine 🤖) as:
 ```
-Único sensor magnético
+Solo sensor magnético
 ```
 
 
@@ -913,7 +913,7 @@ Used compass sensor
 ```
 translated (by machine 🤖) as:
 ```
-Sensor de la brújula usados
+Sensor de brújula usado
 ```
 
 
@@ -963,7 +963,7 @@ Marker popup style
 ```
 translated (by machine 🤖) as:
 ```
-Estilo emergente Marcador
+Estilo de marcador
 ```
 
 
@@ -1023,7 +1023,7 @@ Crosshair display
 ```
 translated (by machine 🤖) as:
 ```
-Pantalla Punto de mira
+Punto de mira
 ```
 
 
@@ -1033,7 +1033,7 @@ Coordinates window
 ```
 translated (by machine 🤖) as:
 ```
-Ventana de Coordenadas
+Ventana de coordenadas
 ```
 
 
