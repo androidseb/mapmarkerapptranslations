@@ -2969,7 +2969,7 @@ Sincronizar a partir de %d segundos
 
 ## Translation Key: syncing_hint_text
 ```
-You can cancel the sync at any time and your data will be synced on next attempt.
+You can cancel the sync at any time and your data will be synced on the next attempt.
 ```
 translated (by machine 🤖) as:
 ```
