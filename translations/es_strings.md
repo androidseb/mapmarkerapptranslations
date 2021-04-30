@@ -7,7 +7,7 @@ You want to help improve this translation file? Read the [main page](https://git
 ```
 OK
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 OK
 ```
@@ -17,7 +17,7 @@ OK
 ```
 Yes
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Sí
 ```
@@ -27,7 +27,7 @@ Sí
 ```
 No
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 No
 ```
@@ -37,7 +37,7 @@ No
 ```
 Cancel
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Cancelar
 ```
@@ -47,7 +47,7 @@ Cancelar
 ```
 New marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Nuevo marcador
 ```
@@ -57,7 +57,7 @@ Nuevo marcador
 ```
 Title
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Título
 ```
@@ -67,7 +67,7 @@ Título
 ```
 Description
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Descripción
 ```
@@ -87,7 +87,7 @@ translated (by human 👀) as:
 ```
 GPS coordinates
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Coordenadas GPS
 ```
@@ -107,7 +107,7 @@ No se pudieron copiar las coordenadas al portapapeles
 ```
 Coordinates copied to clipboard
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Coordina copiado al portapapeles
 ```
@@ -137,7 +137,7 @@ Sin título
 ```
 All
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Todos
 ```
@@ -147,7 +147,7 @@ Todos
 ```
 Add folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Añadir carpeta
 ```
@@ -157,7 +157,7 @@ Añadir carpeta
 ```
 Modify folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Modificar carpeta
 ```
@@ -177,7 +177,7 @@ translated (by human 👀) as:
 ```
 Failed to create new folder, it already exists
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Error al crear nueva carpeta, ya existe
 ```
@@ -197,7 +197,7 @@ Error al renombrar la carpeta, ya existe una carpeta con ese nombre
 ```
 Latitude:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Latitud:
 ```
@@ -207,7 +207,7 @@ Latitud:
 ```
 Longitude:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Longitud:
 ```
@@ -247,7 +247,7 @@ Importar marcadores
 ```
 File imported successfully
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Archivo importado correctamente
 ```
@@ -287,7 +287,7 @@ Los servicios de ubicación están desactivados. Activelos para poder obtener su
 ```
 Could not find address
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 No se pudo encontrar la dirección
 ```
@@ -297,7 +297,7 @@ No se pudo encontrar la dirección
 ```
 Searching&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Buscando&#8230;
 ```
@@ -317,7 +317,7 @@ Buscar
 ```
 Share via
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Compartir vía
 ```
@@ -337,7 +337,7 @@ translated (by human 👀) as:
 ```
 Folder name
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Nombre de la carpeta
 ```
@@ -347,7 +347,7 @@ Nombre de la carpeta
 ```
 Save
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Guardar
 ```
@@ -397,7 +397,7 @@ Compartir
 ```
 Folder:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Carpeta:
 ```
@@ -449,7 +449,7 @@ Se han realizado cambios sin guardar, ¿quieres guardarlos?
 ```
 Use the long press on the map to create a new marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Utilice la presión prolongada en el mapa para crear un nuevo marcador
 ```
@@ -459,7 +459,7 @@ Utilice la presión prolongada en el mapa para crear un nuevo marcador
 ```
 Map type
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Tipo de mapa
 ```
@@ -469,7 +469,7 @@ Tipo de mapa
 ```
 Normal
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Normal
 ```
@@ -479,7 +479,7 @@ Normal
 ```
 Satellite
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Satélite
 ```
@@ -489,7 +489,7 @@ Satélite
 ```
 Terrain
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Terreno
 ```
@@ -499,7 +499,7 @@ Terreno
 ```
 Hybrid
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Híbrido
 ```
@@ -521,7 +521,7 @@ translated (by human 👀) as:
 ```
 Send email&#8230;
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Enviar email&#8230;
 ```
@@ -573,7 +573,7 @@ Obteniendo ubicación&#8230;
 ```
 Meters
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Metros
 ```
@@ -583,7 +583,7 @@ Metros
 ```
 Km
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Km
 ```
@@ -593,7 +593,7 @@ Km
 ```
 Feet
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Pies
 ```
@@ -613,7 +613,7 @@ Millas
 ```
 Adjust map camera position when guiding to a marker location
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ajuste la posición del mapa cámara cuando se guía a un marcador de ubicación
 ```
@@ -643,7 +643,7 @@ Detalles del marcador copiados al portapapeles
 ```
 Long press to drag and move the marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Mantenga pulsado para arrastrar y mover el marcador
 ```
@@ -653,7 +653,7 @@ Mantenga pulsado para arrastrar y mover el marcador
 ```
 Error starting internal task manager, app will now exit
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Error al iniciar el administrador de tareas interno, la aplicación se cerrará ahora
 ```
@@ -663,7 +663,7 @@ Error al iniciar el administrador de tareas interno, la aplicación se cerrará 
 ```
 Do not show again
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 No mostrar de nuevo
 ```
@@ -693,7 +693,7 @@ Métrica (kilómetros / Metros)
 ```
 Imperial (Miles/Feet)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Imperial (Millas / Pies)
 ```
@@ -713,7 +713,7 @@ Hay un problema con Google Play Services (es necesario instalar, actualizar o ac
 ```
 Delete folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Eliminar carpeta
 ```
@@ -781,7 +781,7 @@ No recordarmelo
 ```
 Could not find the place
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 No se pudo encontrar el lugar
 ```
@@ -791,7 +791,7 @@ No se pudo encontrar el lugar
 ```
 Could not find another map application
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 No se pudo encontrar otra aplicación de mapas
 ```
@@ -821,7 +821,7 @@ Marcador importado
 ```
 Settings
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ajustes
 ```
@@ -841,7 +841,7 @@ Botones de zoom
 ```
 Decimal degrees
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Grados decimales
 ```
@@ -851,7 +851,7 @@ Grados decimales
 ```
 Degrees decimal minutes
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Grados minutos decimales
 ```
@@ -861,7 +861,7 @@ Grados minutos decimales
 ```
 Degrees minutes seconds
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Grados minutos segundos
 ```
@@ -921,7 +921,7 @@ Sensor de brújula usado
 ```
 FAQ/Help
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 FAQ / Ayuda
 ```
@@ -931,7 +931,7 @@ FAQ / Ayuda
 ```
 Folders
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Carpetas
 ```
@@ -941,7 +941,7 @@ Carpetas
 ```
 Help and settings
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ayuda y ajustes
 ```
@@ -951,7 +951,7 @@ Ayuda y ajustes
 ```
 Language
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Idioma
 ```
@@ -971,7 +971,7 @@ Estilo de marcador
 ```
 Bottom
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Fondo
 ```
@@ -981,7 +981,7 @@ Fondo
 ```
 Bubble
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Burbuja
 ```
@@ -991,7 +991,7 @@ Burbuja
 ```
 Coordinates
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Coordenadas
 ```
@@ -1001,7 +1001,7 @@ Coordenadas
 ```
 Contextual
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Contextual
 ```
@@ -1011,7 +1011,7 @@ Contextual
 ```
 Always
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Siempre
 ```
