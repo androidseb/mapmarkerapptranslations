@@ -3955,6 +3955,16 @@ Selain menghapus iklan, upgrade premium membuka fitur premium eksklusif berikut:
 ```
 
 
+## Translation Key: google_md
+```
+Google Material Icons
+```
+translated (by machine 🤖) as:
+```
+Google Material Icons
+```
+
+
 ## Translation Key: marker_created_from_qr_code_geo_location
 ```
 Marker created from the geo location of the QR code

@@ -3955,6 +3955,16 @@ En plus de supprimer les publicités, la mise à niveau premium débloque les fo
 ```
 
 
+## Translation Key: google_md
+```
+Google Material Icons
+```
+translated (by machine 🤖) as:
+```
+Google Material Icons
+```
+
+
 ## Translation Key: marker_created_from_qr_code_geo_location
 ```
 Marker created from the geo location of the QR code

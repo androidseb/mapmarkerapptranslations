@@ -51,7 +51,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Danish (29% human-translated)](./translations/da_strings.md)
 
-[Dutch (95% human-translated)](./translations/nl_strings.md)
+[Dutch (94% human-translated)](./translations/nl_strings.md)
 
 [Finnish (0% human-translated)](./translations/fi_strings.md)
 
