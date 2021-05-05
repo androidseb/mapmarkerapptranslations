@@ -19,7 +19,7 @@ Yes
 ```
 translated (by machine 🤖) as:
 ```
-Iya Nih
+Iya
 ```
 
 
