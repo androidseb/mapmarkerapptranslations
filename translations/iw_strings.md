@@ -1469,26 +1469,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: purchase_success_toast_message
-```
-Purchase successful!
-```
-translated (by machine 🤖) as:
-```
-רכישה מוצלחת!
-```
-
-
-## Translation Key: purchase_fail_toast_message
-```
-Purchase failed: %1$s
-```
-translated (by machine 🤖) as:
-```
-רכישה %1$s
-```
-
-
 ## Translation Key: premium_access_unlocked_message
 ```
 Premium access available! You currently have access to premium features.
@@ -1809,26 +1789,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: test_internal_file_write
-```
-Test file writing
-```
-translated (by machine 🤖) as:
-```
-כתיבת קובץ בדיקה
-```
-
-
-## Translation Key: test_internal_file_write_description
-```
-Checks that the app can save files on the internal SD card
-```
-translated (by machine 🤖) as:
-```
-בודק שהאפליקציה יכולה לשמור קבצים על כרטיס SD הפנימי
-```
-
-
 ## Translation Key: open_google_play_services_details
 ```
 GP Services (app)
@@ -1926,36 +1886,6 @@ Network test failed
 translated (by machine 🤖) as:
 ```
 בדיקת רשת נכשלה
-```
-
-
-## Translation Key: disk_test_failed_internal
-```
-Disk test failed: could not write to internal storage
-```
-translated (by machine 🤖) as:
-```
-בדיקת דיסק נכשלה: לא יכול לכתוב לאחסון פנימי
-```
-
-
-## Translation Key: disk_test_failed_external
-```
-Disk test failed: could not write to external storage
-```
-translated (by machine 🤖) as:
-```
-בדיקת דיסק נכשלה: לא יכול לכתוב לאחסון חיצוני
-```
-
-
-## Translation Key: disk_test_succeeded
-```
-Disk test succeeded
-```
-translated (by machine 🤖) as:
-```
-בדיקת דיסק הצליחה
 ```
 
 
@@ -5888,4 +5818,66 @@ Download all images
 translated (by machine 🤖) as:
 ```
 הורד את כל התמונות
+```
+
+
+## Translation Key: add_offline_map_file_title
+```
+Add offline map file
+```
+translated (by machine 🤖) as:
+```
+הוסף קובץ מפה לא מקוון
+```
+
+
+## Translation Key: add_offline_map_file_description_x
+```
+Select an offline map file to copy to the offline maps folder: %s
+```
+translated (by machine 🤖) as:
+```
+בחר קובץ מפה לא מקוון להעתקה לתיקיית המפות הלא מקוונות: %s
+```
+
+
+## Translation Key: importing_offline_map_file
+```
+Importing offline map file...
+```
+translated (by machine 🤖) as:
+```
+מייבא קובץ מפה לא מקוון ...
+```
+
+
+## Translation Key: offline_map_file_import_succeeded
+```
+Offline map file import succeeded
+```
+translated (by machine 🤖) as:
+```
+ייבוא קובץ מפות לא מקוון הצליח
+```
+
+
+## Translation Key: offline_map_file_import_failed_x
+```
+Offline map file import failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+ייבוא קובץ המפה הלא מקוון נכשל:
+%s
+```
+
+
+## Translation Key: no_offline_file_selected_message
+```
+The offline maps folder is empty. In order to use offline maps, open the settings and add at least one offline map file.
+```
+translated (by machine 🤖) as:
+```
+תיקיית המפות הלא מקוונות ריקה. על מנת להשתמש במפות לא מקוונות, פתח את ההגדרות והוסף לפחות קובץ מפה לא מקוון אחד.
 ```

@@ -1469,26 +1469,6 @@ Delt
 ```
 
 
-## Translation Key: purchase_success_toast_message
-```
-Purchase successful!
-```
-translated (by human 👀) as:
-```
-Købet lykkedes!
-```
-
-
-## Translation Key: purchase_fail_toast_message
-```
-Purchase failed: %1$s
-```
-translated (by human 👀) as:
-```
-Købet mislykkedes %1$s
-```
-
-
 ## Translation Key: premium_access_unlocked_message
 ```
 Premium access available! You currently have access to premium features.
@@ -1813,26 +1793,6 @@ Kontrollerer, at appen har adgang til internettet
 ```
 
 
-## Translation Key: test_internal_file_write
-```
-Test file writing
-```
-translated (by machine 🤖) as:
-```
-Testfil skrivning
-```
-
-
-## Translation Key: test_internal_file_write_description
-```
-Checks that the app can save files on the internal SD card
-```
-translated (by human 👀) as:
-```
-Kontrollerer, at app kan gemme filer på det interne SD-kort
-```
-
-
 ## Translation Key: open_google_play_services_details
 ```
 GP Services (app)
@@ -1930,36 +1890,6 @@ Network test failed
 translated (by human 👀) as:
 ```
 Netværkstest mislykkedes
-```
-
-
-## Translation Key: disk_test_failed_internal
-```
-Disk test failed: could not write to internal storage
-```
-translated (by human 👀) as:
-```
-Disktest mislykkedes: Kunne ikke skrive til internt lager
-```
-
-
-## Translation Key: disk_test_failed_external
-```
-Disk test failed: could not write to external storage
-```
-translated (by human 👀) as:
-```
-Disk mislykkedes: Kunne ikke skrive til eksternt lager
-```
-
-
-## Translation Key: disk_test_succeeded
-```
-Disk test succeeded
-```
-translated (by human 👀) as:
-```
-Disktest lykkedes
 ```
 
 
@@ -5892,4 +5822,66 @@ Download all images
 translated (by machine 🤖) as:
 ```
 Download alle billeder
+```
+
+
+## Translation Key: add_offline_map_file_title
+```
+Add offline map file
+```
+translated (by machine 🤖) as:
+```
+Tilføj offline kortfil
+```
+
+
+## Translation Key: add_offline_map_file_description_x
+```
+Select an offline map file to copy to the offline maps folder: %s
+```
+translated (by machine 🤖) as:
+```
+Vælg en offline kortfil, der skal kopieres til mappen offline offline: %s
+```
+
+
+## Translation Key: importing_offline_map_file
+```
+Importing offline map file...
+```
+translated (by machine 🤖) as:
+```
+Importerer offline kortfil ...
+```
+
+
+## Translation Key: offline_map_file_import_succeeded
+```
+Offline map file import succeeded
+```
+translated (by machine 🤖) as:
+```
+Import af offline filfil lykkedes
+```
+
+
+## Translation Key: offline_map_file_import_failed_x
+```
+Offline map file import failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Import af offline filfil mislykkedes:
+%s
+```
+
+
+## Translation Key: no_offline_file_selected_message
+```
+The offline maps folder is empty. In order to use offline maps, open the settings and add at least one offline map file.
+```
+translated (by machine 🤖) as:
+```
+Offline-kortmappen er tom. For at bruge offline kort skal du åbne indstillingerne og tilføje mindst en offline kortfil.
 ```

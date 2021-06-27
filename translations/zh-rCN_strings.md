@@ -1469,26 +1469,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: purchase_success_toast_message
-```
-Purchase successful!
-```
-translated (by machine 🤖) as:
-```
-购买成功！
-```
-
-
-## Translation Key: purchase_fail_toast_message
-```
-Purchase failed: %1$s
-```
-translated (by machine 🤖) as:
-```
-购买失败：%1$s
-```
-
-
 ## Translation Key: premium_access_unlocked_message
 ```
 Premium access available! You currently have access to premium features.
@@ -1809,26 +1789,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: test_internal_file_write
-```
-Test file writing
-```
-translated (by machine 🤖) as:
-```
-测试文件编写
-```
-
-
-## Translation Key: test_internal_file_write_description
-```
-Checks that the app can save files on the internal SD card
-```
-translated (by machine 🤖) as:
-```
-检查应用程序是否可以将文件保存在内部SD卡上
-```
-
-
 ## Translation Key: open_google_play_services_details
 ```
 GP Services (app)
@@ -1926,36 +1886,6 @@ Network test failed
 translated (by machine 🤖) as:
 ```
 网络测试失败
-```
-
-
-## Translation Key: disk_test_failed_internal
-```
-Disk test failed: could not write to internal storage
-```
-translated (by machine 🤖) as:
-```
-磁盘测试失败：无法写入内部存储
-```
-
-
-## Translation Key: disk_test_failed_external
-```
-Disk test failed: could not write to external storage
-```
-translated (by machine 🤖) as:
-```
-磁盘测试失败：无法写入外部存储
-```
-
-
-## Translation Key: disk_test_succeeded
-```
-Disk test succeeded
-```
-translated (by machine 🤖) as:
-```
-磁盘测试成功
 ```
 
 
@@ -5888,4 +5818,66 @@ Download all images
 translated (by machine 🤖) as:
 ```
 下载所有图片
+```
+
+
+## Translation Key: add_offline_map_file_title
+```
+Add offline map file
+```
+translated (by machine 🤖) as:
+```
+添加离线地图文件
+```
+
+
+## Translation Key: add_offline_map_file_description_x
+```
+Select an offline map file to copy to the offline maps folder: %s
+```
+translated (by machine 🤖) as:
+```
+选择要复制到离线地图文件夹的离线地图文件：%s
+```
+
+
+## Translation Key: importing_offline_map_file
+```
+Importing offline map file...
+```
+translated (by machine 🤖) as:
+```
+正在导入离线地图文件...
+```
+
+
+## Translation Key: offline_map_file_import_succeeded
+```
+Offline map file import succeeded
+```
+translated (by machine 🤖) as:
+```
+离线地图文件导入成功
+```
+
+
+## Translation Key: offline_map_file_import_failed_x
+```
+Offline map file import failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+离线地图文件导入失败：
+%s
+```
+
+
+## Translation Key: no_offline_file_selected_message
+```
+The offline maps folder is empty. In order to use offline maps, open the settings and add at least one offline map file.
+```
+translated (by machine 🤖) as:
+```
+离线地图文件夹为空。要使用离线地图，请打开设置并添加至少一个离线地图文件。
 ```

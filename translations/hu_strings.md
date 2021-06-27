@@ -1469,26 +1469,6 @@ Megosztott
 ```
 
 
-## Translation Key: purchase_success_toast_message
-```
-Purchase successful!
-```
-translated (by machine 🤖) as:
-```
-Vásároljon sikeres!
-```
-
-
-## Translation Key: purchase_fail_toast_message
-```
-Purchase failed: %1$s
-```
-translated (by machine 🤖) as:
-```
-Vásárlási nem %1$s
-```
-
-
 ## Translation Key: premium_access_unlocked_message
 ```
 Premium access available! You currently have access to premium features.
@@ -1809,26 +1789,6 @@ Ellenőrzi, hogy az alkalmazás hozzáférjen az internethez
 ```
 
 
-## Translation Key: test_internal_file_write
-```
-Test file writing
-```
-translated (by machine 🤖) as:
-```
-Teszt fájl írása
-```
-
-
-## Translation Key: test_internal_file_write_description
-```
-Checks that the app can save files on the internal SD card
-```
-translated (by machine 🤖) as:
-```
-Ellenőrzi, hogy az app lehet menteni a fájlokat a belső SD kártyára
-```
-
-
 ## Translation Key: open_google_play_services_details
 ```
 GP Services (app)
@@ -1926,36 +1886,6 @@ Network test failed
 translated (by machine 🤖) as:
 ```
 Hálózati teszt sikertelen
-```
-
-
-## Translation Key: disk_test_failed_internal
-```
-Disk test failed: could not write to internal storage
-```
-translated (by machine 🤖) as:
-```
-Disk teszt sikertelen: nem tud írni belső tároló
-```
-
-
-## Translation Key: disk_test_failed_external
-```
-Disk test failed: could not write to external storage
-```
-translated (by machine 🤖) as:
-```
-Disk teszt sikertelen: nem tud írni külső tároló
-```
-
-
-## Translation Key: disk_test_succeeded
-```
-Disk test succeeded
-```
-translated (by machine 🤖) as:
-```
-Disk teszt sikerült
 ```
 
 
@@ -5888,4 +5818,66 @@ Download all images
 translated (by machine 🤖) as:
 ```
 Töltse le az összes képet
+```
+
+
+## Translation Key: add_offline_map_file_title
+```
+Add offline map file
+```
+translated (by machine 🤖) as:
+```
+Offline térképfájl hozzáadása
+```
+
+
+## Translation Key: add_offline_map_file_description_x
+```
+Select an offline map file to copy to the offline maps folder: %s
+```
+translated (by machine 🤖) as:
+```
+Válasszon egy offline térképfájlt az offline maps mappába másoláshoz: %s
+```
+
+
+## Translation Key: importing_offline_map_file
+```
+Importing offline map file...
+```
+translated (by machine 🤖) as:
+```
+Offline térképfájl importálása ...
+```
+
+
+## Translation Key: offline_map_file_import_succeeded
+```
+Offline map file import succeeded
+```
+translated (by machine 🤖) as:
+```
+Az offline térképfájl importálása sikeres volt
+```
+
+
+## Translation Key: offline_map_file_import_failed_x
+```
+Offline map file import failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Az offline térképfájl importálása nem sikerült:
+%s
+```
+
+
+## Translation Key: no_offline_file_selected_message
+```
+The offline maps folder is empty. In order to use offline maps, open the settings and add at least one offline map file.
+```
+translated (by machine 🤖) as:
+```
+Az offline térképek mappa üres. Az offline térképek használatához nyissa meg a beállításokat, és adjon hozzá legalább egy offline térképfájlt.
 ```

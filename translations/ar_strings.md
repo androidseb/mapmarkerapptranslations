@@ -1469,26 +1469,6 @@ Shared (الملفات المشتركة)
 ```
 
 
-## Translation Key: purchase_success_toast_message
-```
-Purchase successful!
-```
-translated (by human 👀) as:
-```
-تم الشراء بنجاح!
-```
-
-
-## Translation Key: purchase_fail_toast_message
-```
-Purchase failed: %1$s
-```
-translated (by human 👀) as:
-```
-فشلت عملية الشراء %1$s
-```
-
-
 ## Translation Key: premium_access_unlocked_message
 ```
 Premium access available! You currently have access to premium features.
@@ -1809,26 +1789,6 @@ translated (by human 👀) as:
 ```
 
 
-## Translation Key: test_internal_file_write
-```
-Test file writing
-```
-translated (by human 👀) as:
-```
-اختبار حفظ الملفات
-```
-
-
-## Translation Key: test_internal_file_write_description
-```
-Checks that the app can save files on the internal SD card
-```
-translated (by human 👀) as:
-```
-تحقق من ان التطبيق يمكنه حفظ الملفات الى وحدة التخزين الداخلية SD
-```
-
-
 ## Translation Key: open_google_play_services_details
 ```
 GP Services (app)
@@ -1926,36 +1886,6 @@ Network test failed
 translated (by human 👀) as:
 ```
 فشل اختبار الشبكة
-```
-
-
-## Translation Key: disk_test_failed_internal
-```
-Disk test failed: could not write to internal storage
-```
-translated (by human 👀) as:
-```
-فشل اختبار القرص: لا يمكن الكتابة إلى وحدة التخزين الداخلية
-```
-
-
-## Translation Key: disk_test_failed_external
-```
-Disk test failed: could not write to external storage
-```
-translated (by human 👀) as:
-```
-فشل اختبار القرص: لا يمكن الكتابة إلى وحدة التخزين الخارجية
-```
-
-
-## Translation Key: disk_test_succeeded
-```
-Disk test succeeded
-```
-translated (by human 👀) as:
-```
-نجح اختبار القرص
 ```
 
 
@@ -5888,4 +5818,66 @@ Download all images
 translated (by machine 🤖) as:
 ```
 تحميل جميع الصور
+```
+
+
+## Translation Key: add_offline_map_file_title
+```
+Add offline map file
+```
+translated (by machine 🤖) as:
+```
+أضف ملف خريطة غير متصل بالإنترنت
+```
+
+
+## Translation Key: add_offline_map_file_description_x
+```
+Select an offline map file to copy to the offline maps folder: %s
+```
+translated (by machine 🤖) as:
+```
+حدد ملف خرائط بلا اتصال لنسخه إلى مجلد الخرائط غير المتصلة: %s
+```
+
+
+## Translation Key: importing_offline_map_file
+```
+Importing offline map file...
+```
+translated (by machine 🤖) as:
+```
+جاري استيراد ملف الخرائط غير المتصل ...
+```
+
+
+## Translation Key: offline_map_file_import_succeeded
+```
+Offline map file import succeeded
+```
+translated (by machine 🤖) as:
+```
+نجح استيراد ملف الخرائط بلا اتصال
+```
+
+
+## Translation Key: offline_map_file_import_failed_x
+```
+Offline map file import failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+فشل استيراد ملف الخريطة دون اتصال:
+%s
+```
+
+
+## Translation Key: no_offline_file_selected_message
+```
+The offline maps folder is empty. In order to use offline maps, open the settings and add at least one offline map file.
+```
+translated (by machine 🤖) as:
+```
+مجلد الخرائط غير المتصلة فارغ. من أجل استخدام الخرائط غير المتصلة بالإنترنت ، افتح الإعدادات وأضف ملف خرائط واحد على الأقل غير متصل بالإنترنت.
 ```

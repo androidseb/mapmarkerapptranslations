@@ -1469,26 +1469,6 @@ Chia sẻ
 ```
 
 
-## Translation Key: purchase_success_toast_message
-```
-Purchase successful!
-```
-translated (by machine 🤖) as:
-```
-Mua thành công!
-```
-
-
-## Translation Key: purchase_fail_toast_message
-```
-Purchase failed: %1$s
-```
-translated (by machine 🤖) as:
-```
-Mua thất %1$s
-```
-
-
 ## Translation Key: premium_access_unlocked_message
 ```
 Premium access available! You currently have access to premium features.
@@ -1809,26 +1789,6 @@ Kiểm tra rằng các ứng dụng này có quyền truy cập vào internet
 ```
 
 
-## Translation Key: test_internal_file_write
-```
-Test file writing
-```
-translated (by machine 🤖) as:
-```
-Tập tin thử nghiệm bằng văn bản
-```
-
-
-## Translation Key: test_internal_file_write_description
-```
-Checks that the app can save files on the internal SD card
-```
-translated (by machine 🤖) as:
-```
-Kiểm tra xem các ứng dụng có thể lưu các tập tin trên thẻ SD nội bộ
-```
-
-
 ## Translation Key: open_google_play_services_details
 ```
 GP Services (app)
@@ -1926,36 +1886,6 @@ Network test failed
 translated (by machine 🤖) as:
 ```
 Thử nghiệm mạng không thành công
-```
-
-
-## Translation Key: disk_test_failed_internal
-```
-Disk test failed: could not write to internal storage
-```
-translated (by machine 🤖) as:
-```
-Kiểm tra đĩa thất bại: không thể ghi vào lưu trữ nội bộ
-```
-
-
-## Translation Key: disk_test_failed_external
-```
-Disk test failed: could not write to external storage
-```
-translated (by machine 🤖) as:
-```
-Kiểm tra đĩa thất bại: không thể ghi vào lưu trữ bên ngoài
-```
-
-
-## Translation Key: disk_test_succeeded
-```
-Disk test succeeded
-```
-translated (by machine 🤖) as:
-```
-Kiểm tra đĩa thành công
 ```
 
 
@@ -5888,4 +5818,66 @@ Download all images
 translated (by machine 🤖) as:
 ```
 Tải xuống tất cả hình ảnh
+```
+
+
+## Translation Key: add_offline_map_file_title
+```
+Add offline map file
+```
+translated (by machine 🤖) as:
+```
+Thêm tệp bản đồ ngoại tuyến
+```
+
+
+## Translation Key: add_offline_map_file_description_x
+```
+Select an offline map file to copy to the offline maps folder: %s
+```
+translated (by machine 🤖) as:
+```
+Chọn tệp bản đồ ngoại tuyến để sao chép vào thư mục bản đồ ngoại tuyến: %s
+```
+
+
+## Translation Key: importing_offline_map_file
+```
+Importing offline map file...
+```
+translated (by machine 🤖) as:
+```
+Đang nhập tệp bản đồ ngoại tuyến ...
+```
+
+
+## Translation Key: offline_map_file_import_succeeded
+```
+Offline map file import succeeded
+```
+translated (by machine 🤖) as:
+```
+Nhập tệp bản đồ ngoại tuyến thành công
+```
+
+
+## Translation Key: offline_map_file_import_failed_x
+```
+Offline map file import failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Nhập tệp bản đồ ngoại tuyến không thành công:
+%s
+```
+
+
+## Translation Key: no_offline_file_selected_message
+```
+The offline maps folder is empty. In order to use offline maps, open the settings and add at least one offline map file.
+```
+translated (by machine 🤖) as:
+```
+Thư mục bản đồ ngoại tuyến trống. Để sử dụng bản đồ ngoại tuyến, hãy mở cài đặt và thêm ít nhất một tệp bản đồ ngoại tuyến.
 ```

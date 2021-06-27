@@ -1469,26 +1469,6 @@ Comună
 ```
 
 
-## Translation Key: purchase_success_toast_message
-```
-Purchase successful!
-```
-translated (by machine 🤖) as:
-```
-Achiziționa de succes!
-```
-
-
-## Translation Key: purchase_fail_toast_message
-```
-Purchase failed: %1$s
-```
-translated (by machine 🤖) as:
-```
-Cumpărare nu a %1$s
-```
-
-
 ## Translation Key: premium_access_unlocked_message
 ```
 Premium access available! You currently have access to premium features.
@@ -1809,26 +1789,6 @@ Verifică dacă aplicația are acces la internet
 ```
 
 
-## Translation Key: test_internal_file_write
-```
-Test file writing
-```
-translated (by machine 🤖) as:
-```
-Scris fișier de test
-```
-
-
-## Translation Key: test_internal_file_write_description
-```
-Checks that the app can save files on the internal SD card
-```
-translated (by machine 🤖) as:
-```
-Verifică dacă aplicația poate salva fișiere de pe cardul SD intern
-```
-
-
 ## Translation Key: open_google_play_services_details
 ```
 GP Services (app)
@@ -1926,36 +1886,6 @@ Network test failed
 translated (by machine 🤖) as:
 ```
 Încercare de rețea nu a reușit
-```
-
-
-## Translation Key: disk_test_failed_internal
-```
-Disk test failed: could not write to internal storage
-```
-translated (by machine 🤖) as:
-```
-Încercare Disk nu a reușit: nu a putut scrie în memoria internă
-```
-
-
-## Translation Key: disk_test_failed_external
-```
-Disk test failed: could not write to external storage
-```
-translated (by machine 🤖) as:
-```
-Încercare Disk nu a reușit: nu a putut scrie de stocare extern
-```
-
-
-## Translation Key: disk_test_succeeded
-```
-Disk test succeeded
-```
-translated (by machine 🤖) as:
-```
-Încercare Disk reușit
 ```
 
 
@@ -5888,4 +5818,66 @@ Download all images
 translated (by machine 🤖) as:
 ```
 Descărcați toate imaginile
+```
+
+
+## Translation Key: add_offline_map_file_title
+```
+Add offline map file
+```
+translated (by machine 🤖) as:
+```
+Adăugați un fișier de hartă offline
+```
+
+
+## Translation Key: add_offline_map_file_description_x
+```
+Select an offline map file to copy to the offline maps folder: %s
+```
+translated (by machine 🤖) as:
+```
+Selectați un fișier de hartă offline pentru a copia în folderul de hărți offline: %s
+```
+
+
+## Translation Key: importing_offline_map_file
+```
+Importing offline map file...
+```
+translated (by machine 🤖) as:
+```
+Se importă fișierul de hartă offline ...
+```
+
+
+## Translation Key: offline_map_file_import_succeeded
+```
+Offline map file import succeeded
+```
+translated (by machine 🤖) as:
+```
+Importul fișierului de hartă offline a reușit
+```
+
+
+## Translation Key: offline_map_file_import_failed_x
+```
+Offline map file import failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Importul fișierului hartă offline nu a reușit:
+%s
+```
+
+
+## Translation Key: no_offline_file_selected_message
+```
+The offline maps folder is empty. In order to use offline maps, open the settings and add at least one offline map file.
+```
+translated (by machine 🤖) as:
+```
+Dosarul de hărți offline este gol. Pentru a utiliza hărțile offline, deschideți setările și adăugați cel puțin un fișier de hartă offline.
 ```

@@ -1469,26 +1469,6 @@ Delad
 ```
 
 
-## Translation Key: purchase_success_toast_message
-```
-Purchase successful!
-```
-translated (by human 👀) as:
-```
-Köpet har genomförts!
-```
-
-
-## Translation Key: purchase_fail_toast_message
-```
-Purchase failed: %1$s
-```
-translated (by human 👀) as:
-```
-Köpet misslyckades: %1$s
-```
-
-
 ## Translation Key: premium_access_unlocked_message
 ```
 Premium access available! You currently have access to premium features.
@@ -1809,26 +1789,6 @@ Kontrollerar att appen har tillgång till Internet
 ```
 
 
-## Translation Key: test_internal_file_write
-```
-Test file writing
-```
-translated (by human 👀) as:
-```
-Skrivning av testfil
-```
-
-
-## Translation Key: test_internal_file_write_description
-```
-Checks that the app can save files on the internal SD card
-```
-translated (by human 👀) as:
-```
-Kontrollerar att appen kan spara filer på det interna SD-kortet
-```
-
-
 ## Translation Key: open_google_play_services_details
 ```
 GP Services (app)
@@ -1926,36 +1886,6 @@ Network test failed
 translated (by human 👀) as:
 ```
 Nätverkstestet misslyckades
-```
-
-
-## Translation Key: disk_test_failed_internal
-```
-Disk test failed: could not write to internal storage
-```
-translated (by human 👀) as:
-```
-Disktestet misslyckades: kunde inte skriva till det interna lagringsminnet
-```
-
-
-## Translation Key: disk_test_failed_external
-```
-Disk test failed: could not write to external storage
-```
-translated (by human 👀) as:
-```
-Disktestet misslyckades: kunde inte skriva till det externa lagringsminnet
-```
-
-
-## Translation Key: disk_test_succeeded
-```
-Disk test succeeded
-```
-translated (by human 👀) as:
-```
-Disktestet lyckades
 ```
 
 
@@ -5888,4 +5818,66 @@ Download all images
 translated (by machine 🤖) as:
 ```
 Ladda ner alla bilder
+```
+
+
+## Translation Key: add_offline_map_file_title
+```
+Add offline map file
+```
+translated (by machine 🤖) as:
+```
+Lägg till offline-kartfil
+```
+
+
+## Translation Key: add_offline_map_file_description_x
+```
+Select an offline map file to copy to the offline maps folder: %s
+```
+translated (by machine 🤖) as:
+```
+Välj en offline kartfil för att kopiera till mappen offline offline: %s
+```
+
+
+## Translation Key: importing_offline_map_file
+```
+Importing offline map file...
+```
+translated (by machine 🤖) as:
+```
+Importerar offline-kartfil ...
+```
+
+
+## Translation Key: offline_map_file_import_succeeded
+```
+Offline map file import succeeded
+```
+translated (by machine 🤖) as:
+```
+Import av kartfiler offline lyckades
+```
+
+
+## Translation Key: offline_map_file_import_failed_x
+```
+Offline map file import failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Importering av offlinefilfil misslyckades:
+%s
+```
+
+
+## Translation Key: no_offline_file_selected_message
+```
+The offline maps folder is empty. In order to use offline maps, open the settings and add at least one offline map file.
+```
+translated (by machine 🤖) as:
+```
+Offlinekartmappen är tom. För att kunna använda offline-kartor, öppna inställningarna och lägg till minst en offline-kartfil.
 ```

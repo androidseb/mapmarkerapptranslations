@@ -1466,26 +1466,6 @@ Gedeeld
 ```
 
 
-## Translation Key: purchase_success_toast_message
-```
-Purchase successful!
-```
-translated (by human 👀) as:
-```
-Aankoop succesvol!
-```
-
-
-## Translation Key: purchase_fail_toast_message
-```
-Purchase failed: %1$s
-```
-translated (by human 👀) as:
-```
-Aankoop mislukt: %1$s
-```
-
-
 ## Translation Key: premium_access_unlocked_message
 ```
 Premium access available! You currently have access to premium features.
@@ -1806,26 +1786,6 @@ Controleert of de app toegang heeft tot internet
 ```
 
 
-## Translation Key: test_internal_file_write
-```
-Test file writing
-```
-translated (by human 👀) as:
-```
-Testbestand schrijven
-```
-
-
-## Translation Key: test_internal_file_write_description
-```
-Checks that the app can save files on the internal SD card
-```
-translated (by human 👀) as:
-```
-Controleert of de app bestanden kan opslaan op de interne SD-kaart
-```
-
-
 ## Translation Key: open_google_play_services_details
 ```
 GP Services (app)
@@ -1923,36 +1883,6 @@ Network test failed
 translated (by human 👀) as:
 ```
 Netwerk-test mislukt
-```
-
-
-## Translation Key: disk_test_failed_internal
-```
-Disk test failed: could not write to internal storage
-```
-translated (by human 👀) as:
-```
-Disk test is mislukt: kan niet schrijven naar interne opslag
-```
-
-
-## Translation Key: disk_test_failed_external
-```
-Disk test failed: could not write to external storage
-```
-translated (by human 👀) as:
-```
-Disk test is mislukt: kan niet schrijven naar externe opslag
-```
-
-
-## Translation Key: disk_test_succeeded
-```
-Disk test succeeded
-```
-translated (by human 👀) as:
-```
-Disk-test geslaagd
 ```
 
 
@@ -5882,4 +5812,66 @@ Download all images
 translated (by machine 🤖) as:
 ```
 Download alle afbeeldingen
+```
+
+
+## Translation Key: add_offline_map_file_title
+```
+Add offline map file
+```
+translated (by machine 🤖) as:
+```
+Offline kaartbestand toevoegen
+```
+
+
+## Translation Key: add_offline_map_file_description_x
+```
+Select an offline map file to copy to the offline maps folder: %s
+```
+translated (by machine 🤖) as:
+```
+Selecteer een offline kaartbestand om te kopiëren naar de offline kaartenmap: %s
+```
+
+
+## Translation Key: importing_offline_map_file
+```
+Importing offline map file...
+```
+translated (by machine 🤖) as:
+```
+Offline kaartbestand importeren...
+```
+
+
+## Translation Key: offline_map_file_import_succeeded
+```
+Offline map file import succeeded
+```
+translated (by machine 🤖) as:
+```
+Offline importeren van kaartbestand gelukt
+```
+
+
+## Translation Key: offline_map_file_import_failed_x
+```
+Offline map file import failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Importeren van offline kaartbestand mislukt:
+%s
+```
+
+
+## Translation Key: no_offline_file_selected_message
+```
+The offline maps folder is empty. In order to use offline maps, open the settings and add at least one offline map file.
+```
+translated (by machine 🤖) as:
+```
+De map met offline kaarten is leeg. Om offline kaarten te gebruiken, opent u de instellingen en voegt u ten minste één offline kaartbestand toe.
 ```

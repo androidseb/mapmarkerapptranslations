@@ -1469,26 +1469,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: purchase_success_toast_message
-```
-Purchase successful!
-```
-translated (by machine 🤖) as:
-```
-सफल खरीद!
-```
-
-
-## Translation Key: purchase_fail_toast_message
-```
-Purchase failed: %1$s
-```
-translated (by machine 🤖) as:
-```
-क्रय विफल: %1$s
-```
-
-
 ## Translation Key: premium_access_unlocked_message
 ```
 Premium access available! You currently have access to premium features.
@@ -1809,26 +1789,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: test_internal_file_write
-```
-Test file writing
-```
-translated (by machine 🤖) as:
-```
-टेस्ट फ़ाइल लेखन
-```
-
-
-## Translation Key: test_internal_file_write_description
-```
-Checks that the app can save files on the internal SD card
-```
-translated (by machine 🤖) as:
-```
-एप्लिकेशन को आंतरिक एसडी कार्ड पर फ़ाइलों को बचा सकता है कि जाँच करता है
-```
-
-
 ## Translation Key: open_google_play_services_details
 ```
 GP Services (app)
@@ -1926,36 +1886,6 @@ Network test failed
 translated (by machine 🤖) as:
 ```
 नेटवर्क परीक्षण में विफल
-```
-
-
-## Translation Key: disk_test_failed_internal
-```
-Disk test failed: could not write to internal storage
-```
-translated (by machine 🤖) as:
-```
-डिस्क परीक्षण विफल रहा: आंतरिक भंडारण करने के लिए नहीं लिख सकता
-```
-
-
-## Translation Key: disk_test_failed_external
-```
-Disk test failed: could not write to external storage
-```
-translated (by machine 🤖) as:
-```
-डिस्क परीक्षण विफल: बाह्य भंडारण के लिए नहीं लिख सकता
-```
-
-
-## Translation Key: disk_test_succeeded
-```
-Disk test succeeded
-```
-translated (by machine 🤖) as:
-```
-डिस्क परीक्षण सफल रहा
 ```
 
 
@@ -5888,4 +5818,66 @@ Download all images
 translated (by machine 🤖) as:
 ```
 सभी चित्र डाउनलोड करें
+```
+
+
+## Translation Key: add_offline_map_file_title
+```
+Add offline map file
+```
+translated (by machine 🤖) as:
+```
+ऑफ़लाइन मानचित्र फ़ाइल जोड़ें
+```
+
+
+## Translation Key: add_offline_map_file_description_x
+```
+Select an offline map file to copy to the offline maps folder: %s
+```
+translated (by machine 🤖) as:
+```
+ऑफ़लाइन मानचित्र फ़ोल्डर में कॉपी करने के लिए ऑफ़लाइन मानचित्र फ़ाइल का चयन करें: %s
+```
+
+
+## Translation Key: importing_offline_map_file
+```
+Importing offline map file...
+```
+translated (by machine 🤖) as:
+```
+ऑफ़लाइन मानचित्र फ़ाइल आयात की जा रही है...
+```
+
+
+## Translation Key: offline_map_file_import_succeeded
+```
+Offline map file import succeeded
+```
+translated (by machine 🤖) as:
+```
+ऑफ़लाइन मानचित्र फ़ाइल आयात सफल हुआ
+```
+
+
+## Translation Key: offline_map_file_import_failed_x
+```
+Offline map file import failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+ऑफ़लाइन मानचित्र फ़ाइल आयात विफल:
+%s
+```
+
+
+## Translation Key: no_offline_file_selected_message
+```
+The offline maps folder is empty. In order to use offline maps, open the settings and add at least one offline map file.
+```
+translated (by machine 🤖) as:
+```
+ऑफ़लाइन मानचित्र फ़ोल्डर खाली है। ऑफ़लाइन मानचित्रों का उपयोग करने के लिए, सेटिंग खोलें और कम से कम एक ऑफ़लाइन मानचित्र फ़ाइल जोड़ें।
 ```

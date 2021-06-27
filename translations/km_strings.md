@@ -1469,26 +1469,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: purchase_success_toast_message
-```
-Purchase successful!
-```
-translated (by machine 🤖) as:
-```
-ទិញ​ទទួល​បាន​ជោគជ័យ​!
-```
-
-
-## Translation Key: purchase_fail_toast_message
-```
-Purchase failed: %1$s
-```
-translated (by machine 🤖) as:
-```
-ទិញ​បរាជ័យ​: %1$s
-```
-
-
 ## Translation Key: premium_access_unlocked_message
 ```
 Premium access available! You currently have access to premium features.
@@ -1809,26 +1789,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: test_internal_file_write
-```
-Test file writing
-```
-translated (by machine 🤖) as:
-```
-ការ​សរសេរ​ឯកសារ​តេ​ស្ត
-```
-
-
-## Translation Key: test_internal_file_write_description
-```
-Checks that the app can save files on the internal SD card
-```
-translated (by machine 🤖) as:
-```
-ពិនិត្យ​ថា​កម្មវិធី​នេះ​អាច​រក្សា​ទុក​ឯកសារ​លើ​កាត​ប្រភេទ SD ផ្ទៃក្នុង
-```
-
-
 ## Translation Key: open_google_play_services_details
 ```
 GP Services (app)
@@ -1926,36 +1886,6 @@ Network test failed
 translated (by machine 🤖) as:
 ```
 បាន​បរាជ័យ​ក្នុង​ការ​ធ្វើ​តេ​ស្ត​ប​ណ្តា​ញ
-```
-
-
-## Translation Key: disk_test_failed_internal
-```
-Disk test failed: could not write to internal storage
-```
-translated (by machine 🤖) as:
-```
-ការ​ធ្វើ​តេ​ស្ត​ថា​ស​បាន​បរាជ័យ​: មិន​អាច​សរសេរ​ទៅ​កាន់​ឧបករណ៍​ផ្ទុក​ខាងក្នុង
-```
-
-
-## Translation Key: disk_test_failed_external
-```
-Disk test failed: could not write to external storage
-```
-translated (by machine 🤖) as:
-```
-ការ​ធ្វើ​តេ​ស្ត​ថា​ស​បាន​បរាជ័យ​: មិន​អាច​សរសេរ​ទៅ​កាន់​ឧបករណ៍​ផ្ទុក​ខាង​ក្រៅ
-```
-
-
-## Translation Key: disk_test_succeeded
-```
-Disk test succeeded
-```
-translated (by machine 🤖) as:
-```
-ការ​ធ្វើ​តេ​ស្ត​ថា​ស​ទទួល​បាន​ជោគ​ជ័យ
 ```
 
 
@@ -5888,4 +5818,66 @@ Download all images
 translated (by machine 🤖) as:
 ```
 ទាញយករូបភាពទាំងអស់
+```
+
+
+## Translation Key: add_offline_map_file_title
+```
+Add offline map file
+```
+translated (by machine 🤖) as:
+```
+បន្ថែមឯកសារផែនទីក្រៅបណ្តាញ
+```
+
+
+## Translation Key: add_offline_map_file_description_x
+```
+Select an offline map file to copy to the offline maps folder: %s
+```
+translated (by machine 🤖) as:
+```
+ជ្រើសរើសឯកសារផែនទីក្រៅបណ្តាញដើម្បីចំលងទៅថតឯកសារផែនទីក្រៅបណ្តាញ៖ _៧
+```
+
+
+## Translation Key: importing_offline_map_file
+```
+Importing offline map file...
+```
+translated (by machine 🤖) as:
+```
+កំពុងនាំចូលឯកសារផែនទីក្រៅបណ្តាញ ...
+```
+
+
+## Translation Key: offline_map_file_import_succeeded
+```
+Offline map file import succeeded
+```
+translated (by machine 🤖) as:
+```
+ការនាំចូលឯកសារផែនទីក្រៅបណ្តាញបានជោគជ័យ
+```
+
+
+## Translation Key: offline_map_file_import_failed_x
+```
+Offline map file import failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+ការនាំចូលឯកសារផែនទីក្រៅបណ្តាញបានបរាជ័យ៖
+_៧
+```
+
+
+## Translation Key: no_offline_file_selected_message
+```
+The offline maps folder is empty. In order to use offline maps, open the settings and add at least one offline map file.
+```
+translated (by machine 🤖) as:
+```
+ថតផែនទីក្រៅបណ្តាញគឺទទេ។ ដើម្បីប្រើផែនទីក្រៅបណ្តាញបើកការកំណត់ហើយបន្ថែមឯកសារផែនទីក្រៅបណ្តាញយ៉ាងហោចណាស់មួយ។
 ```

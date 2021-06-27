@@ -1469,26 +1469,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: purchase_success_toast_message
-```
-Purchase successful!
-```
-translated (by machine 🤖) as:
-```
-Αγοράστε επιτυχής!
-```
-
-
-## Translation Key: purchase_fail_toast_message
-```
-Purchase failed: %1$s
-```
-translated (by machine 🤖) as:
-```
-Η αγορά %1$s
-```
-
-
 ## Translation Key: premium_access_unlocked_message
 ```
 Premium access available! You currently have access to premium features.
@@ -1809,26 +1789,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: test_internal_file_write
-```
-Test file writing
-```
-translated (by machine 🤖) as:
-```
-Την εγγραφή του αρχείου δοκιμής
-```
-
-
-## Translation Key: test_internal_file_write_description
-```
-Checks that the app can save files on the internal SD card
-```
-translated (by machine 🤖) as:
-```
-Ελέγχει ότι η εφαρμογή μπορεί να σώσει τα αρχεία στην εσωτερική κάρτα SD
-```
-
-
 ## Translation Key: open_google_play_services_details
 ```
 GP Services (app)
@@ -1926,36 +1886,6 @@ Network test failed
 translated (by machine 🤖) as:
 ```
 Δίκτυο δοκιμή απέτυχε
-```
-
-
-## Translation Key: disk_test_failed_internal
-```
-Disk test failed: could not write to internal storage
-```
-translated (by machine 🤖) as:
-```
-Δοκιμή δίσκου απέτυχε: δεν μπορούσα να γράψω στον εσωτερικό χώρο αποθήκευσης
-```
-
-
-## Translation Key: disk_test_failed_external
-```
-Disk test failed: could not write to external storage
-```
-translated (by machine 🤖) as:
-```
-Δοκιμή δίσκου απέτυχε: δεν μπορούσα να γράψω για εξωτερική αποθήκευση
-```
-
-
-## Translation Key: disk_test_succeeded
-```
-Disk test succeeded
-```
-translated (by machine 🤖) as:
-```
-Δοκιμή πέτυχε δίσκου
 ```
 
 
@@ -5888,4 +5818,66 @@ Download all images
 translated (by machine 🤖) as:
 ```
 Λήψη όλων των εικόνων
+```
+
+
+## Translation Key: add_offline_map_file_title
+```
+Add offline map file
+```
+translated (by machine 🤖) as:
+```
+Προσθήκη αρχείου χάρτη εκτός σύνδεσης
+```
+
+
+## Translation Key: add_offline_map_file_description_x
+```
+Select an offline map file to copy to the offline maps folder: %s
+```
+translated (by machine 🤖) as:
+```
+Επιλέξτε ένα αρχείο χάρτη εκτός σύνδεσης για αντιγραφή στο φάκελο χαρτών εκτός σύνδεσης: %s
+```
+
+
+## Translation Key: importing_offline_map_file
+```
+Importing offline map file...
+```
+translated (by machine 🤖) as:
+```
+Εισαγωγή αρχείου χάρτη εκτός σύνδεσης ...
+```
+
+
+## Translation Key: offline_map_file_import_succeeded
+```
+Offline map file import succeeded
+```
+translated (by machine 🤖) as:
+```
+Η εισαγωγή αρχείου χάρτη εκτός σύνδεσης ολοκληρώθηκε με επιτυχία
+```
+
+
+## Translation Key: offline_map_file_import_failed_x
+```
+Offline map file import failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Η εισαγωγή αρχείου χάρτη εκτός σύνδεσης απέτυχε:
+%s
+```
+
+
+## Translation Key: no_offline_file_selected_message
+```
+The offline maps folder is empty. In order to use offline maps, open the settings and add at least one offline map file.
+```
+translated (by machine 🤖) as:
+```
+Ο φάκελος χαρτών εκτός σύνδεσης είναι κενός. Για να χρησιμοποιήσετε χάρτες εκτός σύνδεσης, ανοίξτε τις ρυθμίσεις και προσθέστε τουλάχιστον ένα αρχείο χάρτη εκτός σύνδεσης.
 ```

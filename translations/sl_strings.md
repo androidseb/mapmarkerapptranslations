@@ -1467,26 +1467,6 @@ Deljeno
 ```
 
 
-## Translation Key: purchase_success_toast_message
-```
-Purchase successful!
-```
-translated (by human 👀) as:
-```
-Nakup uspešen!
-```
-
-
-## Translation Key: purchase_fail_toast_message
-```
-Purchase failed: %1$s
-```
-translated (by human 👀) as:
-```
-Nakup ni uspel %1$s
-```
-
-
 ## Translation Key: premium_access_unlocked_message
 ```
 Premium access available! You currently have access to premium features.
@@ -1807,26 +1787,6 @@ Preveri, ali ima aplikacija dostop do interneta
 ```
 
 
-## Translation Key: test_internal_file_write
-```
-Test file writing
-```
-translated (by human 👀) as:
-```
-Pisanje preizkusne datoteke
-```
-
-
-## Translation Key: test_internal_file_write_description
-```
-Checks that the app can save files on the internal SD card
-```
-translated (by human 👀) as:
-```
-Preveri, ali lahko aplikacija shranjuje datoteke na notranjo kartico SD
-```
-
-
 ## Translation Key: open_google_play_services_details
 ```
 GP Services (app)
@@ -1924,36 +1884,6 @@ Network test failed
 translated (by human 👀) as:
 ```
 Napaka pri testiranju omrežja.
-```
-
-
-## Translation Key: disk_test_failed_internal
-```
-Disk test failed: could not write to internal storage
-```
-translated (by human 👀) as:
-```
-Preskus diska ni uspel: ni bilo mogoče pisati v notranji pomnilnik
-```
-
-
-## Translation Key: disk_test_failed_external
-```
-Disk test failed: could not write to external storage
-```
-translated (by human 👀) as:
-```
-Testiranje diska ni uspelo: Ne morem pisati na zunanji pomnilnik
-```
-
-
-## Translation Key: disk_test_succeeded
-```
-Disk test succeeded
-```
-translated (by human 👀) as:
-```
-Testiranje diska uspelo
 ```
 
 
@@ -5885,4 +5815,66 @@ Download all images
 translated (by machine 🤖) as:
 ```
 Prenesite vse slike
+```
+
+
+## Translation Key: add_offline_map_file_title
+```
+Add offline map file
+```
+translated (by machine 🤖) as:
+```
+Dodajte datoteko zemljevida brez povezave
+```
+
+
+## Translation Key: add_offline_map_file_description_x
+```
+Select an offline map file to copy to the offline maps folder: %s
+```
+translated (by machine 🤖) as:
+```
+Izberite datoteko zemljevida brez povezave, ki jo želite kopirati v mapo brez zemljevidov: %s
+```
+
+
+## Translation Key: importing_offline_map_file
+```
+Importing offline map file...
+```
+translated (by machine 🤖) as:
+```
+Uvažanje datoteke zemljevida brez povezave ...
+```
+
+
+## Translation Key: offline_map_file_import_succeeded
+```
+Offline map file import succeeded
+```
+translated (by machine 🤖) as:
+```
+Uvoz datoteke zemljevida brez povezave je uspel
+```
+
+
+## Translation Key: offline_map_file_import_failed_x
+```
+Offline map file import failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Uvoz datoteke zemljevida brez povezave ni uspel:
+%s
+```
+
+
+## Translation Key: no_offline_file_selected_message
+```
+The offline maps folder is empty. In order to use offline maps, open the settings and add at least one offline map file.
+```
+translated (by machine 🤖) as:
+```
+Mapa brez zemljevidov je prazna. Če želite uporabljati zemljevide brez povezave, odprite nastavitve in dodajte vsaj eno datoteko zemljevida brez povezave.
 ```

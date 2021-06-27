@@ -1469,26 +1469,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: purchase_success_toast_message
-```
-Purchase successful!
-```
-translated (by machine 🤖) as:
-```
-ที่ประสบความสำเร็จซื้อ!
-```
-
-
-## Translation Key: purchase_fail_toast_message
-```
-Purchase failed: %1$s
-```
-translated (by machine 🤖) as:
-```
-%1$s
-```
-
-
 ## Translation Key: premium_access_unlocked_message
 ```
 Premium access available! You currently have access to premium features.
@@ -1809,26 +1789,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: test_internal_file_write
-```
-Test file writing
-```
-translated (by machine 🤖) as:
-```
-เขียนไฟล์ทดสอบ
-```
-
-
-## Translation Key: test_internal_file_write_description
-```
-Checks that the app can save files on the internal SD card
-```
-translated (by machine 🤖) as:
-```
-ตรวจสอบว่า app สามารถบันทึกไฟล์ใน SD card ภายใน
-```
-
-
 ## Translation Key: open_google_play_services_details
 ```
 GP Services (app)
@@ -1926,36 +1886,6 @@ Network test failed
 translated (by machine 🤖) as:
 ```
 การทดสอบเครือข่ายล้มเหลว
-```
-
-
-## Translation Key: disk_test_failed_internal
-```
-Disk test failed: could not write to internal storage
-```
-translated (by machine 🤖) as:
-```
-ทดสอบดิสก์ล้มเหลว: ไม่สามารถเขียนที่จะเก็บข้อมูลภายใน
-```
-
-
-## Translation Key: disk_test_failed_external
-```
-Disk test failed: could not write to external storage
-```
-translated (by machine 🤖) as:
-```
-ทดสอบดิสก์ล้มเหลว: ไม่สามารถเขียนเพื่อจัดเก็บข้อมูลภายนอก
-```
-
-
-## Translation Key: disk_test_succeeded
-```
-Disk test succeeded
-```
-translated (by machine 🤖) as:
-```
-ประสบความสำเร็จในการทดสอบดิสก์
 ```
 
 
@@ -5889,4 +5819,66 @@ Download all images
 translated (by machine 🤖) as:
 ```
 ดาวน์โหลดภาพทั้งหมด
+```
+
+
+## Translation Key: add_offline_map_file_title
+```
+Add offline map file
+```
+translated (by machine 🤖) as:
+```
+เพิ่มไฟล์แผนที่ออฟไลน์
+```
+
+
+## Translation Key: add_offline_map_file_description_x
+```
+Select an offline map file to copy to the offline maps folder: %s
+```
+translated (by machine 🤖) as:
+```
+เลือกไฟล์แผนที่ออฟไลน์เพื่อคัดลอกไปยังโฟลเดอร์แผนที่ออฟไลน์: %s
+```
+
+
+## Translation Key: importing_offline_map_file
+```
+Importing offline map file...
+```
+translated (by machine 🤖) as:
+```
+กำลังนำเข้าไฟล์แผนที่ออฟไลน์...
+```
+
+
+## Translation Key: offline_map_file_import_succeeded
+```
+Offline map file import succeeded
+```
+translated (by machine 🤖) as:
+```
+นำเข้าไฟล์แผนที่ออฟไลน์สำเร็จ
+```
+
+
+## Translation Key: offline_map_file_import_failed_x
+```
+Offline map file import failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+การนำเข้าไฟล์แผนที่ออฟไลน์ล้มเหลว:
+%s
+```
+
+
+## Translation Key: no_offline_file_selected_message
+```
+The offline maps folder is empty. In order to use offline maps, open the settings and add at least one offline map file.
+```
+translated (by machine 🤖) as:
+```
+โฟลเดอร์แผนที่ออฟไลน์ว่างเปล่า หากต้องการใช้แผนที่ออฟไลน์ ให้เปิดการตั้งค่าและเพิ่มไฟล์แผนที่ออฟไลน์อย่างน้อยหนึ่งไฟล์
 ```

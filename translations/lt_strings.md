@@ -1468,26 +1468,6 @@ Pasidalinta
 ```
 
 
-## Translation Key: purchase_success_toast_message
-```
-Purchase successful!
-```
-translated (by human 👀) as:
-```
-Pirkimas pavyko!
-```
-
-
-## Translation Key: purchase_fail_toast_message
-```
-Purchase failed: %1$s
-```
-translated (by human 👀) as:
-```
-Įsigyti nepavyko: %1$s
-```
-
-
 ## Translation Key: premium_access_unlocked_message
 ```
 Premium access available! You currently have access to premium features.
@@ -1808,26 +1788,6 @@ Patikrina, kad programėlė turėtų prisijungimą prie interneto
 ```
 
 
-## Translation Key: test_internal_file_write
-```
-Test file writing
-```
-translated (by human 👀) as:
-```
-Bandomasis bylos rašymas
-```
-
-
-## Translation Key: test_internal_file_write_description
-```
-Checks that the app can save files on the internal SD card
-```
-translated (by human 👀) as:
-```
-Patikrina, kad programėlė galėtų saugoti bylas vidinėje SD kortelėje
-```
-
-
 ## Translation Key: open_google_play_services_details
 ```
 GP Services (app)
@@ -1925,36 +1885,6 @@ Network test failed
 translated (by human 👀) as:
 ```
 Tinklo bandymas nepavyko
-```
-
-
-## Translation Key: disk_test_failed_internal
-```
-Disk test failed: could not write to internal storage
-```
-translated (by human 👀) as:
-```
-Disko bandymas nepavyko: negalima įrašyti į vidinę saugyklą
-```
-
-
-## Translation Key: disk_test_failed_external
-```
-Disk test failed: could not write to external storage
-```
-translated (by human 👀) as:
-```
-Disko bandymas nepavyko: įrašyti į išorinę saugyklą nepavyko
-```
-
-
-## Translation Key: disk_test_succeeded
-```
-Disk test succeeded
-```
-translated (by human 👀) as:
-```
-Disko bandymas pavyko
 ```
 
 
@@ -5887,4 +5817,66 @@ Download all images
 translated (by machine 🤖) as:
 ```
 Atsisiųskite visus vaizdus
+```
+
+
+## Translation Key: add_offline_map_file_title
+```
+Add offline map file
+```
+translated (by machine 🤖) as:
+```
+Pridėti neprisijungus pasiekiamą žemėlapio failą
+```
+
+
+## Translation Key: add_offline_map_file_description_x
+```
+Select an offline map file to copy to the offline maps folder: %s
+```
+translated (by machine 🤖) as:
+```
+Pasirinkite neprisijungus pasiekiamą žemėlapio failą, kurį norite nukopijuoti į neprisijungus pasiekiamų žemėlapių aplanką: %s
+```
+
+
+## Translation Key: importing_offline_map_file
+```
+Importing offline map file...
+```
+translated (by machine 🤖) as:
+```
+Importuojamas žemėlapio failas neprisijungus ...
+```
+
+
+## Translation Key: offline_map_file_import_succeeded
+```
+Offline map file import succeeded
+```
+translated (by machine 🤖) as:
+```
+Žemėlapio failo neprisijungus importavimas pavyko
+```
+
+
+## Translation Key: offline_map_file_import_failed_x
+```
+Offline map file import failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Nepavyko importuoti žemėlapio failo neprisijungus:
+%s
+```
+
+
+## Translation Key: no_offline_file_selected_message
+```
+The offline maps folder is empty. In order to use offline maps, open the settings and add at least one offline map file.
+```
+translated (by machine 🤖) as:
+```
+Žemėlapių neprisijungus aplankas tuščias. Norėdami naudoti neprisijungus pasiekiamus žemėlapius, atidarykite nustatymus ir pridėkite bent vieną neprisijungus pasiekiamą žemėlapio failą.
 ```
