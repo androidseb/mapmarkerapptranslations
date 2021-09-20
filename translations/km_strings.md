@@ -5837,7 +5837,7 @@ Select an offline map file to copy to the offline maps folder: %s
 ```
 translated (by machine 🤖) as:
 ```
-ជ្រើសរើសឯកសារផែនទីក្រៅបណ្តាញដើម្បីចំលងទៅថតឯកសារផែនទីក្រៅបណ្តាញ៖ _៧
+ជ្រើសរើសឯកសារផែនទីក្រៅបណ្តាញដើម្បីចំលងទៅថតឯកសារផែនទីក្រៅបណ្តាញ៖ %s
 ```
 
 
@@ -5869,7 +5869,7 @@ Offline map file import failed:
 translated (by machine 🤖) as:
 ```
 ការនាំចូលឯកសារផែនទីក្រៅបណ្តាញបានបរាជ័យ៖
-_៧
+%s
 ```
 
 

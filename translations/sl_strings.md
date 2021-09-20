@@ -3886,7 +3886,7 @@ Zgodovina različic zemljevidov in obnovitev
 ```
 Google Material Icons
 ```
-translated (by human 👀 ) as:
+translated (by human 👀) as:
 ```
 Google Material ikone
 ```
@@ -4880,7 +4880,7 @@ Išči mesta
 ```
 Create marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ustvari novo oznako
 ```

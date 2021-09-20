@@ -93,7 +93,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Slovak (0% human-translated)](./translations/sk_strings.md)
 
-[Slovenian (76% human-translated)](./translations/sl_strings.md)
+[Slovenian (93% human-translated)](./translations/sl_strings.md)
 
 [Spanish (17% human-translated)](./translations/es_strings.md)
 
