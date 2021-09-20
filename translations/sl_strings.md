@@ -99,7 +99,7 @@ Could not copy coordinates to clipboard
 ```
 translated (by human 👀) as:
 ```
-Koordinate ni bilo mogoče kopirati v odložišče
+Koordinat ni bilo mogoče kopirati v odložišče
 ```
 
 
@@ -534,7 +534,7 @@ Rate it 5 stars :-)
 ```
 translated (by human 👀) as:
 ```
-Vam je všeč app? 
+Vam je všeč ta aplikacija? 
  Ocenite jo z 5 zvezdic
 ```
 
@@ -3886,9 +3886,9 @@ Zgodovina različic zemljevidov in obnovitev
 ```
 Google Material Icons
 ```
-translated (by machine 🤖) as:
+translated (by human 👀 ) as:
 ```
-Google Material Icons
+Google Material ikone
 ```
 
 
@@ -3938,7 +3938,7 @@ Move to left
 ```
 translated (by human 👀) as:
 ```
-Premik na levo
+Premakni v levo
 ```
 
 
@@ -3948,7 +3948,7 @@ Move to right
 ```
 translated (by human 👀) as:
 ```
-Pomik na desno
+Premakni v desno
 ```
 
 
@@ -4016,7 +4016,7 @@ Podatki za izvoz vsebujejo medije (slike), ki jih ni mogoče vključiti v ta izv
 ```
 CSV
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 CSV
 ```
@@ -4028,7 +4028,7 @@ Standard Google Earth format. Cannot contain media.
 ```
 translated (by human 👀) as:
 ```
-Standardni format Google Zemlja. Ne morem vsebovati medijev.
+Standardni format Google Zemlja. Ne more vsebovati medijev.
 ```
 
 
@@ -4238,7 +4238,7 @@ Boolean (True or False)
 ```
 translated (by human 👀) as:
 ```
-Boolean (Potrdi ali Zavrni)
+Potrjevanje (Potrdi ali Zavrni)
 ```
 
 
@@ -4556,9 +4556,9 @@ Decimalna natančnost
 ```
 Details copied to clipboard
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Podrobnosti so bile kopirane v odložišče
+Podrobnosti so kopirane v odložišče
 ```
 
 
@@ -4566,9 +4566,9 @@ Podrobnosti so bile kopirane v odložišče
 ```
 Copy
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Kopirati
+Kopiraj
 ```
 
 
@@ -4576,9 +4576,9 @@ Kopirati
 ```
 Do you want to click here? ^‿^
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Ali želite klikniti tukaj? ^ ‿ ^
+Če želiš klikniti tukaj? ^ ‿ ^
 ```
 
 
@@ -4604,26 +4604,26 @@ And finally, thank you for reading this :-)
 Regards
 Sébastien
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Hej, hvala za tvojo radovednost! 
  
- Včasih sem imel baner oglasov in sem se odločil poskusiti nekaj drugega in ga zamenjati s tem preprostim sporočilom&#8230; 
+ Včasih sem imel oglasno sporočilo, sedaj pa sem se odločil poskusiti nekaj drugega in ga zamenjal s tem preprostim sporočilom&#8230; 
  
- To aplikacijo sem ustvaril v prostem času kot hobi , poleg tega pa imam polno zaposlitev, in se izkaže, da je postal stranski projekt, na katerem sem preživel veliko časa že več kot 4 leta. 
+ To aplikacijo sem ustvaril v prostem času kot hobi, poleg tega pa imam polno zaposlitev, in se izkaže, da je postal stranski projekt, na katerem sem preživel veliko časa že več kot 4 leta. 
  
- Upam, da vam je všeč aplikacija in jo poiščite. Naredil sem ga tako, da lahko še vedno storite vse, ne da bi vam bilo treba plačati, bi lahko vzela malo več dela. Podatke lahko uvozite ali izvozite ročno, tako da vam nikoli ni treba plačati, pravzaprav je sinhronizacija v oblaku bolj priročna. 
+ Upam, da vam je všeč aplikacija in jo pridno uporabljate. Naredil sem jo tako, da lahko še vedno uporabljate in upravljate vse funkcije, ne da bi vam bilo treba plačati. Podatke lahko uvozite ali izvozite ročno, tako, da vam ne povzroča dodatnih stroškov, pravzaprav pa je sinhronizacija v oblaku bolj priročna.
  
- Če vam je všeč aplikacija, jo podprite: za to vam ni treba porabiti denarja, katera koli od teh kretenj pomaga: 
- - govorite o aplikaciji za ljudi okoli vas 
- - ocenite aplikacijo, ki jo priporočite v trgovini 
- - kupite nadgradnjo premium (odstranite spodnji oglas) 
+ Če vam je všeč aplikacija, jo podprite: za to vam ni treba porabiti veliko denarja, pomaga že samo to da: 
+ - aplicaijo priporočite vašemu prijatelju ali znancu,
+ - ocenite aplikacijo, in jo priporočite v trgovini 
+ - kupite nadgradnjo na premium (tako podprete mene in odstranite spodnji oglas)
  
- Če vam ni všeč aplikacija, prosim email (iz razdelka »o«) in mi sporočite, kako ga lahko izboljšam. Prišel sem daleč zahvaljujoč povratnim informacijam mnogih uporabnikov, ki so mi povedali o tem, kaj so zamudili ali jim ni bilo všeč, in odgovorim na vsakega email , zato ne bodite sramežljivi! 
+ Če vam ni všeč aplikacija, mi prosim pošljite email (povezavo najdete v razdelku »O«) in mi sporočite, kako bi lahko še aplikacijo izboljšal. Prišel sem daleč zahvaljujoč povratnim informacijam in mnogih uporabnikov, ki so mi svetovali z koristnimi predlogi. Odgovorim na vsak email, zato ne bodite sramežljivi in mi pošljite svoje predloge, izboljšave ali kritike! 
  
- In končno, hvala za branje tega :-) 
+ Nakoncu pa se vam zahvaljujem za branje vsega tega :-) 
  
- Regards 
+ Lep pozdrav,
  Sébastien
 ```
 
@@ -4632,7 +4632,7 @@ Hej, hvala za tvojo radovednost!
 ```
 Normal with indoor
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Normalno z notranjim
 ```
@@ -4642,7 +4642,7 @@ Normalno z notranjim
 ```
 Floating marker titles
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Naslovi s plavajočimi oznakami
 ```
@@ -4652,7 +4652,7 @@ Naslovi s plavajočimi oznakami
 ```
 Maximum number
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Največje število
 ```
@@ -4662,7 +4662,7 @@ Največje število
 ```
 Text size
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Velikost besedila
 ```
@@ -4682,9 +4682,9 @@ Iskanje ni uspelo =&gt; %s
 ```
 Do you enjoy the app?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Uživate v aplikaciji?
+Ali vam je aplikacija všeč?
 ```
 
 
@@ -4692,9 +4692,9 @@ Uživate v aplikaciji?
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Ali bi mi radi poslali email, da mi poveš, kako lahko izboljšam aplikacijo?
+Ali bi mi radi poslali email in mi sporočilo, kako lahko še izboljšam aplikacijo?
 ```
 
 
@@ -4702,9 +4702,9 @@ Ali bi mi radi poslali email, da mi poveš, kako lahko izboljšam aplikacijo?
 ```
 Display extra POI fields
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Prikaz dodatnih polj POI
+Pokaži dodatna/lastna polja POI
 ```
 
 
@@ -4722,9 +4722,9 @@ Načrti IGN
 ```
 IGN maps
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Karte IGN
+Mape IGN
 ```
 
 
@@ -4742,9 +4742,9 @@ IGN - katastrske parcele
 ```
 IGN - Aerial
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-IGN - antena
+IGN - zračni posnetek
 ```
 
 
@@ -4752,9 +4752,9 @@ IGN - antena
 ```
 Type more and press enter again for refined results
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Vnesite več in ponovno pritisnite enter za izboljšane rezultate
+Vnesite več podatkov in ponovno pritisnite enter za izboljšavo rezultatov
 ```
 
 
@@ -4792,9 +4792,9 @@ API za Google Iskanje mest
 ```
 Here Places Search API
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Here Places Search API
+Here iskanje mest API
 ```
 
 
@@ -4802,9 +4802,9 @@ Here Places Search API
 ```
 You can search for places with "%s". This search requires an internet connection. Enter your search and then hit enter.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Poiščete lahko mesta z »%s«. To iskanje zahteva internetno povezavo. Vnesite iskanje in nato pritisnite Enter.
+Lahko poiščete mesta z »%s«. Za ta način iskanja boste potrebovali internetno povezavo. Vnesite iskanje in nato pritisnite Enter.
 ```
 
 
@@ -4836,13 +4836,13 @@ Special thanks to the people who worked hard to help with the app translations:
 
 Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Posebna zahvala osebam, ki so trdo delale, da bi pomagale pri prevajanju aplikacij:
+Posebna zahvala gre osebam, ki so trdno delale, da bi pomagale pri prevajanju aplikacije:
 %s
-… In tudi tisti, ki so omenili
+… In tudi tisti, ki so jo priporočili ostalim uporabnikom
 
-Prav tako, hvala vsem uporabnikom, ki so mi v preteklih letih dali povratne informacije in mi neprestano pomagali izboljšati aplikacijo.
+Prav tako, hvala vsem uporabnikom, ki so mi v preteklih letih pošiljali povratne informacije in mi neprestano pomagali izboljševati aplikacijo.
 ```
 
 
@@ -4850,9 +4850,9 @@ Prav tako, hvala vsem uporabnikom, ki so mi v preteklih letih dali povratne info
 ```
 Local map file
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Lokalna mapna datoteka
+Lokalna mapa
 ```
 
 
@@ -4882,7 +4882,7 @@ Create marker
 ```
 translated (by machine 🤖) as:
 ```
-Ustvari oznako
+Ustvari novo oznako
 ```
 
 
@@ -4890,9 +4890,9 @@ Ustvari oznako
 ```
 Cloud map file with account:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Datoteka s karto v oblaku z računom:
+Mapa v oblaku z računom:
 ```
 
 
@@ -4915,14 +4915,14 @@ Exclusive premium features:
 
 You can purchase the lifetime premium upgrade for your Apple account by clicking the "Purchase" button below.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ekskluzivne premijske funkcije:
 - Ni oglasov
 - Sinhronizacija Google Drive
 - Sodelujte prek Google Drive
 
-Žensko premijo za Apple lahko kupite tako, da kliknete spodnji gumb "Nakup".
+Lahko kupite doživljensko premijum nadgradnjo tako, da kliknete spodnji gumb "Nakup".
 ```
 
 
@@ -4940,9 +4940,9 @@ Nakup
 ```
 Restore premium upgrade
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Obnovi nadgradnjo premije
+Obnovi premijsko nadgradnjo aplikacije
 ```
 
 
@@ -4990,9 +4990,9 @@ Nadgradnje premije iz vašega računa ni bilo mogoče obnoviti
 ```
 Error: could not retrieve the product information.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Napaka: podatkov o izdelku ni bilo mogoče pridobiti.
+Napaka: Podatkov o izdelku ni bilo mogoče pridobiti.
 ```
 
 
@@ -5000,9 +5000,9 @@ Napaka: podatkov o izdelku ni bilo mogoče pridobiti.
 ```
 Error: it seems your iTunes account is not able to make payments. Please verify your payment settings and try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Napaka: zdi se, da vaš račun za iTunes ne more plačevati. Preverite nastavitve plačil in poskusite znova.
+Napaka: Zgleda, da vaš iTunes račun ne more plačevati. Preverite nastavitve plačil in poskusite ponovno.
 ```
 
 
@@ -5010,9 +5010,9 @@ Napaka: zdi se, da vaš račun za iTunes ne more plačevati. Preverite nastavitv
 ```
 Error: purchase failed, please try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Napaka: nakup ni uspel, poskusite znova.
+Napaka: Nakup ni uspel, poskusite znova.
 ```
 
 
@@ -5030,9 +5030,9 @@ Napaka: ni bilo mogoče vzpostaviti povezave s trgovino iTunes.
 ```
 Has local changes, last sync:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Ima lokalne spremembe, zadnjo sinhronizacijo:
+Ima lokalne spremembe, zadnja sinhronizacija:
 ```
 
 
@@ -5040,9 +5040,9 @@ Ima lokalne spremembe, zadnjo sinhronizacijo:
 ```
 Has cloud changes, last sync:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Ima spremembe v oblaku, zadnjo sinhronizacijo:
+Narejene so spremembe v oblaku. Zadnja sinhronizacija:
 ```
 
 
@@ -5050,9 +5050,9 @@ Ima spremembe v oblaku, zadnjo sinhronizacijo:
 ```
 All changes synced, last sync:
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Vse spremembe so sinhronizirane, zadnja sinhronizacija:
+Vse spremembe so sinhronizirane. Zadnja sinhronizacija:
 ```
 
 
@@ -5060,7 +5060,7 @@ Vse spremembe so sinhronizirane, zadnja sinhronizacija:
 ```
 A sync error occurred: the cloud data was created with an older version of the Android app. You need to sync the cloud data again from a more recent version of the Android app before it can be synced here.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Prišlo je do napake pri sinhronizaciji: podatki v oblaku so bili ustvarjeni s starejšo različico aplikacije za Android. Podatke v oblaku morate znova sinhronizirati iz novejše različice aplikacije za Android, preden jo lahko sinhronizirate tukaj.
 ```
@@ -5074,13 +5074,13 @@ If you own the cloud account where the cloud map is located, then you probably a
 
 If the cloud account where the cloud map is located is not your own and is shared with you, ask the cloud account owner.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Prišlo je do napake pri sinhronizaciji: osnovne datoteke v oblaku ni bilo mogoče najti.
 
-Če ste lastnik računa v oblaku, kjer se nahaja mapa v oblaku, potem ste jo verjetno nenamerno izbrisali, preverite mapo za odpadke v oblaku in jo boste morda lahko obnovili!
+Če ste lastnik računa v oblaku, kjer se nahaja mapa, potem ste jo verjetno nenamerno izbrisali, preverite mapo v košu v vašem oblaku in jo poskusite obnovili!
 
-Če račun v oblaku, kjer se nahaja mapa v oblaku, ni vaš in ga delite z vami, vprašajte lastnika računa v oblaku.
+Če je račun v oblaku, kjer se nahaja mapa in to ni vaš in ga lahko delite z vami, vprašajte lastnika računa če vam dovoli dostop.
 ```
 
 
@@ -5088,9 +5088,9 @@ Prišlo je do napake pri sinhronizaciji: osnovne datoteke v oblaku ni bilo mogo�
 ```
 Drop some files here, or click to select files to upload.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Tukaj spustite nekaj datotek ali kliknite, da izberete datoteke za nalaganje.
+Tukaj lahko spustite nekaj datotek ali kliknite, da izberete datoteke za nalaganje.
 ```
 
 
@@ -5098,9 +5098,9 @@ Tukaj spustite nekaj datotek ali kliknite, da izberete datoteke za nalaganje.
 ```
 Uploading files…
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Nalaganje datotek ...
+Datoteke se nalagajo ...
 ```
 
 
@@ -5108,9 +5108,9 @@ Nalaganje datotek ...
 ```
 You need to open a cloud map in order to be able to add images. Open a cloud map, or sync this map to the cloud and try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Če želite dodati slike, morate odpreti mapo v oblaku. Odprite mapo v oblaku ali sinhronizirajte ta zemljevid z oblakom in poskusite znova.
+Za dodajanje slik, morate odpreti mapo v oblaku. Odprite mapo ali pa sinhronizirajte ta zemljevid v oblaku in poskusite znova.
 ```
 
 
@@ -5118,7 +5118,7 @@ translated (by machine 🤖) as:
 ```
 Some files failed to upload.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Nekaterih datotek ni bilo mogoče naložiti.
 ```
@@ -5128,9 +5128,9 @@ Nekaterih datotek ni bilo mogoče naložiti.
 ```
 Log in
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Vpiši se
+Vpišite se
 ```
 
 
@@ -5138,9 +5138,9 @@ Vpiši se
 ```
 To continue, you need to log in with your cloud account. Click the "log in" button below to log in.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Če želite nadaljevati, se morate prijaviti z računom v oblaku. Kliknite spodnji gumb za prijavo, da se prijavite.
+Če želite nadaljevati, se morate prijaviti z računom v oblaku. Kliknite spodnji gumb za prijavo in se prijavite.
 ```
 
 
@@ -5148,7 +5148,7 @@ translated (by machine 🤖) as:
 ```
 Select a file
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Izberite datoteko
 ```
@@ -5158,9 +5158,9 @@ Izberite datoteko
 ```
 Drop a file here, or click here to select from your computer.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Tukaj spustite datoteko ali kliknite tukaj, da jo izberete iz računalnika.
+Tukaj spustite datoteko ali kliknite, da jo izberete iz računalnika.
 ```
 
 
@@ -5168,7 +5168,7 @@ Tukaj spustite datoteko ali kliknite tukaj, da jo izberete iz računalnika.
 ```
 Use cloud account: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Uporabite račun v oblaku: %s
 ```
@@ -5188,9 +5188,9 @@ Uporabite drug račun v oblaku
 ```
 The choices list cannot be empty
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Seznam izbir ne sme biti prazen
+Izbirni seznam ne sme biti prazen
 ```
 
 
@@ -5208,7 +5208,7 @@ Prazne izbire niso dovoljene
 ```
 The name of the custom field cannot be empty
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ime polja po meri ne sme biti prazno
 ```
@@ -5238,9 +5238,9 @@ Iskanje in brisanje dvojnikov
 ```
 This will search for duplicate markers with the exact same data and delete the duplicates. Only one copy of each unique marker will be left after this cleanup. Do you want to proceed?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-S tem boste poiskali podvojene oznake z istimi podatki in izbrisali dvojnike. Po tem čiščenju bo ostala le ena kopija vsakega posebnega označevalnika. Ali želite nadaljevati?
+S tem boste poiskali podvojene oznake z enakimi podatki in pobrisali dvojnike. Po tem čiščenju bo ostala le ena kopija vsakega označevalnika. Ali želite nadaljevati?
 ```
 
 
@@ -5258,7 +5258,7 @@ Iskanje in brisanje podvojenih ...
 ```
 Deleted %d duplicates
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Izbrisanih %d dvojnikov
 ```
@@ -5268,9 +5268,9 @@ Izbrisanih %d dvojnikov
 ```
 Would you prefer to search from another source?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Bi raje iskali iz drugega vira?
+Bi raje poskusili iskati iz drugega vira?
 ```
 
 
@@ -5278,9 +5278,9 @@ Bi raje iskali iz drugega vira?
 ```
 Change source
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Spremeni vir
+Spremenite vir
 ```
 
 
@@ -5288,7 +5288,7 @@ Spremeni vir
 ```
 Wondering how to configure search sources? Click here.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Se sprašujete, kako konfigurirati iskalne vire? Klikni tukaj.
 ```
@@ -5298,9 +5298,9 @@ Se sprašujete, kako konfigurirati iskalne vire? Klikni tukaj.
 ```
 Places search sources
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Namesti iskalne vire
+Nastavite iskalne vire
 ```
 
 
@@ -5308,7 +5308,7 @@ Namesti iskalne vire
 ```
 Add or configure search source
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Dodajte ali konfigurirajte iskalni vir
 ```
@@ -5318,7 +5318,7 @@ Dodajte ali konfigurirajte iskalni vir
 ```
 Select search source
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Izberite iskalni vir
 ```
@@ -5328,7 +5328,7 @@ Izberite iskalni vir
 ```
 Enter value for field "%s"
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vnesite vrednost za polje "%s"
 ```
@@ -5338,9 +5338,9 @@ Vnesite vrednost za polje "%s"
 ```
 Algolia Places Search API (daily limit)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Algolia Places Search API (dnevna omejitev)
+Iskanje krajev Algolia API (dnevna omejitev)
 ```
 
 
@@ -5348,9 +5348,9 @@ Algolia Places Search API (dnevna omejitev)
 ```
 Algolia Places Search API (personal account)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Algolia Places Search API (osebni račun)
+Iskanje krajev Algolia API (osebni račun)
 ```
 
 
@@ -5358,9 +5358,9 @@ Algolia Places Search API (osebni račun)
 ```
 The search source configuration test succeeded! The search with this search source should now work.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Test konfiguracije iskalnega vira je uspel! Iskanje s tem iskalnim virom naj bi zdaj delovalo.
+Test konfiguracije iskalnega vira JE USPELA! Iskanje s tem virom bo sedaj delovalo.
 ```
 
 
@@ -5368,9 +5368,9 @@ Test konfiguracije iskalnega vira je uspel! Iskanje s tem iskalnim virom naj bi 
 ```
 Warning: the search source configuration test failed. The search with this search source might not work.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Opozorilo: test konfiguracije iskalnega vira ni uspel. Iskanje s tem iskalnim virom morda ne bo delovalo.
+Opozorilo: Konfiguracija iskalnega vira NI USPELA. Iskanje s tem iskalnim virom morda ne bo pravilno delovala.
 ```
 
 
@@ -5378,9 +5378,9 @@ Opozorilo: test konfiguracije iskalnega vira ni uspel. Iskanje s tem iskalnim vi
 ```
 Google Places Search
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Google Places Search
+Iskanje Google mesta
 ```
 
 
@@ -5388,7 +5388,7 @@ Google Places Search
 ```
 HERE
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 HERE
 ```
@@ -5398,7 +5398,7 @@ HERE
 ```
 Nominatim
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Nominatim
 ```
@@ -5408,7 +5408,7 @@ Nominatim
 ```
 Pelias
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Pelias
 ```
@@ -5418,9 +5418,9 @@ Pelias
 ```
 Algolia (public)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Algolia (public)
+Algolia (javo)
 ```
 
 
@@ -5428,9 +5428,9 @@ Algolia (public)
 ```
 Algolia (private)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Algolia (private)
+Algolia (zasebno)
 ```
 
 
@@ -5438,7 +5438,7 @@ Algolia (private)
 ```
 Tutorial
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vadnica
 ```
@@ -5454,13 +5454,13 @@ It should only take a little bit of your time and will allow you to benefit from
 
 Click the "Change source" button and then the "Tutorial" option to learn more.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Privzeta izkušnja iskanja ni optimalna, vendar deluje brez konfiguracije.
+Privzet način iskanja ni optimaeln, vendar deluje brez konfiguracije.
 
-Če veliko iskanja uporabljate, je zelo priporočljivo, da nastavite iskalni vir tretje osebe, da izkoristi boljše rezultate iskanja.
+Če uporabljate veliko iskanje, je zelo priporočljivo, da nastavite iskalni vir tretje osebe in tako izboljšate samo iskanje.
 
-To bi moralo trajati le malo vašega časa in vam bo omogočilo, da boste imeli koristi od boljših rezultatov iskanja brezplačno.
+To vam bo vzelo malo vašega časa in vam pomagalo koristiti boljše rezultate iskanja.
 
 Če želite izvedeti več, kliknite gumb »Spremeni vir« in nato možnost »Vadnica«.
 ```
@@ -5470,9 +5470,9 @@ To bi moralo trajati le malo vašega časa in vam bo omogočilo, da boste imeli 
 ```
 Integrated Android Street Addresses Finder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Integrated Android Street Addresses Finder
+Integriran iskalnik naslovov za Android
 ```
 
 
@@ -5480,9 +5480,9 @@ Integrated Android Street Addresses Finder
 ```
 Android Geocoder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Android Geocoder
+Android Geokodiranje
 ```
 
 
@@ -5500,9 +5500,9 @@ Integrated iOS Street Addresses Finder
 ```
 iOS Geocoder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-iOS Geocoder
+iOS Geokodiranje
 ```
 
 
@@ -5510,9 +5510,9 @@ iOS Geocoder
 ```
 Microsoft Bing Places Search
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Microsoft Bing Places Search
+Microsoft Bing način iskanja
 ```
 
 
@@ -5520,7 +5520,7 @@ Microsoft Bing Places Search
 ```
 Bing
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Bing
 ```
@@ -5530,9 +5530,9 @@ Bing
 ```
 You can only select one file to import at a time
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Can izberete samo eno datoteko za uvoz at a časa
+Lahko izberete samo eno datoteko za uvoz
 ```
 
 
@@ -5540,9 +5540,9 @@ Can izberete samo eno datoteko za uvoz at a časa
 ```
 You can only import files with the following extensions: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Datoteke can uvozite samo z naslednjimi razširitvami: %s
+Datoteke lahko uvozite samo z naslednjimi razširitvami: %s
 ```
 
 
@@ -5550,9 +5550,9 @@ Datoteke can uvozite samo z naslednjimi razširitvami: %s
 ```
 This folder has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Ta mapa ima podmape. Ali želite izbrisati tudi podmape? Vse oznake, povezane z izbrisanimi mapami, bodo trajno izbrisane!
+Ta mapa vsebuje tudi podmape. Ali želite izbrisati tudi njene podmape? Izbrisane bodo tudi vse povezane oznake!
 ```
 
 
@@ -5560,7 +5560,7 @@ Ta mapa ima podmape. Ali želite izbrisati tudi podmape? Vse oznake, povezane z 
 ```
 Delete folder only
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Izbriši samo mapo
 ```
@@ -5570,9 +5570,9 @@ Izbriši samo mapo
 ```
 Delete folder + sub-folders
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Izbriši mapo + podmape
+Izbriši mapo in njene podmape
 ```
 
 
@@ -5580,9 +5580,9 @@ Izbriši mapo + podmape
 ```
 Are you sure you want to delete these folders? All markers associated to these folders will be deleted permanently!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Ali ste prepričani, da želite te mape izbrisati? Vse oznake, povezane s temi mapami, bodo trajno izbrisane!
+Ali ste prepričani, da želite izbrisati te mape? Vse oznake povezane s temi mapami bodo trajno izbrisane!
 ```
 
 
@@ -5590,9 +5590,9 @@ Ali ste prepričani, da želite te mape izbrisati? Vse oznake, povezane s temi m
 ```
 At least one of the folders to delete has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Vsaj ena od map, ki jih želite izbrisati, ima podmape. Ali želite izbrisati tudi podmape? Vse oznake, povezane z izbrisanimi mapami, bodo trajno izbrisane!
+Vsaj ena od map, ki jih želite izbrisati ima podmape. Ali želite izbrisati tudi njene podmape? Vse oznake povezane z izbrisanimi mapami bodo prav tako trajno izbrisane!
 ```
 
 
@@ -5600,7 +5600,7 @@ Vsaj ena od map, ki jih želite izbrisati, ima podmape. Ali želite izbrisati tu
 ```
 Create sub-folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Ustvari podmapo
 ```
@@ -5610,9 +5610,9 @@ Ustvari podmapo
 ```
 Sub-folder created
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Ustvarena je podmapa
+Podmapa je ustvarena
 ```
 
 
@@ -5620,7 +5620,7 @@ Ustvarena je podmapa
 ```
 Move folders to folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Premaknite mape v mapo
 ```
@@ -5640,9 +5640,9 @@ Mape ne morete premakniti enemu od njenih potomcev.
 ```
 Root
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Korenina
+Izvor
 ```
 
 
@@ -5650,7 +5650,7 @@ Korenina
 ```
 Map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Zemljevid
 ```
@@ -5660,7 +5660,7 @@ Zemljevid
 ```
 Select folders
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Izberite mape
 ```
@@ -5670,7 +5670,7 @@ Izberite mape
 ```
 Enter your bucket name
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vnesite ime segmenta
 ```
@@ -5680,7 +5680,7 @@ Vnesite ime segmenta
 ```
 Enter your access key ID
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vnesite svoj ID ključa za dostop
 ```
@@ -5690,9 +5690,9 @@ Vnesite svoj ID ključa za dostop
 ```
 Enter your secret access key
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Vnesite svoj tajni ključ za dostop
+Za dostop vnesite svoj varnostni ključ
 ```
 
 
@@ -5700,7 +5700,7 @@ Vnesite svoj tajni ključ za dostop
 ```
 Always display the default folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Vedno prikaži privzeto mapo
 ```
@@ -5710,7 +5710,7 @@ Vedno prikaži privzeto mapo
 ```
 You cannot make changes on this map file because it is in read-only mode.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Te datoteke zemljevida ne morete spreminjati, ker je v načinu samo za branje.
 ```
@@ -5724,11 +5724,11 @@ It should only take a little bit of your time and will allow you to access searc
 
 Click the "Change source" button and then the "Tutorial" option to learn more.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Trenutno ni konfiguriran noben vir iskanja. Če želite iskati, morate konfigurirati vir iskanja tretje osebe.
 
-Vzelo bi vam le malo časa in vam omogočilo brezplačen dostop do rezultatov iskanja.
+Vzelo vam bo le nekaj časa in vam omogočilo brezplačen dostop do bolj natančnih rezultatov iskanja.
 
 Kliknite gumb "Spremeni vir" in nato možnost "Vadnica", če želite izvedeti več.
 ```
@@ -5739,7 +5739,7 @@ Kliknite gumb "Spremeni vir" in nato možnost "Vadnica", če želite izvedeti ve
 Google authentication error:
 %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Napaka pri preverjanju pristnosti Googla:
 %s
@@ -5750,7 +5750,7 @@ Napaka pri preverjanju pristnosti Googla:
 ```
 Google Maps (Plan)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Google Maps (načrt)
 ```
@@ -5760,7 +5760,7 @@ Google Maps (načrt)
 ```
 Google Maps (Plan + Indoor)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Google Maps (načrt + notranji)
 ```
@@ -5770,7 +5770,7 @@ Google Maps (načrt + notranji)
 ```
 Google Maps (Satellite)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Google Maps (satelit)
 ```
@@ -5780,7 +5780,7 @@ Google Maps (satelit)
 ```
 Google Maps (Terrain)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Google Maps (teren)
 ```
@@ -5790,7 +5790,7 @@ Google Maps (teren)
 ```
 Google Maps (Hybrid)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Google Maps (hibridno)
 ```
@@ -5801,7 +5801,7 @@ Google Maps (hibridno)
 Last sync:
 %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Zadnja sinhronizacija:
 %s
@@ -5812,9 +5812,9 @@ Zadnja sinhronizacija:
 ```
 Download all images
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Prenesite vse slike
+Prenesi vse slike
 ```
 
 
@@ -5822,7 +5822,7 @@ Prenesite vse slike
 ```
 Add offline map file
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Dodajte datoteko zemljevida brez povezave
 ```
@@ -5832,7 +5832,7 @@ Dodajte datoteko zemljevida brez povezave
 ```
 Select an offline map file to copy to the offline maps folder: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Izberite datoteko zemljevida brez povezave, ki jo želite kopirati v mapo brez zemljevidov: %s
 ```
@@ -5842,7 +5842,7 @@ Izberite datoteko zemljevida brez povezave, ki jo želite kopirati v mapo brez z
 ```
 Importing offline map file...
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Uvažanje datoteke zemljevida brez povezave ...
 ```
@@ -5852,7 +5852,7 @@ Uvažanje datoteke zemljevida brez povezave ...
 ```
 Offline map file import succeeded
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Uvoz datoteke zemljevida brez povezave je uspel
 ```
@@ -5863,7 +5863,7 @@ Uvoz datoteke zemljevida brez povezave je uspel
 Offline map file import failed:
 %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Uvoz datoteke zemljevida brez povezave ni uspel:
 %s
@@ -5874,7 +5874,7 @@ Uvoz datoteke zemljevida brez povezave ni uspel:
 ```
 The offline maps folder is empty. In order to use offline maps, open the settings and add at least one offline map file.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Mapa brez zemljevidov je prazna. Če želite uporabljati zemljevide brez povezave, odprite nastavitve in dodajte vsaj eno datoteko zemljevida brez povezave.
+Mapa brez zemljevidov je prazna. Če želite uporabljati zemljevide brez povezave, odprite nastavitve in dodajte vsaj eno datoteko zemljevida v načinu brez povezave.
 ```
