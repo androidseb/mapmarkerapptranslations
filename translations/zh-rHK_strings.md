@@ -5903,6 +5903,16 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: image_full_size
+```
+Image full size
+```
+translated (by machine 🤖) as:
+```
+圖像全尺寸
+```
+
+
 ## Translation Key: image_saving
 ```
 Image saving

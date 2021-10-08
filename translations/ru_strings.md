@@ -5900,6 +5900,16 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: image_full_size
+```
+Image full size
+```
+translated (by machine 🤖) as:
+```
+Изображение в полном размере
+```
+
+
 ## Translation Key: image_saving
 ```
 Image saving

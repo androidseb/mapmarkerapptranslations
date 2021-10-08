@@ -5903,6 +5903,16 @@ Resim maksimum boyutu
 ```
 
 
+## Translation Key: image_full_size
+```
+Image full size
+```
+translated (by machine 🤖) as:
+```
+Resim tam boy
+```
+
+
 ## Translation Key: image_saving
 ```
 Image saving

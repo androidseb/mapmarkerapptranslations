@@ -5903,6 +5903,16 @@ Dimensiunea maximă a imaginii
 ```
 
 
+## Translation Key: image_full_size
+```
+Image full size
+```
+translated (by machine 🤖) as:
+```
+Imagine la dimensiune completă
+```
+
+
 ## Translation Key: image_saving
 ```
 Image saving

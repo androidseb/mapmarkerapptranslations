@@ -5903,6 +5903,16 @@ Kích thước tối đa của hình ảnh
 ```
 
 
+## Translation Key: image_full_size
+```
+Image full size
+```
+translated (by machine 🤖) as:
+```
+Kích thước đầy đủ của hình ảnh
+```
+
+
 ## Translation Key: image_saving
 ```
 Image saving

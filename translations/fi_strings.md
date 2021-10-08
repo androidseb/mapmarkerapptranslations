@@ -5903,6 +5903,16 @@ Kuvan maksimikoko
 ```
 
 
+## Translation Key: image_full_size
+```
+Image full size
+```
+translated (by machine 🤖) as:
+```
+Kuva täysikokoisena
+```
+
+
 ## Translation Key: image_saving
 ```
 Image saving

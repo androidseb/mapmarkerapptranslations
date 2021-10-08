@@ -5903,6 +5903,16 @@ Maksimālais attēla izmērs
 ```
 
 
+## Translation Key: image_full_size
+```
+Image full size
+```
+translated (by machine 🤖) as:
+```
+Attēls pilnā izmērā
+```
+
+
 ## Translation Key: image_saving
 ```
 Image saving

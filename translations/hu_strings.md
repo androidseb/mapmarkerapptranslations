@@ -5903,6 +5903,16 @@ A kép maximális mérete
 ```
 
 
+## Translation Key: image_full_size
+```
+Image full size
+```
+translated (by machine 🤖) as:
+```
+Kép teljes méretben
+```
+
+
 ## Translation Key: image_saving
 ```
 Image saving

@@ -5907,6 +5907,16 @@ Maksimal størrelse på billedet
 ```
 
 
+## Translation Key: image_full_size
+```
+Image full size
+```
+translated (by machine 🤖) as:
+```
+Billede i fuld størrelse
+```
+
+
 ## Translation Key: image_saving
 ```
 Image saving

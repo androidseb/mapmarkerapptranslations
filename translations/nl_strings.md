@@ -5897,6 +5897,16 @@ Maximale afbeeldingsgrootte
 ```
 
 
+## Translation Key: image_full_size
+```
+Image full size
+```
+translated (by machine 🤖) as:
+```
+Afbeelding op volledige grootte
+```
+
+
 ## Translation Key: image_saving
 ```
 Image saving

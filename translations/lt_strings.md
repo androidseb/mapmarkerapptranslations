@@ -5902,6 +5902,16 @@ Maksimalus vaizdo dydis
 ```
 
 
+## Translation Key: image_full_size
+```
+Image full size
+```
+translated (by machine 🤖) as:
+```
+Vaizdas visu dydžiu
+```
+
+
 ## Translation Key: image_saving
 ```
 Image saving

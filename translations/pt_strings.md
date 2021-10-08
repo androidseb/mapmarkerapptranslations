@@ -5903,6 +5903,16 @@ Tamanho máximo da imagem
 ```
 
 
+## Translation Key: image_full_size
+```
+Image full size
+```
+translated (by machine 🤖) as:
+```
+Imagem em tamanho grande
+```
+
+
 ## Translation Key: image_saving
 ```
 Image saving

@@ -5903,6 +5903,16 @@ Maksimalna veličina slike
 ```
 
 
+## Translation Key: image_full_size
+```
+Image full size
+```
+translated (by machine 🤖) as:
+```
+Slika u punoj veličini
+```
+
+
 ## Translation Key: image_saving
 ```
 Image saving
