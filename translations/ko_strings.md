@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 오프라인지도 폴더가 비어 있습니다. 오프라인지도를 사용하려면 설정을 열고 하나 이상의 오프라인지도 파일을 추가하세요.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+이미지 압축
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+이미지 최대 크기
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+이미지 저장
+```

@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 مجلد الخرائط غير المتصلة فارغ. من أجل استخدام الخرائط غير المتصلة بالإنترنت ، افتح الإعدادات وأضف ملف خرائط واحد على الأقل غير متصل بالإنترنت.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+ضغط الصورة
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+الحجم الأقصى للصورة
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+حفظ الصورة
+```

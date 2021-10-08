@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 Mapa izvanmrežnih karata je prazna. Da biste koristili izvanmrežne karte, otvorite postavke i dodajte barem jednu datoteku izvanmrežne karte.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Kompresija slike
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Maksimalna veličina slike
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Spremanje slike
+```

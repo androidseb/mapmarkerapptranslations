@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 Dosarul de hărți offline este gol. Pentru a utiliza hărțile offline, deschideți setările și adăugați cel puțin un fișier de hartă offline.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Compresia imaginii
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Dimensiunea maximă a imaginii
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Salvarea imaginii
+```

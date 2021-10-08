@@ -5882,3 +5882,33 @@ translated (by machine 🤖) as:
 ```
 オフラインマップフォルダは空です。オフラインマップを使用するには、設定を開き、少なくとも1つのオフラインマップファイルを追加します。
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+画像圧縮
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+画像の最大サイズ
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+画像保存
+```

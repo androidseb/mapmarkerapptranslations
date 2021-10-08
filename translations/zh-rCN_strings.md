@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 离线地图文件夹为空。要使用离线地图，请打开设置并添加至少一个离线地图文件。
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+图像压缩
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+图片最大尺寸
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+图片保存
+```

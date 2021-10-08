@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 Директоријум офлајн мапа је празан. Да бисте користили офлајн мапе, отворите подешавања и додајте бар једну датотеку офлајн мапе.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Компресија слике
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Максимална величина слике
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Чување слике
+```

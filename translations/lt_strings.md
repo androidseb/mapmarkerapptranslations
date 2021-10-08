@@ -5880,3 +5880,33 @@ translated (by machine 🤖) as:
 ```
 Žemėlapių neprisijungus aplankas tuščias. Norėdami naudoti neprisijungus pasiekiamus žemėlapius, atidarykite nustatymus ir pridėkite bent vieną neprisijungus pasiekiamą žemėlapio failą.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Vaizdo suspaudimas
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Maksimalus vaizdo dydis
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Vaizdo taupymas
+```

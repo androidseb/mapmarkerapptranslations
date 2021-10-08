@@ -5885,3 +5885,33 @@ translated (by machine 🤖) as:
 ```
 Offline-kortmappen er tom. For at bruge offline kort skal du åbne indstillingerne og tilføje mindst en offline kortfil.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Billedkomprimering
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Maksimal størrelse på billedet
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Billede gemmer
+```

@@ -5878,3 +5878,33 @@ translated (by human 👀) as:
 ```
 Mapa brez zemljevidov je prazna. Če želite uporabljati zemljevide brez povezave, odprite nastavitve in dodajte vsaj eno datoteko zemljevida v načinu brez povezave.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Stiskanje slike
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Največja velikost slike
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Shranjevanje slike
+```

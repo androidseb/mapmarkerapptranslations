@@ -5873,3 +5873,33 @@ translated (by machine 🤖) as:
 ```
 離線地圖文件夾為空。要使用離線地圖，請打開設置並添加至少一個離線地圖文件。
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+圖像壓縮
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+圖片最大尺寸
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+圖片保存
+```

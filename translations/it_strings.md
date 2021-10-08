@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 La cartella delle mappe offline è vuota. Per utilizzare le mappe offline, apri le impostazioni e aggiungi almeno un file mappa offline.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Compressione delle immagini
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Dimensione massima dell'immagine
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Salvataggio dell'immagine
+```

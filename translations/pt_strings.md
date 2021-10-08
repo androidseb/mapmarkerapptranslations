@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 A pasta de mapas offline está vazia. Para usar mapas offline, abra as configurações e adicione pelo menos um arquivo de mapa offline.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Compressão de imagem
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Tamanho máximo da imagem
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Salvar imagem
+```

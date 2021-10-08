@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 La carpeta de mapas sin conexión está vacía. Para utilizar mapas sin conexión, abra la configuración y agregue al menos un archivo de mapa sin conexión.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Compresión de imagen
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Tamaño máximo de la imagen
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Guardar imagen
+```

@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 Složka offline map je prázdná. Chcete-li používat offline mapy, otevřete nastavení a přidejte alespoň jeden offline mapový soubor.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Komprese obrazu
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Maximální velikost obrázku
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Ukládání obrázku
+```

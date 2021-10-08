@@ -5875,3 +5875,33 @@ translated (by machine 🤖) as:
 ```
 De map met offline kaarten is leeg. Om offline kaarten te gebruiken, opent u de instellingen en voegt u ten minste één offline kaartbestand toe.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Beeldcompressie
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Maximale afbeeldingsgrootte
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Afbeelding opslaan
+```

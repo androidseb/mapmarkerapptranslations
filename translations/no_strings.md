@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 Kartmappen for offline er tom. For å bruke offline kart, åpne innstillingene og legg til minst en offline kartfil.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Bildekomprimering
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Maksimal størrelse på bildet
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Bilde lagring
+```

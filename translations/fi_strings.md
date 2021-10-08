@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 Offline-karttojen kansio on tyhjä. Jos haluat käyttää offline-karttoja, avaa asetukset ja lisää ainakin yksi offline-karttatiedosto.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Kuvan pakkaus
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Kuvan maksimikoko
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Kuvan säästäminen
+```

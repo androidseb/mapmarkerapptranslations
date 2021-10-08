@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 תיקיית המפות הלא מקוונות ריקה. על מנת להשתמש במפות לא מקוונות, פתח את ההגדרות והוסף לפחות קובץ מפה לא מקוון אחד.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+דחיסת תמונה
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+גודל מקסימלי של התמונה
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+שמירת תמונה
+```

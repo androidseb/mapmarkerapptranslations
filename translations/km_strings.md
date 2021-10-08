@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 ថតផែនទីក្រៅបណ្តាញគឺទទេ។ ដើម្បីប្រើផែនទីក្រៅបណ្តាញបើកការកំណត់ហើយបន្ថែមឯកសារផែនទីក្រៅបណ្តាញយ៉ាងហោចណាស់មួយ។
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+ការបង្រួមរូបភាព
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+ទំហំរូបភាពអតិបរមា
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+ការរក្សាទុករូបភាព
+```

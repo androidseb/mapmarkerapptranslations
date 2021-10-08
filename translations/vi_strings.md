@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 Thư mục bản đồ ngoại tuyến trống. Để sử dụng bản đồ ngoại tuyến, hãy mở cài đặt và thêm ít nhất một tệp bản đồ ngoại tuyến.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Nén hình ảnh
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Kích thước tối đa của hình ảnh
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Lưu hình ảnh
+```

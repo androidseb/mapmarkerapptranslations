@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 La carpeta de mapes fora de línia està buida. Per utilitzar mapes fora de línia, obriu la configuració i afegiu com a mínim un fitxer de mapa fora de línia.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Compressió d’imatges
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Mida màxima de la imatge
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Estalvi d’imatges
+```

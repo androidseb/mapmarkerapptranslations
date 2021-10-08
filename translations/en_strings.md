@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 The offline maps folder is empty. In order to use offline maps, open the settings and add at least one offline map file.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Image compression
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Image max size
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Image saving
+```

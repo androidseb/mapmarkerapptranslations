@@ -5881,3 +5881,33 @@ translated (by human 👀) as:
 ```
 Le dossier des cartes hors-ligne est vide. Pour utiliser les cartes hors-ligne, ouvrez les réglages et ajoutez au moins un fichier de carte hors-ligne.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by human 👀) as:
+```
+Compression de l'image
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by human 👀) as:
+```
+Taille maximum de l'image
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by human 👀) as:
+```
+Enregistrement d'image
+```

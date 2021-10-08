@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 Az offline térképek mappa üres. Az offline térképek használatához nyissa meg a beállításokat, és adjon hozzá legalább egy offline térképfájlt.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Kép tömörítés
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+A kép maximális mérete
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Képmentés
+```

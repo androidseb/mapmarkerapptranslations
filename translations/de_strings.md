@@ -5878,3 +5878,33 @@ translated (by machine 🤖) as:
 ```
 Der Offlinekartenordner ist leer. Um Offline-Karten zu verwenden, öffnen Sie die Einstellungen und fügen Sie mindestens eine Offline-Kartendatei hinzu.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Bildkompression
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Maximale Bildgröße
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Bildspeicherung
+```

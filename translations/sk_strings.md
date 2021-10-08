@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 Priečinok máp offline je prázdny. Ak chcete používať mapy v režime offline, otvorte nastavenia a pridajte aspoň jeden súbor mapy v režime offline.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Kompresia obrazu
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Maximálna veľkosť obrázku
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Ukladanie obrazu
+```

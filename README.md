@@ -33,7 +33,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 ## Translation languages list
 
-[Arabic (79% human-translated)](./translations/ar_strings.md)
+[Arabic (78% human-translated)](./translations/ar_strings.md)
 
 [Bulgarian (0% human-translated)](./translations/bg_strings.md)
 
@@ -43,7 +43,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Chinese Traditional (1% human-translated)](./translations/zh-rHK_strings.md)
 
-[Chinese Taiwan (27% human-translated)](./translations/zh-rTW_strings.md)
+[Chinese Taiwan (26% human-translated)](./translations/zh-rTW_strings.md)
 
 [Croatian (0% human-translated)](./translations/hr_strings.md)
 

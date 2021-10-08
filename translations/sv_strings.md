@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 Offlinekartmappen är tom. För att kunna använda offline-kartor, öppna inställningarna och lägg till minst en offline-kartfil.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Bildkomprimering
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Max bildstorlek
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Bildsparing
+```

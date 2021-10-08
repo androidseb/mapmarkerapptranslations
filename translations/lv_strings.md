@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 Bezsaistes karšu mape ir tukša. Lai izmantotu bezsaistes kartes, atveriet iestatījumus un pievienojiet vismaz vienu bezsaistes kartes failu.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Attēlu saspiešana
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Maksimālais attēla izmērs
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Attēla saglabāšana
+```

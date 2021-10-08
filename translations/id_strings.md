@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 Folder peta offline kosong. Untuk menggunakan peta offline, buka pengaturan dan tambahkan setidaknya satu file peta offline.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Kompresi gambar
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Ukuran maksimal gambar
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Menyimpan gambar
+```

@@ -5881,3 +5881,33 @@ translated (by machine 🤖) as:
 ```
 Çevrimdışı haritalar klasörü boş. Çevrimdışı haritaları kullanmak için ayarları açın ve en az bir çevrimdışı harita dosyası ekleyin.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Görüntü sıkıştırma
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Resim maksimum boyutu
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Görüntü kaydetme
+```

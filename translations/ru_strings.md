@@ -5878,3 +5878,33 @@ translated (by machine 🤖) as:
 ```
 Папка офлайн-карт пуста. Чтобы использовать офлайн-карты, откройте настройки и добавьте хотя бы один файл офлайн-карты.
 ```
+
+
+## Translation Key: image_compression
+```
+Image compression
+```
+translated (by machine 🤖) as:
+```
+Сжатие изображения
+```
+
+
+## Translation Key: image_max_size
+```
+Image max size
+```
+translated (by machine 🤖) as:
+```
+Максимальный размер изображения
+```
+
+
+## Translation Key: image_saving
+```
+Image saving
+```
+translated (by machine 🤖) as:
+```
+Сохранение изображения
+```
