@@ -5921,3 +5921,63 @@ translated (by machine 🤖) as:
 ```
 حفظ الصورة
 ```
+
+
+## Translation Key: base_map_pin_size
+```
+Base map pin size
+```
+translated (by machine 🤖) as:
+```
+حجم دبوس الخريطة الأساسية
+```
+
+
+## Translation Key: size_tiny
+```
+Tiny
+```
+translated (by machine 🤖) as:
+```
+صغير الحجم
+```
+
+
+## Translation Key: size_small
+```
+Small
+```
+translated (by machine 🤖) as:
+```
+صغير
+```
+
+
+## Translation Key: size_normal
+```
+Normal
+```
+translated (by machine 🤖) as:
+```
+طبيعي
+```
+
+
+## Translation Key: size_large
+```
+Large
+```
+translated (by machine 🤖) as:
+```
+كبير
+```
+
+
+## Translation Key: size_huge
+```
+Huge
+```
+translated (by machine 🤖) as:
+```
+تسربت
+```

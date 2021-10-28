@@ -5921,3 +5921,63 @@ translated (by machine 🤖) as:
 ```
 Salvar imagem
 ```
+
+
+## Translation Key: base_map_pin_size
+```
+Base map pin size
+```
+translated (by machine 🤖) as:
+```
+Tamanho do pino do mapa básico
+```
+
+
+## Translation Key: size_tiny
+```
+Tiny
+```
+translated (by machine 🤖) as:
+```
+Pequeno
+```
+
+
+## Translation Key: size_small
+```
+Small
+```
+translated (by machine 🤖) as:
+```
+Pequena
+```
+
+
+## Translation Key: size_normal
+```
+Normal
+```
+translated (by machine 🤖) as:
+```
+Normal
+```
+
+
+## Translation Key: size_large
+```
+Large
+```
+translated (by machine 🤖) as:
+```
+Grande
+```
+
+
+## Translation Key: size_huge
+```
+Huge
+```
+translated (by machine 🤖) as:
+```
+Enorme
+```

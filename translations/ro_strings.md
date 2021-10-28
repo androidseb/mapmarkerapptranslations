@@ -5921,3 +5921,63 @@ translated (by machine 🤖) as:
 ```
 Salvarea imaginii
 ```
+
+
+## Translation Key: base_map_pin_size
+```
+Base map pin size
+```
+translated (by machine 🤖) as:
+```
+Dimensiunea pinului hărții de bază
+```
+
+
+## Translation Key: size_tiny
+```
+Tiny
+```
+translated (by machine 🤖) as:
+```
+Micut
+```
+
+
+## Translation Key: size_small
+```
+Small
+```
+translated (by machine 🤖) as:
+```
+Mic
+```
+
+
+## Translation Key: size_normal
+```
+Normal
+```
+translated (by machine 🤖) as:
+```
+Normal
+```
+
+
+## Translation Key: size_large
+```
+Large
+```
+translated (by machine 🤖) as:
+```
+Mare
+```
+
+
+## Translation Key: size_huge
+```
+Huge
+```
+translated (by machine 🤖) as:
+```
+Imens
+```

@@ -5920,3 +5920,63 @@ translated (by machine 🤖) as:
 ```
 Vaizdo taupymas
 ```
+
+
+## Translation Key: base_map_pin_size
+```
+Base map pin size
+```
+translated (by machine 🤖) as:
+```
+Bazinio žemėlapio kaiščio dydis
+```
+
+
+## Translation Key: size_tiny
+```
+Tiny
+```
+translated (by machine 🤖) as:
+```
+Mažas
+```
+
+
+## Translation Key: size_small
+```
+Small
+```
+translated (by machine 🤖) as:
+```
+Mažas
+```
+
+
+## Translation Key: size_normal
+```
+Normal
+```
+translated (by machine 🤖) as:
+```
+Normalus
+```
+
+
+## Translation Key: size_large
+```
+Large
+```
+translated (by machine 🤖) as:
+```
+Didelis
+```
+
+
+## Translation Key: size_huge
+```
+Huge
+```
+translated (by machine 🤖) as:
+```
+Didelis
+```

@@ -5921,3 +5921,63 @@ translated (by machine 🤖) as:
 ```
 이미지 저장
 ```
+
+
+## Translation Key: base_map_pin_size
+```
+Base map pin size
+```
+translated (by machine 🤖) as:
+```
+기본 맵 핀 크기
+```
+
+
+## Translation Key: size_tiny
+```
+Tiny
+```
+translated (by machine 🤖) as:
+```
+매우 작은
+```
+
+
+## Translation Key: size_small
+```
+Small
+```
+translated (by machine 🤖) as:
+```
+작은
+```
+
+
+## Translation Key: size_normal
+```
+Normal
+```
+translated (by machine 🤖) as:
+```
+정상
+```
+
+
+## Translation Key: size_large
+```
+Large
+```
+translated (by machine 🤖) as:
+```
+크기가 큰
+```
+
+
+## Translation Key: size_huge
+```
+Huge
+```
+translated (by machine 🤖) as:
+```
+거대한
+```

@@ -5921,3 +5921,63 @@ translated (by human 👀) as:
 ```
 Enregistrement d'image
 ```
+
+
+## Translation Key: base_map_pin_size
+```
+Base map pin size
+```
+translated (by human 👀) as:
+```
+Taille d'épingle de base
+```
+
+
+## Translation Key: size_tiny
+```
+Tiny
+```
+translated (by human 👀) as:
+```
+Très petit
+```
+
+
+## Translation Key: size_small
+```
+Small
+```
+translated (by human 👀) as:
+```
+Petit
+```
+
+
+## Translation Key: size_normal
+```
+Normal
+```
+translated (by human 👀) as:
+```
+Normal
+```
+
+
+## Translation Key: size_large
+```
+Large
+```
+translated (by human 👀) as:
+```
+Grand
+```
+
+
+## Translation Key: size_huge
+```
+Huge
+```
+translated (by human 👀) as:
+```
+Très grand
+```
