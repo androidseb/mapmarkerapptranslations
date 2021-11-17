@@ -5975,3 +5975,13 @@ translated (by machine 🤖) as:
 ```
 Enorm
 ```
+
+
+## Translation Key: import_format_choice_question
+```
+What format to you want to use to import?
+```
+translated (by machine 🤖) as:
+```
+Welk formaat wilt u gebruiken om te importeren?
+```

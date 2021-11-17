@@ -5982,3 +5982,13 @@ translated (by machine 🤖) as:
 ```
 ใหญ่
 ```
+
+
+## Translation Key: import_format_choice_question
+```
+What format to you want to use to import?
+```
+translated (by machine 🤖) as:
+```
+คุณต้องการใช้รูปแบบใดในการนำเข้า
+```

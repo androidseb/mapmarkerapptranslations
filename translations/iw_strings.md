@@ -5981,3 +5981,13 @@ translated (by machine 🤖) as:
 ```
 עָצוּם
 ```
+
+
+## Translation Key: import_format_choice_question
+```
+What format to you want to use to import?
+```
+translated (by machine 🤖) as:
+```
+באיזה פורמט אתה רוצה להשתמש כדי לייבא?
+```

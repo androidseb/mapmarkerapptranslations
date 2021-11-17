@@ -5981,3 +5981,13 @@ translated (by machine 🤖) as:
 ```
 Τεράστιος
 ```
+
+
+## Translation Key: import_format_choice_question
+```
+What format to you want to use to import?
+```
+translated (by machine 🤖) as:
+```
+Ποια μορφή θέλετε να χρησιμοποιήσετε για την εισαγωγή;
+```

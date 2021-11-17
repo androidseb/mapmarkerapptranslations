@@ -5981,3 +5981,13 @@ translated (by machine 🤖) as:
 ```
 거대한
 ```
+
+
+## Translation Key: import_format_choice_question
+```
+What format to you want to use to import?
+```
+translated (by machine 🤖) as:
+```
+가져오기에 어떤 형식을 사용하시겠습니까?
+```

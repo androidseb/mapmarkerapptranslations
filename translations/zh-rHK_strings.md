@@ -5981,3 +5981,13 @@ translated (by machine 🤖) as:
 ```
 巨大的
 ```
+
+
+## Translation Key: import_format_choice_question
+```
+What format to you want to use to import?
+```
+translated (by machine 🤖) as:
+```
+你想用什麼格式導入？
+```

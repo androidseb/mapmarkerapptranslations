@@ -5978,3 +5978,13 @@ translated (by machine 🤖) as:
 ```
 Огромный
 ```
+
+
+## Translation Key: import_format_choice_question
+```
+What format to you want to use to import?
+```
+translated (by machine 🤖) as:
+```
+Какой формат вы хотите использовать для импорта?
+```

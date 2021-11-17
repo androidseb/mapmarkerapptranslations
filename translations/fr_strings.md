@@ -4031,7 +4031,7 @@ Standard Google Earth format. Cannot contain media.
 ```
 translated (by human 👀) as:
 ```
-Format standard Google Earth. Ne peut pas contenir médias.
+Format standard Google Earth. Ne peut pas contenir de médias.
 ```
 
 
@@ -5980,4 +5980,14 @@ Huge
 translated (by human 👀) as:
 ```
 Très grand
+```
+
+
+## Translation Key: import_format_choice_question
+```
+What format to you want to use to import?
+```
+translated (by human 👀) as:
+```
+Quel format d'import voulez-vous utiliser ?
 ```

@@ -5985,3 +5985,13 @@ translated (by machine 🤖) as:
 ```
 Kæmpe stor
 ```
+
+
+## Translation Key: import_format_choice_question
+```
+What format to you want to use to import?
+```
+translated (by machine 🤖) as:
+```
+Hvilket format vil du bruge til at importere?
+```

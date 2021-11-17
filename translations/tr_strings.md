@@ -5981,3 +5981,13 @@ translated (by machine 🤖) as:
 ```
 Kocaman
 ```
+
+
+## Translation Key: import_format_choice_question
+```
+What format to you want to use to import?
+```
+translated (by machine 🤖) as:
+```
+İçe aktarmak için hangi biçimi kullanmak istiyorsunuz?
+```

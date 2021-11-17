@@ -5981,3 +5981,13 @@ translated (by machine 🤖) as:
 ```
 Imens
 ```
+
+
+## Translation Key: import_format_choice_question
+```
+What format to you want to use to import?
+```
+translated (by machine 🤖) as:
+```
+Ce format doriți să utilizați pentru a importa?
+```
