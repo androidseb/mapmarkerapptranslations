@@ -5991,3 +5991,23 @@ translated (by machine 🤖) as:
 ```
 가져오기에 어떤 형식을 사용하시겠습니까?
 ```
+
+
+## Translation Key: map_file_summary_x_folders_x_markers
+```
+%1$s folders and %2$s markers
+```
+translated (by machine 🤖) as:
+```
+%1$s개의 폴더 및 %2$s개의 마커
+```
+
+
+## Translation Key: open_x
+```
+Open '%s'
+```
+translated (by machine 🤖) as:
+```
+'%s' 열기
+```

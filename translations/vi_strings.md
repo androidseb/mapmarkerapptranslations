@@ -5991,3 +5991,23 @@ translated (by machine 🤖) as:
 ```
 Bạn muốn sử dụng định dạng nào để nhập?
 ```
+
+
+## Translation Key: map_file_summary_x_folders_x_markers
+```
+%1$s folders and %2$s markers
+```
+translated (by machine 🤖) as:
+```
+%1$s thư mục và %2$s điểm đánh dấu
+```
+
+
+## Translation Key: open_x
+```
+Open '%s'
+```
+translated (by machine 🤖) as:
+```
+Mở '%s'
+```

@@ -5991,3 +5991,23 @@ translated (by machine 🤖) as:
 ```
 באיזה פורמט אתה רוצה להשתמש כדי לייבא?
 ```
+
+
+## Translation Key: map_file_summary_x_folders_x_markers
+```
+%1$s folders and %2$s markers
+```
+translated (by machine 🤖) as:
+```
+%1$s תיקיות ו-%2$s סמנים
+```
+
+
+## Translation Key: open_x
+```
+Open '%s'
+```
+translated (by machine 🤖) as:
+```
+פתח את '%s'
+```

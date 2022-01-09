@@ -5991,3 +5991,23 @@ translated (by machine 🤖) as:
 ```
 ما هو التنسيق الذي تريد استخدامه للاستيراد؟
 ```
+
+
+## Translation Key: map_file_summary_x_folders_x_markers
+```
+%1$s folders and %2$s markers
+```
+translated (by machine 🤖) as:
+```
+%1$s مجلدات و %2$s علامات
+```
+
+
+## Translation Key: open_x
+```
+Open '%s'
+```
+translated (by machine 🤖) as:
+```
+فتح "%s"
+```

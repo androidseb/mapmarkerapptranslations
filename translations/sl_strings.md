@@ -5988,3 +5988,23 @@ translated (by machine 🤖) as:
 ```
 Kateri format želite uporabiti za uvoz?
 ```
+
+
+## Translation Key: map_file_summary_x_folders_x_markers
+```
+%1$s folders and %2$s markers
+```
+translated (by machine 🤖) as:
+```
+%1$s mape in %2$s oznake
+```
+
+
+## Translation Key: open_x
+```
+Open '%s'
+```
+translated (by machine 🤖) as:
+```
+Odpri '%s'
+```

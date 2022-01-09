@@ -5990,3 +5990,23 @@ translated (by machine 🤖) as:
 ```
 Kokį formatą norite naudoti importuodami?
 ```
+
+
+## Translation Key: map_file_summary_x_folders_x_markers
+```
+%1$s folders and %2$s markers
+```
+translated (by machine 🤖) as:
+```
+%1$s aplankai ir %2$s žymekliai
+```
+
+
+## Translation Key: open_x
+```
+Open '%s'
+```
+translated (by machine 🤖) as:
+```
+Atidaryti '%s'
+```

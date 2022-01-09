@@ -5991,3 +5991,23 @@ translated (by machine 🤖) as:
 ```
 Jaký formát chcete použít pro import?
 ```
+
+
+## Translation Key: map_file_summary_x_folders_x_markers
+```
+%1$s folders and %2$s markers
+```
+translated (by machine 🤖) as:
+```
+%1$s složek a %2$s značek
+```
+
+
+## Translation Key: open_x
+```
+Open '%s'
+```
+translated (by machine 🤖) as:
+```
+Otevřít '%s'
+```

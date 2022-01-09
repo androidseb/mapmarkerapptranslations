@@ -5991,3 +5991,23 @@ translated (by machine 🤖) as:
 ```
 Format apa yang ingin Anda gunakan untuk mengimpor?
 ```
+
+
+## Translation Key: map_file_summary_x_folders_x_markers
+```
+%1$s folders and %2$s markers
+```
+translated (by machine 🤖) as:
+```
+%1$s folder dan %2$s penanda
+```
+
+
+## Translation Key: open_x
+```
+Open '%s'
+```
+translated (by machine 🤖) as:
+```
+Buka '%s'
+```

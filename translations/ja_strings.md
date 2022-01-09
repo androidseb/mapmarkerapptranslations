@@ -5992,3 +5992,23 @@ translated (by machine 🤖) as:
 ```
 インポートに使用する形式は何ですか？
 ```
+
+
+## Translation Key: map_file_summary_x_folders_x_markers
+```
+%1$s folders and %2$s markers
+```
+translated (by machine 🤖) as:
+```
+%1$s個のフォルダーと%2$s個のマーカー
+```
+
+
+## Translation Key: open_x
+```
+Open '%s'
+```
+translated (by machine 🤖) as:
+```
+'%s'を開く
+```

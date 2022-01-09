@@ -5988,3 +5988,23 @@ translated (by machine 🤖) as:
 ```
 Welches Format möchten Sie zum Importieren verwenden?
 ```
+
+
+## Translation Key: map_file_summary_x_folders_x_markers
+```
+%1$s folders and %2$s markers
+```
+translated (by machine 🤖) as:
+```
+%1$s Ordner und %2$s Marker
+```
+
+
+## Translation Key: open_x
+```
+Open '%s'
+```
+translated (by machine 🤖) as:
+```
+'%s' öffnen
+```

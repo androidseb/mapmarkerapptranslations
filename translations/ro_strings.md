@@ -5991,3 +5991,23 @@ translated (by machine 🤖) as:
 ```
 Ce format doriți să utilizați pentru a importa?
 ```
+
+
+## Translation Key: map_file_summary_x_folders_x_markers
+```
+%1$s folders and %2$s markers
+```
+translated (by machine 🤖) as:
+```
+%1$s foldere și %2$s marcatoare
+```
+
+
+## Translation Key: open_x
+```
+Open '%s'
+```
+translated (by machine 🤖) as:
+```
+Deschide „%s”
+```

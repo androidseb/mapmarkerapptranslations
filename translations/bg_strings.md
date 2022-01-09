@@ -5991,3 +5991,23 @@ translated (by machine 🤖) as:
 ```
 Какъв формат искате да използвате за импортиране?
 ```
+
+
+## Translation Key: map_file_summary_x_folders_x_markers
+```
+%1$s folders and %2$s markers
+```
+translated (by machine 🤖) as:
+```
+%1$s папки и %2$s маркера
+```
+
+
+## Translation Key: open_x
+```
+Open '%s'
+```
+translated (by machine 🤖) as:
+```
+Отворете '%s'
+```

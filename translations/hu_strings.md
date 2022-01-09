@@ -5991,3 +5991,23 @@ translated (by machine 🤖) as:
 ```
 Milyen formátumot szeretne használni az importáláshoz?
 ```
+
+
+## Translation Key: map_file_summary_x_folders_x_markers
+```
+%1$s folders and %2$s markers
+```
+translated (by machine 🤖) as:
+```
+%1$s mappa és %2$s jelölő
+```
+
+
+## Translation Key: open_x
+```
+Open '%s'
+```
+translated (by machine 🤖) as:
+```
+'%s' megnyitása
+```

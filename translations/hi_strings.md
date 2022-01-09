@@ -5991,3 +5991,23 @@ translated (by machine 🤖) as:
 ```
 आयात करने के लिए आप किस प्रारूप का उपयोग करना चाहते हैं?
 ```
+
+
+## Translation Key: map_file_summary_x_folders_x_markers
+```
+%1$s folders and %2$s markers
+```
+translated (by machine 🤖) as:
+```
+%1$s फ़ोल्डर और %2$s मार्कर
+```
+
+
+## Translation Key: open_x
+```
+Open '%s'
+```
+translated (by machine 🤖) as:
+```
+'%s' खोलें
+```

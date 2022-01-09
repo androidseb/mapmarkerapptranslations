@@ -5991,3 +5991,23 @@ translated (by machine 🤖) as:
 ```
 តើអ្នកចង់ប្រើទម្រង់អ្វីដើម្បីនាំចូល?
 ```
+
+
+## Translation Key: map_file_summary_x_folders_x_markers
+```
+%1$s folders and %2$s markers
+```
+translated (by machine 🤖) as:
+```
+%1$s ថតឯកសារ និង %2$s សញ្ញាសម្គាល់
+```
+
+
+## Translation Key: open_x
+```
+Open '%s'
+```
+translated (by machine 🤖) as:
+```
+បើក '%s'
+```

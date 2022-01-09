@@ -5992,3 +5992,23 @@ translated (by machine 🤖) as:
 ```
 คุณต้องการใช้รูปแบบใดในการนำเข้า
 ```
+
+
+## Translation Key: map_file_summary_x_folders_x_markers
+```
+%1$s folders and %2$s markers
+```
+translated (by machine 🤖) as:
+```
+%1$s โฟลเดอร์และ %2$s เครื่องหมาย
+```
+
+
+## Translation Key: open_x
+```
+Open '%s'
+```
+translated (by machine 🤖) as:
+```
+เปิด '%s'
+```

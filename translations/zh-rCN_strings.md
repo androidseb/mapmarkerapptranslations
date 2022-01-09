@@ -5991,3 +5991,23 @@ translated (by machine 🤖) as:
 ```
 你想用什么格式导入？
 ```
+
+
+## Translation Key: map_file_summary_x_folders_x_markers
+```
+%1$s folders and %2$s markers
+```
+translated (by machine 🤖) as:
+```
+%1$s 个文件夹和 %2$s 个标记
+```
+
+
+## Translation Key: open_x
+```
+Open '%s'
+```
+translated (by machine 🤖) as:
+```
+打开'%s'
+```

@@ -5991,3 +5991,23 @@ translated (by machine 🤖) as:
 ```
 Ποια μορφή θέλετε να χρησιμοποιήσετε για την εισαγωγή;
 ```
+
+
+## Translation Key: map_file_summary_x_folders_x_markers
+```
+%1$s folders and %2$s markers
+```
+translated (by machine 🤖) as:
+```
+%1$s φακέλους και %2$s δείκτες
+```
+
+
+## Translation Key: open_x
+```
+Open '%s'
+```
+translated (by machine 🤖) as:
+```
+Άνοιγμα '%s'
+```
