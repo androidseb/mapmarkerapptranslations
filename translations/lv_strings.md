@@ -6011,3 +6011,43 @@ translated (by machine 🤖) as:
 ```
 Atvērt '%s'
 ```
+
+
+## Translation Key: sync_option_google_drive_limited_title
+```
+Google Drive - limited access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - ierobežota piekļuve
+```
+
+
+## Translation Key: sync_option_google_drive_limited_description
+```
+This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Tādējādi lietotne var piekļūt tikai tiem failiem, kurus jūsu Google Drive ir izveidojusi pati lietotne. Izvēlieties šo opciju, ja plānojat sinhronizēt tikai no sava Google konta bez līdzstrādniekiem. Ja rodas šaubas, izvēlieties šo opciju, jo vēlāk varēsiet viegli pārdomāt.
+```
+
+
+## Translation Key: sync_option_google_drive_full_title
+```
+Google Drive - full access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - pilna piekļuve
+```
+
+
+## Translation Key: sync_option_google_drive_full_description
+```
+This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
+```
+translated (by machine 🤖) as:
+```
+Tādējādi lietotnei tiek piešķirta pilnīga piekļuve jūsu Google Drive. Izvēlieties šo opciju, ja plānojat sadarboties ar citiem Google kontiem.
+```

@@ -6011,3 +6011,43 @@ translated (by machine 🤖) as:
 ```
 Mở '%s'
 ```
+
+
+## Translation Key: sync_option_google_drive_limited_title
+```
+Google Drive - limited access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - quyền truy cập hạn chế
+```
+
+
+## Translation Key: sync_option_google_drive_limited_description
+```
+This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Điều này giới hạn ứng dụng chỉ có thể truy cập các tệp do chính ứng dụng tạo trên Google Drive của bạn. Chọn tùy chọn này nếu bạn định chỉ đồng bộ hóa từ tài khoản Google của mình mà không cần cộng tác viên. Nếu nghi ngờ, hãy chọn tùy chọn này, bạn có thể dễ dàng thay đổi quyết định sau đó.
+```
+
+
+## Translation Key: sync_option_google_drive_full_title
+```
+Google Drive - full access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - toàn quyền truy cập
+```
+
+
+## Translation Key: sync_option_google_drive_full_description
+```
+This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
+```
+translated (by machine 🤖) as:
+```
+Điều này cấp cho ứng dụng toàn quyền truy cập vào Google Drive của bạn. Chọn tùy chọn này nếu bạn định cộng tác với các tài khoản Google khác.
+```

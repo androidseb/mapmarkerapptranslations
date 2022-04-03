@@ -6011,3 +6011,43 @@ translated (by machine 🤖) as:
 ```
 Otevřít '%s'
 ```
+
+
+## Translation Key: sync_option_google_drive_limited_title
+```
+Google Drive - limited access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - omezený přístup
+```
+
+
+## Translation Key: sync_option_google_drive_limited_description
+```
+This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+To omezuje aplikaci na přístup pouze k souborům vytvořeným samotnou aplikací na vašem Google Drive. Tuto možnost vyberte, pokud plánujete synchronizaci pouze ze svého účtu Google bez spolupracovníků. Pokud máte pochybnosti, vyberte tuto možnost, později můžete snadno změnit názor.
+```
+
+
+## Translation Key: sync_option_google_drive_full_title
+```
+Google Drive - full access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - plný přístup
+```
+
+
+## Translation Key: sync_option_google_drive_full_description
+```
+This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
+```
+translated (by machine 🤖) as:
+```
+To aplikaci poskytuje plný přístup k vašemu Google Drive. Tuto možnost vyberte, pokud plánujete spolupracovat s jinými účty Google.
+```

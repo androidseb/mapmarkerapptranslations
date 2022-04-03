@@ -6011,3 +6011,43 @@ translated (by machine 🤖) as:
 ```
 فتح "%s"
 ```
+
+
+## Translation Key: sync_option_google_drive_limited_title
+```
+Google Drive - limited access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - وصول محدود
+```
+
+
+## Translation Key: sync_option_google_drive_limited_description
+```
+This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+هذا يحد من التطبيق للوصول فقط إلى الملفات التي تم إنشاؤها بواسطة التطبيق نفسه على Google Drive. حدد هذا الخيار إذا كنت تخطط للمزامنة فقط من حساب Google الخاص بك بدون متعاونين. إذا كنت في شك ، فاختر هذا الخيار ، يمكنك بسهولة تغيير رأيك لاحقًا.
+```
+
+
+## Translation Key: sync_option_google_drive_full_title
+```
+Google Drive - full access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - الوصول الكامل
+```
+
+
+## Translation Key: sync_option_google_drive_full_description
+```
+This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
+```
+translated (by machine 🤖) as:
+```
+يمنح هذا التطبيق حق الوصول الكامل إلى Google Drive. حدد هذا الخيار إذا كنت تخطط للتعاون مع حسابات Google الأخرى.
+```

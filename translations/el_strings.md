@@ -6011,3 +6011,43 @@ translated (by machine 🤖) as:
 ```
 Άνοιγμα '%s'
 ```
+
+
+## Translation Key: sync_option_google_drive_limited_title
+```
+Google Drive - limited access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - περιορισμένη πρόσβαση
+```
+
+
+## Translation Key: sync_option_google_drive_limited_description
+```
+This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Αυτό περιορίζει την εφαρμογή να έχει πρόσβαση μόνο σε αρχεία που έχουν δημιουργηθεί από την ίδια την εφαρμογή στο Google Drive σας. Επιλέξτε αυτήν την επιλογή εάν σκοπεύετε να κάνετε συγχρονισμό μόνο από τον Λογαριασμό σας Google χωρίς συνεργάτες. Εάν έχετε αμφιβολίες, επιλέξτε αυτήν την επιλογή, μπορείτε εύκολα να αλλάξετε γνώμη αργότερα.
+```
+
+
+## Translation Key: sync_option_google_drive_full_title
+```
+Google Drive - full access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - πλήρης πρόσβαση
+```
+
+
+## Translation Key: sync_option_google_drive_full_description
+```
+This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
+```
+translated (by machine 🤖) as:
+```
+Αυτό παρέχει στην εφαρμογή πλήρη πρόσβαση στο Google Drive σας. Επιλέξτε αυτήν την επιλογή εάν σκοπεύετε να συνεργαστείτε με άλλους λογαριασμούς Google.
+```

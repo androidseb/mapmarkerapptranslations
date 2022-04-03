@@ -6011,3 +6011,43 @@ translated (by machine 🤖) as:
 ```
 '%s' megnyitása
 ```
+
+
+## Translation Key: sync_option_google_drive_limited_title
+```
+Google Drive - limited access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - korlátozott hozzáférés
+```
+
+
+## Translation Key: sync_option_google_drive_limited_description
+```
+This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Ez azt korlátozza, hogy az alkalmazás csak olyan fájlokhoz férhessen hozzá, amelyeket maga az alkalmazás hozott létre a Google Drive-en. Válassza ezt a lehetőséget, ha csak a Google-fiókjából kíván szinkronizálni együttműködők nélkül. Ha kétségei vannak, válassza ezt a lehetőséget, mert később könnyen meggondolhatja magát.
+```
+
+
+## Translation Key: sync_option_google_drive_full_title
+```
+Google Drive - full access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - teljes hozzáférés
+```
+
+
+## Translation Key: sync_option_google_drive_full_description
+```
+This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
+```
+translated (by machine 🤖) as:
+```
+Ezzel az alkalmazás teljes hozzáférést biztosít a Google Drive. Válassza ezt a lehetőséget, ha más Google-fiókokkal kíván együttműködni.
+```

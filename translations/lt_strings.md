@@ -6010,3 +6010,43 @@ translated (by machine 🤖) as:
 ```
 Atidaryti '%s'
 ```
+
+
+## Translation Key: sync_option_google_drive_limited_title
+```
+Google Drive - limited access
+```
+translated (by machine 🤖) as:
+```
+Google Drive – ribota prieiga
+```
+
+
+## Translation Key: sync_option_google_drive_limited_description
+```
+This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Tai apriboja, kad programa galėtų pasiekti tik pačios programos sukurtus failus jūsų Google Drive. Pasirinkite šią parinktį, jei planuojate sinchronizuoti tik iš „Google“ paskyros be bendradarbių. Jei abejojate, pasirinkite šią parinktį, nes vėliau galėsite lengvai apsigalvoti.
+```
+
+
+## Translation Key: sync_option_google_drive_full_title
+```
+Google Drive - full access
+```
+translated (by machine 🤖) as:
+```
+Google Drive – visa prieiga
+```
+
+
+## Translation Key: sync_option_google_drive_full_description
+```
+This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
+```
+translated (by machine 🤖) as:
+```
+Tai suteikia programai visišką prieigą prie jūsų Google Drive. Pasirinkite šią parinktį, jei planuojate bendradarbiauti su kitomis „Google“ paskyromis.
+```

@@ -33,7 +33,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 ## Translation languages list
 
-[Arabic (77% human-translated)](./translations/ar_strings.md)
+[Arabic (76% human-translated)](./translations/ar_strings.md)
 
 [Bulgarian (0% human-translated)](./translations/bg_strings.md)
 
@@ -77,17 +77,17 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Latvian (0% human-translated)](./translations/lv_strings.md)
 
-[Lithuanian (67% human-translated)](./translations/lt_strings.md)
+[Lithuanian (66% human-translated)](./translations/lt_strings.md)
 
 [Norwegian (0% human-translated)](./translations/no_strings.md)
 
-[Polish (76% human-translated)](./translations/pl_strings.md)
+[Polish (75% human-translated)](./translations/pl_strings.md)
 
 [Portuguese (0% human-translated)](./translations/pt_strings.md)
 
 [Romanian (0% human-translated)](./translations/ro_strings.md)
 
-[Russian (76% human-translated)](./translations/ru_strings.md)
+[Russian (75% human-translated)](./translations/ru_strings.md)
 
 [Serbian (0% human-translated)](./translations/sr_strings.md)
 
@@ -103,7 +103,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Turkish (0% human-translated)](./translations/tr_strings.md)
 
-[Ukrainian (17% human-translated)](./translations/uk_strings.md)
+[Ukrainian (16% human-translated)](./translations/uk_strings.md)
 
 [Vietnamese (0% human-translated)](./translations/vi_strings.md)
 

@@ -6011,3 +6011,43 @@ translated (by machine 🤖) as:
 ```
 Deschide „%s”
 ```
+
+
+## Translation Key: sync_option_google_drive_limited_title
+```
+Google Drive - limited access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - acces limitat
+```
+
+
+## Translation Key: sync_option_google_drive_limited_description
+```
+This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Acest lucru limitează aplicația să acceseze numai fișierele create de aplicația însăși pe Google Drive. Alegeți această opțiune dacă intenționați să sincronizați numai din contul dvs. Google fără colaboratori. Dacă aveți îndoieli, alegeți această opțiune, vă puteți răzgândi cu ușurință mai târziu.
+```
+
+
+## Translation Key: sync_option_google_drive_full_title
+```
+Google Drive - full access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - acces complet
+```
+
+
+## Translation Key: sync_option_google_drive_full_description
+```
+This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
+```
+translated (by machine 🤖) as:
+```
+Acest lucru oferă aplicației acces deplin la Google Drive. Alegeți această opțiune dacă intenționați să colaborați cu alte conturi Google.
+```

@@ -6011,3 +6011,43 @@ translated (by machine 🤖) as:
 ```
 Avaa '%s'
 ```
+
+
+## Translation Key: sync_option_google_drive_limited_title
+```
+Google Drive - limited access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - rajoitettu pääsy
+```
+
+
+## Translation Key: sync_option_google_drive_limited_description
+```
+This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Tämä rajoittaa sovelluksen pääsyn vain sovelluksen itsensä luomiin tiedostoihin Google Drive-laitteellasi. Valitse tämä vaihtoehto, jos aiot synkronoida vain Google-tililtäsi ilman yhteistyökumppaneita. Jos olet epävarma, valitse tämä vaihtoehto, voit helposti muuttaa mieltäsi myöhemmin.
+```
+
+
+## Translation Key: sync_option_google_drive_full_title
+```
+Google Drive - full access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - täysi käyttöoikeus
+```
+
+
+## Translation Key: sync_option_google_drive_full_description
+```
+This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
+```
+translated (by machine 🤖) as:
+```
+Tämä antaa sovellukselle täyden pääsyn laitteeseesi Google Drive. Valitse tämä vaihtoehto, jos aiot tehdä yhteistyötä muiden Google-tilien kanssa.
+```

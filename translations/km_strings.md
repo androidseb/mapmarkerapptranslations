@@ -6011,3 +6011,43 @@ translated (by machine 🤖) as:
 ```
 បើក '%s'
 ```
+
+
+## Translation Key: sync_option_google_drive_limited_title
+```
+Google Drive - limited access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - ការចូលប្រើមានកំណត់
+```
+
+
+## Translation Key: sync_option_google_drive_limited_description
+```
+This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+វាកំណត់ឱ្យកម្មវិធីចូលប្រើតែឯកសារដែលបង្កើតដោយកម្មវិធីខ្លួនឯងនៅលើ Google Drive របស់អ្នក។ ជ្រើសរើសជម្រើសនេះ ប្រសិនបើអ្នកមានគម្រោងធ្វើសមកាលកម្មតែពីគណនី Google របស់អ្នកដោយគ្មានអ្នកសហការ។ ប្រសិនបើមានការសង្ស័យ ជ្រើសរើសជម្រើសនេះ អ្នកអាចផ្លាស់ប្តូរចិត្តបានយ៉ាងងាយស្រួលនៅពេលក្រោយ។
+```
+
+
+## Translation Key: sync_option_google_drive_full_title
+```
+Google Drive - full access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - ការចូលប្រើពេញលេញ
+```
+
+
+## Translation Key: sync_option_google_drive_full_description
+```
+This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
+```
+translated (by machine 🤖) as:
+```
+វាផ្តល់ឱ្យកម្មវិធីនូវការចូលដំណើរការពេញលេញទៅកាន់ Google Drive របស់អ្នក។ ជ្រើសរើសជម្រើសនេះ ប្រសិនបើអ្នកមានគម្រោងសហការជាមួយគណនី Google ផ្សេងទៀត។
+```

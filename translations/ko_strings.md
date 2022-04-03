@@ -6011,3 +6011,43 @@ translated (by machine 🤖) as:
 ```
 '%s' 열기
 ```
+
+
+## Translation Key: sync_option_google_drive_limited_title
+```
+Google Drive - limited access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - 제한된 액세스
+```
+
+
+## Translation Key: sync_option_google_drive_limited_description
+```
+This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+이렇게 하면 앱이 Google Drive에서 앱 자체에 의해 생성된 파일에만 액세스하도록 제한됩니다. 공동 작업자 없이 Google 계정에서만 동기화하려는 경우 이 옵션을 선택합니다. 확실하지 않은 경우 이 옵션을 선택하면 나중에 쉽게 마음이 바뀔 수 있습니다.
+```
+
+
+## Translation Key: sync_option_google_drive_full_title
+```
+Google Drive - full access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - 전체 액세스
+```
+
+
+## Translation Key: sync_option_google_drive_full_description
+```
+This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
+```
+translated (by machine 🤖) as:
+```
+이렇게 하면 앱에 Google Drive에 대한 전체 액세스 권한이 부여됩니다. 다른 Google 계정과 공동작업할 계획이라면 이 옵션을 선택하세요.
+```
