@@ -6051,3 +6051,23 @@ translated (by machine 🤖) as:
 ```
 Tādējādi lietotnei tiek piešķirta pilnīga piekļuve jūsu Google Drive. Izvēlieties šo opciju, ja plānojat sadarboties ar citiem Google kontiem.
 ```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+Mobilo datu apjoma ierobežojums
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+Noklusējuma datu apjoma ierobežojums
+```

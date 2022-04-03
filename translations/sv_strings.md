@@ -6051,3 +6051,23 @@ translated (by machine 🤖) as:
 ```
 Detta ger appen full åtkomst till din Google Drive. Välj det här alternativet om du planerar att samarbeta med andra Google-konton.
 ```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+Gräns för mobildatavolym
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+Standardgräns för datavolym
+```

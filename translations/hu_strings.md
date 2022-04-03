@@ -6051,3 +6051,23 @@ translated (by machine 🤖) as:
 ```
 Ezzel az alkalmazás teljes hozzáférést biztosít a Google Drive. Válassza ezt a lehetőséget, ha más Google-fiókokkal kíván együttműködni.
 ```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+Mobil adatmennyiség korlát
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+Alapértelmezett adatmennyiség-korlát
+```

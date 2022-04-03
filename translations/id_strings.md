@@ -6051,3 +6051,23 @@ translated (by machine 🤖) as:
 ```
 Ini memberi aplikasi akses penuh ke Google Drive. Pilih opsi ini jika Anda berencana untuk berkolaborasi dengan akun Google lainnya.
 ```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+Batas volume data seluler
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+Batas volume data default
+```

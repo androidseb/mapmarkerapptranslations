@@ -6051,3 +6051,23 @@ translated (by machine 🤖) as:
 ```
 Esto otorga a la aplicación acceso completo a su Google Drive. Elija esta opción si planea colaborar con otras cuentas de Google.
 ```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+Límite de volumen de datos móviles
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+Límite de volumen de datos predeterminado
+```

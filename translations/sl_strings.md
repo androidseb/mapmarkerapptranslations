@@ -6048,3 +6048,23 @@ translated (by machine 🤖) as:
 ```
 To aplikaciji omogoči popoln dostop do vašega Google Drive. Izberite to možnost, če nameravate sodelovati z drugimi Google Računi.
 ```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+Omejitev količine mobilnih podatkov
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+Privzeta omejitev količine podatkov
+```

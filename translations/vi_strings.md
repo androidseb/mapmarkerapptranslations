@@ -6051,3 +6051,23 @@ translated (by machine 🤖) as:
 ```
 Điều này cấp cho ứng dụng toàn quyền truy cập vào Google Drive của bạn. Chọn tùy chọn này nếu bạn định cộng tác với các tài khoản Google khác.
 ```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+Giới hạn dung lượng dữ liệu di động
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+Giới hạn khối lượng dữ liệu mặc định
+```

@@ -6051,3 +6051,23 @@ translated (by machine 🤖) as:
 ```
 Ово апликацији даје пун приступ вашем Google Drive. Изаберите ову опцију ако планирате да сарађујете са другим Гоогле налозима.
 ```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+Ограничење количине мобилних података
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+Подразумевано ограничење количине података
+```

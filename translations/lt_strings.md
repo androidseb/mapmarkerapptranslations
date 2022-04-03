@@ -6050,3 +6050,23 @@ translated (by machine 🤖) as:
 ```
 Tai suteikia programai visišką prieigą prie jūsų Google Drive. Pasirinkite šią parinktį, jei planuojate bendradarbiauti su kitomis „Google“ paskyromis.
 ```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+Mobiliųjų duomenų apimties apribojimas
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+Numatytasis duomenų apimties apribojimas
+```

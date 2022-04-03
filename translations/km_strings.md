@@ -6051,3 +6051,23 @@ translated (by machine 🤖) as:
 ```
 វាផ្តល់ឱ្យកម្មវិធីនូវការចូលដំណើរការពេញលេញទៅកាន់ Google Drive របស់អ្នក។ ជ្រើសរើសជម្រើសនេះ ប្រសិនបើអ្នកមានគម្រោងសហការជាមួយគណនី Google ផ្សេងទៀត។
 ```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+ដែនកំណត់បរិមាណទិន្នន័យចល័ត
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+ដែនកំណត់បរិមាណទិន្នន័យលំនាំដើម
+```

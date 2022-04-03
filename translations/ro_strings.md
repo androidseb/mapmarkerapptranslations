@@ -6051,3 +6051,23 @@ translated (by machine 🤖) as:
 ```
 Acest lucru oferă aplicației acces deplin la Google Drive. Alegeți această opțiune dacă intenționați să colaborați cu alte conturi Google.
 ```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+Limită de volum de date mobile
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+Limită implicită a volumului de date
+```

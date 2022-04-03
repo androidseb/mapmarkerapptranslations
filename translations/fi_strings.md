@@ -6051,3 +6051,23 @@ translated (by machine 🤖) as:
 ```
 Tämä antaa sovellukselle täyden pääsyn laitteeseesi Google Drive. Valitse tämä vaihtoehto, jos aiot tehdä yhteistyötä muiden Google-tilien kanssa.
 ```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+Mobiilidatan määrärajoitus
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+Tietojen oletusmäärän rajoitus
+```

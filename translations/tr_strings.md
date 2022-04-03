@@ -6051,3 +6051,23 @@ translated (by machine 🤖) as:
 ```
 Bu, uygulamaya Google Drive'unuza tam erişim sağlar. Diğer Google hesaplarıyla ortak çalışmayı planlıyorsanız bu seçeneği belirleyin.
 ```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+Mobil veri hacmi sınırı
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+Varsayılan veri hacmi sınırı
+```

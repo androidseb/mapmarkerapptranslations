@@ -6051,3 +6051,23 @@ translated (by machine 🤖) as:
 ```
 Αυτό παρέχει στην εφαρμογή πλήρη πρόσβαση στο Google Drive σας. Επιλέξτε αυτήν την επιλογή εάν σκοπεύετε να συνεργαστείτε με άλλους λογαριασμούς Google.
 ```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+Όριο όγκου δεδομένων κινητής τηλεφωνίας
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+Προεπιλεγμένο όριο όγκου δεδομένων
+```

@@ -6052,3 +6052,23 @@ translated (by machine 🤖) as:
 ```
 これにより、アプリにGoogle Driveへのフルアクセスが許可されます。他のGoogleアカウントとのコラボレーションを計画している場合は、このオプションを選択してください。
 ```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+モバイルデータのボリューム制限
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+デフォルトのデータ量制限
+```

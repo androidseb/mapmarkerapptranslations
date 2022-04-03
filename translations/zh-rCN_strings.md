@@ -6051,3 +6051,23 @@ translated (by machine 🤖) as:
 ```
 这将授予应用程序对您的 Google Drive 的完全访问权限。如果您计划与其他 Google 帐户协作，请选择此选项。
 ```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+移动数据量限制
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+默认数据量限制
+```

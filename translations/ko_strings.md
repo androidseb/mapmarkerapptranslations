@@ -6051,3 +6051,23 @@ translated (by machine 🤖) as:
 ```
 이렇게 하면 앱에 Google Drive에 대한 전체 액세스 권한이 부여됩니다. 다른 Google 계정과 공동작업할 계획이라면 이 옵션을 선택하세요.
 ```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+모바일 데이터 볼륨 제한
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+기본 데이터 볼륨 제한
+```

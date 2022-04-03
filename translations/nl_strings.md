@@ -6045,3 +6045,23 @@ translated (by machine 🤖) as:
 ```
 Dit geeft de app volledige toegang tot uw Google Drive. Kies deze optie als u van plan bent samen te werken met andere Google-accounts.
 ```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+Limiet voor mobiele datavolume
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+Standaard datavolumelimiet
+```

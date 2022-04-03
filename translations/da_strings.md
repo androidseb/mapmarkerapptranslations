@@ -6055,3 +6055,23 @@ translated (by machine 🤖) as:
 ```
 Dette giver appen fuld adgang til din Google Drive. Vælg denne mulighed, hvis du planlægger at samarbejde med andre Google-konti.
 ```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+Grænse for mobildatavolumen
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+Standardgrænse for datavolumen
+```
