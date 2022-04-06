@@ -6081,3 +6081,13 @@ translated (by machine 🤖) as:
 ```
 Ze względu na pewne ograniczenia w przepływie uwierzytelniania Google nie jest możliwe uwierzytelnianie z innym poziomem uprawnień (ograniczony dostęp / pełny dostęp), chyba że ponownie załadujesz stronę internetową. Wykonaj akcję odświeżania w przeglądarce internetowej i spróbuj ponownie.
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Uwierzytelnianie nie powiodło się, spróbuj ponownie.
+```

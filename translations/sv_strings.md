@@ -6081,3 +6081,13 @@ translated (by machine 🤖) as:
 ```
 På grund av vissa begränsningar i Googles autentiseringsflöde är det inte möjligt att autentisera med en annan behörighetsnivå (begränsad åtkomst / full åtkomst) om du inte laddar om webbsidan. Utför uppdateringsåtgärden i din webbläsare och försök igen.
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Autentiseringen misslyckades, försök igen.
+```

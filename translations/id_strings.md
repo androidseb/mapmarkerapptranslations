@@ -6081,3 +6081,13 @@ translated (by machine 🤖) as:
 ```
 Karena beberapa batasan dalam alur autentikasi Google, autentikasi dengan tingkat izin yang berbeda (akses terbatas/akses penuh) tidak mungkin dilakukan kecuali Anda memuat ulang halaman web. Harap lakukan tindakan penyegaran di browser web Anda dan coba lagi.
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Autentikasi gagal, harap coba lagi.
+```

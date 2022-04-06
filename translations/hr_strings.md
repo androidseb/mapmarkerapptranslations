@@ -6081,3 +6081,13 @@ translated (by machine 🤖) as:
 ```
 Zbog nekih ograničenja u tijeku Google autentifikacije, nije moguće izvršiti autentifikaciju s drugom razinom dopuštenja (ograničeni pristup / puni pristup) osim ako ponovno učitate web-stranicu. Molimo izvršite radnju osvježavanja u svom web pregledniku i pokušajte ponovno.
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Autentifikacija nije uspjela, pokušajte ponovno.
+```

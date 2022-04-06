@@ -6081,3 +6081,13 @@ translated (by machine 🤖) as:
 ```
 Dažu Google autentifikācijas plūsmas ierobežojumu dēļ nav iespējams autentificēties ar citu atļauju līmeni (ierobežota piekļuve/pilna piekļuve), ja vien atkārtoti neielādējat tīmekļa lapu. Lūdzu, veiciet atsvaidzināšanas darbību savā tīmekļa pārlūkprogrammā un mēģiniet vēlreiz.
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Autentifikācija neizdevās. Lūdzu, mēģiniet vēlreiz.
+```

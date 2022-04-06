@@ -6081,3 +6081,13 @@ translated (by machine 🤖) as:
 ```
 Din cauza unor limitări ale fluxului de autentificare Google, nu este posibilă autentificarea cu un alt nivel de permisiune (acces limitat/acces complet) decât dacă reîncărcați pagina web. Efectuați acțiunea de reîmprospătare în browserul dvs. web și încercați din nou.
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Autentificare esuata. Vă rugăm să încercați din nou.
+```

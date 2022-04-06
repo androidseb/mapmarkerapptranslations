@@ -6075,3 +6075,13 @@ translated (by machine 🤖) as:
 ```
 Vanwege enkele beperkingen in de Google-authenticatiestroom is het niet mogelijk om te authenticeren met een ander machtigingsniveau (beperkte toegang / volledige toegang), tenzij u de webpagina opnieuw laadt. Voer de vernieuwingsactie uit in uw webbrowser en probeer het opnieuw.
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Verificatie mislukt, probeer het opnieuw.
+```

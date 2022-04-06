@@ -6081,3 +6081,13 @@ translated (by machine 🤖) as:
 ```
 Z dôvodu určitých obmedzení v procese overovania Google nie je možné overiť totožnosť s inou úrovňou povolenia (obmedzený prístup / úplný prístup), pokiaľ webovú stránku znova nenačítate. Vykonajte akciu obnovenia vo webovom prehliadači a skúste to znova.
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Overenie zlyhalo, skúste to znova.
+```

@@ -6081,3 +6081,13 @@ translated (by machine 🤖) as:
 ```
 Do một số hạn chế trong quy trình xác thực của Google, bạn không thể xác thực với cấp độ quyền khác (quyền truy cập hạn chế / truy cập đầy đủ) trừ khi bạn tải lại trang web. Vui lòng thực hiện hành động làm mới trong trình duyệt web của bạn và thử lại.
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Lỗi xảy ra trong quá trình xác thực. Xin thử lại lần nữa.
+```

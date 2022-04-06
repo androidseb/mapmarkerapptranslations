@@ -6081,3 +6081,13 @@ translated (by machine 🤖) as:
 ```
 A Google hitelesítési folyamatának bizonyos korlátai miatt nem lehetséges más engedélyszinttel (korlátozott hozzáférés / teljes hozzáférés) hitelesíteni, hacsak nem tölti be újra a weboldalt. Kérjük, hajtsa végre a frissítést a böngészőjében, és próbálja újra.
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Sikertelen azonosítás. Kérlek próbáld újra.
+```

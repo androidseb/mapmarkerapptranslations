@@ -6081,3 +6081,13 @@ translated (by machine 🤖) as:
 ```
 בגלל כמה מגבלות בזרימת האימות של Google, לא ניתן לבצע אימות ברמת הרשאה אחרת (גישה מוגבלת / גישה מלאה) אלא אם כן אתה טוען מחדש את דף האינטרנט. אנא בצע את פעולת הרענון בדפדפן האינטרנט שלך ונסה שוב.
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+האימות נכשל, אנא נסה שוב.
+```

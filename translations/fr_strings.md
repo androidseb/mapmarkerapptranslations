@@ -6081,3 +6081,13 @@ translated (by human 👀) as:
 ```
 En raison de limitations dans le processus d'autentification de Google, il n'est pas possible de s'authentifier avec un niveau de permissions différent (accès limité / accès complet) sans recharger la page web. Veuillez effectuer l'action de rafraichissement dans votre navigateur et essayez de nouveau.
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by human 👀) as:
+```
+Authentification échouée, veuillez réessayer.
+```

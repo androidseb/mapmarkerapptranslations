@@ -6085,3 +6085,13 @@ translated (by machine 🤖) as:
 ```
 På grund af nogle begrænsninger i Google-godkendelsesflowet er det ikke muligt at godkende med et andet tilladelsesniveau (begrænset adgang / fuld adgang), medmindre du genindlæser websiden. Udfør venligst opdateringshandlingen i din webbrowser, og prøv igen.
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Godkendelse mislykkedes. Prøv venligst igen.
+```

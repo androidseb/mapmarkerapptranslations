@@ -6081,3 +6081,13 @@ translated (by machine 🤖) as:
 ```
 A causa di alcune limitazioni nel flusso di autenticazione di Google, non è possibile autenticarsi con un livello di autorizzazione diverso (accesso limitato/accesso completo) a meno che non si ricarichi la pagina web. Eseguire l'azione di aggiornamento nel browser Web e riprovare.
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Autenticazione fallita. Per favore riprovare.
+```

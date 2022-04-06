@@ -6081,3 +6081,13 @@ translated (by machine 🤖) as:
 ```
 Google kimlik doğrulama akışındaki bazı sınırlamalar nedeniyle, web sayfasını yeniden yüklemediğiniz sürece farklı bir izin düzeyiyle (sınırlı erişim / tam erişim) kimlik doğrulaması yapmak mümkün değildir. Lütfen web tarayıcınızda yenileme işlemini gerçekleştirin ve tekrar deneyin.
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Kimlik doğrulama başarısız oldu, lütfen tekrar deneyin.
+```

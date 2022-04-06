@@ -6081,3 +6081,13 @@ translated (by machine 🤖) as:
 ```
 A causa d'algunes limitacions del flux d'autenticació de Google, no és possible autenticar-se amb un nivell de permís diferent (accés limitat/accés complet) tret que torneu a carregar la pàgina web. Realitzeu l'acció d'actualització al vostre navegador web i torneu-ho a provar.
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+L'autenticació ha fallat, si us plau, torna-ho a provar.
+```

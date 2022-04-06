@@ -6081,3 +6081,13 @@ translated (by machine 🤖) as:
 ```
 Joidenkin Googlen todennusprosessin rajoitusten vuoksi ei ole mahdollista todentaa eri käyttöoikeustasoilla (rajoitettu käyttöoikeus / täysi käyttöoikeus), ellet lataa verkkosivua uudelleen. Suorita päivitystoiminto verkkoselaimessa ja yritä uudelleen.
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Varmistus epäonnistui. Ole hyvä ja yritä uudelleen.
+```

@@ -6082,3 +6082,13 @@ translated (by machine 🤖) as:
 ```
 Google認証フローにはいくつかの制限があるため、Webページをリロードしない限り、異なるアクセス許可レベル（制限付きアクセス/フルアクセス）で認証することはできません。 Webブラウザで更新アクションを実行して、再試行してください。
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+認証に失敗しました。もう一度やり直してください。
+```

@@ -6080,3 +6080,13 @@ translated (by machine 🤖) as:
 ```
 Dėl kai kurių „Google“ autentifikavimo srauto apribojimų neįmanoma autentifikuoti naudojant kitą leidimo lygį (ribota prieiga / visa prieiga), nebent iš naujo įkeliate tinklalapį. Atlikite atnaujinimo veiksmą žiniatinklio naršyklėje ir bandykite dar kartą.
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Autentifikavimas nepavyko, bandykite dar kartą.
+```

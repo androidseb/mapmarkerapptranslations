@@ -6081,3 +6081,13 @@ translated (by machine 🤖) as:
 ```
 Kvůli určitým omezením v procesu ověřování Google není možné provést ověření s jinou úrovní oprávnění (omezený přístup / plný přístup), pokud webovou stránku znovu nenačtete. Proveďte akci obnovení ve svém webovém prohlížeči a zkuste to znovu.
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Ověření se nezdařilo. Prosím zkuste to znovu.
+```

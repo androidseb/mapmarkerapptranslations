@@ -6078,3 +6078,13 @@ translated (by machine 🤖) as:
 ```
 Zaradi nekaterih omejitev v Googlovem toku preverjanja pristnosti ni mogoče preveriti pristnosti z drugačno ravnjo dovoljenja (omejen dostop/poln dostop), razen če znova naložite spletno stran. Prosimo, izvedite dejanje osvežitve v svojem spletnem brskalniku in poskusite znova.
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Preverjanje pristnosti ni uspelo, poskusite znova.
+```

@@ -6078,3 +6078,13 @@ translated (by machine 🤖) as:
 ```
 Aufgrund einiger Einschränkungen im Google-Authentifizierungsablauf ist es nicht möglich, sich mit einer anderen Berechtigungsstufe (eingeschränkter Zugriff / vollständiger Zugriff) zu authentifizieren, es sei denn, Sie laden die Webseite neu. Bitte führen Sie die Aktualisierungsaktion in Ihrem Webbrowser durch und versuchen Sie es erneut.
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Authentifizierung fehlgeschlagen. Bitte versuchen Sie es nochmals.
+```

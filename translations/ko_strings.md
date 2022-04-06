@@ -6081,3 +6081,13 @@ translated (by machine 🤖) as:
 ```
 Google 인증 흐름의 일부 제한 사항으로 인해 웹 페이지를 다시 로드하지 않는 한 다른 권한 수준(제한된 액세스/전체 액세스)으로 인증할 수 없습니다. 웹 브라우저에서 새로 고침 작업을 수행하고 다시 시도하십시오.
 ```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+인증이 실패했습니다. 다시 시도 해주세요.
+```
