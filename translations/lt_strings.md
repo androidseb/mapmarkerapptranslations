@@ -6070,3 +6070,13 @@ translated (by machine 🤖) as:
 ```
 Numatytasis duomenų apimties apribojimas
 ```
+
+
+## Translation Key: google_drive_web_auth_scope_change_error_message
+```
+Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
+```
+translated (by machine 🤖) as:
+```
+Dėl kai kurių „Google“ autentifikavimo srauto apribojimų neįmanoma autentifikuoti naudojant kitą leidimo lygį (ribota prieiga / visa prieiga), nebent iš naujo įkeliate tinklalapį. Atlikite atnaujinimo veiksmą žiniatinklio naršyklėje ir bandykite dar kartą.
+```

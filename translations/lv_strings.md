@@ -6071,3 +6071,13 @@ translated (by machine 🤖) as:
 ```
 Noklusējuma datu apjoma ierobežojums
 ```
+
+
+## Translation Key: google_drive_web_auth_scope_change_error_message
+```
+Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
+```
+translated (by machine 🤖) as:
+```
+Dažu Google autentifikācijas plūsmas ierobežojumu dēļ nav iespējams autentificēties ar citu atļauju līmeni (ierobežota piekļuve/pilna piekļuve), ja vien atkārtoti neielādējat tīmekļa lapu. Lūdzu, veiciet atsvaidzināšanas darbību savā tīmekļa pārlūkprogrammā un mēģiniet vēlreiz.
+```

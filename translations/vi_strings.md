@@ -6071,3 +6071,13 @@ translated (by machine 🤖) as:
 ```
 Giới hạn khối lượng dữ liệu mặc định
 ```
+
+
+## Translation Key: google_drive_web_auth_scope_change_error_message
+```
+Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
+```
+translated (by machine 🤖) as:
+```
+Do một số hạn chế trong quy trình xác thực của Google, bạn không thể xác thực với cấp độ quyền khác (quyền truy cập hạn chế / truy cập đầy đủ) trừ khi bạn tải lại trang web. Vui lòng thực hiện hành động làm mới trong trình duyệt web của bạn và thử lại.
+```

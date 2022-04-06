@@ -6071,3 +6071,13 @@ translated (by machine 🤖) as:
 ```
 Batas volume data default
 ```
+
+
+## Translation Key: google_drive_web_auth_scope_change_error_message
+```
+Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
+```
+translated (by machine 🤖) as:
+```
+Karena beberapa batasan dalam alur autentikasi Google, autentikasi dengan tingkat izin yang berbeda (akses terbatas/akses penuh) tidak mungkin dilakukan kecuali Anda memuat ulang halaman web. Harap lakukan tindakan penyegaran di browser web Anda dan coba lagi.
+```

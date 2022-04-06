@@ -6071,3 +6071,13 @@ translated (by machine 🤖) as:
 ```
 डिफ़ॉल्ट डेटा वॉल्यूम सीमा
 ```
+
+
+## Translation Key: google_drive_web_auth_scope_change_error_message
+```
+Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
+```
+translated (by machine 🤖) as:
+```
+Google प्रमाणीकरण प्रवाह में कुछ सीमाओं के कारण, जब तक आप वेब पृष्ठ को पुनः लोड नहीं करते, तब तक किसी भिन्न अनुमति स्तर (सीमित पहुंच/पूर्ण पहुंच) के साथ प्रमाणित करना संभव नहीं है। कृपया अपने वेब ब्राउज़र में रीफ़्रेश क्रिया करें और पुनः प्रयास करें।
+```

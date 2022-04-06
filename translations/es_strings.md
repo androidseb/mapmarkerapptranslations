@@ -6071,3 +6071,13 @@ translated (by machine 🤖) as:
 ```
 Límite de volumen de datos predeterminado
 ```
+
+
+## Translation Key: google_drive_web_auth_scope_change_error_message
+```
+Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
+```
+translated (by machine 🤖) as:
+```
+Debido a algunas limitaciones en el flujo de autenticación de Google, no es posible autenticarse con un nivel de permiso diferente (acceso limitado/acceso completo) a menos que vuelva a cargar la página web. Realice la acción de actualización en su navegador web y vuelva a intentarlo.
+```

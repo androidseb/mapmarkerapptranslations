@@ -6068,3 +6068,13 @@ translated (by machine 🤖) as:
 ```
 Ограничение объема данных по умолчанию
 ```
+
+
+## Translation Key: google_drive_web_auth_scope_change_error_message
+```
+Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
+```
+translated (by machine 🤖) as:
+```
+Из-за некоторых ограничений в процессе аутентификации Google невозможно пройти аутентификацию с другим уровнем разрешений (ограниченный доступ/полный доступ), если вы не перезагрузите веб-страницу. Пожалуйста, выполните действие обновления в веб-браузере и повторите попытку.
+```

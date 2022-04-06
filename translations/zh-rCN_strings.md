@@ -6071,3 +6071,13 @@ translated (by machine 🤖) as:
 ```
 默认数据量限制
 ```
+
+
+## Translation Key: google_drive_web_auth_scope_change_error_message
+```
+Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
+```
+translated (by machine 🤖) as:
+```
+由于 Google 身份验证流程中的一些限制，除非您重新加载网页，否则无法使用不同的权限级别（受限访问/完全访问）进行身份验证。请在您的网络浏览器中执行刷新操作，然后重试。
+```

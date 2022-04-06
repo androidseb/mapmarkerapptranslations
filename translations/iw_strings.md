@@ -6071,3 +6071,13 @@ translated (by machine 🤖) as:
 ```
 מגבלת ברירת המחדל של נפח הנתונים
 ```
+
+
+## Translation Key: google_drive_web_auth_scope_change_error_message
+```
+Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
+```
+translated (by machine 🤖) as:
+```
+בגלל כמה מגבלות בזרימת האימות של Google, לא ניתן לבצע אימות ברמת הרשאה אחרת (גישה מוגבלת / גישה מלאה) אלא אם כן אתה טוען מחדש את דף האינטרנט. אנא בצע את פעולת הרענון בדפדפן האינטרנט שלך ונסה שוב.
+```

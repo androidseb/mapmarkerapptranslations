@@ -6071,3 +6071,13 @@ translated (by machine 🤖) as:
 ```
 기본 데이터 볼륨 제한
 ```
+
+
+## Translation Key: google_drive_web_auth_scope_change_error_message
+```
+Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
+```
+translated (by machine 🤖) as:
+```
+Google 인증 흐름의 일부 제한 사항으로 인해 웹 페이지를 다시 로드하지 않는 한 다른 권한 수준(제한된 액세스/전체 액세스)으로 인증할 수 없습니다. 웹 브라우저에서 새로 고침 작업을 수행하고 다시 시도하십시오.
+```

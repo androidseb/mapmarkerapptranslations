@@ -6071,3 +6071,13 @@ translated (by machine 🤖) as:
 ```
 ដែនកំណត់បរិមាណទិន្នន័យលំនាំដើម
 ```
+
+
+## Translation Key: google_drive_web_auth_scope_change_error_message
+```
+Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
+```
+translated (by machine 🤖) as:
+```
+ដោយសារតែដែនកំណត់មួយចំនួននៅក្នុងលំហូរការផ្ទៀងផ្ទាត់ Google វាមិនអាចទៅរួចទេក្នុងការផ្ទៀងផ្ទាត់ជាមួយនឹងកម្រិតអនុញ្ញាតផ្សេង (ការចូលប្រើមានកំណត់/ការចូលប្រើពេញលេញ) លុះត្រាតែអ្នកផ្ទុកទំព័របណ្តាញឡើងវិញ។ សូមអនុវត្តសកម្មភាពផ្ទុកឡើងវិញនៅក្នុងកម្មវិធីរុករកតាមអ៊ីនធឺណិតរបស់អ្នក ហើយព្យាយាមម្តងទៀត។
+```

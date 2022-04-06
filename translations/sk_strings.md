@@ -6071,3 +6071,13 @@ translated (by machine 🤖) as:
 ```
 Predvolený limit objemu dát
 ```
+
+
+## Translation Key: google_drive_web_auth_scope_change_error_message
+```
+Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
+```
+translated (by machine 🤖) as:
+```
+Z dôvodu určitých obmedzení v procese overovania Google nie je možné overiť totožnosť s inou úrovňou povolenia (obmedzený prístup / úplný prístup), pokiaľ webovú stránku znova nenačítate. Vykonajte akciu obnovenia vo webovom prehliadači a skúste to znova.
+```

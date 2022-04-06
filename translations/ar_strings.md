@@ -6071,3 +6071,13 @@ translated (by machine 🤖) as:
 ```
 حد حجم البيانات الافتراضي
 ```
+
+
+## Translation Key: google_drive_web_auth_scope_change_error_message
+```
+Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
+```
+translated (by machine 🤖) as:
+```
+بسبب بعض القيود في تدفق مصادقة Google ، لا يمكن المصادقة بمستوى إذن مختلف (وصول محدود / وصول كامل) إلا إذا قمت بإعادة تحميل صفحة الويب. يرجى تنفيذ إجراء التحديث في متصفح الويب الخاص بك والمحاولة مرة أخرى.
+```

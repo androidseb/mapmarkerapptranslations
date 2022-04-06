@@ -6071,3 +6071,13 @@ translated (by machine 🤖) as:
 ```
 Standardgräns för datavolym
 ```
+
+
+## Translation Key: google_drive_web_auth_scope_change_error_message
+```
+Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
+```
+translated (by machine 🤖) as:
+```
+På grund av vissa begränsningar i Googles autentiseringsflöde är det inte möjligt att autentisera med en annan behörighetsnivå (begränsad åtkomst / full åtkomst) om du inte laddar om webbsidan. Utför uppdateringsåtgärden i din webbläsare och försök igen.
+```

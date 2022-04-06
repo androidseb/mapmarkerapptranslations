@@ -6071,3 +6071,13 @@ translated (by machine 🤖) as:
 ```
 Alapértelmezett adatmennyiség-korlát
 ```
+
+
+## Translation Key: google_drive_web_auth_scope_change_error_message
+```
+Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
+```
+translated (by machine 🤖) as:
+```
+A Google hitelesítési folyamatának bizonyos korlátai miatt nem lehetséges más engedélyszinttel (korlátozott hozzáférés / teljes hozzáférés) hitelesíteni, hacsak nem tölti be újra a weboldalt. Kérjük, hajtsa végre a frissítést a böngészőjében, és próbálja újra.
+```

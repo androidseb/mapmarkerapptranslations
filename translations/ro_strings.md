@@ -6071,3 +6071,13 @@ translated (by machine 🤖) as:
 ```
 Limită implicită a volumului de date
 ```
+
+
+## Translation Key: google_drive_web_auth_scope_change_error_message
+```
+Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
+```
+translated (by machine 🤖) as:
+```
+Din cauza unor limitări ale fluxului de autentificare Google, nu este posibilă autentificarea cu un alt nivel de permisiune (acces limitat/acces complet) decât dacă reîncărcați pagina web. Efectuați acțiunea de reîmprospătare în browserul dvs. web și încercați din nou.
+```
