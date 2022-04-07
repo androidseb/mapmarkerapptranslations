@@ -6091,3 +6091,13 @@ translated (by machine 🤖) as:
 ```
 Lỗi xảy ra trong quá trình xác thực. Xin thử lại lần nữa.
 ```
+
+
+## Translation Key: message_sync_error_data_volume_limit2
+```
+The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
+```
+translated (by machine 🤖) as:
+```
+Quá trình đồng bộ hóa đã bị hủy bỏ vì vượt quá giới hạn khối lượng dữ liệu cho phép. Để tăng hoặc thay đổi giới hạn, hãy chuyển đến cài đặt.
+```

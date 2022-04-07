@@ -6091,3 +6091,13 @@ translated (by machine 🤖) as:
 ```
 Overenie zlyhalo, skúste to znova.
 ```
+
+
+## Translation Key: message_sync_error_data_volume_limit2
+```
+The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
+```
+translated (by machine 🤖) as:
+```
+Synchronizácia bola prerušená, pretože prekračovala povolený limit objemu dát. Ak chcete zvýšiť alebo zmeniť limit, prejdite do nastavení.
+```

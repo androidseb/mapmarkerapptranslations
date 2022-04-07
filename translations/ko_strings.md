@@ -6091,3 +6091,13 @@ translated (by machine 🤖) as:
 ```
 인증이 실패했습니다. 다시 시도 해주세요.
 ```
+
+
+## Translation Key: message_sync_error_data_volume_limit2
+```
+The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
+```
+translated (by machine 🤖) as:
+```
+허용된 데이터 볼륨 제한을 초과했기 때문에 동기화가 중단되었습니다. 한도를 늘리거나 변경하려면 설정으로 이동하세요.
+```

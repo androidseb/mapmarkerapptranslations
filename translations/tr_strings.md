@@ -6091,3 +6091,13 @@ translated (by machine 🤖) as:
 ```
 Kimlik doğrulama başarısız oldu, lütfen tekrar deneyin.
 ```
+
+
+## Translation Key: message_sync_error_data_volume_limit2
+```
+The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
+```
+translated (by machine 🤖) as:
+```
+İzin verilen veri hacmi sınırını aştığı için eşitleme durduruldu. Limiti artırmak veya değiştirmek için ayarlara gidin.
+```

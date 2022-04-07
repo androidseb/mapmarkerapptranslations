@@ -6091,3 +6091,13 @@ translated (by machine 🤖) as:
 ```
 Autentificare esuata. Vă rugăm să încercați din nou.
 ```
+
+
+## Translation Key: message_sync_error_data_volume_limit2
+```
+The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
+```
+translated (by machine 🤖) as:
+```
+Sincronizarea a fost întreruptă deoarece depășea limita permisă pentru volumul de date. Pentru a crește sau modifica limita, accesați setările.
+```

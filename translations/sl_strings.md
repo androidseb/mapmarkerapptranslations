@@ -6088,3 +6088,13 @@ translated (by machine 🤖) as:
 ```
 Preverjanje pristnosti ni uspelo, poskusite znova.
 ```
+
+
+## Translation Key: message_sync_error_data_volume_limit2
+```
+The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
+```
+translated (by machine 🤖) as:
+```
+Sinhronizacija je bila prekinjena, ker je presegla dovoljeno količino podatkov. Če želite povečati ali spremeniti omejitev, pojdite v nastavitve.
+```

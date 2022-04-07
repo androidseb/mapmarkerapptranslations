@@ -6091,3 +6091,13 @@ translated (by machine 🤖) as:
 ```
 האימות נכשל, אנא נסה שוב.
 ```
+
+
+## Translation Key: message_sync_error_data_volume_limit2
+```
+The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
+```
+translated (by machine 🤖) as:
+```
+הסנכרון בוטל מכיוון שהוא חרג ממגבלת נפח הנתונים המותרת. כדי להגדיל או לשנות את המגבלה, עבור אל ההגדרות.
+```

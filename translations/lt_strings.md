@@ -6090,3 +6090,13 @@ translated (by machine 🤖) as:
 ```
 Autentifikavimas nepavyko, bandykite dar kartą.
 ```
+
+
+## Translation Key: message_sync_error_data_volume_limit2
+```
+The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
+```
+translated (by machine 🤖) as:
+```
+Sinchronizavimas buvo nutrauktas, nes buvo viršytas leistinas duomenų kiekis. Norėdami padidinti arba pakeisti limitą, eikite į nustatymus.
+```

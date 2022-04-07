@@ -6091,3 +6091,13 @@ translated (by machine 🤖) as:
 ```
 Sikertelen azonosítás. Kérlek próbáld újra.
 ```
+
+
+## Translation Key: message_sync_error_data_volume_limit2
+```
+The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
+```
+translated (by machine 🤖) as:
+```
+A szinkronizálás megszakadt, mert túllépte a megengedett adatmennyiség-korlátot. A korlát növeléséhez vagy módosításához lépjen a beállításokhoz.
+```

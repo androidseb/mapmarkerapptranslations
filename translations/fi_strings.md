@@ -6091,3 +6091,13 @@ translated (by machine 🤖) as:
 ```
 Varmistus epäonnistui. Ole hyvä ja yritä uudelleen.
 ```
+
+
+## Translation Key: message_sync_error_data_volume_limit2
+```
+The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
+```
+translated (by machine 🤖) as:
+```
+Synkronointi keskeytettiin, koska se ylitti sallitun datamäärän rajan. Voit suurentaa tai muuttaa rajaa siirtymällä asetuksiin.
+```

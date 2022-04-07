@@ -6091,3 +6091,13 @@ translated (by machine 🤖) as:
 ```
 ការផ្ទៀងផ្ទាត់បានបរាជ័យ សូមព្យាយាមម្តងទៀត។
 ```
+
+
+## Translation Key: message_sync_error_data_volume_limit2
+```
+The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
+```
+translated (by machine 🤖) as:
+```
+ការ​ធ្វើ​សមកាលកម្ម​ត្រូវ​បាន​បោះបង់​ព្រោះ​វា​លើស​កម្រិត​បរិមាណ​ទិន្នន័យ​ដែល​អនុញ្ញាត។ ដើម្បីបង្កើន ឬផ្លាស់ប្តូរដែនកំណត់ សូមចូលទៅកាន់ការកំណត់។
+```

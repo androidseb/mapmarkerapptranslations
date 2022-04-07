@@ -6091,3 +6091,13 @@ translated (by machine 🤖) as:
 ```
 L'autenticació ha fallat, si us plau, torna-ho a provar.
 ```
+
+
+## Translation Key: message_sync_error_data_volume_limit2
+```
+The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
+```
+translated (by machine 🤖) as:
+```
+La sincronització s'ha cancel·lat perquè superava el límit de volum de dades permès. Per augmentar o canviar el límit, aneu a la configuració.
+```

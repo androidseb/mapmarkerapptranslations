@@ -6095,3 +6095,13 @@ translated (by machine 🤖) as:
 ```
 Godkendelse mislykkedes. Prøv venligst igen.
 ```
+
+
+## Translation Key: message_sync_error_data_volume_limit2
+```
+The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
+```
+translated (by machine 🤖) as:
+```
+Synkroniseringen blev afbrudt, fordi den overskred den tilladte datavolumengrænse. Gå til indstillingerne for at øge eller ændre grænsen.
+```

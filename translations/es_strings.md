@@ -6091,3 +6091,13 @@ translated (by machine 🤖) as:
 ```
 Autenticación fallida. Por favor intente de nuevo.
 ```
+
+
+## Translation Key: message_sync_error_data_volume_limit2
+```
+The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
+```
+translated (by machine 🤖) as:
+```
+La sincronización se canceló porque excedía el límite de volumen de datos permitido. Para aumentar o cambiar el límite, vaya a la configuración.
+```

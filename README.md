@@ -81,13 +81,13 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Norwegian (0% human-translated)](./translations/no_strings.md)
 
-[Polish (75% human-translated)](./translations/pl_strings.md)
+[Polish (74% human-translated)](./translations/pl_strings.md)
 
 [Portuguese (0% human-translated)](./translations/pt_strings.md)
 
 [Romanian (0% human-translated)](./translations/ro_strings.md)
 
-[Russian (75% human-translated)](./translations/ru_strings.md)
+[Russian (74% human-translated)](./translations/ru_strings.md)
 
 [Serbian (0% human-translated)](./translations/sr_strings.md)
 

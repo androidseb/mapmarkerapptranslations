@@ -6085,3 +6085,13 @@ translated (by machine 🤖) as:
 ```
 Verificatie mislukt, probeer het opnieuw.
 ```
+
+
+## Translation Key: message_sync_error_data_volume_limit2
+```
+The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
+```
+translated (by machine 🤖) as:
+```
+De synchronisatie is afgebroken omdat de limiet voor het toegestane gegevensvolume werd overschreden. Ga naar de instellingen om de limiet te verhogen of te wijzigen.
+```
