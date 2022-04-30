@@ -6102,3 +6102,43 @@ translated (by machine 🤖) as:
 ```
 許可されたデータ量の制限を超えていたため、同期は中止されました。制限を増減するには、設定に移動します。
 ```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox-アクセスが制限されています
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+これにより、アプリはアプリ専用のDropboxフォルダーにのみアクセスするように制限されます。疑わしい場合は、このオプションを選択してください。後で簡単に気が変わる可能性があります。
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox-フルアクセス
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+これにより、アプリにDropboxへのフルアクセスが許可されます。アプリでDropbox全体のファイルを検索する場合は、このオプションを選択します。
+```

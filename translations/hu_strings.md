@@ -6101,3 +6101,43 @@ translated (by machine 🤖) as:
 ```
 A szinkronizálás megszakadt, mert túllépte a megengedett adatmennyiség-korlátot. A korlát növeléséhez vagy módosításához lépjen a beállításokhoz.
 ```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - korlátozott hozzáférés
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Ez azt korlátozza, hogy az alkalmazás csak az alkalmazáshoz rendelt Dropbox mappához férhessen hozzá. Ha kétségei vannak, válassza ezt a lehetőséget, mert később könnyen meggondolhatja magát.
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - teljes hozzáférés
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+Ezzel az alkalmazás teljes hozzáférést biztosít a Dropbox-hez. Válassza ezt a lehetőséget, ha azt szeretné, hogy az alkalmazás megtalálja a fájlokat a teljes Dropbox-ben.
+```

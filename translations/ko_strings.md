@@ -6101,3 +6101,43 @@ translated (by machine 🤖) as:
 ```
 허용된 데이터 볼륨 제한을 초과했기 때문에 동기화가 중단되었습니다. 한도를 늘리거나 변경하려면 설정으로 이동하세요.
 ```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - 제한된 액세스
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+이렇게 하면 앱이 앱 전용 Dropbox 폴더에만 액세스하도록 제한됩니다. 확실하지 않은 경우 이 옵션을 선택하면 나중에 쉽게 마음이 바뀔 수 있습니다.
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - 전체 액세스
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+이렇게 하면 앱에 Dropbox에 대한 전체 액세스 권한이 부여됩니다. 앱이 전체 Dropbox에서 파일을 찾도록 하려면 이 옵션을 선택하십시오.
+```

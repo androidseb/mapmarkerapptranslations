@@ -6101,3 +6101,43 @@ translated (by machine 🤖) as:
 ```
 La sincronització s'ha cancel·lat perquè superava el límit de volum de dades permès. Per augmentar o canviar el límit, aneu a la configuració.
 ```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - accés limitat
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Això limita l'aplicació a accedir només a una carpeta Dropbox dedicada a l'aplicació. En cas de dubte, trieu aquesta opció, podeu canviar d'opinió fàcilment més endavant.
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - accés complet
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+Això permet que l'aplicació tingui accés complet al vostre Dropbox. Trieu aquesta opció si voleu que l'aplicació trobi fitxers a tot el vostre Dropbox.
+```

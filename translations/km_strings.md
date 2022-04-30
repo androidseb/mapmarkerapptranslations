@@ -6101,3 +6101,43 @@ translated (by machine 🤖) as:
 ```
 ការ​ធ្វើ​សមកាលកម្ម​ត្រូវ​បាន​បោះបង់​ព្រោះ​វា​លើស​កម្រិត​បរិមាណ​ទិន្នន័យ​ដែល​អនុញ្ញាត។ ដើម្បីបង្កើន ឬផ្លាស់ប្តូរដែនកំណត់ សូមចូលទៅកាន់ការកំណត់។
 ```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - ការចូលប្រើមានកំណត់
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+នេះកំណត់ឱ្យកម្មវិធីចូលប្រើតែថត Dropbox ដែលឧទ្ទិសដល់កម្មវិធីប៉ុណ្ណោះ។ ប្រសិនបើមានការសង្ស័យ ជ្រើសរើសជម្រើសនេះ អ្នកអាចផ្លាស់ប្តូរចិត្តបានយ៉ាងងាយស្រួលនៅពេលក្រោយ។
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - ការចូលប្រើពេញលេញ
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+វាផ្តល់ឱ្យកម្មវិធីនូវការចូលដំណើរការពេញលេញទៅកាន់ Dropbox របស់អ្នក។ ជ្រើសរើសជម្រើសនេះប្រសិនបើអ្នកចង់ឱ្យកម្មវិធីស្វែងរកឯកសារនៅក្នុង Dropbox ទាំងមូលរបស់អ្នក។
+```

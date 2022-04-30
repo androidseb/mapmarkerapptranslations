@@ -6101,3 +6101,43 @@ translated (by machine 🤖) as:
 ```
 Synkroniseringen avbröts eftersom den överskred den tillåtna datavolymgränsen. För att öka eller ändra gränsen, gå till inställningarna.
 ```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - begränsad åtkomst
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Detta begränsar appen till att bara komma åt en app-dedikerad Dropbox-mapp. Om du är osäker, välj det här alternativet, du kan enkelt ändra dig senare.
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - full åtkomst
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+Detta ger appen full åtkomst till din Dropbox. Välj det här alternativet om du vill att appen ska hitta filer i hela din Dropbox.
+```

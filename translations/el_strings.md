@@ -6101,3 +6101,43 @@ translated (by machine 🤖) as:
 ```
 Ο συγχρονισμός ματαιώθηκε επειδή υπερέβαινε το επιτρεπόμενο όριο όγκου δεδομένων. Για να αυξήσετε ή να αλλάξετε το όριο, μεταβείτε στις ρυθμίσεις.
 ```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - περιορισμένη πρόσβαση
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Αυτό περιορίζει την εφαρμογή να έχει πρόσβαση μόνο σε έναν φάκελο Dropbox που είναι αφιερωμένος στην εφαρμογή. Εάν έχετε αμφιβολίες, επιλέξτε αυτήν την επιλογή, μπορείτε εύκολα να αλλάξετε γνώμη αργότερα.
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - πλήρης πρόσβαση
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+Αυτό παρέχει στην εφαρμογή πλήρη πρόσβαση στο Dropbox σας. Επιλέξτε αυτήν την επιλογή εάν θέλετε η εφαρμογή να βρίσκει αρχεία σε ολόκληρο το Dropbox σας.
+```

@@ -6101,3 +6101,43 @@ translated (by machine 🤖) as:
 ```
 Синхронизирането бе прекратено, защото надвишава разрешения обем на данни. За да увеличите или промените лимита, отидете на настройките.
 ```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - ограничен достъп
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Това ограничава приложението само за достъп до папка Dropbox, посветена на приложението. Ако се съмнявате, изберете тази опция, лесно можете да промените решението си по-късно.
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - пълен достъп
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+Това предоставя на приложението пълен достъп до вашия Dropbox. Изберете тази опция, ако искате приложението да намира файлове в целия ви Dropbox.
+```

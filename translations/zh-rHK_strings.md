@@ -6101,3 +6101,43 @@ translated (by machine 🤖) as:
 ```
 同步已中止，因為它超出了允許的數據量限制。要增加或更改限制，請轉到設置。
 ```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - 受限訪問
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+這將應用程序限制為僅訪問應用程序專用的 Dropbox 文件夾。如果有疑問，請選擇此選項，您以後可以輕鬆改變主意。
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - 完全訪問
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+這將授予應用程序對您的 Dropbox 的完全訪問權限。如果您希望應用在整個 Dropbox 中查找文件，請選擇此選項。
+```

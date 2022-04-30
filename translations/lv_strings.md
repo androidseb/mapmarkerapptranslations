@@ -6101,3 +6101,43 @@ translated (by machine 🤖) as:
 ```
 Sinhronizācija tika pārtraukta, jo tika pārsniegts atļautais datu apjoma ierobežojums. Lai palielinātu vai mainītu ierobežojumu, dodieties uz iestatījumiem.
 ```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - ierobežota piekļuve
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Tādējādi lietotne var piekļūt tikai lietotnei paredzētai mapei Dropbox. Ja rodas šaubas, izvēlieties šo opciju, jo vēlāk varēsiet viegli pārdomāt.
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - pilna piekļuve
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+Tādējādi lietotnei tiek piešķirta pilnīga piekļuve jūsu Dropbox. Izvēlieties šo opciju, ja vēlaties, lai lietotne atrastu failus visā jūsu Dropbox.
+```

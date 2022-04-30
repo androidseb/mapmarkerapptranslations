@@ -6095,3 +6095,43 @@ translated (by machine 🤖) as:
 ```
 De synchronisatie is afgebroken omdat de limiet voor het toegestane gegevensvolume werd overschreden. Ga naar de instellingen om de limiet te verhogen of te wijzigen.
 ```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - beperkte toegang
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Dit beperkt de app om alleen toegang te krijgen tot een app-specifieke Dropbox-map. Kies bij twijfel deze optie, u kunt later gemakkelijk van gedachten veranderen.
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - volledige toegang
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+Dit geeft de app volledige toegang tot uw Dropbox. Kies deze optie als je wilt dat de app bestanden in je hele Dropbox vindt.
+```

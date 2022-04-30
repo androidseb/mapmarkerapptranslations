@@ -6101,3 +6101,43 @@ translated (by machine 🤖) as:
 ```
 A sincronização foi abortada porque estava excedendo o limite de volume de dados permitido. Para aumentar ou alterar o limite, vá para as configurações.
 ```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - acesso limitado
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Isso limita o aplicativo a acessar apenas uma pasta Dropbox dedicada ao aplicativo. Em caso de dúvida, escolha esta opção, você pode facilmente mudar de ideia mais tarde.
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - acesso total
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+Isso concede ao aplicativo acesso total ao seu Dropbox. Escolha esta opção se quiser que o aplicativo encontre arquivos em todo o seu Dropbox.
+```

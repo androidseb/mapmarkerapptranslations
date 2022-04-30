@@ -6101,3 +6101,43 @@ translated (by machine 🤖) as:
 ```
 İzin verilen veri hacmi sınırını aştığı için eşitleme durduruldu. Limiti artırmak veya değiştirmek için ayarlara gidin.
 ```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - sınırlı erişim
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Bu, uygulamayı yalnızca uygulamaya özel bir Dropbox klasörüne erişecek şekilde sınırlar. Şüpheniz varsa, bu seçeneği seçin, daha sonra fikrinizi kolayca değiştirebilirsiniz.
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - tam erişim
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+Bu, uygulamaya Dropbox cihazınıza tam erişim sağlar. Uygulamanın tüm Dropbox dosyanızdaki dosyaları bulmasını istiyorsanız bu seçeneği belirleyin.
+```

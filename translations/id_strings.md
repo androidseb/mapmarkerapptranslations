@@ -6101,3 +6101,43 @@ translated (by machine 🤖) as:
 ```
 Sinkronisasi dibatalkan karena melebihi batas volume data yang diizinkan. Untuk menambah atau mengubah batas, buka pengaturan.
 ```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - akses terbatas
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Ini membatasi aplikasi untuk hanya mengakses folder Dropbox khusus aplikasi. Jika ragu, pilih opsi ini, Anda dapat dengan mudah berubah pikiran nanti.
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - akses penuh
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+Ini memberi aplikasi akses penuh ke Dropbox. Pilih opsi ini jika Anda ingin aplikasi menemukan file di seluruh Dropbox.
+```

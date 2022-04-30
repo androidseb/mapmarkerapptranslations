@@ -6102,3 +6102,43 @@ translated (by machine 🤖) as:
 ```
 การซิงค์ถูกยกเลิกเนื่องจากเกินขีดจำกัดปริมาณข้อมูลที่อนุญาต หากต้องการเพิ่มหรือเปลี่ยนขีดจำกัด ให้ไปที่การตั้งค่า
 ```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - จำกัดการเข้าถึง
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+สิ่งนี้จำกัดให้แอปเข้าถึงได้เฉพาะโฟลเดอร์ Dropbox เฉพาะแอปเท่านั้น หากไม่แน่ใจ ให้เลือกตัวเลือกนี้ คุณสามารถเปลี่ยนใจในภายหลังได้อย่างง่ายดาย
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - การเข้าถึงแบบเต็ม
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+สิ่งนี้ทำให้แอปเข้าถึง Dropbox ของคุณได้อย่างเต็มที่ เลือกตัวเลือกนี้หากคุณต้องการให้แอปค้นหาไฟล์ใน Dropbox ทั้งหมดของคุณ
+```

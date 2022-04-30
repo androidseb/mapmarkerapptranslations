@@ -6101,3 +6101,43 @@ translated (by machine 🤖) as:
 ```
 Quá trình đồng bộ hóa đã bị hủy bỏ vì vượt quá giới hạn khối lượng dữ liệu cho phép. Để tăng hoặc thay đổi giới hạn, hãy chuyển đến cài đặt.
 ```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - truy cập hạn chế
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Điều này giới hạn ứng dụng chỉ có thể truy cập vào thư mục Dropbox dành riêng cho ứng dụng. Nếu nghi ngờ, hãy chọn tùy chọn này, bạn có thể dễ dàng thay đổi quyết định sau đó.
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - toàn quyền truy cập
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+Điều này cấp cho ứng dụng đầy đủ quyền truy cập vào Dropbox của bạn. Chọn tùy chọn này nếu bạn muốn ứng dụng tìm các tệp trong toàn bộ Dropbox của bạn.
+```

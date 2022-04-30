@@ -6100,3 +6100,43 @@ translated (by machine 🤖) as:
 ```
 Sinchronizavimas buvo nutrauktas, nes buvo viršytas leistinas duomenų kiekis. Norėdami padidinti arba pakeisti limitą, eikite į nustatymus.
 ```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox – ribota prieiga
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Tai apriboja, kad programa galėtų pasiekti tik programai skirtą Dropbox aplanką. Jei abejojate, pasirinkite šią parinktį, nes vėliau galėsite lengvai apsigalvoti.
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox – visa prieiga
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+Tai suteikia programai visišką prieigą prie jūsų Dropbox. Pasirinkite šią parinktį, jei norite, kad programa rastų failus visame Dropbox.
+```

@@ -6101,3 +6101,43 @@ translated (by machine 🤖) as:
 ```
 समन्वयन निरस्त कर दिया गया था क्योंकि यह अनुमत डेटा मात्रा सीमा से अधिक था। लिमिट बढ़ाने या बदलने के लिए सेटिंग्स में जाएं।
 ```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - सीमित पहुंच
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+यह ऐप को केवल ऐप-समर्पित Dropbox फ़ोल्डर तक पहुंचने के लिए सीमित करता है। यदि संदेह है, तो इस विकल्प को चुनें, आप बाद में आसानी से अपना विचार बदल सकते हैं।
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - पूर्ण पहुंच
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+यह ऐप को आपके Dropbox तक पूर्ण पहुंच प्रदान करता है। इस विकल्प को चुनें यदि आप चाहते हैं कि ऐप आपके संपूर्ण Dropbox.
+```
