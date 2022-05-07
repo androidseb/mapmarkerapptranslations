@@ -6141,3 +6141,13 @@ translated (by machine 🤖) as:
 ```
 Ini memberi aplikasi akses penuh ke Dropbox. Pilih opsi ini jika Anda ingin aplikasi menemukan file di seluruh Dropbox.
 ```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Masukkan kode akses
+```

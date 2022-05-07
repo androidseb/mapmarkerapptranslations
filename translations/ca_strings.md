@@ -6141,3 +6141,13 @@ translated (by machine 🤖) as:
 ```
 Això permet que l'aplicació tingui accés complet al vostre Dropbox. Trieu aquesta opció si voleu que l'aplicació trobi fitxers a tot el vostre Dropbox.
 ```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Introduïu el codi d'accés
+```

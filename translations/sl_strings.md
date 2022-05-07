@@ -6138,3 +6138,13 @@ translated (by machine 🤖) as:
 ```
 To aplikaciji omogoči popoln dostop do vašega Dropbox. Izberite to možnost, če želite, da aplikacija najde datoteke v celotnem Dropbox.
 ```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Vnesite kodo za dostop
+```

@@ -6141,3 +6141,13 @@ translated (by machine 🤖) as:
 ```
 这将授予应用程序对您的 Dropbox 的完全访问权限。如果您希望应用在整个 Dropbox 中查找文件，请选择此选项。
 ```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+输入访问代码
+```

@@ -6138,3 +6138,13 @@ translated (by machine 🤖) as:
 ```
 Dadurch erhält die App vollen Zugriff auf Ihr Dropbox. Wählen Sie diese Option, wenn die App Dateien in Ihrem gesamten Dropbox finden soll.
 ```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Geben Sie den Zugangscode ein
+```

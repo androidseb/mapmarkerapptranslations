@@ -6141,3 +6141,13 @@ translated (by machine 🤖) as:
 ```
 វាផ្តល់ឱ្យកម្មវិធីនូវការចូលដំណើរការពេញលេញទៅកាន់ Dropbox របស់អ្នក។ ជ្រើសរើសជម្រើសនេះប្រសិនបើអ្នកចង់ឱ្យកម្មវិធីស្វែងរកឯកសារនៅក្នុង Dropbox ទាំងមូលរបស់អ្នក។
 ```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+បញ្ចូលលេខកូដចូល
+```

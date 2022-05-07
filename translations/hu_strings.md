@@ -6141,3 +6141,13 @@ translated (by machine 🤖) as:
 ```
 Ezzel az alkalmazás teljes hozzáférést biztosít a Dropbox-hez. Válassza ezt a lehetőséget, ha azt szeretné, hogy az alkalmazás megtalálja a fájlokat a teljes Dropbox-ben.
 ```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Írja be a hozzáférési kódot
+```

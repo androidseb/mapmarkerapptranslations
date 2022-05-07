@@ -6141,3 +6141,13 @@ translated (by machine 🤖) as:
 ```
 이렇게 하면 앱에 Dropbox에 대한 전체 액세스 권한이 부여됩니다. 앱이 전체 Dropbox에서 파일을 찾도록 하려면 이 옵션을 선택하십시오.
 ```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+액세스 코드 입력
+```

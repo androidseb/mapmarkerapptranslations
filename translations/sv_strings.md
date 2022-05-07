@@ -6141,3 +6141,13 @@ translated (by machine 🤖) as:
 ```
 Detta ger appen full åtkomst till din Dropbox. Välj det här alternativet om du vill att appen ska hitta filer i hela din Dropbox.
 ```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Ange åtkomstkod
+```

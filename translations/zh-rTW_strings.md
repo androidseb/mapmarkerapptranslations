@@ -6133,3 +6133,13 @@ translated (by machine 🤖) as:
 ```
 這將授予應用程序對您的 Dropbox 的完全訪問權限。如果您希望應用在整個 Dropbox 中查找文件，請選擇此選項。
 ```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+輸入訪問代碼
+```

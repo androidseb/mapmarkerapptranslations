@@ -6140,3 +6140,13 @@ translated (by machine 🤖) as:
 ```
 Tai suteikia programai visišką prieigą prie jūsų Dropbox. Pasirinkite šią parinktį, jei norite, kad programa rastų failus visame Dropbox.
 ```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Įveskite prieigos kodą
+```

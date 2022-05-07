@@ -6142,3 +6142,13 @@ translated (by machine 🤖) as:
 ```
 これにより、アプリにDropboxへのフルアクセスが許可されます。アプリでDropbox全体のファイルを検索する場合は、このオプションを選択します。
 ```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+アクセスコードを入力してください
+```

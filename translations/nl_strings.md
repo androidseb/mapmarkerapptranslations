@@ -6135,3 +6135,13 @@ translated (by machine 🤖) as:
 ```
 Dit geeft de app volledige toegang tot uw Dropbox. Kies deze optie als je wilt dat de app bestanden in je hele Dropbox vindt.
 ```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Voer toegangscode in
+```

@@ -6141,3 +6141,13 @@ translated (by machine 🤖) as:
 ```
 זה מעניק לאפליקציה גישה מלאה ל-Dropbox שלך. בחר באפשרות זו אם אתה רוצה שהאפליקציה תמצא קבצים בכל Dropbox שלך.
 ```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+הזן קוד גישה
+```

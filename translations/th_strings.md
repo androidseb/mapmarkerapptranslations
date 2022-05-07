@@ -6142,3 +6142,13 @@ translated (by machine 🤖) as:
 ```
 สิ่งนี้ทำให้แอปเข้าถึง Dropbox ของคุณได้อย่างเต็มที่ เลือกตัวเลือกนี้หากคุณต้องการให้แอปค้นหาไฟล์ใน Dropbox ทั้งหมดของคุณ
 ```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+ใส่รหัสเข้าใช้
+```

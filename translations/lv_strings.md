@@ -6141,3 +6141,13 @@ translated (by machine 🤖) as:
 ```
 Tādējādi lietotnei tiek piešķirta pilnīga piekļuve jūsu Dropbox. Izvēlieties šo opciju, ja vēlaties, lai lietotne atrastu failus visā jūsu Dropbox.
 ```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Ievadiet piekļuves kodu
+```

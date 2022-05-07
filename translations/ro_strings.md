@@ -6141,3 +6141,13 @@ translated (by machine 🤖) as:
 ```
 Acest lucru oferă aplicației acces deplin la Dropbox. Alegeți această opțiune dacă doriți ca aplicația să găsească fișiere în întregul dvs. Dropbox.
 ```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Introduceți codul de acces
+```

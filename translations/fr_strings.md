@@ -6109,7 +6109,7 @@ Dropbox - limited access
 ```
 translated (by human 👀) as:
 ```
-Dropbox - accès limitéaccess
+Dropbox - accès limité
 ```
 
 
@@ -6140,4 +6140,14 @@ This grants the app full access to your Dropbox. Pick this option if you want th
 translated (by human 👀) as:
 ```
 Ceci donne à l'application un accès complet à votre Dropbox. Choisissez cette option si vous voulez que l'application aie accès à l'intégralité des fichiers de votre Dropbox.
+```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by human 👀) as:
+```
+Entrez le code d'accès
 ```
