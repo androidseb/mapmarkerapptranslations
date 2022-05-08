@@ -6151,3 +6151,23 @@ translated (by machine 🤖) as:
 ```
 Introduceți codul de acces
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+Fișiere de hartă offline
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s fișiere
+```

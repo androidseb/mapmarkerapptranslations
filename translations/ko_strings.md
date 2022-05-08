@@ -6151,3 +6151,23 @@ translated (by machine 🤖) as:
 ```
 액세스 코드 입력
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+오프라인 지도 파일
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s 파일
+```

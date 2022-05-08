@@ -6151,3 +6151,23 @@ translated (by machine 🤖) as:
 ```
 הזן קוד גישה
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+קבצי מפות לא מקוונות
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s קבצים
+```

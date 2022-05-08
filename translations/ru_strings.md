@@ -6148,3 +6148,23 @@ translated (by machine 🤖) as:
 ```
 Введите код доступа
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+Автономные файлы карт
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s файлов
+```

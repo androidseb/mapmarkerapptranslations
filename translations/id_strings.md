@@ -6151,3 +6151,23 @@ translated (by machine 🤖) as:
 ```
 Masukkan kode akses
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+File peta offline
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s file
+```

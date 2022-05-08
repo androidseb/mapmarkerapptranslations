@@ -6151,3 +6151,23 @@ translated (by machine 🤖) as:
 ```
 إدخال رمز الوصول
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+ملفات الخرائط غير المتصلة بالإنترنت
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s ملفات
+```

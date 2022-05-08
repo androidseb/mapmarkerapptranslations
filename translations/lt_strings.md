@@ -6150,3 +6150,23 @@ translated (by machine 🤖) as:
 ```
 Įveskite prieigos kodą
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+Žemėlapio failai neprisijungus
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s failai
+```

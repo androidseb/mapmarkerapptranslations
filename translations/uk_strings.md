@@ -6151,3 +6151,23 @@ translated (by machine 🤖) as:
 ```
 Введіть код доступу
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+Офлайн-файли карт
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s файлів
+```

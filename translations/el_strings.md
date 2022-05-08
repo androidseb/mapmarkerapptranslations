@@ -6151,3 +6151,23 @@ translated (by machine 🤖) as:
 ```
 Εισαγάγετε τον κωδικό πρόσβασης
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+Αρχεία χάρτη εκτός σύνδεσης
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s αρχεία
+```

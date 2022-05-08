@@ -6145,3 +6145,23 @@ translated (by machine 🤖) as:
 ```
 Voer toegangscode in
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+Offline kaartbestanden
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s bestanden
+```

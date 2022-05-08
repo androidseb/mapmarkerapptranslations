@@ -6151,3 +6151,23 @@ translated (by machine 🤖) as:
 ```
 Skriv inn tilgangskode
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+Frakoblet kartfiler
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s filer
+```

@@ -6143,3 +6143,23 @@ translated (by machine 🤖) as:
 ```
 輸入訪問代碼
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+離線地圖文件
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s 個文件
+```

@@ -6151,3 +6151,23 @@ translated (by machine 🤖) as:
 ```
 Ange åtkomstkod
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+Offline kartfiler
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s filer
+```

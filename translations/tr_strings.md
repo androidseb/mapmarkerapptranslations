@@ -6151,3 +6151,23 @@ translated (by machine 🤖) as:
 ```
 Erişim kodunu giriniz
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+Çevrimdışı harita dosyaları
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s dosya
+```

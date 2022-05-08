@@ -6152,3 +6152,23 @@ translated (by machine 🤖) as:
 ```
 ใส่รหัสเข้าใช้
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+ไฟล์แผนที่ออฟไลน์
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s ไฟล์
+```

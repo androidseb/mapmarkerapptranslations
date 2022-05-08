@@ -6151,3 +6151,23 @@ translated (by machine 🤖) as:
 ```
 Zadejte přístupový kód
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+Offline mapové soubory
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s souborů
+```

@@ -6151,3 +6151,23 @@ translated (by machine 🤖) as:
 ```
 Nhập mã truy cập
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+Tệp bản đồ ngoại tuyến
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s tệp
+```

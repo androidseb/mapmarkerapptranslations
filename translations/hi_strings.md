@@ -6151,3 +6151,23 @@ translated (by machine 🤖) as:
 ```
 एक्सेस कोड दर्ज करें
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+ऑफ़लाइन मानचित्र फ़ाइलें
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s फ़ाइलें
+```

@@ -6151,3 +6151,23 @@ translated (by machine 🤖) as:
 ```
 Inserisci il codice di accesso
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+File mappa offline
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s file
+```

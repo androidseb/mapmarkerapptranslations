@@ -6151,3 +6151,23 @@ translated (by machine 🤖) as:
 ```
 Írja be a hozzáférési kódot
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+Offline térképfájlok
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s fájl
+```

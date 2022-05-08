@@ -6152,3 +6152,23 @@ translated (by machine 🤖) as:
 ```
 アクセスコードを入力してください
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+オフラインマップファイル
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%sファイル
+```

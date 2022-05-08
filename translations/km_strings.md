@@ -6151,3 +6151,23 @@ translated (by machine 🤖) as:
 ```
 បញ្ចូលលេខកូដចូល
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+ឯកសារផែនទីក្រៅបណ្តាញ
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s ឯកសារ
+```

@@ -6151,3 +6151,23 @@ translated (by machine 🤖) as:
 ```
 Unesite pristupni kod
 ```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+Izvanmrežne datoteke karte
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s datoteka
+```
