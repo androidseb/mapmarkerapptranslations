@@ -6171,3 +6171,23 @@ translated (by machine 🤖) as:
 ```
 %s fitxers
 ```
+
+
+## Translation Key: clear_offline_map_files_action
+```
+Clear offline map files
+```
+translated (by machine 🤖) as:
+```
+Esborra els fitxers de mapes fora de línia
+```
+
+
+## Translation Key: clear_offline_map_files_confirmation_message
+```
+This will remove all offline map files from the app's internal storage, do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Això eliminarà tots els fitxers de mapa fora de línia de l'emmagatzematge intern de l'aplicació. Vols continuar?
+```

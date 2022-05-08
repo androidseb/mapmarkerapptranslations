@@ -6171,3 +6171,23 @@ translated (by machine 🤖) as:
 ```
 %s faili
 ```
+
+
+## Translation Key: clear_offline_map_files_action
+```
+Clear offline map files
+```
+translated (by machine 🤖) as:
+```
+Notīrīt bezsaistes karšu failus
+```
+
+
+## Translation Key: clear_offline_map_files_confirmation_message
+```
+This will remove all offline map files from the app's internal storage, do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Tādējādi no lietotnes iekšējās atmiņas tiks noņemti visi bezsaistes karšu faili. Vai vēlaties turpināt?
+```

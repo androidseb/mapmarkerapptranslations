@@ -6171,3 +6171,23 @@ translated (by machine 🤖) as:
 ```
 %s αρχεία
 ```
+
+
+## Translation Key: clear_offline_map_files_action
+```
+Clear offline map files
+```
+translated (by machine 🤖) as:
+```
+Εκκαθάριση αρχείων χάρτη εκτός σύνδεσης
+```
+
+
+## Translation Key: clear_offline_map_files_confirmation_message
+```
+This will remove all offline map files from the app's internal storage, do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Αυτό θα καταργήσει όλα τα αρχεία χάρτη εκτός σύνδεσης από τον εσωτερικό χώρο αποθήκευσης της εφαρμογής, θέλετε να συνεχίσετε;
+```

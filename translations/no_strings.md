@@ -6171,3 +6171,23 @@ translated (by machine 🤖) as:
 ```
 %s filer
 ```
+
+
+## Translation Key: clear_offline_map_files_action
+```
+Clear offline map files
+```
+translated (by machine 🤖) as:
+```
+Slett kartfiler uten nett
+```
+
+
+## Translation Key: clear_offline_map_files_confirmation_message
+```
+This will remove all offline map files from the app's internal storage, do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Dette vil fjerne alle offline kartfiler fra appens interne lagring, vil du fortsette?
+```

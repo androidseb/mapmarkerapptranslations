@@ -6171,3 +6171,23 @@ translated (by machine 🤖) as:
 ```
 %s file
 ```
+
+
+## Translation Key: clear_offline_map_files_action
+```
+Clear offline map files
+```
+translated (by machine 🤖) as:
+```
+Hapus file peta offline
+```
+
+
+## Translation Key: clear_offline_map_files_confirmation_message
+```
+This will remove all offline map files from the app's internal storage, do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Ini akan menghapus semua file peta offline dari penyimpanan internal aplikasi, apakah Anda ingin melanjutkan?
+```

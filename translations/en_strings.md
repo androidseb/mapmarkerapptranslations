@@ -6171,3 +6171,23 @@ translated (by machine 🤖) as:
 ```
 %s files
 ```
+
+
+## Translation Key: clear_offline_map_files_action
+```
+Clear offline map files
+```
+translated (by machine 🤖) as:
+```
+Clear offline map files
+```
+
+
+## Translation Key: clear_offline_map_files_confirmation_message
+```
+This will remove all offline map files from the app's internal storage, do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+This will remove all offline map files from the app's internal storage, do you want to proceed?
+```

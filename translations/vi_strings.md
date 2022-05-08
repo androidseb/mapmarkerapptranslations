@@ -6171,3 +6171,23 @@ translated (by machine 🤖) as:
 ```
 %s tệp
 ```
+
+
+## Translation Key: clear_offline_map_files_action
+```
+Clear offline map files
+```
+translated (by machine 🤖) as:
+```
+Xóa tệp bản đồ ngoại tuyến
+```
+
+
+## Translation Key: clear_offline_map_files_confirmation_message
+```
+This will remove all offline map files from the app's internal storage, do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Thao tác này sẽ xóa tất cả các tệp bản đồ ngoại tuyến khỏi bộ nhớ trong của ứng dụng, bạn có muốn tiếp tục không?
+```
