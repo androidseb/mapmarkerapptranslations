@@ -6191,3 +6191,13 @@ translated (by machine 🤖) as:
 ```
 이렇게 하면 앱의 내부 저장소에서 모든 오프라인 지도 파일이 제거됩니다. 계속하시겠습니까?
 ```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+잘못된 형식
+```

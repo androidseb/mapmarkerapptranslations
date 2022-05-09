@@ -6191,3 +6191,13 @@ translated (by machine 🤖) as:
 ```
 Spowoduje to usunięcie wszystkich plików map offline z pamięci wewnętrznej aplikacji. Czy chcesz kontynuować?
 ```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Niepoprawny format
+```

@@ -6191,3 +6191,13 @@ translated (by machine 🤖) as:
 ```
 Bu, tüm çevrimdışı harita dosyalarını uygulamanın dahili deposundan kaldıracak, devam etmek istiyor musunuz?
 ```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Geçersiz format
+```

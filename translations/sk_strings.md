@@ -6191,3 +6191,13 @@ translated (by machine 🤖) as:
 ```
 Týmto sa odstránia všetky offline mapové súbory z interného úložiska aplikácie. Chcete pokračovať?
 ```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Neplatný formát
+```

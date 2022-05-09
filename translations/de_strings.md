@@ -6188,3 +6188,13 @@ translated (by machine 🤖) as:
 ```
 Dadurch werden alle Offline-Kartendateien aus dem internen Speicher der App entfernt. Möchten Sie fortfahren?
 ```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Ungültiges Format
+```

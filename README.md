@@ -33,7 +33,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 ## Translation languages list
 
-[Arabic (75% human-translated)](./translations/ar_strings.md)
+[Arabic (74% human-translated)](./translations/ar_strings.md)
 
 [Bulgarian (0% human-translated)](./translations/bg_strings.md)
 
@@ -51,7 +51,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Danish (26% human-translated)](./translations/da_strings.md)
 
-[Dutch (89% human-translated)](./translations/nl_strings.md)
+[Dutch (88% human-translated)](./translations/nl_strings.md)
 
 [Finnish (0% human-translated)](./translations/fi_strings.md)
 
@@ -93,7 +93,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Slovak (0% human-translated)](./translations/sk_strings.md)
 
-[Slovenian (89% human-translated)](./translations/sl_strings.md)
+[Slovenian (88% human-translated)](./translations/sl_strings.md)
 
 [Spanish (16% human-translated)](./translations/es_strings.md)
 

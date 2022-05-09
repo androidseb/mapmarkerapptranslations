@@ -6191,3 +6191,13 @@ translated (by machine 🤖) as:
 ```
 វានឹងលុបឯកសារផែនទីក្រៅបណ្តាញទាំងអស់ចេញពីកន្លែងផ្ទុកខាងក្នុងរបស់កម្មវិធី តើអ្នកចង់បន្តទេ?
 ```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+ទម្រង់មិនត្រឹមត្រូវ
+```

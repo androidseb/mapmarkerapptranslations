@@ -6191,3 +6191,13 @@ translated (by machine 🤖) as:
 ```
 Tādējādi no lietotnes iekšējās atmiņas tiks noņemti visi bezsaistes karšu faili. Vai vēlaties turpināt?
 ```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Nederīgs formāts
+```

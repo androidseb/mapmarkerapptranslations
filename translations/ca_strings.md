@@ -6191,3 +6191,13 @@ translated (by machine 🤖) as:
 ```
 Això eliminarà tots els fitxers de mapa fora de línia de l'emmagatzematge intern de l'aplicació. Vols continuar?
 ```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Format no vàlid
+```

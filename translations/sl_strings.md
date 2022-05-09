@@ -6188,3 +6188,13 @@ translated (by machine 🤖) as:
 ```
 S tem boste iz notranjega pomnilnika aplikacije odstranili vse datoteke zemljevidov brez povezave. Ali želite nadaljevati?
 ```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Neveljavna oblika
+```

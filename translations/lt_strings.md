@@ -6190,3 +6190,13 @@ translated (by machine 🤖) as:
 ```
 Tai pašalins visus neprisijungus pasiekiamo žemėlapio failus iš programos vidinės atminties. Ar norite tęsti?
 ```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Neteisingas formatas
+```

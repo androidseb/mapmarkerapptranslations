@@ -6191,3 +6191,13 @@ translated (by machine 🤖) as:
 ```
 Thao tác này sẽ xóa tất cả các tệp bản đồ ngoại tuyến khỏi bộ nhớ trong của ứng dụng, bạn có muốn tiếp tục không?
 ```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Định dạng không hợp lệ
+```

@@ -6191,3 +6191,13 @@ translated (by machine 🤖) as:
 ```
 Questo rimuoverà tutti i file delle mappe offline dalla memoria interna dell'app, vuoi procedere?
 ```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Formato non valido
+```

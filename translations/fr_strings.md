@@ -6191,3 +6191,13 @@ translated (by human 👀) as:
 ```
 Ceci supprimera tous les fichiers de carte hors-ligne du stockage interne de l'application, voulez-vous continuer ?
 ```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by human 👀) as:
+```
+Format invalide
+```

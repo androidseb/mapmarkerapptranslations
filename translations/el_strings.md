@@ -6191,3 +6191,13 @@ translated (by machine 🤖) as:
 ```
 Αυτό θα καταργήσει όλα τα αρχεία χάρτη εκτός σύνδεσης από τον εσωτερικό χώρο αποθήκευσης της εφαρμογής, θέλετε να συνεχίσετε;
 ```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Ακυρη μορφή
+```

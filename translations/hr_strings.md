@@ -6191,3 +6191,13 @@ translated (by machine 🤖) as:
 ```
 Ovo će ukloniti sve datoteke izvanmrežne karte iz interne pohrane aplikacije, želite li nastaviti?
 ```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Nevažeći format
+```

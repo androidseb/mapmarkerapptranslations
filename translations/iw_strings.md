@@ -6191,3 +6191,13 @@ translated (by machine 🤖) as:
 ```
 פעולה זו תסיר את כל קבצי המפות הלא מקוונות מהאחסון הפנימי של האפליקציה, האם ברצונך להמשיך?
 ```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+פורמט לא חוקי
+```

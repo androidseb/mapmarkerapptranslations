@@ -6191,3 +6191,13 @@ translated (by machine 🤖) as:
 ```
 Acest lucru va elimina toate fișierele de hartă offline din stocarea internă a aplicației. Doriți să continuați?
 ```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Format invalid
+```

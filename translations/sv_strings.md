@@ -6191,3 +6191,13 @@ translated (by machine 🤖) as:
 ```
 Detta tar bort alla offlinekartfiler från appens interna lagring, vill du fortsätta?
 ```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Ogiltigt format
+```

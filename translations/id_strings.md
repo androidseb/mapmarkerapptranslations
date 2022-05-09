@@ -6191,3 +6191,13 @@ translated (by machine 🤖) as:
 ```
 Ini akan menghapus semua file peta offline dari penyimpanan internal aplikasi, apakah Anda ingin melanjutkan?
 ```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Format yang tidak valid
+```

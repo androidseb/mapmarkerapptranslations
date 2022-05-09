@@ -6191,3 +6191,13 @@ translated (by machine 🤖) as:
 ```
 Tämä poistaa kaikki offline-karttatiedostot sovelluksen sisäisestä tallennustilasta. Haluatko jatkaa?
 ```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Väärä muoto
+```

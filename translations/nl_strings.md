@@ -6185,3 +6185,13 @@ translated (by machine 🤖) as:
 ```
 Hiermee worden alle offline kaartbestanden uit de interne opslag van de app verwijderd. Wil je doorgaan?
 ```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Ongeldige indeling
+```

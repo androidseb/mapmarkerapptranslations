@@ -6191,3 +6191,13 @@ translated (by machine 🤖) as:
 ```
 Ezzel eltávolítja az összes offline térképfájlt az alkalmazás belső tárhelyéről. Folytatja?
 ```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Érvénytelen formátum
+```
