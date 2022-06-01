@@ -6010,6 +6010,196 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: sync_option_google_drive_limited_title
+```
+Google Drive - limited access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - eingeschränkter Zugriff
+```
+
+
+## Translation Key: sync_option_google_drive_limited_description
+```
+This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Dadurch wird die App darauf beschränkt, nur auf Dateien zuzugreifen, die von der App selbst auf Ihrem Google Drive erstellt wurden. Wählen Sie diese Option, wenn Sie nur von Ihrem Google-Konto ohne Mitarbeiter synchronisieren möchten. Wählen Sie im Zweifelsfall diese Option, Sie können Ihre Meinung später leicht ändern.
+```
+
+
+## Translation Key: sync_option_google_drive_full_title
+```
+Google Drive - full access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - Vollzugriff
+```
+
+
+## Translation Key: sync_option_google_drive_full_description
+```
+This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
+```
+translated (by machine 🤖) as:
+```
+Dadurch erhält die App vollen Zugriff auf Ihre Google Drive. Wählen Sie diese Option, wenn Sie mit anderen Google-Konten zusammenarbeiten möchten.
+```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+Begrenzung des mobilen Datenvolumens
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+Standardmäßige Begrenzung des Datenvolumens
+```
+
+
+## Translation Key: google_drive_web_auth_scope_change_error_message
+```
+Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
+```
+translated (by machine 🤖) as:
+```
+Aufgrund einiger Einschränkungen im Google-Authentifizierungsablauf ist es nicht möglich, sich mit einer anderen Berechtigungsstufe (eingeschränkter Zugriff / vollständiger Zugriff) zu authentifizieren, es sei denn, Sie laden die Webseite neu. Bitte führen Sie die Aktualisierungsaktion in Ihrem Webbrowser durch und versuchen Sie es erneut.
+```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Authentifizierung fehlgeschlagen. Bitte versuchen Sie es nochmals.
+```
+
+
+## Translation Key: message_sync_error_data_volume_limit2
+```
+The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
+```
+translated (by machine 🤖) as:
+```
+Die Synchronisierung wurde abgebrochen, da das zulässige Datenvolumen überschritten wurde. Um das Limit zu erhöhen oder zu ändern, gehen Sie zu den Einstellungen.
+```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - eingeschränkter Zugriff
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Dadurch wird die App darauf beschränkt, nur auf einen App-spezifischen Dropbox-Ordner zuzugreifen. Wählen Sie im Zweifelsfall diese Option, Sie können Ihre Meinung später leicht ändern.
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - Vollzugriff
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+Dadurch erhält die App vollen Zugriff auf Ihr Dropbox. Wählen Sie diese Option, wenn die App Dateien in Ihrem gesamten Dropbox finden soll.
+```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Geben Sie den Zugangscode ein
+```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+Offline-Kartendateien
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s Dateien
+```
+
+
+## Translation Key: clear_offline_map_files_action
+```
+Clear offline map files
+```
+translated (by machine 🤖) as:
+```
+Offline-Kartendateien löschen
+```
+
+
+## Translation Key: clear_offline_map_files_confirmation_message
+```
+This will remove all offline map files from the app's internal storage, do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Dadurch werden alle Offline-Kartendateien aus dem internen Speicher der App entfernt. Möchten Sie fortfahren?
+```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Ungültiges Format
+```
+
+
 ## Translation Key: places_search_over_hint_text
 ```
 Type more to refine your search

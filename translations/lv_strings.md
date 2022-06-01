@@ -6013,6 +6013,196 @@ Atvērt '%s'
 ```
 
 
+## Translation Key: sync_option_google_drive_limited_title
+```
+Google Drive - limited access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - ierobežota piekļuve
+```
+
+
+## Translation Key: sync_option_google_drive_limited_description
+```
+This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Tādējādi lietotne var piekļūt tikai tiem failiem, kurus jūsu Google Drive ir izveidojusi pati lietotne. Izvēlieties šo opciju, ja plānojat sinhronizēt tikai no sava Google konta bez līdzstrādniekiem. Ja rodas šaubas, izvēlieties šo opciju, jo vēlāk varēsiet viegli pārdomāt.
+```
+
+
+## Translation Key: sync_option_google_drive_full_title
+```
+Google Drive - full access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - pilna piekļuve
+```
+
+
+## Translation Key: sync_option_google_drive_full_description
+```
+This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
+```
+translated (by machine 🤖) as:
+```
+Tādējādi lietotnei tiek piešķirta pilnīga piekļuve jūsu Google Drive. Izvēlieties šo opciju, ja plānojat sadarboties ar citiem Google kontiem.
+```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+Mobilo datu apjoma ierobežojums
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+Noklusējuma datu apjoma ierobežojums
+```
+
+
+## Translation Key: google_drive_web_auth_scope_change_error_message
+```
+Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
+```
+translated (by machine 🤖) as:
+```
+Dažu Google autentifikācijas plūsmas ierobežojumu dēļ nav iespējams autentificēties ar citu atļauju līmeni (ierobežota piekļuve/pilna piekļuve), ja vien atkārtoti neielādējat tīmekļa lapu. Lūdzu, veiciet atsvaidzināšanas darbību savā tīmekļa pārlūkprogrammā un mēģiniet vēlreiz.
+```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Autentifikācija neizdevās. Lūdzu, mēģiniet vēlreiz.
+```
+
+
+## Translation Key: message_sync_error_data_volume_limit2
+```
+The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
+```
+translated (by machine 🤖) as:
+```
+Sinhronizācija tika pārtraukta, jo tika pārsniegts atļautais datu apjoma ierobežojums. Lai palielinātu vai mainītu ierobežojumu, dodieties uz iestatījumiem.
+```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - ierobežota piekļuve
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Tādējādi lietotne var piekļūt tikai lietotnei paredzētai mapei Dropbox. Ja rodas šaubas, izvēlieties šo opciju, jo vēlāk varēsiet viegli pārdomāt.
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - pilna piekļuve
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+Tādējādi lietotnei tiek piešķirta pilnīga piekļuve jūsu Dropbox. Izvēlieties šo opciju, ja vēlaties, lai lietotne atrastu failus visā jūsu Dropbox.
+```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Ievadiet piekļuves kodu
+```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+Bezsaistes karšu faili
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s faili
+```
+
+
+## Translation Key: clear_offline_map_files_action
+```
+Clear offline map files
+```
+translated (by machine 🤖) as:
+```
+Notīrīt bezsaistes karšu failus
+```
+
+
+## Translation Key: clear_offline_map_files_confirmation_message
+```
+This will remove all offline map files from the app's internal storage, do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Tādējādi no lietotnes iekšējās atmiņas tiks noņemti visi bezsaistes karšu faili. Vai vēlaties turpināt?
+```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Nederīgs formāts
+```
+
+
 ## Translation Key: places_search_over_hint_text
 ```
 Type more to refine your search

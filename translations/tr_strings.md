@@ -6013,6 +6013,196 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: sync_option_google_drive_limited_title
+```
+Google Drive - limited access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - sınırlı erişim
+```
+
+
+## Translation Key: sync_option_google_drive_limited_description
+```
+This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Bu, uygulamayı yalnızca Google Drive cihazınızda uygulamanın kendisi tarafından oluşturulan dosyalara erişecek şekilde sınırlar. Ortak çalışanlar olmadan yalnızca Google hesabınızdan senkronizasyon yapmayı planlıyorsanız bu seçeneği belirleyin. Şüpheniz varsa, bu seçeneği seçin, daha sonra fikrinizi kolayca değiştirebilirsiniz.
+```
+
+
+## Translation Key: sync_option_google_drive_full_title
+```
+Google Drive - full access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - tam erişim
+```
+
+
+## Translation Key: sync_option_google_drive_full_description
+```
+This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
+```
+translated (by machine 🤖) as:
+```
+Bu, uygulamaya Google Drive'unuza tam erişim sağlar. Diğer Google hesaplarıyla ortak çalışmayı planlıyorsanız bu seçeneği belirleyin.
+```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+Mobil veri hacmi sınırı
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+Varsayılan veri hacmi sınırı
+```
+
+
+## Translation Key: google_drive_web_auth_scope_change_error_message
+```
+Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
+```
+translated (by machine 🤖) as:
+```
+Google kimlik doğrulama akışındaki bazı sınırlamalar nedeniyle, web sayfasını yeniden yüklemediğiniz sürece farklı bir izin düzeyiyle (sınırlı erişim / tam erişim) kimlik doğrulaması yapmak mümkün değildir. Lütfen web tarayıcınızda yenileme işlemini gerçekleştirin ve tekrar deneyin.
+```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Kimlik doğrulama başarısız oldu, lütfen tekrar deneyin.
+```
+
+
+## Translation Key: message_sync_error_data_volume_limit2
+```
+The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
+```
+translated (by machine 🤖) as:
+```
+İzin verilen veri hacmi sınırını aştığı için eşitleme durduruldu. Limiti artırmak veya değiştirmek için ayarlara gidin.
+```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - sınırlı erişim
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Bu, uygulamayı yalnızca uygulamaya özel bir Dropbox klasörüne erişecek şekilde sınırlar. Şüpheniz varsa, bu seçeneği seçin, daha sonra fikrinizi kolayca değiştirebilirsiniz.
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - tam erişim
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+Bu, uygulamaya Dropbox cihazınıza tam erişim sağlar. Uygulamanın tüm Dropbox dosyanızdaki dosyaları bulmasını istiyorsanız bu seçeneği belirleyin.
+```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Erişim kodunu giriniz
+```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+Çevrimdışı harita dosyaları
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s dosya
+```
+
+
+## Translation Key: clear_offline_map_files_action
+```
+Clear offline map files
+```
+translated (by machine 🤖) as:
+```
+Çevrimdışı harita dosyalarını temizle
+```
+
+
+## Translation Key: clear_offline_map_files_confirmation_message
+```
+This will remove all offline map files from the app's internal storage, do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Bu, tüm çevrimdışı harita dosyalarını uygulamanın dahili deposundan kaldıracak, devam etmek istiyor musunuz?
+```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Geçersiz format
+```
+
+
 ## Translation Key: places_search_over_hint_text
 ```
 Type more to refine your search

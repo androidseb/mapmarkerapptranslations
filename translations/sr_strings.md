@@ -6013,6 +6013,196 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: sync_option_google_drive_limited_title
+```
+Google Drive - limited access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - ограничен приступ
+```
+
+
+## Translation Key: sync_option_google_drive_limited_description
+```
+This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Ово ограничава апликацију да приступа само датотекама које је креирала сама апликација на вашем Google Drive. Изаберите ову опцију ако планирате да синхронизујете само са Гоогле налога без сарадника. Ако сте у недоумици, изаберите ову опцију, касније се лако можете предомислити.
+```
+
+
+## Translation Key: sync_option_google_drive_full_title
+```
+Google Drive - full access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - пун приступ
+```
+
+
+## Translation Key: sync_option_google_drive_full_description
+```
+This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
+```
+translated (by machine 🤖) as:
+```
+Ово апликацији даје пун приступ вашем Google Drive. Изаберите ову опцију ако планирате да сарађујете са другим Гоогле налозима.
+```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+Ограничење количине мобилних података
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+Подразумевано ограничење количине података
+```
+
+
+## Translation Key: google_drive_web_auth_scope_change_error_message
+```
+Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
+```
+translated (by machine 🤖) as:
+```
+Због неких ограничења у току Гоогле аутентификације, није могуће извршити аутентификацију са другачијим нивоом дозволе (ограничен приступ / пун приступ) осим ако поново учитате веб страницу. Обавите акцију освежавања у свом веб прегледачу и покушајте поново.
+```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Аутентикација неуспешна. Молимо, покушајте поново.
+```
+
+
+## Translation Key: message_sync_error_data_volume_limit2
+```
+The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
+```
+translated (by machine 🤖) as:
+```
+Синхронизација је прекинута јер је премашила дозвољено ограничење количине података. Да бисте повећали или променили ограничење, идите на подешавања.
+```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - ограничен приступ
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Ово ограничава апликацију да приступа само фасцикли Dropbox намењеној апликацији. Ако сте у недоумици, изаберите ову опцију, касније се лако можете предомислити.
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - пун приступ
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+Ово апликацији даје пун приступ вашем Dropbox. Изаберите ову опцију ако желите да апликација пронађе датотеке у целом вашем Dropbox.
+```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Унесите приступни код
+```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+Оффлине датотеке мапе
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s фајлова
+```
+
+
+## Translation Key: clear_offline_map_files_action
+```
+Clear offline map files
+```
+translated (by machine 🤖) as:
+```
+Обришите датотеке мапе ван мреже
+```
+
+
+## Translation Key: clear_offline_map_files_confirmation_message
+```
+This will remove all offline map files from the app's internal storage, do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Ово ће уклонити све датотеке мапа ван мреже из интерне меморије апликације, да ли желите да наставите?
+```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Неважећи формат
+```
+
+
 ## Translation Key: places_search_over_hint_text
 ```
 Type more to refine your search

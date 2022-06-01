@@ -6013,6 +6013,196 @@ Otvoriť '%s'
 ```
 
 
+## Translation Key: sync_option_google_drive_limited_title
+```
+Google Drive - limited access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - obmedzený prístup
+```
+
+
+## Translation Key: sync_option_google_drive_limited_description
+```
+This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+To obmedzuje aplikáciu na prístup iba k súborom vytvoreným samotnou aplikáciou na vašom Google Drive. Túto možnosť vyberte, ak plánujete synchronizáciu iba zo svojho účtu Google bez spolupracovníkov. Ak máte pochybnosti, vyberte túto možnosť, neskôr môžete ľahko zmeniť názor.
+```
+
+
+## Translation Key: sync_option_google_drive_full_title
+```
+Google Drive - full access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - plný prístup
+```
+
+
+## Translation Key: sync_option_google_drive_full_description
+```
+This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
+```
+translated (by machine 🤖) as:
+```
+To aplikácii poskytuje úplný prístup k vášmu Google Drive. Túto možnosť vyberte, ak plánujete spolupracovať s inými účtami Google.
+```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+Limit objemu mobilných dát
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+Predvolený limit objemu dát
+```
+
+
+## Translation Key: google_drive_web_auth_scope_change_error_message
+```
+Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
+```
+translated (by machine 🤖) as:
+```
+Z dôvodu určitých obmedzení v procese overovania Google nie je možné overiť totožnosť s inou úrovňou povolenia (obmedzený prístup / úplný prístup), pokiaľ webovú stránku znova nenačítate. Vykonajte akciu obnovenia vo webovom prehliadači a skúste to znova.
+```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Overenie zlyhalo, skúste to znova.
+```
+
+
+## Translation Key: message_sync_error_data_volume_limit2
+```
+The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
+```
+translated (by machine 🤖) as:
+```
+Synchronizácia bola prerušená, pretože prekračovala povolený limit objemu dát. Ak chcete zvýšiť alebo zmeniť limit, prejdite do nastavení.
+```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - obmedzený prístup
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+To obmedzuje aplikáciu na prístup iba k priečinku Dropbox vyhradenému pre aplikáciu. Ak máte pochybnosti, vyberte túto možnosť, neskôr môžete ľahko zmeniť názor.
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - plný prístup
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+To aplikácii poskytuje úplný prístup k vášmu Dropbox. Túto možnosť vyberte, ak chcete, aby aplikácia našla súbory v celom vašom Dropbox.
+```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Zadajte prístupový kód
+```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+Offline mapové súbory
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s súborov
+```
+
+
+## Translation Key: clear_offline_map_files_action
+```
+Clear offline map files
+```
+translated (by machine 🤖) as:
+```
+Vymazať offline mapové súbory
+```
+
+
+## Translation Key: clear_offline_map_files_confirmation_message
+```
+This will remove all offline map files from the app's internal storage, do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Týmto sa odstránia všetky offline mapové súbory z interného úložiska aplikácie. Chcete pokračovať?
+```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Neplatný formát
+```
+
+
 ## Translation Key: places_search_over_hint_text
 ```
 Type more to refine your search

@@ -6013,6 +6013,196 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: sync_option_google_drive_limited_title
+```
+Google Drive - limited access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - korlátozott hozzáférés
+```
+
+
+## Translation Key: sync_option_google_drive_limited_description
+```
+This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Ez azt korlátozza, hogy az alkalmazás csak olyan fájlokhoz férhessen hozzá, amelyeket maga az alkalmazás hozott létre a Google Drive-en. Válassza ezt a lehetőséget, ha csak a Google-fiókjából kíván szinkronizálni együttműködők nélkül. Ha kétségei vannak, válassza ezt a lehetőséget, mert később könnyen meggondolhatja magát.
+```
+
+
+## Translation Key: sync_option_google_drive_full_title
+```
+Google Drive - full access
+```
+translated (by machine 🤖) as:
+```
+Google Drive - teljes hozzáférés
+```
+
+
+## Translation Key: sync_option_google_drive_full_description
+```
+This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
+```
+translated (by machine 🤖) as:
+```
+Ezzel az alkalmazás teljes hozzáférést biztosít a Google Drive. Válassza ezt a lehetőséget, ha más Google-fiókokkal kíván együttműködni.
+```
+
+
+## Translation Key: sync_data_volume_limit_mobile
+```
+Mobile data volume limit
+```
+translated (by machine 🤖) as:
+```
+Mobil adatmennyiség korlát
+```
+
+
+## Translation Key: sync_data_volume_limit_default
+```
+Default data volume limit
+```
+translated (by machine 🤖) as:
+```
+Alapértelmezett adatmennyiség-korlát
+```
+
+
+## Translation Key: google_drive_web_auth_scope_change_error_message
+```
+Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
+```
+translated (by machine 🤖) as:
+```
+A Google hitelesítési folyamatának bizonyos korlátai miatt nem lehetséges más engedélyszinttel (korlátozott hozzáférés / teljes hozzáférés) hitelesíteni, hacsak nem tölti be újra a weboldalt. Kérjük, hajtsa végre a frissítést a böngészőjében, és próbálja újra.
+```
+
+
+## Translation Key: cloud_auth_error_message
+```
+Authentication failed, please try again.
+```
+translated (by machine 🤖) as:
+```
+Sikertelen azonosítás. Kérlek próbáld újra.
+```
+
+
+## Translation Key: message_sync_error_data_volume_limit2
+```
+The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
+```
+translated (by machine 🤖) as:
+```
+A szinkronizálás megszakadt, mert túllépte a megengedett adatmennyiség-korlátot. A korlát növeléséhez vagy módosításához lépjen a beállításokhoz.
+```
+
+
+## Translation Key: sync_option_dropbox_limited_title
+```
+Dropbox - limited access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - korlátozott hozzáférés
+```
+
+
+## Translation Key: sync_option_dropbox_limited_description
+```
+This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
+```
+translated (by machine 🤖) as:
+```
+Ez azt korlátozza, hogy az alkalmazás csak az alkalmazáshoz rendelt Dropbox mappához férhessen hozzá. Ha kétségei vannak, válassza ezt a lehetőséget, mert később könnyen meggondolhatja magát.
+```
+
+
+## Translation Key: sync_option_dropbox_full_title
+```
+Dropbox - full access
+```
+translated (by machine 🤖) as:
+```
+Dropbox - teljes hozzáférés
+```
+
+
+## Translation Key: sync_option_dropbox_full_description
+```
+This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
+```
+translated (by machine 🤖) as:
+```
+Ezzel az alkalmazás teljes hozzáférést biztosít a Dropbox-hez. Válassza ezt a lehetőséget, ha azt szeretné, hogy az alkalmazás megtalálja a fájlokat a teljes Dropbox-ben.
+```
+
+
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Írja be a hozzáférési kódot
+```
+
+
+## Translation Key: offline_map_files
+```
+Offline map files
+```
+translated (by machine 🤖) as:
+```
+Offline térképfájlok
+```
+
+
+## Translation Key: x_files
+```
+%s files
+```
+translated (by machine 🤖) as:
+```
+%s fájl
+```
+
+
+## Translation Key: clear_offline_map_files_action
+```
+Clear offline map files
+```
+translated (by machine 🤖) as:
+```
+Offline térképfájlok törlése
+```
+
+
+## Translation Key: clear_offline_map_files_confirmation_message
+```
+This will remove all offline map files from the app's internal storage, do you want to proceed?
+```
+translated (by machine 🤖) as:
+```
+Ezzel eltávolítja az összes offline térképfájlt az alkalmazás belső tárhelyéről. Folytatja?
+```
+
+
+## Translation Key: invalid_format
+```
+Invalid format
+```
+translated (by machine 🤖) as:
+```
+Érvénytelen formátum
+```
+
+
 ## Translation Key: places_search_over_hint_text
 ```
 Type more to refine your search
