@@ -6013,191 +6013,21 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: sync_option_google_drive_limited_title
+## Translation Key: places_search_over_hint_text
 ```
-Google Drive - limited access
-```
-translated (by machine 🤖) as:
-```
-Google Drive - सीमित पहुंच
-```
-
-
-## Translation Key: sync_option_google_drive_limited_description
-```
-This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
+Type more to refine your search
 ```
 translated (by machine 🤖) as:
 ```
-यह ऐप को केवल आपके Google Drive पर ऐप द्वारा बनाई गई फ़ाइलों तक ही सीमित करता है। यदि आप केवल अपने Google खाते से बिना सहयोगकर्ताओं के समन्वयन करने की योजना बना रहे हैं, तो यह विकल्प चुनें। यदि संदेह है, तो इस विकल्प को चुनें, आप बाद में आसानी से अपना विचार बदल सकते हैं।
+अपनी खोज को परिशोधित करने के लिए और लिखें
 ```
 
 
-## Translation Key: sync_option_google_drive_full_title
+## Translation Key: places_search_not_started_hint_text
 ```
-Google Drive - full access
+You can search for places with "%s". This search requires an internet connection.
 ```
 translated (by machine 🤖) as:
 ```
-Google Drive - पूर्ण पहुंच
-```
-
-
-## Translation Key: sync_option_google_drive_full_description
-```
-This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
-```
-translated (by machine 🤖) as:
-```
-यह ऐप को आपके Google Drive तक पूर्ण पहुंच प्रदान करता है। यदि आप अन्य Google खातों के साथ सहयोग करने की योजना बना रहे हैं तो यह विकल्प चुनें।
-```
-
-
-## Translation Key: sync_data_volume_limit_mobile
-```
-Mobile data volume limit
-```
-translated (by machine 🤖) as:
-```
-मोबाइल डेटा वॉल्यूम सीमा
-```
-
-
-## Translation Key: sync_data_volume_limit_default
-```
-Default data volume limit
-```
-translated (by machine 🤖) as:
-```
-डिफ़ॉल्ट डेटा वॉल्यूम सीमा
-```
-
-
-## Translation Key: google_drive_web_auth_scope_change_error_message
-```
-Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
-```
-translated (by machine 🤖) as:
-```
-Google प्रमाणीकरण प्रवाह में कुछ सीमाओं के कारण, जब तक आप वेब पृष्ठ को पुनः लोड नहीं करते, तब तक किसी भिन्न अनुमति स्तर (सीमित पहुंच/पूर्ण पहुंच) के साथ प्रमाणित करना संभव नहीं है। कृपया अपने वेब ब्राउज़र में रीफ़्रेश क्रिया करें और पुनः प्रयास करें।
-```
-
-
-## Translation Key: cloud_auth_error_message
-```
-Authentication failed, please try again.
-```
-translated (by machine 🤖) as:
-```
-प्रमाणीकरण विफल। पुन: प्रयास करें।
-```
-
-
-## Translation Key: message_sync_error_data_volume_limit2
-```
-The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
-```
-translated (by machine 🤖) as:
-```
-समन्वयन निरस्त कर दिया गया था क्योंकि यह अनुमत डेटा मात्रा सीमा से अधिक था। लिमिट बढ़ाने या बदलने के लिए सेटिंग्स में जाएं।
-```
-
-
-## Translation Key: sync_option_dropbox_limited_title
-```
-Dropbox - limited access
-```
-translated (by machine 🤖) as:
-```
-Dropbox - सीमित पहुंच
-```
-
-
-## Translation Key: sync_option_dropbox_limited_description
-```
-This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
-```
-translated (by machine 🤖) as:
-```
-यह ऐप को केवल ऐप-समर्पित Dropbox फ़ोल्डर तक पहुंचने के लिए सीमित करता है। यदि संदेह है, तो इस विकल्प को चुनें, आप बाद में आसानी से अपना विचार बदल सकते हैं।
-```
-
-
-## Translation Key: sync_option_dropbox_full_title
-```
-Dropbox - full access
-```
-translated (by machine 🤖) as:
-```
-Dropbox - पूर्ण पहुंच
-```
-
-
-## Translation Key: sync_option_dropbox_full_description
-```
-This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
-```
-translated (by machine 🤖) as:
-```
-यह ऐप को आपके Dropbox तक पूर्ण पहुंच प्रदान करता है। इस विकल्प को चुनें यदि आप चाहते हैं कि ऐप आपके संपूर्ण Dropbox.
-```
-
-
-## Translation Key: enter_access_code_hint_text
-```
-Enter access code
-```
-translated (by machine 🤖) as:
-```
-एक्सेस कोड दर्ज करें
-```
-
-
-## Translation Key: offline_map_files
-```
-Offline map files
-```
-translated (by machine 🤖) as:
-```
-ऑफ़लाइन मानचित्र फ़ाइलें
-```
-
-
-## Translation Key: x_files
-```
-%s files
-```
-translated (by machine 🤖) as:
-```
-%s फ़ाइलें
-```
-
-
-## Translation Key: clear_offline_map_files_action
-```
-Clear offline map files
-```
-translated (by machine 🤖) as:
-```
-ऑफ़लाइन मानचित्र फ़ाइलें साफ़ करें
-```
-
-
-## Translation Key: clear_offline_map_files_confirmation_message
-```
-This will remove all offline map files from the app's internal storage, do you want to proceed?
-```
-translated (by machine 🤖) as:
-```
-यह ऐप के आंतरिक संग्रहण से सभी ऑफ़लाइन मानचित्र फ़ाइलों को हटा देगा, क्या आप आगे बढ़ना चाहते हैं?
-```
-
-
-## Translation Key: invalid_format
-```
-Invalid format
-```
-translated (by machine 🤖) as:
-```
-अवैध प्रारूप
+आप "%s" वाले स्थान खोज सकते हैं। इस खोज के लिए इंटरनेट कनेक्शन की आवश्यकता है।
 ```

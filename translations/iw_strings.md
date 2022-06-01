@@ -6013,191 +6013,21 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: sync_option_google_drive_limited_title
+## Translation Key: places_search_over_hint_text
 ```
-Google Drive - limited access
-```
-translated (by machine 🤖) as:
-```
-Google Drive - גישה מוגבלת
-```
-
-
-## Translation Key: sync_option_google_drive_limited_description
-```
-This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
+Type more to refine your search
 ```
 translated (by machine 🤖) as:
 ```
-זה מגביל את האפליקציה לגישה רק לקבצים שנוצרו על ידי האפליקציה עצמה ב-Google Drive שלך. בחר באפשרות זו אם אתה מתכנן לסנכרן רק מחשבון Google שלך ללא שותפי עריכה. אם יש לך ספק, בחר באפשרות זו, תוכל לשנות את דעתך בקלות מאוחר יותר.
+הקלד עוד כדי לצמצם את החיפוש שלך
 ```
 
 
-## Translation Key: sync_option_google_drive_full_title
+## Translation Key: places_search_not_started_hint_text
 ```
-Google Drive - full access
+You can search for places with "%s". This search requires an internet connection.
 ```
 translated (by machine 🤖) as:
 ```
-Google Drive - גישה מלאה
-```
-
-
-## Translation Key: sync_option_google_drive_full_description
-```
-This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
-```
-translated (by machine 🤖) as:
-```
-זה מעניק לאפליקציה גישה מלאה ל-Google Drive שלך. בחר באפשרות זו אם אתה מתכנן לשתף פעולה עם חשבונות Google אחרים.
-```
-
-
-## Translation Key: sync_data_volume_limit_mobile
-```
-Mobile data volume limit
-```
-translated (by machine 🤖) as:
-```
-מגבלת נפח נתונים לנייד
-```
-
-
-## Translation Key: sync_data_volume_limit_default
-```
-Default data volume limit
-```
-translated (by machine 🤖) as:
-```
-מגבלת ברירת המחדל של נפח הנתונים
-```
-
-
-## Translation Key: google_drive_web_auth_scope_change_error_message
-```
-Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
-```
-translated (by machine 🤖) as:
-```
-בגלל כמה מגבלות בזרימת האימות של Google, לא ניתן לבצע אימות ברמת הרשאה אחרת (גישה מוגבלת / גישה מלאה) אלא אם כן אתה טוען מחדש את דף האינטרנט. אנא בצע את פעולת הרענון בדפדפן האינטרנט שלך ונסה שוב.
-```
-
-
-## Translation Key: cloud_auth_error_message
-```
-Authentication failed, please try again.
-```
-translated (by machine 🤖) as:
-```
-האימות נכשל, אנא נסה שוב.
-```
-
-
-## Translation Key: message_sync_error_data_volume_limit2
-```
-The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
-```
-translated (by machine 🤖) as:
-```
-הסנכרון בוטל מכיוון שהוא חרג ממגבלת נפח הנתונים המותרת. כדי להגדיל או לשנות את המגבלה, עבור אל ההגדרות.
-```
-
-
-## Translation Key: sync_option_dropbox_limited_title
-```
-Dropbox - limited access
-```
-translated (by machine 🤖) as:
-```
-Dropbox - גישה מוגבלת
-```
-
-
-## Translation Key: sync_option_dropbox_limited_description
-```
-This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
-```
-translated (by machine 🤖) as:
-```
-זה מגביל את האפליקציה לגישה רק לתיקיית Dropbox ייעודית לאפליקציה. אם יש לך ספק, בחר באפשרות זו, תוכל לשנות את דעתך בקלות מאוחר יותר.
-```
-
-
-## Translation Key: sync_option_dropbox_full_title
-```
-Dropbox - full access
-```
-translated (by machine 🤖) as:
-```
-Dropbox - גישה מלאה
-```
-
-
-## Translation Key: sync_option_dropbox_full_description
-```
-This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
-```
-translated (by machine 🤖) as:
-```
-זה מעניק לאפליקציה גישה מלאה ל-Dropbox שלך. בחר באפשרות זו אם אתה רוצה שהאפליקציה תמצא קבצים בכל Dropbox שלך.
-```
-
-
-## Translation Key: enter_access_code_hint_text
-```
-Enter access code
-```
-translated (by machine 🤖) as:
-```
-הזן קוד גישה
-```
-
-
-## Translation Key: offline_map_files
-```
-Offline map files
-```
-translated (by machine 🤖) as:
-```
-קבצי מפות לא מקוונות
-```
-
-
-## Translation Key: x_files
-```
-%s files
-```
-translated (by machine 🤖) as:
-```
-%s קבצים
-```
-
-
-## Translation Key: clear_offline_map_files_action
-```
-Clear offline map files
-```
-translated (by machine 🤖) as:
-```
-נקה קבצי מפות לא מקוונות
-```
-
-
-## Translation Key: clear_offline_map_files_confirmation_message
-```
-This will remove all offline map files from the app's internal storage, do you want to proceed?
-```
-translated (by machine 🤖) as:
-```
-פעולה זו תסיר את כל קבצי המפות הלא מקוונות מהאחסון הפנימי של האפליקציה, האם ברצונך להמשיך?
-```
-
-
-## Translation Key: invalid_format
-```
-Invalid format
-```
-translated (by machine 🤖) as:
-```
-פורמט לא חוקי
+אתה יכול לחפש מקומות עם "%s". חיפוש זה דורש חיבור לאינטרנט.
 ```

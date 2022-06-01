@@ -6013,191 +6013,21 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: sync_option_google_drive_limited_title
+## Translation Key: places_search_over_hint_text
 ```
-Google Drive - limited access
-```
-translated (by machine 🤖) as:
-```
-Google Drive - ограничен достъп
-```
-
-
-## Translation Key: sync_option_google_drive_limited_description
-```
-This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
+Type more to refine your search
 ```
 translated (by machine 🤖) as:
 ```
-Това ограничава приложението само за достъп до файлове, създадени от самото приложение на вашия Google Drive. Изберете тази опция, ако планирате да синхронизирате само от вашия акаунт в Google без сътрудници. Ако се съмнявате, изберете тази опция, лесно можете да промените решението си по-късно.
+Въведете още, за да прецизирате търсенето си
 ```
 
 
-## Translation Key: sync_option_google_drive_full_title
+## Translation Key: places_search_not_started_hint_text
 ```
-Google Drive - full access
+You can search for places with "%s". This search requires an internet connection.
 ```
 translated (by machine 🤖) as:
 ```
-Google Drive - пълен достъп
-```
-
-
-## Translation Key: sync_option_google_drive_full_description
-```
-This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
-```
-translated (by machine 🤖) as:
-```
-Това предоставя на приложението пълен достъп до вашия Google Drive. Изберете тази опция, ако планирате да си сътрудничите с други акаунти в Google.
-```
-
-
-## Translation Key: sync_data_volume_limit_mobile
-```
-Mobile data volume limit
-```
-translated (by machine 🤖) as:
-```
-Ограничение на обема на мобилните данни
-```
-
-
-## Translation Key: sync_data_volume_limit_default
-```
-Default data volume limit
-```
-translated (by machine 🤖) as:
-```
-Ограничение на обема на данните по подразбиране
-```
-
-
-## Translation Key: google_drive_web_auth_scope_change_error_message
-```
-Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
-```
-translated (by machine 🤖) as:
-```
-Поради някои ограничения в потока за удостоверяване на Google, не е възможно да се удостоверите с различно ниво на разрешение (ограничен достъп / пълен достъп), освен ако не презаредите уеб страницата. Моля, извършете действието за опресняване във вашия уеб браузър и опитайте отново.
-```
-
-
-## Translation Key: cloud_auth_error_message
-```
-Authentication failed, please try again.
-```
-translated (by machine 🤖) as:
-```
-Удостоверяването не бе успешно, моля, опитайте отново.
-```
-
-
-## Translation Key: message_sync_error_data_volume_limit2
-```
-The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
-```
-translated (by machine 🤖) as:
-```
-Синхронизирането бе прекратено, защото надвишава разрешения обем на данни. За да увеличите или промените лимита, отидете на настройките.
-```
-
-
-## Translation Key: sync_option_dropbox_limited_title
-```
-Dropbox - limited access
-```
-translated (by machine 🤖) as:
-```
-Dropbox - ограничен достъп
-```
-
-
-## Translation Key: sync_option_dropbox_limited_description
-```
-This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
-```
-translated (by machine 🤖) as:
-```
-Това ограничава приложението само за достъп до папка Dropbox, посветена на приложението. Ако се съмнявате, изберете тази опция, лесно можете да промените решението си по-късно.
-```
-
-
-## Translation Key: sync_option_dropbox_full_title
-```
-Dropbox - full access
-```
-translated (by machine 🤖) as:
-```
-Dropbox - пълен достъп
-```
-
-
-## Translation Key: sync_option_dropbox_full_description
-```
-This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
-```
-translated (by machine 🤖) as:
-```
-Това предоставя на приложението пълен достъп до вашия Dropbox. Изберете тази опция, ако искате приложението да намира файлове в целия ви Dropbox.
-```
-
-
-## Translation Key: enter_access_code_hint_text
-```
-Enter access code
-```
-translated (by machine 🤖) as:
-```
-Въведете код за достъп
-```
-
-
-## Translation Key: offline_map_files
-```
-Offline map files
-```
-translated (by machine 🤖) as:
-```
-Офлайн файлове с карти
-```
-
-
-## Translation Key: x_files
-```
-%s files
-```
-translated (by machine 🤖) as:
-```
-%s файла
-```
-
-
-## Translation Key: clear_offline_map_files_action
-```
-Clear offline map files
-```
-translated (by machine 🤖) as:
-```
-Изчистете офлайн файловете с карти
-```
-
-
-## Translation Key: clear_offline_map_files_confirmation_message
-```
-This will remove all offline map files from the app's internal storage, do you want to proceed?
-```
-translated (by machine 🤖) as:
-```
-Това ще премахне всички офлайн файлове с карти от вътрешната памет на приложението. Искате ли да продължите?
-```
-
-
-## Translation Key: invalid_format
-```
-Invalid format
-```
-translated (by machine 🤖) as:
-```
-Невалиден формат
+Можете да търсите места с "%s". Това търсене изисква интернет връзка.
 ```

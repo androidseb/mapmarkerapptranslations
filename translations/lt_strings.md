@@ -6012,191 +6012,21 @@ Atidaryti '%s'
 ```
 
 
-## Translation Key: sync_option_google_drive_limited_title
+## Translation Key: places_search_over_hint_text
 ```
-Google Drive - limited access
-```
-translated (by machine 🤖) as:
-```
-Google Drive – ribota prieiga
-```
-
-
-## Translation Key: sync_option_google_drive_limited_description
-```
-This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
+Type more to refine your search
 ```
 translated (by machine 🤖) as:
 ```
-Tai apriboja, kad programa galėtų pasiekti tik pačios programos sukurtus failus jūsų Google Drive. Pasirinkite šią parinktį, jei planuojate sinchronizuoti tik iš „Google“ paskyros be bendradarbių. Jei abejojate, pasirinkite šią parinktį, nes vėliau galėsite lengvai apsigalvoti.
+Įveskite daugiau, kad patikslintumėte paiešką
 ```
 
 
-## Translation Key: sync_option_google_drive_full_title
+## Translation Key: places_search_not_started_hint_text
 ```
-Google Drive - full access
+You can search for places with "%s". This search requires an internet connection.
 ```
 translated (by machine 🤖) as:
 ```
-Google Drive – visa prieiga
-```
-
-
-## Translation Key: sync_option_google_drive_full_description
-```
-This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
-```
-translated (by machine 🤖) as:
-```
-Tai suteikia programai visišką prieigą prie jūsų Google Drive. Pasirinkite šią parinktį, jei planuojate bendradarbiauti su kitomis „Google“ paskyromis.
-```
-
-
-## Translation Key: sync_data_volume_limit_mobile
-```
-Mobile data volume limit
-```
-translated (by machine 🤖) as:
-```
-Mobiliųjų duomenų apimties apribojimas
-```
-
-
-## Translation Key: sync_data_volume_limit_default
-```
-Default data volume limit
-```
-translated (by machine 🤖) as:
-```
-Numatytasis duomenų apimties apribojimas
-```
-
-
-## Translation Key: google_drive_web_auth_scope_change_error_message
-```
-Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
-```
-translated (by machine 🤖) as:
-```
-Dėl kai kurių „Google“ autentifikavimo srauto apribojimų neįmanoma autentifikuoti naudojant kitą leidimo lygį (ribota prieiga / visa prieiga), nebent iš naujo įkeliate tinklalapį. Atlikite atnaujinimo veiksmą žiniatinklio naršyklėje ir bandykite dar kartą.
-```
-
-
-## Translation Key: cloud_auth_error_message
-```
-Authentication failed, please try again.
-```
-translated (by machine 🤖) as:
-```
-Autentifikavimas nepavyko, bandykite dar kartą.
-```
-
-
-## Translation Key: message_sync_error_data_volume_limit2
-```
-The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
-```
-translated (by machine 🤖) as:
-```
-Sinchronizavimas buvo nutrauktas, nes buvo viršytas leistinas duomenų kiekis. Norėdami padidinti arba pakeisti limitą, eikite į nustatymus.
-```
-
-
-## Translation Key: sync_option_dropbox_limited_title
-```
-Dropbox - limited access
-```
-translated (by machine 🤖) as:
-```
-Dropbox – ribota prieiga
-```
-
-
-## Translation Key: sync_option_dropbox_limited_description
-```
-This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
-```
-translated (by machine 🤖) as:
-```
-Tai apriboja, kad programa galėtų pasiekti tik programai skirtą Dropbox aplanką. Jei abejojate, pasirinkite šią parinktį, nes vėliau galėsite lengvai apsigalvoti.
-```
-
-
-## Translation Key: sync_option_dropbox_full_title
-```
-Dropbox - full access
-```
-translated (by machine 🤖) as:
-```
-Dropbox – visa prieiga
-```
-
-
-## Translation Key: sync_option_dropbox_full_description
-```
-This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
-```
-translated (by machine 🤖) as:
-```
-Tai suteikia programai visišką prieigą prie jūsų Dropbox. Pasirinkite šią parinktį, jei norite, kad programa rastų failus visame Dropbox.
-```
-
-
-## Translation Key: enter_access_code_hint_text
-```
-Enter access code
-```
-translated (by machine 🤖) as:
-```
-Įveskite prieigos kodą
-```
-
-
-## Translation Key: offline_map_files
-```
-Offline map files
-```
-translated (by machine 🤖) as:
-```
-Žemėlapio failai neprisijungus
-```
-
-
-## Translation Key: x_files
-```
-%s files
-```
-translated (by machine 🤖) as:
-```
-%s failai
-```
-
-
-## Translation Key: clear_offline_map_files_action
-```
-Clear offline map files
-```
-translated (by machine 🤖) as:
-```
-Išvalykite žemėlapio failus neprisijungus
-```
-
-
-## Translation Key: clear_offline_map_files_confirmation_message
-```
-This will remove all offline map files from the app's internal storage, do you want to proceed?
-```
-translated (by machine 🤖) as:
-```
-Tai pašalins visus neprisijungus pasiekiamo žemėlapio failus iš programos vidinės atminties. Ar norite tęsti?
-```
-
-
-## Translation Key: invalid_format
-```
-Invalid format
-```
-translated (by machine 🤖) as:
-```
-Neteisingas formatas
+Vietų galite ieškoti naudodami „%s“. Šiai paieškai reikalingas interneto ryšys.
 ```

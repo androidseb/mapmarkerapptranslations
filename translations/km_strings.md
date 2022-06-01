@@ -6013,191 +6013,21 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: sync_option_google_drive_limited_title
+## Translation Key: places_search_over_hint_text
 ```
-Google Drive - limited access
-```
-translated (by machine 🤖) as:
-```
-Google Drive - ការចូលប្រើមានកំណត់
-```
-
-
-## Translation Key: sync_option_google_drive_limited_description
-```
-This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
+Type more to refine your search
 ```
 translated (by machine 🤖) as:
 ```
-វាកំណត់ឱ្យកម្មវិធីចូលប្រើតែឯកសារដែលបង្កើតដោយកម្មវិធីខ្លួនឯងនៅលើ Google Drive របស់អ្នក។ ជ្រើសរើសជម្រើសនេះ ប្រសិនបើអ្នកមានគម្រោងធ្វើសមកាលកម្មតែពីគណនី Google របស់អ្នកដោយគ្មានអ្នកសហការ។ ប្រសិនបើមានការសង្ស័យ ជ្រើសរើសជម្រើសនេះ អ្នកអាចផ្លាស់ប្តូរចិត្តបានយ៉ាងងាយស្រួលនៅពេលក្រោយ។
+វាយបញ្ចូលបន្ថែមទៀតដើម្បីកែលម្អការស្វែងរករបស់អ្នក។
 ```
 
 
-## Translation Key: sync_option_google_drive_full_title
+## Translation Key: places_search_not_started_hint_text
 ```
-Google Drive - full access
+You can search for places with "%s". This search requires an internet connection.
 ```
 translated (by machine 🤖) as:
 ```
-Google Drive - ការចូលប្រើពេញលេញ
-```
-
-
-## Translation Key: sync_option_google_drive_full_description
-```
-This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
-```
-translated (by machine 🤖) as:
-```
-វាផ្តល់ឱ្យកម្មវិធីនូវការចូលដំណើរការពេញលេញទៅកាន់ Google Drive របស់អ្នក។ ជ្រើសរើសជម្រើសនេះ ប្រសិនបើអ្នកមានគម្រោងសហការជាមួយគណនី Google ផ្សេងទៀត។
-```
-
-
-## Translation Key: sync_data_volume_limit_mobile
-```
-Mobile data volume limit
-```
-translated (by machine 🤖) as:
-```
-ដែនកំណត់បរិមាណទិន្នន័យចល័ត
-```
-
-
-## Translation Key: sync_data_volume_limit_default
-```
-Default data volume limit
-```
-translated (by machine 🤖) as:
-```
-ដែនកំណត់បរិមាណទិន្នន័យលំនាំដើម
-```
-
-
-## Translation Key: google_drive_web_auth_scope_change_error_message
-```
-Because of some limitations in the Google authentication flow, it is not possible to authenticate with a different permission level (limited access / full access) unless you reload the web page. Please perform the refresh action in your web browser and try again.
-```
-translated (by machine 🤖) as:
-```
-ដោយសារតែដែនកំណត់មួយចំនួននៅក្នុងលំហូរការផ្ទៀងផ្ទាត់ Google វាមិនអាចទៅរួចទេក្នុងការផ្ទៀងផ្ទាត់ជាមួយនឹងកម្រិតអនុញ្ញាតផ្សេង (ការចូលប្រើមានកំណត់/ការចូលប្រើពេញលេញ) លុះត្រាតែអ្នកផ្ទុកទំព័របណ្តាញឡើងវិញ។ សូមអនុវត្តសកម្មភាពផ្ទុកឡើងវិញនៅក្នុងកម្មវិធីរុករកតាមអ៊ីនធឺណិតរបស់អ្នក ហើយព្យាយាមម្តងទៀត។
-```
-
-
-## Translation Key: cloud_auth_error_message
-```
-Authentication failed, please try again.
-```
-translated (by machine 🤖) as:
-```
-ការផ្ទៀងផ្ទាត់បានបរាជ័យ សូមព្យាយាមម្តងទៀត។
-```
-
-
-## Translation Key: message_sync_error_data_volume_limit2
-```
-The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
-```
-translated (by machine 🤖) as:
-```
-ការ​ធ្វើ​សមកាលកម្ម​ត្រូវ​បាន​បោះបង់​ព្រោះ​វា​លើស​កម្រិត​បរិមាណ​ទិន្នន័យ​ដែល​អនុញ្ញាត។ ដើម្បីបង្កើន ឬផ្លាស់ប្តូរដែនកំណត់ សូមចូលទៅកាន់ការកំណត់។
-```
-
-
-## Translation Key: sync_option_dropbox_limited_title
-```
-Dropbox - limited access
-```
-translated (by machine 🤖) as:
-```
-Dropbox - ការចូលប្រើមានកំណត់
-```
-
-
-## Translation Key: sync_option_dropbox_limited_description
-```
-This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
-```
-translated (by machine 🤖) as:
-```
-នេះកំណត់ឱ្យកម្មវិធីចូលប្រើតែថត Dropbox ដែលឧទ្ទិសដល់កម្មវិធីប៉ុណ្ណោះ។ ប្រសិនបើមានការសង្ស័យ ជ្រើសរើសជម្រើសនេះ អ្នកអាចផ្លាស់ប្តូរចិត្តបានយ៉ាងងាយស្រួលនៅពេលក្រោយ។
-```
-
-
-## Translation Key: sync_option_dropbox_full_title
-```
-Dropbox - full access
-```
-translated (by machine 🤖) as:
-```
-Dropbox - ការចូលប្រើពេញលេញ
-```
-
-
-## Translation Key: sync_option_dropbox_full_description
-```
-This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
-```
-translated (by machine 🤖) as:
-```
-វាផ្តល់ឱ្យកម្មវិធីនូវការចូលដំណើរការពេញលេញទៅកាន់ Dropbox របស់អ្នក។ ជ្រើសរើសជម្រើសនេះប្រសិនបើអ្នកចង់ឱ្យកម្មវិធីស្វែងរកឯកសារនៅក្នុង Dropbox ទាំងមូលរបស់អ្នក។
-```
-
-
-## Translation Key: enter_access_code_hint_text
-```
-Enter access code
-```
-translated (by machine 🤖) as:
-```
-បញ្ចូលលេខកូដចូល
-```
-
-
-## Translation Key: offline_map_files
-```
-Offline map files
-```
-translated (by machine 🤖) as:
-```
-ឯកសារផែនទីក្រៅបណ្តាញ
-```
-
-
-## Translation Key: x_files
-```
-%s files
-```
-translated (by machine 🤖) as:
-```
-%s ឯកសារ
-```
-
-
-## Translation Key: clear_offline_map_files_action
-```
-Clear offline map files
-```
-translated (by machine 🤖) as:
-```
-សម្អាតឯកសារផែនទីក្រៅបណ្តាញ
-```
-
-
-## Translation Key: clear_offline_map_files_confirmation_message
-```
-This will remove all offline map files from the app's internal storage, do you want to proceed?
-```
-translated (by machine 🤖) as:
-```
-វានឹងលុបឯកសារផែនទីក្រៅបណ្តាញទាំងអស់ចេញពីកន្លែងផ្ទុកខាងក្នុងរបស់កម្មវិធី តើអ្នកចង់បន្តទេ?
-```
-
-
-## Translation Key: invalid_format
-```
-Invalid format
-```
-translated (by machine 🤖) as:
-```
-ទម្រង់មិនត្រឹមត្រូវ
+អ្នកអាចស្វែងរកកន្លែងជាមួយ "%s" ។ ការស្វែងរកនេះទាមទារការតភ្ជាប់អ៊ីនធឺណិត។
 ```
