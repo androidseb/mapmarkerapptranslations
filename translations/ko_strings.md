@@ -6221,3 +6221,13 @@ translated (by machine 🤖) as:
 ```
 "%s"로 장소를 검색할 수 있습니다. 이 검색에는 인터넷 연결이 필요합니다.
 ```
+
+
+## Translation Key: apply_parent_folder_fields
+```
+Apply parent folder fields
+```
+translated (by machine 🤖) as:
+```
+상위 폴더 필드 적용
+```

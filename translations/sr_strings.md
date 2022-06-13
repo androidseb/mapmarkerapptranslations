@@ -6221,3 +6221,13 @@ translated (by machine 🤖) as:
 ```
 Можете тражити места са „%s“. Ова претрага захтева интернет везу.
 ```
+
+
+## Translation Key: apply_parent_folder_fields
+```
+Apply parent folder fields
+```
+translated (by machine 🤖) as:
+```
+Примени поља родитељског фолдера
+```

@@ -6221,3 +6221,13 @@ translated (by machine 🤖) as:
 ```
 אתה יכול לחפש מקומות עם "%s". חיפוש זה דורש חיבור לאינטרנט.
 ```
+
+
+## Translation Key: apply_parent_folder_fields
+```
+Apply parent folder fields
+```
+translated (by machine 🤖) as:
+```
+החל שדות של תיקיית אב
+```

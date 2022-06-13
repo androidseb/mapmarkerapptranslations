@@ -6221,3 +6221,13 @@ translated (by machine 🤖) as:
 ```
 Varat meklēt vietas ar "%s". Šai meklēšanai nepieciešams interneta savienojums.
 ```
+
+
+## Translation Key: apply_parent_folder_fields
+```
+Apply parent folder fields
+```
+translated (by machine 🤖) as:
+```
+Lietot vecākmapes laukus
+```

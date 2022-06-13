@@ -6218,3 +6218,13 @@ translated (by machine 🤖) as:
 ```
 Sie können mit "%s" nach Orten suchen. Diese Suche erfordert eine Internetverbindung.
 ```
+
+
+## Translation Key: apply_parent_folder_fields
+```
+Apply parent folder fields
+```
+translated (by machine 🤖) as:
+```
+Übergeordnete Ordnerfelder anwenden
+```

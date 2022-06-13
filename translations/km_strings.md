@@ -6221,3 +6221,13 @@ translated (by machine 🤖) as:
 ```
 អ្នកអាចស្វែងរកកន្លែងជាមួយ "%s" ។ ការស្វែងរកនេះទាមទារការតភ្ជាប់អ៊ីនធឺណិត។
 ```
+
+
+## Translation Key: apply_parent_folder_fields
+```
+Apply parent folder fields
+```
+translated (by machine 🤖) as:
+```
+អនុវត្តវាលថតមេ
+```

@@ -6215,3 +6215,13 @@ translated (by machine 🤖) as:
 ```
 U kunt zoeken naar plaatsen met "%s". Deze zoekopdracht vereist een internetverbinding.
 ```
+
+
+## Translation Key: apply_parent_folder_fields
+```
+Apply parent folder fields
+```
+translated (by machine 🤖) as:
+```
+Bovenliggende mapvelden toepassen
+```

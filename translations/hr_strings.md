@@ -6221,3 +6221,13 @@ translated (by machine 🤖) as:
 ```
 Možete tražiti mjesta s "%s". Za ovo pretraživanje potrebna je internetska veza.
 ```
+
+
+## Translation Key: apply_parent_folder_fields
+```
+Apply parent folder fields
+```
+translated (by machine 🤖) as:
+```
+Primijeni polja roditeljske mape
+```

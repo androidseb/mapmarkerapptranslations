@@ -6221,3 +6221,13 @@ translated (by machine 🤖) as:
 ```
 Helyeket kereshet a „%s” karakterlánccal. Ehhez a kereséshez internetkapcsolat szükséges.
 ```
+
+
+## Translation Key: apply_parent_folder_fields
+```
+Apply parent folder fields
+```
+translated (by machine 🤖) as:
+```
+Szülőmappa mezőinek alkalmazása
+```

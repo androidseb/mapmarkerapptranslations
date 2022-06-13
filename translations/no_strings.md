@@ -6221,3 +6221,13 @@ translated (by machine 🤖) as:
 ```
 Du kan søke etter steder med «%s». Dette søket krever en internettforbindelse.
 ```
+
+
+## Translation Key: apply_parent_folder_fields
+```
+Apply parent folder fields
+```
+translated (by machine 🤖) as:
+```
+Bruk overordnet mappefelt
+```

@@ -6221,3 +6221,13 @@ translated (by machine 🤖) as:
 ```
 Puteți căuta locuri cu „%s”. Această căutare necesită o conexiune la internet.
 ```
+
+
+## Translation Key: apply_parent_folder_fields
+```
+Apply parent folder fields
+```
+translated (by machine 🤖) as:
+```
+Aplicați câmpurile folderului părinte
+```

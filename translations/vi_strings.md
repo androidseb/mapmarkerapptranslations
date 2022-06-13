@@ -6221,3 +6221,13 @@ translated (by machine 🤖) as:
 ```
 Bạn có thể tìm kiếm các địa điểm bằng "%s". Tìm kiếm này yêu cầu kết nối internet.
 ```
+
+
+## Translation Key: apply_parent_folder_fields
+```
+Apply parent folder fields
+```
+translated (by machine 🤖) as:
+```
+Áp dụng các trường thư mục mẹ
+```

@@ -6220,3 +6220,13 @@ translated (by machine 🤖) as:
 ```
 Vietų galite ieškoti naudodami „%s“. Šiai paieškai reikalingas interneto ryšys.
 ```
+
+
+## Translation Key: apply_parent_folder_fields
+```
+Apply parent folder fields
+```
+translated (by machine 🤖) as:
+```
+Taikyti pirminio aplanko laukus
+```

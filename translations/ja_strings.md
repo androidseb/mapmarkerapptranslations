@@ -6222,3 +6222,13 @@ translated (by machine 🤖) as:
 ```
 「%s」で場所を検索できます。この検索にはインターネット接続が必要です。
 ```
+
+
+## Translation Key: apply_parent_folder_fields
+```
+Apply parent folder fields
+```
+translated (by machine 🤖) as:
+```
+親フォルダフィールドを適用する
+```

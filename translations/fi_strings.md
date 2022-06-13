@@ -6221,3 +6221,13 @@ translated (by machine 🤖) as:
 ```
 Voit etsiä paikkoja merkinnällä "%s". Tämä haku vaatii Internet-yhteyden.
 ```
+
+
+## Translation Key: apply_parent_folder_fields
+```
+Apply parent folder fields
+```
+translated (by machine 🤖) as:
+```
+Käytä yläkansiokenttiä
+```

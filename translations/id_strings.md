@@ -6221,3 +6221,13 @@ translated (by machine 🤖) as:
 ```
 Anda dapat mencari tempat dengan "%s". Pencarian ini membutuhkan koneksi internet.
 ```
+
+
+## Translation Key: apply_parent_folder_fields
+```
+Apply parent folder fields
+```
+translated (by machine 🤖) as:
+```
+Terapkan bidang folder induk
+```

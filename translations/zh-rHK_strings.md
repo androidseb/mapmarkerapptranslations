@@ -6221,3 +6221,13 @@ translated (by machine 🤖) as:
 ```
 您可以使用“%s”搜索地點。此搜索需要 Internet 連接。
 ```
+
+
+## Translation Key: apply_parent_folder_fields
+```
+Apply parent folder fields
+```
+translated (by machine 🤖) as:
+```
+應用父文件夾字段
+```

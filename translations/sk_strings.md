@@ -6221,3 +6221,13 @@ translated (by machine 🤖) as:
 ```
 Miesta môžete vyhľadávať pomocou „%s“. Toto vyhľadávanie vyžaduje internetové pripojenie.
 ```
+
+
+## Translation Key: apply_parent_folder_fields
+```
+Apply parent folder fields
+```
+translated (by machine 🤖) as:
+```
+Použiť polia nadradeného priečinka
+```

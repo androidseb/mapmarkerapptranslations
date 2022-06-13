@@ -6221,3 +6221,13 @@ translated (by machine 🤖) as:
 ```
 "%s" ile yerleri arayabilirsiniz. Bu arama bir internet bağlantısı gerektirir.
 ```
+
+
+## Translation Key: apply_parent_folder_fields
+```
+Apply parent folder fields
+```
+translated (by machine 🤖) as:
+```
+Üst klasör alanlarını uygula
+```
