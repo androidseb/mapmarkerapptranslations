@@ -6232,3 +6232,13 @@ translated (by machine 🤖) as:
 ```
 ใช้ฟิลด์โฟลเดอร์หลัก
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+ให้คะแนนแอป
+```

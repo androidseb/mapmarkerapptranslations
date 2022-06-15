@@ -6225,3 +6225,13 @@ translated (by machine 🤖) as:
 ```
 Bovenliggende mapvelden toepassen
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+Beoordeel de app
+```

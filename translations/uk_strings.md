@@ -6231,3 +6231,13 @@ translated (by machine 🤖) as:
 ```
 Застосувати поля батьківської папки
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+Оцініть додаток
+```

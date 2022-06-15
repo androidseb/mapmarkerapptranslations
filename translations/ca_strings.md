@@ -6231,3 +6231,13 @@ translated (by machine 🤖) as:
 ```
 Aplica els camps de la carpeta principal
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+Valoreu l'aplicació
+```

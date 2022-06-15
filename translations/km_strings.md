@@ -6231,3 +6231,13 @@ translated (by machine 🤖) as:
 ```
 អនុវត្តវាលថតមេ
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+វាយតម្លៃកម្មវិធី
+```

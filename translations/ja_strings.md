@@ -6232,3 +6232,13 @@ translated (by machine 🤖) as:
 ```
 親フォルダフィールドを適用する
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+アプリを評価する
+```

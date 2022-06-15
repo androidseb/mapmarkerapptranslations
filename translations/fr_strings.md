@@ -6231,3 +6231,13 @@ translated (by human 👀) as:
 ```
 Appliquer les champs du dossier parent
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by human 👀) as:
+```
+Noter l'application
+```

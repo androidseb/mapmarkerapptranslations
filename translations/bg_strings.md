@@ -6231,3 +6231,13 @@ translated (by machine 🤖) as:
 ```
 Прилагане на полетата на родителската папка
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+Оценете приложението
+```

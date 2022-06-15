@@ -6231,3 +6231,13 @@ translated (by machine 🤖) as:
 ```
 Använd överordnade mappfält
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+Betygsätt appen
+```

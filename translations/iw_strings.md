@@ -6231,3 +6231,13 @@ translated (by machine 🤖) as:
 ```
 החל שדות של תיקיית אב
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+דרג את האפליקציה
+```

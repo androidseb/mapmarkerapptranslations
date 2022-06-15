@@ -6231,3 +6231,13 @@ translated (by machine 🤖) as:
 ```
 Üst klasör alanlarını uygula
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+Uygulamayı oyla
+```

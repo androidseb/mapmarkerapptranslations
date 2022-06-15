@@ -6231,3 +6231,13 @@ translated (by machine 🤖) as:
 ```
 Käytä yläkansiokenttiä
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+Arvioi sovellus
+```

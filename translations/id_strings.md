@@ -6231,3 +6231,13 @@ translated (by machine 🤖) as:
 ```
 Terapkan bidang folder induk
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+Nilai aplikasinya
+```

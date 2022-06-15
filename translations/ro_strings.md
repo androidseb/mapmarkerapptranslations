@@ -6231,3 +6231,13 @@ translated (by machine 🤖) as:
 ```
 Aplicați câmpurile folderului părinte
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+Evaluează aplicația
+```

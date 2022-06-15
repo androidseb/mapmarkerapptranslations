@@ -6231,3 +6231,13 @@ translated (by machine 🤖) as:
 ```
 تطبيق حقول المجلد الأصل
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+قيم التطبيق
+```

@@ -6228,3 +6228,13 @@ translated (by machine 🤖) as:
 ```
 Übergeordnete Ordnerfelder anwenden
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+Bewerte die App
+```

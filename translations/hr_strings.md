@@ -6231,3 +6231,13 @@ translated (by machine 🤖) as:
 ```
 Primijeni polja roditeljske mape
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+Ocijenite aplikaciju
+```

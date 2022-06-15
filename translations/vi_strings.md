@@ -6231,3 +6231,13 @@ translated (by machine 🤖) as:
 ```
 Áp dụng các trường thư mục mẹ
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+Đánh giá ứng dụng
+```

@@ -6230,3 +6230,13 @@ translated (by machine 🤖) as:
 ```
 Taikyti pirminio aplanko laukus
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+Įvertinkite programą
+```

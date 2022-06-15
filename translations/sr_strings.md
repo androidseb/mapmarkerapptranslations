@@ -6231,3 +6231,13 @@ translated (by machine 🤖) as:
 ```
 Примени поља родитељског фолдера
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+Оцените апликацију
+```

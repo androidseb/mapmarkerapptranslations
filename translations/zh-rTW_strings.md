@@ -6223,3 +6223,13 @@ translated (by machine 🤖) as:
 ```
 應用父文件夾字段
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+給應用評分
+```

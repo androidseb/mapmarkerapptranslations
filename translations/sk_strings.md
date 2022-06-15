@@ -6231,3 +6231,13 @@ translated (by machine 🤖) as:
 ```
 Použiť polia nadradeného priečinka
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+Ohodnoťte aplikáciu
+```

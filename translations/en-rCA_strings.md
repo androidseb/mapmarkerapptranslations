@@ -6231,3 +6231,13 @@ translated (by machine 🤖) as:
 ```
 Apply parent folder fields
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+Rate the app
+```

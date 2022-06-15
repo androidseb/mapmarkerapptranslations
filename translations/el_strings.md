@@ -6231,3 +6231,13 @@ translated (by machine 🤖) as:
 ```
 Εφαρμογή πεδίων γονικού φακέλου
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+Βαθμολογήστε την εφαρμογή
+```

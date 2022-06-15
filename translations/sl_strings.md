@@ -6228,3 +6228,13 @@ translated (by machine 🤖) as:
 ```
 Uporabi polja nadrejene mape
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+Ocenite aplikacijo
+```

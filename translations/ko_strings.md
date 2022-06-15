@@ -6231,3 +6231,13 @@ translated (by machine 🤖) as:
 ```
 상위 폴더 필드 적용
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+앱 평가
+```

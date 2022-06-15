@@ -6235,3 +6235,13 @@ translated (by machine 🤖) as:
 ```
 Anvend overordnede mappefelter
 ```
+
+
+## Translation Key: rating_option_title
+```
+Rate the app
+```
+translated (by machine 🤖) as:
+```
+Bedøm appen
+```
