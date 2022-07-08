@@ -6241,3 +6241,89 @@ translated (by machine 🤖) as:
 ```
 Novērtējiet lietotni
 ```
+
+
+## Translation Key: clear_map_view_files
+```
+Clear map view files
+```
+translated (by machine 🤖) as:
+```
+Notīrīt kartes skata failus
+```
+
+
+## Translation Key: clear_map_view_files_description
+```
+Clear files known to be used by the map view and occasionally getting corrupted, causing the map view to display a blank background.
+```
+translated (by machine 🤖) as:
+```
+Notīriet failus, par kuriem zināms, ka tos izmanto kartes skats un kas dažkārt tiek bojāti, kā rezultātā kartes skats parāda tukšu fonu.
+```
+
+
+## Translation Key: clear_map_view_files_succeeded_message
+```
+Map view files cleared successfully. The app will now exit to complete the cleanup.
+```
+translated (by machine 🤖) as:
+```
+Kartes skata faili ir veiksmīgi notīrīti. Tagad lietotne tiks aizvērta, lai pabeigtu tīrīšanu.
+```
+
+
+## Translation Key: clear_map_view_files_failed_message
+```
+Could not clear map view files
+```
+translated (by machine 🤖) as:
+```
+Nevarēja notīrīt kartes skata failus
+```
+
+
+## Translation Key: help_me_message_2022
+```
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time since early 2014.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
+```
+translated (by machine 🤖) as:
+```
+Hei, paldies par zinātkāri!
+
+Man kādreiz šeit bija reklāmas reklāmkarogs, un es nolēmu izmēģināt kaut ko citu un aizstāt to ar šo vienkāršo ziņojumu…
+
+Šo lietotni veidoju brīvajā laikā kā hobijs, papildus pilnas slodzes darbam, un izrādās, ka tā kļuva par blakus projektu, kuram esmu veltījis daudz laika kopš 2014. gada sākuma.
+
+Ceru, ka jums patika lietotne un tā būs noderīga. Es to izveidoju tā, lai jūs joprojām varētu visu izdarīt nemaksājot, tas var tikai nedaudz vairāk strādāt. Jūs varat brīvi importēt vai eksportēt datus manuāli, tāpēc jums nekad nav jāmaksā, vienkārši mākoņa sinhronizācija ir ērtāka.
+
+Ja jums patīk lietotne, lūdzu, atbalstiet to: jums nav jātērē nauda par to, jebkurš no šiem žestiem palīdz:
+- runājiet par lietotni apkārtējiem cilvēkiem
+- novērtējiet lietotni, lai ieteiktu to veikalā
+- iegādājieties premium jauninājumu (noņems apakšējo reklāmkarogu)
+
+Ja jums nepatīk lietotne, lūdzu, nosūtiet man e-pastu (no sadaļas "Par") un dariet man zināmu, kā es varu to uzlabot. Esmu nonācis tik tālu, pateicoties daudzu lietotāju atsauksmēm, kuri man pastāstīja par to, kas viņiem palaida garām vai nepatika, un es atbildu uz katru e-pasta ziņojumu, tāpēc nekautrējieties!
+
+Visbeidzot, paldies, ka izlasījāt šo :-)
+
+Sveicieni
+Sebastjēns
+```

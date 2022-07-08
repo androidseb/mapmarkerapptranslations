@@ -6241,3 +6241,89 @@ translated (by machine 🤖) as:
 ```
 Oceń aplikację
 ```
+
+
+## Translation Key: clear_map_view_files
+```
+Clear map view files
+```
+translated (by machine 🤖) as:
+```
+Wyczyść pliki widoku mapy
+```
+
+
+## Translation Key: clear_map_view_files_description
+```
+Clear files known to be used by the map view and occasionally getting corrupted, causing the map view to display a blank background.
+```
+translated (by machine 🤖) as:
+```
+Wyczyść pliki, o których wiadomo, że są używane przez widok mapy i czasami ulegają uszkodzeniu, powodując, że widok mapy wyświetla puste tło.
+```
+
+
+## Translation Key: clear_map_view_files_succeeded_message
+```
+Map view files cleared successfully. The app will now exit to complete the cleanup.
+```
+translated (by machine 🤖) as:
+```
+Pliki widoku mapy zostały pomyślnie wyczyszczone. Aplikacja zostanie teraz zamknięta, aby zakończyć czyszczenie.
+```
+
+
+## Translation Key: clear_map_view_files_failed_message
+```
+Could not clear map view files
+```
+translated (by machine 🤖) as:
+```
+Nie udało się wyczyścić plików widoku mapy
+```
+
+
+## Translation Key: help_me_message_2022
+```
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time since early 2014.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
+```
+translated (by machine 🤖) as:
+```
+Hej, dziękuję za ciekawość!
+
+Kiedyś miałem tutaj baner reklamowy i postanowiłem spróbować czegoś innego i zastąpić go tym prostym komunikatem…
+
+Stworzyłem tę aplikację w wolnym czasie jako hobby, oprócz pracy na etacie i okazuje się, że stała się ona projektem pobocznym, nad którym spędziłem dużo czasu od początku 2014 roku.
+
+Mam nadzieję, że aplikacja Ci się spodoba i okaże się przydatna. Zrobiłem to w taki sposób, że nadal możesz robić wszystko bez płacenia, może to po prostu zająć trochę więcej pracy. Możesz ręcznie importować lub eksportować dane, więc tak naprawdę nigdy nie musisz płacić, po prostu synchronizacja w chmurze jest wygodniejsza.
+
+Jeśli podoba Ci się ta aplikacja, wesprzyj ją: nie musisz na to wydawać pieniędzy, każdy z tych gestów pomaga:
+- porozmawiaj o aplikacji z ludźmi wokół ciebie
+- oceń aplikację, aby polecić ją w sklepie
+- kup ulepszenie premium (usunie dolny baner)
+
+Jeśli nie podoba Ci się aplikacja, napisz do mnie (z sekcji "o") i daj mi znać, jak mogę ją ulepszyć. Doszedłem tak daleko dzięki opiniom wielu użytkowników, którzy powiedzieli mi, co im się nie podobało lub co im się nie podobało, a ja odpowiadam na każdy e-mail, więc nie wstydź się!
+
+I na koniec dziękuję za przeczytanie tego :-)
+
+Pozdrowienia
+Sebastien
+```

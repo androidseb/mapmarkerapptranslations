@@ -6240,3 +6240,89 @@ translated (by machine 🤖) as:
 ```
 Įvertinkite programą
 ```
+
+
+## Translation Key: clear_map_view_files
+```
+Clear map view files
+```
+translated (by machine 🤖) as:
+```
+Išvalyti žemėlapio rodinio failus
+```
+
+
+## Translation Key: clear_map_view_files_description
+```
+Clear files known to be used by the map view and occasionally getting corrupted, causing the map view to display a blank background.
+```
+translated (by machine 🤖) as:
+```
+Išvalykite failus, kurie, kaip žinoma, naudojami žemėlapio rodinyje ir retkarčiais sugadinami, todėl žemėlapio rodinys rodomas tuščias fonas.
+```
+
+
+## Translation Key: clear_map_view_files_succeeded_message
+```
+Map view files cleared successfully. The app will now exit to complete the cleanup.
+```
+translated (by machine 🤖) as:
+```
+Žemėlapio rodinio failai sėkmingai išvalyti. Dabar programa bus išjungta, kad būtų baigtas valymas.
+```
+
+
+## Translation Key: clear_map_view_files_failed_message
+```
+Could not clear map view files
+```
+translated (by machine 🤖) as:
+```
+Nepavyko išvalyti žemėlapio rodinio failų
+```
+
+
+## Translation Key: help_me_message_2022
+```
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time since early 2014.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
+```
+translated (by machine 🤖) as:
+```
+Ei, ačiū už smalsumą!
+
+Anksčiau čia turėjau reklaminį skydelį ir nusprendžiau išbandyti kažką kitokio ir pakeisti jį šiuo paprastu pranešimu…
+
+Šią programėlę sukūriau laisvalaikiu kaip hobį, be darbo visu etatu, ir, pasirodo, tai tapo šalutiniu projektu, prie kurio praleidau daug laiko nuo 2014 m. pradžios.
+
+Tikiuosi, kad programa jums patiks ir bus naudinga. Padariau taip, kad vis tiek galite viską padaryti nemokėdami, tik gali prireikti šiek tiek daugiau darbo. Galite laisvai importuoti arba eksportuoti duomenis rankiniu būdu, todėl jums niekada nereikės mokėti, tiesiog sinchronizuoti debesyje yra patogiau.
+
+Jei jums patinka programa, palaikykite ją: jums nereikia leisti pinigų, bet kuris iš šių gestų padeda:
+- kalbėkite apie programą su aplinkiniais žmonėmis
+- Įvertinkite programą, kad rekomenduotumėte ją parduotuvėje
+- įsigykite aukščiausios kokybės atnaujinimą (pašalinsite apatinę reklamjuostę)
+
+Jei jums nepatinka programėlė, atsiųskite man el. laišką (iš skilties „apie“) ir praneškite, kaip galėčiau ją patobulinti. Aš nuėjau taip toli dėl daugelio vartotojų atsiliepimų, kurie papasakojo apie tai, kas jiems nepatinka arba kas jiems nepatiko, ir atsakau į kiekvieną el. laišką, todėl nesidrovėkite!
+
+Ir galiausiai, ačiū, kad perskaitėte šį :-)
+
+Pagarbiai
+Sebastienas
+```

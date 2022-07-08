@@ -6241,3 +6241,89 @@ translated (by machine 🤖) as:
 ```
 Βαθμολογήστε την εφαρμογή
 ```
+
+
+## Translation Key: clear_map_view_files
+```
+Clear map view files
+```
+translated (by machine 🤖) as:
+```
+Εκκαθάριση αρχείων προβολής χάρτη
+```
+
+
+## Translation Key: clear_map_view_files_description
+```
+Clear files known to be used by the map view and occasionally getting corrupted, causing the map view to display a blank background.
+```
+translated (by machine 🤖) as:
+```
+Διαγράψτε τα αρχεία που είναι γνωστό ότι χρησιμοποιούνται από την προβολή χάρτη και περιστασιακά καταστρέφονται, με αποτέλεσμα η προβολή χάρτη να εμφανίζει ένα κενό φόντο.
+```
+
+
+## Translation Key: clear_map_view_files_succeeded_message
+```
+Map view files cleared successfully. The app will now exit to complete the cleanup.
+```
+translated (by machine 🤖) as:
+```
+Τα αρχεία προβολής χάρτη διαγράφηκαν με επιτυχία. Η εφαρμογή θα βγει τώρα για να ολοκληρωθεί η εκκαθάριση.
+```
+
+
+## Translation Key: clear_map_view_files_failed_message
+```
+Could not clear map view files
+```
+translated (by machine 🤖) as:
+```
+Δεν ήταν δυνατή η εκκαθάριση των αρχείων προβολής χάρτη
+```
+
+
+## Translation Key: help_me_message_2022
+```
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time since early 2014.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
+```
+translated (by machine 🤖) as:
+```
+Γεια σου, ευχαριστώ για την περιέργειά σου!
+
+Είχα ένα διαφημιστικό banner εδώ και αποφάσισα να δοκιμάσω κάτι διαφορετικό και να το αντικαταστήσω με αυτό το απλό μήνυμα…
+
+Έκανα αυτήν την εφαρμογή στον ελεύθερο χρόνο μου ως χόμπι, επιπλέον για να έχω μια πλήρη απασχόληση, και αποδεικνύεται ότι έγινε ένα δευτερεύον έργο στο οποίο έχω αφιερώσει πολύ χρόνο από τις αρχές του 2014.
+
+Ελπίζω να σας αρέσει η εφαρμογή και να τη βρείτε χρήσιμη. Το έφτιαξα με τρόπο που μπορείτε ακόμα να κάνετε τα πάντα χωρίς να πληρώσετε, ίσως χρειαστεί λίγη περισσότερη δουλειά. Είστε ελεύθεροι να εισάγετε ή να εξάγετε τα δεδομένα με μη αυτόματο τρόπο, επομένως δεν χρειάζεται να πληρώσετε ποτέ, απλώς ο συγχρονισμός στο cloud είναι πιο βολικός.
+
+Εάν σας αρέσει η εφαρμογή, υποστηρίξτε την: δεν χρειάζεται να ξοδέψετε χρήματα για αυτό, οποιαδήποτε από αυτές τις χειρονομίες βοηθά:
+- μιλήστε για την εφαρμογή στους ανθρώπους γύρω σας
+- βαθμολογήστε την εφαρμογή για να την προτείνετε στο κατάστημα
+- αγοράστε την premium αναβάθμιση (θα αφαιρέσει το κάτω banner)
+
+Εάν δεν σας αρέσει η εφαρμογή, στείλτε μου email (από την ενότητα "σχετικά") και ενημερώστε με πώς μπορώ να τη βελτιώσω. Έφτασα τόσο μακριά χάρη στα σχόλια πολλών χρηστών που μου είπαν για το τι τους έχασε ή τι δεν τους άρεσε, και απαντώ σε κάθε email, οπότε μην ντρέπεστε!
+
+Και τέλος, σας ευχαριστώ που διαβάσατε αυτό το :-)
+
+Χαιρετισμοί
+Σεμπαστιέν
+```

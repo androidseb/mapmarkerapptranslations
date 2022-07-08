@@ -6241,3 +6241,89 @@ translated (by machine 🤖) as:
 ```
 Califica la aplicación
 ```
+
+
+## Translation Key: clear_map_view_files
+```
+Clear map view files
+```
+translated (by machine 🤖) as:
+```
+Borrar archivos de vista de mapa
+```
+
+
+## Translation Key: clear_map_view_files_description
+```
+Clear files known to be used by the map view and occasionally getting corrupted, causing the map view to display a blank background.
+```
+translated (by machine 🤖) as:
+```
+Borre los archivos que se sabe que utiliza la vista de mapa y que ocasionalmente se corrompen, lo que hace que la vista de mapa muestre un fondo en blanco.
+```
+
+
+## Translation Key: clear_map_view_files_succeeded_message
+```
+Map view files cleared successfully. The app will now exit to complete the cleanup.
+```
+translated (by machine 🤖) as:
+```
+Los archivos de vista de mapa se borraron correctamente. La aplicación ahora se cerrará para completar la limpieza.
+```
+
+
+## Translation Key: clear_map_view_files_failed_message
+```
+Could not clear map view files
+```
+translated (by machine 🤖) as:
+```
+No se pudieron borrar los archivos de vista de mapa
+```
+
+
+## Translation Key: help_me_message_2022
+```
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time since early 2014.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
+```
+translated (by machine 🤖) as:
+```
+¡Oye, gracias por tu curiosidad!
+
+Solía tener un banner publicitario aquí y decidí probar algo diferente y reemplazarlo con este simple mensaje...
+
+Hice esta aplicación en mi tiempo libre como pasatiempo, además de tener un trabajo de tiempo completo, y resulta que se convirtió en un proyecto paralelo en el que he pasado mucho tiempo desde principios de 2014.
+
+Espero que te guste la aplicación y te resulte útil. Lo hice de una manera que aún puedes hacer todo sin pagar, solo podría tomar un poco más de trabajo. Puede importar o exportar los datos manualmente, por lo que nunca tendrá que pagar, es solo que la sincronización en la nube es más conveniente.
+
+Si te gusta la aplicación, apóyala: no tienes que gastar dinero para eso, cualquiera de esos gestos ayuda:
+- habla sobre la aplicación con las personas que te rodean
+- calificar la aplicación para recomendarla en la tienda
+- compre la actualización premium (eliminará el banner inferior)
+
+Si no le gusta la aplicación, envíeme un correo electrónico (desde la sección "acerca de") y déjeme saber cómo puedo mejorarla. He llegado hasta aquí gracias a los comentarios de muchos usuarios que me contaron lo que se perdieron o no les gustó, y respondo todos los correos electrónicos, ¡así que no seas tímido!
+
+Y finalmente, gracias por leer esto :-)
+
+Saludos
+Sébastien
+```

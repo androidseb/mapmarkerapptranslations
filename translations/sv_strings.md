@@ -6241,3 +6241,89 @@ translated (by machine 🤖) as:
 ```
 Betygsätt appen
 ```
+
+
+## Translation Key: clear_map_view_files
+```
+Clear map view files
+```
+translated (by machine 🤖) as:
+```
+Rensa kartvyfiler
+```
+
+
+## Translation Key: clear_map_view_files_description
+```
+Clear files known to be used by the map view and occasionally getting corrupted, causing the map view to display a blank background.
+```
+translated (by machine 🤖) as:
+```
+Rensa filer som är kända för att användas av kartvyn och ibland skadas, vilket gör att kartvyn visar en tom bakgrund.
+```
+
+
+## Translation Key: clear_map_view_files_succeeded_message
+```
+Map view files cleared successfully. The app will now exit to complete the cleanup.
+```
+translated (by machine 🤖) as:
+```
+Kartvyfiler har rensats. Appen avslutas nu för att slutföra rensningen.
+```
+
+
+## Translation Key: clear_map_view_files_failed_message
+```
+Could not clear map view files
+```
+translated (by machine 🤖) as:
+```
+Det gick inte att rensa kartvyfiler
+```
+
+
+## Translation Key: help_me_message_2022
+```
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time since early 2014.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
+```
+translated (by machine 🤖) as:
+```
+Hej, tack för din nyfikenhet!
+
+Jag brukade ha en annonsbanner här och jag bestämde mig för att prova något annat och ersätta det med det här enkla meddelandet...
+
+Jag gjorde den här appen på min fritid som en hobby, förutom att ha ett heltidsjobb, och det visade sig att det blev ett sidoprojekt som jag har spenderat mycket tid på sedan början av 2014.
+
+Jag hoppas att du gillar appen och tycker att den är användbar. Jag gjorde det på ett sätt så att du fortfarande kan göra allt utan att betala, det kan bara ta lite mer arbete. Du är fri att importera eller exportera data manuellt, så du behöver aldrig riktigt betala, det är bara att molnsynkronisering är bekvämare.
+
+Om du gillar appen, vänligen stödja den: du behöver inte spendera pengar för det, någon av dessa gester hjälper:
+- prata om appen med människor runt omkring dig
+- betygsätt appen för att rekommendera den i butiken
+- köp premiumuppgraderingen (kommer att ta bort den nedre bannern)
+
+Om du inte gillar appen, vänligen maila mig (från avsnittet "om") och låt mig veta hur jag kan förbättra den. Jag har kommit så långt tack vare feedbacken från många användare som berättade för mig om vad de missat eller inte gillade, och jag svarar på varenda mejl, så var inte blyg!
+
+Och slutligen, tack för att du läser detta :-)
+
+Hälsningar
+Sébastien
+```

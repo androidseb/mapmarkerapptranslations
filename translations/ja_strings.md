@@ -6242,3 +6242,89 @@ translated (by machine 🤖) as:
 ```
 アプリを評価する
 ```
+
+
+## Translation Key: clear_map_view_files
+```
+Clear map view files
+```
+translated (by machine 🤖) as:
+```
+マップビューファイルをクリアする
+```
+
+
+## Translation Key: clear_map_view_files_description
+```
+Clear files known to be used by the map view and occasionally getting corrupted, causing the map view to display a blank background.
+```
+translated (by machine 🤖) as:
+```
+マップビューで使用されていることがわかっているファイルをクリアし、ときどき破損して、マップビューに空白の背景を表示させます。
+```
+
+
+## Translation Key: clear_map_view_files_succeeded_message
+```
+Map view files cleared successfully. The app will now exit to complete the cleanup.
+```
+translated (by machine 🤖) as:
+```
+マップビューファイルが正常にクリアされました。これでアプリが終了し、クリーンアップが完了します。
+```
+
+
+## Translation Key: clear_map_view_files_failed_message
+```
+Could not clear map view files
+```
+translated (by machine 🤖) as:
+```
+マップビューファイルをクリアできませんでした
+```
+
+
+## Translation Key: help_me_message_2022
+```
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time since early 2014.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
+```
+translated (by machine 🤖) as:
+```
+ねえ、好奇心ありがとう！
+
+以前はここに広告バナーを置いていたので、別のことを試して、この単純なメッセージに置き換えることにしました…
+
+このアプリは、フルタイムの仕事に加えて、趣味で自由時間に作ったもので、2014年の初めから多くの時間を費やしてきたサイドプロジェクトになりました。
+
+私はあなたがアプリを気に入って、それが役に立つと思うことを願っています。私はあなたがまだお金を払わずにすべてをすることができる方法でそれを作りました、それはもう少し仕事がかかるかもしれません。データは手動で自由にインポートまたはエクスポートできるため、実際に料金を支払う必要はありません。クラウド同期の方が便利なだけです。
+
+アプリが気に入ったら、それをサポートしてください。そのためにお金を使う必要はありません。これらのジェスチャーのいずれかが役立ちます。
+-あなたの周りの人々にアプリについて話します
+-アプリを評価して、ストアで推奨します
+-プレミアムアップグレードを購入します（下部のバナーが削除されます）
+
+アプリが気に入らない場合は、（「概要」セクションから）私にメールして、改善方法を教えてください。見逃したことや嫌いなことを教えてくれた多くのユーザーのフィードバックのおかげでここまで来ました。私はすべてのメールに返信しますので、恥ずかしがらないでください。
+
+そして最後に、この:-)を読んでいただきありがとうございます
+
+よろしく
+セバスチャン
+```

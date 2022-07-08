@@ -6241,3 +6241,89 @@ translated (by machine 🤖) as:
 ```
 វាយតម្លៃកម្មវិធី
 ```
+
+
+## Translation Key: clear_map_view_files
+```
+Clear map view files
+```
+translated (by machine 🤖) as:
+```
+ជម្រះឯកសារទិដ្ឋភាពផែនទី
+```
+
+
+## Translation Key: clear_map_view_files_description
+```
+Clear files known to be used by the map view and occasionally getting corrupted, causing the map view to display a blank background.
+```
+translated (by machine 🤖) as:
+```
+សម្អាតឯកសារដែលគេដឹងថាត្រូវបានប្រើប្រាស់ដោយទិដ្ឋភាពផែនទី ហើយម្តងម្កាលត្រូវបានខូច ដែលបណ្តាលឱ្យទិដ្ឋភាពផែនទីបង្ហាញផ្ទៃខាងក្រោយទទេ។
+```
+
+
+## Translation Key: clear_map_view_files_succeeded_message
+```
+Map view files cleared successfully. The app will now exit to complete the cleanup.
+```
+translated (by machine 🤖) as:
+```
+ឯកសារទិដ្ឋភាពផែនទីត្រូវបានសម្អាតដោយជោគជ័យ។ ឥឡូវនេះកម្មវិធីនឹងចេញដើម្បីបញ្ចប់ការសម្អាត។
+```
+
+
+## Translation Key: clear_map_view_files_failed_message
+```
+Could not clear map view files
+```
+translated (by machine 🤖) as:
+```
+មិនអាចសម្អាតឯកសារមើលផែនទីបានទេ។
+```
+
+
+## Translation Key: help_me_message_2022
+```
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time since early 2014.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
+```
+translated (by machine 🤖) as:
+```
+ហេ, អរគុណសម្រាប់ការចង់ដឹងចង់ឃើញរបស់អ្នក!
+
+ខ្ញុំធ្លាប់មានផ្ទាំងផ្សាយពាណិជ្ជកម្មនៅទីនេះ ហើយខ្ញុំបានសម្រេចចិត្តសាកល្បងអ្វីដែលប្លែក ហើយជំនួសវាដោយសារដ៏សាមញ្ញនេះ…
+
+ខ្ញុំបានបង្កើតកម្មវិធីនេះនៅពេលទំនេររបស់ខ្ញុំជាចំណង់ចំណូលចិត្ត បន្ថែមពីលើការងារពេញម៉ោង ហើយវាបានក្លាយជាគម្រោងចំហៀងដែលខ្ញុំបានចំណាយពេលច្រើនតាំងពីដើមឆ្នាំ 2014។
+
+ខ្ញុំសង្ឃឹមថាអ្នកចូលចិត្តកម្មវិធី ហើយយល់ថាវាមានប្រយោជន៍។ ខ្ញុំបានធ្វើវាតាមរបៀបដែលអ្នកនៅតែអាចធ្វើអ្វីៗគ្រប់យ៉ាងដោយមិនចាំបាច់បង់ប្រាក់ វាប្រហែលជាត្រូវការការងារបន្តិចបន្ថែមទៀត។ អ្នក​មាន​សេរីភាព​ក្នុង​ការ​នាំចូល ឬ​នាំចេញ​ទិន្នន័យ​ដោយ​ដៃ ដូច្នេះ​អ្នក​ពិត​ជា​មិន​ត្រូវ​បង់​ប្រាក់​ទេ វា​គ្រាន់​តែ​ការ​ធ្វើ​សមកាលកម្ម​លើ​ពពក​គឺ​ងាយស្រួល​ជាង។
+
+ប្រសិនបើអ្នកចូលចិត្តកម្មវិធី សូមគាំទ្រវា៖ អ្នកមិនចាំបាច់ចំណាយលុយសម្រាប់វាទេ កាយវិការណាមួយអាចជួយបាន៖
+- និយាយអំពីកម្មវិធីទៅកាន់មនុស្សជុំវិញអ្នក។
+- វាយតម្លៃកម្មវិធីដើម្បីណែនាំវានៅលើហាង
+- ទិញការធ្វើឱ្យប្រសើរឡើងបុព្វលាភ (នឹងលុបផ្ទាំងបដាខាងក្រោម)
+
+ប្រសិនបើអ្នកមិនចូលចិត្តកម្មវិធីនេះទេ សូមផ្ញើអ៊ីមែលមកខ្ញុំ (ពីផ្នែក "អំពី") ហើយប្រាប់ខ្ញុំពីរបៀបដែលខ្ញុំអាចកែលម្អវាបាន។ ខ្ញុំបានមកដល់ពេលនេះ ដោយសារមតិរបស់អ្នកប្រើប្រាស់ជាច្រើនដែលបានប្រាប់ខ្ញុំអំពីអ្វីដែលពួកគេខកខាន ឬមិនចូលចិត្ត ហើយខ្ញុំក៏ឆ្លើយតបទៅគ្រប់អ៊ីមែលទាំងអស់ ដូច្នេះកុំខ្មាស់អៀន!
+
+ហើយជាចុងក្រោយ សូមអរគុណសម្រាប់ការអាននេះ :-)
+
+សូមគោរព
+សេបាស្ទីន
+```

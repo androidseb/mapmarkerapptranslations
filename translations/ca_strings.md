@@ -6241,3 +6241,89 @@ translated (by machine 🤖) as:
 ```
 Valoreu l'aplicació
 ```
+
+
+## Translation Key: clear_map_view_files
+```
+Clear map view files
+```
+translated (by machine 🤖) as:
+```
+Esborra els fitxers de visualització del mapa
+```
+
+
+## Translation Key: clear_map_view_files_description
+```
+Clear files known to be used by the map view and occasionally getting corrupted, causing the map view to display a blank background.
+```
+translated (by machine 🤖) as:
+```
+Esborreu els fitxers que se sap que s'utilitzen per la vista de mapa i que es corrompeixen ocasionalment, fent que la vista de mapa mostri un fons en blanc.
+```
+
+
+## Translation Key: clear_map_view_files_succeeded_message
+```
+Map view files cleared successfully. The app will now exit to complete the cleanup.
+```
+translated (by machine 🤖) as:
+```
+Els fitxers de visualització del mapa s'han esborrat correctament. Ara l'aplicació sortirà per completar la neteja.
+```
+
+
+## Translation Key: clear_map_view_files_failed_message
+```
+Could not clear map view files
+```
+translated (by machine 🤖) as:
+```
+No s'han pogut esborrar els fitxers de visualització del mapa
+```
+
+
+## Translation Key: help_me_message_2022
+```
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time since early 2014.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
+```
+translated (by machine 🤖) as:
+```
+Ei, gràcies per la teva curiositat!
+
+Solia tenir un bàner publicitari aquí i vaig decidir provar alguna cosa diferent i substituir-lo per aquest senzill missatge...
+
+Vaig fer aquesta aplicació en el meu temps lliure com a afició, a més de tenir una feina a temps complet, i resulta que es va convertir en un projecte paralel en el qual he dedicat molt de temps des de principis del 2014.
+
+Espero que us agradi l'aplicació i us sigui útil. Ho vaig fer de manera que encara pots fer-ho tot sense pagar, potser caldrà una mica més de feina. Podeu importar o exportar les dades manualment, de manera que mai no haureu de pagar, només que la sincronització al núvol és més convenient.
+
+Si t'agrada l'aplicació, si us plau, dóna suport: no cal gastar diners per això, cap d'aquests gestos ajuda:
+- Parla de l'aplicació a la gent del teu voltant
+- Valoreu l'aplicació per recomanar-la a la botiga
+- comprar l'actualització premium (eliminarà el banner inferior)
+
+Si no us agrada l'aplicació, envieu-me un correu electrònic (des de la secció "sobre") i feu-me saber com la puc millorar. He arribat fins aquí gràcies als comentaris de molts usuaris que m'han explicat allò que s'han perdut o allò que no els ha agradat, i responc a tots els correus electrònics, així que no tingueu vergonya!
+
+I, finalment, gràcies per llegir aquest :-)
+
+Salutacions
+Sébastien
+```

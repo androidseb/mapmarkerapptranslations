@@ -6241,3 +6241,89 @@ translated (by machine 🤖) as:
 ```
 قيم التطبيق
 ```
+
+
+## Translation Key: clear_map_view_files
+```
+Clear map view files
+```
+translated (by machine 🤖) as:
+```
+مسح ملفات عرض الخريطة
+```
+
+
+## Translation Key: clear_map_view_files_description
+```
+Clear files known to be used by the map view and occasionally getting corrupted, causing the map view to display a blank background.
+```
+translated (by machine 🤖) as:
+```
+امسح الملفات المعروفة لاستخدامها بواسطة طريقة عرض الخريطة وتتلف أحيانًا ، مما يتسبب في عرض الخريطة لعرض خلفية فارغة.
+```
+
+
+## Translation Key: clear_map_view_files_succeeded_message
+```
+Map view files cleared successfully. The app will now exit to complete the cleanup.
+```
+translated (by machine 🤖) as:
+```
+تم مسح ملفات عرض الخريطة بنجاح. سيخرج التطبيق الآن لإكمال التنظيف.
+```
+
+
+## Translation Key: clear_map_view_files_failed_message
+```
+Could not clear map view files
+```
+translated (by machine 🤖) as:
+```
+تعذر مسح ملفات عرض الخريطة
+```
+
+
+## Translation Key: help_me_message_2022
+```
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time since early 2014.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
+```
+translated (by machine 🤖) as:
+```
+مرحبًا ، شكرًا لك على فضولك!
+
+اعتدت أن أحصل على لافتة إعلانية هنا وقررت أن أجرب شيئًا مختلفًا واستبدله بهذه الرسالة البسيطة ...
+
+لقد صنعت هذا التطبيق في وقت فراغي كهواية ، بالإضافة إلى الحصول على وظيفة بدوام كامل ، واتضح أنه أصبح مشروعًا جانبيًا قضيت فيه الكثير من الوقت منذ أوائل عام 2014.
+
+أتمنى أن يعجبك التطبيق وتجده مفيدًا. لقد صنعتها بطريقة تمكنك من القيام بكل شيء دون أن تدفع ، فقد يستغرق الأمر القليل من العمل. أنت حر في استيراد البيانات أو تصديرها يدويًا ، لذلك لن تضطر أبدًا إلى الدفع ، إن المزامنة السحابية هي الأكثر ملاءمة.
+
+إذا أعجبك التطبيق ، فالرجاء دعمه: لست مضطرًا إلى إنفاق الأموال على ذلك ، حيث تساعد أي من هذه الإيماءات:
+- تحدث عن التطبيق للأشخاص من حولك
+- قيم التطبيق للتوصية به في المتجر
+- شراء الترقية المميزة (ستزيل الشعار السفلي)
+
+إذا لم يعجبك التطبيق ، فيرجى مراسلتي عبر البريد الإلكتروني (من قسم "حول") وإخباري كيف يمكنني تحسينه. لقد وصلت إلى هذا الحد بفضل تعليقات العديد من المستخدمين الذين أخبروني عما فاتهم أو ما لم يعجبهم ، وأرد على كل بريد إلكتروني واحد ، لذلك لا تخجل!
+
+وأخيرًا ، شكرًا لك على قراءة هذا :-)
+
+يعتبر
+سيباستيان
+```

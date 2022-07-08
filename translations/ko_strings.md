@@ -6241,3 +6241,89 @@ translated (by machine 🤖) as:
 ```
 앱 평가
 ```
+
+
+## Translation Key: clear_map_view_files
+```
+Clear map view files
+```
+translated (by machine 🤖) as:
+```
+지도 보기 파일 지우기
+```
+
+
+## Translation Key: clear_map_view_files_description
+```
+Clear files known to be used by the map view and occasionally getting corrupted, causing the map view to display a blank background.
+```
+translated (by machine 🤖) as:
+```
+지도 보기에서 사용하는 것으로 알려진 파일을 지우고 때때로 손상되어 지도 보기에 빈 배경이 표시됩니다.
+```
+
+
+## Translation Key: clear_map_view_files_succeeded_message
+```
+Map view files cleared successfully. The app will now exit to complete the cleanup.
+```
+translated (by machine 🤖) as:
+```
+지도 보기 파일이 성공적으로 지워졌습니다. 이제 앱이 종료되어 정리가 완료됩니다.
+```
+
+
+## Translation Key: clear_map_view_files_failed_message
+```
+Could not clear map view files
+```
+translated (by machine 🤖) as:
+```
+지도 보기 파일을 지울 수 없습니다.
+```
+
+
+## Translation Key: help_me_message_2022
+```
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time since early 2014.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
+```
+translated (by machine 🤖) as:
+```
+이봐, 당신의 호기심을 주셔서 감사합니다!
+
+나는 여기에 광고 배너가 있었고 다른 것을 시도하고이 간단한 메시지로 대체하기로 결정했습니다 ...
+
+저는 이 앱을 정규직 외에 취미로 여가 시간에 만들었는데 2014년 초부터 많은 시간을 투자한 사이드 프로젝트가 되었습니다.
+
+앱이 마음에 드시고 유용하게 사용되기를 바랍니다. 비용을 지불하지 않고도 모든 작업을 수행할 수 있는 방식으로 만들었습니다. 작업이 조금 더 필요할 수 있습니다. 데이터를 수동으로 가져오거나 내보낼 수 있으므로 실제로 비용을 지불할 필요가 없습니다. 단지 클라우드 동기화가 더 편리하기 때문입니다.
+
+앱이 마음에 든다면 지원하세요. 돈을 쓸 필요가 없습니다. 이러한 제스처 중 하나가 도움이 됩니다.
+- 주변 사람들에게 앱에 대해 이야기하기
+- 앱을 평가하여 스토어에서 추천
+- 프리미엄 업그레이드 구매(하단 배너 제거)
+
+앱이 마음에 들지 않으면 "정보" 섹션에서 저에게 이메일을 보내주시고 개선 방법을 알려주세요. 많은 사용자들이 놓친 부분과 마음에 들지 않는 부분에 대한 피드백 덕분에 여기까지 올 수 있었고 모든 이메일에 답장을 드렸으니 부끄러워하지 마세요!
+
+마지막으로 이 글을 읽어주셔서 감사합니다 :-)
+
+문안 인사
+세바스티앙
+```

@@ -6235,3 +6235,89 @@ translated (by machine 🤖) as:
 ```
 Beoordeel de app
 ```
+
+
+## Translation Key: clear_map_view_files
+```
+Clear map view files
+```
+translated (by machine 🤖) as:
+```
+Wis kaartweergavebestanden
+```
+
+
+## Translation Key: clear_map_view_files_description
+```
+Clear files known to be used by the map view and occasionally getting corrupted, causing the map view to display a blank background.
+```
+translated (by machine 🤖) as:
+```
+Wis bestanden waarvan bekend is dat ze worden gebruikt door de kaartweergave en die af en toe beschadigd raken, waardoor de kaartweergave een lege achtergrond weergeeft.
+```
+
+
+## Translation Key: clear_map_view_files_succeeded_message
+```
+Map view files cleared successfully. The app will now exit to complete the cleanup.
+```
+translated (by machine 🤖) as:
+```
+Kaartweergavebestanden zijn met succes gewist. De app wordt nu afgesloten om het opschonen te voltooien.
+```
+
+
+## Translation Key: clear_map_view_files_failed_message
+```
+Could not clear map view files
+```
+translated (by machine 🤖) as:
+```
+Kan bestanden met kaartweergave niet wissen
+```
+
+
+## Translation Key: help_me_message_2022
+```
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time since early 2014.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
+```
+translated (by machine 🤖) as:
+```
+Hé, bedankt voor je nieuwsgierigheid!
+
+Ik had hier een advertentiebanner en ik besloot iets anders te proberen en het te vervangen door dit eenvoudige bericht ...
+
+Ik heb deze app in mijn vrije tijd als hobby gemaakt, naast een fulltime baan, en het bleek een bijproject te zijn waar ik sinds begin 2014 veel tijd aan besteed heb.
+
+Ik hoop dat je de app leuk vindt en nuttig vindt. Ik heb het zo gemaakt dat je nog steeds alles kunt doen zonder te betalen, het kost misschien wat meer moeite. U bent vrij om de gegevens handmatig te importeren of exporteren, dus u hoeft nooit echt te betalen, alleen cloudsynchronisatie is handiger.
+
+Als je de app leuk vindt, steun hem dan: je hoeft er geen geld voor uit te geven, al deze gebaren helpen:
+- praat over de app met mensen om je heen
+- beoordeel de app om hem aan te bevelen in de winkel
+- koop de premium upgrade (verwijder de onderste banner)
+
+Als je de app niet leuk vindt, stuur me dan een e-mail (uit het gedeelte 'over') en laat me weten hoe ik hem kan verbeteren. Ik ben zo ver gekomen dankzij de feedback van veel gebruikers die me vertelden wat ze hebben gemist of niet leuk vonden, en ik beantwoord elke e-mail, dus wees niet verlegen!
+
+En tot slot, bedankt voor het lezen van dit :-)
+
+Groeten
+Sébastien
+```

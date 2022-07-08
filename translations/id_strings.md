@@ -6241,3 +6241,89 @@ translated (by machine 🤖) as:
 ```
 Nilai aplikasinya
 ```
+
+
+## Translation Key: clear_map_view_files
+```
+Clear map view files
+```
+translated (by machine 🤖) as:
+```
+Hapus file tampilan peta
+```
+
+
+## Translation Key: clear_map_view_files_description
+```
+Clear files known to be used by the map view and occasionally getting corrupted, causing the map view to display a blank background.
+```
+translated (by machine 🤖) as:
+```
+Hapus file yang diketahui digunakan oleh tampilan peta dan terkadang rusak, menyebabkan tampilan peta menampilkan latar belakang kosong.
+```
+
+
+## Translation Key: clear_map_view_files_succeeded_message
+```
+Map view files cleared successfully. The app will now exit to complete the cleanup.
+```
+translated (by machine 🤖) as:
+```
+File tampilan peta berhasil dihapus. Aplikasi sekarang akan keluar untuk menyelesaikan pembersihan.
+```
+
+
+## Translation Key: clear_map_view_files_failed_message
+```
+Could not clear map view files
+```
+translated (by machine 🤖) as:
+```
+Tidak dapat menghapus file tampilan peta
+```
+
+
+## Translation Key: help_me_message_2022
+```
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time since early 2014.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
+```
+translated (by machine 🤖) as:
+```
+Hei, terima kasih atas rasa ingin tahumu!
+
+Saya dulu memiliki spanduk iklan di sini dan saya memutuskan untuk mencoba sesuatu yang berbeda dan menggantinya dengan pesan sederhana ini…
+
+Saya membuat aplikasi ini di waktu luang saya sebagai hobi, selain memiliki pekerjaan penuh waktu, dan ternyata itu menjadi proyek sampingan yang telah saya habiskan banyak waktu sejak awal 2014.
+
+Saya harap Anda menyukai aplikasi ini dan merasa berguna. Saya membuatnya sedemikian rupa sehingga Anda masih dapat melakukan semuanya tanpa membayar, mungkin hanya perlu sedikit lebih banyak pekerjaan. Anda bebas mengimpor atau mengekspor data secara manual, jadi Anda tidak perlu membayar, hanya saja sinkronisasi cloud lebih nyaman.
+
+Jika Anda menyukai aplikasi ini, dukunglah: Anda tidak perlu mengeluarkan uang untuk itu, salah satu dari gerakan itu membantu:
+- berbicara tentang aplikasi kepada orang-orang di sekitar Anda
+- beri peringkat aplikasi untuk merekomendasikannya di toko
+- beli peningkatan premium (akan menghapus spanduk bawah)
+
+Jika Anda tidak menyukai aplikasi ini, silakan kirim email kepada saya (dari bagian "tentang") dan beri tahu saya bagaimana saya dapat memperbaikinya. Saya telah sampai sejauh ini berkat umpan balik dari banyak pengguna yang memberi tahu saya tentang apa yang mereka lewatkan atau tidak sukai, dan saya membalas setiap email, jadi jangan malu!
+
+Dan akhirnya, terima kasih telah membaca ini :-)
+
+Salam
+Sebastien
+```

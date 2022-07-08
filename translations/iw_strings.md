@@ -6241,3 +6241,89 @@ translated (by machine 🤖) as:
 ```
 דרג את האפליקציה
 ```
+
+
+## Translation Key: clear_map_view_files
+```
+Clear map view files
+```
+translated (by machine 🤖) as:
+```
+נקה קבצי תצוגת מפה
+```
+
+
+## Translation Key: clear_map_view_files_description
+```
+Clear files known to be used by the map view and occasionally getting corrupted, causing the map view to display a blank background.
+```
+translated (by machine 🤖) as:
+```
+נקה קבצים שידועים כמשמשים בתצוגת המפה ומדי פעם נפגמים, מה שגורם לתצוגת המפה להציג רקע ריק.
+```
+
+
+## Translation Key: clear_map_view_files_succeeded_message
+```
+Map view files cleared successfully. The app will now exit to complete the cleanup.
+```
+translated (by machine 🤖) as:
+```
+קובצי תצוגת מפה נוקו בהצלחה. האפליקציה תצא כעת כדי להשלים את הניקוי.
+```
+
+
+## Translation Key: clear_map_view_files_failed_message
+```
+Could not clear map view files
+```
+translated (by machine 🤖) as:
+```
+לא ניתן היה לנקות קבצי תצוגת מפה
+```
+
+
+## Translation Key: help_me_message_2022
+```
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time since early 2014.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
+```
+translated (by machine 🤖) as:
+```
+היי, תודה על הסקרנות!
+
+פעם היה לי כאן באנר מודעה והחלטתי לנסות משהו אחר ולהחליף אותו בהודעה הפשוטה הזו...
+
+הכנתי את האפליקציה הזו בזמני הפנוי כתחביב, בנוסף לעבודה במשרה מלאה, ומסתבר שהיא הפכה לפרויקט צדדי שבו ביליתי הרבה זמן מאז תחילת 2014.
+
+אני מקווה שתאהבו את האפליקציה ותמצאו אותה שימושית. הכנתי את זה בצורה שאתה עדיין יכול לעשות הכל בלי לשלם, זה יכול לקחת קצת יותר עבודה. אתה חופשי לייבא או לייצא את הנתונים באופן ידני, כך שלעולם לא תצטרך לשלם, פשוט סנכרון ענן נוח יותר.
+
+אם אתה אוהב את האפליקציה, נא לתמוך בה: אתה לא צריך להוציא כסף בשביל זה, כל אחת מהמחוות האלה עוזרת:
+- דבר על האפליקציה עם אנשים סביבך
+- דרג את האפליקציה כדי להמליץ עליה בחנות
+- רכוש את שדרוג הפרימיום (יסיר את הבאנר התחתון)
+
+אם אינך אוהב את האפליקציה, אנא שלח לי דוא"ל (מהקטע "אודות") ודווח לי כיצד אוכל לשפר אותה. הגעתי עד הלום הודות למשוב של משתמשים רבים שסיפרו לי על מה שהם פספסו או לא אהבו, ואני עונה לכל מייל בודד, אז אל תתביישו!
+
+ולבסוף, תודה שקראת את זה :-)
+
+בברכה
+סבסטיאן
+```

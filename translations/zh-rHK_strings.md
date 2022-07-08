@@ -6241,3 +6241,89 @@ translated (by machine 🤖) as:
 ```
 給應用評分
 ```
+
+
+## Translation Key: clear_map_view_files
+```
+Clear map view files
+```
+translated (by machine 🤖) as:
+```
+清除地圖視圖文件
+```
+
+
+## Translation Key: clear_map_view_files_description
+```
+Clear files known to be used by the map view and occasionally getting corrupted, causing the map view to display a blank background.
+```
+translated (by machine 🤖) as:
+```
+清除已知被地圖視圖使用並偶爾損壞的文件，導致地圖視圖顯示空白背景。
+```
+
+
+## Translation Key: clear_map_view_files_succeeded_message
+```
+Map view files cleared successfully. The app will now exit to complete the cleanup.
+```
+translated (by machine 🤖) as:
+```
+地圖視圖文件已成功清除。該應用程序現在將退出以完成清理。
+```
+
+
+## Translation Key: clear_map_view_files_failed_message
+```
+Could not clear map view files
+```
+translated (by machine 🤖) as:
+```
+無法清除地圖視圖文件
+```
+
+
+## Translation Key: help_me_message_2022
+```
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time since early 2014.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
+```
+translated (by machine 🤖) as:
+```
+嘿，謝謝你的好奇心！
+
+我曾經在這裡有一個廣告橫幅，我決定嘗試一些不同的東西，並用這個簡單的信息代替它......
+
+我在業餘時間製作了這個應用程序，除了有一份全職工作之外，它還變成了我自 2014 年初以來花了很多時間的副業。
+
+我希望你喜歡這個應用程序並發現它很有用。我這樣做的方式是你仍然可以不付錢做任何事情，它可能只需要多做一點工作。您可以自由地手動導入或導出數據，因此您無需支付任何費用，只是云同步更方便。
+
+如果您喜歡該應用程序，請支持它：您不必為此花錢，任何這些手勢都有幫助：
+- 與您周圍的人談論該應用程序
+- 評價應用程序以在商店中推薦它
+- 購買高級升級（將刪除底部橫幅）
+
+如果您不喜歡該應用程序，請給我發電子郵件（來自“關於”部分），讓我知道如何改進它。感謝許多用戶的反饋，他們告訴我他們錯過或不喜歡什麼，我能走到這一步，我會回复每封電子郵件，所以不要害羞！
+
+最後，感謝您閱讀此:-)
+
+問候
+塞巴斯蒂安
+```

@@ -6241,3 +6241,89 @@ translated (by machine 🤖) as:
 ```
 Ohodnoťte aplikáciu
 ```
+
+
+## Translation Key: clear_map_view_files
+```
+Clear map view files
+```
+translated (by machine 🤖) as:
+```
+Vymazať súbory zobrazenia mapy
+```
+
+
+## Translation Key: clear_map_view_files_description
+```
+Clear files known to be used by the map view and occasionally getting corrupted, causing the map view to display a blank background.
+```
+translated (by machine 🤖) as:
+```
+Vymažte súbory, o ktorých je známe, že ich používa zobrazenie mapy, a občas sa poškodia, čo spôsobí, že zobrazenie mapy zobrazí prázdne pozadie.
+```
+
+
+## Translation Key: clear_map_view_files_succeeded_message
+```
+Map view files cleared successfully. The app will now exit to complete the cleanup.
+```
+translated (by machine 🤖) as:
+```
+Súbory zobrazenia mapy boli úspešne vymazané. Aplikácia sa teraz ukončí a dokončí sa čistenie.
+```
+
+
+## Translation Key: clear_map_view_files_failed_message
+```
+Could not clear map view files
+```
+translated (by machine 🤖) as:
+```
+Nepodarilo sa vymazať súbory zobrazenia mapy
+```
+
+
+## Translation Key: help_me_message_2022
+```
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time since early 2014.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
+```
+translated (by machine 🤖) as:
+```
+Ahoj, ďakujem za tvoju zvedavosť!
+
+Kedysi som tu mal reklamný banner a rozhodol som sa skúsiť niečo iné a nahradiť ho touto jednoduchou správou...
+
+Túto aplikáciu som vytvoril vo svojom voľnom čase ako hobby, navyše k práci na plný úväzok, a ukázalo sa, že sa z nej stal vedľajší projekt, na ktorom som od začiatku roku 2014 strávil veľa času.
+
+Dúfam, že sa vám aplikácia páči a bude pre vás užitočná. Urobil som to tak, že stále môžete robiť všetko bez platenia, len to bude chcieť trochu viac práce. Údaje môžete importovať alebo exportovať manuálne, takže nikdy nebudete musieť platiť, iba synchronizácia v cloude je pohodlnejšia.
+
+Ak sa vám aplikácia páči, podporte ju: nemusíte za to míňať peniaze, ktorékoľvek z týchto gest vám pomôže:
+- porozprávajte sa o aplikácii s ľuďmi okolo vás
+- ohodnoťte aplikáciu, aby ste ju odporučili v obchode
+- zakúpte si prémiovú aktualizáciu (odstráni sa spodný banner)
+
+Ak sa vám aplikácia nepáči, pošlite mi e-mail (zo sekcie „o programe“) a dajte mi vedieť, ako ju môžem vylepšiť. Dostal som sa až sem vďaka spätnej väzbe mnohých používateľov, ktorí mi hovorili o tom, čo im chýbalo alebo sa im nepáčilo, a na každý jeden e-mail odpovedám, takže sa nemusíte hanbiť!
+
+A nakoniec vám ďakujem, že ste si prečítali toto :-)
+
+S pozdravom
+Sébastien
+```

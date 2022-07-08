@@ -6241,3 +6241,89 @@ translated (by machine 🤖) as:
 ```
 Đánh giá ứng dụng
 ```
+
+
+## Translation Key: clear_map_view_files
+```
+Clear map view files
+```
+translated (by machine 🤖) as:
+```
+Xóa tệp chế độ xem bản đồ
+```
+
+
+## Translation Key: clear_map_view_files_description
+```
+Clear files known to be used by the map view and occasionally getting corrupted, causing the map view to display a blank background.
+```
+translated (by machine 🤖) as:
+```
+Xóa các tệp được chế độ xem bản đồ sử dụng và đôi khi bị hỏng, khiến chế độ xem bản đồ hiển thị nền trống.
+```
+
+
+## Translation Key: clear_map_view_files_succeeded_message
+```
+Map view files cleared successfully. The app will now exit to complete the cleanup.
+```
+translated (by machine 🤖) as:
+```
+Đã xóa thành công tệp chế độ xem bản đồ. Bây giờ ứng dụng sẽ thoát ra để hoàn tất quá trình dọn dẹp.
+```
+
+
+## Translation Key: clear_map_view_files_failed_message
+```
+Could not clear map view files
+```
+translated (by machine 🤖) as:
+```
+Không thể xóa tệp chế độ xem bản đồ
+```
+
+
+## Translation Key: help_me_message_2022
+```
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time since early 2014.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
+```
+translated (by machine 🤖) as:
+```
+Này, cảm ơn bạn đã tò mò!
+
+Tôi đã từng có một biểu ngữ quảng cáo ở đây và tôi quyết định thử một cái gì đó khác và thay thế nó bằng một thông điệp đơn giản này…
+
+Tôi đã tạo ứng dụng này vào thời gian rảnh như một sở thích, ngoài ra để có một công việc toàn thời gian và hóa ra nó đã trở thành một dự án phụ mà tôi đã dành rất nhiều thời gian kể từ đầu năm 2014.
+
+Tôi hy vọng bạn thích ứng dụng và thấy nó hữu ích. Tôi đã làm theo cách mà bạn vẫn có thể làm mọi thứ mà không cần trả tiền, có thể chỉ mất thêm một chút công việc. Bạn có thể tự do nhập hoặc xuất dữ liệu theo cách thủ công, vì vậy bạn không bao giờ thực sự phải trả tiền, chỉ là đồng bộ hóa đám mây thuận tiện hơn.
+
+Nếu bạn thích ứng dụng này, hãy ủng hộ nó: bạn không phải tốn tiền cho việc đó, bất kỳ cử chỉ nào trong số đó đều giúp:
+- nói về ứng dụng với những người xung quanh bạn
+- xếp hạng ứng dụng để giới thiệu nó trên cửa hàng
+- mua bản nâng cấp cao cấp (sẽ xóa biểu ngữ dưới cùng)
+
+Nếu bạn không thích ứng dụng, vui lòng gửi email cho tôi (từ phần "giới thiệu") và cho tôi biết cách tôi có thể cải thiện nó. Tôi đã tiến xa đến mức này nhờ phản hồi của nhiều người dùng đã nói với tôi về những điều họ bỏ lỡ hoặc không thích và tôi trả lời từng email, vì vậy đừng ngại!
+
+Và cuối cùng, cảm ơn bạn đã đọc :-) này
+
+Trân trọng
+Sébastien
+```

@@ -6238,3 +6238,89 @@ translated (by machine 🤖) as:
 ```
 Ocenite aplikacijo
 ```
+
+
+## Translation Key: clear_map_view_files
+```
+Clear map view files
+```
+translated (by machine 🤖) as:
+```
+Počisti datoteke pogleda zemljevida
+```
+
+
+## Translation Key: clear_map_view_files_description
+```
+Clear files known to be used by the map view and occasionally getting corrupted, causing the map view to display a blank background.
+```
+translated (by machine 🤖) as:
+```
+Počistite datoteke, za katere je znano, da jih uporablja pogled zemljevida in se občasno poškodujejo, kar povzroči, da pogled zemljevida prikaže prazno ozadje.
+```
+
+
+## Translation Key: clear_map_view_files_succeeded_message
+```
+Map view files cleared successfully. The app will now exit to complete the cleanup.
+```
+translated (by machine 🤖) as:
+```
+Datoteke pogleda zemljevida so bile uspešno izbrisane. Aplikacija se bo zdaj zaprla, da dokonča čiščenje.
+```
+
+
+## Translation Key: clear_map_view_files_failed_message
+```
+Could not clear map view files
+```
+translated (by machine 🤖) as:
+```
+Datotek pogleda zemljevida ni bilo mogoče počistiti
+```
+
+
+## Translation Key: help_me_message_2022
+```
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time since early 2014.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
+```
+translated (by machine 🤖) as:
+```
+Hej, hvala za tvojo radovednost!
+
+Včasih sem imel tukaj oglasno pasico in sem se odločil poskusiti nekaj drugega in ga nadomestiti s tem preprostim sporočilom ...
+
+To aplikacijo sem naredil v prostem času kot hobi, poleg tega, da sem imel redno službo, in izkazalo se je, da je postala stranski projekt, ki sem mu od začetka leta 2014 posvetil veliko časa.
+
+Upam, da vam je aplikacija všeč in da bo koristna. Naredil sem ga tako, da lahko še vedno vse narediš brez plačila, morda bo potrebno le malo več dela. Podatke lahko ročno uvozite ali izvozite, tako da vam nikoli ni treba plačati, le sinhronizacija v oblaku je bolj priročna.
+
+Če vam je aplikacija všeč, jo podprite: za to vam ni treba porabiti denarja, katera koli od teh potez pomaga:
+- govorite o aplikaciji ljudem okoli sebe
+- ocenite aplikacijo, da jo priporočite v trgovini
+- kupite premium nadgradnjo (odstranila bo spodnjo pasico)
+
+Če vam aplikacija ni všeč, mi pošljite e-pošto (iz razdelka »o«) in mi povejte, kako jo lahko izboljšam. Tako daleč sem prišel zahvaljujoč povratnim informacijam številnih uporabnikov, ki so mi povedali, kaj so zamudili ali jim ni bilo všeč, in odgovorim na vsako posamezno e-pošto, zato naj vas ne bo sram!
+
+In končno, hvala, ker ste prebrali tole :-)
+
+S spoštovanjem
+Sébastien
+```

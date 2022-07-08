@@ -6241,3 +6241,89 @@ translated (by machine 🤖) as:
 ```
 Értékelje az alkalmazást
 ```
+
+
+## Translation Key: clear_map_view_files
+```
+Clear map view files
+```
+translated (by machine 🤖) as:
+```
+Térképnézet fájlok törlése
+```
+
+
+## Translation Key: clear_map_view_files_description
+```
+Clear files known to be used by the map view and occasionally getting corrupted, causing the map view to display a blank background.
+```
+translated (by machine 🤖) as:
+```
+Törölje a térképnézet által ismerten használt fájlokat, amelyek időnként megsérülnek, így a térképnézet üres hátteret jelenít meg.
+```
+
+
+## Translation Key: clear_map_view_files_succeeded_message
+```
+Map view files cleared successfully. The app will now exit to complete the cleanup.
+```
+translated (by machine 🤖) as:
+```
+A térképnézet fájljai sikeresen törölve. Az alkalmazás most kilép a tisztítás befejezéséhez.
+```
+
+
+## Translation Key: clear_map_view_files_failed_message
+```
+Could not clear map view files
+```
+translated (by machine 🤖) as:
+```
+Nem sikerült törölni a térképnézet fájljait
+```
+
+
+## Translation Key: help_me_message_2022
+```
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time since early 2014.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
+```
+translated (by machine 🤖) as:
+```
+Szia, köszönöm a kíváncsiságodat!
+
+Régen volt itt egy reklámszalagom, és úgy döntöttem, hogy kipróbálok valami mást, és lecserélem erre az egyszerű üzenetre…
+
+Ezt az alkalmazást szabadidőmben készítettem el hobbiból, a teljes munkaidő mellett, és kiderült, hogy egy mellékprojekt lett, amivel 2014 eleje óta sok időt töltöttem.
+
+Remélem tetszik az alkalmazás és hasznosnak találod. Úgy készítettem, hogy továbbra is mindent meg tudjon csinálni fizetés nélkül, csak lehet, hogy egy kicsit több munkát igényel. Szabadon importálhatja vagy exportálhatja az adatokat manuálisan, így valójában soha nem kell fizetnie, csupán a felhőszinkronizálás kényelmesebb.
+
+Ha tetszik az alkalmazás, kérjük, támogassa: erre nem kell pénzt költenie, az alábbi gesztusok bármelyike segít:
+- beszéljen az alkalmazásról a körülötte lévőknek
+- Értékelje az alkalmazást, hogy ajánlja a boltban
+- vásárolja meg a prémium frissítést (eltávolítja az alsó szalaghirdetést)
+
+Ha nem tetszik az alkalmazás, kérjük, írjon nekem e-mailt (a "Névjegy" részből), és tudassa velem, hogyan tudnám javítani. Sok felhasználó visszajelzésének köszönhetően jutottam el idáig, akik elmondták, mi hiányzott vagy nem tetszett nekik, és minden egyes e-mailre válaszolok, szóval ne félj!
+
+És végül köszönöm, hogy elolvastad ezt a :-)
+
+Üdvözlettel
+Sébastien
+```

@@ -6241,3 +6241,89 @@ translated (by machine 🤖) as:
 ```
 Arvioi sovellus
 ```
+
+
+## Translation Key: clear_map_view_files
+```
+Clear map view files
+```
+translated (by machine 🤖) as:
+```
+Tyhjennä karttanäkymätiedostot
+```
+
+
+## Translation Key: clear_map_view_files_description
+```
+Clear files known to be used by the map view and occasionally getting corrupted, causing the map view to display a blank background.
+```
+translated (by machine 🤖) as:
+```
+Tyhjennä tiedostot, joiden tiedetään käyttävän karttanäkymää ja jotka ajoittain vioittuvat, jolloin karttanäkymässä näkyy tyhjä tausta.
+```
+
+
+## Translation Key: clear_map_view_files_succeeded_message
+```
+Map view files cleared successfully. The app will now exit to complete the cleanup.
+```
+translated (by machine 🤖) as:
+```
+Karttanäkymätiedostot tyhjennettiin onnistuneesti. Sovellus poistuu nyt siivouksen suorittamiseksi loppuun.
+```
+
+
+## Translation Key: clear_map_view_files_failed_message
+```
+Could not clear map view files
+```
+translated (by machine 🤖) as:
+```
+Karttanäkymätiedostoja ei voitu tyhjentää
+```
+
+
+## Translation Key: help_me_message_2022
+```
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time since early 2014.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
+```
+translated (by machine 🤖) as:
+```
+Hei, kiitos uteliaisuudestasi!
+
+Minulla oli täällä mainosbanneri ja päätin kokeilla jotain erilaista ja korvata sen tällä yksinkertaisella viestillä…
+
+Tein tämän sovelluksen vapaa-ajallani harrastuksena, kokopäivätyön lisäksi, ja osoittautui, että siitä tuli sivuprojekti, johon olen viettänyt paljon aikaa vuoden 2014 alusta lähtien.
+
+Toivottavasti pidät sovelluksesta ja pidät siitä hyödyllisenä. Tein sen niin, että voit silti tehdä kaiken maksamatta, se saattaa vaatia hieman enemmän työtä. Voit vapaasti tuoda tai viedä tiedot manuaalisesti, joten sinun ei tarvitse koskaan maksaa, pilvisynkronointi on vain kätevämpää.
+
+Jos pidät sovelluksesta, tue sitä: sinun ei tarvitse käyttää rahaa siihen, mikä tahansa näistä eleistä auttaa:
+- puhu sovelluksesta ympärilläsi oleville ihmisille
+- arvioi sovellus suositellaksesi sitä kaupassa
+- osta premium-päivitys (poistaa alimman bannerin)
+
+Jos et pidä sovelluksesta, lähetä minulle sähköpostia ("Tietoja"-osiosta) ja kerro kuinka voin parantaa sitä. Olen päässyt näin pitkälle monien käyttäjien palautteen ansiosta, jotka kertoivat minulle, mistä he eivät pitäneet tai mistä he eivät pitäneet. Vastaan jokaiseen sähköpostiin, joten älä ole ujo!
+
+Ja lopuksi kiitos, että luit tämän :-)
+
+Terveiset
+Sébastien
+```

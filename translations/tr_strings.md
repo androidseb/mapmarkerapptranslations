@@ -6241,3 +6241,89 @@ translated (by machine 🤖) as:
 ```
 Uygulamayı oyla
 ```
+
+
+## Translation Key: clear_map_view_files
+```
+Clear map view files
+```
+translated (by machine 🤖) as:
+```
+Harita görünümü dosyalarını temizle
+```
+
+
+## Translation Key: clear_map_view_files_description
+```
+Clear files known to be used by the map view and occasionally getting corrupted, causing the map view to display a blank background.
+```
+translated (by machine 🤖) as:
+```
+Harita görünümü tarafından kullanıldığı bilinen ve zaman zaman bozularak harita görünümünün boş bir arka plan göstermesine neden olan dosyaları temizleyin.
+```
+
+
+## Translation Key: clear_map_view_files_succeeded_message
+```
+Map view files cleared successfully. The app will now exit to complete the cleanup.
+```
+translated (by machine 🤖) as:
+```
+Harita görünümü dosyaları başarıyla temizlendi. Uygulama şimdi temizlemeyi tamamlamak için çıkacaktır.
+```
+
+
+## Translation Key: clear_map_view_files_failed_message
+```
+Could not clear map view files
+```
+translated (by machine 🤖) as:
+```
+Harita görünümü dosyaları temizlenemedi
+```
+
+
+## Translation Key: help_me_message_2022
+```
+Hey, thank you for your curiosity!
+
+I used to have an ad banner here and I decided to try something different and replace it with this simple message…
+
+I made this app on my free time as a hobby, additionally to having a full time job, and it turns out it became a side project on which I have spent a lot of time since early 2014.
+
+I hope you like the app and find it useful. I made it in a way that you can still do everything without paying, it might just take a little bit more work. You are free to import or export the data manually, so you never really have to pay, it's just that cloud sync is more convenient.
+
+If you like the app, please support it: you don't have to spend money for that, any of those gestures helps:
+- talk about the app to people around you
+- rate the app to recommend it on the store
+- purchase the premium upgrade (will remove the bottom banner)
+
+If you do not like the app, please email me (from the "about" section) and let me know how I can improve it. I've come this far thanks to the feedback of many users who told me about what they missed or didn't like, and I reply to every single email, so don't be shy!
+
+And finally, thank you for reading this :-)
+
+Regards
+Sébastien
+```
+translated (by machine 🤖) as:
+```
+Hey, merakın için teşekkürler!
+
+Eskiden burada bir reklam banner'ım vardı ve farklı bir şey denemeye ve bu basit mesajla değiştirmeye karar verdim…
+
+Bu uygulamayı boş zamanlarımda hobi olarak yaptım ve tam zamanlı bir işim olmasının yanı sıra 2014'ün başından beri üzerinde çokça vakit geçirdiğim bir yan proje haline geldi.
+
+Umarım uygulamayı beğenirsiniz ve faydalı bulursunuz. Her şeyi ödemeden yapabileceğiniz şekilde yaptım, sadece biraz daha fazla çalışma gerektirebilir. Verileri manuel olarak içe veya dışa aktarmakta özgürsünüz, bu nedenle hiçbir zaman gerçekten ödeme yapmanız gerekmez, yalnızca bulut senkronizasyonu daha uygundur.
+
+Uygulamayı beğendiyseniz, lütfen destekleyin: Bunun için para harcamanıza gerek yok, bu hareketlerden herhangi biri yardımcı olur:
+- çevrenizdeki insanlara uygulama hakkında konuşun
+- uygulamayı mağazada önermek için derecelendirin
+- premium yükseltmeyi satın alın (alt başlığı kaldıracaktır)
+
+Uygulamayı beğenmediyseniz, lütfen bana e-posta gönderin ("hakkında" bölümünden) ve onu nasıl geliştirebileceğimi bana bildirin. Bana neleri kaçırdıklarını veya beğenmediklerini söyleyen birçok kullanıcının geri bildirimleri sayesinde bu noktaya geldim ve her e-postayı yanıtlıyorum, bu yüzden utanmayın!
+
+Ve son olarak, bu :-)'i okuduğunuz için teşekkür ederiz.
+
+Saygılarımızla
+Sebastien
+```
