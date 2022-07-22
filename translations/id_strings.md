@@ -3591,7 +3591,7 @@ Tampilkan ikon peringatan untuk sinkronisasi
 
 ## Translation Key: message_sync_error_missing_media_file
 ```
-"The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
+The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
 translated (by human 👀) as:
 ```
@@ -6326,4 +6326,44 @@ Dan akhirnya, terima kasih telah membaca ini :-)
 
 Salam
 Sebastien
+```
+
+
+## Translation Key: sync_error_missing_media_file
+```
+The sync was aborted because the following file could you be found: %s. To resolve this, you can either restore the missing file manually or change the app's settings to not download media during sync.
+```
+translated (by machine 🤖) as:
+```
+Sinkronisasi dibatalkan karena file berikut dapat Anda temukan: %s. Untuk mengatasi ini, Anda dapat memulihkan file yang hilang secara manual atau mengubah pengaturan aplikasi untuk tidak mengunduh media selama sinkronisasi.
+```
+
+
+## Translation Key: sync_media_policy_setting_title
+```
+Sync media download policy
+```
+translated (by machine 🤖) as:
+```
+Sinkronkan kebijakan unduhan media
+```
+
+
+## Translation Key: sync_media_policy_setting_option_download_immediately
+```
+Download all media during sync
+```
+translated (by machine 🤖) as:
+```
+Unduh semua media selama sinkronisasi
+```
+
+
+## Translation Key: sync_media_policy_setting_option_download_later
+```
+Download media after sync when needed
+```
+translated (by machine 🤖) as:
+```
+Unduh media setelah sinkronisasi bila diperlukan
 ```

@@ -3591,7 +3591,7 @@ Hiển thị biểu tượng cảnh báo cho đồng bộ
 
 ## Translation Key: message_sync_error_missing_media_file
 ```
-"The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
+The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
 translated (by human 👀) as:
 ```
@@ -6326,4 +6326,44 @@ Và cuối cùng, cảm ơn bạn đã đọc :-) này
 
 Trân trọng
 Sébastien
+```
+
+
+## Translation Key: sync_error_missing_media_file
+```
+The sync was aborted because the following file could you be found: %s. To resolve this, you can either restore the missing file manually or change the app's settings to not download media during sync.
+```
+translated (by machine 🤖) as:
+```
+Quá trình đồng bộ hóa đã bị hủy bỏ vì bạn có thể tìm thấy tệp sau: %s. Để giải quyết vấn đề này, bạn có thể khôi phục tệp bị thiếu theo cách thủ công hoặc thay đổi cài đặt của ứng dụng để không tải xuống phương tiện trong quá trình đồng bộ hóa.
+```
+
+
+## Translation Key: sync_media_policy_setting_title
+```
+Sync media download policy
+```
+translated (by machine 🤖) as:
+```
+Đồng bộ hóa chính sách tải xuống phương tiện
+```
+
+
+## Translation Key: sync_media_policy_setting_option_download_immediately
+```
+Download all media during sync
+```
+translated (by machine 🤖) as:
+```
+Tải xuống tất cả phương tiện trong khi đồng bộ hóa
+```
+
+
+## Translation Key: sync_media_policy_setting_option_download_later
+```
+Download media after sync when needed
+```
+translated (by machine 🤖) as:
+```
+Tải xuống phương tiện sau khi đồng bộ hóa khi cần
 ```

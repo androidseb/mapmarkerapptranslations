@@ -3591,7 +3591,7 @@ translated (by machine 🤖) as:
 
 ## Translation Key: message_sync_error_missing_media_file
 ```
-"The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
+The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
 translated (by machine 🤖) as:
 ```
@@ -6326,4 +6326,44 @@ translated (by machine 🤖) as:
 
 Поздрави
 Себастиен
+```
+
+
+## Translation Key: sync_error_missing_media_file
+```
+The sync was aborted because the following file could you be found: %s. To resolve this, you can either restore the missing file manually or change the app's settings to not download media during sync.
+```
+translated (by machine 🤖) as:
+```
+Синхронизација је прекинута јер сте могли да пронађете следећу датотеку: %s. Да бисте ово решили, можете ручно да вратите датотеку која недостаје или да промените подешавања апликације да не преузимају медије током синхронизације.
+```
+
+
+## Translation Key: sync_media_policy_setting_title
+```
+Sync media download policy
+```
+translated (by machine 🤖) as:
+```
+Синхронизујте смернице за преузимање медија
+```
+
+
+## Translation Key: sync_media_policy_setting_option_download_immediately
+```
+Download all media during sync
+```
+translated (by machine 🤖) as:
+```
+Преузмите све медије током синхронизације
+```
+
+
+## Translation Key: sync_media_policy_setting_option_download_later
+```
+Download media after sync when needed
+```
+translated (by machine 🤖) as:
+```
+Преузмите медије након синхронизације када је потребно
 ```

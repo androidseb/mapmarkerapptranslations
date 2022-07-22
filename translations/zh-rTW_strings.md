@@ -3583,7 +3583,7 @@ translated (by machine 🤖) as:
 
 ## Translation Key: message_sync_error_missing_media_file
 ```
-"The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
+The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
 translated (by machine 🤖) as:
 ```
@@ -6318,4 +6318,44 @@ translated (by machine 🤖) as:
 
 問候
 塞巴斯蒂安
+```
+
+
+## Translation Key: sync_error_missing_media_file
+```
+The sync was aborted because the following file could you be found: %s. To resolve this, you can either restore the missing file manually or change the app's settings to not download media during sync.
+```
+translated (by machine 🤖) as:
+```
+同步被中止，因為您可以找到以下文件：%s.要解決此問題，您可以手動恢復丟失的文件或將應用程序的設置更改為在同步期間不下載媒體。
+```
+
+
+## Translation Key: sync_media_policy_setting_title
+```
+Sync media download policy
+```
+translated (by machine 🤖) as:
+```
+同步媒體下載策略
+```
+
+
+## Translation Key: sync_media_policy_setting_option_download_immediately
+```
+Download all media during sync
+```
+translated (by machine 🤖) as:
+```
+在同步期間下載所有媒體
+```
+
+
+## Translation Key: sync_media_policy_setting_option_download_later
+```
+Download media after sync when needed
+```
+translated (by machine 🤖) as:
+```
+需要時同步後下載媒體
 ```

@@ -3591,7 +3591,7 @@ Warnsymbol für die Synchronisation zeigen
 
 ## Translation Key: message_sync_error_missing_media_file
 ```
-"The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
+The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
 translated (by human 👀) as:
 ```
@@ -6323,4 +6323,44 @@ Und schließlich danke, dass Sie diese :-) gelesen haben
 
 Grüße
 Sebastian
+```
+
+
+## Translation Key: sync_error_missing_media_file
+```
+The sync was aborted because the following file could you be found: %s. To resolve this, you can either restore the missing file manually or change the app's settings to not download media during sync.
+```
+translated (by machine 🤖) as:
+```
+Die Synchronisierung wurde abgebrochen, da folgende Datei gefunden werden konnte: %s. Um dies zu beheben, können Sie entweder die fehlende Datei manuell wiederherstellen oder die Einstellungen der App so ändern, dass während der Synchronisierung keine Medien heruntergeladen werden.
+```
+
+
+## Translation Key: sync_media_policy_setting_title
+```
+Sync media download policy
+```
+translated (by machine 🤖) as:
+```
+Richtlinie zum Herunterladen von Medien synchronisieren
+```
+
+
+## Translation Key: sync_media_policy_setting_option_download_immediately
+```
+Download all media during sync
+```
+translated (by machine 🤖) as:
+```
+Laden Sie alle Medien während der Synchronisierung herunter
+```
+
+
+## Translation Key: sync_media_policy_setting_option_download_later
+```
+Download media after sync when needed
+```
+translated (by machine 🤖) as:
+```
+Laden Sie bei Bedarf Medien nach der Synchronisierung herunter
 ```

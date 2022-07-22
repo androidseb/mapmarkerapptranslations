@@ -3591,7 +3591,7 @@ Mostra icona di avviso per la sincronizzazione
 
 ## Translation Key: message_sync_error_missing_media_file
 ```
-"The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
+The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
 translated (by machine 🤖) as:
 ```
@@ -6326,4 +6326,44 @@ E infine, grazie per aver letto questo :-)
 
 Saluti
 Sebastiano
+```
+
+
+## Translation Key: sync_error_missing_media_file
+```
+The sync was aborted because the following file could you be found: %s. To resolve this, you can either restore the missing file manually or change the app's settings to not download media during sync.
+```
+translated (by machine 🤖) as:
+```
+La sincronizzazione è stata interrotta perché è possibile trovare il seguente file: %s. Per risolvere questo problema, puoi ripristinare manualmente il file mancante o modificare le impostazioni dell'app per non scaricare file multimediali durante la sincronizzazione.
+```
+
+
+## Translation Key: sync_media_policy_setting_title
+```
+Sync media download policy
+```
+translated (by machine 🤖) as:
+```
+Sincronizza la politica di download dei media
+```
+
+
+## Translation Key: sync_media_policy_setting_option_download_immediately
+```
+Download all media during sync
+```
+translated (by machine 🤖) as:
+```
+Scarica tutti i media durante la sincronizzazione
+```
+
+
+## Translation Key: sync_media_policy_setting_option_download_later
+```
+Download media after sync when needed
+```
+translated (by machine 🤖) as:
+```
+Scarica i file multimediali dopo la sincronizzazione quando necessario
 ```

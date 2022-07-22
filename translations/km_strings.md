@@ -3591,7 +3591,7 @@ translated (by machine 🤖) as:
 
 ## Translation Key: message_sync_error_missing_media_file
 ```
-"The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
+The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
 translated (by human 👀) as:
 ```
@@ -6326,4 +6326,44 @@ translated (by machine 🤖) as:
 
 សូមគោរព
 សេបាស្ទីន
+```
+
+
+## Translation Key: sync_error_missing_media_file
+```
+The sync was aborted because the following file could you be found: %s. To resolve this, you can either restore the missing file manually or change the app's settings to not download media during sync.
+```
+translated (by machine 🤖) as:
+```
+ការ​ធ្វើ​សមកាលកម្ម​ត្រូវ​បាន​បោះបង់​ព្រោះ​ឯកសារ​ខាងក្រោម​នេះ​អ្នក​អាច​ត្រូវ​បាន​រក​ឃើញ៖ %s. ដើម្បីដោះស្រាយបញ្ហានេះ អ្នកអាចស្ដារឯកសារដែលបាត់ដោយដៃ ឬផ្លាស់ប្តូរការកំណត់របស់កម្មវិធីដើម្បីមិនទាញយកមេឌៀអំឡុងពេលធ្វើសមកាលកម្ម។
+```
+
+
+## Translation Key: sync_media_policy_setting_title
+```
+Sync media download policy
+```
+translated (by machine 🤖) as:
+```
+សមកាលកម្មគោលការណ៍ទាញយកមេឌៀ
+```
+
+
+## Translation Key: sync_media_policy_setting_option_download_immediately
+```
+Download all media during sync
+```
+translated (by machine 🤖) as:
+```
+ទាញយកមេឌៀទាំងអស់កំឡុងពេលធ្វើសមកាលកម្ម
+```
+
+
+## Translation Key: sync_media_policy_setting_option_download_later
+```
+Download media after sync when needed
+```
+translated (by machine 🤖) as:
+```
+ទាញយកមេឌៀបន្ទាប់ពីធ្វើសមកាលកម្មនៅពេលចាំបាច់
 ```

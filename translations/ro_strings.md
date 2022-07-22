@@ -3591,7 +3591,7 @@ Afișați pictograma de avertizare pentru sincronizare
 
 ## Translation Key: message_sync_error_missing_media_file
 ```
-"The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
+The sync was aborted because one of the media files on the cloud was missing. You can ignore missing files by clicking "force sync". Warning, ignoring missing files will result in removing them from the database, which means that other devices still having a local copy of the file will delete it upon sync.
 ```
 translated (by human 👀) as:
 ```
@@ -6326,4 +6326,44 @@ Dacă nu vă place aplicația, vă rugăm să-mi trimiteți un e-mail (din secț
 
 Salutari
 Sébastien
+```
+
+
+## Translation Key: sync_error_missing_media_file
+```
+The sync was aborted because the following file could you be found: %s. To resolve this, you can either restore the missing file manually or change the app's settings to not download media during sync.
+```
+translated (by machine 🤖) as:
+```
+Sincronizarea a fost întreruptă deoarece ați putut fi găsit următorul fișier: %s. Pentru a rezolva acest lucru, puteți fie să restaurați manual fișierul lipsă, fie să modificați setările aplicației pentru a nu descărca conținut media în timpul sincronizării.
+```
+
+
+## Translation Key: sync_media_policy_setting_title
+```
+Sync media download policy
+```
+translated (by machine 🤖) as:
+```
+Sincronizați politica de descărcare media
+```
+
+
+## Translation Key: sync_media_policy_setting_option_download_immediately
+```
+Download all media during sync
+```
+translated (by machine 🤖) as:
+```
+Descărcați toate conținuturile media în timpul sincronizării
+```
+
+
+## Translation Key: sync_media_policy_setting_option_download_later
+```
+Download media after sync when needed
+```
+translated (by machine 🤖) as:
+```
+Descărcați media după sincronizare atunci când este necesar
 ```
