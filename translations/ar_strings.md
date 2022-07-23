@@ -6367,3 +6367,13 @@ translated (by machine 🤖) as:
 ```
 قم بتنزيل الوسائط بعد المزامنة عند الحاجة
 ```
+
+
+## Translation Key: auto_sync_description
+```
+Sync with the cloud automatically when changes are detected
+```
+translated (by machine 🤖) as:
+```
+قم بالمزامنة مع السحابة تلقائيًا عند اكتشاف التغييرات
+```

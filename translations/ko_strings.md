@@ -6367,3 +6367,13 @@ translated (by machine 🤖) as:
 ```
 필요할 때 동기화 후 미디어 다운로드
 ```
+
+
+## Translation Key: auto_sync_description
+```
+Sync with the cloud automatically when changes are detected
+```
+translated (by machine 🤖) as:
+```
+변경 사항이 감지되면 클라우드와 자동으로 동기화
+```

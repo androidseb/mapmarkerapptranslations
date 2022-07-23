@@ -6367,3 +6367,13 @@ translated (by machine 🤖) as:
 ```
 ទាញយកមេឌៀបន្ទាប់ពីធ្វើសមកាលកម្មនៅពេលចាំបាច់
 ```
+
+
+## Translation Key: auto_sync_description
+```
+Sync with the cloud automatically when changes are detected
+```
+translated (by machine 🤖) as:
+```
+ធ្វើសមកាលកម្មជាមួយពពកដោយស្វ័យប្រវត្តិនៅពេលដែលការផ្លាស់ប្តូរត្រូវបានរកឃើញ
+```

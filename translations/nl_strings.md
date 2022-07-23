@@ -6361,3 +6361,13 @@ translated (by machine 🤖) as:
 ```
 Media downloaden na synchronisatie wanneer nodig
 ```
+
+
+## Translation Key: auto_sync_description
+```
+Sync with the cloud automatically when changes are detected
+```
+translated (by machine 🤖) as:
+```
+Automatisch synchroniseren met de cloud wanneer er wijzigingen worden gedetecteerd
+```

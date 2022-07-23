@@ -6367,3 +6367,13 @@ translated (by machine 🤖) as:
 ```
 W razie potrzeby pobierz multimedia po synchronizacji
 ```
+
+
+## Translation Key: auto_sync_description
+```
+Sync with the cloud automatically when changes are detected
+```
+translated (by machine 🤖) as:
+```
+Synchronizuj z chmurą automatycznie po wykryciu zmian
+```

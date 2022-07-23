@@ -6335,7 +6335,7 @@ The sync was aborted because the following file could you be found: %s. To resol
 ```
 translated (by machine 🤖) as:
 ```
-The sync was aborted because the following file could you be found: %s. To resolve this, you can either restore the missing file manually or change the app's settings to not download media during sync.
+La synchronisation a été interrompue car le fichier suivant n'a pas pu être trouvé : %s. Pour résoudre cela, vous pouvez restaurer le fichier manquant manuellement, ou changer les réglages de l'application pour ne pas télécharger les médias pendant la synchronisation.
 ```
 
 
@@ -6345,7 +6345,7 @@ Sync media download policy
 ```
 translated (by machine 🤖) as:
 ```
-Sync media download policy
+Politique de téléchargement des médias
 ```
 
 
@@ -6355,7 +6355,7 @@ Download all media during sync
 ```
 translated (by machine 🤖) as:
 ```
-Download all media during sync
+Télécharger tous les médias durant la synchronisation
 ```
 
 
@@ -6365,5 +6365,15 @@ Download media after sync when needed
 ```
 translated (by machine 🤖) as:
 ```
-Download media after sync when needed
+Télécharger les médias après la synchronisation, au besoin
+```
+
+
+## Translation Key: auto_sync_description
+```
+Sync with the cloud automatically when changes are detected
+```
+translated (by machine 🤖) as:
+```
+Synchroniser avec le cloud automatiquement lorsque des changements sont détectés
 ```

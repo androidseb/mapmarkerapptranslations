@@ -6366,3 +6366,13 @@ translated (by machine 🤖) as:
 ```
 Atsisiųskite laikmeną po sinchronizavimo, kai reikia
 ```
+
+
+## Translation Key: auto_sync_description
+```
+Sync with the cloud automatically when changes are detected
+```
+translated (by machine 🤖) as:
+```
+Sinchronizuokite su debesimi automatiškai, kai aptinkami pakeitimai
+```

@@ -6367,3 +6367,13 @@ translated (by machine 🤖) as:
 ```
 Λήψη πολυμέσων μετά το συγχρονισμό όταν χρειάζεται
 ```
+
+
+## Translation Key: auto_sync_description
+```
+Sync with the cloud automatically when changes are detected
+```
+translated (by machine 🤖) as:
+```
+Συγχρονισμός με το cloud αυτόματα όταν εντοπίζονται αλλαγές
+```

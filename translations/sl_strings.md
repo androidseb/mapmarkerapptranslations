@@ -6364,3 +6364,13 @@ translated (by machine 🤖) as:
 ```
 Po potrebi prenesite predstavnost po sinhronizaciji
 ```
+
+
+## Translation Key: auto_sync_description
+```
+Sync with the cloud automatically when changes are detected
+```
+translated (by machine 🤖) as:
+```
+Samodejna sinhronizacija z oblakom, ko so zaznane spremembe
+```

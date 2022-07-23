@@ -6368,3 +6368,13 @@ translated (by machine 🤖) as:
 ```
 必要に応じて同期後にメディアをダウンロードする
 ```
+
+
+## Translation Key: auto_sync_description
+```
+Sync with the cloud automatically when changes are detected
+```
+translated (by machine 🤖) as:
+```
+変更が検出されると、クラウドと自動的に同期します
+```

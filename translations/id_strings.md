@@ -6367,3 +6367,13 @@ translated (by machine 🤖) as:
 ```
 Unduh media setelah sinkronisasi bila diperlukan
 ```
+
+
+## Translation Key: auto_sync_description
+```
+Sync with the cloud automatically when changes are detected
+```
+translated (by machine 🤖) as:
+```
+Sinkronkan dengan cloud secara otomatis ketika perubahan terdeteksi
+```

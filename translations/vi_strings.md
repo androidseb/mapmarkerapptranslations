@@ -6367,3 +6367,13 @@ translated (by machine 🤖) as:
 ```
 Tải xuống phương tiện sau khi đồng bộ hóa khi cần
 ```
+
+
+## Translation Key: auto_sync_description
+```
+Sync with the cloud automatically when changes are detected
+```
+translated (by machine 🤖) as:
+```
+Tự động đồng bộ hóa với đám mây khi phát hiện các thay đổi
+```

@@ -6364,3 +6364,13 @@ translated (by machine 🤖) as:
 ```
 Laden Sie bei Bedarf Medien nach der Synchronisierung herunter
 ```
+
+
+## Translation Key: auto_sync_description
+```
+Sync with the cloud automatically when changes are detected
+```
+translated (by machine 🤖) as:
+```
+Synchronisieren Sie automatisch mit der Cloud, wenn Änderungen erkannt werden
+```
