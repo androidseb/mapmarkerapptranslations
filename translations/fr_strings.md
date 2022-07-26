@@ -6333,7 +6333,7 @@ Sébastien
 ```
 The sync was aborted because the following file could you be found: %s. To resolve this, you can either restore the missing file manually or change the app's settings to not download media during sync.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 La synchronisation a été interrompue car le fichier suivant n'a pas pu être trouvé : %s. Pour résoudre cela, vous pouvez restaurer le fichier manquant manuellement, ou changer les réglages de l'application pour ne pas télécharger les médias pendant la synchronisation.
 ```
@@ -6343,7 +6343,7 @@ La synchronisation a été interrompue car le fichier suivant n'a pas pu être t
 ```
 Sync media download policy
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Politique de téléchargement des médias
 ```
@@ -6353,7 +6353,7 @@ Politique de téléchargement des médias
 ```
 Download all media during sync
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Télécharger tous les médias durant la synchronisation
 ```
@@ -6363,7 +6363,7 @@ Télécharger tous les médias durant la synchronisation
 ```
 Download media after sync when needed
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Télécharger les médias après la synchronisation, au besoin
 ```
@@ -6373,7 +6373,67 @@ Télécharger les médias après la synchronisation, au besoin
 ```
 Sync with the cloud automatically when changes are detected
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Synchroniser avec le cloud automatiquement lorsque des changements sont détectés
+```
+
+
+## Translation Key: search_delete_duplicates_select_attributes_hint_text
+```
+Select the attributes to consider when eliminating duplicates. If all attributes are selected, only strictly identical duplicate entries will be removed. If no attributes are selected, duplicate entries with the same location will be removed, regardless of their other attributes.
+```
+translated (by human 👀) as:
+```
+Sélectionnez les attributs à considérer lors de l'élimination des doublons. Si aucun attribut n'est sélectionné, les doublons avec la même position seront supprimés, quels que soient leurs autres attributs.
+```
+
+
+## Translation Key: action_delete_duplicates
+```
+Delete duplicates
+```
+translated (by human 👀) as:
+```
+Supprimer doublons
+```
+
+
+## Translation Key: searching_for_duplicates
+```
+Searching for duplicates…
+```
+translated (by human 👀) as:
+```
+Recherche des doublons…
+```
+
+
+## Translation Key: duplicates_deletion_confirmation_message
+```
+Found %d duplicates. Are you sure you want to delete those duplicates?
+```
+translated (by human 👀) as:
+```
+%d doublons trouvés. Êtes-vous sûr de vouloir supprimer ces doublons ?
+```
+
+
+## Translation Key: poi_attribute_icon
+```
+Icon
+```
+translated (by human 👀) as:
+```
+Icône
+```
+
+
+## Translation Key: poi_attribute_color
+```
+Color
+```
+translated (by human 👀) as:
+```
+Couleur
 ```

@@ -6377,3 +6377,63 @@ translated (by machine 🤖) as:
 ```
 Sincronizza automaticamente con il cloud quando vengono rilevate modifiche
 ```
+
+
+## Translation Key: search_delete_duplicates_select_attributes_hint_text
+```
+Select the attributes to consider when eliminating duplicates. If all attributes are selected, only strictly identical duplicate entries will be removed. If no attributes are selected, duplicate entries with the same location will be removed, regardless of their other attributes.
+```
+translated (by machine 🤖) as:
+```
+Seleziona gli attributi da considerare quando elimini i duplicati. Se vengono selezionati tutti gli attributi, verranno rimosse solo le voci duplicate rigorosamente identiche. Se non vengono selezionati attributi, le voci duplicate con la stessa posizione verranno rimosse, indipendentemente dagli altri attributi.
+```
+
+
+## Translation Key: action_delete_duplicates
+```
+Delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Elimina i duplicati
+```
+
+
+## Translation Key: searching_for_duplicates
+```
+Searching for duplicates…
+```
+translated (by machine 🤖) as:
+```
+Ricerca di duplicati...
+```
+
+
+## Translation Key: duplicates_deletion_confirmation_message
+```
+Found %d duplicates. Are you sure you want to delete those duplicates?
+```
+translated (by machine 🤖) as:
+```
+Trovato %d duplicati. Sei sicuro di voler eliminare quei duplicati?
+```
+
+
+## Translation Key: poi_attribute_icon
+```
+Icon
+```
+translated (by machine 🤖) as:
+```
+Icona
+```
+
+
+## Translation Key: poi_attribute_color
+```
+Color
+```
+translated (by machine 🤖) as:
+```
+Colore
+```

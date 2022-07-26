@@ -6377,3 +6377,63 @@ translated (by machine 🤖) as:
 ```
 סנכרן עם הענן באופן אוטומטי כאשר מתגלים שינויים
 ```
+
+
+## Translation Key: search_delete_duplicates_select_attributes_hint_text
+```
+Select the attributes to consider when eliminating duplicates. If all attributes are selected, only strictly identical duplicate entries will be removed. If no attributes are selected, duplicate entries with the same location will be removed, regardless of their other attributes.
+```
+translated (by machine 🤖) as:
+```
+בחר את התכונות שיש לקחת בחשבון בעת ביטול כפילויות. אם כל התכונות נבחרות, יוסרו רק ערכים כפולים זהים לחלוטין. אם לא נבחרו תכונות, ערכים כפולים עם אותו מיקום יוסרו, ללא קשר לתכונות האחרות שלהם.
+```
+
+
+## Translation Key: action_delete_duplicates
+```
+Delete duplicates
+```
+translated (by machine 🤖) as:
+```
+מחק כפילויות
+```
+
+
+## Translation Key: searching_for_duplicates
+```
+Searching for duplicates…
+```
+translated (by machine 🤖) as:
+```
+מחפש כפילויות...
+```
+
+
+## Translation Key: duplicates_deletion_confirmation_message
+```
+Found %d duplicates. Are you sure you want to delete those duplicates?
+```
+translated (by machine 🤖) as:
+```
+נמצאו %d כפילויות. האם אתה בטוח שברצונך למחוק את הכפילויות האלה?
+```
+
+
+## Translation Key: poi_attribute_icon
+```
+Icon
+```
+translated (by machine 🤖) as:
+```
+סמל
+```
+
+
+## Translation Key: poi_attribute_color
+```
+Color
+```
+translated (by machine 🤖) as:
+```
+צֶבַע
+```

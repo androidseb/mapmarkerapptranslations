@@ -6377,3 +6377,63 @@ translated (by machine 🤖) as:
 ```
 Sincronitza automàticament amb el núvol quan es detecten canvis
 ```
+
+
+## Translation Key: search_delete_duplicates_select_attributes_hint_text
+```
+Select the attributes to consider when eliminating duplicates. If all attributes are selected, only strictly identical duplicate entries will be removed. If no attributes are selected, duplicate entries with the same location will be removed, regardless of their other attributes.
+```
+translated (by machine 🤖) as:
+```
+Seleccioneu els atributs a tenir en compte a l'hora d'eliminar duplicats. Si es seleccionen tots els atributs, només s'eliminaran les entrades duplicades estrictament idèntiques. Si no se selecciona cap atribut, s'eliminaran les entrades duplicades amb la mateixa ubicació, independentment dels seus altres atributs.
+```
+
+
+## Translation Key: action_delete_duplicates
+```
+Delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Elimina els duplicats
+```
+
+
+## Translation Key: searching_for_duplicates
+```
+Searching for duplicates…
+```
+translated (by machine 🤖) as:
+```
+S'estan cercant duplicats...
+```
+
+
+## Translation Key: duplicates_deletion_confirmation_message
+```
+Found %d duplicates. Are you sure you want to delete those duplicates?
+```
+translated (by machine 🤖) as:
+```
+S'han trobat %d duplicats. Esteu segur que voleu suprimir aquests duplicats?
+```
+
+
+## Translation Key: poi_attribute_icon
+```
+Icon
+```
+translated (by machine 🤖) as:
+```
+Icona
+```
+
+
+## Translation Key: poi_attribute_color
+```
+Color
+```
+translated (by machine 🤖) as:
+```
+Color
+```

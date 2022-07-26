@@ -6371,3 +6371,63 @@ translated (by machine 🤖) as:
 ```
 Automatisch synchroniseren met de cloud wanneer er wijzigingen worden gedetecteerd
 ```
+
+
+## Translation Key: search_delete_duplicates_select_attributes_hint_text
+```
+Select the attributes to consider when eliminating duplicates. If all attributes are selected, only strictly identical duplicate entries will be removed. If no attributes are selected, duplicate entries with the same location will be removed, regardless of their other attributes.
+```
+translated (by machine 🤖) as:
+```
+Selecteer de kenmerken waarmee u rekening moet houden bij het verwijderen van duplicaten. Als alle kenmerken zijn geselecteerd, worden alleen strikt identieke dubbele vermeldingen verwijderd. Als er geen kenmerken zijn geselecteerd, worden dubbele vermeldingen met dezelfde locatie verwijderd, ongeacht hun andere kenmerken.
+```
+
+
+## Translation Key: action_delete_duplicates
+```
+Delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Duplicaten verwijderen
+```
+
+
+## Translation Key: searching_for_duplicates
+```
+Searching for duplicates…
+```
+translated (by machine 🤖) as:
+```
+Zoeken naar duplicaten…
+```
+
+
+## Translation Key: duplicates_deletion_confirmation_message
+```
+Found %d duplicates. Are you sure you want to delete those duplicates?
+```
+translated (by machine 🤖) as:
+```
+%d duplicaten gevonden. Weet u zeker dat u die duplicaten wilt verwijderen?
+```
+
+
+## Translation Key: poi_attribute_icon
+```
+Icon
+```
+translated (by machine 🤖) as:
+```
+Icoon
+```
+
+
+## Translation Key: poi_attribute_color
+```
+Color
+```
+translated (by machine 🤖) as:
+```
+Kleur
+```

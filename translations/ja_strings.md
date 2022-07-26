@@ -6378,3 +6378,63 @@ translated (by machine 🤖) as:
 ```
 変更が検出されると、クラウドと自動的に同期します
 ```
+
+
+## Translation Key: search_delete_duplicates_select_attributes_hint_text
+```
+Select the attributes to consider when eliminating duplicates. If all attributes are selected, only strictly identical duplicate entries will be removed. If no attributes are selected, duplicate entries with the same location will be removed, regardless of their other attributes.
+```
+translated (by machine 🤖) as:
+```
+重複を排除するときに考慮する属性を選択します。すべての属性が選択されている場合、厳密に同一の重複エントリのみが削除されます。属性が選択されていない場合、他の属性に関係なく、同じ場所にある重複エントリは削除されます。
+```
+
+
+## Translation Key: action_delete_duplicates
+```
+Delete duplicates
+```
+translated (by machine 🤖) as:
+```
+重複を削除する
+```
+
+
+## Translation Key: searching_for_duplicates
+```
+Searching for duplicates…
+```
+translated (by machine 🤖) as:
+```
+重複を検索しています…
+```
+
+
+## Translation Key: duplicates_deletion_confirmation_message
+```
+Found %d duplicates. Are you sure you want to delete those duplicates?
+```
+translated (by machine 🤖) as:
+```
+%d個の重複が見つかりました。それらの重複を削除してもよろしいですか？
+```
+
+
+## Translation Key: poi_attribute_icon
+```
+Icon
+```
+translated (by machine 🤖) as:
+```
+アイコン
+```
+
+
+## Translation Key: poi_attribute_color
+```
+Color
+```
+translated (by machine 🤖) as:
+```
+色
+```

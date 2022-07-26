@@ -6377,3 +6377,63 @@ translated (by machine 🤖) as:
 ```
 Tự động đồng bộ hóa với đám mây khi phát hiện các thay đổi
 ```
+
+
+## Translation Key: search_delete_duplicates_select_attributes_hint_text
+```
+Select the attributes to consider when eliminating duplicates. If all attributes are selected, only strictly identical duplicate entries will be removed. If no attributes are selected, duplicate entries with the same location will be removed, regardless of their other attributes.
+```
+translated (by machine 🤖) as:
+```
+Chọn các thuộc tính để xem xét khi loại bỏ các bản sao. Nếu tất cả các thuộc tính được chọn, chỉ những mục nhập trùng lặp hoàn toàn giống nhau mới bị xóa. Nếu không có thuộc tính nào được chọn, các mục nhập trùng lặp có cùng vị trí sẽ bị xóa, bất kể các thuộc tính khác của chúng là gì.
+```
+
+
+## Translation Key: action_delete_duplicates
+```
+Delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Xóa các bản sao
+```
+
+
+## Translation Key: searching_for_duplicates
+```
+Searching for duplicates…
+```
+translated (by machine 🤖) as:
+```
+Tìm kiếm các bản sao…
+```
+
+
+## Translation Key: duplicates_deletion_confirmation_message
+```
+Found %d duplicates. Are you sure you want to delete those duplicates?
+```
+translated (by machine 🤖) as:
+```
+Đã tìm thấy %d bản sao. Bạn có chắc chắn muốn xóa các bản sao đó không?
+```
+
+
+## Translation Key: poi_attribute_icon
+```
+Icon
+```
+translated (by machine 🤖) as:
+```
+Biểu tượng
+```
+
+
+## Translation Key: poi_attribute_color
+```
+Color
+```
+translated (by machine 🤖) as:
+```
+Màu sắc
+```

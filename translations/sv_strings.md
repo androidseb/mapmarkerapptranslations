@@ -6377,3 +6377,63 @@ translated (by machine 🤖) as:
 ```
 Synkronisera automatiskt med molnet när ändringar upptäcks
 ```
+
+
+## Translation Key: search_delete_duplicates_select_attributes_hint_text
+```
+Select the attributes to consider when eliminating duplicates. If all attributes are selected, only strictly identical duplicate entries will be removed. If no attributes are selected, duplicate entries with the same location will be removed, regardless of their other attributes.
+```
+translated (by machine 🤖) as:
+```
+Välj de attribut som ska beaktas när du tar bort dubbletter. Om alla attribut är valda, kommer endast strikt identiska dubbletter att tas bort. Om inga attribut väljs kommer dubbletter av poster med samma plats att tas bort, oavsett deras andra attribut.
+```
+
+
+## Translation Key: action_delete_duplicates
+```
+Delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Ta bort dubbletter
+```
+
+
+## Translation Key: searching_for_duplicates
+```
+Searching for duplicates…
+```
+translated (by machine 🤖) as:
+```
+Söker efter dubbletter...
+```
+
+
+## Translation Key: duplicates_deletion_confirmation_message
+```
+Found %d duplicates. Are you sure you want to delete those duplicates?
+```
+translated (by machine 🤖) as:
+```
+Hittade %d dubbletter. Är du säker på att du vill ta bort dessa dubbletter?
+```
+
+
+## Translation Key: poi_attribute_icon
+```
+Icon
+```
+translated (by machine 🤖) as:
+```
+Ikon
+```
+
+
+## Translation Key: poi_attribute_color
+```
+Color
+```
+translated (by machine 🤖) as:
+```
+Färg
+```

@@ -6377,3 +6377,63 @@ translated (by machine 🤖) as:
 ```
 변경 사항이 감지되면 클라우드와 자동으로 동기화
 ```
+
+
+## Translation Key: search_delete_duplicates_select_attributes_hint_text
+```
+Select the attributes to consider when eliminating duplicates. If all attributes are selected, only strictly identical duplicate entries will be removed. If no attributes are selected, duplicate entries with the same location will be removed, regardless of their other attributes.
+```
+translated (by machine 🤖) as:
+```
+중복 제거 시 고려할 속성을 선택하십시오. 모든 속성을 선택하면 완전히 동일한 중복 항목만 제거됩니다. 속성을 선택하지 않으면 다른 속성에 관계없이 동일한 위치에 있는 중복 항목이 제거됩니다.
+```
+
+
+## Translation Key: action_delete_duplicates
+```
+Delete duplicates
+```
+translated (by machine 🤖) as:
+```
+중복 삭제
+```
+
+
+## Translation Key: searching_for_duplicates
+```
+Searching for duplicates…
+```
+translated (by machine 🤖) as:
+```
+중복 검색 중…
+```
+
+
+## Translation Key: duplicates_deletion_confirmation_message
+```
+Found %d duplicates. Are you sure you want to delete those duplicates?
+```
+translated (by machine 🤖) as:
+```
+중복 %d개를 찾았습니다. 해당 중복 항목을 삭제하시겠습니까?
+```
+
+
+## Translation Key: poi_attribute_icon
+```
+Icon
+```
+translated (by machine 🤖) as:
+```
+상
+```
+
+
+## Translation Key: poi_attribute_color
+```
+Color
+```
+translated (by machine 🤖) as:
+```
+색깔
+```

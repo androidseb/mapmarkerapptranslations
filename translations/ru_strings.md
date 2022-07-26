@@ -6374,3 +6374,63 @@ translated (by machine 🤖) as:
 ```
 Автоматическая синхронизация с облаком при обнаружении изменений
 ```
+
+
+## Translation Key: search_delete_duplicates_select_attributes_hint_text
+```
+Select the attributes to consider when eliminating duplicates. If all attributes are selected, only strictly identical duplicate entries will be removed. If no attributes are selected, duplicate entries with the same location will be removed, regardless of their other attributes.
+```
+translated (by machine 🤖) as:
+```
+Выберите атрибуты, которые следует учитывать при устранении дубликатов. Если выбраны все атрибуты, будут удалены только строго идентичные повторяющиеся записи. Если никакие атрибуты не выбраны, повторяющиеся записи с одним и тем же местоположением будут удалены независимо от других их атрибутов.
+```
+
+
+## Translation Key: action_delete_duplicates
+```
+Delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Удалить дубликаты
+```
+
+
+## Translation Key: searching_for_duplicates
+```
+Searching for duplicates…
+```
+translated (by machine 🤖) as:
+```
+Поиск дубликатов…
+```
+
+
+## Translation Key: duplicates_deletion_confirmation_message
+```
+Found %d duplicates. Are you sure you want to delete those duplicates?
+```
+translated (by machine 🤖) as:
+```
+Найдено %d дубликатов. Вы уверены, что хотите удалить эти дубликаты?
+```
+
+
+## Translation Key: poi_attribute_icon
+```
+Icon
+```
+translated (by machine 🤖) as:
+```
+Значок
+```
+
+
+## Translation Key: poi_attribute_color
+```
+Color
+```
+translated (by machine 🤖) as:
+```
+Цвет
+```

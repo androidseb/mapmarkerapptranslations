@@ -6376,3 +6376,63 @@ translated (by machine 🤖) as:
 ```
 Sinchronizuokite su debesimi automatiškai, kai aptinkami pakeitimai
 ```
+
+
+## Translation Key: search_delete_duplicates_select_attributes_hint_text
+```
+Select the attributes to consider when eliminating duplicates. If all attributes are selected, only strictly identical duplicate entries will be removed. If no attributes are selected, duplicate entries with the same location will be removed, regardless of their other attributes.
+```
+translated (by machine 🤖) as:
+```
+Pasirinkite atributus, į kuriuos reikia atsižvelgti šalinant dublikatus. Jei pasirenkami visi atributai, bus pašalinti tik visiškai identiški pasikartojantys įrašai. Jei nepasirinksite jokių atributų, pasikartojantys įrašai su ta pačia vieta bus pašalinti, neatsižvelgiant į kitus jų atributus.
+```
+
+
+## Translation Key: action_delete_duplicates
+```
+Delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Ištrinti dublikatus
+```
+
+
+## Translation Key: searching_for_duplicates
+```
+Searching for duplicates…
+```
+translated (by machine 🤖) as:
+```
+Ieškoma dublikatų…
+```
+
+
+## Translation Key: duplicates_deletion_confirmation_message
+```
+Found %d duplicates. Are you sure you want to delete those duplicates?
+```
+translated (by machine 🤖) as:
+```
+Rasta %d dublikatų. Ar tikrai norite ištrinti tuos dublikatus?
+```
+
+
+## Translation Key: poi_attribute_icon
+```
+Icon
+```
+translated (by machine 🤖) as:
+```
+Piktograma
+```
+
+
+## Translation Key: poi_attribute_color
+```
+Color
+```
+translated (by machine 🤖) as:
+```
+Spalva
+```

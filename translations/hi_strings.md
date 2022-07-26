@@ -6377,3 +6377,63 @@ translated (by machine 🤖) as:
 ```
 परिवर्तनों का पता चलने पर स्वचालित रूप से क्लाउड के साथ सिंक करें
 ```
+
+
+## Translation Key: search_delete_duplicates_select_attributes_hint_text
+```
+Select the attributes to consider when eliminating duplicates. If all attributes are selected, only strictly identical duplicate entries will be removed. If no attributes are selected, duplicate entries with the same location will be removed, regardless of their other attributes.
+```
+translated (by machine 🤖) as:
+```
+डुप्लिकेट को हटाते समय विचार करने के लिए विशेषताओं का चयन करें। यदि सभी विशेषताओं का चयन किया जाता है, तो केवल समान रूप से समान डुप्लिकेट प्रविष्टियां हटा दी जाएंगी। यदि कोई विशेषता नहीं चुनी जाती है, तो उनकी अन्य विशेषताओं पर ध्यान दिए बिना समान स्थान वाली डुप्लिकेट प्रविष्टियां हटा दी जाएंगी।
+```
+
+
+## Translation Key: action_delete_duplicates
+```
+Delete duplicates
+```
+translated (by machine 🤖) as:
+```
+डुप्लिकेट हटाएं
+```
+
+
+## Translation Key: searching_for_duplicates
+```
+Searching for duplicates…
+```
+translated (by machine 🤖) as:
+```
+डुप्लीकेट खोजे जा रहे हैं…
+```
+
+
+## Translation Key: duplicates_deletion_confirmation_message
+```
+Found %d duplicates. Are you sure you want to delete those duplicates?
+```
+translated (by machine 🤖) as:
+```
+%d डुप्लीकेट मिले। क्या आप वाकई उन डुप्लिकेट को हटाना चाहते हैं?
+```
+
+
+## Translation Key: poi_attribute_icon
+```
+Icon
+```
+translated (by machine 🤖) as:
+```
+आइकन
+```
+
+
+## Translation Key: poi_attribute_color
+```
+Color
+```
+translated (by machine 🤖) as:
+```
+रंग
+```

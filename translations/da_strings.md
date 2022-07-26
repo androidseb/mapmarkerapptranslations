@@ -6381,3 +6381,63 @@ translated (by machine 🤖) as:
 ```
 Synkroniser automatisk med skyen, når der registreres ændringer
 ```
+
+
+## Translation Key: search_delete_duplicates_select_attributes_hint_text
+```
+Select the attributes to consider when eliminating duplicates. If all attributes are selected, only strictly identical duplicate entries will be removed. If no attributes are selected, duplicate entries with the same location will be removed, regardless of their other attributes.
+```
+translated (by machine 🤖) as:
+```
+Vælg de attributter, der skal tages i betragtning, når dubletter fjernes. Hvis alle attributter er valgt, vil kun strengt identiske duplikerede poster blive fjernet. Hvis der ikke er valgt nogen attributter, vil duplikerede poster med samme placering blive fjernet, uanset deres øvrige attributter.
+```
+
+
+## Translation Key: action_delete_duplicates
+```
+Delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Slet dubletter
+```
+
+
+## Translation Key: searching_for_duplicates
+```
+Searching for duplicates…
+```
+translated (by machine 🤖) as:
+```
+Søger efter dubletter...
+```
+
+
+## Translation Key: duplicates_deletion_confirmation_message
+```
+Found %d duplicates. Are you sure you want to delete those duplicates?
+```
+translated (by machine 🤖) as:
+```
+Fundet %d dubletter. Er du sikker på, at du vil slette disse dubletter?
+```
+
+
+## Translation Key: poi_attribute_icon
+```
+Icon
+```
+translated (by machine 🤖) as:
+```
+Ikon
+```
+
+
+## Translation Key: poi_attribute_color
+```
+Color
+```
+translated (by machine 🤖) as:
+```
+Farve
+```

@@ -6377,3 +6377,63 @@ translated (by machine 🤖) as:
 ```
 Po zjištění změn se automaticky synchronizuje s cloudem
 ```
+
+
+## Translation Key: search_delete_duplicates_select_attributes_hint_text
+```
+Select the attributes to consider when eliminating duplicates. If all attributes are selected, only strictly identical duplicate entries will be removed. If no attributes are selected, duplicate entries with the same location will be removed, regardless of their other attributes.
+```
+translated (by machine 🤖) as:
+```
+Vyberte atributy, které je třeba vzít v úvahu při odstraňování duplicit. Pokud jsou vybrány všechny atributy, budou odstraněny pouze přísně identické duplicitní položky. Pokud nejsou vybrány žádné atributy, budou odstraněny duplicitní položky se stejným umístěním bez ohledu na jejich ostatní atributy.
+```
+
+
+## Translation Key: action_delete_duplicates
+```
+Delete duplicates
+```
+translated (by machine 🤖) as:
+```
+Odstraňte duplikáty
+```
+
+
+## Translation Key: searching_for_duplicates
+```
+Searching for duplicates…
+```
+translated (by machine 🤖) as:
+```
+Vyhledávání duplikátů…
+```
+
+
+## Translation Key: duplicates_deletion_confirmation_message
+```
+Found %d duplicates. Are you sure you want to delete those duplicates?
+```
+translated (by machine 🤖) as:
+```
+Nalezeno %d duplikátů. Opravdu chcete tyto duplikáty smazat?
+```
+
+
+## Translation Key: poi_attribute_icon
+```
+Icon
+```
+translated (by machine 🤖) as:
+```
+Ikona
+```
+
+
+## Translation Key: poi_attribute_color
+```
+Color
+```
+translated (by machine 🤖) as:
+```
+Barva
+```
