@@ -6437,3 +6437,63 @@ translated (by machine 🤖) as:
 ```
 Kolor
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+Włącz plik dziennika
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+Zacznij zapisywać historię zdarzeń wykonania aplikacji do pliku dziennika
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+Wyłącz plik dziennika
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+Zatrzymaj zapisywanie historii zdarzeń wykonania aplikacji w pliku dziennika i usuń plik dziennika
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+Eksportuj plik dziennika
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+Wyeksportuj plik dziennika, aby można go było udostępnić do celów debugowania
+```

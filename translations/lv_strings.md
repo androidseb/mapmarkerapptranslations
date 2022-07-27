@@ -6437,3 +6437,63 @@ translated (by machine 🤖) as:
 ```
 Krāsa
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+Iespējot žurnāla failu
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+Sāciet žurnālfailā rakstīt lietotņu izpildes notikumu vēsturi
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+Atspējot žurnāla failu
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+Pārtrauciet lietotņu izpildes notikumu vēstures ierakstīšanu žurnālfailā un izdzēsiet žurnāla failu
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+Eksportēt žurnāla failu
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+Eksportējiet žurnāla failu, lai to varētu koplietot atkļūdošanas nolūkos
+```

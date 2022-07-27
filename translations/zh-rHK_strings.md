@@ -6437,3 +6437,63 @@ translated (by machine 🤖) as:
 ```
 顏色
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+啟用日誌文件
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+開始將應用執行事件歷史記錄寫入日誌文件
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+禁用日誌文件
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+停止將應用執行事件歷史寫入日誌文件，並刪除日誌文件
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+導出日誌文件
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+導出日誌文件，以便為調試目的共享它
+```

@@ -6437,3 +6437,63 @@ translated (by machine 🤖) as:
 ```
 Väri
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+Ota lokitiedosto käyttöön
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+Aloita sovellusten suoritushistorian kirjoittaminen lokitiedostoon
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+Poista lokitiedosto käytöstä
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+Lopeta sovellusten suoritushistorian kirjoittaminen lokitiedostoon ja poista lokitiedosto
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+Vie lokitiedosto
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+Vie lokitiedosto, jotta se voidaan jakaa virheenkorjausta varten
+```

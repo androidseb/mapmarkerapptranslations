@@ -6437,3 +6437,63 @@ translated (by machine 🤖) as:
 ```
 색깔
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+로그 파일 활성화
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+앱 실행 이벤트 기록을 로그 파일에 쓰기 시작
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+로그 파일 비활성화
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+앱 실행 이벤트 기록을 로그 파일에 쓰지 않고 로그 파일을 삭제합니다.
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+로그 파일 내보내기
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+디버깅 목적으로 공유할 수 있도록 로그 파일 내보내기
+```

@@ -6437,3 +6437,63 @@ translated (by machine 🤖) as:
 ```
 Warna
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+Aktifkan file log
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+Mulai menulis riwayat peristiwa eksekusi aplikasi ke file log
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+Nonaktifkan file log
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+Berhenti menulis riwayat peristiwa eksekusi aplikasi ke file log, dan hapus file log
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+Ekspor file log
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+Ekspor file log sehingga dapat dibagikan untuk keperluan debugging
+```

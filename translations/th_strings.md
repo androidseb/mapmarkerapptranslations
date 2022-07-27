@@ -6438,3 +6438,63 @@ translated (by machine 🤖) as:
 ```
 สี
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+เปิดใช้งานไฟล์บันทึก
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+เริ่มเขียนประวัติเหตุการณ์การดำเนินการแอปไปยังไฟล์บันทึก
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+ปิดการใช้งานไฟล์บันทึก
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+หยุดเขียนประวัติเหตุการณ์การดำเนินการแอปไปยังไฟล์บันทึก และลบไฟล์บันทึก
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+ส่งออกไฟล์บันทึก
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+ส่งออกไฟล์บันทึกเพื่อให้สามารถแชร์เพื่อวัตถุประสงค์ในการดีบัก
+```

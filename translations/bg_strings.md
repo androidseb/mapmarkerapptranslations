@@ -6437,3 +6437,63 @@ translated (by machine 🤖) as:
 ```
 Цвят
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+Активиране на регистрационния файл
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+Започнете да записвате хронология на събитията за изпълнение на приложението в регистрационния файл
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+Деактивиране на регистрационния файл
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+Спрете да записвате хронологията на събитията за изпълнение на приложението в регистрационния файл и го изтрийте
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+Експортиране на лог файл
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+Експортирайте регистрационния файл, така че да може да бъде споделен за целите на отстраняване на грешки
+```

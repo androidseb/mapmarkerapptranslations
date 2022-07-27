@@ -6437,3 +6437,63 @@ translated (by machine 🤖) as:
 ```
 ពណ៌
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+បើកឯកសារកំណត់ហេតុ
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+ចាប់ផ្តើមសរសេរប្រវត្តិព្រឹត្តិការណ៍ប្រតិបត្តិកម្មវិធីទៅកាន់ឯកសារកំណត់ហេតុ
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+បិទឯកសារកំណត់ហេតុ
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+បញ្ឈប់ការសរសេរប្រវត្តិព្រឹត្តិការណ៍ប្រតិបត្តិកម្មវិធីទៅកាន់ឯកសារកំណត់ហេតុ ហើយលុបឯកសារកំណត់ហេតុ
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+នាំចេញឯកសារកំណត់ហេតុ
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+នាំចេញឯកសារកំណត់ហេតុ ដូច្នេះវាអាចត្រូវបានចែករំលែកសម្រាប់គោលបំណងបំបាត់កំហុស
+```

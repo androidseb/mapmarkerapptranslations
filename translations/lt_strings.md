@@ -6436,3 +6436,63 @@ translated (by machine 🤖) as:
 ```
 Spalva
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+Įgalinti žurnalo failą
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+Pradėkite rašyti programos vykdymo įvykių istoriją į žurnalo failą
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+Išjungti žurnalo failą
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+Nustokite rašyti programos vykdymo įvykių istoriją į žurnalo failą ir ištrinkite žurnalo failą
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+Eksportuoti žurnalo failą
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+Eksportuokite žurnalo failą, kad jį būtų galima bendrinti derinimo tikslais
+```

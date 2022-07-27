@@ -6437,3 +6437,63 @@ translated (by machine 🤖) as:
 ```
 Szín
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+Naplófájl engedélyezése
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+Kezdje el írni az alkalmazás-végrehajtási események előzményeit a naplófájlba
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+Naplófájl letiltása
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+Állítsa le az alkalmazás-végrehajtási események előzményeinek a naplófájlba írását, és törölje a naplófájlt
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+Naplófájl exportálása
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+Exportálja a naplófájlt, hogy megoszthassa hibakeresési célokra
+```

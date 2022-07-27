@@ -6434,3 +6434,63 @@ translated (by machine 🤖) as:
 ```
 Farbe
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+Protokolldatei aktivieren
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+Beginnen Sie mit dem Schreiben des App-Ausführungsereignisverlaufs in die Protokolldatei
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+Protokolldatei deaktivieren
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+Beenden Sie das Schreiben des App-Ausführungsereignisverlaufs in die Protokolldatei und löschen Sie die Protokolldatei
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+Protokolldatei exportieren
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+Exportieren Sie die Protokolldatei, damit sie zu Debugging-Zwecken freigegeben werden kann
+```

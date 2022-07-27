@@ -6437,3 +6437,63 @@ translated (by machine 🤖) as:
 ```
 Χρώμα
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+Ενεργοποίηση αρχείου καταγραφής
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+Ξεκινήστε να γράφετε το ιστορικό συμβάντων εκτέλεσης εφαρμογής στο αρχείο καταγραφής
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+Απενεργοποιήστε το αρχείο καταγραφής
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+Σταματήστε να γράφετε το ιστορικό συμβάντων εκτέλεσης εφαρμογής στο αρχείο καταγραφής και διαγράψτε το αρχείο καταγραφής
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+Εξαγωγή αρχείου καταγραφής
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+Εξαγάγετε το αρχείο καταγραφής ώστε να μπορεί να κοινοποιηθεί για σκοπούς εντοπισμού σφαλμάτων
+```

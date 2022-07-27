@@ -6437,3 +6437,63 @@ translated (by machine 🤖) as:
 ```
 Màu sắc
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+Bật tệp nhật ký
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+Bắt đầu ghi lịch sử sự kiện thực thi ứng dụng vào tệp nhật ký
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+Tắt tệp nhật ký
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+Ngừng ghi lịch sử sự kiện thực thi ứng dụng vào tệp nhật ký và xóa tệp nhật ký
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+Xuất tệp nhật ký
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+Xuất tệp nhật ký để nó có thể được chia sẻ cho mục đích gỡ lỗi
+```

@@ -6437,3 +6437,63 @@ translated (by machine 🤖) as:
 ```
 Culoare
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+Activați fișierul jurnal
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+Începeți să scrieți istoricul evenimentelor de execuție a aplicației în fișierul jurnal
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+Dezactivează fișierul jurnal
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+Nu mai scrieți istoricul evenimentelor de execuție a aplicației în fișierul jurnal și ștergeți fișierul jurnal
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+Exportați fișierul jurnal
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+Exportați fișierul jurnal, astfel încât să poată fi partajat în scopuri de depanare
+```

@@ -6437,3 +6437,63 @@ translated (by human 👀) as:
 ```
 Couleur
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by human 👀) as:
+```
+Activer fichier journal
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by human 👀) as:
+```
+Commencer à écrire l'historique des événements d'exécution de l'application vers le fichier journal
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by human 👀) as:
+```
+Désactiver fichier journal
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by human 👀) as:
+```
+Arrêter d'écrire l'historique des événements d'exécution de l'application vers le fichier journal, et supprimer le fichier journal
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by human 👀) as:
+```
+Exporter fichier journal
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by human 👀) as:
+```
+Exporter le fichier journal pour qu'il puisse être partagé à des fins de débogage
+```

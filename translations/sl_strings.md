@@ -6434,3 +6434,63 @@ translated (by machine 🤖) as:
 ```
 barva
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+Omogoči dnevniško datoteko
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+Začnite pisati zgodovino dogodkov izvajanja aplikacije v dnevniško datoteko
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+Onemogoči dnevniško datoteko
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+Prenehajte pisati zgodovino dogodkov izvajanja aplikacije v datoteko dnevnika in izbrišite datoteko dnevnika
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+Izvozi dnevniško datoteko
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+Izvozite dnevniško datoteko, da jo lahko delite za namene odpravljanja napak
+```

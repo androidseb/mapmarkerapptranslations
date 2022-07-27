@@ -6437,3 +6437,63 @@ translated (by machine 🤖) as:
 ```
 Farba
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+Povoliť súbor denníka
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+Začnite zapisovať históriu udalostí spustenia aplikácie do súboru denníka
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+Zakázať súbor denníka
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+Zastavte zapisovanie histórie udalostí spustenia aplikácie do súboru denníka a odstráňte súbor denníka
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+Exportovať súbor denníka
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+Exportujte súbor denníka, aby ho bolo možné zdieľať na účely ladenia
+```

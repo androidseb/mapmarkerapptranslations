@@ -6437,3 +6437,63 @@ translated (by machine 🤖) as:
 ```
 रंग
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+लॉग फ़ाइल सक्षम करें
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+लॉग फ़ाइल में ऐप निष्पादन ईवेंट इतिहास लिखना प्रारंभ करें
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+लॉग फ़ाइल अक्षम करें
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+लॉग फ़ाइल में ऐप निष्पादन ईवेंट इतिहास लिखना बंद करें, और लॉग फ़ाइल हटाएं
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+निर्यात लॉग फ़ाइल
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+लॉग फ़ाइल निर्यात करें ताकि इसे डिबगिंग उद्देश्यों के लिए साझा किया जा सके
+```

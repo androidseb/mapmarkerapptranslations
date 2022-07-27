@@ -6437,3 +6437,63 @@ translated (by machine 🤖) as:
 ```
 Cor
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+Ativar arquivo de log
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+Comece a gravar o histórico de eventos de execução do aplicativo no arquivo de log
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+Desabilitar arquivo de log
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+Pare de gravar o histórico de eventos de execução do aplicativo no arquivo de log e exclua o arquivo de log
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+Exportar arquivo de registro
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+Exporte o arquivo de log para que possa ser compartilhado para fins de depuração
+```

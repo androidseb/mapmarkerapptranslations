@@ -6437,3 +6437,63 @@ translated (by machine 🤖) as:
 ```
 Color
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+Habilita el fitxer de registre
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+Comenceu a escriure l'historial d'esdeveniments d'execució de l'aplicació al fitxer de registre
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+Desactiva el fitxer de registre
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+Deixeu d'escriure l'historial d'esdeveniments d'execució de l'aplicació al fitxer de registre i suprimiu-lo
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+Exporta el fitxer de registre
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+Exporteu el fitxer de registre perquè es pugui compartir amb finalitats de depuració
+```

@@ -6437,3 +6437,63 @@ translated (by machine 🤖) as:
 ```
 Barva
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+Povolit soubor protokolu
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+Začněte zapisovat historii událostí spuštění aplikace do souboru protokolu
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+Zakázat soubor protokolu
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+Zastavte zápis historie událostí spuštění aplikace do souboru protokolu a odstraňte soubor protokolu
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+Exportujte soubor protokolu
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+Exportujte soubor protokolu, aby jej bylo možné sdílet pro účely ladění
+```

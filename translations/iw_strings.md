@@ -6437,3 +6437,63 @@ translated (by machine 🤖) as:
 ```
 צֶבַע
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+אפשר קובץ יומן
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+התחל לכתוב היסטוריית אירועי ביצוע אפליקציה לקובץ היומן
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+השבת את קובץ היומן
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+הפסק לכתוב היסטוריית אירועי ביצוע של אפליקציה לקובץ היומן, ומחק את קובץ היומן
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+ייצוא קובץ יומן
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+ייצא את קובץ היומן כך שניתן יהיה לשתף אותו למטרות ניפוי באגים
+```

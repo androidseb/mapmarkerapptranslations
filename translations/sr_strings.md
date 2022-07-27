@@ -6437,3 +6437,63 @@ translated (by machine 🤖) as:
 ```
 Боја
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+Омогући датотеку евиденције
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+Почните да пишете историју догађаја извршавања апликације у датотеку евиденције
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+Онемогући датотеку евиденције
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+Зауставите писање историје догађаја извршавања апликације у датотеку евиденције и избришите датотеку евиденције
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+Извези датотеку евиденције
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+Извезите датотеку евиденције тако да се може делити за потребе отклањања грешака
+```

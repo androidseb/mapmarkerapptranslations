@@ -6437,3 +6437,63 @@ translated (by machine 🤖) as:
 ```
 اللون
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+قم بتمكين ملف السجل
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+ابدأ في كتابة محفوظات أحداث تنفيذ التطبيق في ملف السجل
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+تعطيل ملف السجل
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+توقف عن كتابة محفوظات أحداث تنفيذ التطبيق في ملف السجل ، واحذف ملف السجل
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+تصدير ملف السجل
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+قم بتصدير ملف السجل بحيث يمكن مشاركته لأغراض التصحيح
+```

@@ -6437,3 +6437,63 @@ translated (by machine 🤖) as:
 ```
 Colore
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+Abilita file di registro
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+Inizia a scrivere la cronologia degli eventi di esecuzione dell'app nel file di registro
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+Disabilita il file di registro
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+Interrompi la scrittura della cronologia degli eventi di esecuzione dell'app nel file di registro ed elimina il file di registro
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+Esporta file di registro
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+Esportare il file di registro in modo che possa essere condiviso per scopi di debug
+```

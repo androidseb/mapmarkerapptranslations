@@ -6431,3 +6431,63 @@ translated (by machine 🤖) as:
 ```
 Kleur
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+Logbestand inschakelen
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+Begin met het schrijven van de geschiedenis van app-uitvoeringsgebeurtenissen naar het logbestand
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+Logbestand uitschakelen
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+Stop met het schrijven van de geschiedenis van app-uitvoeringsgebeurtenissen naar het logbestand en verwijder het logbestand
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+Logbestand exporteren
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+Exporteer het logbestand zodat het kan worden gedeeld voor foutopsporingsdoeleinden
+```

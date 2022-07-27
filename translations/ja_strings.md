@@ -6438,3 +6438,63 @@ translated (by machine 🤖) as:
 ```
 色
 ```
+
+
+## Translation Key: enable_log_file_title
+```
+Enable log file
+```
+translated (by machine 🤖) as:
+```
+ログファイルを有効にする
+```
+
+
+## Translation Key: enable_log_file_description
+```
+Start writing app execution events history to the log file
+```
+translated (by machine 🤖) as:
+```
+アプリの実行イベント履歴のログファイルへの書き込みを開始します
+```
+
+
+## Translation Key: disable_log_file_title
+```
+Disable log file
+```
+translated (by machine 🤖) as:
+```
+ログファイルを無効にする
+```
+
+
+## Translation Key: disable_log_file_description
+```
+Stop writing app execution events history to the log file, and delete the log file
+```
+translated (by machine 🤖) as:
+```
+アプリの実行イベント履歴のログファイルへの書き込みを停止し、ログファイルを削除します
+```
+
+
+## Translation Key: export_log_file_title
+```
+Export log file
+```
+translated (by machine 🤖) as:
+```
+ログファイルのエクスポート
+```
+
+
+## Translation Key: export_log_file_description
+```
+Export the log file so that it can be shared for debugging purposes
+```
+translated (by machine 🤖) as:
+```
+ログファイルをエクスポートして、デバッグ目的で共有できるようにします
+```
