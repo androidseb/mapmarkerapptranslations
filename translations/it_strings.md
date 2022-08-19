@@ -37,7 +37,7 @@ No
 ```
 Cancel
 ```
-translated (by DarkMattiew) as:
+translated (by human 👀) as:
 ```
 Annullare
 ```
@@ -107,7 +107,7 @@ Impossibile copiare le coordinate negli appunti
 ```
 Coordinates copied to clipboard
 ```
-translated (by DarkMattiew) as:
+translated (by human 👀) as:
 ```
 Coordinate copiate negli appunti
 ```
@@ -127,7 +127,7 @@ Impossibile accedere all'applicazione directory di salvataggio. Assicurarsi che 
 ```
 Untitled
 ```
-translated (by DarkMattiew) as:
+translated (by human 👀) as:
 ```
 Senza Titolo
 ```
@@ -197,7 +197,7 @@ Impossibile rinominare la cartella, esiste già il nome del destinatario
 ```
 Latitude:
 ```
-translated (by DarkMattiew) as:
+translated (by human 👀) as:
 ```
 Latitudine:
 ```
@@ -227,7 +227,7 @@ Impossibile scrivere il file.
 ```
 Import/Export
 ```
-translated (by DarkMattiew) as:
+translated (by human 👀) as:
 ```
 Importa / Esporta
 ```
@@ -357,7 +357,7 @@ Salva
 ```
 Close
 ```
-translated (by DarkMattiew) as:
+translated (by human 👀) as:
 ```
 Chiudi
 ```
@@ -387,7 +387,7 @@ Spostare i marcatori in cartella
 ```
 Share
 ```
-translated (DarkMattiew) as:
+translated (by human 👀) as:
 ```
 Condividi
 ```
@@ -397,7 +397,7 @@ Condividi
 ```
 Folder:
 ```
-translated (DarkMattiew) as:
+translated (by human 👀) as:
 ```
 Cartella:
 ```
