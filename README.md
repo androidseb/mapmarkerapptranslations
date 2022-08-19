@@ -67,7 +67,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Indonesian (0% human-translated)](./translations/id_strings.md)
 
-[Italian (0% human-translated)](./translations/it_strings.md)
+[Italian (1% human-translated)](./translations/it_strings.md)
 
 [Japanese (0% human-translated)](./translations/ja_strings.md)
 
