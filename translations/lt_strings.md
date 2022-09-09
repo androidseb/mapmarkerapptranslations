@@ -6496,3 +6496,33 @@ translated (by machine 🤖) as:
 ```
 Eksportuokite žurnalo failą, kad jį būtų galima bendrinti derinimo tikslais
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+Atvaizdavimo našumo nustatymai
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+Didžiausias nupieštų LV skaičius
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+Didžiausias nupieštų slankiųjų žymeklių pavadinimų skaičius
+```

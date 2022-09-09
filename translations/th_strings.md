@@ -6498,3 +6498,33 @@ translated (by machine 🤖) as:
 ```
 ส่งออกไฟล์บันทึกเพื่อให้สามารถแชร์เพื่อวัตถุประสงค์ในการดีบัก
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+การตั้งค่าประสิทธิภาพการแสดงผล
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+จำนวนสูงสุดของการจับ POI
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+จำนวนสูงสุดของชื่อเครื่องหมายลอยตัว
+```

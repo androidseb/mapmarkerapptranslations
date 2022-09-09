@@ -6497,3 +6497,33 @@ translated (by human 👀) as:
 ```
 Exporter le fichier journal pour qu'il puisse être partagé à des fins de débogage
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by human 👀) as:
+```
+Réglages de performance de rendu
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by human 👀) as:
+```
+Nombre maximum de marqueurs dessinés
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by human 👀) as:
+```
+Nombre maximum de titres flottants de marqueurs dessinés
+```

@@ -6497,3 +6497,33 @@ translated (by machine 🤖) as:
 ```
 នាំចេញឯកសារកំណត់ហេតុ ដូច្នេះវាអាចត្រូវបានចែករំលែកសម្រាប់គោលបំណងបំបាត់កំហុស
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+កំពុងបង្ហាញការកំណត់ដំណើរការ
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+ចំនួនអតិបរមានៃ POIs ដែលត្រូវបានដកចេញ
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+ចំនួនអតិបរមានៃចំណងជើងសញ្ញាសម្គាល់អណ្តែតដែលបានគូរ
+```

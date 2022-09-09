@@ -6497,3 +6497,33 @@ translated (by machine 🤖) as:
 ```
 Exportați fișierul jurnal, astfel încât să poată fi partajat în scopuri de depanare
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+Redarea setărilor de performanță
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+Numărul maxim de POI trase
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+Numărul maxim de titluri de markere flotante desenate
+```

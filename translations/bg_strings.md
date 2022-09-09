@@ -6497,3 +6497,33 @@ translated (by machine 🤖) as:
 ```
 Експортирайте регистрационния файл, така че да може да бъде споделен за целите на отстраняване на грешки
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+Настройки за производителност на изобразяване
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+Максимален брой изчертани POI
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+Максимален брой изтеглени заглавия на плаващ маркер
+```

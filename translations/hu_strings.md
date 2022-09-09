@@ -6497,3 +6497,33 @@ translated (by machine 🤖) as:
 ```
 Exportálja a naplófájlt, hogy megoszthassa hibakeresési célokra
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+Renderelési teljesítmény beállítások
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+A rajzolt POI-k maximális száma
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+A kihúzott lebegő jelölőcímek maximális száma
+```

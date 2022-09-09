@@ -6497,3 +6497,33 @@ translated (by machine 🤖) as:
 ```
 Hata ayıklama amacıyla paylaşılabilmesi için günlük dosyasını dışa aktarın
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+İşleme performansı ayarları
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+Maksimum çizilen İÇN sayısı
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+Maksimum çizilen kayan işaretçi başlığı sayısı
+```

@@ -6497,3 +6497,33 @@ translated (by machine 🤖) as:
 ```
 Vie lokitiedosto, jotta se voidaan jakaa virheenkorjausta varten
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+Renderöinnin suorituskykyasetukset
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+Piirrettyjen POI-pisteiden enimmäismäärä
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+Piirrettyjen kelluvien merkkien enimmäismäärä
+```

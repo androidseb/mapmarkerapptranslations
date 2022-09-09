@@ -6497,3 +6497,33 @@ translated (by machine 🤖) as:
 ```
 Eksportējiet žurnāla failu, lai to varētu koplietot atkļūdošanas nolūkos
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+Renderēšanas veiktspējas iestatījumi
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+Maksimālais uzzīmēto POI skaits
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+Maksimālais uzzīmēto peldošo marķieru nosaukumu skaits
+```

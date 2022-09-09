@@ -6497,3 +6497,33 @@ translated (by machine 🤖) as:
 ```
 Eksporter loggfilen slik at den kan deles for feilsøkingsformål
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+Innstillinger for gjengivelsesytelse
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+Maksimalt antall tegnede interessepunkter
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+Maksimalt antall tegnede flytende markørtitler
+```

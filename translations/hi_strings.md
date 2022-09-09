@@ -6497,3 +6497,33 @@ translated (by machine 🤖) as:
 ```
 लॉग फ़ाइल निर्यात करें ताकि इसे डिबगिंग उद्देश्यों के लिए साझा किया जा सके
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+प्रदर्शन सेटिंग प्रस्तुत करना
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+आहरित पीओआई की अधिकतम संख्या
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+ड्रॉइंग फ़्लोटिंग मार्कर शीर्षकों की अधिकतम संख्या
+```

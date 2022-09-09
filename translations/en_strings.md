@@ -6497,3 +6497,33 @@ translated (by machine 🤖) as:
 ```
 Export the log file so that it can be shared for debugging purposes
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+Rendering performance settings
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+Maximum number of drawn POIs
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+Maximum number of drawn floating marker titles
+```

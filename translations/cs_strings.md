@@ -6497,3 +6497,33 @@ translated (by machine 🤖) as:
 ```
 Exportujte soubor protokolu, aby jej bylo možné sdílet pro účely ladění
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+Nastavení výkonu vykreslování
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+Maximální počet vylosovaných POI
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+Maximální počet vylosovaných titulů plovoucích značek
+```

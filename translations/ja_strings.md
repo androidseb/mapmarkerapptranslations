@@ -6498,3 +6498,33 @@ translated (by machine 🤖) as:
 ```
 ログファイルをエクスポートして、デバッグ目的で共有できるようにします
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+レンダリング パフォーマンスの設定
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+描画される POI の最大数
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+描画されるフローティング マーカー タイトルの最大数
+```

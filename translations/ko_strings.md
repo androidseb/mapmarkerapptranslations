@@ -6497,3 +6497,33 @@ translated (by machine 🤖) as:
 ```
 디버깅 목적으로 공유할 수 있도록 로그 파일 내보내기
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+렌더링 성능 설정
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+그려진 POI의 최대 수
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+그려진 부동 마커 제목의 최대 수
+```

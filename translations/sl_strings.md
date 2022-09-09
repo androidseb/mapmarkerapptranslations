@@ -6494,3 +6494,33 @@ translated (by machine 🤖) as:
 ```
 Izvozite dnevniško datoteko, da jo lahko delite za namene odpravljanja napak
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+Nastavitve zmogljivosti upodabljanja
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+Največje število narisanih POI
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+Največje število narisanih naslovov plavajočih markerjev
+```

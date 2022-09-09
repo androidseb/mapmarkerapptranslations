@@ -6497,3 +6497,33 @@ translated (by machine 🤖) as:
 ```
 Xuất tệp nhật ký để nó có thể được chia sẻ cho mục đích gỡ lỗi
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+Kết xuất cài đặt hiệu suất
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+Số POI được rút ra tối đa
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+Số lượng tiêu đề điểm đánh dấu động được vẽ tối đa
+```

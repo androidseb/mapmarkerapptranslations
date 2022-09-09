@@ -6497,3 +6497,33 @@ translated (by machine 🤖) as:
 ```
 Exporte o arquivo de log para que possa ser compartilhado para fins de depuração
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+Configurações de desempenho de renderização
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+Número máximo de POIs sorteados
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+Número máximo de títulos de marcadores flutuantes sorteados
+```

@@ -6497,3 +6497,33 @@ translated (by machine 🤖) as:
 ```
 قم بتصدير ملف السجل بحيث يمكن مشاركته لأغراض التصحيح
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+تقديم إعدادات الأداء
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+الحد الأقصى لعدد نقاط الاهتمام المرسومة
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+الحد الأقصى لعدد عناوين العلامات العائمة المرسومة
+```

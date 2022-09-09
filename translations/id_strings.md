@@ -6497,3 +6497,33 @@ translated (by machine 🤖) as:
 ```
 Ekspor file log sehingga dapat dibagikan untuk keperluan debugging
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+Pengaturan kinerja rendering
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+Jumlah maksimum POI yang ditarik
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+Jumlah maksimum judul penanda mengambang yang ditarik
+```

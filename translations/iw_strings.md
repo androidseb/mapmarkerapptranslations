@@ -6497,3 +6497,33 @@ translated (by machine 🤖) as:
 ```
 ייצא את קובץ היומן כך שניתן יהיה לשתף אותו למטרות ניפוי באגים
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+הגדרות ביצועים של רינדור
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+המספר המרבי של נקודות עניין שצוירו
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+המספר המרבי של כותרות סמנים צפים מצוירים
+```

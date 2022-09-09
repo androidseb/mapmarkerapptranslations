@@ -6497,3 +6497,33 @@ translated (by machine 🤖) as:
 ```
 Експортуйте файл журналу, щоб ним можна було поділитися з метою налагодження
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+Параметри продуктивності рендеринга
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+Максимальна кількість намальованих POI
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+Максимальна кількість намальованих заголовків плаваючих маркерів
+```

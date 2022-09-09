@@ -6497,3 +6497,33 @@ translated (by machine 🤖) as:
 ```
 导出日志文件，以便为调试目的共享它
 ```
+
+
+## Translation Key: rendering_performance
+```
+Rendering performance settings
+```
+translated (by machine 🤖) as:
+```
+渲染性能设置
+```
+
+
+## Translation Key: max_number_of_drawn_pois
+```
+Maximum number of drawn POIs
+```
+translated (by machine 🤖) as:
+```
+最大绘制兴趣点数
+```
+
+
+## Translation Key: max_number_of_drawn_floating_marker_titles
+```
+Maximum number of drawn floating marker titles
+```
+translated (by machine 🤖) as:
+```
+绘制的浮动标记标题的最大数量
+```
