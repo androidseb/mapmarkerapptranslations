@@ -6528,3 +6528,83 @@ translated (by machine 🤖) as:
 ```
 描画されるフローティング マーカー タイトルの最大数
 ```
+
+
+## Translation Key: old_map_data_options_title
+```
+Access old map data
+```
+translated (by machine 🤖) as:
+```
+古い地図データにアクセスする
+```
+
+
+## Translation Key: old_map_data_options_description
+```
+See options to access map data from the older versions of Map Marker.
+```
+translated (by machine 🤖) as:
+```
+Map Marker の古いバージョンからマップ データにアクセスするためのオプションを参照してください。
+```
+
+
+## Translation Key: migrating_map_data
+```
+Migrating map data…
+```
+translated (by machine 🤖) as:
+```
+地図データを移行中…
+```
+
+
+## Translation Key: map_data_migration_succeeded
+```
+Map data migration succeeded: you should now be able to use your old map data on this new version of Map Marker.
+```
+translated (by machine 🤖) as:
+```
+マップ データの移行が成功しました。これで、この新しいバージョンの Map Marker で古いマップ データを使用できるようになります。
+```
+
+
+## Translation Key: map_data_migration_failed
+```
+Map data migration failed: access to your old map data is not possible on this new version of Map Marker.
+```
+translated (by machine 🤖) as:
+```
+地図データの移行に失敗しました: この新しいバージョンの Map Marker では古い地図データにアクセスできません。
+```
+
+
+## Translation Key: post_migration_hint_text
+```
+Note that the old map data remains unchanged and will remain on your device until you uninstall the app. Uninstalling the app will delete all Map Marker app data from your device. If you want to use the old version of Map Marker, you can follow instructions available by clicking on the option below.
+```
+translated (by machine 🤖) as:
+```
+古い地図データは変更されず、アプリをアンインストールするまでデバイスに残ります。アプリをアンインストールすると、すべての Map Marker アプリ データがデバイスから削除されます。 Map Marker の古いバージョンを使用する場合は、下のオプションをクリックして、利用可能な手順に従ってください。
+```
+
+
+## Translation Key: view_instructions_to_use_the_old_map_marker_title
+```
+View instructions to use the old Map Marker
+```
+translated (by machine 🤖) as:
+```
+古い Map Marker の使用手順を表示
+```
+
+
+## Translation Key: view_instructions_to_use_the_old_map_marker_description
+```
+This will open a help center link explaining how you can install the old version of Map Marker without losing your app data.
+```
+translated (by machine 🤖) as:
+```
+これにより、アプリ データを失わずに古いバージョンの Map Marker をインストールする方法を説明するヘルプ センターのリンクが開きます。
+```

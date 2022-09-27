@@ -6527,3 +6527,83 @@ translated (by machine 🤖) as:
 ```
 Jumlah maksimum judul penanda mengambang yang ditarik
 ```
+
+
+## Translation Key: old_map_data_options_title
+```
+Access old map data
+```
+translated (by machine 🤖) as:
+```
+Akses data peta lama
+```
+
+
+## Translation Key: old_map_data_options_description
+```
+See options to access map data from the older versions of Map Marker.
+```
+translated (by machine 🤖) as:
+```
+Lihat opsi untuk mengakses data peta dari versi Map Marker yang lebih lama.
+```
+
+
+## Translation Key: migrating_map_data
+```
+Migrating map data…
+```
+translated (by machine 🤖) as:
+```
+Memigrasikan data peta…
+```
+
+
+## Translation Key: map_data_migration_succeeded
+```
+Map data migration succeeded: you should now be able to use your old map data on this new version of Map Marker.
+```
+translated (by machine 🤖) as:
+```
+Migrasi data peta berhasil: Anda sekarang dapat menggunakan data peta lama Anda pada versi baru Map Marker ini.
+```
+
+
+## Translation Key: map_data_migration_failed
+```
+Map data migration failed: access to your old map data is not possible on this new version of Map Marker.
+```
+translated (by machine 🤖) as:
+```
+Migrasi data peta gagal: akses ke data peta lama Anda tidak dimungkinkan pada versi baru Map Marker ini.
+```
+
+
+## Translation Key: post_migration_hint_text
+```
+Note that the old map data remains unchanged and will remain on your device until you uninstall the app. Uninstalling the app will delete all Map Marker app data from your device. If you want to use the old version of Map Marker, you can follow instructions available by clicking on the option below.
+```
+translated (by machine 🤖) as:
+```
+Perhatikan bahwa data peta lama tetap tidak berubah dan akan tetap ada di perangkat Anda sampai Anda mencopot pemasangan aplikasi. Mencopot pemasangan aplikasi akan menghapus semua Map Marker data aplikasi dari perangkat Anda. Jika Anda ingin menggunakan Map Marker versi lama, Anda dapat mengikuti petunjuk yang tersedia dengan mengeklik opsi di bawah ini.
+```
+
+
+## Translation Key: view_instructions_to_use_the_old_map_marker_title
+```
+View instructions to use the old Map Marker
+```
+translated (by machine 🤖) as:
+```
+Lihat petunjuk untuk menggunakan Map Marker . lama
+```
+
+
+## Translation Key: view_instructions_to_use_the_old_map_marker_description
+```
+This will open a help center link explaining how you can install the old version of Map Marker without losing your app data.
+```
+translated (by machine 🤖) as:
+```
+Ini akan membuka tautan pusat bantuan yang menjelaskan bagaimana Anda dapat menginstal versi lama Map Marker tanpa kehilangan data aplikasi Anda.
+```

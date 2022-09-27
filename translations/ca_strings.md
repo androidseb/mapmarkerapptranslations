@@ -6527,3 +6527,83 @@ translated (by machine 🤖) as:
 ```
 Nombre màxim de títols de marcadors flotants dibuixats
 ```
+
+
+## Translation Key: old_map_data_options_title
+```
+Access old map data
+```
+translated (by machine 🤖) as:
+```
+Accediu a dades de mapes antigues
+```
+
+
+## Translation Key: old_map_data_options_description
+```
+See options to access map data from the older versions of Map Marker.
+```
+translated (by machine 🤖) as:
+```
+Consulteu les opcions per accedir a les dades del mapa de les versions anteriors de Map Marker.
+```
+
+
+## Translation Key: migrating_map_data
+```
+Migrating map data…
+```
+translated (by machine 🤖) as:
+```
+S'estan migrant les dades del mapa...
+```
+
+
+## Translation Key: map_data_migration_succeeded
+```
+Map data migration succeeded: you should now be able to use your old map data on this new version of Map Marker.
+```
+translated (by machine 🤖) as:
+```
+La migració de dades de mapes ha estat correcta: ara hauríeu de poder utilitzar les vostres dades de mapes antigues en aquesta nova versió de Map Marker.
+```
+
+
+## Translation Key: map_data_migration_failed
+```
+Map data migration failed: access to your old map data is not possible on this new version of Map Marker.
+```
+translated (by machine 🤖) as:
+```
+La migració de les dades del mapa ha fallat: no es pot accedir a les dades del mapa antigues en aquesta nova versió de Map Marker.
+```
+
+
+## Translation Key: post_migration_hint_text
+```
+Note that the old map data remains unchanged and will remain on your device until you uninstall the app. Uninstalling the app will delete all Map Marker app data from your device. If you want to use the old version of Map Marker, you can follow instructions available by clicking on the option below.
+```
+translated (by machine 🤖) as:
+```
+Tingueu en compte que les dades del mapa antigues romandran sense canvis i romandran al vostre dispositiu fins que desinstal·leu l'aplicació. En desinstal·lar l'aplicació, se suprimiran totes les Map Marker dades de l'aplicació del dispositiu. Si voleu utilitzar la versió antiga de Map Marker, podeu seguir les instruccions disponibles fent clic a l'opció següent.
+```
+
+
+## Translation Key: view_instructions_to_use_the_old_map_marker_title
+```
+View instructions to use the old Map Marker
+```
+translated (by machine 🤖) as:
+```
+Consulta les instruccions per utilitzar l'antic Map Marker
+```
+
+
+## Translation Key: view_instructions_to_use_the_old_map_marker_description
+```
+This will open a help center link explaining how you can install the old version of Map Marker without losing your app data.
+```
+translated (by machine 🤖) as:
+```
+Això obrirà un enllaç del centre d'ajuda que explica com podeu instal·lar la versió antiga de Map Marker sense perdre les dades de l'aplicació.
+```

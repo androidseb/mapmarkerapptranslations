@@ -6527,3 +6527,83 @@ translated (by machine 🤖) as:
 ```
 繪製的浮動標記標題的最大數量
 ```
+
+
+## Translation Key: old_map_data_options_title
+```
+Access old map data
+```
+translated (by machine 🤖) as:
+```
+訪問舊地圖數據
+```
+
+
+## Translation Key: old_map_data_options_description
+```
+See options to access map data from the older versions of Map Marker.
+```
+translated (by machine 🤖) as:
+```
+查看從舊版本 Map Marker 訪問地圖數據的選項。
+```
+
+
+## Translation Key: migrating_map_data
+```
+Migrating map data…
+```
+translated (by machine 🤖) as:
+```
+正在遷移地圖數據…
+```
+
+
+## Translation Key: map_data_migration_succeeded
+```
+Map data migration succeeded: you should now be able to use your old map data on this new version of Map Marker.
+```
+translated (by machine 🤖) as:
+```
+地圖數據遷移成功：您現在應該可以在新版 Map Marker 上使用舊地圖數據了。
+```
+
+
+## Translation Key: map_data_migration_failed
+```
+Map data migration failed: access to your old map data is not possible on this new version of Map Marker.
+```
+translated (by machine 🤖) as:
+```
+地圖數據遷移失敗：在這個新版本的 Map Marker 上無法訪問您的舊地圖數據。
+```
+
+
+## Translation Key: post_migration_hint_text
+```
+Note that the old map data remains unchanged and will remain on your device until you uninstall the app. Uninstalling the app will delete all Map Marker app data from your device. If you want to use the old version of Map Marker, you can follow instructions available by clicking on the option below.
+```
+translated (by machine 🤖) as:
+```
+請注意，舊地圖數據保持不變，並會保留在您的設備上，直到您卸載該應用程序。卸載應用程序將從您的設備中刪除所有 Map Marker 應用程序數據。如果您想使用舊版本的Map Marker，您可以點擊下面的選項按照可用的說明進行操作。
+```
+
+
+## Translation Key: view_instructions_to_use_the_old_map_marker_title
+```
+View instructions to use the old Map Marker
+```
+translated (by machine 🤖) as:
+```
+查看舊 Map Marker 使用說明
+```
+
+
+## Translation Key: view_instructions_to_use_the_old_map_marker_description
+```
+This will open a help center link explaining how you can install the old version of Map Marker without losing your app data.
+```
+translated (by machine 🤖) as:
+```
+這將打開一個幫助中心鏈接，說明如何在不丟失應用數據的情況下安裝舊版本的 Map Marker。
+```

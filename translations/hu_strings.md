@@ -6527,3 +6527,83 @@ translated (by machine 🤖) as:
 ```
 A kihúzott lebegő jelölőcímek maximális száma
 ```
+
+
+## Translation Key: old_map_data_options_title
+```
+Access old map data
+```
+translated (by machine 🤖) as:
+```
+Hozzáférés a régi térképadatokhoz
+```
+
+
+## Translation Key: old_map_data_options_description
+```
+See options to access map data from the older versions of Map Marker.
+```
+translated (by machine 🤖) as:
+```
+Tekintse meg a Map Marker régebbi verzióiból származó térképadatok elérésének lehetőségeit.
+```
+
+
+## Translation Key: migrating_map_data
+```
+Migrating map data…
+```
+translated (by machine 🤖) as:
+```
+Térképadatok áttelepítése…
+```
+
+
+## Translation Key: map_data_migration_succeeded
+```
+Map data migration succeeded: you should now be able to use your old map data on this new version of Map Marker.
+```
+translated (by machine 🤖) as:
+```
+A térképadatok migrációja sikerült: most már használhatja régi térképadatait a Map Marker új verziójában.
+```
+
+
+## Translation Key: map_data_migration_failed
+```
+Map data migration failed: access to your old map data is not possible on this new version of Map Marker.
+```
+translated (by machine 🤖) as:
+```
+A térképadatok migrációja nem sikerült: a régi térképadatokhoz nem lehet hozzáférni a Map Marker új verziójában.
+```
+
+
+## Translation Key: post_migration_hint_text
+```
+Note that the old map data remains unchanged and will remain on your device until you uninstall the app. Uninstalling the app will delete all Map Marker app data from your device. If you want to use the old version of Map Marker, you can follow instructions available by clicking on the option below.
+```
+translated (by machine 🤖) as:
+```
+Vegye figyelembe, hogy a régi térképadatok változatlanok maradnak, és az alkalmazás eltávolításáig az eszközön maradnak. Az alkalmazás eltávolítása az összes Map Marker alkalmazásadatot törli eszközéről. Ha a Map Marker régi verzióját szeretné használni, kövesse az alábbi lehetőségre kattintva elérhető utasításokat.
+```
+
+
+## Translation Key: view_instructions_to_use_the_old_map_marker_title
+```
+View instructions to use the old Map Marker
+```
+translated (by machine 🤖) as:
+```
+Tekintse meg a régi Map Marker használatára vonatkozó utasításokat
+```
+
+
+## Translation Key: view_instructions_to_use_the_old_map_marker_description
+```
+This will open a help center link explaining how you can install the old version of Map Marker without losing your app data.
+```
+translated (by machine 🤖) as:
+```
+Ezzel megnyílik egy súgóhivatkozás, amely elmagyarázza, hogyan telepítheti a Map Marker régi verzióját az alkalmazásadatok elvesztése nélkül.
+```
