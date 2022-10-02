@@ -6589,16 +6589,6 @@ Vegye figyelembe, hogy a régi térképadatok változatlanok maradnak, és az al
 ```
 
 
-## Translation Key: view_instructions_to_use_the_old_map_marker_title
-```
-View instructions to use the old Map Marker
-```
-translated (by machine 🤖) as:
-```
-Tekintse meg a régi Map Marker használatára vonatkozó utasításokat
-```
-
-
 ## Translation Key: view_instructions_to_use_the_old_map_marker_description
 ```
 This will open a help center link explaining how you can install the old version of Map Marker without losing your app data.
@@ -6606,4 +6596,14 @@ This will open a help center link explaining how you can install the old version
 translated (by machine 🤖) as:
 ```
 Ezzel megnyílik egy súgóhivatkozás, amely elmagyarázza, hogyan telepítheti a Map Marker régi verzióját az alkalmazásadatok elvesztése nélkül.
+```
+
+
+## Translation Key: view_instructions
+```
+View instructions
+```
+translated (by machine 🤖) as:
+```
+Tekintse meg az utasításokat
 ```

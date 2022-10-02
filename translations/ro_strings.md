@@ -6589,16 +6589,6 @@ Rețineți că datele vechi ale hărții rămân neschimbate și vor rămâne pe
 ```
 
 
-## Translation Key: view_instructions_to_use_the_old_map_marker_title
-```
-View instructions to use the old Map Marker
-```
-translated (by machine 🤖) as:
-```
-Vizualizați instrucțiunile de utilizare a vechiului Map Marker
-```
-
-
 ## Translation Key: view_instructions_to_use_the_old_map_marker_description
 ```
 This will open a help center link explaining how you can install the old version of Map Marker without losing your app data.
@@ -6606,4 +6596,14 @@ This will open a help center link explaining how you can install the old version
 translated (by machine 🤖) as:
 ```
 Aceasta va deschide un link către centrul de ajutor care explică cum puteți instala versiunea veche a Map Marker fără a pierde datele aplicației.
+```
+
+
+## Translation Key: view_instructions
+```
+View instructions
+```
+translated (by machine 🤖) as:
+```
+Vizualizați instrucțiunile
 ```

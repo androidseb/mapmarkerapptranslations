@@ -6589,16 +6589,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: view_instructions_to_use_the_old_map_marker_title
-```
-View instructions to use the old Map Marker
-```
-translated (by machine 🤖) as:
-```
-이전 Map Marker 사용 지침 보기
-```
-
-
 ## Translation Key: view_instructions_to_use_the_old_map_marker_description
 ```
 This will open a help center link explaining how you can install the old version of Map Marker without losing your app data.
@@ -6606,4 +6596,14 @@ This will open a help center link explaining how you can install the old version
 translated (by machine 🤖) as:
 ```
 그러면 앱 데이터를 잃지 않고 Map Marker의 이전 버전을 설치하는 방법을 설명하는 도움말 센터 링크가 열립니다.
+```
+
+
+## Translation Key: view_instructions
+```
+View instructions
+```
+translated (by machine 🤖) as:
+```
+지침 보기
 ```

@@ -6589,16 +6589,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: view_instructions_to_use_the_old_map_marker_title
-```
-View instructions to use the old Map Marker
-```
-translated (by machine 🤖) as:
-```
-Δείτε τις οδηγίες χρήσης του παλιού Map Marker
-```
-
-
 ## Translation Key: view_instructions_to_use_the_old_map_marker_description
 ```
 This will open a help center link explaining how you can install the old version of Map Marker without losing your app data.
@@ -6606,4 +6596,14 @@ This will open a help center link explaining how you can install the old version
 translated (by machine 🤖) as:
 ```
 Αυτό θα ανοίξει έναν σύνδεσμο κέντρου βοήθειας που θα εξηγεί πώς μπορείτε να εγκαταστήσετε την παλιά έκδοση του Map Marker χωρίς να χάσετε τα δεδομένα της εφαρμογής σας.
+```
+
+
+## Translation Key: view_instructions
+```
+View instructions
+```
+translated (by machine 🤖) as:
+```
+Προβολή οδηγιών
 ```
