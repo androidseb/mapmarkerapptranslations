@@ -6607,3 +6607,47 @@ translated (by machine 🤖) as:
 ```
 Προβολή οδηγιών
 ```
+
+
+## Translation Key: map_marker_v3_coming_prompt_title
+```
+Map Marker V3 is coming soon!
+```
+translated (by machine 🤖) as:
+```
+Map Marker V3 έρχεται σύντομα!
+```
+
+
+## Translation Key: map_marker_v3_coming_prompt_body
+```
+The next major update to Map Marker is coming soon! That new version will bring important improvements and new features.
+
+The app update will remain free and optional, click "See more" to find out more information.
+```
+translated (by machine 🤖) as:
+```
+Η επόμενη σημαντική ενημέρωση στο Map Marker έρχεται σύντομα! Αυτή η νέα έκδοση θα φέρει σημαντικές βελτιώσεις και νέες δυνατότητες.
+
+Η ενημέρωση της εφαρμογής θα παραμείνει δωρεάν και προαιρετική, κάντε κλικ στο "Δείτε περισσότερα" για να μάθετε περισσότερες πληροφορίες.
+```
+
+
+## Translation Key: action_see_more
+```
+See more
+```
+translated (by machine 🤖) as:
+```
+Δείτε περισσότερα
+```
+
+
+## Translation Key: purchase_permanent_premium
+```
+Purchase permanent premium
+```
+translated (by machine 🤖) as:
+```
+Αγορά μόνιμης πριμοδότησης
+```

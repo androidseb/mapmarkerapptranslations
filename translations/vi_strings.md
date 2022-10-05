@@ -6607,3 +6607,47 @@ translated (by machine 🤖) as:
 ```
 Xem hướng dẫn
 ```
+
+
+## Translation Key: map_marker_v3_coming_prompt_title
+```
+Map Marker V3 is coming soon!
+```
+translated (by machine 🤖) as:
+```
+Map Marker V3 sắp ra mắt!
+```
+
+
+## Translation Key: map_marker_v3_coming_prompt_body
+```
+The next major update to Map Marker is coming soon! That new version will bring important improvements and new features.
+
+The app update will remain free and optional, click "See more" to find out more information.
+```
+translated (by machine 🤖) as:
+```
+Bản cập nhật lớn tiếp theo cho Map Marker sẽ sớm ra mắt! Phiên bản mới đó sẽ mang lại những cải tiến quan trọng và các tính năng mới.
+
+Bản cập nhật ứng dụng sẽ vẫn miễn phí và không bắt buộc, hãy nhấp vào "Xem thêm" để tìm hiểu thêm thông tin.
+```
+
+
+## Translation Key: action_see_more
+```
+See more
+```
+translated (by machine 🤖) as:
+```
+Xem thêm
+```
+
+
+## Translation Key: purchase_permanent_premium
+```
+Purchase permanent premium
+```
+translated (by machine 🤖) as:
+```
+Mua phí bảo hiểm vĩnh viễn
+```

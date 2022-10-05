@@ -6608,3 +6608,47 @@ translated (by machine 🤖) as:
 ```
 ดูคำแนะนำ
 ```
+
+
+## Translation Key: map_marker_v3_coming_prompt_title
+```
+Map Marker V3 is coming soon!
+```
+translated (by machine 🤖) as:
+```
+Map Marker V3 กำลังจะมาเร็ว ๆ นี้!
+```
+
+
+## Translation Key: map_marker_v3_coming_prompt_body
+```
+The next major update to Map Marker is coming soon! That new version will bring important improvements and new features.
+
+The app update will remain free and optional, click "See more" to find out more information.
+```
+translated (by machine 🤖) as:
+```
+การอัปเดตครั้งใหญ่ครั้งต่อไปของ Map Marker กำลังจะมาในเร็วๆ นี้! เวอร์ชันใหม่นั้นจะนำมาซึ่งการปรับปรุงที่สำคัญและคุณสมบัติใหม่
+
+การอัปเดตแอปจะยังคงฟรีและไม่บังคับ คลิก "ดูเพิ่มเติม" เพื่อดูข้อมูลเพิ่มเติม
+```
+
+
+## Translation Key: action_see_more
+```
+See more
+```
+translated (by machine 🤖) as:
+```
+ดูเพิ่มเติม
+```
+
+
+## Translation Key: purchase_permanent_premium
+```
+Purchase permanent premium
+```
+translated (by machine 🤖) as:
+```
+ซื้อเบี้ยถาวร
+```

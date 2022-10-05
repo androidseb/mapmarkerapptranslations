@@ -6607,3 +6607,47 @@ translated (by machine 🤖) as:
 ```
 Переглянути інструкції
 ```
+
+
+## Translation Key: map_marker_v3_coming_prompt_title
+```
+Map Marker V3 is coming soon!
+```
+translated (by machine 🤖) as:
+```
+Map Marker V3 незабаром!
+```
+
+
+## Translation Key: map_marker_v3_coming_prompt_body
+```
+The next major update to Map Marker is coming soon! That new version will bring important improvements and new features.
+
+The app update will remain free and optional, click "See more" to find out more information.
+```
+translated (by machine 🤖) as:
+```
+Наступне велике оновлення для Map Marker буде незабаром! Ця нова версія принесе важливі покращення та нові функції.
+
+Оновлення програми залишатиметься безкоштовним і необов’язковим. Натисніть «Показати більше», щоб дізнатися більше.
+```
+
+
+## Translation Key: action_see_more
+```
+See more
+```
+translated (by machine 🤖) as:
+```
+Побачити більше
+```
+
+
+## Translation Key: purchase_permanent_premium
+```
+Purchase permanent premium
+```
+translated (by machine 🤖) as:
+```
+Придбайте постійну премію
+```

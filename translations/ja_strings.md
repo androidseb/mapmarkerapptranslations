@@ -6608,3 +6608,47 @@ translated (by machine 🤖) as:
 ```
 説明を見る
 ```
+
+
+## Translation Key: map_marker_v3_coming_prompt_title
+```
+Map Marker V3 is coming soon!
+```
+translated (by machine 🤖) as:
+```
+Map Marker V3 がまもなく登場します。
+```
+
+
+## Translation Key: map_marker_v3_coming_prompt_body
+```
+The next major update to Map Marker is coming soon! That new version will bring important improvements and new features.
+
+The app update will remain free and optional, click "See more" to find out more information.
+```
+translated (by machine 🤖) as:
+```
+Map Marker の次のメジャー アップデートが間もなく登場します。その新しいバージョンは、重要な改善と新機能をもたらします。
+
+アプリのアップデートは引き続き無料でオプションです。詳細については、[もっと見る] をクリックしてください。
+```
+
+
+## Translation Key: action_see_more
+```
+See more
+```
+translated (by machine 🤖) as:
+```
+続きを見る
+```
+
+
+## Translation Key: purchase_permanent_premium
+```
+Purchase permanent premium
+```
+translated (by machine 🤖) as:
+```
+永久プレミアムを購入する
+```
