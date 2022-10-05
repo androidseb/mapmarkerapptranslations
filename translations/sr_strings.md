@@ -6651,3 +6651,23 @@ translated (by machine 🤖) as:
 ```
 Купите трајну премију
 ```
+
+
+## Translation Key: purchase_pending_message
+```
+Purchase pending
+```
+translated (by machine 🤖) as:
+```
+Куповина је на чекању
+```
+
+
+## Translation Key: purchase_failed_message
+```
+Purchase failed: %s
+```
+translated (by machine 🤖) as:
+```
+Куповина није успела: %s
+```

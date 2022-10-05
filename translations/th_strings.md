@@ -6652,3 +6652,23 @@ translated (by machine 🤖) as:
 ```
 ซื้อเบี้ยถาวร
 ```
+
+
+## Translation Key: purchase_pending_message
+```
+Purchase pending
+```
+translated (by machine 🤖) as:
+```
+การซื้อที่รอดำเนินการ
+```
+
+
+## Translation Key: purchase_failed_message
+```
+Purchase failed: %s
+```
+translated (by machine 🤖) as:
+```
+การซื้อล้มเหลว: %s
+```

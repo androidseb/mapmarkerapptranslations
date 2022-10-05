@@ -6648,3 +6648,23 @@ translated (by machine 🤖) as:
 ```
 Nakup stalne premije
 ```
+
+
+## Translation Key: purchase_pending_message
+```
+Purchase pending
+```
+translated (by machine 🤖) as:
+```
+Nakup v teku
+```
+
+
+## Translation Key: purchase_failed_message
+```
+Purchase failed: %s
+```
+translated (by machine 🤖) as:
+```
+Nakup ni uspel: %s
+```

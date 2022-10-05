@@ -6648,3 +6648,23 @@ translated (by machine 🤖) as:
 ```
 Permanente Prämie erwerben
 ```
+
+
+## Translation Key: purchase_pending_message
+```
+Purchase pending
+```
+translated (by machine 🤖) as:
+```
+Kauf ausstehend
+```
+
+
+## Translation Key: purchase_failed_message
+```
+Purchase failed: %s
+```
+translated (by machine 🤖) as:
+```
+Kauf fehlgeschlagen: %s
+```

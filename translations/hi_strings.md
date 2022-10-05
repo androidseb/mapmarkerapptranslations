@@ -6651,3 +6651,23 @@ translated (by machine 🤖) as:
 ```
 स्थायी प्रीमियम खरीदें
 ```
+
+
+## Translation Key: purchase_pending_message
+```
+Purchase pending
+```
+translated (by machine 🤖) as:
+```
+खरीद लंबित
+```
+
+
+## Translation Key: purchase_failed_message
+```
+Purchase failed: %s
+```
+translated (by machine 🤖) as:
+```
+खरीदारी विफल: %s
+```

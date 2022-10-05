@@ -6651,3 +6651,23 @@ translated (by machine 🤖) as:
 ```
 شراء قسط دائم
 ```
+
+
+## Translation Key: purchase_pending_message
+```
+Purchase pending
+```
+translated (by machine 🤖) as:
+```
+الشراء معلق
+```
+
+
+## Translation Key: purchase_failed_message
+```
+Purchase failed: %s
+```
+translated (by machine 🤖) as:
+```
+فشل الشراء: %s
+```

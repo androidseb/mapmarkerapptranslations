@@ -6651,3 +6651,23 @@ translated (by machine 🤖) as:
 ```
 Osta pysyvä palkkio
 ```
+
+
+## Translation Key: purchase_pending_message
+```
+Purchase pending
+```
+translated (by machine 🤖) as:
+```
+Osto odottaa
+```
+
+
+## Translation Key: purchase_failed_message
+```
+Purchase failed: %s
+```
+translated (by machine 🤖) as:
+```
+Osto epäonnistui: %s
+```

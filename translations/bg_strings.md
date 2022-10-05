@@ -6651,3 +6651,23 @@ translated (by machine 🤖) as:
 ```
 Купете постоянна премия
 ```
+
+
+## Translation Key: purchase_pending_message
+```
+Purchase pending
+```
+translated (by machine 🤖) as:
+```
+Предстояща покупка
+```
+
+
+## Translation Key: purchase_failed_message
+```
+Purchase failed: %s
+```
+translated (by machine 🤖) as:
+```
+Неуспешна покупка: %s
+```

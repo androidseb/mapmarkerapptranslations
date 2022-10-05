@@ -6651,3 +6651,23 @@ translated (by machine 🤖) as:
 ```
 Pērciet pastāvīgo prēmiju
 ```
+
+
+## Translation Key: purchase_pending_message
+```
+Purchase pending
+```
+translated (by machine 🤖) as:
+```
+Pirkums gaida
+```
+
+
+## Translation Key: purchase_failed_message
+```
+Purchase failed: %s
+```
+translated (by machine 🤖) as:
+```
+Pirkums neizdevās: %s
+```

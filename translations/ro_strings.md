@@ -6651,3 +6651,23 @@ translated (by machine 🤖) as:
 ```
 Cumpărați premium permanent
 ```
+
+
+## Translation Key: purchase_pending_message
+```
+Purchase pending
+```
+translated (by machine 🤖) as:
+```
+Achiziție în așteptare
+```
+
+
+## Translation Key: purchase_failed_message
+```
+Purchase failed: %s
+```
+translated (by machine 🤖) as:
+```
+Achiziție eșuată: %s
+```

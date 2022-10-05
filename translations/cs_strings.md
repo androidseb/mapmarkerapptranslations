@@ -6651,3 +6651,23 @@ translated (by machine 🤖) as:
 ```
 Nákup trvalé prémie
 ```
+
+
+## Translation Key: purchase_pending_message
+```
+Purchase pending
+```
+translated (by machine 🤖) as:
+```
+Nákup čeká na vyřízení
+```
+
+
+## Translation Key: purchase_failed_message
+```
+Purchase failed: %s
+```
+translated (by machine 🤖) as:
+```
+Nákup se nezdařil: %s
+```

@@ -6651,3 +6651,23 @@ translated (by machine 🤖) as:
 ```
 Beli premi permanen
 ```
+
+
+## Translation Key: purchase_pending_message
+```
+Purchase pending
+```
+translated (by machine 🤖) as:
+```
+Pembelian tertunda
+```
+
+
+## Translation Key: purchase_failed_message
+```
+Purchase failed: %s
+```
+translated (by machine 🤖) as:
+```
+Pembelian gagal: %s
+```

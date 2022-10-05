@@ -6651,3 +6651,23 @@ translated (by human 👀) as:
 ```
 Acheter la premium permanente
 ```
+
+
+## Translation Key: purchase_pending_message
+```
+Purchase pending
+```
+translated (by human 👀) as:
+```
+Achat en attente
+```
+
+
+## Translation Key: purchase_failed_message
+```
+Purchase failed: %s
+```
+translated (by human 👀) as:
+```
+Achat échoué: %s
+```

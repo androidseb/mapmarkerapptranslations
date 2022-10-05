@@ -6643,3 +6643,23 @@ translated (by machine 🤖) as:
 ```
 購買永久保費
 ```
+
+
+## Translation Key: purchase_pending_message
+```
+Purchase pending
+```
+translated (by machine 🤖) as:
+```
+購買待定
+```
+
+
+## Translation Key: purchase_failed_message
+```
+Purchase failed: %s
+```
+translated (by machine 🤖) as:
+```
+購買失敗：%s
+```

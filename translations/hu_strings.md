@@ -6651,3 +6651,23 @@ translated (by machine 🤖) as:
 ```
 Vásároljon állandó prémiumot
 ```
+
+
+## Translation Key: purchase_pending_message
+```
+Purchase pending
+```
+translated (by machine 🤖) as:
+```
+Vásárlás függőben
+```
+
+
+## Translation Key: purchase_failed_message
+```
+Purchase failed: %s
+```
+translated (by machine 🤖) as:
+```
+A vásárlás sikertelen: %s
+```

@@ -6651,3 +6651,23 @@ translated (by machine 🤖) as:
 ```
 영구 프리미엄 구매
 ```
+
+
+## Translation Key: purchase_pending_message
+```
+Purchase pending
+```
+translated (by machine 🤖) as:
+```
+구매 보류 중
+```
+
+
+## Translation Key: purchase_failed_message
+```
+Purchase failed: %s
+```
+translated (by machine 🤖) as:
+```
+구매 실패: %s
+```

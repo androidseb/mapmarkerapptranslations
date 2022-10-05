@@ -6651,3 +6651,23 @@ translated (by machine 🤖) as:
 ```
 רכישת פרמיה קבועה
 ```
+
+
+## Translation Key: purchase_pending_message
+```
+Purchase pending
+```
+translated (by machine 🤖) as:
+```
+הרכישה בהמתנה
+```
+
+
+## Translation Key: purchase_failed_message
+```
+Purchase failed: %s
+```
+translated (by machine 🤖) as:
+```
+הרכישה נכשלה: %s
+```

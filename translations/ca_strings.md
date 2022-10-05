@@ -6651,3 +6651,23 @@ translated (by machine 🤖) as:
 ```
 Compra una prima permanent
 ```
+
+
+## Translation Key: purchase_pending_message
+```
+Purchase pending
+```
+translated (by machine 🤖) as:
+```
+Compra pendent
+```
+
+
+## Translation Key: purchase_failed_message
+```
+Purchase failed: %s
+```
+translated (by machine 🤖) as:
+```
+La compra ha fallat: %s
+```

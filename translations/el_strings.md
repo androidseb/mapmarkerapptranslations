@@ -6651,3 +6651,23 @@ translated (by machine 🤖) as:
 ```
 Αγορά μόνιμης πριμοδότησης
 ```
+
+
+## Translation Key: purchase_pending_message
+```
+Purchase pending
+```
+translated (by machine 🤖) as:
+```
+Αγορά σε εκκρεμότητα
+```
+
+
+## Translation Key: purchase_failed_message
+```
+Purchase failed: %s
+```
+translated (by machine 🤖) as:
+```
+Η αγορά απέτυχε: %s
+```

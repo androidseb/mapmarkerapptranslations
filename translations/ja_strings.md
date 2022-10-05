@@ -6652,3 +6652,23 @@ translated (by machine 🤖) as:
 ```
 永久プレミアムを購入する
 ```
+
+
+## Translation Key: purchase_pending_message
+```
+Purchase pending
+```
+translated (by machine 🤖) as:
+```
+購入保留中
+```
+
+
+## Translation Key: purchase_failed_message
+```
+Purchase failed: %s
+```
+translated (by machine 🤖) as:
+```
+購入に失敗しました: %s
+```

@@ -6651,3 +6651,23 @@ translated (by machine 🤖) as:
 ```
 Mua phí bảo hiểm vĩnh viễn
 ```
+
+
+## Translation Key: purchase_pending_message
+```
+Purchase pending
+```
+translated (by machine 🤖) as:
+```
+Mua hàng đang chờ xử lý
+```
+
+
+## Translation Key: purchase_failed_message
+```
+Purchase failed: %s
+```
+translated (by machine 🤖) as:
+```
+Mua không thành công: %s
+```

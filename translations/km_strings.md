@@ -6651,3 +6651,23 @@ translated (by machine 🤖) as:
 ```
 ទិញបុព្វលាភអចិន្ត្រៃយ៍
 ```
+
+
+## Translation Key: purchase_pending_message
+```
+Purchase pending
+```
+translated (by machine 🤖) as:
+```
+ការទិញកំពុងរង់ចាំ
+```
+
+
+## Translation Key: purchase_failed_message
+```
+Purchase failed: %s
+```
+translated (by machine 🤖) as:
+```
+ការទិញបានបរាជ័យ៖ %s
+```
