@@ -6672,3 +6672,23 @@ translated (by machine 🤖) as:
 ```
 การซื้อล้มเหลว: %s
 ```
+
+
+## Translation Key: data_backup_reminder_title
+```
+Data backup
+```
+translated (by machine 🤖) as:
+```
+สำรองข้อมูล
+```
+
+
+## Translation Key: data_backup_reminder_x_days_ago_message
+```
+Last backup was %s days ago
+```
+translated (by machine 🤖) as:
+```
+สำรองข้อมูลล่าสุดเมื่อ %s วันที่แล้ว
+```

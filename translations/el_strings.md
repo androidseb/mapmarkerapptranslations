@@ -6671,3 +6671,23 @@ translated (by machine 🤖) as:
 ```
 Η αγορά απέτυχε: %s
 ```
+
+
+## Translation Key: data_backup_reminder_title
+```
+Data backup
+```
+translated (by machine 🤖) as:
+```
+Αντίγραφο ασφαλείας δεδομένων
+```
+
+
+## Translation Key: data_backup_reminder_x_days_ago_message
+```
+Last backup was %s days ago
+```
+translated (by machine 🤖) as:
+```
+Το τελευταίο αντίγραφο ασφαλείας έγινε πριν από %s ημέρες
+```

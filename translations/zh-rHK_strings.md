@@ -6671,3 +6671,23 @@ translated (by machine 🤖) as:
 ```
 購買失敗：%s
 ```
+
+
+## Translation Key: data_backup_reminder_title
+```
+Data backup
+```
+translated (by machine 🤖) as:
+```
+數據備份
+```
+
+
+## Translation Key: data_backup_reminder_x_days_ago_message
+```
+Last backup was %s days ago
+```
+translated (by machine 🤖) as:
+```
+上次備份是 %s 天前
+```

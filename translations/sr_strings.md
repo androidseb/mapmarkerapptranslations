@@ -6671,3 +6671,23 @@ translated (by machine 🤖) as:
 ```
 Куповина није успела: %s
 ```
+
+
+## Translation Key: data_backup_reminder_title
+```
+Data backup
+```
+translated (by machine 🤖) as:
+```
+Повратак података
+```
+
+
+## Translation Key: data_backup_reminder_x_days_ago_message
+```
+Last backup was %s days ago
+```
+translated (by machine 🤖) as:
+```
+Последња резервна копија је била пре %s дана
+```

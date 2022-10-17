@@ -6671,3 +6671,23 @@ translated (by machine 🤖) as:
 ```
 Falha na compra: %s
 ```
+
+
+## Translation Key: data_backup_reminder_title
+```
+Data backup
+```
+translated (by machine 🤖) as:
+```
+Backup de dados
+```
+
+
+## Translation Key: data_backup_reminder_x_days_ago_message
+```
+Last backup was %s days ago
+```
+translated (by machine 🤖) as:
+```
+O último backup foi há %s dias
+```

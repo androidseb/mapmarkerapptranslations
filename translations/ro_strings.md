@@ -6671,3 +6671,23 @@ translated (by machine 🤖) as:
 ```
 Achiziție eșuată: %s
 ```
+
+
+## Translation Key: data_backup_reminder_title
+```
+Data backup
+```
+translated (by machine 🤖) as:
+```
+Copia de rezerva a datelor
+```
+
+
+## Translation Key: data_backup_reminder_x_days_ago_message
+```
+Last backup was %s days ago
+```
+translated (by machine 🤖) as:
+```
+Ultima copie de rezervă a avut loc acum %s zile
+```

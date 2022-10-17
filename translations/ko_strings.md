@@ -6671,3 +6671,23 @@ translated (by machine 🤖) as:
 ```
 구매 실패: %s
 ```
+
+
+## Translation Key: data_backup_reminder_title
+```
+Data backup
+```
+translated (by machine 🤖) as:
+```
+데이터 백업
+```
+
+
+## Translation Key: data_backup_reminder_x_days_ago_message
+```
+Last backup was %s days ago
+```
+translated (by machine 🤖) as:
+```
+마지막 백업은 %s일 전입니다.
+```

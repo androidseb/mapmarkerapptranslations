@@ -6671,3 +6671,23 @@ translated (by machine 🤖) as:
 ```
 La compra ha fallat: %s
 ```
+
+
+## Translation Key: data_backup_reminder_title
+```
+Data backup
+```
+translated (by machine 🤖) as:
+```
+Còpia de seguretat de dades
+```
+
+
+## Translation Key: data_backup_reminder_x_days_ago_message
+```
+Last backup was %s days ago
+```
+translated (by machine 🤖) as:
+```
+La darrera còpia de seguretat va ser fa %s dies
+```

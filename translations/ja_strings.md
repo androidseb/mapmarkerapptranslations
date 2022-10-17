@@ -6672,3 +6672,23 @@ translated (by machine 🤖) as:
 ```
 購入に失敗しました: %s
 ```
+
+
+## Translation Key: data_backup_reminder_title
+```
+Data backup
+```
+translated (by machine 🤖) as:
+```
+データバックアップ
+```
+
+
+## Translation Key: data_backup_reminder_x_days_ago_message
+```
+Last backup was %s days ago
+```
+translated (by machine 🤖) as:
+```
+最後のバックアップは %s 日前です
+```

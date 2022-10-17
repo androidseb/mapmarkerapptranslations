@@ -6671,3 +6671,23 @@ translated (by machine 🤖) as:
 ```
 Satın alma başarısız oldu: %s
 ```
+
+
+## Translation Key: data_backup_reminder_title
+```
+Data backup
+```
+translated (by machine 🤖) as:
+```
+Veri yedekleme
+```
+
+
+## Translation Key: data_backup_reminder_x_days_ago_message
+```
+Last backup was %s days ago
+```
+translated (by machine 🤖) as:
+```
+Son yedekleme %s gün önceydi
+```

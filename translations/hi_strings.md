@@ -6671,3 +6671,23 @@ translated (by machine 🤖) as:
 ```
 खरीदारी विफल: %s
 ```
+
+
+## Translation Key: data_backup_reminder_title
+```
+Data backup
+```
+translated (by machine 🤖) as:
+```
+डेटा बैकअप
+```
+
+
+## Translation Key: data_backup_reminder_x_days_ago_message
+```
+Last backup was %s days ago
+```
+translated (by machine 🤖) as:
+```
+पिछला बैकअप %s दिन पहले था
+```

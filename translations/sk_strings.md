@@ -6671,3 +6671,23 @@ translated (by machine 🤖) as:
 ```
 Nákup zlyhal: %s
 ```
+
+
+## Translation Key: data_backup_reminder_title
+```
+Data backup
+```
+translated (by machine 🤖) as:
+```
+Zálohovanie dát
+```
+
+
+## Translation Key: data_backup_reminder_x_days_ago_message
+```
+Last backup was %s days ago
+```
+translated (by machine 🤖) as:
+```
+Posledná záloha bola vykonaná pred %s dňami
+```

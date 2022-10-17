@@ -6670,3 +6670,23 @@ translated (by machine 🤖) as:
 ```
 Pirkimas nepavyko: %s
 ```
+
+
+## Translation Key: data_backup_reminder_title
+```
+Data backup
+```
+translated (by machine 🤖) as:
+```
+Duomenų atsarginė kopija
+```
+
+
+## Translation Key: data_backup_reminder_x_days_ago_message
+```
+Last backup was %s days ago
+```
+translated (by machine 🤖) as:
+```
+Paskutinė atsarginė kopija buvo prieš %s dienas
+```

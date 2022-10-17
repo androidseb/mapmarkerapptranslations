@@ -6671,3 +6671,23 @@ translated (by machine 🤖) as:
 ```
 הרכישה נכשלה: %s
 ```
+
+
+## Translation Key: data_backup_reminder_title
+```
+Data backup
+```
+translated (by machine 🤖) as:
+```
+גיבוי נתונים
+```
+
+
+## Translation Key: data_backup_reminder_x_days_ago_message
+```
+Last backup was %s days ago
+```
+translated (by machine 🤖) as:
+```
+הגיבוי האחרון היה לפני %s ימים
+```

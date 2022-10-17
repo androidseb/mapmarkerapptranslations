@@ -6671,3 +6671,23 @@ translated (by machine 🤖) as:
 ```
 Mua không thành công: %s
 ```
+
+
+## Translation Key: data_backup_reminder_title
+```
+Data backup
+```
+translated (by machine 🤖) as:
+```
+Sao lưu dữ liệu
+```
+
+
+## Translation Key: data_backup_reminder_x_days_ago_message
+```
+Last backup was %s days ago
+```
+translated (by machine 🤖) as:
+```
+Lần sao lưu cuối cùng là %s ngày trước
+```

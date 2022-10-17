@@ -6668,3 +6668,23 @@ translated (by machine 🤖) as:
 ```
 Не удалось совершить покупку: %s
 ```
+
+
+## Translation Key: data_backup_reminder_title
+```
+Data backup
+```
+translated (by machine 🤖) as:
+```
+Резервное копирование данных
+```
+
+
+## Translation Key: data_backup_reminder_x_days_ago_message
+```
+Last backup was %s days ago
+```
+translated (by machine 🤖) as:
+```
+Последнее резервное копирование было %s дней назад
+```

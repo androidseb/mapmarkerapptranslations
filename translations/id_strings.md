@@ -6671,3 +6671,23 @@ translated (by machine 🤖) as:
 ```
 Pembelian gagal: %s
 ```
+
+
+## Translation Key: data_backup_reminder_title
+```
+Data backup
+```
+translated (by machine 🤖) as:
+```
+Cadangan data
+```
+
+
+## Translation Key: data_backup_reminder_x_days_ago_message
+```
+Last backup was %s days ago
+```
+translated (by machine 🤖) as:
+```
+Cadangan terakhir adalah %s hari yang lalu
+```

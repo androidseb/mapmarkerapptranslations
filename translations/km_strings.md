@@ -6671,3 +6671,23 @@ translated (by machine 🤖) as:
 ```
 ការទិញបានបរាជ័យ៖ %s
 ```
+
+
+## Translation Key: data_backup_reminder_title
+```
+Data backup
+```
+translated (by machine 🤖) as:
+```
+ការបម្រុងទុកទិន្នន័យ
+```
+
+
+## Translation Key: data_backup_reminder_x_days_ago_message
+```
+Last backup was %s days ago
+```
+translated (by machine 🤖) as:
+```
+ការបម្រុងទុកចុងក្រោយគឺ %s ថ្ងៃមុន។
+```

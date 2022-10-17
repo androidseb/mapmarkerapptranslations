@@ -6671,3 +6671,23 @@ translated (by machine 🤖) as:
 ```
 Zakup nie powiódł się: %s
 ```
+
+
+## Translation Key: data_backup_reminder_title
+```
+Data backup
+```
+translated (by machine 🤖) as:
+```
+Backup danych
+```
+
+
+## Translation Key: data_backup_reminder_x_days_ago_message
+```
+Last backup was %s days ago
+```
+translated (by machine 🤖) as:
+```
+Ostatnia kopia zapasowa była %s dni temu
+```

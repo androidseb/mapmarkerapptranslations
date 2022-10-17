@@ -6668,3 +6668,23 @@ translated (by machine 🤖) as:
 ```
 Nakup ni uspel: %s
 ```
+
+
+## Translation Key: data_backup_reminder_title
+```
+Data backup
+```
+translated (by machine 🤖) as:
+```
+Varnostno kopiranje podatkov
+```
+
+
+## Translation Key: data_backup_reminder_x_days_ago_message
+```
+Last backup was %s days ago
+```
+translated (by machine 🤖) as:
+```
+Zadnja varnostna kopija je bila narejena pred %s dnevi
+```
