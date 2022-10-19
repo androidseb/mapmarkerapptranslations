@@ -6691,3 +6691,23 @@ translated (by machine 🤖) as:
 ```
 Siste sikkerhetskopiering var for %s dager siden
 ```
+
+
+## Translation Key: from_legacy_map_marker_v2_cloud_map
+```
+From legacy Map Marker V2 cloud map (Google Drive)
+```
+translated (by machine 🤖) as:
+```
+Fra eldre Map Marker V2 skykart (Google Drive)
+```
+
+
+## Translation Key: downloading_and_importing_cloud_map
+```
+Downloading and importing cloud map…
+```
+translated (by machine 🤖) as:
+```
+Laster ned og importerer skykart …
+```

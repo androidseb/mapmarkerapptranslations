@@ -6691,3 +6691,23 @@ translated (by machine 🤖) as:
 ```
 Последња резервна копија је била пре %s дана
 ```
+
+
+## Translation Key: from_legacy_map_marker_v2_cloud_map
+```
+From legacy Map Marker V2 cloud map (Google Drive)
+```
+translated (by machine 🤖) as:
+```
+Из старе Map Marker В2 мапе облака (Google Drive)
+```
+
+
+## Translation Key: downloading_and_importing_cloud_map
+```
+Downloading and importing cloud map…
+```
+translated (by machine 🤖) as:
+```
+Преузимање и увоз мапе облака…
+```

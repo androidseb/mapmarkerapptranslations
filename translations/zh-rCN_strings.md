@@ -6691,3 +6691,23 @@ translated (by machine 🤖) as:
 ```
 上次备份是 %s 天前
 ```
+
+
+## Translation Key: from_legacy_map_marker_v2_cloud_map
+```
+From legacy Map Marker V2 cloud map (Google Drive)
+```
+translated (by machine 🤖) as:
+```
+来自旧版Map Marker V2云图（Google Drive）
+```
+
+
+## Translation Key: downloading_and_importing_cloud_map
+```
+Downloading and importing cloud map…
+```
+translated (by machine 🤖) as:
+```
+正在下载和导入云图...
+```

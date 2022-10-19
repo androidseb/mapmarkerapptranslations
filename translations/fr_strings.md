@@ -6691,3 +6691,23 @@ translated (by human 👀) as:
 ```
 La dernière sauvegarde date de %s jours
 ```
+
+
+## Translation Key: from_legacy_map_marker_v2_cloud_map
+```
+From legacy Map Marker V2 cloud map (Google Drive)
+```
+translated (by human 👀) as:
+```
+Depuis une ancienne carte cloud de Map Marker V2 (Google Drive)
+```
+
+
+## Translation Key: downloading_and_importing_cloud_map
+```
+Downloading and importing cloud map…
+```
+translated (by human 👀) as:
+```
+Téléchargement et importation de la carte cloud…
+```

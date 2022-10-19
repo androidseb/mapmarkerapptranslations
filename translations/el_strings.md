@@ -6691,3 +6691,23 @@ translated (by machine 🤖) as:
 ```
 Το τελευταίο αντίγραφο ασφαλείας έγινε πριν από %s ημέρες
 ```
+
+
+## Translation Key: from_legacy_map_marker_v2_cloud_map
+```
+From legacy Map Marker V2 cloud map (Google Drive)
+```
+translated (by machine 🤖) as:
+```
+Από παλαιού τύπου Map Marker V2 χάρτη cloud (Google Drive)
+```
+
+
+## Translation Key: downloading_and_importing_cloud_map
+```
+Downloading and importing cloud map…
+```
+translated (by machine 🤖) as:
+```
+Λήψη και εισαγωγή χάρτη cloud…
+```

@@ -6688,3 +6688,23 @@ translated (by machine 🤖) as:
 ```
 Последнее резервное копирование было %s дней назад
 ```
+
+
+## Translation Key: from_legacy_map_marker_v2_cloud_map
+```
+From legacy Map Marker V2 cloud map (Google Drive)
+```
+translated (by machine 🤖) as:
+```
+Из устаревшей карты облаков Map Marker V2 (Google Drive)
+```
+
+
+## Translation Key: downloading_and_importing_cloud_map
+```
+Downloading and importing cloud map…
+```
+translated (by machine 🤖) as:
+```
+Загрузка и импорт облачной карты…
+```

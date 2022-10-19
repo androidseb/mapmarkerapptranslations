@@ -6691,3 +6691,23 @@ translated (by machine 🤖) as:
 ```
 पिछला बैकअप %s दिन पहले था
 ```
+
+
+## Translation Key: from_legacy_map_marker_v2_cloud_map
+```
+From legacy Map Marker V2 cloud map (Google Drive)
+```
+translated (by machine 🤖) as:
+```
+लीगेसी Map Marker V2 क्लाउड मैप से (Google Drive)
+```
+
+
+## Translation Key: downloading_and_importing_cloud_map
+```
+Downloading and importing cloud map…
+```
+translated (by machine 🤖) as:
+```
+क्लाउड मानचित्र डाउनलोड और आयात किया जा रहा है…
+```

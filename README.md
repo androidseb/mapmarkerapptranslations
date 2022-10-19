@@ -49,7 +49,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Czech (0% human-translated)](./translations/cs_strings.md)
 
-[Danish (25% human-translated)](./translations/da_strings.md)
+[Danish (24% human-translated)](./translations/da_strings.md)
 
 [Dutch (82% human-translated)](./translations/nl_strings.md)
 
