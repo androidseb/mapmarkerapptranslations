@@ -6703,3 +6703,45 @@ translated (by machine 🤖) as:
 ```
 正在下載和導入雲圖…
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+再次運行數據遷移
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+選擇要再次運行數據遷移的舊地圖
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+舊地圖數據重新遷移成功！
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+舊地圖數據重新遷移失敗：
+%s
+```

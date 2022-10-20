@@ -6708,3 +6708,45 @@ translated (by machine 🤖) as:
 ```
 Cloud-Karte wird heruntergeladen und importiert…
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+Führen Sie die Datenmigration erneut aus
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+Wählen Sie eine alte Karte aus, auf der die Datenmigration erneut ausgeführt werden soll
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Alte Kartendaten erneut migrieren erfolgreich!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Alte Kartendaten erneut migrieren fehlgeschlagen:
+%s
+```

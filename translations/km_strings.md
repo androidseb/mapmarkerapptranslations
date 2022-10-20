@@ -6711,3 +6711,45 @@ translated (by machine 🤖) as:
 ```
 កំពុងទាញយក និងនាំចូលផែនទីពពក...
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+ដំណើរការការផ្ទេរទិន្នន័យម្តងទៀត
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+ជ្រើសរើសផែនទីចាស់ដែលត្រូវដំណើរការការផ្ទេរទិន្នន័យម្តងទៀត
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+ការផ្ទេរទិន្នន័យផែនទីចាស់ឡើងវិញបានជោគជ័យ!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+ការផ្ទេរទិន្នន័យផែនទីចាស់ឡើងវិញបានបរាជ័យ៖
+_៧
+```

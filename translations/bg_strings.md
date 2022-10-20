@@ -6711,3 +6711,45 @@ translated (by machine 🤖) as:
 ```
 Изтегля се и се импортира облачна карта...
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+Стартирайте миграцията на данни отново
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+Изберете стара карта, върху която да стартирате отново миграцията на данни
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Повторното мигриране на данни от старата карта е успешно!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Неуспешно повторно мигриране на данни от старата карта:
+%s
+```

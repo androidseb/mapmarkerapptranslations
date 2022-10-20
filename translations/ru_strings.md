@@ -6708,3 +6708,45 @@ translated (by machine 🤖) as:
 ```
 Загрузка и импорт облачной карты…
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+Запустите миграцию данных еще раз
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+Выберите старую карту, на которой нужно снова запустить миграцию данных.
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Повторный перенос данных старой карты выполнен успешно!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Ошибка повторного переноса данных старой карты:
+%s
+```

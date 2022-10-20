@@ -6711,3 +6711,45 @@ translated (by machine 🤖) as:
 ```
 क्लाउड मानचित्र डाउनलोड और आयात किया जा रहा है…
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+डेटा माइग्रेशन फिर से चलाएँ
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+एक पुराने मानचित्र का चयन करें जिस पर डेटा माइग्रेशन फिर से चलाना है
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+पुराने मानचित्र डेटा का पुन: स्थानांतरण सफल रहा!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+पुराना नक्शा डेटा पुन: माइग्रेशन विफल:
+%s
+```

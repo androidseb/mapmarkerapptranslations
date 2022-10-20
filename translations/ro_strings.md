@@ -6711,3 +6711,45 @@ translated (by machine 🤖) as:
 ```
 Se descarcă și se importă harta cloud...
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+Rulați din nou migrarea datelor
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+Selectați o hartă veche pe care să rulați din nou migrarea datelor
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Remigrarea datelor din hărți vechi a reușit!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Remigrarea datelor hărții vechi a eșuat:
+%s
+```

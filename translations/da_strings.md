@@ -6715,3 +6715,45 @@ translated (by machine 🤖) as:
 ```
 Downloader og importerer skykort...
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+Kør datamigrering igen
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+Vælg et gammelt kort, som datamigreringen skal køres på igen
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Gamle kortdata re-migrering lykkedes!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Genmigrering af gamle kortdata mislykkedes:
+%s
+```

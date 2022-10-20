@@ -6711,3 +6711,45 @@ translated (by machine 🤖) as:
 ```
 جارٍ تنزيل واستيراد خريطة السحابة ...
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+شغّل ترحيل البيانات مرة أخرى
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+حدد خريطة قديمة لتشغيل ترحيل البيانات عليها مرة أخرى
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+نجحت إعادة ترحيل بيانات الخرائط القديمة!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+فشلت إعادة ترحيل بيانات الخرائط القديمة:
+%s
+```

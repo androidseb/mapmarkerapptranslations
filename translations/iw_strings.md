@@ -6711,3 +6711,45 @@ translated (by machine 🤖) as:
 ```
 מוריד ומייבא מפת ענן...
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+הפעל שוב העברת נתונים
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+בחר מפה ישנה שבה תפעיל שוב את העברת הנתונים
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+ההגירה מחדש של נתוני המפה הישנים הצליחה!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+העברה מחדש של נתוני מפה ישנים נכשלה:
+%s
+```

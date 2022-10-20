@@ -6711,3 +6711,45 @@ translated (by machine 🤖) as:
 ```
 Đang tải xuống và nhập bản đồ đám mây…
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+Chạy lại quá trình di chuyển dữ liệu
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+Chọn một bản đồ cũ để chạy lại quá trình di chuyển dữ liệu
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Di chuyển lại dữ liệu bản đồ cũ đã thành công!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Di chuyển lại dữ liệu bản đồ cũ không thành công:
+%s
+```

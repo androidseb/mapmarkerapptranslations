@@ -6711,3 +6711,45 @@ translated (by machine 🤖) as:
 ```
 클라우드 지도 다운로드 및 가져오는 중…
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+데이터 마이그레이션 다시 실행
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+데이터 이전을 다시 실행할 이전 지도를 선택하세요.
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+기존 지도 데이터 재이전 성공!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+이전 지도 데이터 재이전 실패:
+%s
+```

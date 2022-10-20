@@ -6711,3 +6711,45 @@ translated (by machine 🤖) as:
 ```
 Preuzimanje i uvoz karte oblaka…
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+Ponovno pokrenite migraciju podataka
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+Odaberite staru kartu na kojoj želite ponovno pokrenuti migraciju podataka
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Ponovna migracija podataka stare karte je uspjela!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Ponovna migracija podataka stare karte nije uspjela:
+%s
+```

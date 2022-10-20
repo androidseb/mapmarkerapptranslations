@@ -6711,3 +6711,45 @@ translated (by machine 🤖) as:
 ```
 Преузимање и увоз мапе облака…
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+Поново покрените миграцију података
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+Изаберите стару мапу на којој ћете поново покренути миграцију података
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Поновна миграција података старе мапе је успела!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Поновна миграција података старе мапе није успела:
+%s
+```

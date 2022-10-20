@@ -6711,3 +6711,45 @@ translated (by machine 🤖) as:
 ```
 Bulut haritası indiriliyor ve içe aktarılıyor…
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+Veri taşımayı yeniden çalıştırın
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+Veri taşımanın yeniden çalıştırılacağı eski bir harita seçin
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Eski harita verilerinin yeniden taşınması başarılı oldu!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Eski harita verilerinin yeniden taşınması başarısız oldu:
+%s
+```

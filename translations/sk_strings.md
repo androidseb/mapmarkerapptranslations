@@ -6711,3 +6711,45 @@ translated (by machine 🤖) as:
 ```
 Sťahuje sa a importuje cloudová mapa…
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+Znova spustite migráciu údajov
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+Vyberte starú mapu, na ktorej znova spustíte migráciu údajov
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Opätovná migrácia údajov máp bola úspešná!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Opätovná migrácia údajov máp zlyhala:
+%s
+```

@@ -6705,3 +6705,45 @@ translated (by machine 🤖) as:
 ```
 Cloudkaart downloaden en importeren…
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+Voer gegevensmigratie opnieuw uit
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+Selecteer een oude kaart waarop u de gegevensmigratie opnieuw wilt uitvoeren
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Hermigratie van oude kaartgegevens is gelukt!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Hermigratie van oude kaartgegevens mislukt:
+%s
+```

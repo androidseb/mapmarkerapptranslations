@@ -6708,3 +6708,45 @@ translated (by machine 🤖) as:
 ```
 Prenos in uvoz zemljevida v oblaku …
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+Ponovno zaženite selitev podatkov
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+Izberite stari zemljevid, na katerem želite znova izvesti selitev podatkov
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Ponovna selitev podatkov starega zemljevida je uspela!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Ponovna selitev podatkov starega zemljevida ni uspela:
+%s
+```

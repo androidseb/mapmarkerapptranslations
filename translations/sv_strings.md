@@ -6711,3 +6711,45 @@ translated (by machine 🤖) as:
 ```
 Laddar ner och importerar molnkarta...
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+Kör datamigrering igen
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+Välj en gammal karta som du vill köra datamigreringen på igen
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Återmigreringen av gamla kartdata lyckades!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Ommigrering av gamla kartdata misslyckades:
+%s
+```

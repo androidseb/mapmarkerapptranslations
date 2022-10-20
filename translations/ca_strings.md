@@ -6711,3 +6711,45 @@ translated (by machine 🤖) as:
 ```
 S'està baixant i important el mapa del núvol...
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+Torna a executar la migració de dades
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+Seleccioneu un mapa antic on tornar a executar la migració de dades
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+La remigració de dades de mapes antics ha estat correcta.
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+No s'ha pogut tornar a migrar les dades del mapa antic:
+%s
+```

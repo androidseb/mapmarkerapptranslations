@@ -6711,3 +6711,45 @@ translated (by machine 🤖) as:
 ```
 Завантаження та імпорт хмарної карти…
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+Знову запустіть міграцію даних
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+Виберіть стару карту, на якій потрібно повторно запустити міграцію даних
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Повторне переміщення даних старої карти виконано!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Помилка повторного перенесення даних старої карти:
+%s
+```

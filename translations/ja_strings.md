@@ -6712,3 +6712,45 @@ translated (by machine 🤖) as:
 ```
 クラウド マップをダウンロードしてインポートしています…
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+データ移行を再度実行する
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+データ移行を再度実行する古いマップを選択してください
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+旧地図データの再移行に成功！
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+古い地図データの再移行に失敗しました:
+%s
+```

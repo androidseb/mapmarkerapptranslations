@@ -6711,3 +6711,45 @@ translated (by machine 🤖) as:
 ```
 Mengunduh dan mengimpor peta awan…
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+Jalankan migrasi data lagi
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+Pilih peta lama untuk menjalankan migrasi data lagi
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Migrasi ulang data peta lama berhasil!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Migrasi ulang data peta lama gagal:
+%s
+```

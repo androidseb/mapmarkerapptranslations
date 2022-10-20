@@ -6712,3 +6712,45 @@ translated (by machine 🤖) as:
 ```
 กำลังดาวน์โหลดและนำเข้าแผนที่คลาวด์...
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+เรียกใช้การย้ายข้อมูลอีกครั้ง
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+เลือกแผนที่เก่าที่จะเรียกใช้การย้ายข้อมูลอีกครั้ง
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+การย้ายข้อมูลแผนที่เก่าอีกครั้งสำเร็จแล้ว!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+การย้ายข้อมูลแผนที่เก่าล้มเหลว:
+%s
+```

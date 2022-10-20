@@ -6711,3 +6711,45 @@ translated (by human 👀) as:
 ```
 Téléchargement et importation de la carte cloud…
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by human 👀) as:
+```
+Re-lancer la migration de données
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by human 👀) as:
+```
+Sélectionnez une ancienne carte sur laquelle effectuer la migration de données à nouveau
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by human 👀) as:
+```
+Migration de l'ancienne carte réussie !
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by human 👀) as:
+```
+Migration de l'ancienne carte échouée:
+%s
+```

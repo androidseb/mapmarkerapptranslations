@@ -6711,3 +6711,45 @@ translated (by machine 🤖) as:
 ```
 Descargando e importando mapa de nubes…
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+Vuelva a ejecutar la migración de datos
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+Seleccione un mapa antiguo en el que ejecutar la migración de datos nuevamente
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+¡La remigración de datos de mapas antiguos se realizó correctamente!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Error al volver a migrar los datos del mapa antiguo:
+%s
+```

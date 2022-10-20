@@ -6711,3 +6711,45 @@ translated (by machine 🤖) as:
 ```
 Λήψη και εισαγωγή χάρτη cloud…
 ```
+
+
+## Translation Key: run_data_migration_again
+```
+Run data migration again
+```
+translated (by machine 🤖) as:
+```
+Εκτελέστε ξανά τη μετεγκατάσταση δεδομένων
+```
+
+
+## Translation Key: run_data_migration_again_description
+```
+Select an old map on which to run the data migration again
+```
+translated (by machine 🤖) as:
+```
+Επιλέξτε έναν παλιό χάρτη στον οποίο θα εκτελέσετε ξανά τη μετεγκατάσταση δεδομένων
+```
+
+
+## Translation Key: old_map_data_re_migration_succeeded
+```
+Old map data re-migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Η εκ νέου μετεγκατάσταση δεδομένων παλιού χάρτη πέτυχε!
+```
+
+
+## Translation Key: old_map_data_re_migration_failed
+```
+Old map data re-migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Η εκ νέου μετεγκατάσταση δεδομένων παλιού χάρτη απέτυχε:
+%s
+```
