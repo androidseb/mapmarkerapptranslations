@@ -6763,3 +6763,13 @@ translated (by machine 🤖) as:
 ```
 Migruje sa staršia cloudová mapa V2…
 ```
+
+
+## Translation Key: hint_select_v2_map_to_migrate
+```
+Select the V2 map to migrate
+```
+translated (by machine 🤖) as:
+```
+Vyberte mapu V2, ktorú chcete migrovať
+```

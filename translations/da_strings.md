@@ -6767,3 +6767,13 @@ translated (by machine 🤖) as:
 ```
 Migrerer det gamle V2-skykort...
 ```
+
+
+## Translation Key: hint_select_v2_map_to_migrate
+```
+Select the V2 map to migrate
+```
+translated (by machine 🤖) as:
+```
+Vælg V2-kortet, der skal migreres
+```

@@ -6764,3 +6764,13 @@ translated (by machine 🤖) as:
 ```
 従来の V2 クラウド マップを移行しています…
 ```
+
+
+## Translation Key: hint_select_v2_map_to_migrate
+```
+Select the V2 map to migrate
+```
+translated (by machine 🤖) as:
+```
+移行する V2 マップを選択してください
+```

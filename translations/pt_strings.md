@@ -6763,3 +6763,13 @@ translated (by machine 🤖) as:
 ```
 Migrando o mapa de nuvem legado V2…
 ```
+
+
+## Translation Key: hint_select_v2_map_to_migrate
+```
+Select the V2 map to migrate
+```
+translated (by machine 🤖) as:
+```
+Selecione o mapa V2 para migrar
+```

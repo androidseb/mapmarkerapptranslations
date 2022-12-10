@@ -6763,3 +6763,13 @@ translated (by machine 🤖) as:
 ```
 Memigrasikan peta cloud V2 lama…
 ```
+
+
+## Translation Key: hint_select_v2_map_to_migrate
+```
+Select the V2 map to migrate
+```
+translated (by machine 🤖) as:
+```
+Pilih peta V2 untuk dimigrasikan
+```

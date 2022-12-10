@@ -6763,3 +6763,13 @@ translated (by machine 🤖) as:
 ```
 Migrazione della mappa cloud V2 legacy…
 ```
+
+
+## Translation Key: hint_select_v2_map_to_migrate
+```
+Select the V2 map to migrate
+```
+translated (by machine 🤖) as:
+```
+Seleziona la mappa V2 da migrare
+```

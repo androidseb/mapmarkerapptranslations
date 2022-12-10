@@ -6763,3 +6763,13 @@ translated (by machine 🤖) as:
 ```
 Migrerar äldre V2 molnkarta …
 ```
+
+
+## Translation Key: hint_select_v2_map_to_migrate
+```
+Select the V2 map to migrate
+```
+translated (by machine 🤖) as:
+```
+Välj V2-kartan att migrera
+```

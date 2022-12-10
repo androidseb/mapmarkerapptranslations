@@ -6763,3 +6763,13 @@ translated (by machine 🤖) as:
 ```
 A régi V2 felhőtérkép migrálása…
 ```
+
+
+## Translation Key: hint_select_v2_map_to_migrate
+```
+Select the V2 map to migrate
+```
+translated (by machine 🤖) as:
+```
+Válassza ki az áttelepítendő V2 térképet
+```

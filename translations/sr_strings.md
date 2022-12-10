@@ -6763,3 +6763,13 @@ translated (by machine 🤖) as:
 ```
 Мигрира се стара В2 мапа облака…
 ```
+
+
+## Translation Key: hint_select_v2_map_to_migrate
+```
+Select the V2 map to migrate
+```
+translated (by machine 🤖) as:
+```
+Изаберите В2 мапу за миграцију
+```

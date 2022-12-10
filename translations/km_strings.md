@@ -6763,3 +6763,13 @@ translated (by machine 🤖) as:
 ```
 កំពុងផ្ទេរផែនទីពពក V2 ចាស់...
 ```
+
+
+## Translation Key: hint_select_v2_map_to_migrate
+```
+Select the V2 map to migrate
+```
+translated (by machine 🤖) as:
+```
+ជ្រើសរើសផែនទី V2 ដើម្បីផ្លាស់ទី
+```

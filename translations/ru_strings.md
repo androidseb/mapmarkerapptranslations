@@ -6760,3 +6760,13 @@ translated (by machine 🤖) as:
 ```
 Перенос устаревшей облачной карты V2…
 ```
+
+
+## Translation Key: hint_select_v2_map_to_migrate
+```
+Select the V2 map to migrate
+```
+translated (by machine 🤖) as:
+```
+Выберите карту V2 для переноса
+```

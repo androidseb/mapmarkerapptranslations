@@ -6763,3 +6763,13 @@ translated (by machine 🤖) as:
 ```
 레거시 V2 클라우드 맵 마이그레이션 중…
 ```
+
+
+## Translation Key: hint_select_v2_map_to_migrate
+```
+Select the V2 map to migrate
+```
+translated (by machine 🤖) as:
+```
+마이그레이션할 V2 맵 선택
+```

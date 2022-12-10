@@ -6763,3 +6763,13 @@ translated (by machine 🤖) as:
 ```
 Notiek mantotās V2 mākoņkartes migrēšana…
 ```
+
+
+## Translation Key: hint_select_v2_map_to_migrate
+```
+Select the V2 map to migrate
+```
+translated (by machine 🤖) as:
+```
+Atlasiet V2 karti, lai migrētu
+```

@@ -6763,3 +6763,13 @@ translated (by machine 🤖) as:
 ```
 Μετεγκατάσταση χάρτη cloud παλαιού τύπου V2…
 ```
+
+
+## Translation Key: hint_select_v2_map_to_migrate
+```
+Select the V2 map to migrate
+```
+translated (by machine 🤖) as:
+```
+Επιλέξτε τον χάρτη V2 για μετεγκατάσταση
+```

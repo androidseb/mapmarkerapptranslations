@@ -6763,3 +6763,13 @@ translated (by machine 🤖) as:
 ```
 正在迁移旧版 V2 云地图…
 ```
+
+
+## Translation Key: hint_select_v2_map_to_migrate
+```
+Select the V2 map to migrate
+```
+translated (by machine 🤖) as:
+```
+选择要迁移的 V2 地图
+```
