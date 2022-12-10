@@ -6693,16 +6693,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: from_legacy_map_marker_v2_cloud_map
-```
-From legacy Map Marker V2 cloud map (Google Drive)
-```
-translated (by machine 🤖) as:
-```
-레거시 Map Marker V2 클라우드 맵(Google Drive)에서
-```
-
-
 ## Translation Key: downloading_and_importing_cloud_map
 ```
 Downloading and importing cloud map…
@@ -6752,4 +6742,24 @@ translated (by machine 🤖) as:
 ```
 이전 지도 데이터 재이전 실패:
 %s
+```
+
+
+## Translation Key: action_open_and_migrate_v2_cloud_map_title
+```
+Open and migrate a V2 cloud map
+```
+translated (by machine 🤖) as:
+```
+V2 클라우드 맵 열기 및 마이그레이션
+```
+
+
+## Translation Key: action_open_and_migrate_v2_cloud_map_description
+```
+Migrate a legacy cloud map from Map Marker V2 (app version from before 2023) and open it as a new cloud map
+```
+translated (by machine 🤖) as:
+```
+Map Marker V2(2023년 이전의 앱 버전)에서 레거시 클라우드 맵을 마이그레이션하고 새 클라우드 맵으로 엽니다.
 ```

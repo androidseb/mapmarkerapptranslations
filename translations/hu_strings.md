@@ -6693,16 +6693,6 @@ Az utolsó biztonsági mentés %s napja volt
 ```
 
 
-## Translation Key: from_legacy_map_marker_v2_cloud_map
-```
-From legacy Map Marker V2 cloud map (Google Drive)
-```
-translated (by machine 🤖) as:
-```
-A régi Map Marker V2 felhőtérképből (Google Drive)
-```
-
-
 ## Translation Key: downloading_and_importing_cloud_map
 ```
 Downloading and importing cloud map…
@@ -6752,4 +6742,24 @@ translated (by machine 🤖) as:
 ```
 A régi térképadatok újratelepítése nem sikerült:
 %s
+```
+
+
+## Translation Key: action_open_and_migrate_v2_cloud_map_title
+```
+Open and migrate a V2 cloud map
+```
+translated (by machine 🤖) as:
+```
+Nyisson meg és migráljon egy V2 felhőtérképet
+```
+
+
+## Translation Key: action_open_and_migrate_v2_cloud_map_description
+```
+Migrate a legacy cloud map from Map Marker V2 (app version from before 2023) and open it as a new cloud map
+```
+translated (by machine 🤖) as:
+```
+Migráljon egy régebbi felhőtérképet a Map Marker V2-ről (2023 előtti alkalmazásverzió), és nyissa meg új felhőtérképként
 ```

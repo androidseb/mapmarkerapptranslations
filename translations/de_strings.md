@@ -6690,16 +6690,6 @@ Die letzte Sicherung war vor %s Tagen
 ```
 
 
-## Translation Key: from_legacy_map_marker_v2_cloud_map
-```
-From legacy Map Marker V2 cloud map (Google Drive)
-```
-translated (by machine 🤖) as:
-```
-Von Legacy Map Marker V2 Cloud Map (Google Drive)
-```
-
-
 ## Translation Key: downloading_and_importing_cloud_map
 ```
 Downloading and importing cloud map…
@@ -6749,4 +6739,24 @@ translated (by machine 🤖) as:
 ```
 Alte Kartendaten erneut migrieren fehlgeschlagen:
 %s
+```
+
+
+## Translation Key: action_open_and_migrate_v2_cloud_map_title
+```
+Open and migrate a V2 cloud map
+```
+translated (by machine 🤖) as:
+```
+Öffnen und migrieren Sie eine V2-Cloud-Map
+```
+
+
+## Translation Key: action_open_and_migrate_v2_cloud_map_description
+```
+Migrate a legacy cloud map from Map Marker V2 (app version from before 2023) and open it as a new cloud map
+```
+translated (by machine 🤖) as:
+```
+Migrieren Sie eine ältere Cloud-Karte von Map Marker V2 (App-Version vor 2023) und öffnen Sie sie als neue Cloud-Karte
 ```

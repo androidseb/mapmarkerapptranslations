@@ -6694,16 +6694,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: from_legacy_map_marker_v2_cloud_map
-```
-From legacy Map Marker V2 cloud map (Google Drive)
-```
-translated (by machine 🤖) as:
-```
-従来の Map Marker V2 クラウド マップ (Google Drive) から
-```
-
-
 ## Translation Key: downloading_and_importing_cloud_map
 ```
 Downloading and importing cloud map…
@@ -6753,4 +6743,24 @@ translated (by machine 🤖) as:
 ```
 古い地図データの再移行に失敗しました:
 %s
+```
+
+
+## Translation Key: action_open_and_migrate_v2_cloud_map_title
+```
+Open and migrate a V2 cloud map
+```
+translated (by machine 🤖) as:
+```
+V2 クラウド マップを開いて移行する
+```
+
+
+## Translation Key: action_open_and_migrate_v2_cloud_map_description
+```
+Migrate a legacy cloud map from Map Marker V2 (app version from before 2023) and open it as a new cloud map
+```
+translated (by machine 🤖) as:
+```
+Map Marker V2 (2023 年以前のアプリ バージョン) から従来のクラウド マップを移行し、新しいクラウド マップとして開きます
 ```

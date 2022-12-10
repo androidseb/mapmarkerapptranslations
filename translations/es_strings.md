@@ -6693,16 +6693,6 @@ La última copia de seguridad fue hace %s días
 ```
 
 
-## Translation Key: from_legacy_map_marker_v2_cloud_map
-```
-From legacy Map Marker V2 cloud map (Google Drive)
-```
-translated (by machine 🤖) as:
-```
-Del mapa de nube heredado Map Marker V2 (Google Drive)
-```
-
-
 ## Translation Key: downloading_and_importing_cloud_map
 ```
 Downloading and importing cloud map…
@@ -6752,4 +6742,24 @@ translated (by machine 🤖) as:
 ```
 Error al volver a migrar los datos del mapa antiguo:
 %s
+```
+
+
+## Translation Key: action_open_and_migrate_v2_cloud_map_title
+```
+Open and migrate a V2 cloud map
+```
+translated (by machine 🤖) as:
+```
+Abra y migre un mapa en la nube V2
+```
+
+
+## Translation Key: action_open_and_migrate_v2_cloud_map_description
+```
+Migrate a legacy cloud map from Map Marker V2 (app version from before 2023) and open it as a new cloud map
+```
+translated (by machine 🤖) as:
+```
+Migre un mapa de nubes heredado de Map Marker V2 (versión de la aplicación anterior a 2023) y ábralo como un nuevo mapa de nubes
 ```

@@ -51,7 +51,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Danish (24% human-translated)](./translations/da_strings.md)
 
-[Dutch (82% human-translated)](./translations/nl_strings.md)
+[Dutch (81% human-translated)](./translations/nl_strings.md)
 
 [Finnish (0% human-translated)](./translations/fi_strings.md)
 
@@ -77,7 +77,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Latvian (0% human-translated)](./translations/lv_strings.md)
 
-[Lithuanian (60% human-translated)](./translations/lt_strings.md)
+[Lithuanian (59% human-translated)](./translations/lt_strings.md)
 
 [Norwegian (0% human-translated)](./translations/no_strings.md)
 
@@ -93,7 +93,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Slovak (0% human-translated)](./translations/sk_strings.md)
 
-[Slovenian (82% human-translated)](./translations/sl_strings.md)
+[Slovenian (81% human-translated)](./translations/sl_strings.md)
 
 [Spanish (15% human-translated)](./translations/es_strings.md)
 

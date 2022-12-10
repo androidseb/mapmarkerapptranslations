@@ -6693,16 +6693,6 @@ Zadnja sigurnosna kopija napravljena je prije %s dana
 ```
 
 
-## Translation Key: from_legacy_map_marker_v2_cloud_map
-```
-From legacy Map Marker V2 cloud map (Google Drive)
-```
-translated (by machine 🤖) as:
-```
-Iz naslijeđene karte oblaka Map Marker V2 (Google Drive)
-```
-
-
 ## Translation Key: downloading_and_importing_cloud_map
 ```
 Downloading and importing cloud map…
@@ -6752,4 +6742,24 @@ translated (by machine 🤖) as:
 ```
 Ponovna migracija podataka stare karte nije uspjela:
 %s
+```
+
+
+## Translation Key: action_open_and_migrate_v2_cloud_map_title
+```
+Open and migrate a V2 cloud map
+```
+translated (by machine 🤖) as:
+```
+Otvorite i migrirajte mapu oblaka V2
+```
+
+
+## Translation Key: action_open_and_migrate_v2_cloud_map_description
+```
+Migrate a legacy cloud map from Map Marker V2 (app version from before 2023) and open it as a new cloud map
+```
+translated (by machine 🤖) as:
+```
+Premjestite naslijeđenu kartu oblaka iz Map Marker V2 (verzija aplikacije prije 2023.) i otvorite je kao novu kartu oblaka
 ```

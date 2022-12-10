@@ -6693,16 +6693,6 @@ Viimeisin varmuuskopiointi tehtiin %s päivää sitten
 ```
 
 
-## Translation Key: from_legacy_map_marker_v2_cloud_map
-```
-From legacy Map Marker V2 cloud map (Google Drive)
-```
-translated (by machine 🤖) as:
-```
-Vanhasta Map Marker V2 -pilvikartasta (Google Drive)
-```
-
-
 ## Translation Key: downloading_and_importing_cloud_map
 ```
 Downloading and importing cloud map…
@@ -6752,4 +6742,24 @@ translated (by machine 🤖) as:
 ```
 Vanhojen karttatietojen uudelleensiirto epäonnistui:
 %s
+```
+
+
+## Translation Key: action_open_and_migrate_v2_cloud_map_title
+```
+Open and migrate a V2 cloud map
+```
+translated (by machine 🤖) as:
+```
+Avaa ja siirrä V2-pilvikartta
+```
+
+
+## Translation Key: action_open_and_migrate_v2_cloud_map_description
+```
+Migrate a legacy cloud map from Map Marker V2 (app version from before 2023) and open it as a new cloud map
+```
+translated (by machine 🤖) as:
+```
+Siirrä vanha pilvikartta versiosta Map Marker V2 (sovellusversio ennen vuotta 2023) ja avaa se uutena pilvikartana
 ```

@@ -6693,16 +6693,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: from_legacy_map_marker_v2_cloud_map
-```
-From legacy Map Marker V2 cloud map (Google Drive)
-```
-translated (by machine 🤖) as:
-```
-Από παλαιού τύπου Map Marker V2 χάρτη cloud (Google Drive)
-```
-
-
 ## Translation Key: downloading_and_importing_cloud_map
 ```
 Downloading and importing cloud map…
@@ -6752,4 +6742,24 @@ translated (by machine 🤖) as:
 ```
 Η εκ νέου μετεγκατάσταση δεδομένων παλιού χάρτη απέτυχε:
 %s
+```
+
+
+## Translation Key: action_open_and_migrate_v2_cloud_map_title
+```
+Open and migrate a V2 cloud map
+```
+translated (by machine 🤖) as:
+```
+Ανοίξτε και μετεγκαταστήστε έναν χάρτη νέφους V2
+```
+
+
+## Translation Key: action_open_and_migrate_v2_cloud_map_description
+```
+Migrate a legacy cloud map from Map Marker V2 (app version from before 2023) and open it as a new cloud map
+```
+translated (by machine 🤖) as:
+```
+Μετεγκατάσταση χάρτη cloud παλαιού τύπου από Map Marker V2 (έκδοση εφαρμογής πριν από το 2023) και ανοίξτε τον ως νέο χάρτη cloud
 ```

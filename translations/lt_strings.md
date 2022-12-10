@@ -6692,16 +6692,6 @@ Paskutinė atsarginė kopija buvo prieš %s dienas
 ```
 
 
-## Translation Key: from_legacy_map_marker_v2_cloud_map
-```
-From legacy Map Marker V2 cloud map (Google Drive)
-```
-translated (by machine 🤖) as:
-```
-Iš senojo Map Marker V2 debesų žemėlapio (Google Drive)
-```
-
-
 ## Translation Key: downloading_and_importing_cloud_map
 ```
 Downloading and importing cloud map…
@@ -6751,4 +6741,24 @@ translated (by machine 🤖) as:
 ```
 Senų žemėlapių duomenų pakartotinis perkėlimas nepavyko:
 %s
+```
+
+
+## Translation Key: action_open_and_migrate_v2_cloud_map_title
+```
+Open and migrate a V2 cloud map
+```
+translated (by machine 🤖) as:
+```
+Atidarykite ir perkelkite V2 debesies žemėlapį
+```
+
+
+## Translation Key: action_open_and_migrate_v2_cloud_map_description
+```
+Migrate a legacy cloud map from Map Marker V2 (app version from before 2023) and open it as a new cloud map
+```
+translated (by machine 🤖) as:
+```
+Perkelkite seną debesų žemėlapį iš Map Marker V2 (programos versija iki 2023 m.) ir atidarykite jį kaip naują debesies žemėlapį
 ```

@@ -6694,16 +6694,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: from_legacy_map_marker_v2_cloud_map
-```
-From legacy Map Marker V2 cloud map (Google Drive)
-```
-translated (by machine 🤖) as:
-```
-จากแผนที่คลาวด์ดั้งเดิม Map Marker V2 (Google Drive)
-```
-
-
 ## Translation Key: downloading_and_importing_cloud_map
 ```
 Downloading and importing cloud map…
@@ -6753,4 +6743,24 @@ translated (by machine 🤖) as:
 ```
 การย้ายข้อมูลแผนที่เก่าล้มเหลว:
 %s
+```
+
+
+## Translation Key: action_open_and_migrate_v2_cloud_map_title
+```
+Open and migrate a V2 cloud map
+```
+translated (by machine 🤖) as:
+```
+เปิดและย้ายแผนที่ระบบคลาวด์ V2
+```
+
+
+## Translation Key: action_open_and_migrate_v2_cloud_map_description
+```
+Migrate a legacy cloud map from Map Marker V2 (app version from before 2023) and open it as a new cloud map
+```
+translated (by machine 🤖) as:
+```
+ย้ายแผนที่คลาวด์ดั้งเดิมจาก Map Marker V2 (เวอร์ชันแอปก่อนปี 2023) และเปิดเป็นแผนที่คลาวด์ใหม่
 ```
