@@ -6697,16 +6697,6 @@ Sidste sikkerhedskopiering var for %s dage siden
 ```
 
 
-## Translation Key: downloading_and_importing_cloud_map
-```
-Downloading and importing cloud map…
-```
-translated (by machine 🤖) as:
-```
-Downloader og importerer skykort...
-```
-
-
 ## Translation Key: run_data_migration_again
 ```
 Run data migration again
@@ -6766,4 +6756,14 @@ Migrate a legacy cloud map from Map Marker V2 (app version from before 2023) and
 translated (by machine 🤖) as:
 ```
 Migrer et ældre skykort fra Map Marker V2 (appversion fra før 2023) og åbn det som et nyt skykort
+```
+
+
+## Translation Key: migrating_legacy_v2_cloud_map
+```
+Migrating legacy V2 cloud map…
+```
+translated (by machine 🤖) as:
+```
+Migrerer det gamle V2-skykort...
 ```

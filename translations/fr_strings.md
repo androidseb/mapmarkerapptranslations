@@ -6693,16 +6693,6 @@ La dernière sauvegarde date de %s jours
 ```
 
 
-## Translation Key: downloading_and_importing_cloud_map
-```
-Downloading and importing cloud map…
-```
-translated (by human 👀) as:
-```
-Téléchargement et importation de la carte cloud…
-```
-
-
 ## Translation Key: run_data_migration_again
 ```
 Run data migration again
@@ -6762,4 +6752,14 @@ Migrate a legacy cloud map from Map Marker V2 (app version from before 2023) and
 translated (by human 👀) as:
 ```
 Migrer une ancienne carte de Map Marker V2 (version de l'application avant 2023) et l'ouvrir en tant que nouvelle carte cloud
+```
+
+
+## Translation Key: migrating_legacy_v2_cloud_map
+```
+Migrating legacy V2 cloud map…
+```
+translated (by human 👀) as:
+```
+Migration de l'ancienne carte cloud V2……
 ```

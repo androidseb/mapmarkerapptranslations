@@ -6693,16 +6693,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: downloading_and_importing_cloud_map
-```
-Downloading and importing cloud map…
-```
-translated (by machine 🤖) as:
-```
-클라우드 지도 다운로드 및 가져오는 중…
-```
-
-
 ## Translation Key: run_data_migration_again
 ```
 Run data migration again
@@ -6762,4 +6752,14 @@ Migrate a legacy cloud map from Map Marker V2 (app version from before 2023) and
 translated (by machine 🤖) as:
 ```
 Map Marker V2(2023년 이전의 앱 버전)에서 레거시 클라우드 맵을 마이그레이션하고 새 클라우드 맵으로 엽니다.
+```
+
+
+## Translation Key: migrating_legacy_v2_cloud_map
+```
+Migrating legacy V2 cloud map…
+```
+translated (by machine 🤖) as:
+```
+레거시 V2 클라우드 맵 마이그레이션 중…
 ```

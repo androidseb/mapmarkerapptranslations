@@ -6693,16 +6693,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: downloading_and_importing_cloud_map
-```
-Downloading and importing cloud map…
-```
-translated (by machine 🤖) as:
-```
-正在下載和導入雲圖...
-```
-
-
 ## Translation Key: run_data_migration_again
 ```
 Run data migration again
@@ -6762,4 +6752,14 @@ Migrate a legacy cloud map from Map Marker V2 (app version from before 2023) and
 translated (by machine 🤖) as:
 ```
 從Map Marker V2（2023年之前的應用程序版本）遷移舊雲圖並將其作為新雲圖打開
+```
+
+
+## Translation Key: migrating_legacy_v2_cloud_map
+```
+Migrating legacy V2 cloud map…
+```
+translated (by machine 🤖) as:
+```
+正在遷移舊版 V2 雲地圖…
 ```

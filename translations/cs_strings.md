@@ -6693,16 +6693,6 @@ Poslední záloha byla provedena před %s dny
 ```
 
 
-## Translation Key: downloading_and_importing_cloud_map
-```
-Downloading and importing cloud map…
-```
-translated (by machine 🤖) as:
-```
-Stahování a import cloudové mapy…
-```
-
-
 ## Translation Key: run_data_migration_again
 ```
 Run data migration again
@@ -6762,4 +6752,14 @@ Migrate a legacy cloud map from Map Marker V2 (app version from before 2023) and
 translated (by machine 🤖) as:
 ```
 Migrujte starší cloudovou mapu z Map Marker V2 (verze aplikace před rokem 2023) a otevřete ji jako novou cloudovou mapu
+```
+
+
+## Translation Key: migrating_legacy_v2_cloud_map
+```
+Migrating legacy V2 cloud map…
+```
+translated (by machine 🤖) as:
+```
+Migrace starší cloudové mapy V2…
 ```

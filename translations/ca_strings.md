@@ -6693,16 +6693,6 @@ La darrera còpia de seguretat va ser fa %s dies
 ```
 
 
-## Translation Key: downloading_and_importing_cloud_map
-```
-Downloading and importing cloud map…
-```
-translated (by machine 🤖) as:
-```
-S'està baixant i important el mapa del núvol...
-```
-
-
 ## Translation Key: run_data_migration_again
 ```
 Run data migration again
@@ -6762,4 +6752,14 @@ Migrate a legacy cloud map from Map Marker V2 (app version from before 2023) and
 translated (by machine 🤖) as:
 ```
 Migreu un mapa de núvols heretat de Map Marker V2 (versió de l'aplicació d'abans del 2023) i obriu-lo com a mapa de núvols nou
+```
+
+
+## Translation Key: migrating_legacy_v2_cloud_map
+```
+Migrating legacy V2 cloud map…
+```
+translated (by machine 🤖) as:
+```
+S'està migrant el mapa de núvols heretat V2...
 ```

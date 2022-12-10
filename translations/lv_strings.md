@@ -6693,16 +6693,6 @@ Pēdējā dublēšana tika veikta pirms %s dienām
 ```
 
 
-## Translation Key: downloading_and_importing_cloud_map
-```
-Downloading and importing cloud map…
-```
-translated (by machine 🤖) as:
-```
-Notiek mākoņa kartes lejupielāde un importēšana…
-```
-
-
 ## Translation Key: run_data_migration_again
 ```
 Run data migration again
@@ -6762,4 +6752,14 @@ Migrate a legacy cloud map from Map Marker V2 (app version from before 2023) and
 translated (by machine 🤖) as:
 ```
 Migrējiet mantoto mākoņa karti no Map Marker V2 (lietotnes versija pirms 2023. gada) un atveriet to kā jaunu mākoņa karti
+```
+
+
+## Translation Key: migrating_legacy_v2_cloud_map
+```
+Migrating legacy V2 cloud map…
+```
+translated (by machine 🤖) as:
+```
+Notiek mantotās V2 mākoņkartes migrēšana…
 ```

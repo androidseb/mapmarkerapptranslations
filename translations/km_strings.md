@@ -6693,16 +6693,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: downloading_and_importing_cloud_map
-```
-Downloading and importing cloud map…
-```
-translated (by machine 🤖) as:
-```
-កំពុងទាញយក និងនាំចូលផែនទីពពក...
-```
-
-
 ## Translation Key: run_data_migration_again
 ```
 Run data migration again
@@ -6762,4 +6752,14 @@ Migrate a legacy cloud map from Map Marker V2 (app version from before 2023) and
 translated (by machine 🤖) as:
 ```
 ផ្ទេរផែនទីពពកចាស់ពី Map Marker V2 (កំណែកម្មវិធីមុនឆ្នាំ 2023) ហើយបើកវាជាផែនទីពពកថ្មី
+```
+
+
+## Translation Key: migrating_legacy_v2_cloud_map
+```
+Migrating legacy V2 cloud map…
+```
+translated (by machine 🤖) as:
+```
+កំពុងផ្ទេរផែនទីពពក V2 ចាស់...
 ```
