@@ -6773,3 +6773,25 @@ translated (by machine 🤖) as:
 ```
 Επιλέξτε τον χάρτη V2 για μετεγκατάσταση
 ```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_success
+```
+Legacy V2 cloud map migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Η μετεγκατάσταση χαρτών νέφους παλαιού τύπου V2 πέτυχε!
+```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_fail_x
+```
+Legacy V2 cloud map migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Η μετεγκατάσταση του χάρτη cloud παλαιού τύπου V2 απέτυχε:
+%s
+```

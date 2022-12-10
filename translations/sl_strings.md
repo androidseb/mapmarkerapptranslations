@@ -6770,3 +6770,25 @@ translated (by machine 🤖) as:
 ```
 Izberite zemljevid V2 za selitev
 ```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_success
+```
+Legacy V2 cloud map migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Selitev zemljevida oblaka v podedovano V2 je uspela!
+```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_fail_x
+```
+Legacy V2 cloud map migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Selitev zemljevida oblaka v podedovano V2 ni uspela:
+%s
+```

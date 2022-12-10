@@ -6773,3 +6773,25 @@ translated (by machine 🤖) as:
 ```
 Selectați harta V2 pentru a migra
 ```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_success
+```
+Legacy V2 cloud map migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Migrarea hărții în cloud Legacy V2 a reușit!
+```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_fail_x
+```
+Legacy V2 cloud map migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Migrarea hărții în cloud Legacy V2 a eșuat:
+%s
+```

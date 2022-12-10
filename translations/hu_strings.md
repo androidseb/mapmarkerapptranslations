@@ -6773,3 +6773,25 @@ translated (by machine 🤖) as:
 ```
 Válassza ki az áttelepítendő V2 térképet
 ```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_success
+```
+Legacy V2 cloud map migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+A régebbi V2 felhőtérkép migrációja sikerült!
+```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_fail_x
+```
+Legacy V2 cloud map migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+A régebbi V2 felhőtérkép migrációja nem sikerült:
+%s
+```

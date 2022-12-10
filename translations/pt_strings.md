@@ -6773,3 +6773,25 @@ translated (by machine 🤖) as:
 ```
 Selecione o mapa V2 para migrar
 ```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_success
+```
+Legacy V2 cloud map migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+A migração do mapa de nuvem legado V2 foi bem-sucedida!
+```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_fail_x
+```
+Legacy V2 cloud map migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Falha na migração do mapa de nuvem Legacy V2:
+%s
+```

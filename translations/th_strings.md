@@ -6774,3 +6774,25 @@ translated (by machine 🤖) as:
 ```
 เลือกแผนที่ V2 ที่จะโยกย้าย
 ```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_success
+```
+Legacy V2 cloud map migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+การโยกย้ายแผนที่ระบบคลาวด์ V2 ดั้งเดิมสำเร็จแล้ว!
+```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_fail_x
+```
+Legacy V2 cloud map migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+การโยกย้ายแผนที่ระบบคลาวด์แบบดั้งเดิม V2 ล้มเหลว:
+%s
+```

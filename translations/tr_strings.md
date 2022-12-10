@@ -6773,3 +6773,25 @@ translated (by machine 🤖) as:
 ```
 Taşınacak V2 haritasını seçin
 ```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_success
+```
+Legacy V2 cloud map migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Eski V2 bulut haritası geçişi başarılı oldu!
+```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_fail_x
+```
+Legacy V2 cloud map migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Eski V2 bulut haritası geçişi başarısız oldu:
+%s
+```

@@ -6773,3 +6773,25 @@ translated (by machine 🤖) as:
 ```
 माइग्रेट करने के लिए V2 मानचित्र का चयन करें
 ```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_success
+```
+Legacy V2 cloud map migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+लीगेसी V2 क्लाउड मैप माइग्रेशन सफल रहा!
+```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_fail_x
+```
+Legacy V2 cloud map migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+लीगेसी V2 क्लाउड मैप माइग्रेशन विफल:
+%s
+```

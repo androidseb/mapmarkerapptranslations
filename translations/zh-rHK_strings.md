@@ -6773,3 +6773,25 @@ translated (by machine 🤖) as:
 ```
 選擇要遷移的 V2 地圖
 ```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_success
+```
+Legacy V2 cloud map migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Legacy V2 雲地圖遷移成功！
+```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_fail_x
+```
+Legacy V2 cloud map migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Legacy V2 雲地圖遷移失敗：
+%s
+```

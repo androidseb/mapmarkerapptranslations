@@ -6773,3 +6773,25 @@ translated (by machine 🤖) as:
 ```
 Chọn bản đồ V2 để di chuyển
 ```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_success
+```
+Legacy V2 cloud map migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Di chuyển bản đồ đám mây Legacy V2 đã thành công!
+```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_fail_x
+```
+Legacy V2 cloud map migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Di chuyển bản đồ đám mây Legacy V2 không thành công:
+%s
+```

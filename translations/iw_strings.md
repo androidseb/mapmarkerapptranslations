@@ -6773,3 +6773,25 @@ translated (by machine 🤖) as:
 ```
 בחר את מפת V2 להעברה
 ```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_success
+```
+Legacy V2 cloud map migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+העברת מפות ענן מדור קודם V2 הצליחה!
+```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_fail_x
+```
+Legacy V2 cloud map migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+העברת מפות ענן מדור קודם נכשלה:
+%s
+```

@@ -6777,3 +6777,25 @@ translated (by machine 🤖) as:
 ```
 Vælg V2-kortet, der skal migreres
 ```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_success
+```
+Legacy V2 cloud map migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Ældre V2 skykort-migrering lykkedes!
+```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_fail_x
+```
+Legacy V2 cloud map migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Ældre V2 skykort-migrering mislykkedes:
+%s
+```

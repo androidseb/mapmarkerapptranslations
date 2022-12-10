@@ -6773,3 +6773,25 @@ translated (by machine 🤖) as:
 ```
 Atlasiet V2 karti, lai migrētu
 ```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_success
+```
+Legacy V2 cloud map migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Mantotās V2 mākoņkartes migrācija ir izdevusies!
+```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_fail_x
+```
+Legacy V2 cloud map migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Mantotās V2 mākoņkartes migrēšana neizdevās:
+%s
+```

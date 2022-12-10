@@ -6773,3 +6773,25 @@ translated (by machine 🤖) as:
 ```
 Pilih peta V2 untuk dimigrasikan
 ```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_success
+```
+Legacy V2 cloud map migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Migrasi peta cloud V2 lama berhasil!
+```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_fail_x
+```
+Legacy V2 cloud map migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Migrasi peta awan V2 lama gagal:
+%s
+```

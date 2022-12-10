@@ -6773,3 +6773,25 @@ translated (by machine 🤖) as:
 ```
 Изаберите В2 мапу за миграцију
 ```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_success
+```
+Legacy V2 cloud map migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Миграција застареле В2 мапе облака је успела!
+```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_fail_x
+```
+Legacy V2 cloud map migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Миграција мапе облака старе верзије В2 није успела:
+%s
+```

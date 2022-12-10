@@ -6773,3 +6773,25 @@ translated (by machine 🤖) as:
 ```
 Valitse siirrettävä V2-kartta
 ```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_success
+```
+Legacy V2 cloud map migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Vanhan V2:n pilvikartan siirto onnistui!
+```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_fail_x
+```
+Legacy V2 cloud map migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Vanhan V2:n pilvikartan siirto epäonnistui:
+%s
+```

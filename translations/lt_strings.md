@@ -6772,3 +6772,25 @@ translated (by machine 🤖) as:
 ```
 Pasirinkite V2 žemėlapį, kurį norite perkelti
 ```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_success
+```
+Legacy V2 cloud map migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Pasenusio V2 debesies žemėlapio perkėlimas pavyko!
+```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_fail_x
+```
+Legacy V2 cloud map migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Nepavyko perkelti senojo V2 debesies žemėlapio:
+%s
+```

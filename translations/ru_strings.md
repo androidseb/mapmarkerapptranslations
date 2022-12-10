@@ -6770,3 +6770,25 @@ translated (by machine 🤖) as:
 ```
 Выберите карту V2 для переноса
 ```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_success
+```
+Legacy V2 cloud map migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Миграция облачной карты предыдущей версии V2 выполнена успешно!
+```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_fail_x
+```
+Legacy V2 cloud map migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Не удалось выполнить миграцию облачной карты предыдущей версии V2:
+%s
+```

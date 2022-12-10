@@ -6767,3 +6767,25 @@ translated (by machine 🤖) as:
 ```
 Selecteer de V2-kaart om te migreren
 ```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_success
+```
+Legacy V2 cloud map migration succeeded!
+```
+translated (by machine 🤖) as:
+```
+Migratie van legacy V2-cloudmap geslaagd!
+```
+
+
+## Translation Key: legacy_v2_cloud_map_migration_result_message_fail_x
+```
+Legacy V2 cloud map migration failed:
+%s
+```
+translated (by machine 🤖) as:
+```
+Migratie van legacy V2-cloudmap mislukt:
+%s
+```
