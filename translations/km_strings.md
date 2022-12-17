@@ -6793,5 +6793,5 @@ Legacy V2 cloud map migration failed:
 translated (by machine 🤖) as:
 ```
 Legacy V2 cloud map migration បានបរាជ័យ៖
-_៧
+%s
 ```
