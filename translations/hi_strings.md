@@ -6795,3 +6795,33 @@ translated (by machine 🤖) as:
 लीगेसी V2 क्लाउड मैप माइग्रेशन विफल:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+फ़ाइल लोड हो रही है…
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+ज़िप फ़ाइल: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+फ़ाइल खोलना: %s
+```

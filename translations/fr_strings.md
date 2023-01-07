@@ -6795,3 +6795,33 @@ translated (by human 👀) as:
 Migration de l'ancienne carte cloud V2 échouée:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by human 👀) as:
+```
+Chargement du fichier…
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by human 👀) as:
+```
+Compression du fichier: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by human 👀) as:
+```
+Extraction du fichier: %s
+```

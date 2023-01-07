@@ -6796,3 +6796,33 @@ translated (by machine 🤖) as:
 การโยกย้ายแผนที่ระบบคลาวด์แบบดั้งเดิม V2 ล้มเหลว:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+กำลังโหลดไฟล์…
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+กำลังซิปไฟล์: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+กำลังแตกไฟล์: %s
+```

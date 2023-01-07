@@ -6795,3 +6795,33 @@ translated (by machine 🤖) as:
 Mantotās V2 mākoņkartes migrēšana neizdevās:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+Notiek faila ielāde…
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Zip fails: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Faila izsaiņošana: %s
+```

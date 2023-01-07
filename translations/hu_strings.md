@@ -6795,3 +6795,33 @@ translated (by machine 🤖) as:
 A régebbi V2 felhőtérkép migrációja nem sikerült:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+Fájl betöltése…
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Zip fájl: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Fájl kicsomagolása: %s
+```

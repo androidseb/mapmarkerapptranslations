@@ -6795,3 +6795,33 @@ translated (by machine 🤖) as:
 Migrácia staršej cloudovej mapy V2 zlyhala:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+Načítava sa súbor…
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Komprimovaný súbor: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Rozbalenie súboru: %s
+```

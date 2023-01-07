@@ -6795,3 +6795,33 @@ translated (by machine 🤖) as:
 فشل ترحيل الخرائط السحابية القديمة V2:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+جارٍ تحميل الملف ...
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+ملف مضغوط: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+ملف فك الضغط: %s
+```

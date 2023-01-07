@@ -6795,3 +6795,33 @@ translated (by machine 🤖) as:
 Migrarea hărții în cloud Legacy V2 a eșuat:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+Se încarcă fișierul...
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Fișier comprimat: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Dezarhivează fișierul: %s
+```

@@ -6794,3 +6794,33 @@ translated (by machine 🤖) as:
 Nepavyko perkelti senojo V2 debesies žemėlapio:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+Įkeliamas failas…
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Supakuotas failas: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Išpakuojamas failas: %s
+```

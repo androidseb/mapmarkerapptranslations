@@ -6796,3 +6796,33 @@ translated (by machine 🤖) as:
 従来の V2 クラウド マップの移行に失敗しました:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+ファイルを読み込んでいます…
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+圧縮ファイル: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+ファイルの解凍: %s
+```

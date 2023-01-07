@@ -6795,3 +6795,33 @@ translated (by machine 🤖) as:
 Falló la migración del mapa en la nube Legacy V2:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+Cargando archivo…
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Archivo comprimido: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Descomprimiendo archivo: %s
+```

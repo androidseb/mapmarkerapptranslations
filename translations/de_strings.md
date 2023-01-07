@@ -6792,3 +6792,33 @@ translated (by machine 🤖) as:
 Migration der alten V2-Cloud-Karte fehlgeschlagen:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+Datei wird geladen…
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+ZIP-Datei: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Datei entpacken: %s
+```

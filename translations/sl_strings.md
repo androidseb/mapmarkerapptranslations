@@ -6792,3 +6792,33 @@ translated (by machine 🤖) as:
 Selitev zemljevida oblaka v podedovano V2 ni uspela:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+Nalaganje datoteke …
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Stiskanje datoteke: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Razpakiranje datoteke: %s
+```

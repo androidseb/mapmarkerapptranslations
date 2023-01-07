@@ -6789,3 +6789,33 @@ translated (by machine 🤖) as:
 Migratie van legacy V2-cloudmap mislukt:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+Bestand laden...
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Bestand zippen: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Bestand uitpakken: %s
+```

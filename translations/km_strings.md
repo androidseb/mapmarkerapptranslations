@@ -6795,3 +6795,33 @@ translated (by machine 🤖) as:
 Legacy V2 cloud map migration បានបរាជ័យ៖
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+កំពុងផ្ទុកឯកសារ...
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+ឯកសារបង្រួម៖ _៧
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+ការពន្លាឯកសារ៖ _៧
+```

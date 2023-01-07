@@ -6795,3 +6795,33 @@ translated (by machine 🤖) as:
 Неуспешна миграция на наследена облачна карта V2:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+Файлът се зарежда…
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Компилиран файл: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Разархивиране на файл: %s
+```

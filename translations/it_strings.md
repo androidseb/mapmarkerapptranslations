@@ -6795,3 +6795,33 @@ translated (by machine 🤖) as:
 Migrazione della mappa cloud legacy V2 non riuscita:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+Caricamento file...
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+File compresso: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+File di decompressione: %s
+```

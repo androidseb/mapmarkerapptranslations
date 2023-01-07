@@ -6787,3 +6787,33 @@ translated (by machine 🤖) as:
 Legacy V2 雲地圖遷移失敗：
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+加載文件…
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+壓縮文件：%s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+解壓縮文件：%s
+```

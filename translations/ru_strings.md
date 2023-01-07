@@ -6792,3 +6792,33 @@ translated (by machine 🤖) as:
 Не удалось выполнить миграцию облачной карты предыдущей версии V2:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+Загрузка файла…
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Запакованный файл: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Распаковка файла: %s
+```

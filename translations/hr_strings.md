@@ -6795,3 +6795,33 @@ translated (by machine 🤖) as:
 Migracija naslijeđene karte oblaka V2 nije uspjela:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+Učitavanje datoteke...
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Komprimirana datoteka: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Raspakiranje datoteke: %s
+```

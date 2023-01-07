@@ -6795,3 +6795,33 @@ translated (by machine 🤖) as:
 Di chuyển bản đồ đám mây Legacy V2 không thành công:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+Đang tải tệp…
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Tệp nén: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Giải nén tập tin: %s
+```

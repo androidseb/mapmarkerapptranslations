@@ -6795,3 +6795,33 @@ translated (by machine 🤖) as:
 Миграција мапе облака старе верзије В2 није успела:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+Учитавање датотеке…
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Зип датотека: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Распакивање датотеке: %s
+```

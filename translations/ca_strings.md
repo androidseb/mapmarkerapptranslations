@@ -6795,3 +6795,33 @@ translated (by machine 🤖) as:
 La migració del mapa del núvol heretat V2 ha fallat:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+S'està carregant el fitxer...
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Fitxer comprimit: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Descomprimint fitxer: %s
+```

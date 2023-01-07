@@ -6795,3 +6795,33 @@ translated (by machine 🤖) as:
 העברת מפות ענן מדור קודם נכשלה:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+טוען קובץ...
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+קובץ מיקוד: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+פתיחת קובץ: %s
+```

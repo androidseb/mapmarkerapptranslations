@@ -6795,3 +6795,33 @@ translated (by machine 🤖) as:
 레거시 V2 클라우드 맵 마이그레이션 실패:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+파일 로드 중…
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+압축 파일: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+압축 해제 파일: %s
+```

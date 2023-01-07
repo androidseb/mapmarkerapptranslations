@@ -6795,3 +6795,33 @@ translated (by machine 🤖) as:
 Migracja starszej wersji mapy w chmurze w wersji 2 nie powiodła się:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+Ładowanie pliku…
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Spakowany plik: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Rozpakowywanie pliku: %s
+```

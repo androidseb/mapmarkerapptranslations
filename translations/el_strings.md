@@ -6795,3 +6795,33 @@ translated (by machine 🤖) as:
 Η μετεγκατάσταση του χάρτη cloud παλαιού τύπου V2 απέτυχε:
 %s
 ```
+
+
+## Translation Key: loading_file
+```
+Loading file…
+```
+translated (by machine 🤖) as:
+```
+Φόρτωση αρχείου…
+```
+
+
+## Translation Key: zipping_file_x
+```
+Zipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Συμπίεση αρχείου: %s
+```
+
+
+## Translation Key: unzipping_file_x
+```
+Unzipping file: %s
+```
+translated (by machine 🤖) as:
+```
+Αποσυμπίεση αρχείου: %s
+```
