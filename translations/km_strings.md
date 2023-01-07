@@ -6813,7 +6813,7 @@ Zipping file: %s
 ```
 translated (by machine 🤖) as:
 ```
-ឯកសារបង្រួម៖ _៧
+ឯកសារបង្រួម៖ %s
 ```
 
 
@@ -6823,5 +6823,5 @@ Unzipping file: %s
 ```
 translated (by machine 🤖) as:
 ```
-ការពន្លាឯកសារ៖ _៧
+ការពន្លាឯកសារ៖ %s
 ```
