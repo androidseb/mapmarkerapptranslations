@@ -6825,3 +6825,23 @@ translated (by machine 🤖) as:
 ```
 फ़ाइल खोलना: %s
 ```
+
+
+## Translation Key: action_save_to_files
+```
+Save to files
+```
+translated (by machine 🤖) as:
+```
+फाइलों में सेव करें
+```
+
+
+## Translation Key: sucessfully_saved_to_file_x
+```
+Successfully saved to file: %s
+```
+translated (by machine 🤖) as:
+```
+फ़ाइल में सफलतापूर्वक सहेजा गया: %s
+```

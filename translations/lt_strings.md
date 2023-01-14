@@ -6824,3 +6824,23 @@ translated (by machine 🤖) as:
 ```
 Išpakuojamas failas: %s
 ```
+
+
+## Translation Key: action_save_to_files
+```
+Save to files
+```
+translated (by machine 🤖) as:
+```
+Išsaugoti failuose
+```
+
+
+## Translation Key: sucessfully_saved_to_file_x
+```
+Successfully saved to file: %s
+```
+translated (by machine 🤖) as:
+```
+Sėkmingai išsaugota faile: %s
+```

@@ -6822,3 +6822,23 @@ translated (by machine 🤖) as:
 ```
 Razpakiranje datoteke: %s
 ```
+
+
+## Translation Key: action_save_to_files
+```
+Save to files
+```
+translated (by machine 🤖) as:
+```
+Shrani v datoteke
+```
+
+
+## Translation Key: sucessfully_saved_to_file_x
+```
+Successfully saved to file: %s
+```
+translated (by machine 🤖) as:
+```
+Uspešno shranjeno v datoteko: %s
+```

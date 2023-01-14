@@ -6825,3 +6825,23 @@ translated (by machine 🤖) as:
 ```
 Descompactando o arquivo: %s
 ```
+
+
+## Translation Key: action_save_to_files
+```
+Save to files
+```
+translated (by machine 🤖) as:
+```
+Salvar em arquivos
+```
+
+
+## Translation Key: sucessfully_saved_to_file_x
+```
+Successfully saved to file: %s
+```
+translated (by machine 🤖) as:
+```
+Salvo com sucesso no arquivo: %s
+```

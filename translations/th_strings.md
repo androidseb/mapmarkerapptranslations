@@ -6826,3 +6826,23 @@ translated (by machine 🤖) as:
 ```
 กำลังแตกไฟล์: %s
 ```
+
+
+## Translation Key: action_save_to_files
+```
+Save to files
+```
+translated (by machine 🤖) as:
+```
+บันทึกลงในไฟล์
+```
+
+
+## Translation Key: sucessfully_saved_to_file_x
+```
+Successfully saved to file: %s
+```
+translated (by machine 🤖) as:
+```
+บันทึกลงไฟล์สำเร็จแล้ว: %s
+```

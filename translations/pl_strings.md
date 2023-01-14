@@ -6825,3 +6825,23 @@ translated (by machine 🤖) as:
 ```
 Rozpakowywanie pliku: %s
 ```
+
+
+## Translation Key: action_save_to_files
+```
+Save to files
+```
+translated (by machine 🤖) as:
+```
+Zapisz do plików
+```
+
+
+## Translation Key: sucessfully_saved_to_file_x
+```
+Successfully saved to file: %s
+```
+translated (by machine 🤖) as:
+```
+Pomyślnie zapisano do pliku: %s
+```

@@ -6819,3 +6819,23 @@ translated (by machine 🤖) as:
 ```
 Bestand uitpakken: %s
 ```
+
+
+## Translation Key: action_save_to_files
+```
+Save to files
+```
+translated (by machine 🤖) as:
+```
+Opslaan in bestanden
+```
+
+
+## Translation Key: sucessfully_saved_to_file_x
+```
+Successfully saved to file: %s
+```
+translated (by machine 🤖) as:
+```
+Succesvol opgeslagen in bestand: %s
+```

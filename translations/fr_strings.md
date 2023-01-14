@@ -6825,3 +6825,23 @@ translated (by human 👀) as:
 ```
 Extraction du fichier: %s
 ```
+
+
+## Translation Key: action_save_to_files
+```
+Save to files
+```
+translated (by human 👀) as:
+```
+Sauvegarder dans les fichiers
+```
+
+
+## Translation Key: sucessfully_saved_to_file_x
+```
+Successfully saved to file: %s
+```
+translated (by human 👀) as:
+```
+Sauvegarde réussie vers le fichier : %s
+```

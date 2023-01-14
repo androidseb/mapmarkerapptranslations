@@ -6825,3 +6825,23 @@ translated (by machine 🤖) as:
 ```
 ការពន្លាឯកសារ៖ %s
 ```
+
+
+## Translation Key: action_save_to_files
+```
+Save to files
+```
+translated (by machine 🤖) as:
+```
+រក្សាទុកក្នុងឯកសារ
+```
+
+
+## Translation Key: sucessfully_saved_to_file_x
+```
+Successfully saved to file: %s
+```
+translated (by machine 🤖) as:
+```
+បានរក្សាទុកដោយជោគជ័យទៅក្នុងឯកសារ៖ %s
+```

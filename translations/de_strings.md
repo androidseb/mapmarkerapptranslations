@@ -6822,3 +6822,23 @@ translated (by machine 🤖) as:
 ```
 Datei entpacken: %s
 ```
+
+
+## Translation Key: action_save_to_files
+```
+Save to files
+```
+translated (by machine 🤖) as:
+```
+In Dateien speichern
+```
+
+
+## Translation Key: sucessfully_saved_to_file_x
+```
+Successfully saved to file: %s
+```
+translated (by machine 🤖) as:
+```
+Erfolgreich gespeichert in Datei: %s
+```

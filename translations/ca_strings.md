@@ -6825,3 +6825,23 @@ translated (by machine 🤖) as:
 ```
 Descomprimint fitxer: %s
 ```
+
+
+## Translation Key: action_save_to_files
+```
+Save to files
+```
+translated (by machine 🤖) as:
+```
+Desa als fitxers
+```
+
+
+## Translation Key: sucessfully_saved_to_file_x
+```
+Successfully saved to file: %s
+```
+translated (by machine 🤖) as:
+```
+S'ha desat correctament al fitxer: %s
+```

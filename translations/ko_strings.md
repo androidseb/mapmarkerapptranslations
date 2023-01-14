@@ -6825,3 +6825,23 @@ translated (by machine 🤖) as:
 ```
 압축 해제 파일: %s
 ```
+
+
+## Translation Key: action_save_to_files
+```
+Save to files
+```
+translated (by machine 🤖) as:
+```
+파일에 저장
+```
+
+
+## Translation Key: sucessfully_saved_to_file_x
+```
+Successfully saved to file: %s
+```
+translated (by machine 🤖) as:
+```
+파일에 성공적으로 저장됨: %s
+```
