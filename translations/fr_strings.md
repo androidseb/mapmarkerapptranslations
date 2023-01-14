@@ -6837,11 +6837,11 @@ Sauvegarder dans les fichiers
 ```
 
 
-## Translation Key: sucessfully_saved_to_file_x
+## Translation Key: sucessfully_saved_to_device_files
 ```
-Successfully saved to file: %s
+Successfully saved to device files
 ```
 translated (by human 👀) as:
 ```
-Sauvegarde réussie vers le fichier : %s
+Sauvegarde réussie vers les fichiers de l'appareil
 ```

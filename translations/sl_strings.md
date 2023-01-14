@@ -6834,11 +6834,11 @@ Shrani v datoteke
 ```
 
 
-## Translation Key: sucessfully_saved_to_file_x
+## Translation Key: sucessfully_saved_to_device_files
 ```
-Successfully saved to file: %s
+Successfully saved to device files
 ```
 translated (by machine 🤖) as:
 ```
-Uspešno shranjeno v datoteko: %s
+Uspešno shranjeno v datoteke naprave
 ```

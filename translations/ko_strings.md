@@ -6837,11 +6837,11 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: sucessfully_saved_to_file_x
+## Translation Key: sucessfully_saved_to_device_files
 ```
-Successfully saved to file: %s
+Successfully saved to device files
 ```
 translated (by machine 🤖) as:
 ```
-파일에 성공적으로 저장됨: %s
+장치 파일에 성공적으로 저장되었습니다.
 ```

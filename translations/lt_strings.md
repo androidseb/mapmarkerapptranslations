@@ -6836,11 +6836,11 @@ Išsaugoti failuose
 ```
 
 
-## Translation Key: sucessfully_saved_to_file_x
+## Translation Key: sucessfully_saved_to_device_files
 ```
-Successfully saved to file: %s
+Successfully saved to device files
 ```
 translated (by machine 🤖) as:
 ```
-Sėkmingai išsaugota faile: %s
+Sėkmingai išsaugota įrenginio failuose
 ```

@@ -6837,11 +6837,11 @@ Mentés fájlba
 ```
 
 
-## Translation Key: sucessfully_saved_to_file_x
+## Translation Key: sucessfully_saved_to_device_files
 ```
-Successfully saved to file: %s
+Successfully saved to device files
 ```
 translated (by machine 🤖) as:
 ```
-Sikeresen mentve a következő fájlba: %s
+Sikeresen mentve az eszköz fájljaiba
 ```

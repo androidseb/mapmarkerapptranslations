@@ -6837,11 +6837,11 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: sucessfully_saved_to_file_x
+## Translation Key: sucessfully_saved_to_device_files
 ```
-Successfully saved to file: %s
+Successfully saved to device files
 ```
 translated (by machine 🤖) as:
 ```
-បានរក្សាទុកដោយជោគជ័យទៅក្នុងឯកសារ៖ %s
+រក្សាទុកដោយជោគជ័យទៅក្នុងឯកសារឧបករណ៍
 ```

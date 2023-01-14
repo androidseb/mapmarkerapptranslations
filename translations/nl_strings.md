@@ -6831,11 +6831,11 @@ Opslaan in bestanden
 ```
 
 
-## Translation Key: sucessfully_saved_to_file_x
+## Translation Key: sucessfully_saved_to_device_files
 ```
-Successfully saved to file: %s
+Successfully saved to device files
 ```
 translated (by machine 🤖) as:
 ```
-Succesvol opgeslagen in bestand: %s
+Succesvol opgeslagen in apparaatbestanden
 ```

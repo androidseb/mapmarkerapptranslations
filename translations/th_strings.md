@@ -6838,11 +6838,11 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: sucessfully_saved_to_file_x
+## Translation Key: sucessfully_saved_to_device_files
 ```
-Successfully saved to file: %s
+Successfully saved to device files
 ```
 translated (by machine 🤖) as:
 ```
-บันทึกลงไฟล์สำเร็จแล้ว: %s
+บันทึกลงในไฟล์อุปกรณ์เรียบร้อยแล้ว
 ```

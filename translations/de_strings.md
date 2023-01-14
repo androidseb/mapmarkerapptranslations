@@ -6834,11 +6834,11 @@ In Dateien speichern
 ```
 
 
-## Translation Key: sucessfully_saved_to_file_x
+## Translation Key: sucessfully_saved_to_device_files
 ```
-Successfully saved to file: %s
+Successfully saved to device files
 ```
 translated (by machine 🤖) as:
 ```
-Erfolgreich gespeichert in Datei: %s
+Erfolgreich in Gerätedateien gespeichert
 ```

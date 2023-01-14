@@ -6837,11 +6837,11 @@ Spara till filer
 ```
 
 
-## Translation Key: sucessfully_saved_to_file_x
+## Translation Key: sucessfully_saved_to_device_files
 ```
-Successfully saved to file: %s
+Successfully saved to device files
 ```
 translated (by machine 🤖) as:
 ```
-Har sparats till filen: %s
+Har sparats i enhetsfiler
 ```

@@ -6837,11 +6837,11 @@ Lưu vào tập tin
 ```
 
 
-## Translation Key: sucessfully_saved_to_file_x
+## Translation Key: sucessfully_saved_to_device_files
 ```
-Successfully saved to file: %s
+Successfully saved to device files
 ```
 translated (by machine 🤖) as:
 ```
-Đã lưu thành công vào tệp: %s
+Đã lưu thành công vào tệp thiết bị
 ```

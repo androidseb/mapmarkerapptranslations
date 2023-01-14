@@ -6837,11 +6837,11 @@ Lagre til filer
 ```
 
 
-## Translation Key: sucessfully_saved_to_file_x
+## Translation Key: sucessfully_saved_to_device_files
 ```
-Successfully saved to file: %s
+Successfully saved to device files
 ```
 translated (by machine 🤖) as:
 ```
-Vellykket lagret til fil: %s
+Lagret til enhetsfiler
 ```
