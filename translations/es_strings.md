@@ -6877,11 +6877,11 @@ No se encontró ninguna carpeta de mapas en la nube: si está buscando mapas de 
 ```
 
 
-## Translation Key: question_file_export_intention
+## Translation Key: file_export_intention_question
 ```
 How do you want to use the exported file ?
 ```
 translated (by machine 🤖) as:
 ```
-¿Cuál es el destino del archivo exportado?
+¿Cómo desea utilizar el archivo exportado?
 ```

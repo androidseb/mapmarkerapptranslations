@@ -6877,11 +6877,11 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: question_file_export_intention
+## Translation Key: file_export_intention_question
 ```
 How do you want to use the exported file ?
 ```
 translated (by machine 🤖) as:
 ```
-내보낸 파일의 대상은 무엇입니까?
+내보낸 파일을 어떻게 사용하시겠습니까?
 ```

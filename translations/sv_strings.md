@@ -6877,11 +6877,11 @@ Ingen kartmapp hittades på molnet - om du letar efter gamla molnkartor skapade 
 ```
 
 
-## Translation Key: question_file_export_intention
+## Translation Key: file_export_intention_question
 ```
 How do you want to use the exported file ?
 ```
 translated (by machine 🤖) as:
 ```
-Vad är destinationen för den exporterade filen?
+Hur vill du använda den exporterade filen?
 ```

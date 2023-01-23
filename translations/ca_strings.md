@@ -6877,11 +6877,11 @@ No s'ha trobat cap carpeta de mapes al núvol: si busqueu mapes de núvol antics
 ```
 
 
-## Translation Key: question_file_export_intention
+## Translation Key: file_export_intention_question
 ```
 How do you want to use the exported file ?
 ```
 translated (by machine 🤖) as:
 ```
-Quina és la destinació del fitxer exportat?
+Com voleu utilitzar el fitxer exportat?
 ```

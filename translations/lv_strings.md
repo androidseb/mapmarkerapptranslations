@@ -6877,11 +6877,11 @@ Mākonī nav atrasta neviena karšu mape — ja meklējat vecas mākoņu kartes
 ```
 
 
-## Translation Key: question_file_export_intention
+## Translation Key: file_export_intention_question
 ```
 How do you want to use the exported file ?
 ```
 translated (by machine 🤖) as:
 ```
-Kāds ir eksportētā faila galamērķis?
+Kā vēlaties izmantot eksportēto failu?
 ```

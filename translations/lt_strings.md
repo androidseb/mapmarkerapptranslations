@@ -6876,11 +6876,11 @@ Debesyje nerasta žemėlapio aplanko – jei ieškote senų debesies žemėlapi�
 ```
 
 
-## Translation Key: question_file_export_intention
+## Translation Key: file_export_intention_question
 ```
 How do you want to use the exported file ?
 ```
 translated (by machine 🤖) as:
 ```
-Kokia yra eksportuoto failo paskirties vieta?
+Kaip norite naudoti eksportuotą failą?
 ```

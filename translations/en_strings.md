@@ -6877,7 +6877,7 @@ No map folder found on the cloud - if you're looking for old cloud maps created 
 ```
 
 
-## Translation Key: question_file_export_intention
+## Translation Key: file_export_intention_question
 ```
 How do you want to use the exported file ?
 ```

@@ -6881,11 +6881,11 @@ Der blev ikke fundet nogen kortmappe på skyen - hvis du leder efter gamle skyko
 ```
 
 
-## Translation Key: question_file_export_intention
+## Translation Key: file_export_intention_question
 ```
 How do you want to use the exported file ?
 ```
 translated (by machine 🤖) as:
 ```
-Hvad er destinationen for den eksporterede fil?
+Hvordan vil du bruge den eksporterede fil?
 ```

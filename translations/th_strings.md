@@ -6878,11 +6878,11 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: question_file_export_intention
+## Translation Key: file_export_intention_question
 ```
 How do you want to use the exported file ?
 ```
 translated (by machine 🤖) as:
 ```
-ปลายทางของไฟล์ที่ส่งออกคืออะไร
+คุณต้องการใช้ไฟล์ที่ส่งออกอย่างไร
 ```

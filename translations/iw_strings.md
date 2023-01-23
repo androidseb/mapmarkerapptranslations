@@ -6877,11 +6877,11 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: question_file_export_intention
+## Translation Key: file_export_intention_question
 ```
 How do you want to use the exported file ?
 ```
 translated (by machine 🤖) as:
 ```
-מהו היעד של הקובץ המיוצא?
+כיצד ברצונך להשתמש בקובץ המיוצא?
 ```

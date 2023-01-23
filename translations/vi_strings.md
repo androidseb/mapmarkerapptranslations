@@ -6877,11 +6877,11 @@ Không tìm thấy thư mục bản đồ nào trên đám mây - nếu bạn đ
 ```
 
 
-## Translation Key: question_file_export_intention
+## Translation Key: file_export_intention_question
 ```
 How do you want to use the exported file ?
 ```
 translated (by machine 🤖) as:
 ```
-Đích đến của tệp đã xuất là gì?
+Bạn muốn sử dụng tệp đã xuất như thế nào?
 ```

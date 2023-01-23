@@ -6877,11 +6877,11 @@ V cloude sa nenašiel žiadny priečinok s mapami – ak hľadáte staré cloudo
 ```
 
 
-## Translation Key: question_file_export_intention
+## Translation Key: file_export_intention_question
 ```
 How do you want to use the exported file ?
 ```
 translated (by machine 🤖) as:
 ```
-Aký je cieľ exportovaného súboru?
+Ako chcete použiť exportovaný súbor?
 ```

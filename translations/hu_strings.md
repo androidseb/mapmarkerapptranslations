@@ -6877,11 +6877,11 @@ Nem található térképmappa a felhőben – ha a Map Marker (V2) régi verzió
 ```
 
 
-## Translation Key: question_file_export_intention
+## Translation Key: file_export_intention_question
 ```
 How do you want to use the exported file ?
 ```
 translated (by machine 🤖) as:
 ```
-Mi az exportált fájl célja?
+Hogyan szeretné használni az exportált fájlt?
 ```

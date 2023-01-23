@@ -6877,11 +6877,11 @@ Pilvestä ei löytynyt karttakansiota – jos etsit vanhoja pilvikarttoja, jotka
 ```
 
 
-## Translation Key: question_file_export_intention
+## Translation Key: file_export_intention_question
 ```
 How do you want to use the exported file ?
 ```
 translated (by machine 🤖) as:
 ```
-Mikä on viedyn tiedoston kohde?
+Miten haluat käyttää vietyä tiedostoa?
 ```

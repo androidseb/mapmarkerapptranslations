@@ -6874,11 +6874,11 @@ V oblaku ni bilo mogoče najti mape z zemljevidi – če iščete stare zemljevi
 ```
 
 
-## Translation Key: question_file_export_intention
+## Translation Key: file_export_intention_question
 ```
 How do you want to use the exported file ?
 ```
 translated (by machine 🤖) as:
 ```
-Kaj je cilj izvožene datoteke?
+Kako želite uporabiti izvoženo datoteko?
 ```
