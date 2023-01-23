@@ -6857,16 +6857,6 @@ Exporter en fichier
 ```
 
 
-## Translation Key: question_file_export_intention
-```
-What is the destination of the exported file ?
-```
-translated (by human 👀) as:
-```
-Quelle est la destination du fichier partagé ?
-```
-
-
 ## Translation Key: sucessfully_saved_to_device_files
 ```
 Successfully saved to device files

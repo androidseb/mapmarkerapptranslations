@@ -6861,16 +6861,6 @@ Eksporter som fil
 ```
 
 
-## Translation Key: question_file_export_intention
-```
-What is the destination of the exported file ?
-```
-translated (by machine 🤖) as:
-```
-Hvad er destinationen for den eksporterede fil?
-```
-
-
 ## Translation Key: sucessfully_saved_to_device_files
 ```
 Successfully saved to device files

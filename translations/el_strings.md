@@ -6857,16 +6857,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: question_file_export_intention
-```
-What is the destination of the exported file ?
-```
-translated (by machine 🤖) as:
-```
-Ποιος είναι ο προορισμός του εξαγόμενου αρχείου;
-```
-
-
 ## Translation Key: sucessfully_saved_to_device_files
 ```
 Successfully saved to device files

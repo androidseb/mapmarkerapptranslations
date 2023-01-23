@@ -6858,16 +6858,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: question_file_export_intention
-```
-What is the destination of the exported file ?
-```
-translated (by machine 🤖) as:
-```
-ปลายทางของไฟล์ที่ส่งออกคืออะไร
-```
-
-
 ## Translation Key: sucessfully_saved_to_device_files
 ```
 Successfully saved to device files

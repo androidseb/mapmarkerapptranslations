@@ -6857,16 +6857,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: question_file_export_intention
-```
-What is the destination of the exported file ?
-```
-translated (by machine 🤖) as:
-```
-निर्यात की गई फ़ाइल का गंतव्य क्या है?
-```
-
-
 ## Translation Key: sucessfully_saved_to_device_files
 ```
 Successfully saved to device files

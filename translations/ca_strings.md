@@ -6857,16 +6857,6 @@ Exporta com a fitxer
 ```
 
 
-## Translation Key: question_file_export_intention
-```
-What is the destination of the exported file ?
-```
-translated (by machine 🤖) as:
-```
-Quina és la destinació del fitxer exportat?
-```
-
-
 ## Translation Key: sucessfully_saved_to_device_files
 ```
 Successfully saved to device files
