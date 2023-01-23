@@ -6872,3 +6872,13 @@ translated (by machine 🤖) as:
 ```
 Kein Kartenordner in der Cloud gefunden – wenn Sie nach alten Cloud-Karten suchen, die mit der alten Version von Map Marker (V2) erstellt wurden, versuchen Sie stattdessen die Option „Öffnen und Migrieren einer V2-Cloud-Karte“.
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Was ist das Ziel der exportierten Datei?
+```

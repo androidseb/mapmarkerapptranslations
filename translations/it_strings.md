@@ -6875,3 +6875,13 @@ translated (by machine 🤖) as:
 ```
 Nessuna cartella della mappa trovata nel cloud: se stai cercando vecchie mappe cloud create con la vecchia versione di Map Marker (V2), prova invece l'opzione "Apri e migra una mappa cloud V2".
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Qual è la destinazione del file esportato?
+```

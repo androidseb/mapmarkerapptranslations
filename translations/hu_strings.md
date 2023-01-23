@@ -6875,3 +6875,13 @@ translated (by machine 🤖) as:
 ```
 Nem található térképmappa a felhőben – ha a Map Marker (V2) régi verziójával létrehozott régi felhőtérképeket keres, próbálkozzon inkább a „V2 felhőtérkép megnyitása és áttelepítése” lehetőséggel.
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Mi az exportált fájl célja?
+```

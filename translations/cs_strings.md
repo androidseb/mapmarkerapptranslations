@@ -6875,3 +6875,13 @@ translated (by machine 🤖) as:
 ```
 V cloudu nebyla nalezena žádná složka map – pokud hledáte staré cloudové mapy vytvořené pomocí staré verze Map Marker (V2), zkuste místo toho možnost „Otevřít a migrovat cloudovou mapu V2“.
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Jaký je cíl exportovaného souboru?
+```

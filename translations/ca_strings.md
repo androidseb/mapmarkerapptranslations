@@ -6875,3 +6875,13 @@ translated (by machine 🤖) as:
 ```
 No s'ha trobat cap carpeta de mapes al núvol: si busqueu mapes de núvol antics creats amb la versió antiga de Map Marker (V2), proveu l'opció "Obre i migra un mapa de núvols V2".
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Quina és la destinació del fitxer exportat?
+```

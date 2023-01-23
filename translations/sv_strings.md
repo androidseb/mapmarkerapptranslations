@@ -6875,3 +6875,13 @@ translated (by machine 🤖) as:
 ```
 Ingen kartmapp hittades på molnet - om du letar efter gamla molnkartor skapade med den gamla versionen av Map Marker (V2), prova alternativet "Öppna och migrera en V2 molnkarta" istället.
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Vad är destinationen för den exporterade filen?
+```

@@ -6875,3 +6875,13 @@ translated (by machine 🤖) as:
 ```
 Nie znaleziono folderu map w chmurze — jeśli szukasz starych map w chmurze utworzonych za pomocą starej wersji Map Marker (V2), zamiast tego wypróbuj opcję „Otwórz i przeprowadź migrację mapy w chmurze w wersji 2”.
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Jakie jest miejsce docelowe eksportowanego pliku?
+```

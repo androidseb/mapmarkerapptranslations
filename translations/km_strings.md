@@ -6875,3 +6875,13 @@ translated (by machine 🤖) as:
 ```
 រកមិនឃើញថតផែនទីនៅលើពពកទេ - ប្រសិនបើអ្នកកំពុងស្វែងរកផែនទីពពកចាស់ដែលបានបង្កើតជាមួយកំណែចាស់របស់ Map Marker (V2) សូមសាកល្បងជម្រើស 'បើក និងផ្ទេរផែនទីពពក V2' ជំនួសវិញ។
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+តើអ្វីជាទិសដៅនៃឯកសារដែលបាននាំចេញ?
+```

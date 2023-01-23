@@ -6875,3 +6875,13 @@ translated (by machine 🤖) as:
 ```
 클라우드에서 지도 폴더를 찾을 수 없습니다. 이전 버전의 Map Marker(V2)으로 만든 이전 클라우드 지도를 찾고 있다면 대신 'V2 클라우드 지도 열기 및 마이그레이션' 옵션을 사용해 보세요.
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+내보낸 파일의 대상은 무엇입니까?
+```

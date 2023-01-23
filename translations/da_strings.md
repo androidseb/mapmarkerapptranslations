@@ -6879,3 +6879,13 @@ translated (by machine 🤖) as:
 ```
 Der blev ikke fundet nogen kortmappe på skyen - hvis du leder efter gamle skykort, der er oprettet med den gamle version af Map Marker (V2), så prøv i stedet muligheden 'Åbn og migrér et V2-skykort'.
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Hvad er destinationen for den eksporterede fil?
+```

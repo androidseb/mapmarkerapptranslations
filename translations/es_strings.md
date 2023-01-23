@@ -6875,3 +6875,13 @@ translated (by machine 🤖) as:
 ```
 No se encontró ninguna carpeta de mapas en la nube: si está buscando mapas de nubes antiguos creados con la versión anterior de Map Marker (V2), pruebe la opción 'Abrir y migrar un mapa de nubes V2' en su lugar.
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+¿Cuál es el destino del archivo exportado?
+```

@@ -6875,3 +6875,13 @@ translated (by machine 🤖) as:
 ```
 Nu s-a găsit niciun folder de hărți în cloud - dacă căutați hărți cloud vechi create cu versiunea veche a Map Marker (V2), încercați în schimb opțiunea „Deschideți și migrați o hartă cloud V2”.
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Care este destinația fișierului exportat?
+```

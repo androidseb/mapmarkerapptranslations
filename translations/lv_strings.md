@@ -6875,3 +6875,13 @@ translated (by machine 🤖) as:
 ```
 Mākonī nav atrasta neviena karšu mape — ja meklējat vecas mākoņu kartes, kas izveidotas ar veco Map Marker (V2) versiju, tā vietā izmēģiniet opciju “Atvērt un migrēt V2 mākoņkarti”.
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Kāds ir eksportētā faila galamērķis?
+```

@@ -6875,3 +6875,13 @@ translated (by machine 🤖) as:
 ```
 Pilvestä ei löytynyt karttakansiota – jos etsit vanhoja pilvikarttoja, jotka on luotu Map Marker:n (V2) vanhalla versiolla, kokeile vaihtoehtoa "Avaa ja siirrä V2-pilvikartta".
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Mikä on viedyn tiedoston kohde?
+```

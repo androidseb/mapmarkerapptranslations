@@ -6875,3 +6875,13 @@ translated (by machine 🤖) as:
 ```
 לא נמצאה תיקיית מפות בענן - אם אתה מחפש מפות ענן ישנות שנוצרו עם הגרסה הישנה של Map Marker (V2), נסה את האפשרות 'פתח והעבר מפת ענן V2' במקום זאת.
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+מהו היעד של הקובץ המיוצא?
+```

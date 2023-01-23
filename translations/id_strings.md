@@ -6875,3 +6875,13 @@ translated (by machine 🤖) as:
 ```
 Tidak ada folder peta yang ditemukan di cloud - jika Anda mencari peta cloud lama yang dibuat dengan versi lama Map Marker (V2), coba opsi 'Buka dan migrasikan peta cloud V2' sebagai gantinya.
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Apa tujuan dari file yang diekspor?
+```

@@ -6875,3 +6875,13 @@ translated (by machine 🤖) as:
 ```
 Bulutta harita klasörü bulunamadı - Map Marker'nin (V2) eski sürümüyle oluşturulmuş eski bulut haritalarını arıyorsanız, bunun yerine 'Bir V2 bulut haritasını aç ve taşı' seçeneğini deneyin.
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Dışa aktarılan dosyanın hedefi nedir?
+```

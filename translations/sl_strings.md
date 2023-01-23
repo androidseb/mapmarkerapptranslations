@@ -6872,3 +6872,13 @@ translated (by machine 🤖) as:
 ```
 V oblaku ni bilo mogoče najti mape z zemljevidi – če iščete stare zemljevide v oblaku, ustvarjene s staro različico Map Marker (V2), namesto tega poskusite z možnostjo »Odpri in preseli zemljevid v oblaku V2«.
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Kaj je cilj izvožene datoteke?
+```

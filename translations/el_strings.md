@@ -6875,3 +6875,13 @@ translated (by machine 🤖) as:
 ```
 Δεν βρέθηκε φάκελος χάρτη στο cloud - εάν αναζητάτε παλιούς χάρτες cloud που έχουν δημιουργηθεί με την παλιά έκδοση του Map Marker (V2), δοκιμάστε την επιλογή 'Άνοιγμα και μετεγκατάσταση χάρτη νέφους V2'.
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Ποιος είναι ο προορισμός του εξαγόμενου αρχείου;
+```

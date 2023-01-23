@@ -6874,3 +6874,13 @@ translated (by machine 🤖) as:
 ```
 Debesyje nerasta žemėlapio aplanko – jei ieškote senų debesies žemėlapių, sukurtų naudojant seną Map Marker (V2) versiją, išbandykite parinktį „Atidaryti ir perkelti V2 debesies žemėlapį“.
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Kokia yra eksportuoto failo paskirties vieta?
+```

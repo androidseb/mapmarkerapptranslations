@@ -6869,3 +6869,13 @@ translated (by machine 🤖) as:
 ```
 Geen kaartmap gevonden in de cloud - als u op zoek bent naar oude cloudkaarten die zijn gemaakt met de oude versie van Map Marker (V2), probeer dan de optie 'Open en migreer een V2-cloudkaart'.
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Wat is de bestemming van het geëxporteerde bestand?
+```

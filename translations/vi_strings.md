@@ -6875,3 +6875,13 @@ translated (by machine 🤖) as:
 ```
 Không tìm thấy thư mục bản đồ nào trên đám mây - nếu bạn đang tìm bản đồ đám mây cũ được tạo bằng phiên bản Map Marker (V2) cũ, hãy thử tùy chọn 'Mở và di chuyển bản đồ đám mây V2' để thay thế.
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Đích đến của tệp đã xuất là gì?
+```

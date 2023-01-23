@@ -6876,3 +6876,13 @@ translated (by machine 🤖) as:
 ```
 クラウド上にマップ フォルダが見つかりません - 古いバージョンの Map Marker (V2) で作成された古いクラウド マップを探している場合は、代わりに [V2 クラウド マップを開いて移行する] オプションを試してください。
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+エクスポートされたファイルの宛先は?
+```

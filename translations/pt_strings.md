@@ -6875,3 +6875,13 @@ translated (by machine 🤖) as:
 ```
 Nenhuma pasta de mapa encontrada na nuvem - se você estiver procurando por mapas de nuvem antigos criados com a versão antiga de Map Marker (V2), tente a opção 'Abrir e migrar um mapa de nuvem V2'.
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Qual é o destino do arquivo exportado?
+```

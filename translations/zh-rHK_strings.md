@@ -6875,3 +6875,13 @@ translated (by machine 🤖) as:
 ```
 在雲上找不到地圖文件夾 - 如果您正在尋找使用舊版本 Map Marker (V2) 創建的舊雲地圖，請嘗試“打開並遷移 V2 雲地圖”選項。
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+導出文件的目的地是什麼？
+```

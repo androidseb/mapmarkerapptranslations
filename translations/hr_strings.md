@@ -6875,3 +6875,13 @@ translated (by machine 🤖) as:
 ```
 U oblaku nije pronađena mapa s kartama - ako tražite stare karte u oblaku stvorene sa starom verzijom Map Marker (V2), pokušajte umjesto toga opciju "Otvori i premjesti V2 mapu u oblaku".
 ```
+
+
+## Translation Key: question_file_export_intention
+```
+How do you want to use the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Koje je odredište izvezene datoteke?
+```
