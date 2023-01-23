@@ -6827,13 +6827,43 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: action_save_to_files
+## Translation Key: share_or_export_title
 ```
-Save to files
+Share or export
 ```
 translated (by machine 🤖) as:
 ```
-Запазване във файлове
+Споделяне или експортиране
+```
+
+
+## Translation Key: marker_as_file_description2
+```
+Export the selected marker as a file
+```
+translated (by machine 🤖) as:
+```
+Експортирайте избрания маркер като файл
+```
+
+
+## Translation Key: export_as_file
+```
+Export as file
+```
+translated (by machine 🤖) as:
+```
+Експортиране като файл
+```
+
+
+## Translation Key: question_file_export_intention
+```
+What is the destination of the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Каква е дестинацията на експортирания файл?
 ```
 
 
@@ -6844,4 +6874,14 @@ Successfully saved to device files
 translated (by machine 🤖) as:
 ```
 Успешно запазени във файловете на устройството
+```
+
+
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+В облака не е намерена папка с карти – ако търсите стари облачни карти, създадени със старата версия на Map Marker (V2), опитайте вместо това опцията „Отворете и мигрирайте облачна карта V2“.
 ```

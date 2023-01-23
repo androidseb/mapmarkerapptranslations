@@ -6827,13 +6827,43 @@ Extraction du fichier: %s
 ```
 
 
-## Translation Key: action_save_to_files
+## Translation Key: share_or_export_title
 ```
-Save to files
+Share or export
 ```
 translated (by human 👀) as:
 ```
-Sauvegarder dans les fichiers
+Partager ou exporter
+```
+
+
+## Translation Key: marker_as_file_description2
+```
+Export the selected marker as a file
+```
+translated (by human 👀) as:
+```
+Exporter le marqueur sélectionné en fichier
+```
+
+
+## Translation Key: export_as_file
+```
+Export as file
+```
+translated (by human 👀) as:
+```
+Exporter en fichier
+```
+
+
+## Translation Key: question_file_export_intention
+```
+What is the destination of the exported file ?
+```
+translated (by human 👀) as:
+```
+Quelle est la destination du fichier partagé ?
 ```
 
 
@@ -6844,4 +6874,14 @@ Successfully saved to device files
 translated (by human 👀) as:
 ```
 Sauvegarde réussie vers les fichiers de l'appareil
+```
+
+
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by human 👀) as:
+```
+Aucun dossier de carte trouvé sur le cloud - si vous recherchez d'anciennes versions de carte cloud créées avec l'ancienne version de Map Marker (V2), essayez l'option 'Ouvrir et migrer une carte cloud V2' à la place.
 ```

@@ -6827,13 +6827,43 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: action_save_to_files
+## Translation Key: share_or_export_title
 ```
-Save to files
+Share or export
 ```
 translated (by machine 🤖) as:
 ```
-फाइलों में सेव करें
+साझा करें या निर्यात करें
+```
+
+
+## Translation Key: marker_as_file_description2
+```
+Export the selected marker as a file
+```
+translated (by machine 🤖) as:
+```
+चयनित मार्कर को फ़ाइल के रूप में निर्यात करें
+```
+
+
+## Translation Key: export_as_file
+```
+Export as file
+```
+translated (by machine 🤖) as:
+```
+फ़ाइल के रूप में निर्यात करें
+```
+
+
+## Translation Key: question_file_export_intention
+```
+What is the destination of the exported file ?
+```
+translated (by machine 🤖) as:
+```
+निर्यात की गई फ़ाइल का गंतव्य क्या है?
 ```
 
 
@@ -6844,4 +6874,14 @@ Successfully saved to device files
 translated (by machine 🤖) as:
 ```
 डिवाइस फ़ाइलों में सफलतापूर्वक सहेजा गया
+```
+
+
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+क्लाउड पर कोई नक्शा फ़ोल्डर नहीं मिला - यदि आप Map Marker (V2) के पुराने संस्करण के साथ बनाए गए पुराने क्लाउड मैप्स की तलाश कर रहे हैं, तो इसके बजाय 'V2 क्लाउड मैप खोलें और माइग्रेट करें' विकल्प का प्रयास करें।
 ```

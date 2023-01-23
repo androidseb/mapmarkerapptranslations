@@ -6827,13 +6827,43 @@ Dosya açılıyor: %s
 ```
 
 
-## Translation Key: action_save_to_files
+## Translation Key: share_or_export_title
 ```
-Save to files
+Share or export
 ```
 translated (by machine 🤖) as:
 ```
-dosyalara kaydet
+Paylaşın veya dışa aktarın
+```
+
+
+## Translation Key: marker_as_file_description2
+```
+Export the selected marker as a file
+```
+translated (by machine 🤖) as:
+```
+Seçili işaretçiyi dosya olarak dışa aktar
+```
+
+
+## Translation Key: export_as_file
+```
+Export as file
+```
+translated (by machine 🤖) as:
+```
+dosya olarak dışa aktar
+```
+
+
+## Translation Key: question_file_export_intention
+```
+What is the destination of the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Dışa aktarılan dosyanın hedefi nedir?
 ```
 
 
@@ -6844,4 +6874,14 @@ Successfully saved to device files
 translated (by machine 🤖) as:
 ```
 Cihaz dosyalarına başarıyla kaydedildi
+```
+
+
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+Bulutta harita klasörü bulunamadı - Map Marker'nin (V2) eski sürümüyle oluşturulmuş eski bulut haritalarını arıyorsanız, bunun yerine 'Bir V2 bulut haritasını aç ve taşı' seçeneğini deneyin.
 ```

@@ -6819,13 +6819,43 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: action_save_to_files
+## Translation Key: share_or_export_title
 ```
-Save to files
+Share or export
 ```
 translated (by machine 🤖) as:
 ```
-保存到文件
+共享或導出
+```
+
+
+## Translation Key: marker_as_file_description2
+```
+Export the selected marker as a file
+```
+translated (by machine 🤖) as:
+```
+將所選標記導出為文件
+```
+
+
+## Translation Key: export_as_file
+```
+Export as file
+```
+translated (by machine 🤖) as:
+```
+導出為文件
+```
+
+
+## Translation Key: question_file_export_intention
+```
+What is the destination of the exported file ?
+```
+translated (by machine 🤖) as:
+```
+導出文件的目的地是什麼？
 ```
 
 
@@ -6836,4 +6866,14 @@ Successfully saved to device files
 translated (by machine 🤖) as:
 ```
 成功保存到設備文件
+```
+
+
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+在雲上找不到地圖文件夾 - 如果您正在尋找使用舊版本 Map Marker (V2) 創建的舊雲地圖，請嘗試“打開並遷移 V2 雲地圖”選項。
 ```

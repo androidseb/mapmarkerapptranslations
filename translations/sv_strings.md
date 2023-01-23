@@ -6827,13 +6827,43 @@ Packar upp fil: %s
 ```
 
 
-## Translation Key: action_save_to_files
+## Translation Key: share_or_export_title
 ```
-Save to files
+Share or export
 ```
 translated (by machine 🤖) as:
 ```
-Spara till filer
+Dela eller exportera
+```
+
+
+## Translation Key: marker_as_file_description2
+```
+Export the selected marker as a file
+```
+translated (by machine 🤖) as:
+```
+Exportera den markerade markören som en fil
+```
+
+
+## Translation Key: export_as_file
+```
+Export as file
+```
+translated (by machine 🤖) as:
+```
+Exportera som fil
+```
+
+
+## Translation Key: question_file_export_intention
+```
+What is the destination of the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Vad är destinationen för den exporterade filen?
 ```
 
 
@@ -6844,4 +6874,14 @@ Successfully saved to device files
 translated (by machine 🤖) as:
 ```
 Har sparats i enhetsfiler
+```
+
+
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+Ingen kartmapp hittades på molnet - om du letar efter gamla molnkartor skapade med den gamla versionen av Map Marker (V2), prova alternativet "Öppna och migrera en V2 molnkarta" istället.
 ```

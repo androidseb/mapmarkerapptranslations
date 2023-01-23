@@ -6824,13 +6824,43 @@ Razpakiranje datoteke: %s
 ```
 
 
-## Translation Key: action_save_to_files
+## Translation Key: share_or_export_title
 ```
-Save to files
+Share or export
 ```
 translated (by machine 🤖) as:
 ```
-Shrani v datoteke
+Delite ali izvozite
+```
+
+
+## Translation Key: marker_as_file_description2
+```
+Export the selected marker as a file
+```
+translated (by machine 🤖) as:
+```
+Izvozite izbrani marker kot datoteko
+```
+
+
+## Translation Key: export_as_file
+```
+Export as file
+```
+translated (by machine 🤖) as:
+```
+Izvozi kot datoteko
+```
+
+
+## Translation Key: question_file_export_intention
+```
+What is the destination of the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Kaj je cilj izvožene datoteke?
 ```
 
 
@@ -6841,4 +6871,14 @@ Successfully saved to device files
 translated (by machine 🤖) as:
 ```
 Uspešno shranjeno v datoteke naprave
+```
+
+
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+V oblaku ni bilo mogoče najti mape z zemljevidi – če iščete stare zemljevide v oblaku, ustvarjene s staro različico Map Marker (V2), namesto tega poskusite z možnostjo »Odpri in preseli zemljevid v oblaku V2«.
 ```

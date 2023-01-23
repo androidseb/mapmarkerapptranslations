@@ -6827,13 +6827,43 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: action_save_to_files
+## Translation Key: share_or_export_title
 ```
-Save to files
+Share or export
 ```
 translated (by machine 🤖) as:
 ```
-파일에 저장
+공유 또는 내보내기
+```
+
+
+## Translation Key: marker_as_file_description2
+```
+Export the selected marker as a file
+```
+translated (by machine 🤖) as:
+```
+선택한 마커를 파일로 내보내기
+```
+
+
+## Translation Key: export_as_file
+```
+Export as file
+```
+translated (by machine 🤖) as:
+```
+파일로 내보내기
+```
+
+
+## Translation Key: question_file_export_intention
+```
+What is the destination of the exported file ?
+```
+translated (by machine 🤖) as:
+```
+내보낸 파일의 대상은 무엇입니까?
 ```
 
 
@@ -6844,4 +6874,14 @@ Successfully saved to device files
 translated (by machine 🤖) as:
 ```
 장치 파일에 성공적으로 저장되었습니다.
+```
+
+
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+클라우드에서 지도 폴더를 찾을 수 없습니다. 이전 버전의 Map Marker(V2)으로 만든 이전 클라우드 지도를 찾고 있다면 대신 'V2 클라우드 지도 열기 및 마이그레이션' 옵션을 사용해 보세요.
 ```

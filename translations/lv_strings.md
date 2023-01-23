@@ -6827,13 +6827,43 @@ Faila izsaiņošana: %s
 ```
 
 
-## Translation Key: action_save_to_files
+## Translation Key: share_or_export_title
 ```
-Save to files
+Share or export
 ```
 translated (by machine 🤖) as:
 ```
-Saglabāt failos
+Kopīgojiet vai eksportējiet
+```
+
+
+## Translation Key: marker_as_file_description2
+```
+Export the selected marker as a file
+```
+translated (by machine 🤖) as:
+```
+Eksportējiet atlasīto marķieri kā failu
+```
+
+
+## Translation Key: export_as_file
+```
+Export as file
+```
+translated (by machine 🤖) as:
+```
+Eksportēt kā failu
+```
+
+
+## Translation Key: question_file_export_intention
+```
+What is the destination of the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Kāds ir eksportētā faila galamērķis?
 ```
 
 
@@ -6844,4 +6874,14 @@ Successfully saved to device files
 translated (by machine 🤖) as:
 ```
 Veiksmīgi saglabāts ierīces failos
+```
+
+
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+Mākonī nav atrasta neviena karšu mape — ja meklējat vecas mākoņu kartes, kas izveidotas ar veco Map Marker (V2) versiju, tā vietā izmēģiniet opciju “Atvērt un migrēt V2 mākoņkarti”.
 ```

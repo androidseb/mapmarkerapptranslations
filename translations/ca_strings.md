@@ -6827,13 +6827,43 @@ Descomprimint fitxer: %s
 ```
 
 
-## Translation Key: action_save_to_files
+## Translation Key: share_or_export_title
 ```
-Save to files
+Share or export
 ```
 translated (by machine 🤖) as:
 ```
-Desa als fitxers
+Comparteix o exporta
+```
+
+
+## Translation Key: marker_as_file_description2
+```
+Export the selected marker as a file
+```
+translated (by machine 🤖) as:
+```
+Exporteu el marcador seleccionat com a fitxer
+```
+
+
+## Translation Key: export_as_file
+```
+Export as file
+```
+translated (by machine 🤖) as:
+```
+Exporta com a fitxer
+```
+
+
+## Translation Key: question_file_export_intention
+```
+What is the destination of the exported file ?
+```
+translated (by machine 🤖) as:
+```
+Quina és la destinació del fitxer exportat?
 ```
 
 
@@ -6844,4 +6874,14 @@ Successfully saved to device files
 translated (by machine 🤖) as:
 ```
 S'ha desat correctament als fitxers del dispositiu
+```
+
+
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+No s'ha trobat cap carpeta de mapes al núvol: si busqueu mapes de núvol antics creats amb la versió antiga de Map Marker (V2), proveu l'opció "Obre i migra un mapa de núvols V2".
 ```
