@@ -5825,9 +5825,9 @@ Télécharger toutes les images
 ```
 Add offline map file
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Add offline map file
+Ajouter carte hors-ligne
 ```
 
 
@@ -5835,9 +5835,9 @@ Add offline map file
 ```
 Select an offline map file to copy to the offline maps folder: %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Select an offline map file to copy to the offline maps folder: %s
+Sélectionnez une un fichier de carte hors-ligne à copier dans le dossier des cartes hors ligne: %s
 ```
 
 
@@ -5845,9 +5845,9 @@ Select an offline map file to copy to the offline maps folder: %s
 ```
 Importing offline map file...
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Importing offline map file...
+Import du fichier de carte hors ligne…
 ```
 
 
@@ -5855,9 +5855,9 @@ Importing offline map file...
 ```
 Offline map file import succeeded
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Offline map file import succeeded
+Import du fichier de carte hors-ligne réussi
 ```
 
 
@@ -5866,9 +5866,9 @@ Offline map file import succeeded
 Offline map file import failed:
 %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
-Offline map file import failed:
+Import du fichier de carte hors-ligne échoué:
 %s
 ```
 
