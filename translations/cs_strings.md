@@ -6885,3 +6885,63 @@ translated (by machine 🤖) as:
 ```
 Jak chcete použít exportovaný soubor?
 ```
+
+
+## Translation Key: folders_added_x
+```
+Folders added: %s
+```
+translated (by machine 🤖) as:
+```
+Přidané složky: %s
+```
+
+
+## Translation Key: folders_modified_x
+```
+Folders modified: %s
+```
+translated (by machine 🤖) as:
+```
+Upravené složky: %s
+```
+
+
+## Translation Key: folders_deleted_x
+```
+Folders deleted: %s
+```
+translated (by machine 🤖) as:
+```
+Smazané složky: %s
+```
+
+
+## Translation Key: markers_added_x
+```
+Markers added: %s
+```
+translated (by machine 🤖) as:
+```
+Přidány značky: %s
+```
+
+
+## Translation Key: markers_modified_x
+```
+Markers modified: %s
+```
+translated (by machine 🤖) as:
+```
+Upravené značky: %s
+```
+
+
+## Translation Key: markers_deleted_x
+```
+Markers deleted: %s
+```
+translated (by machine 🤖) as:
+```
+Smazané značky: %s
+```

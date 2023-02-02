@@ -6885,3 +6885,63 @@ translated (by machine 🤖) as:
 ```
 Bạn muốn sử dụng tệp đã xuất như thế nào?
 ```
+
+
+## Translation Key: folders_added_x
+```
+Folders added: %s
+```
+translated (by machine 🤖) as:
+```
+Đã thêm thư mục: %s
+```
+
+
+## Translation Key: folders_modified_x
+```
+Folders modified: %s
+```
+translated (by machine 🤖) as:
+```
+Các thư mục được sửa đổi: %s
+```
+
+
+## Translation Key: folders_deleted_x
+```
+Folders deleted: %s
+```
+translated (by machine 🤖) as:
+```
+Các thư mục đã bị xóa: %s
+```
+
+
+## Translation Key: markers_added_x
+```
+Markers added: %s
+```
+translated (by machine 🤖) as:
+```
+Điểm đánh dấu đã thêm: %s
+```
+
+
+## Translation Key: markers_modified_x
+```
+Markers modified: %s
+```
+translated (by machine 🤖) as:
+```
+Điểm đánh dấu đã sửa đổi: %s
+```
+
+
+## Translation Key: markers_deleted_x
+```
+Markers deleted: %s
+```
+translated (by machine 🤖) as:
+```
+Điểm đánh dấu đã bị xóa: %s
+```

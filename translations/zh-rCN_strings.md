@@ -6885,3 +6885,63 @@ translated (by machine 🤖) as:
 ```
 您想如何使用导出的文件？
 ```
+
+
+## Translation Key: folders_added_x
+```
+Folders added: %s
+```
+translated (by machine 🤖) as:
+```
+添加的文件夹：%s
+```
+
+
+## Translation Key: folders_modified_x
+```
+Folders modified: %s
+```
+translated (by machine 🤖) as:
+```
+修改的文件夹：%s
+```
+
+
+## Translation Key: folders_deleted_x
+```
+Folders deleted: %s
+```
+translated (by machine 🤖) as:
+```
+删除的文件夹：%s
+```
+
+
+## Translation Key: markers_added_x
+```
+Markers added: %s
+```
+translated (by machine 🤖) as:
+```
+添加的标记：%s
+```
+
+
+## Translation Key: markers_modified_x
+```
+Markers modified: %s
+```
+translated (by machine 🤖) as:
+```
+标记修改：%s
+```
+
+
+## Translation Key: markers_deleted_x
+```
+Markers deleted: %s
+```
+translated (by machine 🤖) as:
+```
+删除的标记：%s
+```

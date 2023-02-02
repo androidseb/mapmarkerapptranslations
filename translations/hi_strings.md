@@ -6885,3 +6885,63 @@ translated (by machine 🤖) as:
 ```
 आप निर्यात की गई फ़ाइल का उपयोग कैसे करना चाहते हैं?
 ```
+
+
+## Translation Key: folders_added_x
+```
+Folders added: %s
+```
+translated (by machine 🤖) as:
+```
+फ़ोल्डर जोड़े गए: %s
+```
+
+
+## Translation Key: folders_modified_x
+```
+Folders modified: %s
+```
+translated (by machine 🤖) as:
+```
+फ़ोल्डर संशोधित: %s
+```
+
+
+## Translation Key: folders_deleted_x
+```
+Folders deleted: %s
+```
+translated (by machine 🤖) as:
+```
+फ़ोल्डर हटाए गए: %s
+```
+
+
+## Translation Key: markers_added_x
+```
+Markers added: %s
+```
+translated (by machine 🤖) as:
+```
+मार्कर जोड़े गए: %s
+```
+
+
+## Translation Key: markers_modified_x
+```
+Markers modified: %s
+```
+translated (by machine 🤖) as:
+```
+मार्कर संशोधित: %s
+```
+
+
+## Translation Key: markers_deleted_x
+```
+Markers deleted: %s
+```
+translated (by machine 🤖) as:
+```
+मार्कर हटाए गए: %s
+```

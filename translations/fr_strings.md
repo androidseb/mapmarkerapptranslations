@@ -6885,3 +6885,63 @@ translated (by human 👀) as:
 ```
 Comment voulez-vous utiliser le fichier exporté ?
 ```
+
+
+## Translation Key: folders_added_x
+```
+Folders added: %s
+```
+translated (by human 👀) as:
+```
+Dossiers ajoutés: %s
+```
+
+
+## Translation Key: folders_modified_x
+```
+Folders modified: %s
+```
+translated (by human 👀) as:
+```
+Dossiers modifiés: %s
+```
+
+
+## Translation Key: folders_deleted_x
+```
+Folders deleted: %s
+```
+translated (by human 👀) as:
+```
+Dossiers supprimés: %s
+```
+
+
+## Translation Key: markers_added_x
+```
+Markers added: %s
+```
+translated (by human 👀) as:
+```
+Marqueurs ajoutés: %s
+```
+
+
+## Translation Key: markers_modified_x
+```
+Markers modified: %s
+```
+translated (by human 👀) as:
+```
+Marqueurs modifiés: %s
+```
+
+
+## Translation Key: markers_deleted_x
+```
+Markers deleted: %s
+```
+translated (by human 👀) as:
+```
+Marqueurs supprimés: %s
+```

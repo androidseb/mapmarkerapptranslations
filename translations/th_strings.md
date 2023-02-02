@@ -6886,3 +6886,63 @@ translated (by machine 🤖) as:
 ```
 คุณต้องการใช้ไฟล์ที่ส่งออกอย่างไร
 ```
+
+
+## Translation Key: folders_added_x
+```
+Folders added: %s
+```
+translated (by machine 🤖) as:
+```
+เพิ่มโฟลเดอร์: %s
+```
+
+
+## Translation Key: folders_modified_x
+```
+Folders modified: %s
+```
+translated (by machine 🤖) as:
+```
+แก้ไขโฟลเดอร์: %s
+```
+
+
+## Translation Key: folders_deleted_x
+```
+Folders deleted: %s
+```
+translated (by machine 🤖) as:
+```
+โฟลเดอร์ที่ถูกลบ: %s
+```
+
+
+## Translation Key: markers_added_x
+```
+Markers added: %s
+```
+translated (by machine 🤖) as:
+```
+เพิ่มเครื่องหมาย: %s
+```
+
+
+## Translation Key: markers_modified_x
+```
+Markers modified: %s
+```
+translated (by machine 🤖) as:
+```
+แก้ไขเครื่องหมาย: %s
+```
+
+
+## Translation Key: markers_deleted_x
+```
+Markers deleted: %s
+```
+translated (by machine 🤖) as:
+```
+ลบเครื่องหมายแล้ว: %s
+```

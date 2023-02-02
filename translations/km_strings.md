@@ -6885,3 +6885,63 @@ translated (by machine 🤖) as:
 ```
 តើអ្នកចង់ប្រើឯកសារដែលបាននាំចេញដោយរបៀបណា?
 ```
+
+
+## Translation Key: folders_added_x
+```
+Folders added: %s
+```
+translated (by machine 🤖) as:
+```
+ថតបន្ថែម៖ %s
+```
+
+
+## Translation Key: folders_modified_x
+```
+Folders modified: %s
+```
+translated (by machine 🤖) as:
+```
+ថតដែលបានកែប្រែ៖ %s
+```
+
+
+## Translation Key: folders_deleted_x
+```
+Folders deleted: %s
+```
+translated (by machine 🤖) as:
+```
+ថតដែលបានលុប៖ %s
+```
+
+
+## Translation Key: markers_added_x
+```
+Markers added: %s
+```
+translated (by machine 🤖) as:
+```
+សញ្ញាសម្គាល់បន្ថែម៖ _៧
+```
+
+
+## Translation Key: markers_modified_x
+```
+Markers modified: %s
+```
+translated (by machine 🤖) as:
+```
+សញ្ញាសម្គាល់បានកែប្រែ៖ _៧
+```
+
+
+## Translation Key: markers_deleted_x
+```
+Markers deleted: %s
+```
+translated (by machine 🤖) as:
+```
+សញ្ញាសម្គាល់ត្រូវបានលុប៖ %s
+```
