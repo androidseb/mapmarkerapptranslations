@@ -6923,7 +6923,7 @@ Markers added: %s
 ```
 translated (by machine 🤖) as:
 ```
-សញ្ញាសម្គាល់បន្ថែម៖ _៧
+សញ្ញាសម្គាល់បន្ថែម៖ %s
 ```
 
 
@@ -6933,7 +6933,7 @@ Markers modified: %s
 ```
 translated (by machine 🤖) as:
 ```
-សញ្ញាសម្គាល់បានកែប្រែ៖ _៧
+សញ្ញាសម្គាល់បានកែប្រែ៖ %s
 ```
 
 
