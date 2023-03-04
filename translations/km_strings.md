@@ -6963,5 +6963,5 @@ Radius: %s
 ```
 translated (by machine 🤖) as:
 ```
-កាំ៖ %d
+កាំ៖ %s
 ```
