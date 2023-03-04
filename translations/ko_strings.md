@@ -6945,3 +6945,23 @@ translated (by machine 🤖) as:
 ```
 삭제된 마커: %s
 ```
+
+
+## Translation Key: new_circle_hint_text
+```
+Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.
+```
+translated (by machine 🤖) as:
+```
+툴바 버튼으로 원의 중심이나 가장자리를 선택하고 지도를 움직여 조정합니다. 마지막으로 저장을 클릭하여 모양을 저장합니다.
+```
+
+
+## Translation Key: radius_x
+```
+Radius: %s
+```
+translated (by machine 🤖) as:
+```
+반경: %s
+```

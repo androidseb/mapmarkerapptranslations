@@ -6945,3 +6945,23 @@ translated (by machine 🤖) as:
 ```
 Marcadores excluídos: %s
 ```
+
+
+## Translation Key: new_circle_hint_text
+```
+Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.
+```
+translated (by machine 🤖) as:
+```
+Selecione o centro ou a borda do círculo com os botões da barra de ferramentas e mova o mapa para ajustar. Finalmente, clique em salvar para salvar a forma.
+```
+
+
+## Translation Key: radius_x
+```
+Radius: %s
+```
+translated (by machine 🤖) as:
+```
+Raio: %s
+```

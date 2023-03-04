@@ -6949,3 +6949,23 @@ translated (by machine 🤖) as:
 ```
 Markører slettet: %s
 ```
+
+
+## Translation Key: new_circle_hint_text
+```
+Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.
+```
+translated (by machine 🤖) as:
+```
+Vælg midten eller kanten af cirklen med værktøjslinjeknapperne, og flyt rundt på kortet for at justere. Klik til sidst på Gem for at gemme formen.
+```
+
+
+## Translation Key: radius_x
+```
+Radius: %s
+```
+translated (by machine 🤖) as:
+```
+Radius: %s
+```

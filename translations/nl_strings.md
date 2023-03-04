@@ -6939,3 +6939,23 @@ translated (by machine 🤖) as:
 ```
 Markeringen verwijderd: %s
 ```
+
+
+## Translation Key: new_circle_hint_text
+```
+Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.
+```
+translated (by machine 🤖) as:
+```
+Selecteer het midden of de rand van de cirkel met de werkbalkknoppen en beweeg de kaart rond om aan te passen. Klik ten slotte op opslaan om de vorm op te slaan.
+```
+
+
+## Translation Key: radius_x
+```
+Radius: %s
+```
+translated (by machine 🤖) as:
+```
+Straal: %s
+```

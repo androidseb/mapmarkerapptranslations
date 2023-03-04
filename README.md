@@ -43,7 +43,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Chinese Traditional (1% human-translated)](./translations/zh-rHK_strings.md)
 
-[Chinese Taiwan (23% human-translated)](./translations/zh-rTW_strings.md)
+[Chinese Taiwan (22% human-translated)](./translations/zh-rTW_strings.md)
 
 [Croatian (0% human-translated)](./translations/hr_strings.md)
 
@@ -81,13 +81,13 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Norwegian (0% human-translated)](./translations/no_strings.md)
 
-[Polish (66% human-translated)](./translations/pl_strings.md)
+[Polish (65% human-translated)](./translations/pl_strings.md)
 
 [Portuguese (0% human-translated)](./translations/pt_strings.md)
 
 [Romanian (0% human-translated)](./translations/ro_strings.md)
 
-[Russian (66% human-translated)](./translations/ru_strings.md)
+[Russian (65% human-translated)](./translations/ru_strings.md)
 
 [Serbian (0% human-translated)](./translations/sr_strings.md)
 

@@ -6945,3 +6945,23 @@ translated (by machine 🤖) as:
 ```
 Marcadors suprimits: %s
 ```
+
+
+## Translation Key: new_circle_hint_text
+```
+Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.
+```
+translated (by machine 🤖) as:
+```
+Seleccioneu el centre o la vora del cercle amb els botons de la barra d'eines i moveu el mapa per ajustar-lo. Finalment, feu clic a desa per desar la forma.
+```
+
+
+## Translation Key: radius_x
+```
+Radius: %s
+```
+translated (by machine 🤖) as:
+```
+Radi: %s
+```

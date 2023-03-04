@@ -6945,3 +6945,23 @@ translated (by machine 🤖) as:
 ```
 العلامات المحذوفة: %s
 ```
+
+
+## Translation Key: new_circle_hint_text
+```
+Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.
+```
+translated (by machine 🤖) as:
+```
+حدد مركز الدائرة أو حافتها باستخدام أزرار شريط الأدوات وحرك الخريطة لتعديلها. أخيرًا ، انقر فوق حفظ لحفظ الشكل.
+```
+
+
+## Translation Key: radius_x
+```
+Radius: %s
+```
+translated (by machine 🤖) as:
+```
+نصف القطر: %s
+```

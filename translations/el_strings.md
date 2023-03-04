@@ -6945,3 +6945,23 @@ translated (by machine 🤖) as:
 ```
 Διαγράφηκαν δείκτες: %s
 ```
+
+
+## Translation Key: new_circle_hint_text
+```
+Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.
+```
+translated (by machine 🤖) as:
+```
+Επιλέξτε το κέντρο ή την άκρη του κύκλου με τα κουμπιά της γραμμής εργαλείων και μετακινήστε τον χάρτη για προσαρμογή. Τέλος, κάντε κλικ στην αποθήκευση για να αποθηκεύσετε το σχήμα.
+```
+
+
+## Translation Key: radius_x
+```
+Radius: %s
+```
+translated (by machine 🤖) as:
+```
+Ακτίνα: %s
+```

@@ -6942,3 +6942,23 @@ translated (by machine 🤖) as:
 ```
 Izbrisane oznake: %s
 ```
+
+
+## Translation Key: new_circle_hint_text
+```
+Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.
+```
+translated (by machine 🤖) as:
+```
+Izberite sredino ali rob kroga z gumbi v orodni vrstici in premikajte zemljevid, da ga prilagodite. Na koncu kliknite Shrani, da shranite obliko.
+```
+
+
+## Translation Key: radius_x
+```
+Radius: %s
+```
+translated (by machine 🤖) as:
+```
+Polmer: %s
+```

@@ -6945,3 +6945,23 @@ translated (by machine 🤖) as:
 ```
 Merkit poistettu: %s
 ```
+
+
+## Translation Key: new_circle_hint_text
+```
+Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.
+```
+translated (by machine 🤖) as:
+```
+Valitse ympyrän keskikohta tai reuna työkalupalkin painikkeilla ja säädä karttaa liikuttamalla sitä. Tallenna muoto lopuksi napsauttamalla Tallenna.
+```
+
+
+## Translation Key: radius_x
+```
+Radius: %s
+```
+translated (by machine 🤖) as:
+```
+Säde: %s
+```

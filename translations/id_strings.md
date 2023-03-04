@@ -6945,3 +6945,23 @@ translated (by machine 🤖) as:
 ```
 Penanda dihapus: %s
 ```
+
+
+## Translation Key: new_circle_hint_text
+```
+Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.
+```
+translated (by machine 🤖) as:
+```
+Pilih pusat atau tepi lingkaran dengan tombol bilah alat dan gerakkan peta untuk menyesuaikan. Terakhir, klik simpan untuk menyimpan bentuk.
+```
+
+
+## Translation Key: radius_x
+```
+Radius: %s
+```
+translated (by machine 🤖) as:
+```
+Radius: %s
+```

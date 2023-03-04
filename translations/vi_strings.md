@@ -6945,3 +6945,23 @@ translated (by machine 🤖) as:
 ```
 Điểm đánh dấu đã bị xóa: %s
 ```
+
+
+## Translation Key: new_circle_hint_text
+```
+Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.
+```
+translated (by machine 🤖) as:
+```
+Chọn tâm hoặc cạnh của vòng tròn bằng các nút trên thanh công cụ và di chuyển bản đồ xung quanh để điều chỉnh. Cuối cùng, nhấp vào lưu để lưu hình dạng.
+```
+
+
+## Translation Key: radius_x
+```
+Radius: %s
+```
+translated (by machine 🤖) as:
+```
+Bán kính: %s
+```

@@ -6945,3 +6945,23 @@ translated (by machine 🤖) as:
 ```
 Ознаке избрисане: %s
 ```
+
+
+## Translation Key: new_circle_hint_text
+```
+Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.
+```
+translated (by machine 🤖) as:
+```
+Изаберите центар или ивицу круга помоћу дугмади на траци са алаткама и померајте мапу да бисте је прилагодили. На крају, кликните на сачувај да бисте сачували облик.
+```
+
+
+## Translation Key: radius_x
+```
+Radius: %s
+```
+translated (by machine 🤖) as:
+```
+Радијус: %s
+```

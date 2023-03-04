@@ -6945,3 +6945,23 @@ translated (by machine 🤖) as:
 ```
 Маркери видалено: %s
 ```
+
+
+## Translation Key: new_circle_hint_text
+```
+Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.
+```
+translated (by machine 🤖) as:
+```
+Виберіть центр або край кола за допомогою кнопок панелі інструментів і перемістіть карту, щоб налаштувати. Нарешті натисніть «Зберегти», щоб зберегти форму.
+```
+
+
+## Translation Key: radius_x
+```
+Radius: %s
+```
+translated (by machine 🤖) as:
+```
+Радіус: %s
+```

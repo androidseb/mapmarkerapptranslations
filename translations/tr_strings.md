@@ -6945,3 +6945,23 @@ translated (by machine 🤖) as:
 ```
 Silinen işaretçiler: %s
 ```
+
+
+## Translation Key: new_circle_hint_text
+```
+Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.
+```
+translated (by machine 🤖) as:
+```
+Araç çubuğu düğmeleriyle dairenin merkezini veya kenarını seçin ve ayarlamak için haritayı hareket ettirin. Son olarak, şekli kaydetmek için kaydet'i tıklayın.
+```
+
+
+## Translation Key: radius_x
+```
+Radius: %s
+```
+translated (by machine 🤖) as:
+```
+Yarıçap: %s
+```

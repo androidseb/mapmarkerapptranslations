@@ -6946,3 +6946,23 @@ translated (by machine 🤖) as:
 ```
 削除されたマーカー: %s
 ```
+
+
+## Translation Key: new_circle_hint_text
+```
+Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.
+```
+translated (by machine 🤖) as:
+```
+ツールバーのボタンで円の中心または端を選択し、マップを移動して調整します。最後に、保存をクリックして形状を保存します。
+```
+
+
+## Translation Key: radius_x
+```
+Radius: %s
+```
+translated (by machine 🤖) as:
+```
+半径: %s
+```

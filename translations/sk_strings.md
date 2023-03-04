@@ -6945,3 +6945,23 @@ translated (by machine 🤖) as:
 ```
 Značky odstránené: %s
 ```
+
+
+## Translation Key: new_circle_hint_text
+```
+Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.
+```
+translated (by machine 🤖) as:
+```
+Pomocou tlačidiel na paneli s nástrojmi vyberte stred alebo okraj kruhu a posúvaním mapy upravte. Nakoniec kliknutím na tlačidlo uložiť tvar uložte.
+```
+
+
+## Translation Key: radius_x
+```
+Radius: %s
+```
+translated (by machine 🤖) as:
+```
+Polomer: %s
+```

@@ -6945,3 +6945,23 @@ translated (by machine 🤖) as:
 ```
 សញ្ញាសម្គាល់ត្រូវបានលុប៖ %s
 ```
+
+
+## Translation Key: new_circle_hint_text
+```
+Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.
+```
+translated (by machine 🤖) as:
+```
+ជ្រើសរើសកណ្តាល ឬគែមរង្វង់ដោយប្រើប៊ូតុងរបារឧបករណ៍ ហើយផ្លាស់ទីផែនទីជុំវិញដើម្បីកែតម្រូវ។ ចុងក្រោយ ចុច Save ដើម្បីរក្សាទុករូបរាង។
+```
+
+
+## Translation Key: radius_x
+```
+Radius: %s
+```
+translated (by machine 🤖) as:
+```
+កាំ៖ _៧
+```

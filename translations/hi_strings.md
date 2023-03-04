@@ -6945,3 +6945,23 @@ translated (by machine 🤖) as:
 ```
 मार्कर हटाए गए: %s
 ```
+
+
+## Translation Key: new_circle_hint_text
+```
+Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.
+```
+translated (by machine 🤖) as:
+```
+टूलबार बटन के साथ केंद्र या सर्कल के किनारे का चयन करें और समायोजित करने के लिए मानचित्र को चारों ओर ले जाएं। अंत में, शेप को सेव करने के लिए सेव पर क्लिक करें।
+```
+
+
+## Translation Key: radius_x
+```
+Radius: %s
+```
+translated (by machine 🤖) as:
+```
+त्रिज्या: %s
+```

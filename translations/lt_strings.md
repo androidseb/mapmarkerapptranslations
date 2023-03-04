@@ -6944,3 +6944,23 @@ translated (by machine 🤖) as:
 ```
 Ištrinti žymekliai: %s
 ```
+
+
+## Translation Key: new_circle_hint_text
+```
+Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.
+```
+translated (by machine 🤖) as:
+```
+Įrankių juostos mygtukais pasirinkite apskritimo centrą arba kraštą ir perkelkite žemėlapį, kad sureguliuotumėte. Galiausiai spustelėkite išsaugoti, kad išsaugotumėte formą.
+```
+
+
+## Translation Key: radius_x
+```
+Radius: %s
+```
+translated (by machine 🤖) as:
+```
+Spindulys: %s
+```

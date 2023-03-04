@@ -6937,3 +6937,23 @@ translated (by machine 🤖) as:
 ```
 刪除的標記：%s
 ```
+
+
+## Translation Key: new_circle_hint_text
+```
+Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.
+```
+translated (by machine 🤖) as:
+```
+使用工具欄按鈕選擇圓的中心或邊緣，然後四處移動地圖進行調整。最後點擊保存保存形狀。
+```
+
+
+## Translation Key: radius_x
+```
+Radius: %s
+```
+translated (by machine 🤖) as:
+```
+半徑：%s
+```
