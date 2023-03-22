@@ -913,7 +913,7 @@ Used compass sensor
 ```
 translated (by machine 🤖) as:
 ```
-二手指南针传感器
+作为指南针使用
 ```
 
 
@@ -3775,7 +3775,7 @@ Accessibility
 ```
 translated (by machine 🤖) as:
 ```
-辅助功能
+无障碍设施
 ```
 
 
@@ -5929,7 +5929,7 @@ Base map pin size
 ```
 translated (by machine 🤖) as:
 ```
-底图引脚尺寸
+地图标记尺寸
 ```
 
 
