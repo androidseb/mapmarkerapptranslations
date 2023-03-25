@@ -39,7 +39,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Catalan (0% human-translated)](./translations/ca_strings.md)
 
-[Chinese Simplified (1% human-translated)](./translations/zh-rCN_strings.md)
+[Chinese Simplified (97% human-translated)](./translations/zh-rCN_strings.md)
 
 [Chinese Traditional (1% human-translated)](./translations/zh-rHK_strings.md)
 
