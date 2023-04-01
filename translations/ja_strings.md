@@ -6694,16 +6694,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: downloading_and_importing_cloud_map
-```
-Downloading and importing cloud map…
-```
-translated (by machine 🤖) as:
-```
-クラウドマップをダウンロードしてインポートしています…
-```
-
-
 ## Translation Key: run_data_migration_again
 ```
 Run data migration again
