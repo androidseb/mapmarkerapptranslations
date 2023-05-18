@@ -4593,3 +4593,13 @@ Uporabite sistemske nastavitve
 ```
 
 
+## Translation Key: nav_navigation_description
+```
+Enter navigation mode in this app to get directions to the marker
+```
+translated (by human 👀) as:
+```
+V to aplikacijo vnesite navigacijski način, da dobite navodila za označevanje
+```
+
+

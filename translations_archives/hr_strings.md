@@ -893,16 +893,6 @@ Otvoreni pogled na marker ulica u ovoj aplikaciji
 ```
 
 
-## Translation Key: nav_navigation_description
-```
-Enter navigation mode in this app to get directions to the marker
-```
-translated (by machine 🤖) as:
-```
-Unesite navigacijski mod u ovom aplikacijom dobiti upute za marker
-```
-
-
 ## Translation Key: other_options
 ```
 Other options

@@ -893,16 +893,6 @@ Abra la vista de la calle marcador en esta aplicación
 ```
 
 
-## Translation Key: nav_navigation_description
-```
-Enter navigation mode in this app to get directions to the marker
-```
-translated (by machine 🤖) as:
-```
-Entre en el modo de navegación en esta aplicación para obtener instrucciones para llegar al marcador
-```
-
-
 ## Translation Key: other_options
 ```
 Other options

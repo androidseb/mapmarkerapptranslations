@@ -4593,3 +4593,13 @@ Sử dụng cài đặt hệ thống
 ```
 
 
+## Translation Key: nav_navigation_description
+```
+Enter navigation mode in this app to get directions to the marker
+```
+translated (by machine 🤖) as:
+```
+Vào chế độ điều hướng trong ứng dụng này để nhận được hướng dẫn để đánh dấu
+```
+
+

@@ -4593,3 +4593,13 @@ Naudokite sistemos nustatymus
 ```
 
 
+## Translation Key: nav_navigation_description
+```
+Enter navigation mode in this app to get directions to the marker
+```
+translated (by human 👀) as:
+```
+Atverti šioje programėlėje navigacijos režimą krypties nurodymų į žymeklį gavimui
+```
+
+

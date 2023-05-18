@@ -893,16 +893,6 @@ Deschideți ecranul stradă să îi trimită în această aplicație
 ```
 
 
-## Translation Key: nav_navigation_description
-```
-Enter navigation mode in this app to get directions to the marker
-```
-translated (by machine 🤖) as:
-```
-Intra în modul de navigare în această aplicație pentru a traseu la markerul
-```
-
-
 ## Translation Key: other_options
 ```
 Other options

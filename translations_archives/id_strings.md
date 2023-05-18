@@ -893,16 +893,6 @@ Membuka tampilan penanda jalan di aplikasi ini
 ```
 
 
-## Translation Key: nav_navigation_description
-```
-Enter navigation mode in this app to get directions to the marker
-```
-translated (by machine 🤖) as:
-```
-Masukkan modus navigasi di aplikasi ini untuk mendapatkan arah ke penanda
-```
-
-
 ## Translation Key: other_options
 ```
 Other options

@@ -893,16 +893,6 @@ translated (by human 👀) as:
 ```
 
 
-## Translation Key: nav_navigation_description
-```
-Enter navigation mode in this app to get directions to the marker
-```
-translated (by human 👀) as:
-```
-Starta navigeringsläget i denna app för att få en vägbeskrivning till markören
-```
-
-
 ## Translation Key: other_options
 ```
 Other options

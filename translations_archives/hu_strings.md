@@ -893,16 +893,6 @@ Nyissa meg a marker utcára néző ebben az app
 ```
 
 
-## Translation Key: nav_navigation_description
-```
-Enter navigation mode in this app to get directions to the marker
-```
-translated (by machine 🤖) as:
-```
-Adja navigációs mód ebben az app útvonaltervet a marker
-```
-
-
 ## Translation Key: other_options
 ```
 Other options

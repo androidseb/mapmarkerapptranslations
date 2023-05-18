@@ -893,16 +893,6 @@ translated (by human 👀) as:
 ```
 
 
-## Translation Key: nav_navigation_description
-```
-Enter navigation mode in this app to get directions to the marker
-```
-translated (by human 👀) as:
-```
-ادخل إلى وضع الملاحة في هذا التطبيق للحصول على توجيهات الوصول إلى العلامة
-```
-
-
 ## Translation Key: other_options
 ```
 Other options

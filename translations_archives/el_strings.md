@@ -893,16 +893,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: nav_navigation_description
-```
-Enter navigation mode in this app to get directions to the marker
-```
-translated (by machine 🤖) as:
-```
-Εισάγετε τη λειτουργία πλοήγησης σε αυτό το app για να πάρει οδηγίες για το δείκτη
-```
-
-
 ## Translation Key: other_options
 ```
 Other options

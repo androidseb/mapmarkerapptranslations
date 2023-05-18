@@ -4597,3 +4597,13 @@ Brug systemindstillinger
 ```
 
 
+## Translation Key: nav_navigation_description
+```
+Enter navigation mode in this app to get directions to the marker
+```
+translated (by human 👀) as:
+```
+Indtast navigations mode i denne app for at få rutevejledning til markøren
+```
+
+

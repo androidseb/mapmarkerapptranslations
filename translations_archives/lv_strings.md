@@ -893,16 +893,6 @@ Atveriet marķieris ielu viedokli šajā app
 ```
 
 
-## Translation Key: nav_navigation_description
-```
-Enter navigation mode in this app to get directions to the marker
-```
-translated (by machine 🤖) as:
-```
-Ievadiet navigācijas režīmu šajā app, lai saņemtu norādes uz marķieri
-```
-
-
 ## Translation Key: other_options
 ```
 Other options

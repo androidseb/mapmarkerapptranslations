@@ -893,16 +893,6 @@ Open the marker street view in this app
 ```
 
 
-## Translation Key: nav_navigation_description
-```
-Enter navigation mode in this app to get directions to the marker
-```
-translated (by machine 🤖) as:
-```
-Enter navigation mode in this app to get directions to the marker
-```
-
-
 ## Translation Key: other_options
 ```
 Other options

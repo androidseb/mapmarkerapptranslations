@@ -893,16 +893,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: nav_navigation_description
-```
-Enter navigation mode in this app to get directions to the marker
-```
-translated (by machine 🤖) as:
-```
-마커에 방향을 얻을이 응용 프로그램의 탐색 모드를 입력
-```
-
-
 ## Translation Key: other_options
 ```
 Other options

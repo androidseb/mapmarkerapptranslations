@@ -893,16 +893,6 @@ Abra a visualização marcador rua neste app
 ```
 
 
-## Translation Key: nav_navigation_description
-```
-Enter navigation mode in this app to get directions to the marker
-```
-translated (by machine 🤖) as:
-```
-Entre no modo de navegação neste app para obter direcções para o marcador
-```
-
-
 ## Translation Key: other_options
 ```
 Other options

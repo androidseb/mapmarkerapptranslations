@@ -893,16 +893,6 @@ Mở giao diện đánh dấu đường phố trong ứng dụng này
 ```
 
 
-## Translation Key: nav_navigation_description
-```
-Enter navigation mode in this app to get directions to the marker
-```
-translated (by machine 🤖) as:
-```
-Vào chế độ điều hướng trong ứng dụng này để nhận được hướng dẫn để đánh dấu
-```
-
-
 ## Translation Key: other_options
 ```
 Other options

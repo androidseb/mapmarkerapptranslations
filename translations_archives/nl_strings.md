@@ -890,16 +890,6 @@ Open de weergave marker streetvieuw in deze app
 ```
 
 
-## Translation Key: nav_navigation_description
-```
-Enter navigation mode in this app to get directions to the marker
-```
-translated (by human 👀) as:
-```
-Voer navigatiemodus in deze app om een routebeschrijving naar de marker te krijgen
-```
-
-
 ## Translation Key: other_options
 ```
 Other options

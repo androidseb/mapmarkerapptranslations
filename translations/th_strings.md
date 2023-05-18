@@ -4593,3 +4593,13 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: nav_navigation_description
+```
+Enter navigation mode in this app to get directions to the marker
+```
+translated (by machine 🤖) as:
+```
+เข้าสู่โหมดนำทางใน app นี้เพื่อให้ได้เส้นทางไปยังเครื่องหมาย
+```
+
+

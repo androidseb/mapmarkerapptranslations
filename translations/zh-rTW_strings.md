@@ -4593,3 +4593,13 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: nav_navigation_description
+```
+Enter navigation mode in this app to get directions to the marker
+```
+translated (by human 👀) as:
+```
+在此應用中進入導航模式以獲取前往標記的路線
+```
+
+

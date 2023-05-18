@@ -4593,3 +4593,13 @@ Use system settings
 ```
 
 
+## Translation Key: nav_navigation_description
+```
+Enter navigation mode in this app to get directions to the marker
+```
+translated (by machine 🤖) as:
+```
+Enter navigation mode in this app to get directions to the marker
+```
+
+

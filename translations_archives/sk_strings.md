@@ -893,16 +893,6 @@ Otvorte pohľad značka ulice v tejto aplikácii
 ```
 
 
-## Translation Key: nav_navigation_description
-```
-Enter navigation mode in this app to get directions to the marker
-```
-translated (by machine 🤖) as:
-```
-Vstup do režimu navigácie v tejto aplikácii sa dostať trasu do značky
-```
-
-
 ## Translation Key: other_options
 ```
 Other options

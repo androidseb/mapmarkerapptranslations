@@ -893,16 +893,6 @@ Otwórz widok znacznika ulicy w tej aplikacji
 ```
 
 
-## Translation Key: nav_navigation_description
-```
-Enter navigation mode in this app to get directions to the marker
-```
-translated (by human 👀) as:
-```
-Wejdź w tryb nawigacji w tej aplikacji, aby uzyskać wskazówki do znacznika
-```
-
-
 ## Translation Key: other_options
 ```
 Other options

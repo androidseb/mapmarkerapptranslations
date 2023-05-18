@@ -893,16 +893,6 @@ Bu app işaretleyici sokak görünümü açın
 ```
 
 
-## Translation Key: nav_navigation_description
-```
-Enter navigation mode in this app to get directions to the marker
-```
-translated (by machine 🤖) as:
-```
-Işaretleyici tarifi almak için bu app navigasyon moduna girin
-```
-
-
 ## Translation Key: other_options
 ```
 Other options

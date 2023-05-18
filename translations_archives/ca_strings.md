@@ -893,16 +893,6 @@ Obriu la vista del carrer marcador en aquesta aplicació
 ```
 
 
-## Translation Key: nav_navigation_description
-```
-Enter navigation mode in this app to get directions to the marker
-```
-translated (by machine 🤖) as:
-```
-Entre en la manera de navegació en aquesta aplicació per obtenir instruccions per arribar al marcador
-```
-
-
 ## Translation Key: other_options
 ```
 Other options
