@@ -153,16 +153,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: marker_direction
-```
-Directions
-```
-translated (by machine 🤖) as:
-```
-คำสั่ง
-```
-
-
 ## Translation Key: acquiring_location
 ```
 Acquiring location...

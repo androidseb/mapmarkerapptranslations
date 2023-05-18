@@ -153,16 +153,6 @@ Alterar pasta para...
 ```
 
 
-## Translation Key: marker_direction
-```
-Directions
-```
-translated (by machine 🤖) as:
-```
-Instruções
-```
-
-
 ## Translation Key: acquiring_location
 ```
 Acquiring location...

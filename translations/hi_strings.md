@@ -4603,3 +4603,13 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: marker_direction
+```
+Directions
+```
+translated (by machine 🤖) as:
+```
+दिशा-निर्देश
+```
+
+

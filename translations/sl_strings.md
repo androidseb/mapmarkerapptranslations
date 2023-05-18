@@ -4603,3 +4603,13 @@ V to aplikacijo vnesite navigacijski način, da dobite navodila za označevanje
 ```
 
 
+## Translation Key: marker_direction
+```
+Directions
+```
+translated (by human 👀) as:
+```
+Navodila
+```
+
+

@@ -153,16 +153,6 @@ Mainīt mapi...
 ```
 
 
-## Translation Key: marker_direction
-```
-Directions
-```
-translated (by machine 🤖) as:
-```
-Virzieni
-```
-
-
 ## Translation Key: acquiring_location
 ```
 Acquiring location...

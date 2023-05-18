@@ -4603,3 +4603,13 @@ Masukkan modus navigasi di aplikasi ini untuk mendapatkan arah ke penanda
 ```
 
 
+## Translation Key: marker_direction
+```
+Directions
+```
+translated (by machine 🤖) as:
+```
+Arah
+```
+
+

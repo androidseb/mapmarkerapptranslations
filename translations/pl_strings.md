@@ -4603,3 +4603,13 @@ Wejdź w tryb nawigacji w tej aplikacji, aby uzyskać wskazówki do znacznika
 ```
 
 
+## Translation Key: marker_direction
+```
+Directions
+```
+translated (by human 👀) as:
+```
+Wskazówki
+```
+
+

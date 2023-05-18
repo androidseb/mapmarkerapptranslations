@@ -153,16 +153,6 @@ Change folder to...
 ```
 
 
-## Translation Key: marker_direction
-```
-Directions
-```
-translated (by machine 🤖) as:
-```
-Directions
-```
-
-
 ## Translation Key: acquiring_location
 ```
 Acquiring location...

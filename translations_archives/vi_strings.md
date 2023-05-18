@@ -153,16 +153,6 @@ Thay đổi thư mục để...
 ```
 
 
-## Translation Key: marker_direction
-```
-Directions
-```
-translated (by machine 🤖) as:
-```
-Chỉ Dẫn
-```
-
-
 ## Translation Key: acquiring_location
 ```
 Acquiring location...

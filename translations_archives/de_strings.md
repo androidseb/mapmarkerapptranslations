@@ -153,16 +153,6 @@ Ordner ändern zu#8230;
 ```
 
 
-## Translation Key: marker_direction
-```
-Directions
-```
-translated (by human 👀) as:
-```
-Richtungen
-```
-
-
 ## Translation Key: acquiring_location
 ```
 Acquiring location...

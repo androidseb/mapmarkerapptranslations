@@ -4603,3 +4603,13 @@ Starta navigeringsläget i denna app för att få en vägbeskrivning till markö
 ```
 
 
+## Translation Key: marker_direction
+```
+Directions
+```
+translated (by human 👀) as:
+```
+Avstånd
+```
+
+

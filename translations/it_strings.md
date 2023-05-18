@@ -4603,3 +4603,13 @@ Accedere alla modalità di navigazione in questa applicazione per ottenere le in
 ```
 
 
+## Translation Key: marker_direction
+```
+Directions
+```
+translated (by machine 🤖) as:
+```
+Indicazioni
+```
+
+

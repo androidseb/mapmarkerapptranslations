@@ -153,16 +153,6 @@ Pakeisti aplanką į...
 ```
 
 
-## Translation Key: marker_direction
-```
-Directions
-```
-translated (by human 👀) as:
-```
-Kryptys
-```
-
-
 ## Translation Key: acquiring_location
 ```
 Acquiring location...

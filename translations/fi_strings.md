@@ -4603,3 +4603,13 @@ Anna navigointitilassa tässä sovelluksen saada ajo merkki
 ```
 
 
+## Translation Key: marker_direction
+```
+Directions
+```
+translated (by machine 🤖) as:
+```
+Ohjeet
+```
+
+

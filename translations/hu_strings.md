@@ -4603,3 +4603,13 @@ Adja navigációs mód ebben az app útvonaltervet a marker
 ```
 
 
+## Translation Key: marker_direction
+```
+Directions
+```
+translated (by machine 🤖) as:
+```
+Directions
+```
+
+

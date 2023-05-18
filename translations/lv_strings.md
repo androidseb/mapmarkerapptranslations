@@ -4603,3 +4603,13 @@ Ievadiet navigācijas režīmu šajā app, lai saņemtu norādes uz marķieri
 ```
 
 
+## Translation Key: marker_direction
+```
+Directions
+```
+translated (by machine 🤖) as:
+```
+Virzieni
+```
+
+

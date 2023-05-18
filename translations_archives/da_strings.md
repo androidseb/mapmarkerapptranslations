@@ -153,16 +153,6 @@ Skift mappe til...
 ```
 
 
-## Translation Key: marker_direction
-```
-Directions
-```
-translated (by machine 🤖) as:
-```
-Kørselsvejledning
-```
-
-
 ## Translation Key: acquiring_location
 ```
 Acquiring location...

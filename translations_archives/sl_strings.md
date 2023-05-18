@@ -153,16 +153,6 @@ Spremeni mapo...
 ```
 
 
-## Translation Key: marker_direction
-```
-Directions
-```
-translated (by human 👀) as:
-```
-Navodila
-```
-
-
 ## Translation Key: acquiring_location
 ```
 Acquiring location...

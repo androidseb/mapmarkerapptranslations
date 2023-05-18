@@ -153,16 +153,6 @@ Map wijzigen naar...
 ```
 
 
-## Translation Key: marker_direction
-```
-Directions
-```
-translated (by human 👀) as:
-```
-Routebeschrijving
-```
-
-
 ## Translation Key: acquiring_location
 ```
 Acquiring location...

@@ -4603,3 +4603,13 @@ Skriv inn navigeringsmodus i dette programmet for å få veibeskrivelse til mark
 ```
 
 
+## Translation Key: marker_direction
+```
+Directions
+```
+translated (by machine 🤖) as:
+```
+Retninger
+```
+
+

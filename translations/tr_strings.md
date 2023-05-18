@@ -4603,3 +4603,13 @@ Işaretleyici tarifi almak için bu app navigasyon moduna girin
 ```
 
 
+## Translation Key: marker_direction
+```
+Directions
+```
+translated (by machine 🤖) as:
+```
+Yol
+```
+
+

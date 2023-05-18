@@ -153,16 +153,6 @@ Zmeniť zložku, ktorú chcete...
 ```
 
 
-## Translation Key: marker_direction
-```
-Directions
-```
-translated (by machine 🤖) as:
-```
-Inštrukcie
-```
-
-
 ## Translation Key: acquiring_location
 ```
 Acquiring location...

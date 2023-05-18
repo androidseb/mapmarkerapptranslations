@@ -4603,3 +4603,13 @@ Vào chế độ điều hướng trong ứng dụng này để nhận được 
 ```
 
 
+## Translation Key: marker_direction
+```
+Directions
+```
+translated (by machine 🤖) as:
+```
+Chỉ Dẫn
+```
+
+

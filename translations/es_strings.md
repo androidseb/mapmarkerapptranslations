@@ -4603,3 +4603,13 @@ Entre en el modo de navegación en esta aplicación para obtener instrucciones p
 ```
 
 
+## Translation Key: marker_direction
+```
+Directions
+```
+translated (by human 👀) as:
+```
+Indicaciones
+```
+
+

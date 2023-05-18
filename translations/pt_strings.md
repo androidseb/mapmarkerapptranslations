@@ -4603,3 +4603,13 @@ Entre no modo de navegação neste app para obter direcções para o marcador
 ```
 
 
+## Translation Key: marker_direction
+```
+Directions
+```
+translated (by machine 🤖) as:
+```
+Instruções
+```
+
+

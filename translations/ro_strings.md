@@ -4603,3 +4603,13 @@ Intra în modul de navigare în această aplicație pentru a traseu la markerul
 ```
 
 
+## Translation Key: marker_direction
+```
+Directions
+```
+translated (by machine 🤖) as:
+```
+Direcții
+```
+
+

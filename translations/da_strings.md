@@ -4607,3 +4607,13 @@ Indtast navigations mode i denne app for at få rutevejledning til markøren
 ```
 
 
+## Translation Key: marker_direction
+```
+Directions
+```
+translated (by machine 🤖) as:
+```
+Kørselsvejledning
+```
+
+

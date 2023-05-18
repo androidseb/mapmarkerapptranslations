@@ -153,16 +153,6 @@ Ubah folder untuk...
 ```
 
 
-## Translation Key: marker_direction
-```
-Directions
-```
-translated (by machine 🤖) as:
-```
-Arah
-```
-
-
 ## Translation Key: acquiring_location
 ```
 Acquiring location...

@@ -4603,3 +4603,13 @@ Vstup do režimu navigace v této aplikaci se dostat trasu do značky
 ```
 
 
+## Translation Key: marker_direction
+```
+Directions
+```
+translated (by machine 🤖) as:
+```
+Instrukce
+```
+
+

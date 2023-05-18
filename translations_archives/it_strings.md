@@ -153,16 +153,6 @@ Cambia cartella...
 ```
 
 
-## Translation Key: marker_direction
-```
-Directions
-```
-translated (by machine 🤖) as:
-```
-Indicazioni
-```
-
-
 ## Translation Key: acquiring_location
 ```
 Acquiring location...

@@ -4603,3 +4603,13 @@ Atverti šioje programėlėje navigacijos režimą krypties nurodymų į žymekl
 ```
 
 
+## Translation Key: marker_direction
+```
+Directions
+```
+translated (by human 👀) as:
+```
+Kryptys
+```
+
+

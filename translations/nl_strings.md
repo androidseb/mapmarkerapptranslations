@@ -4603,3 +4603,13 @@ Voer navigatiemodus in deze app om een routebeschrijving naar de marker te krijg
 ```
 
 
+## Translation Key: marker_direction
+```
+Directions
+```
+translated (by human 👀) as:
+```
+Routebeschrijving
+```
+
+

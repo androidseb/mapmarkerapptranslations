@@ -4603,3 +4603,13 @@ Enter navigation mode in this app to get directions to the marker
 ```
 
 
+## Translation Key: marker_direction
+```
+Directions
+```
+translated (by machine 🤖) as:
+```
+Directions
+```
+
+

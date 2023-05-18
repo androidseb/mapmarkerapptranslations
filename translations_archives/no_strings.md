@@ -153,16 +153,6 @@ Endre mappe til...
 ```
 
 
-## Translation Key: marker_direction
-```
-Directions
-```
-translated (by machine 🤖) as:
-```
-Retninger
-```
-
-
 ## Translation Key: acquiring_location
 ```
 Acquiring location...

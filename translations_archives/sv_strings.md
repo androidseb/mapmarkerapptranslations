@@ -153,16 +153,6 @@ Byt mapp till...
 ```
 
 
-## Translation Key: marker_direction
-```
-Directions
-```
-translated (by human 👀) as:
-```
-Avstånd
-```
-
-
 ## Translation Key: acquiring_location
 ```
 Acquiring location...

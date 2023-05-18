@@ -153,16 +153,6 @@ Canviar carpeta per...
 ```
 
 
-## Translation Key: marker_direction
-```
-Directions
-```
-translated (by machine 🤖) as:
-```
-Instruccions
-```
-
-
 ## Translation Key: acquiring_location
 ```
 Acquiring location...

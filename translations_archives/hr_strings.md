@@ -153,16 +153,6 @@ Promjena mape za...
 ```
 
 
-## Translation Key: marker_direction
-```
-Directions
-```
-translated (by machine 🤖) as:
-```
-Upute
-```
-
-
 ## Translation Key: acquiring_location
 ```
 Acquiring location...

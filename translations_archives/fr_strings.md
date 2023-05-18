@@ -153,16 +153,6 @@ Changer de dossier...
 ```
 
 
-## Translation Key: marker_direction
-```
-Directions
-```
-translated (by human 👀) as:
-```
-Directions
-```
-
-
 ## Translation Key: acquiring_location
 ```
 Acquiring location...

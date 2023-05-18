@@ -4603,3 +4603,13 @@ Unesite navigacijski mod u ovom aplikacijom dobiti upute za marker
 ```
 
 
+## Translation Key: marker_direction
+```
+Directions
+```
+translated (by machine 🤖) as:
+```
+Upute
+```
+
+

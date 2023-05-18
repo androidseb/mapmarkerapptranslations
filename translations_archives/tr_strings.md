@@ -153,16 +153,6 @@ Klasörü değiştirin...
 ```
 
 
-## Translation Key: marker_direction
-```
-Directions
-```
-translated (by machine 🤖) as:
-```
-Yol
-```
-
-
 ## Translation Key: acquiring_location
 ```
 Acquiring location...

@@ -153,16 +153,6 @@ Vaihda kansio...
 ```
 
 
-## Translation Key: marker_direction
-```
-Directions
-```
-translated (by machine 🤖) as:
-```
-Ohjeet
-```
-
-
 ## Translation Key: acquiring_location
 ```
 Acquiring location...
