@@ -4553,3 +4553,43 @@ Bán kính: %s
 ```
 
 
+## Translation Key: preferred_display_theme
+```
+Display theme (dark / light)
+```
+translated (by machine 🤖) as:
+```
+Chủ đề hiển thị (tối / sáng)
+```
+
+
+## Translation Key: preferred_display_theme_dark
+```
+Dark theme
+```
+translated (by machine 🤖) as:
+```
+chủ đề tối
+```
+
+
+## Translation Key: preferred_display_theme_light
+```
+Light theme
+```
+translated (by machine 🤖) as:
+```
+chủ đề ánh sáng
+```
+
+
+## Translation Key: preferred_display_theme_use_system
+```
+Use system settings
+```
+translated (by machine 🤖) as:
+```
+Sử dụng cài đặt hệ thống
+```
+
+

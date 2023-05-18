@@ -4553,3 +4553,43 @@ Promień: %s
 ```
 
 
+## Translation Key: preferred_display_theme
+```
+Display theme (dark / light)
+```
+translated (by machine 🤖) as:
+```
+Motyw wyświetlacza (ciemny / jasny)
+```
+
+
+## Translation Key: preferred_display_theme_dark
+```
+Dark theme
+```
+translated (by machine 🤖) as:
+```
+ciemny schemat
+```
+
+
+## Translation Key: preferred_display_theme_light
+```
+Light theme
+```
+translated (by machine 🤖) as:
+```
+Lekki motyw
+```
+
+
+## Translation Key: preferred_display_theme_use_system
+```
+Use system settings
+```
+translated (by machine 🤖) as:
+```
+Użyj ustawień systemowych
+```
+
+

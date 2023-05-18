@@ -4553,3 +4553,43 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: preferred_display_theme
+```
+Display theme (dark / light)
+```
+translated (by machine 🤖) as:
+```
+디스플레이 테마(어둡게/밝게)
+```
+
+
+## Translation Key: preferred_display_theme_dark
+```
+Dark theme
+```
+translated (by machine 🤖) as:
+```
+어두운 테마
+```
+
+
+## Translation Key: preferred_display_theme_light
+```
+Light theme
+```
+translated (by machine 🤖) as:
+```
+밝은 테마
+```
+
+
+## Translation Key: preferred_display_theme_use_system
+```
+Use system settings
+```
+translated (by machine 🤖) as:
+```
+시스템 설정 사용
+```
+
+

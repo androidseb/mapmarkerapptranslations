@@ -4553,3 +4553,43 @@ Radius: %s
 ```
 
 
+## Translation Key: preferred_display_theme
+```
+Display theme (dark / light)
+```
+translated (by machine 🤖) as:
+```
+Display theme (dark / light)
+```
+
+
+## Translation Key: preferred_display_theme_dark
+```
+Dark theme
+```
+translated (by machine 🤖) as:
+```
+Dark theme
+```
+
+
+## Translation Key: preferred_display_theme_light
+```
+Light theme
+```
+translated (by machine 🤖) as:
+```
+Light theme
+```
+
+
+## Translation Key: preferred_display_theme_use_system
+```
+Use system settings
+```
+translated (by machine 🤖) as:
+```
+Use system settings
+```
+
+

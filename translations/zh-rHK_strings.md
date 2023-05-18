@@ -4553,3 +4553,43 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: preferred_display_theme
+```
+Display theme (dark / light)
+```
+translated (by machine 🤖) as:
+```
+顯示主題（深色/淺色）
+```
+
+
+## Translation Key: preferred_display_theme_dark
+```
+Dark theme
+```
+translated (by machine 🤖) as:
+```
+深色主題
+```
+
+
+## Translation Key: preferred_display_theme_light
+```
+Light theme
+```
+translated (by machine 🤖) as:
+```
+淺色主題
+```
+
+
+## Translation Key: preferred_display_theme_use_system
+```
+Use system settings
+```
+translated (by machine 🤖) as:
+```
+使用系統設置
+```
+
+

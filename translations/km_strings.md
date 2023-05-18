@@ -4553,3 +4553,43 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: preferred_display_theme
+```
+Display theme (dark / light)
+```
+translated (by machine 🤖) as:
+```
+បង្ហាញប្រធានបទ (ងងឹត / ពន្លឺ)
+```
+
+
+## Translation Key: preferred_display_theme_dark
+```
+Dark theme
+```
+translated (by machine 🤖) as:
+```
+ប្រធានបទងងឹត
+```
+
+
+## Translation Key: preferred_display_theme_light
+```
+Light theme
+```
+translated (by machine 🤖) as:
+```
+ប្រធានបទពន្លឺ
+```
+
+
+## Translation Key: preferred_display_theme_use_system
+```
+Use system settings
+```
+translated (by machine 🤖) as:
+```
+ប្រើការកំណត់ប្រព័ន្ធ
+```
+
+
