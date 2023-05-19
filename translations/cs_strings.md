@@ -4613,3 +4613,13 @@ Instrukce
 ```
 
 
+## Translation Key: distance_to_x
+```
+Distance to %1$s
+```
+translated (by machine 🤖) as:
+```
+Vzdálenost k %1$s
+```
+
+

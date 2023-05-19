@@ -411,16 +411,6 @@ Nou marcador automàtic de nomenclatura
 ```
 
 
-## Translation Key: distance_to_x
-```
-Distance to %1$s
-```
-translated (by machine 🤖) as:
-```
-Distància a %1$s
-```
-
-
 ## Translation Key: compass_calibration_help_part_1
 ```
 In order to get the proper north direction for the compass, you need to calibrate you device properly.

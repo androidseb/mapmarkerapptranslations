@@ -4613,3 +4613,13 @@ Direcții
 ```
 
 
+## Translation Key: distance_to_x
+```
+Distance to %1$s
+```
+translated (by machine 🤖) as:
+```
+Distanța până la %1$s
+```
+
+

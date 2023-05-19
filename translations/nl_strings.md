@@ -4613,3 +4613,13 @@ Routebeschrijving
 ```
 
 
+## Translation Key: distance_to_x
+```
+Distance to %1$s
+```
+translated (by human 👀) as:
+```
+Afstand tot %1$s
+```
+
+

@@ -4613,3 +4613,13 @@ Arah
 ```
 
 
+## Translation Key: distance_to_x
+```
+Distance to %1$s
+```
+translated (by machine 🤖) as:
+```
+Jarak %1$s
+```
+
+

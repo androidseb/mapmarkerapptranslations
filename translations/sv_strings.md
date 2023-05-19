@@ -4613,3 +4613,13 @@ Avstånd
 ```
 
 
+## Translation Key: distance_to_x
+```
+Distance to %1$s
+```
+translated (by human 👀) as:
+```
+Avstånd till %1$s
+```
+
+

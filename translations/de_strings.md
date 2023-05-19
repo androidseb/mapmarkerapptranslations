@@ -4613,3 +4613,13 @@ Richtungen
 ```
 
 
+## Translation Key: distance_to_x
+```
+Distance to %1$s
+```
+translated (by human 👀) as:
+```
+Entfernung zu %1$s
+```
+
+

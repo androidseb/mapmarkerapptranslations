@@ -411,16 +411,6 @@ translated (by human 👀) as:
 ```
 
 
-## Translation Key: distance_to_x
-```
-Distance to %1$s
-```
-translated (by human 👀) as:
-```
-到 %1$s 的距离
-```
-
-
 ## Translation Key: compass_calibration_help_part_1
 ```
 In order to get the proper north direction for the compass, you need to calibrate you device properly.

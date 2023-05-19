@@ -4613,3 +4613,13 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: distance_to_x
+```
+Distance to %1$s
+```
+translated (by machine 🤖) as:
+```
+Разстояние до %1$s
+```
+
+
