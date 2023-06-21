@@ -4643,3 +4643,13 @@ Uygulamayı nasıl geliştirebileceğimi söylemek için bana bir email gönderm
 ```
 
 
+## Translation Key: rate_the_app_message
+```
+If you like my app you can reward me by taking the time to give a good rating :-)
+```
+translated (by machine 🤖) as:
+```
+Eğer benim app gibi Eğer iyi bir derece vermek için zaman ayırdığınız beni ödüllendirmek yapabilirsiniz :-)
+```
+
+

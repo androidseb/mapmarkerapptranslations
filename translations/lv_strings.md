@@ -4643,3 +4643,13 @@ Vai vēlaties nosūtīt man email, lai pastāstītu, kā es varētu uzlabot liet
 ```
 
 
+## Translation Key: rate_the_app_message
+```
+If you like my app you can reward me by taking the time to give a good rating :-)
+```
+translated (by machine 🤖) as:
+```
+Ja jums patīk mans app jūs varat atalgot mani, ņemot vērā laiku, lai dotu labu novērtējumu :-)
+```
+
+

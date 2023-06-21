@@ -223,16 +223,6 @@ Google Playサービスに問題があります。インストール、更新、
 ```
 
 
-## Translation Key: rate_the_app_message
-```
-If you like my app you can reward me by taking the time to give a good rating :-)
-```
-translated (by machine 🤖) as:
-```
-アプリを気に入ったならば、良い評価を与えることに時間を取ってほしいです。私に報いることができます:-)
-```
-
-
 ## Translation Key: ok_take_me_to_the_play_store
 ```
 OK take me

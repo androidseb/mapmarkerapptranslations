@@ -223,16 +223,6 @@ Ir problēma ar Google Play Services : tā ir jāuzstāda, atjauninātas vai akt
 ```
 
 
-## Translation Key: rate_the_app_message
-```
-If you like my app you can reward me by taking the time to give a good rating :-)
-```
-translated (by machine 🤖) as:
-```
-Ja jums patīk mans app jūs varat atalgot mani, ņemot vērā laiku, lai dotu labu novērtējumu :-)
-```
-
-
 ## Translation Key: ok_take_me_to_the_play_store
 ```
 OK take me

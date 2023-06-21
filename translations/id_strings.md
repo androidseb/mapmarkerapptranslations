@@ -4643,3 +4643,13 @@ Apakah Anda ingin mengirim saya sebuah email untuk memberi tahu saya bagaimana s
 ```
 
 
+## Translation Key: rate_the_app_message
+```
+If you like my app you can reward me by taking the time to give a good rating :-)
+```
+translated (by machine 🤖) as:
+```
+Jika Anda menyukai aplikasi saya, Anda dapat membalas saya dengan mengambil waktu untuk memberikan peringkat yang baik :-)
+```
+
+

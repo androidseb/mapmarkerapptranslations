@@ -223,16 +223,6 @@ Wystąpił problem z Usługami Google Play: musi być zainstalowany, zaktualizow
 ```
 
 
-## Translation Key: rate_the_app_message
-```
-If you like my app you can reward me by taking the time to give a good rating :-)
-```
-translated (by human 👀) as:
-```
-Jeśli podoba Ci się moja aplikacja możesz nagrodzić mnie za poświęcenie czasu, aby dać dobrą Ocenę :-)
-```
-
-
 ## Translation Key: ok_take_me_to_the_play_store
 ```
 OK take me

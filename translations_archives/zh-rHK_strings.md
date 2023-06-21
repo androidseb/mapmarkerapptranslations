@@ -223,16 +223,6 @@ Google Play Services存在問題：需要安裝，更新或激活它。單擊“
 ```
 
 
-## Translation Key: rate_the_app_message
-```
-If you like my app you can reward me by taking the time to give a good rating :-)
-```
-translated (by machine 🤖) as:
-```
-如果您喜歡我的應用，可以花點時間給我一個好評分:-)來獎勵我
-```
-
-
 ## Translation Key: ok_take_me_to_the_play_store
 ```
 OK take me

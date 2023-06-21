@@ -223,16 +223,6 @@ Bir sorun var Google Play Services : o, yüklü güncellenmiş veya aktif olmas�
 ```
 
 
-## Translation Key: rate_the_app_message
-```
-If you like my app you can reward me by taking the time to give a good rating :-)
-```
-translated (by machine 🤖) as:
-```
-Eğer benim app gibi Eğer iyi bir derece vermek için zaman ayırdığınız beni ödüllendirmek yapabilirsiniz :-)
-```
-
-
 ## Translation Key: ok_take_me_to_the_play_store
 ```
 OK take me

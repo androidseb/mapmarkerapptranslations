@@ -223,16 +223,6 @@ To je problém s Google Play Services : je třeba nainstalovat, aktualizovat neb
 ```
 
 
-## Translation Key: rate_the_app_message
-```
-If you like my app you can reward me by taking the time to give a good rating :-)
-```
-translated (by machine 🤖) as:
-```
-Pokud se vám líbí moje aplikace, můžete mi odměnit tím, že je na čase, aby dobrý rating :-)
-```
-
-
 ## Translation Key: ok_take_me_to_the_play_store
 ```
 OK take me

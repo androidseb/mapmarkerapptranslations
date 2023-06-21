@@ -223,16 +223,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: rate_the_app_message
-```
-If you like my app you can reward me by taking the time to give a good rating :-)
-```
-translated (by machine 🤖) as:
-```
-ប្រសិន​បើ​អ្នក​ចូលចិត្ត​កម្មវិធី​របស់​ខ្ញុំ​អ្នក​អាច​ផ្ដល់​រង្វាន់​ដល់​ខ្ញុំ​ដោយ​ការ​ទទួល​យក​ពេល​វេលា​ដើម្បី​ផ្តល់​ចំណាត់​ថ្នាក់​ល្អ​មួយ :-)
-```
-
-
 ## Translation Key: ok_take_me_to_the_play_store
 ```
 OK take me

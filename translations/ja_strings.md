@@ -4642,3 +4642,13 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: rate_the_app_message
+```
+If you like my app you can reward me by taking the time to give a good rating :-)
+```
+translated (by machine 🤖) as:
+```
+アプリを気に入ったならば、良い評価を与えることに時間を取ってほしいです。私に報いることができます:-)
+```
+
+

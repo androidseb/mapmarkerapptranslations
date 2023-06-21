@@ -223,16 +223,6 @@ Van egy probléma a Google Play Services : meg kell telepíteni, frissíteni vag
 ```
 
 
-## Translation Key: rate_the_app_message
-```
-If you like my app you can reward me by taking the time to give a good rating :-)
-```
-translated (by machine 🤖) as:
-```
-Ha tetszenek a app lehet jutalmazni engem, hogy időt, hogy egy jó minősítést :-)
-```
-
-
 ## Translation Key: ok_take_me_to_the_play_store
 ```
 OK take me

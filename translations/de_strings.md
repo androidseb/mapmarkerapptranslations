@@ -4643,3 +4643,13 @@ Möchten Sie mir ein email senden, um mir mitzuteilen, wie ich die App verbesser
 ```
 
 
+## Translation Key: rate_the_app_message
+```
+If you like my app you can reward me by taking the time to give a good rating :-)
+```
+translated (by human 👀) as:
+```
+Wenn Sie meine App mögen, können Sie mich belohnen, indem sie sich die Zeit nehmen und mir eine gute Bewertung geben :-)
+```
+
+

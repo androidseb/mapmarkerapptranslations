@@ -223,16 +223,6 @@ Tu je problem s Google Play Services : ona mora biti instaliran, ažurira ili ak
 ```
 
 
-## Translation Key: rate_the_app_message
-```
-If you like my app you can reward me by taking the time to give a good rating :-)
-```
-translated (by machine 🤖) as:
-```
-Ako vam se sviđa moj aplikaciju možete me nagraditi uzimanje vremena za dati dobar rejting :-)
-```
-
-
 ## Translation Key: ok_take_me_to_the_play_store
 ```
 OK take me

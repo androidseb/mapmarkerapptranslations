@@ -4643,3 +4643,13 @@ Vrei să-mi trimiți un email să-mi spui cum aș putea îmbunătăți aplicați
 ```
 
 
+## Translation Key: rate_the_app_message
+```
+If you like my app you can reward me by taking the time to give a good rating :-)
+```
+translated (by machine 🤖) as:
+```
+Dacă vă place aplicația mea ma poti recompensa de a lua timp pentru a da un bun rating de :-)
+```
+
+

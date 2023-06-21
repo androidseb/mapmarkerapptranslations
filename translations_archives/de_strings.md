@@ -223,16 +223,6 @@ Es gibt ein Problem mit den Google Play Services: Sie müssen installiert, aktua
 ```
 
 
-## Translation Key: rate_the_app_message
-```
-If you like my app you can reward me by taking the time to give a good rating :-)
-```
-translated (by human 👀) as:
-```
-Wenn Sie meine App mögen, können Sie mich belohnen, indem sie sich die Zeit nehmen und mir eine gute Bewertung geben :-)
-```
-
-
 ## Translation Key: ok_take_me_to_the_play_store
 ```
 OK take me

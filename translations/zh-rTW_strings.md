@@ -4643,3 +4643,13 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: rate_the_app_message
+```
+If you like my app you can reward me by taking the time to give a good rating :-)
+```
+translated (by human 👀) as:
+```
+如果您喜歡我的應用程式，您可以花費一點時間給予好評:-)
+```
+
+

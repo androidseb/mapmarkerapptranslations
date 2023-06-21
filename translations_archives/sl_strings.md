@@ -223,16 +223,6 @@ Pri storitvah Google Play so težave: treba ga je namestiti, posodobiti ali akti
 ```
 
 
-## Translation Key: rate_the_app_message
-```
-If you like my app you can reward me by taking the time to give a good rating :-)
-```
-translated (by human 👀) as:
-```
-Če vam je všeč moja aplikacija, mi lahko nagradite tako, da vzamete čas, da dobite dobro oceno :-)
-```
-
-
 ## Translation Key: ok_take_me_to_the_play_store
 ```
 OK take me
