@@ -1719,16 +1719,6 @@ translated (by human 👀) as:
 ```
 
 
-## Translation Key: do_you_enjoy_the_app_question
-```
-Do you enjoy the app?
-```
-translated (by human 👀) as:
-```
-您喜欢这个应用程序吗？
-```
-
-
 ## Translation Key: would_you_like_to_give_comments_on_how_to_improve
 ```
 Would you like to send me an email to tell me how I could improve the app?

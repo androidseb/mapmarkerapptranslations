@@ -4623,3 +4623,13 @@ Udaljenost od %1$s
 ```
 
 
+## Translation Key: do_you_enjoy_the_app_question
+```
+Do you enjoy the app?
+```
+translated (by machine 🤖) as:
+```
+Uživate li u aplikaciji?
+```
+
+

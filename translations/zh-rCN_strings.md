@@ -4623,3 +4623,13 @@ translated (by human 👀) as:
 ```
 
 
+## Translation Key: do_you_enjoy_the_app_question
+```
+Do you enjoy the app?
+```
+translated (by human 👀) as:
+```
+您喜欢这个应用程序吗？
+```
+
+
