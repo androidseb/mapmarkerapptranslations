@@ -4633,3 +4633,13 @@ translated (by human 👀) as:
 ```
 
 
+## Translation Key: would_you_like_to_give_comments_on_how_to_improve
+```
+Would you like to send me an email to tell me how I could improve the app?
+```
+translated (by human 👀) as:
+```
+您想给我发一封电子邮件，告诉我如何改进该应用程序吗？
+```
+
+

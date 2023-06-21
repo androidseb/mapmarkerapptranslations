@@ -1719,16 +1719,6 @@ Azami sayı
 ```
 
 
-## Translation Key: would_you_like_to_give_comments_on_how_to_improve
-```
-Would you like to send me an email to tell me how I could improve the app?
-```
-translated (by machine 🤖) as:
-```
-Uygulamayı nasıl geliştirebileceğimi söylemek için bana bir email göndermek ister misiniz?
-```
-
-
 ## Translation Key: display_extra_poi_fields_buttons
 ```
 Display extra POI fields

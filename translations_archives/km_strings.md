@@ -1719,16 +1719,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: would_you_like_to_give_comments_on_how_to_improve
-```
-Would you like to send me an email to tell me how I could improve the app?
-```
-translated (by machine 🤖) as:
-```
-តើអ្នកចង់ផ្ញើ email មកខ្ញុំដើម្បីប្រាប់ខ្ញុំថាខ្ញុំអាចធ្វើឱ្យកម្មវិធីប្រសើរឡើងបានទេ?
-```
-
-
 ## Translation Key: display_extra_poi_fields_buttons
 ```
 Display extra POI fields

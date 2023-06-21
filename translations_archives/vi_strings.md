@@ -1719,16 +1719,6 @@ Số lớn nhất
 ```
 
 
-## Translation Key: would_you_like_to_give_comments_on_how_to_improve
-```
-Would you like to send me an email to tell me how I could improve the app?
-```
-translated (by machine 🤖) as:
-```
-Bạn có muốn gửi cho tôi một email để cho tôi biết làm thế nào tôi có thể cải thiện ứng dụng không?
-```
-
-
 ## Translation Key: display_extra_poi_fields_buttons
 ```
 Display extra POI fields

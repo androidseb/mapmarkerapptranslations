@@ -4633,3 +4633,13 @@ Apakah Anda menikmati aplikasi?
 ```
 
 
+## Translation Key: would_you_like_to_give_comments_on_how_to_improve
+```
+Would you like to send me an email to tell me how I could improve the app?
+```
+translated (by machine 🤖) as:
+```
+Apakah Anda ingin mengirim saya sebuah email untuk memberi tahu saya bagaimana saya dapat meningkatkan aplikasi?
+```
+
+

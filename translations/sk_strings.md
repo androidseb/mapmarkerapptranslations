@@ -4633,3 +4633,13 @@ Máte radi aplikáciu?
 ```
 
 
+## Translation Key: would_you_like_to_give_comments_on_how_to_improve
+```
+Would you like to send me an email to tell me how I could improve the app?
+```
+translated (by machine 🤖) as:
+```
+Chcete mi poslať email aby mi povedal, ako by som mohol zlepšiť aplikáciu?
+```
+
+

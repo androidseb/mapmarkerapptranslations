@@ -1713,16 +1713,6 @@ Maximaal nummer
 ```
 
 
-## Translation Key: would_you_like_to_give_comments_on_how_to_improve
-```
-Would you like to send me an email to tell me how I could improve the app?
-```
-translated (by human 👀) as:
-```
-Wil je me een email sturen om me te vertellen hoe ik de app kan verbeteren?
-```
-
-
 ## Translation Key: display_extra_poi_fields_buttons
 ```
 Display extra POI fields

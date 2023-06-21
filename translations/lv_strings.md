@@ -4633,3 +4633,13 @@ Vai jums patīk lietotne?
 ```
 
 
+## Translation Key: would_you_like_to_give_comments_on_how_to_improve
+```
+Would you like to send me an email to tell me how I could improve the app?
+```
+translated (by machine 🤖) as:
+```
+Vai vēlaties nosūtīt man email, lai pastāstītu, kā es varētu uzlabot lietotni?
+```
+
+

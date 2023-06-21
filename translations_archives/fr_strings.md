@@ -1719,16 +1719,6 @@ Nombre maximum
 ```
 
 
-## Translation Key: would_you_like_to_give_comments_on_how_to_improve
-```
-Would you like to send me an email to tell me how I could improve the app?
-```
-translated (by human 👀) as:
-```
-Voudriez-vous m'envoyer un courriel pour me dire comment je pourrais améliorer l'application ?
-```
-
-
 ## Translation Key: display_extra_poi_fields_buttons
 ```
 Display extra POI fields
