@@ -2353,3 +2353,13 @@ Bản cập nhật ứng dụng sẽ vẫn miễn phí và không bắt buộc, 
 ```
 
 
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+Không tìm thấy thư mục bản đồ nào trên đám mây - nếu bạn đang tìm bản đồ đám mây cũ được tạo bằng phiên bản Map Marker (V2) cũ, hãy thử tùy chọn 'Mở và di chuyển bản đồ đám mây V2' để thay thế.
+```
+
+

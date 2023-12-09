@@ -4453,16 +4453,6 @@ Erfolgreich in Gerätedateien gespeichert
 ```
 
 
-## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
-```
-No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
-```
-translated (by machine 🤖) as:
-```
-Kein Kartenordner in der Cloud gefunden – wenn Sie nach alten Cloud-Karten suchen, die mit der alten Version von Map Marker (V2) erstellt wurden, versuchen Sie stattdessen die Option „Öffnen und Migrieren einer V2-Cloud-Karte“.
-```
-
-
 ## Translation Key: file_export_intention_question
 ```
 How do you want to use the exported file ?
@@ -4623,6 +4613,16 @@ Entfernung zu %1$s
 ```
 
 
+## Translation Key: import_marker_from_text_confirmation_message
+```
+Do you want to try and import a marker from the following text data?
+```
+translated (by machine 🤖) as:
+```
+Möchten Sie versuchen, eine Markierung aus den folgenden Textdaten zu importieren?
+```
+
+
 ## Translation Key: do_you_enjoy_the_app_question
 ```
 Do you enjoy the app?
@@ -4650,6 +4650,216 @@ If you like my app you can reward me by taking the time to give a good rating :-
 translated (by human 👀) as:
 ```
 Wenn Sie meine App mögen, können Sie mich belohnen, indem sie sich die Zeit nehmen und mir eine gute Bewertung geben :-)
+```
+
+
+## Translation Key: app_rating_prompt_yes_option_text
+```
+Yes, take me to the app page
+```
+translated (by machine 🤖) as:
+```
+Ja, bring mich zur App-Seite
+```
+
+
+## Translation Key: app_rating_prompt_later_option_text
+```
+Maybe later, remind me
+```
+translated (by machine 🤖) as:
+```
+Vielleicht später, erinnere mich daran
+```
+
+
+## Translation Key: app_rating_prompt_never_option_text
+```
+No thanks, don't ask again
+```
+translated (by machine 🤖) as:
+```
+Nein danke, frag nicht noch einmal
+```
+
+
+## Translation Key: openmoji
+```
+OpenMoji
+```
+translated (by machine 🤖) as:
+```
+OpenMoji
+```
+
+
+## Translation Key: file_export_save_option_question_web
+```
+Select an option to save the exported file.
+```
+translated (by machine 🤖) as:
+```
+Wählen Sie eine Option zum Speichern der exportierten Datei.
+```
+
+
+## Translation Key: action_save_as
+```
+Save as
+```
+translated (by machine 🤖) as:
+```
+Speichern als
+```
+
+
+## Translation Key: file_export_save_as_forced_web
+```
+The exported file is large and must be saved with 'Save as'.
+```
+translated (by machine 🤖) as:
+```
+Die exportierte Datei ist groß und muss mit „Speichern unter“ gespeichert werden.
+```
+
+
+## Translation Key: unconstrained
+```
+Unconstrained
+```
+translated (by machine 🤖) as:
+```
+Uneingeschränkt
+```
+
+
+## Translation Key: x_seconds
+```
+%s seconds
+```
+translated (by machine 🤖) as:
+```
+%s Sekunden
+```
+
+
+## Translation Key: x_minutes
+```
+%s minutes
+```
+translated (by machine 🤖) as:
+```
+%s Minuten
+```
+
+
+## Translation Key: x_minutes_y_seconds
+```
+%1$s minutes %2$s seconds
+```
+translated (by machine 🤖) as:
+```
+%1$s Minuten %2$s Sekunden
+```
+
+
+## Translation Key: location_track_recording
+```
+Location track recording
+```
+translated (by machine 🤖) as:
+```
+Aufzeichnung der Standortspur
+```
+
+
+## Translation Key: setting_minimum_location_accuracy
+```
+Minimum location accuracy
+```
+translated (by machine 🤖) as:
+```
+Minimale Standortgenauigkeit
+```
+
+
+## Translation Key: setting_minimum_distance_interval
+```
+Minimum distance interval
+```
+translated (by machine 🤖) as:
+```
+Mindestabstandsintervall
+```
+
+
+## Translation Key: setting_minimum_time_interval
+```
+Minimum time interval
+```
+translated (by machine 🤖) as:
+```
+Mindestzeitintervall
+```
+
+
+## Translation Key: starting_new_track_recording
+```
+Starting new track recording
+```
+translated (by machine 🤖) as:
+```
+Aufnahme einer neuen Spur starten
+```
+
+
+## Translation Key: ongoing_track_recording
+```
+Ongoing track recording
+```
+translated (by machine 🤖) as:
+```
+Laufende Streckenaufzeichnung
+```
+
+
+## Translation Key: time_started_x
+```
+Started time: %s
+```
+translated (by machine 🤖) as:
+```
+Gestartete Zeit: %s
+```
+
+
+## Translation Key: ongoing_track_recordings
+```
+Ongoing track recordings
+```
+translated (by machine 🤖) as:
+```
+Laufende Streckenaufzeichnungen
+```
+
+
+## Translation Key: finish_track_recording_confirmation_message
+```
+Do you want to finish and save this track?
+```
+translated (by machine 🤖) as:
+```
+Möchten Sie diesen Track beenden und speichern?
+```
+
+
+## Translation Key: track_x
+```
+Track %s
+```
+translated (by machine 🤖) as:
+```
+Spur %s
 ```
 
 

@@ -4453,16 +4453,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
-```
-No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
-```
-translated (by machine 🤖) as:
-```
-រកមិនឃើញថតផែនទីនៅលើពពកទេ - ប្រសិនបើអ្នកកំពុងស្វែងរកផែនទីពពកចាស់ដែលបានបង្កើតជាមួយកំណែចាស់របស់ Map Marker (V2) សូមសាកល្បងជម្រើស 'បើក និងផ្ទេរផែនទីពពក V2' ជំនួសវិញ។
-```
-
-
 ## Translation Key: file_export_intention_question
 ```
 How do you want to use the exported file ?
@@ -4623,6 +4613,16 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: import_marker_from_text_confirmation_message
+```
+Do you want to try and import a marker from the following text data?
+```
+translated (by machine 🤖) as:
+```
+តើអ្នកចង់សាកល្បង និងនាំចូលសញ្ញាសម្គាល់ពីទិន្នន័យអត្ថបទខាងក្រោមទេ?
+```
+
+
 ## Translation Key: do_you_enjoy_the_app_question
 ```
 Do you enjoy the app?
@@ -4650,6 +4650,216 @@ If you like my app you can reward me by taking the time to give a good rating :-
 translated (by machine 🤖) as:
 ```
 ប្រសិន​បើ​អ្នក​ចូលចិត្ត​កម្មវិធី​របស់​ខ្ញុំ​អ្នក​អាច​ផ្ដល់​រង្វាន់​ដល់​ខ្ញុំ​ដោយ​ការ​ទទួល​យក​ពេល​វេលា​ដើម្បី​ផ្តល់​ចំណាត់​ថ្នាក់​ល្អ​មួយ :-)
+```
+
+
+## Translation Key: app_rating_prompt_yes_option_text
+```
+Yes, take me to the app page
+```
+translated (by machine 🤖) as:
+```
+បាទ នាំខ្ញុំទៅទំព័រកម្មវិធី
+```
+
+
+## Translation Key: app_rating_prompt_later_option_text
+```
+Maybe later, remind me
+```
+translated (by machine 🤖) as:
+```
+ប្រហែលជាពេលក្រោយ សូមរំលឹកខ្ញុំ
+```
+
+
+## Translation Key: app_rating_prompt_never_option_text
+```
+No thanks, don't ask again
+```
+translated (by machine 🤖) as:
+```
+ទេ អរគុណ កុំសួរម្តងទៀត
+```
+
+
+## Translation Key: openmoji
+```
+OpenMoji
+```
+translated (by machine 🤖) as:
+```
+OpenMoji
+```
+
+
+## Translation Key: file_export_save_option_question_web
+```
+Select an option to save the exported file.
+```
+translated (by machine 🤖) as:
+```
+ជ្រើសរើសជម្រើសមួយដើម្បីរក្សាទុកឯកសារដែលបាននាំចេញ។
+```
+
+
+## Translation Key: action_save_as
+```
+Save as
+```
+translated (by machine 🤖) as:
+```
+រក្សាទុក​ជា
+```
+
+
+## Translation Key: file_export_save_as_forced_web
+```
+The exported file is large and must be saved with 'Save as'.
+```
+translated (by machine 🤖) as:
+```
+ឯកសារដែលបាននាំចេញមានទំហំធំ ហើយត្រូវតែរក្សាទុកជាមួយ 'Save as'។
+```
+
+
+## Translation Key: unconstrained
+```
+Unconstrained
+```
+translated (by machine 🤖) as:
+```
+គ្មានការរឹតបន្តឹង
+```
+
+
+## Translation Key: x_seconds
+```
+%s seconds
+```
+translated (by machine 🤖) as:
+```
+%s វិនាទី
+```
+
+
+## Translation Key: x_minutes
+```
+%s minutes
+```
+translated (by machine 🤖) as:
+```
+%s នាទី។
+```
+
+
+## Translation Key: x_minutes_y_seconds
+```
+%1$s minutes %2$s seconds
+```
+translated (by machine 🤖) as:
+```
+%1$s នាទី %2$s វិនាទី
+```
+
+
+## Translation Key: location_track_recording
+```
+Location track recording
+```
+translated (by machine 🤖) as:
+```
+ការកត់ត្រាទីតាំង
+```
+
+
+## Translation Key: setting_minimum_location_accuracy
+```
+Minimum location accuracy
+```
+translated (by machine 🤖) as:
+```
+ភាពត្រឹមត្រូវនៃទីតាំងអប្បបរមា
+```
+
+
+## Translation Key: setting_minimum_distance_interval
+```
+Minimum distance interval
+```
+translated (by machine 🤖) as:
+```
+ចន្លោះ​ចម្ងាយ​អប្បបរមា
+```
+
+
+## Translation Key: setting_minimum_time_interval
+```
+Minimum time interval
+```
+translated (by machine 🤖) as:
+```
+ចន្លោះពេលអប្បបរមា
+```
+
+
+## Translation Key: starting_new_track_recording
+```
+Starting new track recording
+```
+translated (by machine 🤖) as:
+```
+ចាប់ផ្តើមថតបទថ្មី។
+```
+
+
+## Translation Key: ongoing_track_recording
+```
+Ongoing track recording
+```
+translated (by machine 🤖) as:
+```
+ការថតបទដែលកំពុងដំណើរការ
+```
+
+
+## Translation Key: time_started_x
+```
+Started time: %s
+```
+translated (by machine 🤖) as:
+```
+ពេលវេលាចាប់ផ្តើម៖ _៧
+```
+
+
+## Translation Key: ongoing_track_recordings
+```
+Ongoing track recordings
+```
+translated (by machine 🤖) as:
+```
+ការថតបទដែលកំពុងដំណើរការ
+```
+
+
+## Translation Key: finish_track_recording_confirmation_message
+```
+Do you want to finish and save this track?
+```
+translated (by machine 🤖) as:
+```
+តើអ្នកចង់បញ្ចប់ និងរក្សាទុកបទនេះទេ?
+```
+
+
+## Translation Key: track_x
+```
+Track %s
+```
+translated (by machine 🤖) as:
+```
+បទ_៧
 ```
 
 

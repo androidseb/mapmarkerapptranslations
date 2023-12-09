@@ -2353,3 +2353,13 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+У хмарі не знайдено папки карт. Якщо ви шукаєте старі хмарні карти, створені за допомогою старої версії Map Marker (V2), спробуйте натомість опцію «Відкрити та перенести хмарну карту V2».
+```
+
+

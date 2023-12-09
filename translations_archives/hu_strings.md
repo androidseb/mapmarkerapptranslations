@@ -2353,3 +2353,13 @@ Az alkalmazásfrissítés ingyenes és opcionális marad. További információ�
 ```
 
 
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+Nem található térképmappa a felhőben – ha a Map Marker (V2) régi verziójával létrehozott régi felhőtérképeket keres, próbálkozzon inkább a „V2 felhőtérkép megnyitása és áttelepítése” lehetőséggel.
+```
+
+

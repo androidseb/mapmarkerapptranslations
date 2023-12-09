@@ -2353,3 +2353,13 @@ Pembaruan aplikasi akan tetap gratis dan opsional, klik "Lihat selengkapnya" unt
 ```
 
 
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+Tidak ada folder peta yang ditemukan di cloud - jika Anda mencari peta cloud lama yang dibuat dengan versi lama Map Marker (V2), coba opsi 'Buka dan migrasikan peta cloud V2' sebagai gantinya.
+```
+
+

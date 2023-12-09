@@ -2353,3 +2353,13 @@ Map Marker 的下一次重大更新即将推出！该新版本将带来重要的
 ```
 
 
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+在云上找不到地图文件夹 - 如果您正在寻找使用旧版本 Map Marker (V2) 创建的旧云地图，请尝试“打开并迁移 V2 云地图”选项。
+```
+
+

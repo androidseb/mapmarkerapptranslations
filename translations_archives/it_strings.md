@@ -2353,3 +2353,13 @@ L'aggiornamento dell'app rimarrà gratuito e facoltativo, clicca su "Vedi di pi�
 ```
 
 
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+Nessuna cartella della mappa trovata nel cloud: se stai cercando vecchie mappe cloud create con la vecchia versione di Map Marker (V2), prova invece l'opzione "Apri e migra una mappa cloud V2".
+```
+
+

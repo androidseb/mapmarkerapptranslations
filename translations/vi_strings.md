@@ -4453,16 +4453,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
-```
-No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
-```
-translated (by machine 🤖) as:
-```
-Không tìm thấy thư mục bản đồ nào trên đám mây - nếu bạn đang tìm bản đồ đám mây cũ được tạo bằng phiên bản Map Marker (V2) cũ, hãy thử tùy chọn 'Mở và di chuyển bản đồ đám mây V2' để thay thế.
-```
-
-
 ## Translation Key: file_export_intention_question
 ```
 How do you want to use the exported file ?
@@ -4623,6 +4613,16 @@ Khoảng cách đến %1$s
 ```
 
 
+## Translation Key: import_marker_from_text_confirmation_message
+```
+Do you want to try and import a marker from the following text data?
+```
+translated (by machine 🤖) as:
+```
+Bạn có muốn thử và nhập một điểm đánh dấu từ dữ liệu văn bản sau không?
+```
+
+
 ## Translation Key: do_you_enjoy_the_app_question
 ```
 Do you enjoy the app?
@@ -4650,6 +4650,216 @@ If you like my app you can reward me by taking the time to give a good rating :-
 translated (by machine 🤖) as:
 ```
 Nếu bạn thích ứng dụng của tôi, bạn có thể thưởng cho tôi bằng cách dành thời gian để đưa ra một đánh giá tốt :-)
+```
+
+
+## Translation Key: app_rating_prompt_yes_option_text
+```
+Yes, take me to the app page
+```
+translated (by machine 🤖) as:
+```
+Vâng, đưa tôi đến trang ứng dụng
+```
+
+
+## Translation Key: app_rating_prompt_later_option_text
+```
+Maybe later, remind me
+```
+translated (by machine 🤖) as:
+```
+Có lẽ sau này, nhắc nhở tôi
+```
+
+
+## Translation Key: app_rating_prompt_never_option_text
+```
+No thanks, don't ask again
+```
+translated (by machine 🤖) as:
+```
+Không, cảm ơn, đừng hỏi lại
+```
+
+
+## Translation Key: openmoji
+```
+OpenMoji
+```
+translated (by machine 🤖) as:
+```
+OpenMoji
+```
+
+
+## Translation Key: file_export_save_option_question_web
+```
+Select an option to save the exported file.
+```
+translated (by machine 🤖) as:
+```
+Chọn một tùy chọn để lưu tệp đã xuất.
+```
+
+
+## Translation Key: action_save_as
+```
+Save as
+```
+translated (by machine 🤖) as:
+```
+Lưu thành
+```
+
+
+## Translation Key: file_export_save_as_forced_web
+```
+The exported file is large and must be saved with 'Save as'.
+```
+translated (by machine 🤖) as:
+```
+Tệp đã xuất có dung lượng lớn và phải được lưu bằng 'Save as'.
+```
+
+
+## Translation Key: unconstrained
+```
+Unconstrained
+```
+translated (by machine 🤖) as:
+```
+Không bị giới hạn
+```
+
+
+## Translation Key: x_seconds
+```
+%s seconds
+```
+translated (by machine 🤖) as:
+```
+%s giây
+```
+
+
+## Translation Key: x_minutes
+```
+%s minutes
+```
+translated (by machine 🤖) as:
+```
+%s phút
+```
+
+
+## Translation Key: x_minutes_y_seconds
+```
+%1$s minutes %2$s seconds
+```
+translated (by machine 🤖) as:
+```
+%1$s phút %2$s giây
+```
+
+
+## Translation Key: location_track_recording
+```
+Location track recording
+```
+translated (by machine 🤖) as:
+```
+Ghi theo dõi vị trí
+```
+
+
+## Translation Key: setting_minimum_location_accuracy
+```
+Minimum location accuracy
+```
+translated (by machine 🤖) as:
+```
+Độ chính xác vị trí tối thiểu
+```
+
+
+## Translation Key: setting_minimum_distance_interval
+```
+Minimum distance interval
+```
+translated (by machine 🤖) as:
+```
+Khoảng cách tối thiểu
+```
+
+
+## Translation Key: setting_minimum_time_interval
+```
+Minimum time interval
+```
+translated (by machine 🤖) as:
+```
+Khoảng thời gian tối thiểu
+```
+
+
+## Translation Key: starting_new_track_recording
+```
+Starting new track recording
+```
+translated (by machine 🤖) as:
+```
+Bắt đầu ghi bản nhạc mới
+```
+
+
+## Translation Key: ongoing_track_recording
+```
+Ongoing track recording
+```
+translated (by machine 🤖) as:
+```
+Ghi âm theo dõi liên tục
+```
+
+
+## Translation Key: time_started_x
+```
+Started time: %s
+```
+translated (by machine 🤖) as:
+```
+Thời gian bắt đầu: %s
+```
+
+
+## Translation Key: ongoing_track_recordings
+```
+Ongoing track recordings
+```
+translated (by machine 🤖) as:
+```
+Bản ghi theo dõi đang diễn ra
+```
+
+
+## Translation Key: finish_track_recording_confirmation_message
+```
+Do you want to finish and save this track?
+```
+translated (by machine 🤖) as:
+```
+Bạn có muốn hoàn thành và lưu bản nhạc này không?
+```
+
+
+## Translation Key: track_x
+```
+Track %s
+```
+translated (by machine 🤖) as:
+```
+Theo dõi %s
 ```
 
 

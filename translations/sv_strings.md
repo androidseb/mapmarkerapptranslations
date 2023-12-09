@@ -4453,16 +4453,6 @@ Har sparats i enhetsfiler
 ```
 
 
-## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
-```
-No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
-```
-translated (by machine 🤖) as:
-```
-Ingen kartmapp hittades på molnet - om du letar efter gamla molnkartor skapade med den gamla versionen av Map Marker (V2), prova alternativet "Öppna och migrera en V2 molnkarta" istället.
-```
-
-
 ## Translation Key: file_export_intention_question
 ```
 How do you want to use the exported file ?
@@ -4623,6 +4613,16 @@ Avstånd till %1$s
 ```
 
 
+## Translation Key: import_marker_from_text_confirmation_message
+```
+Do you want to try and import a marker from the following text data?
+```
+translated (by machine 🤖) as:
+```
+Vill du försöka importera en markör från följande textdata?
+```
+
+
 ## Translation Key: do_you_enjoy_the_app_question
 ```
 Do you enjoy the app?
@@ -4650,6 +4650,216 @@ If you like my app you can reward me by taking the time to give a good rating :-
 translated (by human 👀) as:
 ```
 Om du gillar min app kan du belöna mig genom att ge den ett bra betyg.  :-)
+```
+
+
+## Translation Key: app_rating_prompt_yes_option_text
+```
+Yes, take me to the app page
+```
+translated (by machine 🤖) as:
+```
+Ja, ta mig till appsidan
+```
+
+
+## Translation Key: app_rating_prompt_later_option_text
+```
+Maybe later, remind me
+```
+translated (by machine 🤖) as:
+```
+Kanske senare, påminn mig
+```
+
+
+## Translation Key: app_rating_prompt_never_option_text
+```
+No thanks, don't ask again
+```
+translated (by machine 🤖) as:
+```
+Nej tack, fråga inte igen
+```
+
+
+## Translation Key: openmoji
+```
+OpenMoji
+```
+translated (by machine 🤖) as:
+```
+OpenMoji
+```
+
+
+## Translation Key: file_export_save_option_question_web
+```
+Select an option to save the exported file.
+```
+translated (by machine 🤖) as:
+```
+Välj ett alternativ för att spara den exporterade filen.
+```
+
+
+## Translation Key: action_save_as
+```
+Save as
+```
+translated (by machine 🤖) as:
+```
+Spara som
+```
+
+
+## Translation Key: file_export_save_as_forced_web
+```
+The exported file is large and must be saved with 'Save as'.
+```
+translated (by machine 🤖) as:
+```
+Den exporterade filen är stor och måste sparas med 'Spara som'.
+```
+
+
+## Translation Key: unconstrained
+```
+Unconstrained
+```
+translated (by machine 🤖) as:
+```
+Otvungen
+```
+
+
+## Translation Key: x_seconds
+```
+%s seconds
+```
+translated (by machine 🤖) as:
+```
+%s sekunder
+```
+
+
+## Translation Key: x_minutes
+```
+%s minutes
+```
+translated (by machine 🤖) as:
+```
+%s minuter
+```
+
+
+## Translation Key: x_minutes_y_seconds
+```
+%1$s minutes %2$s seconds
+```
+translated (by machine 🤖) as:
+```
+%1$s minuter %2$s sekunder
+```
+
+
+## Translation Key: location_track_recording
+```
+Location track recording
+```
+translated (by machine 🤖) as:
+```
+Platsspårinspelning
+```
+
+
+## Translation Key: setting_minimum_location_accuracy
+```
+Minimum location accuracy
+```
+translated (by machine 🤖) as:
+```
+Minsta platsnoggrannhet
+```
+
+
+## Translation Key: setting_minimum_distance_interval
+```
+Minimum distance interval
+```
+translated (by machine 🤖) as:
+```
+Minsta distansintervall
+```
+
+
+## Translation Key: setting_minimum_time_interval
+```
+Minimum time interval
+```
+translated (by machine 🤖) as:
+```
+Minsta tidsintervall
+```
+
+
+## Translation Key: starting_new_track_recording
+```
+Starting new track recording
+```
+translated (by machine 🤖) as:
+```
+Startar ny spårinspelning
+```
+
+
+## Translation Key: ongoing_track_recording
+```
+Ongoing track recording
+```
+translated (by machine 🤖) as:
+```
+Pågående spårinspelning
+```
+
+
+## Translation Key: time_started_x
+```
+Started time: %s
+```
+translated (by machine 🤖) as:
+```
+Starttid: %s
+```
+
+
+## Translation Key: ongoing_track_recordings
+```
+Ongoing track recordings
+```
+translated (by machine 🤖) as:
+```
+Pågående spårinspelningar
+```
+
+
+## Translation Key: finish_track_recording_confirmation_message
+```
+Do you want to finish and save this track?
+```
+translated (by machine 🤖) as:
+```
+Vill du avsluta och spara det här spåret?
+```
+
+
+## Translation Key: track_x
+```
+Track %s
+```
+translated (by machine 🤖) as:
+```
+Spår %s
 ```
 
 

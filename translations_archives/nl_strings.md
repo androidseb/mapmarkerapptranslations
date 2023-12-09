@@ -2347,3 +2347,13 @@ De app-update blijft gratis en optioneel, klik op "Meer bekijken" voor meer info
 ```
 
 
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+Geen kaartmap gevonden in de cloud - als u op zoek bent naar oude cloudkaarten die zijn gemaakt met de oude versie van Map Marker (V2), probeer dan de optie 'Open en migreer een V2-cloudkaart'.
+```
+
+

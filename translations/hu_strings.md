@@ -4453,16 +4453,6 @@ Sikeresen mentve az eszköz fájljaiba
 ```
 
 
-## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
-```
-No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
-```
-translated (by machine 🤖) as:
-```
-Nem található térképmappa a felhőben – ha a Map Marker (V2) régi verziójával létrehozott régi felhőtérképeket keres, próbálkozzon inkább a „V2 felhőtérkép megnyitása és áttelepítése” lehetőséggel.
-```
-
-
 ## Translation Key: file_export_intention_question
 ```
 How do you want to use the exported file ?
@@ -4623,6 +4613,16 @@ Távolság %1$s
 ```
 
 
+## Translation Key: import_marker_from_text_confirmation_message
+```
+Do you want to try and import a marker from the following text data?
+```
+translated (by machine 🤖) as:
+```
+Megpróbál importálni egy markert a következő szöveges adatokból?
+```
+
+
 ## Translation Key: do_you_enjoy_the_app_question
 ```
 Do you enjoy the app?
@@ -4650,6 +4650,216 @@ If you like my app you can reward me by taking the time to give a good rating :-
 translated (by machine 🤖) as:
 ```
 Ha tetszenek a app lehet jutalmazni engem, hogy időt, hogy egy jó minősítést :-)
+```
+
+
+## Translation Key: app_rating_prompt_yes_option_text
+```
+Yes, take me to the app page
+```
+translated (by machine 🤖) as:
+```
+Igen, vigyen az alkalmazás oldalára
+```
+
+
+## Translation Key: app_rating_prompt_later_option_text
+```
+Maybe later, remind me
+```
+translated (by machine 🤖) as:
+```
+Talán később, emlékeztessen
+```
+
+
+## Translation Key: app_rating_prompt_never_option_text
+```
+No thanks, don't ask again
+```
+translated (by machine 🤖) as:
+```
+Nem, köszönöm, ne kérdezz többet
+```
+
+
+## Translation Key: openmoji
+```
+OpenMoji
+```
+translated (by machine 🤖) as:
+```
+OpenMoji
+```
+
+
+## Translation Key: file_export_save_option_question_web
+```
+Select an option to save the exported file.
+```
+translated (by machine 🤖) as:
+```
+Válasszon egy lehetőséget az exportált fájl mentéséhez.
+```
+
+
+## Translation Key: action_save_as
+```
+Save as
+```
+translated (by machine 🤖) as:
+```
+Mentés másként
+```
+
+
+## Translation Key: file_export_save_as_forced_web
+```
+The exported file is large and must be saved with 'Save as'.
+```
+translated (by machine 🤖) as:
+```
+Az exportált fájl nagy, és a „Mentés másként” paranccsal kell menteni.
+```
+
+
+## Translation Key: unconstrained
+```
+Unconstrained
+```
+translated (by machine 🤖) as:
+```
+Kötetlen
+```
+
+
+## Translation Key: x_seconds
+```
+%s seconds
+```
+translated (by machine 🤖) as:
+```
+%s másodperc
+```
+
+
+## Translation Key: x_minutes
+```
+%s minutes
+```
+translated (by machine 🤖) as:
+```
+%s perc
+```
+
+
+## Translation Key: x_minutes_y_seconds
+```
+%1$s minutes %2$s seconds
+```
+translated (by machine 🤖) as:
+```
+%1$s perc %2$s másodperc
+```
+
+
+## Translation Key: location_track_recording
+```
+Location track recording
+```
+translated (by machine 🤖) as:
+```
+Helyszín pálya rögzítése
+```
+
+
+## Translation Key: setting_minimum_location_accuracy
+```
+Minimum location accuracy
+```
+translated (by machine 🤖) as:
+```
+Minimális helymeghatározási pontosság
+```
+
+
+## Translation Key: setting_minimum_distance_interval
+```
+Minimum distance interval
+```
+translated (by machine 🤖) as:
+```
+Minimális távolság intervallum
+```
+
+
+## Translation Key: setting_minimum_time_interval
+```
+Minimum time interval
+```
+translated (by machine 🤖) as:
+```
+Minimális időintervallum
+```
+
+
+## Translation Key: starting_new_track_recording
+```
+Starting new track recording
+```
+translated (by machine 🤖) as:
+```
+Új szám rögzítésének indítása
+```
+
+
+## Translation Key: ongoing_track_recording
+```
+Ongoing track recording
+```
+translated (by machine 🤖) as:
+```
+Folyamatban lévő pálya rögzítése
+```
+
+
+## Translation Key: time_started_x
+```
+Started time: %s
+```
+translated (by machine 🤖) as:
+```
+Kezdés időpontja: %s
+```
+
+
+## Translation Key: ongoing_track_recordings
+```
+Ongoing track recordings
+```
+translated (by machine 🤖) as:
+```
+Folyamatban lévő pályafelvételek
+```
+
+
+## Translation Key: finish_track_recording_confirmation_message
+```
+Do you want to finish and save this track?
+```
+translated (by machine 🤖) as:
+```
+Be szeretné fejezni és elmenteni ezt a számot?
+```
+
+
+## Translation Key: track_x
+```
+Track %s
+```
+translated (by machine 🤖) as:
+```
+%s. szám
 ```
 
 

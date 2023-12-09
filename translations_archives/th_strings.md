@@ -2354,3 +2354,13 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+ไม่พบโฟลเดอร์แผนที่บนคลาวด์ - หากคุณกำลังมองหาแผนที่คลาวด์เก่าที่สร้างด้วย Map Marker เวอร์ชันเก่า (V2) ให้ลองใช้ตัวเลือก 'เปิดและย้ายแผนที่คลาวด์ V2' แทน
+```
+
+

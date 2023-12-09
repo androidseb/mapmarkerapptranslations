@@ -2353,3 +2353,13 @@ Lietotnes atjauninājums joprojām būs bezmaksas un neobligāts. Lai uzzinātu 
 ```
 
 
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+Mākonī nav atrasta neviena karšu mape — ja meklējat vecas mākoņu kartes, kas izveidotas ar veco Map Marker (V2) versiju, tā vietā izmēģiniet opciju “Atvērt un migrēt V2 mākoņkarti”.
+```
+
+

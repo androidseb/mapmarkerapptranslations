@@ -2353,3 +2353,13 @@ Map Marker의 다음 주요 업데이트가 곧 제공됩니다! 그 새 버전�
 ```
 
 
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+클라우드에서 지도 폴더를 찾을 수 없습니다. 이전 버전의 Map Marker(V2)으로 만든 이전 클라우드 지도를 찾고 있다면 대신 'V2 클라우드 지도 열기 및 마이그레이션' 옵션을 사용해 보세요.
+```
+
+

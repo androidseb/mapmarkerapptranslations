@@ -2353,3 +2353,13 @@ Sovelluspäivitys on edelleen ilmainen ja valinnainen. Saat lisätietoja napsaut
 ```
 
 
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+Pilvestä ei löytynyt karttakansiota – jos etsit vanhoja pilvikarttoja, jotka on luotu Map Marker:n (V2) vanhalla versiolla, kokeile vaihtoehtoa "Avaa ja siirrä V2-pilvikartta".
+```
+
+

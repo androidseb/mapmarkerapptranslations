@@ -2353,3 +2353,13 @@ Appoppdateringen forblir gratis og valgfri, klikk på "Se mer" for å finne ut m
 ```
 
 
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+Ingen kartmappe funnet på skyen - hvis du leter etter gamle skykart laget med den gamle versjonen av Map Marker (V2), prøv alternativet "Åpne og migrér et V2-skykart" i stedet.
+```
+
+

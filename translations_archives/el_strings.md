@@ -2353,3 +2353,13 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+Δεν βρέθηκε φάκελος χάρτη στο cloud - εάν αναζητάτε παλιούς χάρτες cloud που έχουν δημιουργηθεί με την παλιά έκδοση του Map Marker (V2), δοκιμάστε την επιλογή 'Άνοιγμα και μετεγκατάσταση χάρτη νέφους V2'.
+```
+
+

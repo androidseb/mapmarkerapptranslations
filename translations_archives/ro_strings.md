@@ -2353,3 +2353,13 @@ Actualizarea aplicației va rămâne gratuită și opțională, faceți clic pe 
 ```
 
 
+## Translation Key: no_map_folder_found_on_the_cloud_maybe_try_v2
+```
+No map folder found on the cloud - if you're looking for old cloud maps created with the old version of Map Marker (V2), try the option 'Open and migrate a V2 cloud map' instead.
+```
+translated (by machine 🤖) as:
+```
+Nu s-a găsit niciun folder de hărți în cloud - dacă căutați hărți cloud vechi create cu versiunea veche a Map Marker (V2), încercați în schimb opțiunea „Deschideți și migrați o hartă cloud V2”.
+```
+
+
