@@ -4455,7 +4455,7 @@ translated (by machine 🤖) as:
 
 ## Translation Key: file_export_intention_question
 ```
-How do you want to use the exported file ?
+How do you want to use the exported file?
 ```
 translated (by machine 🤖) as:
 ```
@@ -4860,6 +4860,86 @@ Track %s
 translated (by machine 🤖) as:
 ```
 轨道%s
+```
+
+
+## Translation Key: grant_permission_confirmation_message
+```
+Do you want to grant this permission?
+```
+translated (by machine 🤖) as:
+```
+您想授予此权限吗？
+```
+
+
+## Translation Key: grant_hint_text_forever_denied
+```
+If you want to grant this permission, go to this application's permissions settings under your system settings.
+```
+translated (by machine 🤖) as:
+```
+如果您想授予此权限，请转到系统设置下此应用程序的权限设置。
+```
+
+
+## Translation Key: background_permission_leave_disabled_hint_message
+```
+If you leave this permission disabled, track recording will only work while the app is visible in the foreground.
+```
+translated (by machine 🤖) as:
+```
+如果您禁用此权限，则仅当应用程序在前台可见时，轨迹记录才会起作用。
+```
+
+
+## Translation Key: notification_permission_asking_message
+```
+The app will need to display a notification in order to remain active in the background while recording a track.
+```
+translated (by machine 🤖) as:
+```
+该应用程序需要显示通知，以便在录制曲目时在后台保持活动状态。
+```
+
+
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+该应用程序需要“始终”位置权限才能在后台运行时记录轨迹。
+```
+
+
+## Translation Key: save_x_unsaved_tracks_question
+```
+The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?
+```
+translated (by machine 🤖) as:
+```
+曲目录制 (%s) 在保存之前被中断。您现在想保存它吗？
+```
+
+
+## Translation Key: delete_unsaved_tracks_forever_question
+```
+Do you want to delete the unsaved track(s) recording forever?
+```
+translated (by machine 🤖) as:
+```
+您想永久删除未保存的曲目录音吗？
+```
+
+
+## Translation Key: empty_track_discarded_message
+```
+This track had no points recorded and has simply been discarded.
+```
+translated (by machine 🤖) as:
+```
+这条赛道没有记录任何分数，只是被丢弃了。
 ```
 
 

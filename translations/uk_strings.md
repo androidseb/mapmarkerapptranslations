@@ -4455,7 +4455,7 @@ translated (by machine 🤖) as:
 
 ## Translation Key: file_export_intention_question
 ```
-How do you want to use the exported file ?
+How do you want to use the exported file?
 ```
 translated (by machine 🤖) as:
 ```
@@ -4860,6 +4860,86 @@ Track %s
 translated (by machine 🤖) as:
 ```
 Трек %s
+```
+
+
+## Translation Key: grant_permission_confirmation_message
+```
+Do you want to grant this permission?
+```
+translated (by machine 🤖) as:
+```
+Ви бажаєте надати цей дозвіл?
+```
+
+
+## Translation Key: grant_hint_text_forever_denied
+```
+If you want to grant this permission, go to this application's permissions settings under your system settings.
+```
+translated (by machine 🤖) as:
+```
+Якщо ви хочете надати цей дозвіл, перейдіть до налаштувань дозволів цієї програми в налаштуваннях системи.
+```
+
+
+## Translation Key: background_permission_leave_disabled_hint_message
+```
+If you leave this permission disabled, track recording will only work while the app is visible in the foreground.
+```
+translated (by machine 🤖) as:
+```
+Якщо ви залишите цей дозвіл вимкненим, запис треку працюватиме, лише коли програма відображається на передньому плані.
+```
+
+
+## Translation Key: notification_permission_asking_message
+```
+The app will need to display a notification in order to remain active in the background while recording a track.
+```
+translated (by machine 🤖) as:
+```
+Додаток має відобразити сповіщення, щоб залишатися активним у фоновому режимі під час запису треку.
+```
+
+
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+Додатку потрібен дозвіл на місцезнаходження «завжди», щоб записувати треки під час роботи у фоновому режимі.
+```
+
+
+## Translation Key: save_x_unsaved_tracks_question
+```
+The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?
+```
+translated (by machine 🤖) as:
+```
+Запис доріжки (%s) було перервано до того, як її вдалося зберегти. Ви хочете зберегти це зараз?
+```
+
+
+## Translation Key: delete_unsaved_tracks_forever_question
+```
+Do you want to delete the unsaved track(s) recording forever?
+```
+translated (by machine 🤖) as:
+```
+Бажаєте назавжди видалити незбережені записи композицій?
+```
+
+
+## Translation Key: empty_track_discarded_message
+```
+This track had no points recorded and has simply been discarded.
+```
+translated (by machine 🤖) as:
+```
+Для цієї доріжки не було записаних очок, тому її просто скасовано.
 ```
 
 

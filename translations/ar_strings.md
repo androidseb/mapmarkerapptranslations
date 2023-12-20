@@ -4455,7 +4455,7 @@ translated (by machine 🤖) as:
 
 ## Translation Key: file_export_intention_question
 ```
-How do you want to use the exported file ?
+How do you want to use the exported file?
 ```
 translated (by machine 🤖) as:
 ```
@@ -4860,6 +4860,86 @@ Track %s
 translated (by machine 🤖) as:
 ```
 المسار %s
+```
+
+
+## Translation Key: grant_permission_confirmation_message
+```
+Do you want to grant this permission?
+```
+translated (by machine 🤖) as:
+```
+هل تريد منح هذا الإذن؟
+```
+
+
+## Translation Key: grant_hint_text_forever_denied
+```
+If you want to grant this permission, go to this application's permissions settings under your system settings.
+```
+translated (by machine 🤖) as:
+```
+إذا كنت تريد منح هذا الإذن، فانتقل إلى إعدادات أذونات هذا التطبيق ضمن إعدادات النظام لديك.
+```
+
+
+## Translation Key: background_permission_leave_disabled_hint_message
+```
+If you leave this permission disabled, track recording will only work while the app is visible in the foreground.
+```
+translated (by machine 🤖) as:
+```
+إذا تركت هذا الإذن معطلاً، فلن يعمل تسجيل المسار إلا عندما يكون التطبيق مرئيًا في المقدمة.
+```
+
+
+## Translation Key: notification_permission_asking_message
+```
+The app will need to display a notification in order to remain active in the background while recording a track.
+```
+translated (by machine 🤖) as:
+```
+سيحتاج التطبيق إلى عرض إشعار ليظل نشطًا في الخلفية أثناء تسجيل المسار.
+```
+
+
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+سيحتاج التطبيق إلى إذن الموقع "دائمًا" لتسجيل المسارات أثناء التشغيل في الخلفية.
+```
+
+
+## Translation Key: save_x_unsaved_tracks_question
+```
+The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?
+```
+translated (by machine 🤖) as:
+```
+تمت مقاطعة تسجيل المسار (المسارات) (%s) قبل أن يتم حفظه. هل تريد حفظه الآن؟
+```
+
+
+## Translation Key: delete_unsaved_tracks_forever_question
+```
+Do you want to delete the unsaved track(s) recording forever?
+```
+translated (by machine 🤖) as:
+```
+هل تريد حذف المسار (المسارات) غير المحفوظ الذي تم تسجيله إلى الأبد؟
+```
+
+
+## Translation Key: empty_track_discarded_message
+```
+This track had no points recorded and has simply been discarded.
+```
+translated (by machine 🤖) as:
+```
+لم يتم تسجيل أي نقاط في هذا المسار وتم تجاهله ببساطة.
 ```
 
 

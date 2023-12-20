@@ -4455,7 +4455,7 @@ Veiksmīgi saglabāts ierīces failos
 
 ## Translation Key: file_export_intention_question
 ```
-How do you want to use the exported file ?
+How do you want to use the exported file?
 ```
 translated (by machine 🤖) as:
 ```
@@ -4860,6 +4860,86 @@ Track %s
 translated (by machine 🤖) as:
 ```
 Trase %s
+```
+
+
+## Translation Key: grant_permission_confirmation_message
+```
+Do you want to grant this permission?
+```
+translated (by machine 🤖) as:
+```
+Vai vēlaties piešķirt šo atļauju?
+```
+
+
+## Translation Key: grant_hint_text_forever_denied
+```
+If you want to grant this permission, go to this application's permissions settings under your system settings.
+```
+translated (by machine 🤖) as:
+```
+Ja vēlaties piešķirt šo atļauju, sistēmas iestatījumos atveriet šīs lietojumprogrammas atļauju iestatījumus.
+```
+
+
+## Translation Key: background_permission_leave_disabled_hint_message
+```
+If you leave this permission disabled, track recording will only work while the app is visible in the foreground.
+```
+translated (by machine 🤖) as:
+```
+Ja atstāsit šo atļauju atspējotu, ierakstu ierakstīšana darbosies tikai tad, ja lietotne būs redzama priekšplānā.
+```
+
+
+## Translation Key: notification_permission_asking_message
+```
+The app will need to display a notification in order to remain active in the background while recording a track.
+```
+translated (by machine 🤖) as:
+```
+Lietotnei būs jāparāda paziņojums, lai tā paliktu aktīva fonā ieraksta ierakstīšanas laikā.
+```
+
+
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+Lietotnei būs nepieciešama atrašanās vietas atļauja vienmēr, lai ierakstītu ierakstus, darbojoties fonā.
+```
+
+
+## Translation Key: save_x_unsaved_tracks_question
+```
+The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?
+```
+translated (by machine 🤖) as:
+```
+Ieraksta(-u) ierakstīšana (%s) tika pārtraukta, pirms to varēja saglabāt. Vai vēlaties to saglabāt tagad?
+```
+
+
+## Translation Key: delete_unsaved_tracks_forever_question
+```
+Do you want to delete the unsaved track(s) recording forever?
+```
+translated (by machine 🤖) as:
+```
+Vai vēlaties neatgriezeniski dzēst nesaglabāto(-o) ierakstu(-us)?
+```
+
+
+## Translation Key: empty_track_discarded_message
+```
+This track had no points recorded and has simply been discarded.
+```
+translated (by machine 🤖) as:
+```
+Šajā trasē netika reģistrēts neviens punkts, un tas ir vienkārši izmests.
 ```
 
 

@@ -4455,7 +4455,7 @@ translated (by machine 🤖) as:
 
 ## Translation Key: file_export_intention_question
 ```
-How do you want to use the exported file ?
+How do you want to use the exported file?
 ```
 translated (by machine 🤖) as:
 ```
@@ -4860,6 +4860,86 @@ Track %s
 translated (by machine 🤖) as:
 ```
 트랙 %s
+```
+
+
+## Translation Key: grant_permission_confirmation_message
+```
+Do you want to grant this permission?
+```
+translated (by machine 🤖) as:
+```
+이 권한을 부여하시겠습니까?
+```
+
+
+## Translation Key: grant_hint_text_forever_denied
+```
+If you want to grant this permission, go to this application's permissions settings under your system settings.
+```
+translated (by machine 🤖) as:
+```
+이 권한을 부여하려면 시스템 설정에서 이 애플리케이션의 권한 설정으로 이동하세요.
+```
+
+
+## Translation Key: background_permission_leave_disabled_hint_message
+```
+If you leave this permission disabled, track recording will only work while the app is visible in the foreground.
+```
+translated (by machine 🤖) as:
+```
+이 권한을 비활성화된 상태로 두면 트랙 녹음은 앱이 포그라운드에 표시되는 동안에만 작동합니다.
+```
+
+
+## Translation Key: notification_permission_asking_message
+```
+The app will need to display a notification in order to remain active in the background while recording a track.
+```
+translated (by machine 🤖) as:
+```
+트랙을 녹음하는 동안 백그라운드에서 활성 상태를 유지하려면 앱에 알림이 표시되어야 합니다.
+```
+
+
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+앱이 백그라운드에서 실행되는 동안 트랙을 기록하려면 '항상' 위치 권한이 필요합니다.
+```
+
+
+## Translation Key: save_x_unsaved_tracks_question
+```
+The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?
+```
+translated (by machine 🤖) as:
+```
+트랙 녹음(%s)이 저장되기 전에 중단되었습니다. 지금 저장하시겠습니까?
+```
+
+
+## Translation Key: delete_unsaved_tracks_forever_question
+```
+Do you want to delete the unsaved track(s) recording forever?
+```
+translated (by machine 🤖) as:
+```
+저장되지 않은 트랙 녹음을 완전히 삭제하시겠습니까?
+```
+
+
+## Translation Key: empty_track_discarded_message
+```
+This track had no points recorded and has simply been discarded.
+```
+translated (by machine 🤖) as:
+```
+이 트랙에는 기록된 포인트가 없으며 단순히 삭제되었습니다.
 ```
 
 

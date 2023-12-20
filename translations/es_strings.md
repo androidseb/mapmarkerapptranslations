@@ -4455,7 +4455,7 @@ Guardado con éxito en los archivos del dispositivo
 
 ## Translation Key: file_export_intention_question
 ```
-How do you want to use the exported file ?
+How do you want to use the exported file?
 ```
 translated (by machine 🤖) as:
 ```
@@ -4860,6 +4860,86 @@ Track %s
 translated (by machine 🤖) as:
 ```
 Pista %s
+```
+
+
+## Translation Key: grant_permission_confirmation_message
+```
+Do you want to grant this permission?
+```
+translated (by machine 🤖) as:
+```
+¿Quieres conceder este permiso?
+```
+
+
+## Translation Key: grant_hint_text_forever_denied
+```
+If you want to grant this permission, go to this application's permissions settings under your system settings.
+```
+translated (by machine 🤖) as:
+```
+Si desea otorgar este permiso, vaya a la configuración de permisos de esta aplicación en la configuración de su sistema.
+```
+
+
+## Translation Key: background_permission_leave_disabled_hint_message
+```
+If you leave this permission disabled, track recording will only work while the app is visible in the foreground.
+```
+translated (by machine 🤖) as:
+```
+Si deja este permiso deshabilitado, la grabación de pistas solo funcionará mientras la aplicación esté visible en primer plano.
+```
+
+
+## Translation Key: notification_permission_asking_message
+```
+The app will need to display a notification in order to remain active in the background while recording a track.
+```
+translated (by machine 🤖) as:
+```
+La aplicación deberá mostrar una notificación para permanecer activa en segundo plano mientras graba una pista.
+```
+
+
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+La aplicación necesitará el permiso de ubicación "siempre" para poder grabar pistas mientras se ejecuta en segundo plano.
+```
+
+
+## Translation Key: save_x_unsaved_tracks_question
+```
+The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?
+```
+translated (by machine 🤖) as:
+```
+La grabación de la(s) pista(s) (%s) se interrumpió antes de poder guardarla. ¿Quieres guardarlo ahora?
+```
+
+
+## Translation Key: delete_unsaved_tracks_forever_question
+```
+Do you want to delete the unsaved track(s) recording forever?
+```
+translated (by machine 🤖) as:
+```
+¿Quieres eliminar para siempre la grabación de las pistas no guardadas?
+```
+
+
+## Translation Key: empty_track_discarded_message
+```
+This track had no points recorded and has simply been discarded.
+```
+translated (by machine 🤖) as:
+```
+Esta pista no tenía puntos registrados y simplemente ha sido descartada.
 ```
 
 

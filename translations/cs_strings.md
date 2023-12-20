@@ -4455,7 +4455,7 @@ translated (by machine 🤖) as:
 
 ## Translation Key: file_export_intention_question
 ```
-How do you want to use the exported file ?
+How do you want to use the exported file?
 ```
 translated (by machine 🤖) as:
 ```
@@ -4860,6 +4860,86 @@ Track %s
 translated (by machine 🤖) as:
 ```
 Stopa %s
+```
+
+
+## Translation Key: grant_permission_confirmation_message
+```
+Do you want to grant this permission?
+```
+translated (by machine 🤖) as:
+```
+Chcete toto oprávnění udělit?
+```
+
+
+## Translation Key: grant_hint_text_forever_denied
+```
+If you want to grant this permission, go to this application's permissions settings under your system settings.
+```
+translated (by machine 🤖) as:
+```
+Pokud chcete toto oprávnění udělit, přejděte do nastavení oprávnění této aplikace v nastavení systému.
+```
+
+
+## Translation Key: background_permission_leave_disabled_hint_message
+```
+If you leave this permission disabled, track recording will only work while the app is visible in the foreground.
+```
+translated (by machine 🤖) as:
+```
+Pokud toto oprávnění necháte deaktivované, záznam trasy bude fungovat pouze tehdy, když je aplikace viditelná v popředí.
+```
+
+
+## Translation Key: notification_permission_asking_message
+```
+The app will need to display a notification in order to remain active in the background while recording a track.
+```
+translated (by machine 🤖) as:
+```
+Aplikace bude muset zobrazit upozornění, aby zůstala aktivní na pozadí při nahrávání trasy.
+```
+
+
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+Aplikace bude potřebovat oprávnění k poloze „vždy“, aby mohla zaznamenávat trasy při běhu na pozadí.
+```
+
+
+## Translation Key: save_x_unsaved_tracks_question
+```
+The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?
+```
+translated (by machine 🤖) as:
+```
+Nahrávání stopy (%s) bylo přerušeno před uložením. Chcete jej uložit nyní?
+```
+
+
+## Translation Key: delete_unsaved_tracks_forever_question
+```
+Do you want to delete the unsaved track(s) recording forever?
+```
+translated (by machine 🤖) as:
+```
+Přejete si smazat neuloženou stopu(y) navždy?
+```
+
+
+## Translation Key: empty_track_discarded_message
+```
+This track had no points recorded and has simply been discarded.
+```
+translated (by machine 🤖) as:
+```
+Tato stopa neměla zaznamenány žádné body a byla jednoduše vyřazena.
 ```
 
 

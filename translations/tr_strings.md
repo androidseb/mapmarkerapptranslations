@@ -4455,7 +4455,7 @@ Cihaz dosyalarına başarıyla kaydedildi
 
 ## Translation Key: file_export_intention_question
 ```
-How do you want to use the exported file ?
+How do you want to use the exported file?
 ```
 translated (by machine 🤖) as:
 ```
@@ -4860,6 +4860,86 @@ Track %s
 translated (by machine 🤖) as:
 ```
 Parça%s
+```
+
+
+## Translation Key: grant_permission_confirmation_message
+```
+Do you want to grant this permission?
+```
+translated (by machine 🤖) as:
+```
+Bu izni vermek istiyor musunuz?
+```
+
+
+## Translation Key: grant_hint_text_forever_denied
+```
+If you want to grant this permission, go to this application's permissions settings under your system settings.
+```
+translated (by machine 🤖) as:
+```
+Bu izni vermek istiyorsanız sistem ayarlarınız altında bu uygulamanın izin ayarlarına gidin.
+```
+
+
+## Translation Key: background_permission_leave_disabled_hint_message
+```
+If you leave this permission disabled, track recording will only work while the app is visible in the foreground.
+```
+translated (by machine 🤖) as:
+```
+Bu izni devre dışı bırakırsanız parça kaydı yalnızca uygulama ön planda görünürken çalışır.
+```
+
+
+## Translation Key: notification_permission_asking_message
+```
+The app will need to display a notification in order to remain active in the background while recording a track.
+```
+translated (by machine 🤖) as:
+```
+Bir parçayı kaydederken arka planda aktif kalabilmek için uygulamanın bir bildirim görüntülemesi gerekecektir.
+```
+
+
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+Uygulamanın arka planda çalışırken parçaları kaydedebilmesi için 'her zaman' konum iznine ihtiyacı olacak.
+```
+
+
+## Translation Key: save_x_unsaved_tracks_question
+```
+The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?
+```
+translated (by machine 🤖) as:
+```
+Parça(lar)ın kaydı (%s) kaydedilmeden kesildi. Şimdi kaydetmek istiyor musunuz?
+```
+
+
+## Translation Key: delete_unsaved_tracks_forever_question
+```
+Do you want to delete the unsaved track(s) recording forever?
+```
+translated (by machine 🤖) as:
+```
+Kaydedilmemiş parça(lar)ın kaydını kalıcı olarak silmek istiyor musunuz?
+```
+
+
+## Translation Key: empty_track_discarded_message
+```
+This track had no points recorded and has simply been discarded.
+```
+translated (by machine 🤖) as:
+```
+Bu parçanın hiçbir puanı kaydedilmedi ve basitçe iptal edildi.
 ```
 
 

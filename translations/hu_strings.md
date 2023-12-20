@@ -4455,7 +4455,7 @@ Sikeresen mentve az eszköz fájljaiba
 
 ## Translation Key: file_export_intention_question
 ```
-How do you want to use the exported file ?
+How do you want to use the exported file?
 ```
 translated (by machine 🤖) as:
 ```
@@ -4860,6 +4860,86 @@ Track %s
 translated (by machine 🤖) as:
 ```
 %s. szám
+```
+
+
+## Translation Key: grant_permission_confirmation_message
+```
+Do you want to grant this permission?
+```
+translated (by machine 🤖) as:
+```
+Meg akarja adni ezt az engedélyt?
+```
+
+
+## Translation Key: grant_hint_text_forever_denied
+```
+If you want to grant this permission, go to this application's permissions settings under your system settings.
+```
+translated (by machine 🤖) as:
+```
+Ha meg szeretné adni ezt az engedélyt, nyissa meg az alkalmazás engedélybeállításait a rendszerbeállítások alatt.
+```
+
+
+## Translation Key: background_permission_leave_disabled_hint_message
+```
+If you leave this permission disabled, track recording will only work while the app is visible in the foreground.
+```
+translated (by machine 🤖) as:
+```
+Ha letiltja ezt az engedélyt, a műsorszám rögzítése csak akkor működik, ha az alkalmazás látható az előtérben.
+```
+
+
+## Translation Key: notification_permission_asking_message
+```
+The app will need to display a notification in order to remain active in the background while recording a track.
+```
+translated (by machine 🤖) as:
+```
+Az alkalmazásnak értesítést kell megjelenítenie, hogy aktív maradjon a háttérben a műsorszám rögzítése közben.
+```
+
+
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+Az alkalmazásnak szüksége lesz a „mindig” helymeghatározási engedélyre, hogy a háttérben futva rögzítse a műsorszámokat.
+```
+
+
+## Translation Key: save_x_unsaved_tracks_question
+```
+The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?
+```
+translated (by machine 🤖) as:
+```
+A műsorszám(ok) rögzítése (%s) megszakadt, mielőtt elmenthette volna. Szeretné most menteni?
+```
+
+
+## Translation Key: delete_unsaved_tracks_forever_question
+```
+Do you want to delete the unsaved track(s) recording forever?
+```
+translated (by machine 🤖) as:
+```
+Örökre törölni szeretné a nem mentett műsorszám(ok) felvételét?
+```
+
+
+## Translation Key: empty_track_discarded_message
+```
+This track had no points recorded and has simply been discarded.
+```
+translated (by machine 🤖) as:
+```
+Ennek a számnak nem volt rögzített pontja, és egyszerűen eldobták.
 ```
 
 

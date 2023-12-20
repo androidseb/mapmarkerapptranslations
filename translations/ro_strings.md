@@ -4455,7 +4455,7 @@ Salvat cu succes în fișierele dispozitivului
 
 ## Translation Key: file_export_intention_question
 ```
-How do you want to use the exported file ?
+How do you want to use the exported file?
 ```
 translated (by machine 🤖) as:
 ```
@@ -4860,6 +4860,86 @@ Track %s
 translated (by machine 🤖) as:
 ```
 Piesa %s
+```
+
+
+## Translation Key: grant_permission_confirmation_message
+```
+Do you want to grant this permission?
+```
+translated (by machine 🤖) as:
+```
+Doriți să acordați această permisiune?
+```
+
+
+## Translation Key: grant_hint_text_forever_denied
+```
+If you want to grant this permission, go to this application's permissions settings under your system settings.
+```
+translated (by machine 🤖) as:
+```
+Dacă doriți să acordați această permisiune, accesați setările de permisiuni ale acestei aplicații din setările sistemului.
+```
+
+
+## Translation Key: background_permission_leave_disabled_hint_message
+```
+If you leave this permission disabled, track recording will only work while the app is visible in the foreground.
+```
+translated (by machine 🤖) as:
+```
+Dacă lăsați această permisiune dezactivată, înregistrarea piesei va funcționa numai în timp ce aplicația este vizibilă în prim-plan.
+```
+
+
+## Translation Key: notification_permission_asking_message
+```
+The app will need to display a notification in order to remain active in the background while recording a track.
+```
+translated (by machine 🤖) as:
+```
+Aplicația va trebui să afișeze o notificare pentru a rămâne activă în fundal în timp ce înregistrează o piesă.
+```
+
+
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+Aplicația va avea nevoie de permisiunea de locație „întotdeauna” pentru a înregistra piese în timp ce rulează în fundal.
+```
+
+
+## Translation Key: save_x_unsaved_tracks_question
+```
+The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?
+```
+translated (by machine 🤖) as:
+```
+Înregistrarea piesei (%s) a fost întreruptă înainte de a putea fi salvată. Vrei să-l salvezi acum?
+```
+
+
+## Translation Key: delete_unsaved_tracks_forever_question
+```
+Do you want to delete the unsaved track(s) recording forever?
+```
+translated (by machine 🤖) as:
+```
+Doriți să ștergeți pentru totdeauna piesele nesalvate?
+```
+
+
+## Translation Key: empty_track_discarded_message
+```
+This track had no points recorded and has simply been discarded.
+```
+translated (by machine 🤖) as:
+```
+Această pistă nu a avut puncte înregistrate și a fost pur și simplu aruncată.
 ```
 
 

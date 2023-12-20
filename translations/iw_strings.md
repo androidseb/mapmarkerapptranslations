@@ -4455,7 +4455,7 @@ translated (by machine 🤖) as:
 
 ## Translation Key: file_export_intention_question
 ```
-How do you want to use the exported file ?
+How do you want to use the exported file?
 ```
 translated (by machine 🤖) as:
 ```
@@ -4860,6 +4860,86 @@ Track %s
 translated (by machine 🤖) as:
 ```
 רצועה %s
+```
+
+
+## Translation Key: grant_permission_confirmation_message
+```
+Do you want to grant this permission?
+```
+translated (by machine 🤖) as:
+```
+האם אתה רוצה להעניק את ההרשאה הזו?
+```
+
+
+## Translation Key: grant_hint_text_forever_denied
+```
+If you want to grant this permission, go to this application's permissions settings under your system settings.
+```
+translated (by machine 🤖) as:
+```
+אם ברצונך להעניק הרשאה זו, עבור אל הגדרות ההרשאות של יישום זה תחת הגדרות המערכת שלך.
+```
+
+
+## Translation Key: background_permission_leave_disabled_hint_message
+```
+If you leave this permission disabled, track recording will only work while the app is visible in the foreground.
+```
+translated (by machine 🤖) as:
+```
+אם תשאיר את ההרשאה הזו מושבתת, הקלטת הרצועה תפעל רק כשהאפליקציה גלויה בחזית.
+```
+
+
+## Translation Key: notification_permission_asking_message
+```
+The app will need to display a notification in order to remain active in the background while recording a track.
+```
+translated (by machine 🤖) as:
+```
+האפליקציה תצטרך להציג התראה כדי להישאר פעילה ברקע בזמן הקלטת רצועה.
+```
+
+
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+האפליקציה תצטרך את הרשאת המיקום 'תמיד' על מנת להקליט רצועות תוך כדי ריצה ברקע.
+```
+
+
+## Translation Key: save_x_unsaved_tracks_question
+```
+The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?
+```
+translated (by machine 🤖) as:
+```
+הקלטת הרצועה (%s) נקטעה לפני שניתן היה לשמור אותה. האם אתה רוצה לשמור את זה עכשיו?
+```
+
+
+## Translation Key: delete_unsaved_tracks_forever_question
+```
+Do you want to delete the unsaved track(s) recording forever?
+```
+translated (by machine 🤖) as:
+```
+האם אתה רוצה למחוק את הקלטת הרצועות שלא נשמרו לנצח?
+```
+
+
+## Translation Key: empty_track_discarded_message
+```
+This track had no points recorded and has simply been discarded.
+```
+translated (by machine 🤖) as:
+```
+לרצועה הזו לא נרשמו נקודות והוא פשוט נמחק.
 ```
 
 

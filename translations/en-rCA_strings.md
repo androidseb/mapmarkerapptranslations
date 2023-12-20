@@ -4455,7 +4455,7 @@ Successfully saved to device files
 
 ## Translation Key: file_export_intention_question
 ```
-How do you want to use the exported file ?
+How do you want to use the exported file?
 ```
 translated (by machine 🤖) as:
 ```
@@ -4720,6 +4720,226 @@ The exported file is large and must be saved with 'Save as'.
 translated (by machine 🤖) as:
 ```
 The exported file is large and must be saved with 'Save as'.
+```
+
+
+## Translation Key: unconstrained
+```
+Unconstrained
+```
+translated (by machine 🤖) as:
+```
+Unconstrained
+```
+
+
+## Translation Key: x_seconds
+```
+%s seconds
+```
+translated (by machine 🤖) as:
+```
+%s seconds
+```
+
+
+## Translation Key: x_minutes
+```
+%s minutes
+```
+translated (by machine 🤖) as:
+```
+%s minutes
+```
+
+
+## Translation Key: x_minutes_y_seconds
+```
+%1$s minutes %2$s seconds
+```
+translated (by machine 🤖) as:
+```
+%1$s minutes %2$s seconds
+```
+
+
+## Translation Key: location_track_recording
+```
+Location track recording
+```
+translated (by machine 🤖) as:
+```
+Location track recording
+```
+
+
+## Translation Key: setting_minimum_location_accuracy
+```
+Minimum location accuracy
+```
+translated (by machine 🤖) as:
+```
+Minimum location accuracy
+```
+
+
+## Translation Key: setting_minimum_distance_interval
+```
+Minimum distance interval
+```
+translated (by machine 🤖) as:
+```
+Minimum distance interval
+```
+
+
+## Translation Key: setting_minimum_time_interval
+```
+Minimum time interval
+```
+translated (by machine 🤖) as:
+```
+Minimum time interval
+```
+
+
+## Translation Key: starting_new_track_recording
+```
+Starting new track recording
+```
+translated (by machine 🤖) as:
+```
+Starting new track recording
+```
+
+
+## Translation Key: ongoing_track_recording
+```
+Ongoing track recording
+```
+translated (by machine 🤖) as:
+```
+Ongoing track recording
+```
+
+
+## Translation Key: time_started_x
+```
+Started time: %s
+```
+translated (by machine 🤖) as:
+```
+Started time: %s
+```
+
+
+## Translation Key: ongoing_track_recordings
+```
+Ongoing track recordings
+```
+translated (by machine 🤖) as:
+```
+Ongoing track recordings
+```
+
+
+## Translation Key: finish_track_recording_confirmation_message
+```
+Do you want to finish and save this track?
+```
+translated (by machine 🤖) as:
+```
+Do you want to finish and save this track?
+```
+
+
+## Translation Key: track_x
+```
+Track %s
+```
+translated (by machine 🤖) as:
+```
+Track %s
+```
+
+
+## Translation Key: grant_permission_confirmation_message
+```
+Do you want to grant this permission?
+```
+translated (by machine 🤖) as:
+```
+Do you want to grant this permission?
+```
+
+
+## Translation Key: grant_hint_text_forever_denied
+```
+If you want to grant this permission, go to this application's permissions settings under your system settings.
+```
+translated (by machine 🤖) as:
+```
+If you want to grant this permission, go to this application's permissions settings under your system settings.
+```
+
+
+## Translation Key: background_permission_leave_disabled_hint_message
+```
+If you leave this permission disabled, track recording will only work while the app is visible in the foreground.
+```
+translated (by machine 🤖) as:
+```
+If you leave this permission disabled, track recording will only work while the app is visible in the foreground.
+```
+
+
+## Translation Key: notification_permission_asking_message
+```
+The app will need to display a notification in order to remain active in the background while recording a track.
+```
+translated (by machine 🤖) as:
+```
+The app will need to display a notification in order to remain active in the background while recording a track.
+```
+
+
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+
+
+## Translation Key: save_x_unsaved_tracks_question
+```
+The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?
+```
+translated (by machine 🤖) as:
+```
+The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?
+```
+
+
+## Translation Key: delete_unsaved_tracks_forever_question
+```
+Do you want to delete the unsaved track(s) recording forever?
+```
+translated (by machine 🤖) as:
+```
+Do you want to delete the unsaved track(s) recording forever?
+```
+
+
+## Translation Key: empty_track_discarded_message
+```
+This track had no points recorded and has simply been discarded.
+```
+translated (by machine 🤖) as:
+```
+This track had no points recorded and has simply been discarded.
 ```
 
 

@@ -4455,7 +4455,7 @@ Sauvegarde réussie vers les fichiers de l'appareil
 
 ## Translation Key: file_export_intention_question
 ```
-How do you want to use the exported file ?
+How do you want to use the exported file?
 ```
 translated (by human 👀) as:
 ```
@@ -4860,6 +4860,86 @@ Track %s
 translated (by machine 🤖) as:
 ```
 Tracé %s
+```
+
+
+## Translation Key: grant_permission_confirmation_message
+```
+Do you want to grant this permission?
+```
+translated (by machine 🤖) as:
+```
+Voulez-vous donner cette permission ?
+```
+
+
+## Translation Key: grant_hint_text_forever_denied
+```
+If you want to grant this permission, go to this application's permissions settings under your system settings.
+```
+translated (by machine 🤖) as:
+```
+Si vous voulez donner cette permission, ouvrez les réglages de permissions de l'application dans les réglages système.
+```
+
+
+## Translation Key: background_permission_leave_disabled_hint_message
+```
+If you leave this permission disabled, track recording will only work while the app is visible in the foreground.
+```
+translated (by machine 🤖) as:
+```
+Si vous laissez cette permission désactivée, l'enregistrement de tracé fonctionneral seulement lorsque l'application est visible en avant-plan.
+```
+
+
+## Translation Key: notification_permission_asking_message
+```
+The app will need to display a notification in order to remain active in the background while recording a track.
+```
+translated (by machine 🤖) as:
+```
+L'application aura besoin d'afficher une notification afin de rester active en arrière plan durant l'enregistrement d'un tracé.
+```
+
+
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+L'application a besoin de la permission de position 'toujours' afin d'enregistrer des tracés en arrière plan.
+```
+
+
+## Translation Key: save_x_unsaved_tracks_question
+```
+The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?
+```
+translated (by machine 🤖) as:
+```
+L'enregistrement de tracé(s) (%s) a été interrompu avant de pouvoir être sauvegardé. Voulez-vous le sauvegarder maintenant ?
+```
+
+
+## Translation Key: delete_unsaved_tracks_forever_question
+```
+Do you want to delete the unsaved track(s) recording forever?
+```
+translated (by machine 🤖) as:
+```
+Voulez-vous supprimer l'enregistrement de tracé non-sauvegardé pour toujours ?
+```
+
+
+## Translation Key: empty_track_discarded_message
+```
+This track had no points recorded and has simply been discarded.
+```
+translated (by machine 🤖) as:
+```
+Ce tracé n'a enregistré aucun point et a simplement été annulé.
 ```
 
 
