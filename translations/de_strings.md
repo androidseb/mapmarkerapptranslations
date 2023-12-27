@@ -4943,3 +4943,53 @@ Für diese Strecke wurden keine Punkte erfasst und sie wurde einfach verworfen.
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+Datenschutzinformationen
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+Informationen zum Datenschutz anzeigen
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+Anzeige beim Start
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+Diese App sammelt Standortdaten, um die Funktion „Tracks-Aufzeichnung“ zu aktivieren, auch wenn die App geschlossen ist oder nicht verwendet wird.
+
+Diese Standortdatenerfassung dient ausschließlich der Aufzeichnung von Tracks in Ihren Markern und erfolgt nur, wenn Sie explizit eine Trackaufzeichnung initiiert haben.
+
+Weitere allgemeine Informationen zum Datenschutz finden Sie in der Datenschutzerklärung unter folgendem Link:
+%s
+```
+
+

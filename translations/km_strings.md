@@ -4943,3 +4943,53 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+ព័ត៌មានឯកជនភាព
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+មើលព័ត៌មានអំពីឯកជនភាព
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+បង្ហាញនៅពេលចាប់ផ្តើម
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+កម្មវិធីនេះប្រមូលទិន្នន័យទីតាំង ដើម្បីបើកមុខងារ 'ការថតបទ' ទោះបីជាកម្មវិធីបិទ ឬមិនប្រើក៏ដោយ។
+
+ការប្រមូលទិន្នន័យទីតាំងនេះត្រូវបានប្រើទាំងស្រុងដើម្បីកត់ត្រាបទចូលទៅក្នុងសញ្ញាសម្គាល់របស់អ្នក ហើយកើតឡើងតែនៅពេលដែលអ្នកបានផ្តួចផ្តើមការថតបទយ៉ាងច្បាស់ប៉ុណ្ណោះ។
+
+អ្នកអាចស្វែងរកព័ត៌មានបន្ថែមអំពីឯកជនភាពនៅក្នុងគោលការណ៍ឯកជនភាពដែលមាននៅតំណខាងក្រោម៖
+%s
+```
+
+

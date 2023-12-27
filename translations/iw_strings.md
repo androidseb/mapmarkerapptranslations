@@ -4943,3 +4943,53 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+מידע פרטיות
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+הצג מידע על פרטיות
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+תצוגה בהתחלה
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+אפליקציה זו אוספת נתוני מיקום כדי לאפשר את התכונה של 'הקלטת רצועות' גם כשהאפליקציה סגורה או אינה בשימוש.
+
+איסוף נתוני מיקום זה משמש אך ורק כדי להקליט רצועות לתוך הסמנים שלך, ומתרחש רק כאשר יזמת באופן מפורש הקלטת מסלול.
+
+תוכל למצוא מידע כללי נוסף על פרטיות במדיניות הפרטיות הזמינה בקישור הבא:
+%s
+```
+
+

@@ -4943,3 +4943,53 @@ Det här spåret hade inga poäng registrerade och har helt enkelt kasserats.
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+Sekretessinformation
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+Visa information om integritet
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+Display vid start
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+Den här appen samlar in platsdata för att aktivera funktionen för "spårinspelning" även när appen är stängd eller inte används.
+
+Denna platsdatainsamling används uteslutande för att spela in spår i dina markörer, och sker endast när du uttryckligen har initierat en spårregistrering.
+
+Du kan hitta mer allmän information om integritet i integritetspolicyn som finns på följande länk:
+%s
+```
+
+

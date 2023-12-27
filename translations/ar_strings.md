@@ -4943,3 +4943,53 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+معلومات الخصوصية
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+عرض معلومات حول الخصوصية
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+العرض عند البداية
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+يجمع هذا التطبيق بيانات الموقع لتمكين ميزة "تسجيل المسارات" حتى عندما يكون التطبيق مغلقًا أو غير مستخدم.
+
+يتم استخدام جمع بيانات الموقع هذا حصريًا لتسجيل المسارات في العلامات الخاصة بك، ويحدث فقط عندما تبدأ تسجيل المسار بشكل صريح.
+
+يمكنك العثور على مزيد من المعلومات العامة حول الخصوصية في سياسة الخصوصية المتوفرة على الرابط التالي:
+%s
+```
+
+

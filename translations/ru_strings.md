@@ -4943,3 +4943,53 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+Информация о конфиденциальности
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+Просмотр информации о конфиденциальности
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+Отображение при запуске
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+Это приложение собирает данные о местоположении, чтобы включить функцию «записи треков», даже когда приложение закрыто или не используется.
+
+Этот сбор данных о местоположении используется исключительно для записи треков в ваши маркеры и происходит только в том случае, если вы явно инициировали запись трека.
+
+Более общую информацию о конфиденциальности вы можете найти в политике конфиденциальности, доступной по следующей ссылке:
+%s
+```
+
+

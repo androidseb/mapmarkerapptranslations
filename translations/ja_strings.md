@@ -4942,3 +4942,53 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+プライバシー情報
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+プライバシーに関する情報を表示する
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+起動時の表示
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+このアプリは位置データを収集し、アプリが閉じているときや使用していないときでも「トラックの記録」機能を有効にします。
+
+この位置データの収集は、トラックをマーカーに記録するためにのみ使用され、トラックの記録を明示的に開始した場合にのみ発生します。
+
+プライバシーに関する一般的な情報については、次のリンクにあるプライバシー ポリシーをご覧ください。
+%s
+```
+
+

@@ -4943,3 +4943,53 @@ Ta skladba ni imela zabeleženih točk in je bila preprosto zavržena.
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+Informacije o zasebnosti
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+Oglejte si informacije o zasebnosti
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+Prikaz ob zagonu
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+Ta aplikacija zbira podatke o lokaciji, da omogoči funkcijo »snemanja sledi«, tudi ko je aplikacija zaprta ali ni v uporabi.
+
+To zbiranje podatkov o lokaciji se uporablja izključno za snemanje poti v vaše označevalce in se zgodi samo, ko ste izrecno sprožili snemanje poti.
+
+Več splošnih informacij o zasebnosti najdete v politiki zasebnosti, ki je na voljo na naslednji povezavi:
+%s
+```
+
+

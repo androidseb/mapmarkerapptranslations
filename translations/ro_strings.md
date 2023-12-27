@@ -4943,3 +4943,53 @@ Această pistă nu a avut puncte înregistrate și a fost pur și simplu aruncat
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+Informații de confidențialitate
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+Vizualizați informații despre confidențialitate
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+Afișare la pornire
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+Această aplicație colectează date despre locație pentru a activa funcția de „înregistrare a melodiilor” chiar și atunci când aplicația este închisă sau nu este utilizată.
+
+Această colecție de date despre locație este utilizată exclusiv pentru a înregistra traseele în marcatoarele dvs. și are loc numai atunci când ați inițiat în mod explicit o înregistrare a piesei.
+
+Puteți găsi mai multe informații generale despre confidențialitate în politica de confidențialitate disponibilă la următorul link:
+%s
+```
+
+

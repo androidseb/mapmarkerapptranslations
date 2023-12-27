@@ -4943,3 +4943,53 @@ Bài hát này không có điểm nào được ghi lại và đơn giản là �
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+Thông tin riêng tư
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+Xem thông tin về quyền riêng tư
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+Hiển thị khi bắt đầu
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+Ứng dụng này thu thập dữ liệu vị trí để kích hoạt tính năng 'ghi dấu vết' ngay cả khi ứng dụng bị đóng hoặc không được sử dụng.
+
+Việc thu thập dữ liệu vị trí này được sử dụng riêng để ghi lại các tuyến đường vào điểm đánh dấu của bạn và chỉ xảy ra khi bạn đã bắt đầu ghi tuyến đường một cách rõ ràng.
+
+Bạn có thể tìm thêm thông tin chung về quyền riêng tư trong chính sách quyền riêng tư có sẵn tại liên kết sau:
+%s
+```
+
+

@@ -4943,3 +4943,53 @@ Esta pista no tenía puntos registrados y simplemente ha sido descartada.
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+Información de privacidad
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+Ver información sobre privacidad
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+Mostrar al inicio
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+Esta aplicación recopila datos de ubicación para habilitar la función de "grabación de pistas" incluso cuando la aplicación está cerrada o no está en uso.
+
+Esta recopilación de datos de ubicación se utiliza exclusivamente para grabar recorridos en sus marcadores y solo ocurre cuando usted ha iniciado explícitamente una grabación de recorrido.
+
+Puede encontrar más información general sobre privacidad en la política de privacidad disponible en el siguiente enlace:
+%s
+```
+
+

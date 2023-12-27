@@ -4943,3 +4943,53 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+गोपनीयता संबंधी जानकारी
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+गोपनीयता के बारे में जानकारी देखें
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+प्रारंभ पर प्रदर्शित करें
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+यह ऐप 'ट्रैक्स रिकॉर्डिंग' की सुविधा को सक्षम करने के लिए स्थान डेटा एकत्र करता है, भले ही ऐप बंद हो या उपयोग में न हो।
+
+इस स्थान डेटा संग्रह का उपयोग विशेष रूप से आपके मार्करों में ट्रैक रिकॉर्ड करने के लिए किया जाता है, और यह केवल तब होता है जब आपने स्पष्ट रूप से ट्रैक रिकॉर्डिंग शुरू की हो।
+
+आप गोपनीयता के बारे में अधिक सामान्य जानकारी निम्नलिखित लिंक पर उपलब्ध गोपनीयता नीति में पा सकते हैं:
+%s
+```
+
+

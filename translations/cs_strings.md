@@ -4943,3 +4943,53 @@ Tato stopa neměla zaznamenány žádné body a byla jednoduše vyřazena.
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+Informace o soukromí
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+Zobrazit informace o soukromí
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+Displej při startu
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+Tato aplikace shromažďuje údaje o poloze, aby umožnila funkci „nahrávání tras“, i když je aplikace zavřená nebo se nepoužívá.
+
+Toto shromažďování údajů o poloze se používá výhradně k zaznamenávání tras do vašich značek a dochází k němu pouze v případě, že jste výslovně zahájili záznam trasy.
+
+Další obecné informace o ochraně osobních údajů naleznete v zásadách ochrany osobních údajů, které jsou k dispozici na následujícím odkazu:
+%s
+```
+
+

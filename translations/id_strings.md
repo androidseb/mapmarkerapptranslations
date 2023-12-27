@@ -4943,3 +4943,53 @@ Lagu ini tidak memiliki poin yang tercatat dan dibuang begitu saja.
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+Informasi privasi
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+Lihat informasi tentang privasi
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+Tampilan di awal
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+Aplikasi ini mengumpulkan data lokasi untuk mengaktifkan fitur 'perekaman trek' bahkan ketika aplikasi ditutup atau tidak digunakan.
+
+Pengumpulan data lokasi ini digunakan secara eksklusif untuk merekam jejak ke dalam penanda Anda, dan hanya terjadi bila Anda telah secara eksplisit memulai perekaman jejak.
+
+Anda dapat menemukan informasi lebih umum tentang privasi dalam kebijakan privasi yang tersedia di tautan berikut:
+%s
+```
+
+

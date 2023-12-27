@@ -4943,3 +4943,53 @@ Tällä kappaleella ei ollut tallennettuja pisteitä ja se on yksinkertaisesti h
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+Tietosuojatiedot
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+Katso yksityisyyttä koskevia tietoja
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+Näyttö käynnistyksessä
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+Tämä sovellus kerää sijaintitietoja mahdollistaakseen jälkitallennusominaisuuden, vaikka sovellus olisi suljettu tai sitä ei käytetä.
+
+Tätä sijaintitietojen kokoelmaa käytetään yksinomaan jälkien tallentamiseen merkkeihisi, ja se tapahtuu vain, kun olet nimenomaisesti aloittanut jäljen tallennuksen.
+
+Löydät yleistä tietoa tietosuojasta seuraavasta linkistä löytyvästä tietosuojakäytännöstä:
+%s
+```
+
+

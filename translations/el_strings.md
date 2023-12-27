@@ -4943,3 +4943,53 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+Πληροφορίες απορρήτου
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+Προβολή πληροφοριών σχετικά με το απόρρητο
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+Εμφάνιση κατά την εκκίνηση
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+Αυτή η εφαρμογή συλλέγει δεδομένα τοποθεσίας για να ενεργοποιήσει τη δυνατότητα «εγγραφής κομματιών» ακόμα και όταν η εφαρμογή είναι κλειστή ή δεν χρησιμοποιείται.
+
+Αυτή η συλλογή δεδομένων τοποθεσίας χρησιμοποιείται αποκλειστικά για την εγγραφή κομματιών στους δείκτες σας και πραγματοποιείται μόνο όταν έχετε ξεκινήσει ρητά μια εγγραφή κομματιού.
+
+Μπορείτε να βρείτε περισσότερες γενικές πληροφορίες σχετικά με το απόρρητο στην πολιτική απορρήτου που είναι διαθέσιμη στον ακόλουθο σύνδεσμο:
+%s
+```
+
+

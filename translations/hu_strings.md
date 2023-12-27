@@ -4943,3 +4943,53 @@ Ennek a számnak nem volt rögzített pontja, és egyszerűen eldobták.
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+Adatvédelmi információk
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+Adatvédelemmel kapcsolatos információk megtekintése
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+Kijelzés induláskor
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+Ez az alkalmazás helyadatokat gyűjt, hogy lehetővé tegye a „nyomvonalrögzítés” funkciót, még akkor is, ha az alkalmazás be van zárva vagy nincs használatban.
+
+Ezt a helyadatgyűjtést kizárólag a nyomvonalak jelölőibe történő rögzítésére használják, és csak akkor történik meg, ha kifejezetten kezdeményezte a nyomvonal rögzítését.
+
+Az adatvédelemmel kapcsolatos általánosabb információkat az alábbi linken elérhető adatvédelmi szabályzatban talál:
+%s
+```
+
+

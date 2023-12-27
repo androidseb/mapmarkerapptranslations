@@ -4943,3 +4943,53 @@ Na tym torze nie zapisano żadnych punktów i został on po prostu odrzucony.
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+Informacje o prywatności
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+Wyświetl informacje o prywatności
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+Wyświetl na początku
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+Ta aplikacja zbiera dane o lokalizacji, aby włączyć funkcję „zapisu śladów”, nawet gdy aplikacja jest zamknięta lub nieużywana.
+
+To gromadzenie danych o lokalizacji służy wyłącznie do zapisywania śladów w Twoich znacznikach i ma miejsce tylko wtedy, gdy wyraźnie zainicjowałeś rejestrację śladu.
+
+Więcej ogólnych informacji na temat prywatności znajdziesz w polityce prywatności dostępnej pod poniższym linkiem:
+%s
+```
+
+

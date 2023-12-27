@@ -4943,3 +4943,53 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+Информация за поверителност
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+Вижте информация за поверителността
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+Дисплей при стартиране
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+Това приложение събира данни за местоположение, за да активира функцията за „запис на следи“, дори когато приложението е затворено или не се използва.
+
+Това събиране на данни за местоположение се използва изключително за запис на следи във вашите маркери и се случва само когато изрично сте инициирали запис на следа.
+
+Можете да намерите повече обща информация относно поверителността в политиката за поверителност, достъпна на следната връзка:
+%s
+```
+
+

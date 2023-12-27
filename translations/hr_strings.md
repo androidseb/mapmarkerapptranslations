@@ -4943,3 +4943,53 @@ Ova staza nije imala zabilježenih bodova i jednostavno je odbačena.
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+Informacije o privatnosti
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+Pogledajte informacije o privatnosti
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+Prikaz pri pokretanju
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+Ova aplikacija prikuplja podatke o lokaciji kako bi omogućila značajku 'snimanja zapisa' čak i kada je aplikacija zatvorena ili se ne koristi.
+
+Ovo prikupljanje podataka o lokaciji koristi se isključivo za snimanje staza u vaše markere i događa se samo kada ste izričito pokrenuli snimanje staze.
+
+Općenitije informacije o privatnosti možete pronaći u politici privatnosti dostupnoj na sljedećoj poveznici:
+%s
+```
+
+

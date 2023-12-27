@@ -4943,3 +4943,53 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+개인 정보 보호 정보
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+개인 정보 보호에 대한 정보 보기
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+시작 시 표시
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+이 앱은 앱이 닫혀 있거나 사용되지 않는 경우에도 '트랙 기록' 기능을 활성화하기 위해 위치 데이터를 수집합니다.
+
+이 위치 데이터 수집은 트랙을 마커에 기록하는 데에만 사용되며, 트랙 기록을 명시적으로 시작한 경우에만 발생합니다.
+
+다음 링크의 개인정보 보호정책에서 개인정보 보호에 대한 보다 일반적인 정보를 확인할 수 있습니다.
+%s
+```
+
+

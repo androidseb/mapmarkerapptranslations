@@ -4943,3 +4943,53 @@ Aquesta pista no tenia punts registrats i simplement s'ha descartat.
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+Informació de privadesa
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+Veure informació sobre privadesa
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+Mostra a l'inici
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+Aquesta aplicació recull dades d'ubicació per habilitar la funció de "enregistrament de pistes", fins i tot quan l'aplicació està tancada o no s'utilitza.
+
+Aquesta recopilació de dades d'ubicació s'utilitza exclusivament per gravar pistes als vostres marcadors i només es produeix quan heu iniciat explícitament una gravació de pistes.
+
+Podeu trobar més informació general sobre privadesa a la política de privadesa disponible al següent enllaç:
+%s
+```
+
+

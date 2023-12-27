@@ -4943,3 +4943,53 @@ Voor dit nummer zijn geen punten geregistreerd en het is simpelweg weggegooid.
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+Privacy-informatie
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+Bekijk informatie over privacy
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+Weergave bij starten
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+Deze app verzamelt locatiegegevens om de functie 'tracks opnemen' mogelijk te maken, zelfs wanneer de app gesloten is of niet in gebruik is.
+
+Deze verzameling van locatiegegevens wordt uitsluitend gebruikt om tracks in uw markeringen op te nemen en vindt alleen plaats als u expliciet een trackopname hebt gestart.
+
+Meer algemene informatie over privacy vindt u in het privacybeleid dat beschikbaar is via de volgende link:
+%s
+```
+
+

@@ -4943,3 +4943,53 @@ Táto skladba nemala zaznamenané žiadne body a bola jednoducho vyradená.
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+Informácie o súkromí
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+Zobraziť informácie o súkromí
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+Displej pri štarte
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+Táto aplikácia zhromažďuje údaje o polohe, aby umožnila funkciu „nahrávania stôp“, aj keď je aplikácia zatvorená alebo sa nepoužíva.
+
+Toto zhromažďovanie údajov o polohe sa používa výlučne na zaznamenávanie trás do vašich značiek a prebieha iba vtedy, keď ste explicitne spustili zaznamenávanie trás.
+
+Viac všeobecných informácií o ochrane osobných údajov nájdete v zásadách ochrany osobných údajov, ktoré sú k dispozícii na nasledujúcom odkaze:
+%s
+```
+
+

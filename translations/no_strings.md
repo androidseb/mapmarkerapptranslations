@@ -4943,3 +4943,53 @@ Dette sporet hadde ingen poeng registrert og har rett og slett blitt forkastet.
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+Personverninformasjon
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+Se informasjon om personvern
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+Visning ved start
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+Denne appen samler inn plasseringsdata for å aktivere funksjonen "sporopptak" selv når appen er stengt eller ikke er i bruk.
+
+Denne innsamlingen av stedsdata brukes utelukkende til å registrere spor i markørene dine, og skjer kun når du eksplisitt har startet en sporregistrering.
+
+Du kan finne mer generell informasjon om personvern i personvernreglene som er tilgjengelig på følgende lenke:
+%s
+```
+
+

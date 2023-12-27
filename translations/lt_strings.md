@@ -4943,3 +4943,53 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: settings_privacy_info_title
+```
+Privacy information
+```
+translated (by machine 🤖) as:
+```
+Privatumo informacija
+```
+
+
+## Translation Key: settings_privacy_info_description
+```
+View information about privacy
+```
+translated (by machine 🤖) as:
+```
+Peržiūrėkite informaciją apie privatumą
+```
+
+
+## Translation Key: display_on_app_start
+```
+Display on start
+```
+translated (by machine 🤖) as:
+```
+Ekranas paleidžiant
+```
+
+
+## Translation Key: bg_location_prominent_prompt_with_privacy_link_x_text
+```
+This app collects location data to enable the feature of 'tracks recording' even when the app is closed or not in use.
+
+This location data collection is used exclusively to record tracks into your markers, and only occurs when you have explicitly initiated a track recording.
+
+You can find more general information about privacy in the privacy policy available at the following link:
+%s
+```
+translated (by machine 🤖) as:
+```
+Ši programa renka vietos duomenis, kad įgalintų „takų įrašymo“ funkciją, net kai programa uždaryta arba nenaudojama.
+
+Šis vietos duomenų rinkimas naudojamas išskirtinai įrašyti takelius į žymeklius ir tik tada, kai aiškiai inicijavote maršruto įrašymą.
+
+Daugiau bendros informacijos apie privatumą galite rasti privatumo politikoje, kurią rasite šioje nuorodoje:
+%s
+```
+
+
