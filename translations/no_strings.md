@@ -4903,16 +4903,6 @@ Appen må vise et varsel for å forbli aktiv i bakgrunnen mens du tar opp et spo
 ```
 
 
-## Translation Key: background_location_permission_asking_message
-```
-The app will need the 'always' location permission in order to record tracks while running in the background.
-```
-translated (by machine 🤖) as:
-```
-Appen vil trenge "alltid" plasseringstillatelse for å ta opp spor mens den kjører i bakgrunnen.
-```
-
-
 ## Translation Key: save_x_unsaved_tracks_question
 ```
 The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?

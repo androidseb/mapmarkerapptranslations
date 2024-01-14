@@ -2363,3 +2363,13 @@ Pilvestä ei löytynyt karttakansiota – jos etsit vanhoja pilvikarttoja, jotka
 ```
 
 
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+Sovellus tarvitsee "aina" sijaintiluvan tallentaakseen jälkiä taustalla käynnissä.
+```
+
+

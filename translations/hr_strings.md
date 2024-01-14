@@ -4903,16 +4903,6 @@ Aplikacija će morati prikazati obavijest kako bi ostala aktivna u pozadini tije
 ```
 
 
-## Translation Key: background_location_permission_asking_message
-```
-The app will need the 'always' location permission in order to record tracks while running in the background.
-```
-translated (by machine 🤖) as:
-```
-Aplikacija će trebati dopuštenje za lokaciju "uvijek" kako bi snimala staze dok radi u pozadini.
-```
-
-
 ## Translation Key: save_x_unsaved_tracks_question
 ```
 The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?

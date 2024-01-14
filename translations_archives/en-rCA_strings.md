@@ -2363,3 +2363,13 @@ No map folder found on the cloud - if you're looking for old cloud maps created 
 ```
 
 
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+
+

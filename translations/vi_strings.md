@@ -4903,16 +4903,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: background_location_permission_asking_message
-```
-The app will need the 'always' location permission in order to record tracks while running in the background.
-```
-translated (by machine 🤖) as:
-```
-Ứng dụng sẽ cần có quyền 'luôn luôn' vị trí để ghi lại các bản nhạc trong khi chạy ở chế độ nền.
-```
-
-
 ## Translation Key: save_x_unsaved_tracks_question
 ```
 The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?

@@ -4903,16 +4903,6 @@ Aplikacija bo morala prikazati obvestilo, da bo med snemanjem skladbe ostala akt
 ```
 
 
-## Translation Key: background_location_permission_asking_message
-```
-The app will need the 'always' location permission in order to record tracks while running in the background.
-```
-translated (by machine 🤖) as:
-```
-Aplikacija bo potrebovala dovoljenje za lokacijo »vedno«, da lahko snema sledi, medtem ko teče v ozadju.
-```
-
-
 ## Translation Key: save_x_unsaved_tracks_question
 ```
 The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?

@@ -4903,16 +4903,6 @@ L'aplicació haurà de mostrar una notificació per mantenir-se activa en segon 
 ```
 
 
-## Translation Key: background_location_permission_asking_message
-```
-The app will need the 'always' location permission in order to record tracks while running in the background.
-```
-translated (by machine 🤖) as:
-```
-L'aplicació necessitarà el permís d'ubicació "sempre" per gravar pistes mentre s'executa en segon pla.
-```
-
-
 ## Translation Key: save_x_unsaved_tracks_question
 ```
 The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?

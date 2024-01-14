@@ -4903,16 +4903,6 @@ Bir parçayı kaydederken arka planda aktif kalabilmek için uygulamanın bir bi
 ```
 
 
-## Translation Key: background_location_permission_asking_message
-```
-The app will need the 'always' location permission in order to record tracks while running in the background.
-```
-translated (by machine 🤖) as:
-```
-Uygulamanın arka planda çalışırken parçaları kaydedebilmesi için 'her zaman' konum iznine ihtiyacı olacak.
-```
-
-
 ## Translation Key: save_x_unsaved_tracks_question
 ```
 The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?

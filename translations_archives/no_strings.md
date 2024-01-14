@@ -2363,3 +2363,13 @@ Ingen kartmappe funnet på skyen - hvis du leter etter gamle skykart laget med d
 ```
 
 
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+Appen vil trenge "alltid" plasseringstillatelse for å ta opp spor mens den kjører i bakgrunnen.
+```
+
+

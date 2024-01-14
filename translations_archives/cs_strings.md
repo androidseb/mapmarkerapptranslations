@@ -2363,3 +2363,13 @@ V cloudu nebyla nalezena žádná složka map – pokud hledáte staré cloudov�
 ```
 
 
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+Aplikace bude potřebovat oprávnění k poloze „vždy“, aby mohla zaznamenávat trasy při běhu na pozadí.
+```
+
+

@@ -2363,3 +2363,13 @@ Nessuna cartella della mappa trovata nel cloud: se stai cercando vecchie mappe c
 ```
 
 
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+L'app avrà bisogno dell'autorizzazione alla posizione "sempre" per registrare le tracce mentre è in esecuzione in background.
+```
+
+

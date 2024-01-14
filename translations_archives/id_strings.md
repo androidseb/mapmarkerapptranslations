@@ -2363,3 +2363,13 @@ Tidak ada folder peta yang ditemukan di cloud - jika Anda mencari peta cloud lam
 ```
 
 
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+Aplikasi ini memerlukan izin lokasi 'selalu' untuk merekam trek saat berjalan di latar belakang.
+```
+
+

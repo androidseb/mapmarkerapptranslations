@@ -4903,16 +4903,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: background_location_permission_asking_message
-```
-The app will need the 'always' location permission in order to record tracks while running in the background.
-```
-translated (by machine 🤖) as:
-```
-앱이 백그라운드에서 실행되는 동안 트랙을 기록하려면 '항상' 위치 권한이 필요합니다.
-```
-
-
 ## Translation Key: save_x_unsaved_tracks_question
 ```
 The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?

@@ -2363,3 +2363,13 @@ Nu s-a găsit niciun folder de hărți în cloud - dacă căutați hărți cloud
 ```
 
 
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+Aplicația va avea nevoie de permisiunea de locație „întotdeauna” pentru a înregistra piese în timp ce rulează în fundal.
+```
+
+

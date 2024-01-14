@@ -2363,3 +2363,13 @@ No s'ha trobat cap carpeta de mapes al núvol: si busqueu mapes de núvol antics
 ```
 
 
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+L'aplicació necessitarà el permís d'ubicació "sempre" per gravar pistes mentre s'executa en segon pla.
+```
+
+

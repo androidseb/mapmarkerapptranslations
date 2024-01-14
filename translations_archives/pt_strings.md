@@ -2363,3 +2363,13 @@ Nenhuma pasta de mapa encontrada na nuvem - se você estiver procurando por mapa
 ```
 
 
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+O aplicativo precisará da permissão de localização ‘sempre’ para gravar trilhas enquanto é executado em segundo plano.
+```
+
+

@@ -2360,3 +2360,13 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+Приложению потребуется разрешение на определение местоположения «всегда», чтобы записывать треки во время работы в фоновом режиме.
+```
+
+

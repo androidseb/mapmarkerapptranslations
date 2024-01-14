@@ -2357,3 +2357,13 @@ Geen kaartmap gevonden in de cloud - als u op zoek bent naar oude cloudkaarten d
 ```
 
 
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+De app heeft de 'altijd' locatietoestemming nodig om tracks op te nemen terwijl deze op de achtergrond draait.
+```
+
+

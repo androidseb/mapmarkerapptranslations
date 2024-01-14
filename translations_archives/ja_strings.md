@@ -2364,3 +2364,13 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+アプリがバックグラウンドで実行中にトラックを記録するには、「常に」位置情報のアクセス許可が必要です。
+```
+
+

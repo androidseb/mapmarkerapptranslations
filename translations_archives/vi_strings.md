@@ -2363,3 +2363,13 @@ Không tìm thấy thư mục bản đồ nào trên đám mây - nếu bạn đ
 ```
 
 
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+Ứng dụng sẽ cần có quyền 'luôn luôn' vị trí để ghi lại các bản nhạc trong khi chạy ở chế độ nền.
+```
+
+

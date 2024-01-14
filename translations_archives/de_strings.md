@@ -2360,3 +2360,13 @@ Kein Kartenordner in der Cloud gefunden – wenn Sie nach alten Cloud-Karten suc
 ```
 
 
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+Die App benötigt die Standortberechtigung „immer“, um Tracks aufzuzeichnen, während sie im Hintergrund läuft.
+```
+
+

@@ -2363,3 +2363,13 @@ Aucun dossier de carte trouvé sur le cloud - si vous recherchez d'anciennes ver
 ```
 
 
+## Translation Key: background_location_permission_asking_message
+```
+The app will need the 'always' location permission in order to record tracks while running in the background.
+```
+translated (by machine 🤖) as:
+```
+L'application a besoin de la permission de position 'toujours' afin d'enregistrer des tracés en arrière plan.
+```
+
+
