@@ -4983,3 +4983,73 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: track_editing_hint_text
+```
+Switch points with the previous/next buttons, move the map around to place the points and click '-' to remove a point. Finally click save to save the edited track.
+```
+translated (by machine 🤖) as:
+```
+Αλλάξτε σημεία με τα κουμπιά προηγούμενο/επόμενο, μετακινήστε τον χάρτη για να τοποθετήσετε τα σημεία και κάντε κλικ στο '-' για να αφαιρέσετε ένα σημείο. Τέλος, κάντε κλικ στην αποθήκευση για να αποθηκεύσετε το επεξεργασμένο κομμάτι.
+```
+
+
+## Translation Key: duration_x
+```
+Duration: %s
+```
+translated (by machine 🤖) as:
+```
+Διάρκεια: %s
+```
+
+
+## Translation Key: minimum_speed_x
+```
+Minimum speed: %s
+```
+translated (by machine 🤖) as:
+```
+Ελάχιστη ταχύτητα: %s
+```
+
+
+## Translation Key: minimum_moving_speed_x
+```
+Minimum moving speed: %s
+```
+translated (by machine 🤖) as:
+```
+Ελάχιστη ταχύτητα κίνησης: %s
+```
+
+
+## Translation Key: maximum_speed_x
+```
+Maximum speed: %s
+```
+translated (by machine 🤖) as:
+```
+Μέγιστη ταχύτητα: %s
+```
+
+
+## Translation Key: average_speed_x
+```
+Average speed: %s
+```
+translated (by machine 🤖) as:
+```
+Μέση ταχύτητα: %s
+```
+
+
+## Translation Key: altitude_variation_x
+```
+Altitude variation: %s
+```
+translated (by machine 🤖) as:
+```
+Υψομετρική διακύμανση: %s
+```
+
+

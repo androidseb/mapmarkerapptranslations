@@ -4983,3 +4983,73 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: track_editing_hint_text
+```
+Switch points with the previous/next buttons, move the map around to place the points and click '-' to remove a point. Finally click save to save the edited track.
+```
+translated (by machine 🤖) as:
+```
+使用上一个/下一个按钮切换点，移动地图以放置点，然后单击“-”删除点。最后点击保存即可保存编辑好的轨迹。
+```
+
+
+## Translation Key: duration_x
+```
+Duration: %s
+```
+translated (by machine 🤖) as:
+```
+持续时间：%s
+```
+
+
+## Translation Key: minimum_speed_x
+```
+Minimum speed: %s
+```
+translated (by machine 🤖) as:
+```
+最低速度：%s
+```
+
+
+## Translation Key: minimum_moving_speed_x
+```
+Minimum moving speed: %s
+```
+translated (by machine 🤖) as:
+```
+最小移动速度：%s
+```
+
+
+## Translation Key: maximum_speed_x
+```
+Maximum speed: %s
+```
+translated (by machine 🤖) as:
+```
+最大速度：%s
+```
+
+
+## Translation Key: average_speed_x
+```
+Average speed: %s
+```
+translated (by machine 🤖) as:
+```
+平均速度：%s
+```
+
+
+## Translation Key: altitude_variation_x
+```
+Altitude variation: %s
+```
+translated (by machine 🤖) as:
+```
+海拔高度变化：%s
+```
+
+

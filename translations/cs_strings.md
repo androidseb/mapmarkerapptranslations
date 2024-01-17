@@ -4983,3 +4983,73 @@ Další obecné informace o ochraně osobních údajů naleznete v zásadách oc
 ```
 
 
+## Translation Key: track_editing_hint_text
+```
+Switch points with the previous/next buttons, move the map around to place the points and click '-' to remove a point. Finally click save to save the edited track.
+```
+translated (by machine 🤖) as:
+```
+Přepínejte body pomocí tlačítek předchozí/další, pohybujte mapou a umístěte body a kliknutím na '-' bod odstraňte. Nakonec klikněte na Uložit pro uložení upravené stopy.
+```
+
+
+## Translation Key: duration_x
+```
+Duration: %s
+```
+translated (by machine 🤖) as:
+```
+Délka: %s
+```
+
+
+## Translation Key: minimum_speed_x
+```
+Minimum speed: %s
+```
+translated (by machine 🤖) as:
+```
+Minimální rychlost: %s
+```
+
+
+## Translation Key: minimum_moving_speed_x
+```
+Minimum moving speed: %s
+```
+translated (by machine 🤖) as:
+```
+Minimální rychlost pohybu: %s
+```
+
+
+## Translation Key: maximum_speed_x
+```
+Maximum speed: %s
+```
+translated (by machine 🤖) as:
+```
+Maximální rychlost: %s
+```
+
+
+## Translation Key: average_speed_x
+```
+Average speed: %s
+```
+translated (by machine 🤖) as:
+```
+Průměrná rychlost: %s
+```
+
+
+## Translation Key: altitude_variation_x
+```
+Altitude variation: %s
+```
+translated (by machine 🤖) as:
+```
+Změna nadmořské výšky: %s
+```
+
+

@@ -4983,3 +4983,73 @@ Gizlilik hakkında daha genel bilgileri aşağıdaki bağlantıda bulunan gizlil
 ```
 
 
+## Translation Key: track_editing_hint_text
+```
+Switch points with the previous/next buttons, move the map around to place the points and click '-' to remove a point. Finally click save to save the edited track.
+```
+translated (by machine 🤖) as:
+```
+Önceki/sonraki düğmeleriyle noktaları değiştirin, noktaları yerleştirmek için haritayı hareket ettirin ve bir noktayı kaldırmak için '-'ye tıklayın. Son olarak düzenlenen parçayı kaydetmek için kaydet'i tıklayın.
+```
+
+
+## Translation Key: duration_x
+```
+Duration: %s
+```
+translated (by machine 🤖) as:
+```
+Süre: %s
+```
+
+
+## Translation Key: minimum_speed_x
+```
+Minimum speed: %s
+```
+translated (by machine 🤖) as:
+```
+Minimum hız: %s
+```
+
+
+## Translation Key: minimum_moving_speed_x
+```
+Minimum moving speed: %s
+```
+translated (by machine 🤖) as:
+```
+Minimum hareket hızı: %s
+```
+
+
+## Translation Key: maximum_speed_x
+```
+Maximum speed: %s
+```
+translated (by machine 🤖) as:
+```
+Maksimum hız: %s
+```
+
+
+## Translation Key: average_speed_x
+```
+Average speed: %s
+```
+translated (by machine 🤖) as:
+```
+Ortalama hız: %s
+```
+
+
+## Translation Key: altitude_variation_x
+```
+Altitude variation: %s
+```
+translated (by machine 🤖) as:
+```
+İrtifa değişimi: %s
+```
+
+

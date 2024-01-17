@@ -4983,3 +4983,73 @@ Az adatvédelemmel kapcsolatos általánosabb információkat az alábbi linken 
 ```
 
 
+## Translation Key: track_editing_hint_text
+```
+Switch points with the previous/next buttons, move the map around to place the points and click '-' to remove a point. Finally click save to save the edited track.
+```
+translated (by machine 🤖) as:
+```
+Váltson a pontok között az előző/következő gombokkal, mozgassa a térképet a pontok elhelyezéséhez, majd kattintson a '-' gombra egy pont eltávolításához. Végül kattintson a Mentés gombra a szerkesztett szám mentéséhez.
+```
+
+
+## Translation Key: duration_x
+```
+Duration: %s
+```
+translated (by machine 🤖) as:
+```
+Időtartam: %s
+```
+
+
+## Translation Key: minimum_speed_x
+```
+Minimum speed: %s
+```
+translated (by machine 🤖) as:
+```
+Minimális sebesség: %s
+```
+
+
+## Translation Key: minimum_moving_speed_x
+```
+Minimum moving speed: %s
+```
+translated (by machine 🤖) as:
+```
+Minimális mozgási sebesség: %s
+```
+
+
+## Translation Key: maximum_speed_x
+```
+Maximum speed: %s
+```
+translated (by machine 🤖) as:
+```
+Maximális sebesség: %s
+```
+
+
+## Translation Key: average_speed_x
+```
+Average speed: %s
+```
+translated (by machine 🤖) as:
+```
+Átlagsebesség: %s
+```
+
+
+## Translation Key: altitude_variation_x
+```
+Altitude variation: %s
+```
+translated (by machine 🤖) as:
+```
+Magasságváltozás: %s
+```
+
+

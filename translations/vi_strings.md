@@ -4983,3 +4983,73 @@ Bạn có thể tìm thêm thông tin chung về quyền riêng tư trong chính
 ```
 
 
+## Translation Key: track_editing_hint_text
+```
+Switch points with the previous/next buttons, move the map around to place the points and click '-' to remove a point. Finally click save to save the edited track.
+```
+translated (by machine 🤖) as:
+```
+Chuyển đổi điểm bằng các nút trước/tiếp theo, di chuyển bản đồ xung quanh để đặt các điểm và nhấp vào '-' để xóa một điểm. Cuối cùng nhấn lưu để lưu bản nhạc đã chỉnh sửa.
+```
+
+
+## Translation Key: duration_x
+```
+Duration: %s
+```
+translated (by machine 🤖) as:
+```
+Thời lượng: %s
+```
+
+
+## Translation Key: minimum_speed_x
+```
+Minimum speed: %s
+```
+translated (by machine 🤖) as:
+```
+Tốc độ tối thiểu: %s
+```
+
+
+## Translation Key: minimum_moving_speed_x
+```
+Minimum moving speed: %s
+```
+translated (by machine 🤖) as:
+```
+Tốc độ di chuyển tối thiểu: %s
+```
+
+
+## Translation Key: maximum_speed_x
+```
+Maximum speed: %s
+```
+translated (by machine 🤖) as:
+```
+Tốc độ tối đa: %s
+```
+
+
+## Translation Key: average_speed_x
+```
+Average speed: %s
+```
+translated (by machine 🤖) as:
+```
+Tốc độ trung bình: %s
+```
+
+
+## Translation Key: altitude_variation_x
+```
+Altitude variation: %s
+```
+translated (by machine 🤖) as:
+```
+Sự thay đổi độ cao: %s
+```
+
+

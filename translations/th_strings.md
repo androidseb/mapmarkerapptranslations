@@ -4983,3 +4983,73 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: track_editing_hint_text
+```
+Switch points with the previous/next buttons, move the map around to place the points and click '-' to remove a point. Finally click save to save the edited track.
+```
+translated (by machine 🤖) as:
+```
+สลับจุดด้วยปุ่มก่อนหน้า/ถัดไป เลื่อนแผนที่ไปรอบๆ เพื่อวางจุด และคลิก '-' เพื่อลบจุด สุดท้ายคลิกบันทึกเพื่อบันทึกแทร็กที่แก้ไข
+```
+
+
+## Translation Key: duration_x
+```
+Duration: %s
+```
+translated (by machine 🤖) as:
+```
+ระยะเวลา: %s
+```
+
+
+## Translation Key: minimum_speed_x
+```
+Minimum speed: %s
+```
+translated (by machine 🤖) as:
+```
+ความเร็วขั้นต่ำ: %s
+```
+
+
+## Translation Key: minimum_moving_speed_x
+```
+Minimum moving speed: %s
+```
+translated (by machine 🤖) as:
+```
+ความเร็วในการเคลื่อนที่ขั้นต่ำ: %s
+```
+
+
+## Translation Key: maximum_speed_x
+```
+Maximum speed: %s
+```
+translated (by machine 🤖) as:
+```
+ความเร็วสูงสุด: %s
+```
+
+
+## Translation Key: average_speed_x
+```
+Average speed: %s
+```
+translated (by machine 🤖) as:
+```
+ความเร็วเฉลี่ย: %s
+```
+
+
+## Translation Key: altitude_variation_x
+```
+Altitude variation: %s
+```
+translated (by machine 🤖) as:
+```
+การเปลี่ยนแปลงระดับความสูง: %s
+```
+
+

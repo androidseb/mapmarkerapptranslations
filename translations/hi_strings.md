@@ -4983,3 +4983,73 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: track_editing_hint_text
+```
+Switch points with the previous/next buttons, move the map around to place the points and click '-' to remove a point. Finally click save to save the edited track.
+```
+translated (by machine 🤖) as:
+```
+पिछले/अगले बटन के साथ बिंदुओं को स्विच करें, बिंदुओं को रखने के लिए मानचित्र को चारों ओर घुमाएँ और एक बिंदु को हटाने के लिए '-' पर क्लिक करें। अंत में संपादित ट्रैक को सहेजने के लिए सेव पर क्लिक करें।
+```
+
+
+## Translation Key: duration_x
+```
+Duration: %s
+```
+translated (by machine 🤖) as:
+```
+अवधि: %s
+```
+
+
+## Translation Key: minimum_speed_x
+```
+Minimum speed: %s
+```
+translated (by machine 🤖) as:
+```
+न्यूनतम गति: %s
+```
+
+
+## Translation Key: minimum_moving_speed_x
+```
+Minimum moving speed: %s
+```
+translated (by machine 🤖) as:
+```
+न्यूनतम चलती गति: %s
+```
+
+
+## Translation Key: maximum_speed_x
+```
+Maximum speed: %s
+```
+translated (by machine 🤖) as:
+```
+अधिकतम गति: %s
+```
+
+
+## Translation Key: average_speed_x
+```
+Average speed: %s
+```
+translated (by machine 🤖) as:
+```
+औसत गति: %s
+```
+
+
+## Translation Key: altitude_variation_x
+```
+Altitude variation: %s
+```
+translated (by machine 🤖) as:
+```
+ऊंचाई भिन्नता: %s
+```
+
+

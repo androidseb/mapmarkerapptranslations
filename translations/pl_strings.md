@@ -4983,3 +4983,73 @@ Więcej ogólnych informacji na temat prywatności znajdziesz w polityce prywatn
 ```
 
 
+## Translation Key: track_editing_hint_text
+```
+Switch points with the previous/next buttons, move the map around to place the points and click '-' to remove a point. Finally click save to save the edited track.
+```
+translated (by machine 🤖) as:
+```
+Przełączaj punkty za pomocą przycisków Poprzedni/Dalej, przesuwaj mapę, aby umieścić punkty i kliknij „-”, aby usunąć punkt. Na koniec kliknij przycisk Zapisz, aby zapisać edytowany utwór.
+```
+
+
+## Translation Key: duration_x
+```
+Duration: %s
+```
+translated (by machine 🤖) as:
+```
+Czas trwania: %s
+```
+
+
+## Translation Key: minimum_speed_x
+```
+Minimum speed: %s
+```
+translated (by machine 🤖) as:
+```
+Minimalna prędkość: %s
+```
+
+
+## Translation Key: minimum_moving_speed_x
+```
+Minimum moving speed: %s
+```
+translated (by machine 🤖) as:
+```
+Minimalna prędkość poruszania się: %s
+```
+
+
+## Translation Key: maximum_speed_x
+```
+Maximum speed: %s
+```
+translated (by machine 🤖) as:
+```
+Maksymalna prędkość: %s
+```
+
+
+## Translation Key: average_speed_x
+```
+Average speed: %s
+```
+translated (by machine 🤖) as:
+```
+Średnia prędkość: %s
+```
+
+
+## Translation Key: altitude_variation_x
+```
+Altitude variation: %s
+```
+translated (by machine 🤖) as:
+```
+Zmiana wysokości: %s
+```
+
+

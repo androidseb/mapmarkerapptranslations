@@ -4983,3 +4983,73 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: track_editing_hint_text
+```
+Switch points with the previous/next buttons, move the map around to place the points and click '-' to remove a point. Finally click save to save the edited track.
+```
+translated (by machine 🤖) as:
+```
+ប្តូរចំណុចដោយប្រើប៊ូតុងមុន/បន្ទាប់ រំកិលផែនទីជុំវិញដើម្បីដាក់ចំណុច ហើយចុច '-' ដើម្បីលុបចំណុចមួយ។ ចុងក្រោយចុច Save ដើម្បីរក្សាទុកបទដែលបានកែសម្រួល។
+```
+
+
+## Translation Key: duration_x
+```
+Duration: %s
+```
+translated (by machine 🤖) as:
+```
+រយៈពេល៖ %s
+```
+
+
+## Translation Key: minimum_speed_x
+```
+Minimum speed: %s
+```
+translated (by machine 🤖) as:
+```
+ល្បឿនអប្បបរមា៖ %s
+```
+
+
+## Translation Key: minimum_moving_speed_x
+```
+Minimum moving speed: %s
+```
+translated (by machine 🤖) as:
+```
+ល្បឿនផ្លាស់ទីអប្បបរមា៖ %s
+```
+
+
+## Translation Key: maximum_speed_x
+```
+Maximum speed: %s
+```
+translated (by machine 🤖) as:
+```
+ល្បឿនអតិបរមា៖ %s
+```
+
+
+## Translation Key: average_speed_x
+```
+Average speed: %s
+```
+translated (by machine 🤖) as:
+```
+ល្បឿនមធ្យម៖ %s
+```
+
+
+## Translation Key: altitude_variation_x
+```
+Altitude variation: %s
+```
+translated (by machine 🤖) as:
+```
+ការប្រែប្រួលកម្ពស់៖ %s
+```
+
+

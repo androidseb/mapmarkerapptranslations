@@ -4983,3 +4983,73 @@ Weitere allgemeine Informationen zum Datenschutz finden Sie in der Datenschutzer
 ```
 
 
+## Translation Key: track_editing_hint_text
+```
+Switch points with the previous/next buttons, move the map around to place the points and click '-' to remove a point. Finally click save to save the edited track.
+```
+translated (by machine 🤖) as:
+```
+Wechseln Sie die Punkte mit den Schaltflächen „Zurück“ und „Weiter“, verschieben Sie die Karte, um die Punkte zu platzieren, und klicken Sie auf „-“, um einen Punkt zu entfernen. Klicken Sie abschließend auf Speichern, um den bearbeiteten Track zu speichern.
+```
+
+
+## Translation Key: duration_x
+```
+Duration: %s
+```
+translated (by machine 🤖) as:
+```
+Dauer: %s
+```
+
+
+## Translation Key: minimum_speed_x
+```
+Minimum speed: %s
+```
+translated (by machine 🤖) as:
+```
+Mindestgeschwindigkeit: %s
+```
+
+
+## Translation Key: minimum_moving_speed_x
+```
+Minimum moving speed: %s
+```
+translated (by machine 🤖) as:
+```
+Mindestbewegungsgeschwindigkeit: %s
+```
+
+
+## Translation Key: maximum_speed_x
+```
+Maximum speed: %s
+```
+translated (by machine 🤖) as:
+```
+Höchstgeschwindigkeit: %s
+```
+
+
+## Translation Key: average_speed_x
+```
+Average speed: %s
+```
+translated (by machine 🤖) as:
+```
+Durchschnittsgeschwindigkeit: %s
+```
+
+
+## Translation Key: altitude_variation_x
+```
+Altitude variation: %s
+```
+translated (by machine 🤖) as:
+```
+Höhenunterschied: %s
+```
+
+
