@@ -5053,3 +5053,157 @@ Höjdvariation: %s
 ```
 
 
+## Translation Key: track_details
+```
+Track details
+```
+translated (by machine 🤖) as:
+```
+Spårdetaljer
+```
+
+
+## Translation Key: distance
+```
+Distance
+```
+translated (by machine 🤖) as:
+```
+Distans
+```
+
+
+## Translation Key: speed
+```
+Speed
+```
+translated (by machine 🤖) as:
+```
+Fart
+```
+
+
+## Translation Key: altitude
+```
+Altitude
+```
+translated (by machine 🤖) as:
+```
+Höjd över havet
+```
+
+
+## Translation Key: x_hours_y_minutes_z_seconds
+```
+%1$s hours %2$s minutes %3$s seconds
+```
+translated (by machine 🤖) as:
+```
+%1$s timmar %2$s minuter %3$s sekunder
+```
+
+
+## Translation Key: circle_radius
+```
+Circle radius
+```
+translated (by machine 🤖) as:
+```
+Cirkelradie
+```
+
+
+## Translation Key: enter_circle_radius_with_units_x
+```
+Enter circle radius (%s)
+```
+translated (by machine 🤖) as:
+```
+Ange cirkelradie (%s)
+```
+
+
+## Translation Key: use_premium_code_title
+```
+Use premium code
+```
+translated (by machine 🤖) as:
+```
+Använd premiumkod
+```
+
+
+## Translation Key: use_premium_code_description
+```
+Activate the premium from a code generated from another device
+```
+translated (by machine 🤖) as:
+```
+Aktivera premien från en kod som genereras från en annan enhet
+```
+
+
+## Translation Key: hint_enter_premium_code
+```
+Enter premium code
+```
+translated (by machine 🤖) as:
+```
+Ange premiumkod
+```
+
+
+## Translation Key: premium_activation_failed_reason_x
+```
+Failed to activate the premium:
+%s
+```
+translated (by machine 🤖) as:
+```
+Det gick inte att aktivera premien:
+%s
+```
+
+
+## Translation Key: hint_for_guest_premium_access
+```
+You've activated the guest premium access on this device
+```
+translated (by machine 🤖) as:
+```
+Du har aktiverat gästpremiumåtkomsten på den här enheten
+```
+
+
+## Translation Key: generate_premium_code_title
+```
+Generate premium code
+```
+translated (by machine 🤖) as:
+```
+Skapa premiumkod
+```
+
+
+## Translation Key: generate_premium_code_description
+```
+Generate a premium code to activate the premium on one of your other devices
+```
+translated (by machine 🤖) as:
+```
+Skapa en premiumkod för att aktivera premium på en av dina andra enheter
+```
+
+
+## Translation Key: premium_code_generated_hint_message_x
+```
+Premium code successfully generated: %s
+Use this code from your other device to activate the premium there.
+```
+translated (by machine 🤖) as:
+```
+Premiumkoden har skapats: %s
+Använd den här koden från din andra enhet för att aktivera premien där.
+```
+
+

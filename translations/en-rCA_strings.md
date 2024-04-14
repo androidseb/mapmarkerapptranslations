@@ -5053,3 +5053,157 @@ Altitude variation: %s
 ```
 
 
+## Translation Key: track_details
+```
+Track details
+```
+translated (by machine 🤖) as:
+```
+Track details
+```
+
+
+## Translation Key: distance
+```
+Distance
+```
+translated (by machine 🤖) as:
+```
+Distance
+```
+
+
+## Translation Key: speed
+```
+Speed
+```
+translated (by machine 🤖) as:
+```
+Speed
+```
+
+
+## Translation Key: altitude
+```
+Altitude
+```
+translated (by machine 🤖) as:
+```
+Altitude
+```
+
+
+## Translation Key: x_hours_y_minutes_z_seconds
+```
+%1$s hours %2$s minutes %3$s seconds
+```
+translated (by machine 🤖) as:
+```
+%1$s hours %2$s minutes %3$s seconds
+```
+
+
+## Translation Key: circle_radius
+```
+Circle radius
+```
+translated (by machine 🤖) as:
+```
+Circle radius
+```
+
+
+## Translation Key: enter_circle_radius_with_units_x
+```
+Enter circle radius (%s)
+```
+translated (by machine 🤖) as:
+```
+Enter circle radius (%s)
+```
+
+
+## Translation Key: use_premium_code_title
+```
+Use premium code
+```
+translated (by machine 🤖) as:
+```
+Use premium code
+```
+
+
+## Translation Key: use_premium_code_description
+```
+Activate the premium from a code generated from another device
+```
+translated (by machine 🤖) as:
+```
+Activate the premium from a code generated from another device
+```
+
+
+## Translation Key: hint_enter_premium_code
+```
+Enter premium code
+```
+translated (by machine 🤖) as:
+```
+Enter premium code
+```
+
+
+## Translation Key: premium_activation_failed_reason_x
+```
+Failed to activate the premium:
+%s
+```
+translated (by machine 🤖) as:
+```
+Failed to activate the premium:
+%s
+```
+
+
+## Translation Key: hint_for_guest_premium_access
+```
+You've activated the guest premium access on this device
+```
+translated (by machine 🤖) as:
+```
+You've activated the guest premium access on this device
+```
+
+
+## Translation Key: generate_premium_code_title
+```
+Generate premium code
+```
+translated (by machine 🤖) as:
+```
+Generate premium code
+```
+
+
+## Translation Key: generate_premium_code_description
+```
+Generate a premium code to activate the premium on one of your other devices
+```
+translated (by machine 🤖) as:
+```
+Generate a premium code to activate the premium on one of your other devices
+```
+
+
+## Translation Key: premium_code_generated_hint_message_x
+```
+Premium code successfully generated: %s
+Use this code from your other device to activate the premium there.
+```
+translated (by machine 🤖) as:
+```
+Premium code successfully generated: %s
+Use this code from your other device to activate the premium there.
+```
+
+

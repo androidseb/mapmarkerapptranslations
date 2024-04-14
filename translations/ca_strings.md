@@ -5053,3 +5053,157 @@ Variació d'altitud: %s
 ```
 
 
+## Translation Key: track_details
+```
+Track details
+```
+translated (by machine 🤖) as:
+```
+Detalls del seguiment
+```
+
+
+## Translation Key: distance
+```
+Distance
+```
+translated (by machine 🤖) as:
+```
+Distància
+```
+
+
+## Translation Key: speed
+```
+Speed
+```
+translated (by machine 🤖) as:
+```
+Velocitat
+```
+
+
+## Translation Key: altitude
+```
+Altitude
+```
+translated (by machine 🤖) as:
+```
+Altitud
+```
+
+
+## Translation Key: x_hours_y_minutes_z_seconds
+```
+%1$s hours %2$s minutes %3$s seconds
+```
+translated (by machine 🤖) as:
+```
+%1$s hores %2$s minuts %3$s segons
+```
+
+
+## Translation Key: circle_radius
+```
+Circle radius
+```
+translated (by machine 🤖) as:
+```
+Radi del cercle
+```
+
+
+## Translation Key: enter_circle_radius_with_units_x
+```
+Enter circle radius (%s)
+```
+translated (by machine 🤖) as:
+```
+Introduïu el radi del cercle (%s)
+```
+
+
+## Translation Key: use_premium_code_title
+```
+Use premium code
+```
+translated (by machine 🤖) as:
+```
+Utilitzeu el codi premium
+```
+
+
+## Translation Key: use_premium_code_description
+```
+Activate the premium from a code generated from another device
+```
+translated (by machine 🤖) as:
+```
+Activa la premium a partir d'un codi generat des d'un altre dispositiu
+```
+
+
+## Translation Key: hint_enter_premium_code
+```
+Enter premium code
+```
+translated (by machine 🤖) as:
+```
+Introduïu el codi premium
+```
+
+
+## Translation Key: premium_activation_failed_reason_x
+```
+Failed to activate the premium:
+%s
+```
+translated (by machine 🤖) as:
+```
+No s'ha pogut activar la prima:
+%s
+```
+
+
+## Translation Key: hint_for_guest_premium_access
+```
+You've activated the guest premium access on this device
+```
+translated (by machine 🤖) as:
+```
+Heu activat l'accés premium de convidat en aquest dispositiu
+```
+
+
+## Translation Key: generate_premium_code_title
+```
+Generate premium code
+```
+translated (by machine 🤖) as:
+```
+Generar codi premium
+```
+
+
+## Translation Key: generate_premium_code_description
+```
+Generate a premium code to activate the premium on one of your other devices
+```
+translated (by machine 🤖) as:
+```
+Genereu un codi premium per activar-lo en un dels vostres altres dispositius
+```
+
+
+## Translation Key: premium_code_generated_hint_message_x
+```
+Premium code successfully generated: %s
+Use this code from your other device to activate the premium there.
+```
+translated (by machine 🤖) as:
+```
+Codi Premium generat correctament: %s
+Utilitzeu aquest codi des del vostre altre dispositiu per activar-hi el premium.
+```
+
+

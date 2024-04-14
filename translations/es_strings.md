@@ -5053,3 +5053,157 @@ Variación de altitud: %s
 ```
 
 
+## Translation Key: track_details
+```
+Track details
+```
+translated (by machine 🤖) as:
+```
+Detalles de la pista
+```
+
+
+## Translation Key: distance
+```
+Distance
+```
+translated (by machine 🤖) as:
+```
+Distancia
+```
+
+
+## Translation Key: speed
+```
+Speed
+```
+translated (by machine 🤖) as:
+```
+Velocidad
+```
+
+
+## Translation Key: altitude
+```
+Altitude
+```
+translated (by machine 🤖) as:
+```
+Altitud
+```
+
+
+## Translation Key: x_hours_y_minutes_z_seconds
+```
+%1$s hours %2$s minutes %3$s seconds
+```
+translated (by machine 🤖) as:
+```
+%1$s horas %2$s minutos %3$s segundos
+```
+
+
+## Translation Key: circle_radius
+```
+Circle radius
+```
+translated (by machine 🤖) as:
+```
+Radio del círculo
+```
+
+
+## Translation Key: enter_circle_radius_with_units_x
+```
+Enter circle radius (%s)
+```
+translated (by machine 🤖) as:
+```
+Introduzca el radio del círculo (%s)
+```
+
+
+## Translation Key: use_premium_code_title
+```
+Use premium code
+```
+translated (by machine 🤖) as:
+```
+Usar código premium
+```
+
+
+## Translation Key: use_premium_code_description
+```
+Activate the premium from a code generated from another device
+```
+translated (by machine 🤖) as:
+```
+Activar la prima a partir de un código generado desde otro dispositivo
+```
+
+
+## Translation Key: hint_enter_premium_code
+```
+Enter premium code
+```
+translated (by machine 🤖) as:
+```
+Introduce el código premium
+```
+
+
+## Translation Key: premium_activation_failed_reason_x
+```
+Failed to activate the premium:
+%s
+```
+translated (by machine 🤖) as:
+```
+No se pudo activar la prima:
+%s
+```
+
+
+## Translation Key: hint_for_guest_premium_access
+```
+You've activated the guest premium access on this device
+```
+translated (by machine 🤖) as:
+```
+Has activado el acceso premium para invitados en este dispositivo
+```
+
+
+## Translation Key: generate_premium_code_title
+```
+Generate premium code
+```
+translated (by machine 🤖) as:
+```
+Generar código premium
+```
+
+
+## Translation Key: generate_premium_code_description
+```
+Generate a premium code to activate the premium on one of your other devices
+```
+translated (by machine 🤖) as:
+```
+Genera un código premium para activar la prima en uno de tus otros dispositivos
+```
+
+
+## Translation Key: premium_code_generated_hint_message_x
+```
+Premium code successfully generated: %s
+Use this code from your other device to activate the premium there.
+```
+translated (by machine 🤖) as:
+```
+Código premium generado exitosamente: %s
+Utilice este código desde su otro dispositivo para activar la prima allí.
+```
+
+

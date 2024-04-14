@@ -5053,3 +5053,157 @@ Magasságváltozás: %s
 ```
 
 
+## Translation Key: track_details
+```
+Track details
+```
+translated (by machine 🤖) as:
+```
+A pálya részletei
+```
+
+
+## Translation Key: distance
+```
+Distance
+```
+translated (by machine 🤖) as:
+```
+Távolság
+```
+
+
+## Translation Key: speed
+```
+Speed
+```
+translated (by machine 🤖) as:
+```
+Sebesség
+```
+
+
+## Translation Key: altitude
+```
+Altitude
+```
+translated (by machine 🤖) as:
+```
+Magasság
+```
+
+
+## Translation Key: x_hours_y_minutes_z_seconds
+```
+%1$s hours %2$s minutes %3$s seconds
+```
+translated (by machine 🤖) as:
+```
+%1$s óra %2$s perc %3$s másodperc
+```
+
+
+## Translation Key: circle_radius
+```
+Circle radius
+```
+translated (by machine 🤖) as:
+```
+A kör sugara
+```
+
+
+## Translation Key: enter_circle_radius_with_units_x
+```
+Enter circle radius (%s)
+```
+translated (by machine 🤖) as:
+```
+Írja be a kör sugarát (%s)
+```
+
+
+## Translation Key: use_premium_code_title
+```
+Use premium code
+```
+translated (by machine 🤖) as:
+```
+Használjon prémium kódot
+```
+
+
+## Translation Key: use_premium_code_description
+```
+Activate the premium from a code generated from another device
+```
+translated (by machine 🤖) as:
+```
+Aktiválja a prémiumot egy másik eszközről generált kódból
+```
+
+
+## Translation Key: hint_enter_premium_code
+```
+Enter premium code
+```
+translated (by machine 🤖) as:
+```
+Írja be a prémium kódot
+```
+
+
+## Translation Key: premium_activation_failed_reason_x
+```
+Failed to activate the premium:
+%s
+```
+translated (by machine 🤖) as:
+```
+Nem sikerült aktiválni a prémiumot:
+%s
+```
+
+
+## Translation Key: hint_for_guest_premium_access
+```
+You've activated the guest premium access on this device
+```
+translated (by machine 🤖) as:
+```
+Aktiválta a vendég prémium hozzáférést ezen az eszközön
+```
+
+
+## Translation Key: generate_premium_code_title
+```
+Generate premium code
+```
+translated (by machine 🤖) as:
+```
+Prémium kód generálása
+```
+
+
+## Translation Key: generate_premium_code_description
+```
+Generate a premium code to activate the premium on one of your other devices
+```
+translated (by machine 🤖) as:
+```
+Generáljon prémium kódot a prémium aktiválásához az egyik másik eszközén
+```
+
+
+## Translation Key: premium_code_generated_hint_message_x
+```
+Premium code successfully generated: %s
+Use this code from your other device to activate the premium there.
+```
+translated (by machine 🤖) as:
+```
+A prémium kód sikeresen generálva: %s
+Használja ezt a kódot a másik eszközéről a prémium aktiválásához.
+```
+
+

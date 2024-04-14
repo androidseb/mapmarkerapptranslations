@@ -5053,3 +5053,157 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: track_details
+```
+Track details
+```
+translated (by machine 🤖) as:
+```
+ติดตามรายละเอียด
+```
+
+
+## Translation Key: distance
+```
+Distance
+```
+translated (by machine 🤖) as:
+```
+ระยะทาง
+```
+
+
+## Translation Key: speed
+```
+Speed
+```
+translated (by machine 🤖) as:
+```
+ความเร็ว
+```
+
+
+## Translation Key: altitude
+```
+Altitude
+```
+translated (by machine 🤖) as:
+```
+ระดับความสูง
+```
+
+
+## Translation Key: x_hours_y_minutes_z_seconds
+```
+%1$s hours %2$s minutes %3$s seconds
+```
+translated (by machine 🤖) as:
+```
+%1$s ชั่วโมง %2$s นาที %3$s วินาที
+```
+
+
+## Translation Key: circle_radius
+```
+Circle radius
+```
+translated (by machine 🤖) as:
+```
+รัศมีวงกลม
+```
+
+
+## Translation Key: enter_circle_radius_with_units_x
+```
+Enter circle radius (%s)
+```
+translated (by machine 🤖) as:
+```
+ป้อนรัศมีวงกลม (%s)
+```
+
+
+## Translation Key: use_premium_code_title
+```
+Use premium code
+```
+translated (by machine 🤖) as:
+```
+ใช้รหัสพรีเมี่ยม
+```
+
+
+## Translation Key: use_premium_code_description
+```
+Activate the premium from a code generated from another device
+```
+translated (by machine 🤖) as:
+```
+เปิดใช้งานพรีเมียมจากรหัสที่สร้างจากอุปกรณ์อื่น
+```
+
+
+## Translation Key: hint_enter_premium_code
+```
+Enter premium code
+```
+translated (by machine 🤖) as:
+```
+ใส่รหัสพรีเมี่ยม
+```
+
+
+## Translation Key: premium_activation_failed_reason_x
+```
+Failed to activate the premium:
+%s
+```
+translated (by machine 🤖) as:
+```
+ไม่สามารถเปิดใช้งานพรีเมี่ยมได้:
+%s
+```
+
+
+## Translation Key: hint_for_guest_premium_access
+```
+You've activated the guest premium access on this device
+```
+translated (by machine 🤖) as:
+```
+คุณได้เปิดใช้งานการเข้าถึงแบบพรีเมียมของผู้มาเยือนบนอุปกรณ์นี้แล้ว
+```
+
+
+## Translation Key: generate_premium_code_title
+```
+Generate premium code
+```
+translated (by machine 🤖) as:
+```
+สร้างรหัสพรีเมี่ยม
+```
+
+
+## Translation Key: generate_premium_code_description
+```
+Generate a premium code to activate the premium on one of your other devices
+```
+translated (by machine 🤖) as:
+```
+สร้างรหัสพรีเมียมเพื่อเปิดใช้งานพรีเมียมบนอุปกรณ์อื่นของคุณ
+```
+
+
+## Translation Key: premium_code_generated_hint_message_x
+```
+Premium code successfully generated: %s
+Use this code from your other device to activate the premium there.
+```
+translated (by machine 🤖) as:
+```
+สร้างรหัสพรีเมี่ยมเรียบร้อยแล้ว: %s
+ใช้รหัสนี้จากอุปกรณ์อื่นของคุณเพื่อเปิดใช้งานพรีเมียมที่นั่น
+```
+
+

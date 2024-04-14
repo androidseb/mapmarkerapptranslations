@@ -5053,3 +5053,157 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: track_details
+```
+Track details
+```
+translated (by machine 🤖) as:
+```
+Λεπτομέρειες κομματιού
+```
+
+
+## Translation Key: distance
+```
+Distance
+```
+translated (by machine 🤖) as:
+```
+Απόσταση
+```
+
+
+## Translation Key: speed
+```
+Speed
+```
+translated (by machine 🤖) as:
+```
+Ταχύτητα
+```
+
+
+## Translation Key: altitude
+```
+Altitude
+```
+translated (by machine 🤖) as:
+```
+Υψόμετρο
+```
+
+
+## Translation Key: x_hours_y_minutes_z_seconds
+```
+%1$s hours %2$s minutes %3$s seconds
+```
+translated (by machine 🤖) as:
+```
+%1$s ώρες %2$s λεπτά %3$s δευτερόλεπτα
+```
+
+
+## Translation Key: circle_radius
+```
+Circle radius
+```
+translated (by machine 🤖) as:
+```
+Ακτίνα κύκλου
+```
+
+
+## Translation Key: enter_circle_radius_with_units_x
+```
+Enter circle radius (%s)
+```
+translated (by machine 🤖) as:
+```
+Εισαγάγετε την ακτίνα κύκλου (%s)
+```
+
+
+## Translation Key: use_premium_code_title
+```
+Use premium code
+```
+translated (by machine 🤖) as:
+```
+Χρησιμοποιήστε κωδικό premium
+```
+
+
+## Translation Key: use_premium_code_description
+```
+Activate the premium from a code generated from another device
+```
+translated (by machine 🤖) as:
+```
+Ενεργοποιήστε το premium από έναν κωδικό που δημιουργήθηκε από άλλη συσκευή
+```
+
+
+## Translation Key: hint_enter_premium_code
+```
+Enter premium code
+```
+translated (by machine 🤖) as:
+```
+Εισαγάγετε τον κωδικό premium
+```
+
+
+## Translation Key: premium_activation_failed_reason_x
+```
+Failed to activate the premium:
+%s
+```
+translated (by machine 🤖) as:
+```
+Απέτυχε η ενεργοποίηση του premium:
+%s
+```
+
+
+## Translation Key: hint_for_guest_premium_access
+```
+You've activated the guest premium access on this device
+```
+translated (by machine 🤖) as:
+```
+Έχετε ενεργοποιήσει την premium πρόσβαση επισκέπτη σε αυτήν τη συσκευή
+```
+
+
+## Translation Key: generate_premium_code_title
+```
+Generate premium code
+```
+translated (by machine 🤖) as:
+```
+Δημιουργήστε premium κωδικό
+```
+
+
+## Translation Key: generate_premium_code_description
+```
+Generate a premium code to activate the premium on one of your other devices
+```
+translated (by machine 🤖) as:
+```
+Δημιουργήστε έναν κωδικό premium για να ενεργοποιήσετε το premium σε μία από τις άλλες συσκευές σας
+```
+
+
+## Translation Key: premium_code_generated_hint_message_x
+```
+Premium code successfully generated: %s
+Use this code from your other device to activate the premium there.
+```
+translated (by machine 🤖) as:
+```
+Ο κωδικός Premium δημιουργήθηκε με επιτυχία: %s
+Χρησιμοποιήστε αυτόν τον κωδικό από την άλλη συσκευή σας για να ενεργοποιήσετε το premium εκεί.
+```
+
+
