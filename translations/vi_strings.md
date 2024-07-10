@@ -5207,3 +5207,83 @@ Sử dụng mã này từ thiết bị khác của bạn để kích hoạt phí
 ```
 
 
+## Translation Key: recovery_safe_setup_title
+```
+Recovery: safe setup
+```
+translated (by machine 🤖) as:
+```
+Phục hồi: thiết lập an toàn
+```
+
+
+## Translation Key: recovery_safe_setup_description
+```
+Creates a new empty map and applies safe settings to prevent further crashes
+```
+translated (by machine 🤖) as:
+```
+Tạo bản đồ trống mới và áp dụng cài đặt an toàn để ngăn chặn sự cố tiếp theo
+```
+
+
+## Translation Key: recovery_safe_setup_applied_message
+```
+The safe setup was applied and will be effective on next launch, you can now exit the app and terminate it.
+```
+translated (by machine 🤖) as:
+```
+Thiết lập an toàn đã được áp dụng và sẽ có hiệu lực vào lần khởi chạy tiếp theo, giờ đây bạn có thể thoát khỏi ứng dụng và chấm dứt nó.
+```
+
+
+## Translation Key: recovery_export_data_title
+```
+Recovery: export data
+```
+translated (by machine 🤖) as:
+```
+Phục hồi: xuất dữ liệu
+```
+
+
+## Translation Key: recovery_export_data_description
+```
+Export locally available map data
+```
+translated (by machine 🤖) as:
+```
+Xuất dữ liệu bản đồ có sẵn tại địa phương
+```
+
+
+## Translation Key: recovery_export_partial_warning_message
+```
+Warning: the recovery export will be partial, at least one cloud media file is missing, will not be downloaded and will be replaced with an empty file during the export.
+```
+translated (by machine 🤖) as:
+```
+Cảnh báo: quá trình xuất khôi phục sẽ chỉ một phần, ít nhất một tệp phương tiện trên đám mây bị thiếu, sẽ không được tải xuống và sẽ được thay thế bằng một tệp trống trong quá trình xuất.
+```
+
+
+## Translation Key: search_source_tomtom
+```
+Tomtom Places Search
+```
+translated (by machine 🤖) as:
+```
+Tomtom Places Search
+```
+
+
+## Translation Key: short_search_source_tomtom
+```
+Tomtom
+```
+translated (by machine 🤖) as:
+```
+Tomtom
+```
+
+

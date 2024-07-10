@@ -5207,3 +5207,83 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: recovery_safe_setup_title
+```
+Recovery: safe setup
+```
+translated (by machine 🤖) as:
+```
+Восстановление: безопасная установка
+```
+
+
+## Translation Key: recovery_safe_setup_description
+```
+Creates a new empty map and applies safe settings to prevent further crashes
+```
+translated (by machine 🤖) as:
+```
+Создает новую пустую карту и применяет безопасные настройки для предотвращения дальнейших сбоев.
+```
+
+
+## Translation Key: recovery_safe_setup_applied_message
+```
+The safe setup was applied and will be effective on next launch, you can now exit the app and terminate it.
+```
+translated (by machine 🤖) as:
+```
+Безопасная настройка применена и вступит в силу при следующем запуске. Теперь вы можете выйти из приложения и закрыть его.
+```
+
+
+## Translation Key: recovery_export_data_title
+```
+Recovery: export data
+```
+translated (by machine 🤖) as:
+```
+Восстановление: экспорт данных
+```
+
+
+## Translation Key: recovery_export_data_description
+```
+Export locally available map data
+```
+translated (by machine 🤖) as:
+```
+Экспорт локально доступных картографических данных
+```
+
+
+## Translation Key: recovery_export_partial_warning_message
+```
+Warning: the recovery export will be partial, at least one cloud media file is missing, will not be downloaded and will be replaced with an empty file during the export.
+```
+translated (by machine 🤖) as:
+```
+Внимание: экспорт восстановления будет частичным, как минимум один облачный медиа-файл отсутствует, не будет загружен и при экспорте будет заменен пустым файлом.
+```
+
+
+## Translation Key: search_source_tomtom
+```
+Tomtom Places Search
+```
+translated (by machine 🤖) as:
+```
+Tomtom Places Search
+```
+
+
+## Translation Key: short_search_source_tomtom
+```
+Tomtom
+```
+translated (by machine 🤖) as:
+```
+Tomtom
+```
+
+

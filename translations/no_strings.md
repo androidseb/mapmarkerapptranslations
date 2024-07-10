@@ -5207,3 +5207,83 @@ Bruk denne koden fra den andre enheten for å aktivere premien der.
 ```
 
 
+## Translation Key: recovery_safe_setup_title
+```
+Recovery: safe setup
+```
+translated (by machine 🤖) as:
+```
+Gjenoppretting: trygt oppsett
+```
+
+
+## Translation Key: recovery_safe_setup_description
+```
+Creates a new empty map and applies safe settings to prevent further crashes
+```
+translated (by machine 🤖) as:
+```
+Oppretter et nytt tomt kart og bruker sikre innstillinger for å forhindre ytterligere krasj
+```
+
+
+## Translation Key: recovery_safe_setup_applied_message
+```
+The safe setup was applied and will be effective on next launch, you can now exit the app and terminate it.
+```
+translated (by machine 🤖) as:
+```
+Det sikre oppsettet ble brukt og vil tre i kraft ved neste lansering, du kan nå avslutte appen og avslutte den.
+```
+
+
+## Translation Key: recovery_export_data_title
+```
+Recovery: export data
+```
+translated (by machine 🤖) as:
+```
+Gjenoppretting: eksporter data
+```
+
+
+## Translation Key: recovery_export_data_description
+```
+Export locally available map data
+```
+translated (by machine 🤖) as:
+```
+Eksporter lokalt tilgjengelig kartdata
+```
+
+
+## Translation Key: recovery_export_partial_warning_message
+```
+Warning: the recovery export will be partial, at least one cloud media file is missing, will not be downloaded and will be replaced with an empty file during the export.
+```
+translated (by machine 🤖) as:
+```
+Advarsel: gjenopprettingseksporten vil være delvis, minst én skymediefil mangler, vil ikke bli lastet ned og vil bli erstattet med en tom fil under eksporten.
+```
+
+
+## Translation Key: search_source_tomtom
+```
+Tomtom Places Search
+```
+translated (by machine 🤖) as:
+```
+Tomtom Places Search
+```
+
+
+## Translation Key: short_search_source_tomtom
+```
+Tomtom
+```
+translated (by machine 🤖) as:
+```
+Tomtom
+```
+
+

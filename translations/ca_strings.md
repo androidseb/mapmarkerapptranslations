@@ -5207,3 +5207,83 @@ Utilitzeu aquest codi des del vostre altre dispositiu per activar-hi el premium.
 ```
 
 
+## Translation Key: recovery_safe_setup_title
+```
+Recovery: safe setup
+```
+translated (by machine 🤖) as:
+```
+Recuperació: configuració segura
+```
+
+
+## Translation Key: recovery_safe_setup_description
+```
+Creates a new empty map and applies safe settings to prevent further crashes
+```
+translated (by machine 🤖) as:
+```
+Crea un mapa buit nou i aplica una configuració segura per evitar més bloquejos
+```
+
+
+## Translation Key: recovery_safe_setup_applied_message
+```
+The safe setup was applied and will be effective on next launch, you can now exit the app and terminate it.
+```
+translated (by machine 🤖) as:
+```
+S'ha aplicat la configuració segura i serà efectiva el proper llançament, ara podeu sortir de l'aplicació i finalitzar-la.
+```
+
+
+## Translation Key: recovery_export_data_title
+```
+Recovery: export data
+```
+translated (by machine 🤖) as:
+```
+Recuperació: exportació de dades
+```
+
+
+## Translation Key: recovery_export_data_description
+```
+Export locally available map data
+```
+translated (by machine 🤖) as:
+```
+Exporta les dades del mapa disponibles localment
+```
+
+
+## Translation Key: recovery_export_partial_warning_message
+```
+Warning: the recovery export will be partial, at least one cloud media file is missing, will not be downloaded and will be replaced with an empty file during the export.
+```
+translated (by machine 🤖) as:
+```
+Avís: l'exportació de recuperació serà parcial, falta almenys un fitxer multimèdia al núvol, no es baixarà i es substituirà per un fitxer buit durant l'exportació.
+```
+
+
+## Translation Key: search_source_tomtom
+```
+Tomtom Places Search
+```
+translated (by machine 🤖) as:
+```
+Tomtom Places Search
+```
+
+
+## Translation Key: short_search_source_tomtom
+```
+Tomtom
+```
+translated (by machine 🤖) as:
+```
+Tomtom
+```
+
+

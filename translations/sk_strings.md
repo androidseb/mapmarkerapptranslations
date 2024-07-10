@@ -5207,3 +5207,83 @@ Použite tento kód zo svojho druhého zariadenia na aktiváciu prémie tam.
 ```
 
 
+## Translation Key: recovery_safe_setup_title
+```
+Recovery: safe setup
+```
+translated (by machine 🤖) as:
+```
+Obnova: bezpečné nastavenie
+```
+
+
+## Translation Key: recovery_safe_setup_description
+```
+Creates a new empty map and applies safe settings to prevent further crashes
+```
+translated (by machine 🤖) as:
+```
+Vytvorí novú prázdnu mapu a použije bezpečné nastavenia, aby sa zabránilo ďalším zlyhaniam
+```
+
+
+## Translation Key: recovery_safe_setup_applied_message
+```
+The safe setup was applied and will be effective on next launch, you can now exit the app and terminate it.
+```
+translated (by machine 🤖) as:
+```
+Bezpečné nastavenie bolo použité a bude účinné pri ďalšom spustení. Teraz môžete aplikáciu ukončiť a ukončiť ju.
+```
+
+
+## Translation Key: recovery_export_data_title
+```
+Recovery: export data
+```
+translated (by machine 🤖) as:
+```
+Obnova: export údajov
+```
+
+
+## Translation Key: recovery_export_data_description
+```
+Export locally available map data
+```
+translated (by machine 🤖) as:
+```
+Exportujte lokálne dostupné mapové údaje
+```
+
+
+## Translation Key: recovery_export_partial_warning_message
+```
+Warning: the recovery export will be partial, at least one cloud media file is missing, will not be downloaded and will be replaced with an empty file during the export.
+```
+translated (by machine 🤖) as:
+```
+Upozornenie: Export obnovy bude čiastočný, chýba aspoň jeden súbor cloudového média, nestiahne sa a počas exportu bude nahradený prázdnym súborom.
+```
+
+
+## Translation Key: search_source_tomtom
+```
+Tomtom Places Search
+```
+translated (by machine 🤖) as:
+```
+Tomtom Places Search
+```
+
+
+## Translation Key: short_search_source_tomtom
+```
+Tomtom
+```
+translated (by machine 🤖) as:
+```
+Tomtom
+```
+
+

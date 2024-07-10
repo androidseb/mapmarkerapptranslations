@@ -5207,3 +5207,83 @@ Käytä tätä koodia toisesta laitteestasi aktivoidaksesi premium siellä.
 ```
 
 
+## Translation Key: recovery_safe_setup_title
+```
+Recovery: safe setup
+```
+translated (by machine 🤖) as:
+```
+Palautus: turvallinen asennus
+```
+
+
+## Translation Key: recovery_safe_setup_description
+```
+Creates a new empty map and applies safe settings to prevent further crashes
+```
+translated (by machine 🤖) as:
+```
+Luo uuden tyhjän kartan ja käyttää turvallisia asetuksia estääkseen uudet kaatumiset
+```
+
+
+## Translation Key: recovery_safe_setup_applied_message
+```
+The safe setup was applied and will be effective on next launch, you can now exit the app and terminate it.
+```
+translated (by machine 🤖) as:
+```
+Turvallinen asennus otettiin käyttöön ja se tulee voimaan seuraavan käynnistyksen yhteydessä. Voit nyt poistua sovelluksesta ja lopettaa sen.
+```
+
+
+## Translation Key: recovery_export_data_title
+```
+Recovery: export data
+```
+translated (by machine 🤖) as:
+```
+Palautus: vie tiedot
+```
+
+
+## Translation Key: recovery_export_data_description
+```
+Export locally available map data
+```
+translated (by machine 🤖) as:
+```
+Vie paikallisesti saatavilla olevat karttatiedot
+```
+
+
+## Translation Key: recovery_export_partial_warning_message
+```
+Warning: the recovery export will be partial, at least one cloud media file is missing, will not be downloaded and will be replaced with an empty file during the export.
+```
+translated (by machine 🤖) as:
+```
+Varoitus: palautuksen vienti on osittainen, ainakin yksi pilvimediatiedosto puuttuu, sitä ei ladata ja se korvataan tyhjällä tiedostolla viennin aikana.
+```
+
+
+## Translation Key: search_source_tomtom
+```
+Tomtom Places Search
+```
+translated (by machine 🤖) as:
+```
+Tomtom Places Search
+```
+
+
+## Translation Key: short_search_source_tomtom
+```
+Tomtom
+```
+translated (by machine 🤖) as:
+```
+Tomtom
+```
+
+

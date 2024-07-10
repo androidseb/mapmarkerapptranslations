@@ -5207,3 +5207,83 @@ Upotrijebite ovaj kod sa svog drugog uređaja da tamo aktivirate premium.
 ```
 
 
+## Translation Key: recovery_safe_setup_title
+```
+Recovery: safe setup
+```
+translated (by machine 🤖) as:
+```
+Oporavak: sigurno postavljanje
+```
+
+
+## Translation Key: recovery_safe_setup_description
+```
+Creates a new empty map and applies safe settings to prevent further crashes
+```
+translated (by machine 🤖) as:
+```
+Stvara novu praznu kartu i primjenjuje sigurne postavke za sprječavanje daljnjih padova
+```
+
+
+## Translation Key: recovery_safe_setup_applied_message
+```
+The safe setup was applied and will be effective on next launch, you can now exit the app and terminate it.
+```
+translated (by machine 🤖) as:
+```
+Sigurno postavljanje je primijenjeno i stupit će na snagu pri sljedećem pokretanju, sada možete izaći iz aplikacije i prekinuti je.
+```
+
+
+## Translation Key: recovery_export_data_title
+```
+Recovery: export data
+```
+translated (by machine 🤖) as:
+```
+Oporavak: izvoz podataka
+```
+
+
+## Translation Key: recovery_export_data_description
+```
+Export locally available map data
+```
+translated (by machine 🤖) as:
+```
+Izvezite lokalno dostupne podatke karte
+```
+
+
+## Translation Key: recovery_export_partial_warning_message
+```
+Warning: the recovery export will be partial, at least one cloud media file is missing, will not be downloaded and will be replaced with an empty file during the export.
+```
+translated (by machine 🤖) as:
+```
+Upozorenje: izvoz za oporavak bit će djelomičan, nedostaje barem jedna medijska datoteka u oblaku, neće se preuzeti i bit će zamijenjena praznom datotekom tijekom izvoza.
+```
+
+
+## Translation Key: search_source_tomtom
+```
+Tomtom Places Search
+```
+translated (by machine 🤖) as:
+```
+Tomtom Places Search
+```
+
+
+## Translation Key: short_search_source_tomtom
+```
+Tomtom
+```
+translated (by machine 🤖) as:
+```
+Tomtom
+```
+
+

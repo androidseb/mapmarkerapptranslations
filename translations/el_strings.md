@@ -5207,3 +5207,83 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: recovery_safe_setup_title
+```
+Recovery: safe setup
+```
+translated (by machine 🤖) as:
+```
+Ανάκτηση: ασφαλής εγκατάσταση
+```
+
+
+## Translation Key: recovery_safe_setup_description
+```
+Creates a new empty map and applies safe settings to prevent further crashes
+```
+translated (by machine 🤖) as:
+```
+Δημιουργεί έναν νέο κενό χάρτη και εφαρμόζει ασφαλείς ρυθμίσεις για την αποφυγή περαιτέρω σφαλμάτων
+```
+
+
+## Translation Key: recovery_safe_setup_applied_message
+```
+The safe setup was applied and will be effective on next launch, you can now exit the app and terminate it.
+```
+translated (by machine 🤖) as:
+```
+Η ασφαλής ρύθμιση εφαρμόστηκε και θα τεθεί σε ισχύ στην επόμενη εκκίνηση, μπορείτε πλέον να βγείτε από την εφαρμογή και να την τερματίσετε.
+```
+
+
+## Translation Key: recovery_export_data_title
+```
+Recovery: export data
+```
+translated (by machine 🤖) as:
+```
+Ανάκτηση: εξαγωγή δεδομένων
+```
+
+
+## Translation Key: recovery_export_data_description
+```
+Export locally available map data
+```
+translated (by machine 🤖) as:
+```
+Εξαγωγή τοπικά διαθέσιμων δεδομένων χάρτη
+```
+
+
+## Translation Key: recovery_export_partial_warning_message
+```
+Warning: the recovery export will be partial, at least one cloud media file is missing, will not be downloaded and will be replaced with an empty file during the export.
+```
+translated (by machine 🤖) as:
+```
+Προειδοποίηση: η εξαγωγή ανάκτησης θα είναι μερική, λείπει τουλάχιστον ένα αρχείο πολυμέσων cloud, δεν θα γίνει λήψη και θα αντικατασταθεί με ένα κενό αρχείο κατά την εξαγωγή.
+```
+
+
+## Translation Key: search_source_tomtom
+```
+Tomtom Places Search
+```
+translated (by machine 🤖) as:
+```
+Tomtom Places Search
+```
+
+
+## Translation Key: short_search_source_tomtom
+```
+Tomtom
+```
+translated (by machine 🤖) as:
+```
+Tomtom
+```
+
+

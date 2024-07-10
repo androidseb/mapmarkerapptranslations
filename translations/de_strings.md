@@ -5207,3 +5207,83 @@ Verwende diesen Code von deinem anderen Gerät, um dort die Prämie zu aktiviere
 ```
 
 
+## Translation Key: recovery_safe_setup_title
+```
+Recovery: safe setup
+```
+translated (by machine 🤖) as:
+```
+Wiederherstellung: Sicheres Setup
+```
+
+
+## Translation Key: recovery_safe_setup_description
+```
+Creates a new empty map and applies safe settings to prevent further crashes
+```
+translated (by machine 🤖) as:
+```
+Erstellt eine neue leere Karte und wendet sichere Einstellungen an, um weitere Abstürze zu verhindern
+```
+
+
+## Translation Key: recovery_safe_setup_applied_message
+```
+The safe setup was applied and will be effective on next launch, you can now exit the app and terminate it.
+```
+translated (by machine 🤖) as:
+```
+Die sichere Einrichtung wurde angewendet und ist beim nächsten Start wirksam. Sie können die App jetzt verlassen und beenden.
+```
+
+
+## Translation Key: recovery_export_data_title
+```
+Recovery: export data
+```
+translated (by machine 🤖) as:
+```
+Wiederherstellung: Daten exportieren
+```
+
+
+## Translation Key: recovery_export_data_description
+```
+Export locally available map data
+```
+translated (by machine 🤖) as:
+```
+Exportieren lokal verfügbarer Kartendaten
+```
+
+
+## Translation Key: recovery_export_partial_warning_message
+```
+Warning: the recovery export will be partial, at least one cloud media file is missing, will not be downloaded and will be replaced with an empty file during the export.
+```
+translated (by machine 🤖) as:
+```
+Achtung: Der Wiederherstellungsexport erfolgt teilweise, mindestens eine Cloud-Mediendatei fehlt, wird nicht heruntergeladen und beim Export durch eine leere Datei ersetzt.
+```
+
+
+## Translation Key: search_source_tomtom
+```
+Tomtom Places Search
+```
+translated (by machine 🤖) as:
+```
+Tomtom Places Search
+```
+
+
+## Translation Key: short_search_source_tomtom
+```
+Tomtom
+```
+translated (by machine 🤖) as:
+```
+Tomtom
+```
+
+

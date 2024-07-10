@@ -5207,3 +5207,83 @@ Naudokite šį kodą iš kito įrenginio, kad suaktyvintumėte priemoką.
 ```
 
 
+## Translation Key: recovery_safe_setup_title
+```
+Recovery: safe setup
+```
+translated (by machine 🤖) as:
+```
+Atkūrimas: saugi sąranka
+```
+
+
+## Translation Key: recovery_safe_setup_description
+```
+Creates a new empty map and applies safe settings to prevent further crashes
+```
+translated (by machine 🤖) as:
+```
+Sukuria naują tuščią žemėlapį ir pritaiko saugius nustatymus, kad išvengtų tolesnių gedimų
+```
+
+
+## Translation Key: recovery_safe_setup_applied_message
+```
+The safe setup was applied and will be effective on next launch, you can now exit the app and terminate it.
+```
+translated (by machine 🤖) as:
+```
+Saugi sąranka buvo pritaikyta ir įsigalios kitą kartą paleidus, dabar galite išeiti iš programos ir ją nutraukti.
+```
+
+
+## Translation Key: recovery_export_data_title
+```
+Recovery: export data
+```
+translated (by machine 🤖) as:
+```
+Atkūrimas: eksportuoti duomenis
+```
+
+
+## Translation Key: recovery_export_data_description
+```
+Export locally available map data
+```
+translated (by machine 🤖) as:
+```
+Eksportuokite vietoje pasiekiamus žemėlapio duomenis
+```
+
+
+## Translation Key: recovery_export_partial_warning_message
+```
+Warning: the recovery export will be partial, at least one cloud media file is missing, will not be downloaded and will be replaced with an empty file during the export.
+```
+translated (by machine 🤖) as:
+```
+Įspėjimas: atkūrimo eksportavimas bus dalinis, trūksta bent vieno debesies medijos failo, jis nebus atsisiųstas ir eksportavimo metu bus pakeistas tuščiu failu.
+```
+
+
+## Translation Key: search_source_tomtom
+```
+Tomtom Places Search
+```
+translated (by machine 🤖) as:
+```
+Tomtom Places Search
+```
+
+
+## Translation Key: short_search_source_tomtom
+```
+Tomtom
+```
+translated (by machine 🤖) as:
+```
+Tomtom
+```
+
+

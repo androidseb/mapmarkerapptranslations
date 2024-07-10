@@ -5207,3 +5207,83 @@ Használja ezt a kódot a másik eszközéről a prémium aktiválásához.
 ```
 
 
+## Translation Key: recovery_safe_setup_title
+```
+Recovery: safe setup
+```
+translated (by machine 🤖) as:
+```
+Helyreállítás: biztonságos beállítás
+```
+
+
+## Translation Key: recovery_safe_setup_description
+```
+Creates a new empty map and applies safe settings to prevent further crashes
+```
+translated (by machine 🤖) as:
+```
+Új üres térképet hoz létre, és biztonságos beállításokat alkalmaz a további összeomlások elkerülése érdekében
+```
+
+
+## Translation Key: recovery_safe_setup_applied_message
+```
+The safe setup was applied and will be effective on next launch, you can now exit the app and terminate it.
+```
+translated (by machine 🤖) as:
+```
+A biztonságos beállítást alkalmazták, és a következő indításkor lép érvénybe. Most már kiléphet az alkalmazásból, és leállíthatja azt.
+```
+
+
+## Translation Key: recovery_export_data_title
+```
+Recovery: export data
+```
+translated (by machine 🤖) as:
+```
+Helyreállítás: adatok exportálása
+```
+
+
+## Translation Key: recovery_export_data_description
+```
+Export locally available map data
+```
+translated (by machine 🤖) as:
+```
+Exportálja a helyileg elérhető térképadatokat
+```
+
+
+## Translation Key: recovery_export_partial_warning_message
+```
+Warning: the recovery export will be partial, at least one cloud media file is missing, will not be downloaded and will be replaced with an empty file during the export.
+```
+translated (by machine 🤖) as:
+```
+Figyelmeztetés: a helyreállítási exportálás részleges lesz, legalább egy felhőalapú médiafájl hiányzik, nem töltődik le, és az exportálás során egy üres fájlra cseréli.
+```
+
+
+## Translation Key: search_source_tomtom
+```
+Tomtom Places Search
+```
+translated (by machine 🤖) as:
+```
+Tomtom Places Search
+```
+
+
+## Translation Key: short_search_source_tomtom
+```
+Tomtom
+```
+translated (by machine 🤖) as:
+```
+Tomtom
+```
+
+

@@ -5207,3 +5207,83 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: recovery_safe_setup_title
+```
+Recovery: safe setup
+```
+translated (by machine 🤖) as:
+```
+การกู้คืน: การตั้งค่าที่ปลอดภัย
+```
+
+
+## Translation Key: recovery_safe_setup_description
+```
+Creates a new empty map and applies safe settings to prevent further crashes
+```
+translated (by machine 🤖) as:
+```
+สร้างแผนที่เปล่าใหม่และใช้การตั้งค่าที่ปลอดภัยเพื่อป้องกันการขัดข้องเพิ่มเติม
+```
+
+
+## Translation Key: recovery_safe_setup_applied_message
+```
+The safe setup was applied and will be effective on next launch, you can now exit the app and terminate it.
+```
+translated (by machine 🤖) as:
+```
+ใช้การตั้งค่าที่ปลอดภัยแล้ว และจะมีผลในการเปิดตัวครั้งถัดไป คุณสามารถออกจากแอปและยุติแอปได้แล้ว
+```
+
+
+## Translation Key: recovery_export_data_title
+```
+Recovery: export data
+```
+translated (by machine 🤖) as:
+```
+การกู้คืน: ส่งออกข้อมูล
+```
+
+
+## Translation Key: recovery_export_data_description
+```
+Export locally available map data
+```
+translated (by machine 🤖) as:
+```
+ส่งออกข้อมูลแผนที่ที่มีอยู่ในท้องถิ่น
+```
+
+
+## Translation Key: recovery_export_partial_warning_message
+```
+Warning: the recovery export will be partial, at least one cloud media file is missing, will not be downloaded and will be replaced with an empty file during the export.
+```
+translated (by machine 🤖) as:
+```
+คำเตือน: การส่งออกการกู้คืนจะเป็นบางส่วน ไฟล์สื่อบนคลาวด์อย่างน้อยหนึ่งไฟล์หายไป จะไม่ถูกดาวน์โหลด และจะถูกแทนที่ด้วยไฟล์เปล่าระหว่างการส่งออก
+```
+
+
+## Translation Key: search_source_tomtom
+```
+Tomtom Places Search
+```
+translated (by machine 🤖) as:
+```
+Tomtom Places Search
+```
+
+
+## Translation Key: short_search_source_tomtom
+```
+Tomtom
+```
+translated (by machine 🤖) as:
+```
+Tomtom
+```
+
+

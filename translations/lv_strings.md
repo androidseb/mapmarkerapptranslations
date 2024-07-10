@@ -5207,3 +5207,83 @@ Izmantojiet šo kodu no savas citas ierīces, lai tur aktivizētu premium.
 ```
 
 
+## Translation Key: recovery_safe_setup_title
+```
+Recovery: safe setup
+```
+translated (by machine 🤖) as:
+```
+Atkopšana: droša iestatīšana
+```
+
+
+## Translation Key: recovery_safe_setup_description
+```
+Creates a new empty map and applies safe settings to prevent further crashes
+```
+translated (by machine 🤖) as:
+```
+Izveido jaunu tukšu karti un lieto drošus iestatījumus, lai novērstu turpmākas avārijas
+```
+
+
+## Translation Key: recovery_safe_setup_applied_message
+```
+The safe setup was applied and will be effective on next launch, you can now exit the app and terminate it.
+```
+translated (by machine 🤖) as:
+```
+Drošā iestatīšana tika lietota un stāsies spēkā nākamajā palaišanas reizē. Tagad varat iziet no lietotnes un pārtraukt to.
+```
+
+
+## Translation Key: recovery_export_data_title
+```
+Recovery: export data
+```
+translated (by machine 🤖) as:
+```
+Atkopšana: eksportēt datus
+```
+
+
+## Translation Key: recovery_export_data_description
+```
+Export locally available map data
+```
+translated (by machine 🤖) as:
+```
+Eksportējiet lokāli pieejamos kartes datus
+```
+
+
+## Translation Key: recovery_export_partial_warning_message
+```
+Warning: the recovery export will be partial, at least one cloud media file is missing, will not be downloaded and will be replaced with an empty file during the export.
+```
+translated (by machine 🤖) as:
+```
+Brīdinājums: atkopšanas eksportēšana būs daļēja, trūkst vismaz viena mākoņa multivides faila, tas netiks lejupielādēts un eksportēšanas laikā tiks aizstāts ar tukšu failu.
+```
+
+
+## Translation Key: search_source_tomtom
+```
+Tomtom Places Search
+```
+translated (by machine 🤖) as:
+```
+Tomtom Places Search
+```
+
+
+## Translation Key: short_search_source_tomtom
+```
+Tomtom
+```
+translated (by machine 🤖) as:
+```
+Tomtom
+```
+
+

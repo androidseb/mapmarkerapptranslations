@@ -5207,3 +5207,83 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: recovery_safe_setup_title
+```
+Recovery: safe setup
+```
+translated (by machine 🤖) as:
+```
+पुनर्प्राप्ति: सुरक्षित सेटअप
+```
+
+
+## Translation Key: recovery_safe_setup_description
+```
+Creates a new empty map and applies safe settings to prevent further crashes
+```
+translated (by machine 🤖) as:
+```
+एक नया खाली मानचित्र बनाता है और आगे की दुर्घटनाओं को रोकने के लिए सुरक्षित सेटिंग्स लागू करता है
+```
+
+
+## Translation Key: recovery_safe_setup_applied_message
+```
+The safe setup was applied and will be effective on next launch, you can now exit the app and terminate it.
+```
+translated (by machine 🤖) as:
+```
+सुरक्षित सेटअप लागू किया गया है और यह अगले लॉन्च पर प्रभावी होगा, अब आप ऐप से बाहर निकल सकते हैं और इसे समाप्त कर सकते हैं।
+```
+
+
+## Translation Key: recovery_export_data_title
+```
+Recovery: export data
+```
+translated (by machine 🤖) as:
+```
+पुनर्प्राप्ति: डेटा निर्यात करें
+```
+
+
+## Translation Key: recovery_export_data_description
+```
+Export locally available map data
+```
+translated (by machine 🤖) as:
+```
+स्थानीय रूप से उपलब्ध मानचित्र डेटा निर्यात करें
+```
+
+
+## Translation Key: recovery_export_partial_warning_message
+```
+Warning: the recovery export will be partial, at least one cloud media file is missing, will not be downloaded and will be replaced with an empty file during the export.
+```
+translated (by machine 🤖) as:
+```
+चेतावनी: पुनर्प्राप्ति निर्यात आंशिक होगा, कम से कम एक क्लाउड मीडिया फ़ाइल गायब होगी, डाउनलोड नहीं होगी और निर्यात के दौरान उसे एक खाली फ़ाइल से प्रतिस्थापित कर दिया जाएगा।
+```
+
+
+## Translation Key: search_source_tomtom
+```
+Tomtom Places Search
+```
+translated (by machine 🤖) as:
+```
+Tomtom Places Search
+```
+
+
+## Translation Key: short_search_source_tomtom
+```
+Tomtom
+```
+translated (by machine 🤖) as:
+```
+Tomtom
+```
+
+
