@@ -5287,3 +5287,13 @@ Tomtom
 ```
 
 
+## Translation Key: text_display_size
+```
+Text display size
+```
+translated (by machine 🤖) as:
+```
+Розмір відображення тексту
+```
+
+

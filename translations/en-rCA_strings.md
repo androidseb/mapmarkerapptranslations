@@ -5267,3 +5267,33 @@ Warning: the recovery export will be partial, at least one cloud media file is m
 ```
 
 
+## Translation Key: search_source_tomtom
+```
+Tomtom Places Search
+```
+translated (by machine 🤖) as:
+```
+Tomtom Places Search
+```
+
+
+## Translation Key: short_search_source_tomtom
+```
+Tomtom
+```
+translated (by machine 🤖) as:
+```
+Tomtom
+```
+
+
+## Translation Key: text_display_size
+```
+Text display size
+```
+translated (by machine 🤖) as:
+```
+Text display size
+```
+
+
