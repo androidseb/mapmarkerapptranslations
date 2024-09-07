@@ -5297,3 +5297,29 @@ Teksta displeja izmērs
 ```
 
 
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Šķiet, ka jūsu pārlūkprogramma nav Google Chrome — tikai Google Chrome ir pārbaudīta kā pilnībā saderīga
+```
+
+
+## Translation Key: browser_compatibility_warning_message_x
+```
+It seems your browser is not fully compatible - only Google Chrome is tested as fully compatible
+See compatibility details below:
+
+%s
+```
+translated (by machine 🤖) as:
+```
+Šķiet, ka jūsu pārlūkprogramma nav pilnībā saderīga — tikai Google Chrome ir pārbaudīta kā pilnībā saderīga
+Skatiet tālāk sniegto informāciju par saderību:
+
+%s
+```
+
+

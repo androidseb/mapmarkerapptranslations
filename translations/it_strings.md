@@ -5297,3 +5297,29 @@ Dimensione visualizzazione testo
 ```
 
 
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Sembra che il tuo browser non sia Google Chrome: solo Google Chrome è stato testato come pienamente compatibile
+```
+
+
+## Translation Key: browser_compatibility_warning_message_x
+```
+It seems your browser is not fully compatible - only Google Chrome is tested as fully compatible
+See compatibility details below:
+
+%s
+```
+translated (by machine 🤖) as:
+```
+Sembra che il tuo browser non sia completamente compatibile: solo Google Chrome è stato testato come completamente compatibile
+Vedi i dettagli sulla compatibilità qui sotto:
+
+%s
+```
+
+

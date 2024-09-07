@@ -5297,3 +5297,29 @@ Velikost prikaza besedila
 ```
 
 
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Zdi se, da vaš brskalnik ni Google Chrome – samo Google Chrome je preizkušen kot popolnoma združljiv
+```
+
+
+## Translation Key: browser_compatibility_warning_message_x
+```
+It seems your browser is not fully compatible - only Google Chrome is tested as fully compatible
+See compatibility details below:
+
+%s
+```
+translated (by machine 🤖) as:
+```
+Zdi se, da vaš brskalnik ni popolnoma združljiv - samo Google Chrome je preizkušen kot popolnoma združljiv
+Spodaj si oglejte podrobnosti o združljivosti:
+
+%s
+```
+
+

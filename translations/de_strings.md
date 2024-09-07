@@ -5297,3 +5297,29 @@ Textanzeigegröße
 ```
 
 
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Ihr Browser scheint nicht Google Chrome zu sein. Nur Google Chrome wurde als vollständig kompatibel getestet.
+```
+
+
+## Translation Key: browser_compatibility_warning_message_x
+```
+It seems your browser is not fully compatible - only Google Chrome is tested as fully compatible
+See compatibility details below:
+
+%s
+```
+translated (by machine 🤖) as:
+```
+Ihr Browser scheint nicht vollständig kompatibel zu sein – nur Google Chrome wurde als vollständig kompatibel getestet.
+Siehe Kompatibilitätsdetails unten:
+
+%s
+```
+
+

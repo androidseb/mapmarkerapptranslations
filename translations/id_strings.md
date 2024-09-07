@@ -5297,3 +5297,29 @@ Ukuran tampilan teks
 ```
 
 
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Sepertinya browser Anda bukan Google Chrome - hanya Google Chrome yang diuji sebagai sepenuhnya kompatibel
+```
+
+
+## Translation Key: browser_compatibility_warning_message_x
+```
+It seems your browser is not fully compatible - only Google Chrome is tested as fully compatible
+See compatibility details below:
+
+%s
+```
+translated (by machine 🤖) as:
+```
+Tampaknya browser Anda tidak sepenuhnya kompatibel - hanya Google Chrome yang diuji sebagai sepenuhnya kompatibel
+Lihat detail kompatibilitas di bawah ini:
+
+%s
+```
+
+

@@ -5297,3 +5297,29 @@ Textvisningsstorlek
 ```
 
 
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Det verkar som om din webbläsare inte är Google Chrome - bara Google Chrome testas som fullt kompatibel
+```
+
+
+## Translation Key: browser_compatibility_warning_message_x
+```
+It seems your browser is not fully compatible - only Google Chrome is tested as fully compatible
+See compatibility details below:
+
+%s
+```
+translated (by machine 🤖) as:
+```
+Det verkar som om din webbläsare inte är helt kompatibel - bara Google Chrome testas som helt kompatibel
+Se kompatibilitetsdetaljer nedan:
+
+%s
+```
+
+

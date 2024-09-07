@@ -5297,3 +5297,29 @@ Mida de visualització del text
 ```
 
 
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Sembla que el vostre navegador no és Google Chrome; només s'ha provat que Google Chrome és totalment compatible
+```
+
+
+## Translation Key: browser_compatibility_warning_message_x
+```
+It seems your browser is not fully compatible - only Google Chrome is tested as fully compatible
+See compatibility details below:
+
+%s
+```
+translated (by machine 🤖) as:
+```
+Sembla que el vostre navegador no és totalment compatible; només es prova Google Chrome com a totalment compatible
+Vegeu els detalls de compatibilitat a continuació:
+
+%s
+```
+
+

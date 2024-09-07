@@ -5297,3 +5297,29 @@ Dimensiunea de afișare a textului
 ```
 
 
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Se pare că browserul dvs. nu este Google Chrome - doar Google Chrome este testat ca fiind pe deplin compatibil
+```
+
+
+## Translation Key: browser_compatibility_warning_message_x
+```
+It seems your browser is not fully compatible - only Google Chrome is tested as fully compatible
+See compatibility details below:
+
+%s
+```
+translated (by machine 🤖) as:
+```
+Se pare că browserul dvs. nu este pe deplin compatibil - doar Google Chrome este testat ca fiind pe deplin compatibil
+Vedeți mai jos detaliile de compatibilitate:
+
+%s
+```
+
+

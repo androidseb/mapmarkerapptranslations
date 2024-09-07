@@ -5297,3 +5297,29 @@ Kích thước hiển thị văn bản
 ```
 
 
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Có vẻ như trình duyệt của bạn không phải là Google Chrome - chỉ có Google Chrome được kiểm tra là hoàn toàn tương thích
+```
+
+
+## Translation Key: browser_compatibility_warning_message_x
+```
+It seems your browser is not fully compatible - only Google Chrome is tested as fully compatible
+See compatibility details below:
+
+%s
+```
+translated (by machine 🤖) as:
+```
+Có vẻ như trình duyệt của bạn không hoàn toàn tương thích - chỉ có Google Chrome được kiểm tra là hoàn toàn tương thích
+Xem chi tiết về khả năng tương thích bên dưới:
+
+%s
+```
+
+

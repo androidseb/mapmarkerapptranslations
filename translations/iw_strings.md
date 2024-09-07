@@ -5297,3 +5297,29 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+נראה שהדפדפן שלך אינו Google Chrome - רק Google Chrome נבדק כתואם מלא
+```
+
+
+## Translation Key: browser_compatibility_warning_message_x
+```
+It seems your browser is not fully compatible - only Google Chrome is tested as fully compatible
+See compatibility details below:
+
+%s
+```
+translated (by machine 🤖) as:
+```
+נראה שהדפדפן שלך אינו תואם לחלוטין - רק Google Chrome נבדק כתואם מלא
+ראה את פרטי התאימות למטה:
+
+%s
+```
+
+
