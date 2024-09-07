@@ -2373,3 +2373,43 @@ L'application a besoin de la permission de position 'toujours' afin d'enregistre
 ```
 
 
+## Translation Key: x_minutes
+```
+%s minutes
+```
+translated (by machine 🤖) as:
+```
+%s minutes
+```
+
+
+## Translation Key: time_started_x
+```
+Started time: %s
+```
+translated (by machine 🤖) as:
+```
+Heure de démarrage: %s
+```
+
+
+## Translation Key: ongoing_track_recordings
+```
+Ongoing track recordings
+```
+translated (by machine 🤖) as:
+```
+Tracés de localisation en cours
+```
+
+
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Il semble que votre navigateur ne soit pas Google Chrome - seulement Google Chrome est testé comme pleinement compatible.
+```
+
+

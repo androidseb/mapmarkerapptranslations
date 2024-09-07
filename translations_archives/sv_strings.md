@@ -2373,3 +2373,43 @@ Appen kommer att behöva platsbehörigheten "alltid" för att kunna spela in sp�
 ```
 
 
+## Translation Key: x_minutes
+```
+%s minutes
+```
+translated (by machine 🤖) as:
+```
+%s minuter
+```
+
+
+## Translation Key: time_started_x
+```
+Started time: %s
+```
+translated (by machine 🤖) as:
+```
+Starttid: %s
+```
+
+
+## Translation Key: ongoing_track_recordings
+```
+Ongoing track recordings
+```
+translated (by machine 🤖) as:
+```
+Pågående spårinspelningar
+```
+
+
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Det verkar som om din webbläsare inte är Google Chrome - bara Google Chrome testas som fullt kompatibel
+```
+
+

@@ -2373,3 +2373,43 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: x_minutes
+```
+%s minutes
+```
+translated (by machine 🤖) as:
+```
+%s λεπτά
+```
+
+
+## Translation Key: time_started_x
+```
+Started time: %s
+```
+translated (by machine 🤖) as:
+```
+Ώρα έναρξης: %s
+```
+
+
+## Translation Key: ongoing_track_recordings
+```
+Ongoing track recordings
+```
+translated (by machine 🤖) as:
+```
+Ηχογραφήσεις κομματιών σε εξέλιξη
+```
+
+
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Φαίνεται ότι το πρόγραμμα περιήγησής σας δεν είναι το Google Chrome - μόνο το Google Chrome έχει δοκιμαστεί ως πλήρως συμβατό
+```
+
+

@@ -2372,3 +2372,43 @@ Programai reikės „visada“ buvimo vietos leidimo, kad galėtų įrašyti tak
 ```
 
 
+## Translation Key: x_minutes
+```
+%s minutes
+```
+translated (by machine 🤖) as:
+```
+%s minutės
+```
+
+
+## Translation Key: time_started_x
+```
+Started time: %s
+```
+translated (by machine 🤖) as:
+```
+Pradžios laikas: %s
+```
+
+
+## Translation Key: ongoing_track_recordings
+```
+Ongoing track recordings
+```
+translated (by machine 🤖) as:
+```
+Vykdomi takelių įrašai
+```
+
+
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Panašu, kad jūsų naršyklė nėra „Google Chrome“ – tik „Google Chrome“ išbandyta kaip visiškai suderinama
+```
+
+

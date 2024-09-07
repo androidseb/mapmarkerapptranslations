@@ -2373,3 +2373,43 @@ Lietotnei būs nepieciešama atrašanās vietas atļauja vienmēr, lai ierakstī
 ```
 
 
+## Translation Key: x_minutes
+```
+%s minutes
+```
+translated (by machine 🤖) as:
+```
+%s minūtes
+```
+
+
+## Translation Key: time_started_x
+```
+Started time: %s
+```
+translated (by machine 🤖) as:
+```
+Sākuma laiks: %s
+```
+
+
+## Translation Key: ongoing_track_recordings
+```
+Ongoing track recordings
+```
+translated (by machine 🤖) as:
+```
+Notiek trases ieraksti
+```
+
+
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Šķiet, ka jūsu pārlūkprogramma nav Google Chrome — tikai Google Chrome ir pārbaudīta kā pilnībā saderīga
+```
+
+

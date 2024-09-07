@@ -4743,16 +4743,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: x_minutes
-```
-%s minutes
-```
-translated (by machine 🤖) as:
-```
-%s นาที
-```
-
-
 ## Translation Key: x_minutes_y_seconds
 ```
 %1$s minutes %2$s seconds
@@ -4820,26 +4810,6 @@ Ongoing track recording
 translated (by machine 🤖) as:
 ```
 การบันทึกเพลงอย่างต่อเนื่อง
-```
-
-
-## Translation Key: time_started_x
-```
-Started time: %s
-```
-translated (by machine 🤖) as:
-```
-เวลาเริ่มต้น: %s
-```
-
-
-## Translation Key: ongoing_track_recordings
-```
-Ongoing track recordings
-```
-translated (by machine 🤖) as:
-```
-บันทึกการติดตามอย่างต่อเนื่อง
 ```
 
 
@@ -5294,16 +5264,6 @@ Text display size
 translated (by machine 🤖) as:
 ```
 ขนาดการแสดงข้อความ
-```
-
-
-## Translation Key: browser_compatibility_warning_message
-```
-It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
-```
-translated (by machine 🤖) as:
-```
-ดูเหมือนว่าเบราว์เซอร์ของคุณไม่ใช่ Google Chrome - มีเพียง Google Chrome เท่านั้นที่ได้รับการทดสอบว่าเข้ากันได้อย่างสมบูรณ์
 ```
 
 

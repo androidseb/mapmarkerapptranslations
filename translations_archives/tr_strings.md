@@ -2373,3 +2373,43 @@ Uygulamanın arka planda çalışırken parçaları kaydedebilmesi için 'her za
 ```
 
 
+## Translation Key: x_minutes
+```
+%s minutes
+```
+translated (by machine 🤖) as:
+```
+%s dakika
+```
+
+
+## Translation Key: time_started_x
+```
+Started time: %s
+```
+translated (by machine 🤖) as:
+```
+Başlangıç zamanı: %s
+```
+
+
+## Translation Key: ongoing_track_recordings
+```
+Ongoing track recordings
+```
+translated (by machine 🤖) as:
+```
+Devam eden parça kayıtları
+```
+
+
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Tarayıcınızın Google Chrome olmadığı anlaşılıyor - yalnızca Google Chrome tam uyumlu olarak test edildi
+```
+
+

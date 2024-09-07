@@ -4743,16 +4743,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: x_minutes
-```
-%s minutes
-```
-translated (by machine 🤖) as:
-```
-%s분
-```
-
-
 ## Translation Key: x_minutes_y_seconds
 ```
 %1$s minutes %2$s seconds
@@ -4820,26 +4810,6 @@ Ongoing track recording
 translated (by machine 🤖) as:
 ```
 진행 중인 트랙 녹음
-```
-
-
-## Translation Key: time_started_x
-```
-Started time: %s
-```
-translated (by machine 🤖) as:
-```
-시작 시간: %s
-```
-
-
-## Translation Key: ongoing_track_recordings
-```
-Ongoing track recordings
-```
-translated (by machine 🤖) as:
-```
-진행중인 트랙 녹음
 ```
 
 
@@ -5294,16 +5264,6 @@ Text display size
 translated (by machine 🤖) as:
 ```
 텍스트 표시 크기
-```
-
-
-## Translation Key: browser_compatibility_warning_message
-```
-It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
-```
-translated (by machine 🤖) as:
-```
-귀하의 브라우저가 Google Chrome이 아닌 것 같습니다. Google Chrome만 완벽하게 호환되는 것으로 테스트되었습니다.
 ```
 
 

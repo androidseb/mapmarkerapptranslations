@@ -2373,3 +2373,43 @@ L'aplicació necessitarà el permís d'ubicació "sempre" per gravar pistes ment
 ```
 
 
+## Translation Key: x_minutes
+```
+%s minutes
+```
+translated (by machine 🤖) as:
+```
+%s minuts
+```
+
+
+## Translation Key: time_started_x
+```
+Started time: %s
+```
+translated (by machine 🤖) as:
+```
+Hora d'inici: %s
+```
+
+
+## Translation Key: ongoing_track_recordings
+```
+Ongoing track recordings
+```
+translated (by machine 🤖) as:
+```
+Enregistraments de pistes en curs
+```
+
+
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Sembla que el vostre navegador no és Google Chrome; només s'ha provat que Google Chrome és totalment compatible
+```
+
+

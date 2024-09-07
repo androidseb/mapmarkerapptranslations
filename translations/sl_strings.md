@@ -4743,16 +4743,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: x_minutes
-```
-%s minutes
-```
-translated (by machine 🤖) as:
-```
-%s minut
-```
-
-
 ## Translation Key: x_minutes_y_seconds
 ```
 %1$s minutes %2$s seconds
@@ -4820,26 +4810,6 @@ Ongoing track recording
 translated (by machine 🤖) as:
 ```
 Snemanje proge v teku
-```
-
-
-## Translation Key: time_started_x
-```
-Started time: %s
-```
-translated (by machine 🤖) as:
-```
-Začetek: %s
-```
-
-
-## Translation Key: ongoing_track_recordings
-```
-Ongoing track recordings
-```
-translated (by machine 🤖) as:
-```
-Snemanja prog v teku
 ```
 
 
@@ -5294,16 +5264,6 @@ Text display size
 translated (by machine 🤖) as:
 ```
 Velikost prikaza besedila
-```
-
-
-## Translation Key: browser_compatibility_warning_message
-```
-It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
-```
-translated (by machine 🤖) as:
-```
-Zdi se, da vaš brskalnik ni Google Chrome – samo Google Chrome je preizkušen kot popolnoma združljiv
 ```
 
 

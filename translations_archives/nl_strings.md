@@ -2367,3 +2367,43 @@ De app heeft de 'altijd' locatietoestemming nodig om tracks op te nemen terwijl 
 ```
 
 
+## Translation Key: x_minutes
+```
+%s minutes
+```
+translated (by machine 🤖) as:
+```
+%s minuten
+```
+
+
+## Translation Key: time_started_x
+```
+Started time: %s
+```
+translated (by machine 🤖) as:
+```
+Starttijd: %s
+```
+
+
+## Translation Key: ongoing_track_recordings
+```
+Ongoing track recordings
+```
+translated (by machine 🤖) as:
+```
+Doorlopende trackopnames
+```
+
+
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Het lijkt erop dat uw browser niet Google Chrome is - alleen Google Chrome is getest als volledig compatibel
+```
+
+

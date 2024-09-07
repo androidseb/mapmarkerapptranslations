@@ -2373,3 +2373,43 @@ Sovellus tarvitsee "aina" sijaintiluvan tallentaakseen jälkiä taustalla käynn
 ```
 
 
+## Translation Key: x_minutes
+```
+%s minutes
+```
+translated (by machine 🤖) as:
+```
+%s minuuttia
+```
+
+
+## Translation Key: time_started_x
+```
+Started time: %s
+```
+translated (by machine 🤖) as:
+```
+Alkamisaika: %s
+```
+
+
+## Translation Key: ongoing_track_recordings
+```
+Ongoing track recordings
+```
+translated (by machine 🤖) as:
+```
+Jatkuvat kappaleiden tallennukset
+```
+
+
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Näyttää siltä, että selaimesi ei ole Google Chrome - vain Google Chrome on testattu täysin yhteensopivaksi
+```
+
+

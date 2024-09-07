@@ -4743,16 +4743,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: x_minutes
-```
-%s minutes
-```
-translated (by machine 🤖) as:
-```
-%s λεπτά
-```
-
-
 ## Translation Key: x_minutes_y_seconds
 ```
 %1$s minutes %2$s seconds
@@ -4820,26 +4810,6 @@ Ongoing track recording
 translated (by machine 🤖) as:
 ```
 Ηχογράφηση σε εξέλιξη
-```
-
-
-## Translation Key: time_started_x
-```
-Started time: %s
-```
-translated (by machine 🤖) as:
-```
-Ώρα έναρξης: %s
-```
-
-
-## Translation Key: ongoing_track_recordings
-```
-Ongoing track recordings
-```
-translated (by machine 🤖) as:
-```
-Ηχογραφήσεις κομματιών σε εξέλιξη
 ```
 
 
@@ -5294,16 +5264,6 @@ Text display size
 translated (by machine 🤖) as:
 ```
 Μέγεθος εμφάνισης κειμένου
-```
-
-
-## Translation Key: browser_compatibility_warning_message
-```
-It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
-```
-translated (by machine 🤖) as:
-```
-Φαίνεται ότι το πρόγραμμα περιήγησής σας δεν είναι το Google Chrome - μόνο το Google Chrome έχει δοκιμαστεί ως πλήρως συμβατό
 ```
 
 

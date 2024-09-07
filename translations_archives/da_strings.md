@@ -2373,3 +2373,43 @@ Appen har brug for 'altid' placeringstilladelse for at optage spor, mens den kø
 ```
 
 
+## Translation Key: x_minutes
+```
+%s minutes
+```
+translated (by machine 🤖) as:
+```
+%s minutter
+```
+
+
+## Translation Key: time_started_x
+```
+Started time: %s
+```
+translated (by machine 🤖) as:
+```
+Starttidspunkt: %s
+```
+
+
+## Translation Key: ongoing_track_recordings
+```
+Ongoing track recordings
+```
+translated (by machine 🤖) as:
+```
+Løbende sporoptagelser
+```
+
+
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Det ser ud til, at din browser ikke er Google Chrome - kun Google Chrome er testet som fuldt kompatibel
+```
+
+

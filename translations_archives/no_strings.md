@@ -2373,3 +2373,43 @@ Appen vil trenge "alltid" plasseringstillatelse for å ta opp spor mens den kjø
 ```
 
 
+## Translation Key: x_minutes
+```
+%s minutes
+```
+translated (by machine 🤖) as:
+```
+%s minutter
+```
+
+
+## Translation Key: time_started_x
+```
+Started time: %s
+```
+translated (by machine 🤖) as:
+```
+Starttid: %s
+```
+
+
+## Translation Key: ongoing_track_recordings
+```
+Ongoing track recordings
+```
+translated (by machine 🤖) as:
+```
+Pågående sporopptak
+```
+
+
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Det ser ut til at nettleseren din ikke er Google Chrome - bare Google Chrome er testet som fullt kompatibel
+```
+
+

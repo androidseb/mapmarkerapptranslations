@@ -2373,3 +2373,43 @@ Az alkalmazásnak szüksége lesz a „mindig” helymeghatározási engedélyre
 ```
 
 
+## Translation Key: x_minutes
+```
+%s minutes
+```
+translated (by machine 🤖) as:
+```
+%s perc
+```
+
+
+## Translation Key: time_started_x
+```
+Started time: %s
+```
+translated (by machine 🤖) as:
+```
+Kezdés időpontja: %s
+```
+
+
+## Translation Key: ongoing_track_recordings
+```
+Ongoing track recordings
+```
+translated (by machine 🤖) as:
+```
+Folyamatban lévő pályafelvételek
+```
+
+
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Úgy tűnik, az Ön böngészője nem a Google Chrome – csak a Google Chrome teljes kompatibilitását teszteltük
+```
+
+

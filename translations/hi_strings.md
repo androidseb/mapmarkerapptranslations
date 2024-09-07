@@ -4743,16 +4743,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: x_minutes
-```
-%s minutes
-```
-translated (by machine 🤖) as:
-```
-%s मिनट
-```
-
-
 ## Translation Key: x_minutes_y_seconds
 ```
 %1$s minutes %2$s seconds
@@ -4816,26 +4806,6 @@ translated (by machine 🤖) as:
 ## Translation Key: ongoing_track_recording
 ```
 Ongoing track recording
-```
-translated (by machine 🤖) as:
-```
-चल रही ट्रैक रिकॉर्डिंग
-```
-
-
-## Translation Key: time_started_x
-```
-Started time: %s
-```
-translated (by machine 🤖) as:
-```
-प्रारंभ समय: %s
-```
-
-
-## Translation Key: ongoing_track_recordings
-```
-Ongoing track recordings
 ```
 translated (by machine 🤖) as:
 ```
@@ -5294,16 +5264,6 @@ Text display size
 translated (by machine 🤖) as:
 ```
 पाठ प्रदर्शन आकार
-```
-
-
-## Translation Key: browser_compatibility_warning_message
-```
-It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
-```
-translated (by machine 🤖) as:
-```
-ऐसा लगता है कि आपका ब्राउज़र Google Chrome नहीं है - केवल Google Chrome को ही पूर्णतः संगत के रूप में परखा गया है
 ```
 
 

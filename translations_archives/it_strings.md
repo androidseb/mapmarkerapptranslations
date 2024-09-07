@@ -2373,3 +2373,43 @@ L'app avrà bisogno dell'autorizzazione alla posizione "sempre" per registrare l
 ```
 
 
+## Translation Key: x_minutes
+```
+%s minutes
+```
+translated (by machine 🤖) as:
+```
+%s minuti
+```
+
+
+## Translation Key: time_started_x
+```
+Started time: %s
+```
+translated (by machine 🤖) as:
+```
+Ora di inizio: %s
+```
+
+
+## Translation Key: ongoing_track_recordings
+```
+Ongoing track recordings
+```
+translated (by machine 🤖) as:
+```
+Registrazioni di brani in corso
+```
+
+
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Sembra che il tuo browser non sia Google Chrome: solo Google Chrome è stato testato come pienamente compatibile
+```
+
+

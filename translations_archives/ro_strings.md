@@ -2373,3 +2373,43 @@ Aplicația va avea nevoie de permisiunea de locație „întotdeauna” pentru a
 ```
 
 
+## Translation Key: x_minutes
+```
+%s minutes
+```
+translated (by machine 🤖) as:
+```
+%s minute
+```
+
+
+## Translation Key: time_started_x
+```
+Started time: %s
+```
+translated (by machine 🤖) as:
+```
+Ora de începere: %s
+```
+
+
+## Translation Key: ongoing_track_recordings
+```
+Ongoing track recordings
+```
+translated (by machine 🤖) as:
+```
+Înregistrări în curs de desfășurare
+```
+
+
+## Translation Key: browser_compatibility_warning_message
+```
+It seems your browser is not Google Chrome - only Google Chrome is tested as fully compatible
+```
+translated (by machine 🤖) as:
+```
+Se pare că browserul dvs. nu este Google Chrome - doar Google Chrome este testat ca fiind pe deplin compatibil
+```
+
+
