@@ -157,7 +157,7 @@ Failed to create new folder, it already exists
 ```
 translated (by vanhavirta) as:
 ```
-Uuden kansion luominen epäonnistui (nimi on jo käytössä)
+Uuden kansion luominen epäonnistui: nimi on jo käytössä
 ```
 
 
@@ -167,7 +167,7 @@ Failed to rename the folder, the destination name already exists
 ```
 translated (by vanhavirta) as:
 ```
-Kansion nimeäminen epäonnistui (nimi on jo käytössä)
+Kansion nimeäminen epäonnistui: nimi on jo käytössä
 ```
 
 
@@ -337,7 +337,7 @@ Processing data...
 ```
 translated (by vanhavirta) as:
 ```
-Käsittellään tietoja...
+Käsitellään tietoja...
 ```
 
 
@@ -591,7 +591,7 @@ FAQ/Help
 ```
 translated (by vanhavirta) as:
 ```
-Apu ja UKK
+Ohjeet ja UKK
 ```
 
 
@@ -1011,7 +1011,7 @@ Could not create folder: name empty
 ```
 translated (by vanhavirta) as:
 ```
-Kansion luonti epäonnistui (nimikenttä tyhjä)
+Kansion luonti epäonnistui: nimikenttä tyhjä
 ```
 
 
@@ -1351,7 +1351,7 @@ Map Marker needs the permission to make calls on your device
 ```
 translated (by vanhavirta) as:
 ```
-Map Marker tarvitsee luvan tehdä puheluja laittellasi
+Map Marker tarvitsee luvan soittaa puheluja laittellasi
 ```
 
 
@@ -1391,7 +1391,7 @@ Jaa valittu merkintä tekstimuodossa toisessa sovelluksessa
 ```
 translated (by vanhavirta) as:
 ```
-%1$d merkintää %2$d kansiossa
+%1$d merkintä(ä) %2$d kansiossa
 ```
 
 
@@ -1451,7 +1451,7 @@ Ask
 ```
 translated (by vanhavirta) as:
 ```
-Kysy joka kerta
+Kysy aina
 ```
 
 
@@ -1635,7 +1635,7 @@ translated (by vanhavirta) as:
 ```
 Lakisääteiset tekstit kartta-aineistoille poislukien Google Maps: 
  
- %s
+%s
 ```
 
 
@@ -1867,7 +1867,7 @@ Metric (%s)
 ```
 translated (by vanhavirta) as:
 ```
-SI-yksiköt ( %s )
+SI-yksiköt (%s)
 ```
 
 
@@ -1877,7 +1877,7 @@ Imperial (%s)
 ```
 translated (by vanhavirta) as:
 ```
-Imperiaaliset yksiköt  ( %s )
+Imperiaaliset yksiköt  (%s)
 ```
 
 
@@ -1897,7 +1897,7 @@ Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
 ```
 translated (by vanhavirta) as:
 ```
-Neliöjaardit/neliörod(rd²)/eekkeri/neliömaili(mi²)/Township
+Neliöjaardit/neliörod(rd²)/eekkeri/neliömaili(mi²)/township
 ```
 
 
@@ -2007,7 +2007,7 @@ Fit in a %1$sx%2$s square
 ```
 translated (by vanhavirta) as:
 ```
-Sovita %1$s x %2$s neliöön
+Sovita %1$sx%2$s neliöön
 ```
 
 
@@ -2367,7 +2367,7 @@ You understand English and want to help with translations? Click here
 ```
 translated (by vanhavirta) as:
 ```
-Hallitsetko englannin kielen ja haluatko auttaa käännösten tekemisessä? Klikkaa tästä
+Hallitsetko englannin kielen ja haluat auttaa käännösten tekemisessä? Klikkaa tästä
 ```
 
 
@@ -2517,7 +2517,7 @@ Standard text spreadsheet format. Cannot contain media. Cannot contain lines or 
 ```
 translated (by vanhavirta) as:
 ```
-Tavallinen taulukkolaskentamuoto (ei voi sisältää mediaa, viivoja tai kuvioita).
+Tavallinen taulukkomuoto (ei voi sisältää mediaa, viivoja tai kuvioita).
 ```
 
 
@@ -2647,7 +2647,7 @@ Boolean (True or False)
 ```
 translated (by vanhavirta) as:
 ```
-Boolean (totuusarvomuuttuja; tosi/epätosi)
+Totuusarvo (Boolean; tosi/epätosi)
 ```
 
 
@@ -3105,7 +3105,7 @@ Deleted %d duplicates
 ```
 translated (by vanhavirta) as:
 ```
-Poistettu %d kaksoiskappaletta
+Poistettu %d kaksoiskappale(tta)
 ```
 
 
@@ -3135,7 +3135,7 @@ Wondering how to configure search sources? Click here.
 ```
 translated (by vanhavirta) as:
 ```
-Mietitkö kuinka paikanhakulähteet määritetään? Klikkaa tästä.
+Mietitkö kuinka paikanhakulähteet määritetään? Klikkaa tätä.
 ```
 
 
@@ -3659,7 +3659,7 @@ Mitä tiedostomuotoa haluat käyttää tuontiin?
 ```
 translated (by vanhavirta) as:
 ```
-%1$s kansiota ja %2$s merkintää
+%1$s kansio(ta) ja %2$s merkintä(ä)
 ```
 
 
@@ -3819,7 +3819,7 @@ Offline-karttatiedostot
 ```
 translated (by vanhavirta) as:
 ```
-%s tiedostoa
+%s tiedosto(a)
 ```
 
 
@@ -4025,7 +4025,7 @@ Found %d duplicates. Are you sure you want to delete those duplicates?
 ```
 translated (by vanhavirta) as:
 ```
-Löytyi %d kaksoiskappaletta. Haluatko varmasti poistaa nämä kaksoiskappaleet?
+Löytyi %d kaksoiskappale(tta). Haluatko varmasti poistaa nämä kaksoiskappaleet?
 ```
 
 
@@ -4275,7 +4275,7 @@ Last backup was %s days ago
 ```
 translated (by vanhavirta) as:
 ```
-Viimeisin varmuuskopiointi tehtiin %s päivää sitten
+Viimeisin varmuuskopiointi tehtiin %s päivä(ä) sitten
 ```
 
 
@@ -4599,7 +4599,7 @@ Directions
 ```
 translated (by vanhavirta) as:
 ```
-Suunistusohjeet
+Suunnistusohjeet
 ```
 
 
@@ -4749,7 +4749,7 @@ translated (by vanhavirta) as:
 ```
 translated (by vanhavirta) as:
 ```
-%1$s minuuttia %2$s sekuntia
+%1$s minuutti(a) %2$s sekunti(a)
 ```
 
 
@@ -4899,7 +4899,7 @@ This track had no points recorded and has simply been discarded.
 ```
 translated (by vanhavirta) as:
 ```
-Tällä jäljellä ei ollut tallennettuja pisteitä ja poistettiin.
+Tällä jäljellä ei ollut tallennettuja pisteitä ja se poistettiin.
 ```
 
 
@@ -5069,7 +5069,7 @@ Korkeus
 ```
 translated (by vanhavirta) as:
 ```
-%1$s tuntia %2$s minuuttia %3$s sekuntia
+%1$s tunti(a) %2$s minuutti(a) %3$s sekunti(a)
 ```
 
 
