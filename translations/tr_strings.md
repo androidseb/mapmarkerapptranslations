@@ -2151,16 +2151,6 @@ dosyasını içe...
 ```
 
 
-## Translation Key: show_warning_icon_for_sync
-```
-Show warning icon for sync
-```
-translated (by machine 🤖) as:
-```
-Senkronizasyon için uyarı simgesi göster
-```
-
-
 ## Translation Key: general
 ```
 General
@@ -5280,6 +5270,26 @@ Tarayıcınızın tam uyumlu olmadığı anlaşılıyor - yalnızca Google Chrom
 Aşağıda uyumluluk ayrıntılarına bakın:
 
 %s
+```
+
+
+## Translation Key: show_data_backup_reminder
+```
+Show data backup reminder
+```
+translated (by machine 🤖) as:
+```
+Veri yedekleme hatırlatıcısını göster
+```
+
+
+## Translation Key: display_all_editing_shape_points
+```
+Display all editing shape points (slower)
+```
+translated (by machine 🤖) as:
+```
+Tüm düzenleme şekil noktalarını görüntüle (daha yavaş)
 ```
 
 

@@ -2413,3 +2413,13 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: show_warning_icon_for_sync
+```
+Show warning icon for sync
+```
+translated (by machine 🤖) as:
+```
+Показувати значок попередження для синхронізації
+```
+
+

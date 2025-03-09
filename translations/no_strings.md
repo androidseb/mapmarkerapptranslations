@@ -2151,16 +2151,6 @@ Importerer fil...
 ```
 
 
-## Translation Key: show_warning_icon_for_sync
-```
-Show warning icon for sync
-```
-translated (by machine 🤖) as:
-```
-Vis advarselsikon for synkronisering
-```
-
-
 ## Translation Key: general
 ```
 General
@@ -5280,6 +5270,26 @@ Det ser ut til at nettleseren din ikke er fullstendig kompatibel - bare Google C
 Se kompatibilitetsdetaljer nedenfor:
 
 %s
+```
+
+
+## Translation Key: show_data_backup_reminder
+```
+Show data backup reminder
+```
+translated (by machine 🤖) as:
+```
+Vis påminnelse om sikkerhetskopiering av data
+```
+
+
+## Translation Key: display_all_editing_shape_points
+```
+Display all editing shape points (slower)
+```
+translated (by machine 🤖) as:
+```
+Vis alle redigeringsformpunkter (tregere)
 ```
 
 

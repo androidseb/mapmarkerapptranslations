@@ -2151,16 +2151,6 @@ Uvažanje datoteke...
 ```
 
 
-## Translation Key: show_warning_icon_for_sync
-```
-Show warning icon for sync
-```
-translated (by human 👀) as:
-```
-Prikaži opozorilno ikono za sinhronizacijo
-```
-
-
 ## Translation Key: general
 ```
 General
@@ -5280,6 +5270,26 @@ Zdi se, da vaš brskalnik ni popolnoma združljiv - samo Google Chrome je preizk
 Spodaj si oglejte podrobnosti o združljivosti:
 
 %s
+```
+
+
+## Translation Key: show_data_backup_reminder
+```
+Show data backup reminder
+```
+translated (by machine 🤖) as:
+```
+Pokaži opomnik za varnostno kopiranje podatkov
+```
+
+
+## Translation Key: display_all_editing_shape_points
+```
+Display all editing shape points (slower)
+```
+translated (by machine 🤖) as:
+```
+Prikaži vse urejevalne točke oblike (počasneje)
 ```
 
 

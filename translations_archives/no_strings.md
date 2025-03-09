@@ -2413,3 +2413,13 @@ Det ser ut til at nettleseren din ikke er Google Chrome - bare Google Chrome er 
 ```
 
 
+## Translation Key: show_warning_icon_for_sync
+```
+Show warning icon for sync
+```
+translated (by machine 🤖) as:
+```
+Vis advarselsikon for synkronisering
+```
+
+

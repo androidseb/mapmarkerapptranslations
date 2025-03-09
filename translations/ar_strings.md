@@ -2151,16 +2151,6 @@ translated (by human 👀) as:
 ```
 
 
-## Translation Key: show_warning_icon_for_sync
-```
-Show warning icon for sync
-```
-translated (by human 👀) as:
-```
-اظهار ايقونة تحذير المزامنة
-```
-
-
 ## Translation Key: general
 ```
 General
@@ -5280,6 +5270,26 @@ translated (by machine 🤖) as:
 راجع تفاصيل التوافق أدناه:
 
 %s
+```
+
+
+## Translation Key: show_data_backup_reminder
+```
+Show data backup reminder
+```
+translated (by machine 🤖) as:
+```
+إظهار تذكير النسخ الاحتياطي للبيانات
+```
+
+
+## Translation Key: display_all_editing_shape_points
+```
+Display all editing shape points (slower)
+```
+translated (by machine 🤖) as:
+```
+عرض جميع نقاط شكل التحرير (أبطأ)
 ```
 
 

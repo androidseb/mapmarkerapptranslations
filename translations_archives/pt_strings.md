@@ -2413,3 +2413,13 @@ Parece que seu navegador não é o Google Chrome - apenas o Google Chrome foi te
 ```
 
 
+## Translation Key: show_warning_icon_for_sync
+```
+Show warning icon for sync
+```
+translated (by machine 🤖) as:
+```
+Mostrar ícone de aviso para sincronização
+```
+
+

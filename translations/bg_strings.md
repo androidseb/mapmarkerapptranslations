@@ -2151,16 +2151,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: show_warning_icon_for_sync
-```
-Show warning icon for sync
-```
-translated (by machine 🤖) as:
-```
-Покажи икона предупреждение за синхронизиране
-```
-
-
 ## Translation Key: general
 ```
 General
@@ -5280,6 +5270,26 @@ translated (by machine 🤖) as:
 Вижте подробности за съвместимостта по-долу:
 
 %s
+```
+
+
+## Translation Key: show_data_backup_reminder
+```
+Show data backup reminder
+```
+translated (by machine 🤖) as:
+```
+Показване на напомняне за архивиране на данни
+```
+
+
+## Translation Key: display_all_editing_shape_points
+```
+Display all editing shape points (slower)
+```
+translated (by machine 🤖) as:
+```
+Показване на всички редактирани точки на формата (по-бавно)
 ```
 
 

@@ -2151,16 +2151,6 @@ translated (by human 👀) as:
 ```
 
 
-## Translation Key: show_warning_icon_for_sync
-```
-Show warning icon for sync
-```
-translated (by human 👀) as:
-```
-同步显示警告图标
-```
-
-
 ## Translation Key: general
 ```
 General
@@ -5280,6 +5270,26 @@ translated (by machine 🤖) as:
 请参阅下面的兼容性详细信息：
 
 %s
+```
+
+
+## Translation Key: show_data_backup_reminder
+```
+Show data backup reminder
+```
+translated (by machine 🤖) as:
+```
+显示数据备份提醒
+```
+
+
+## Translation Key: display_all_editing_shape_points
+```
+Display all editing shape points (slower)
+```
+translated (by machine 🤖) as:
+```
+显示所有编辑形状点（较慢）
 ```
 
 

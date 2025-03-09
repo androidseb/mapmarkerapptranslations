@@ -2151,16 +2151,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: show_warning_icon_for_sync
-```
-Show warning icon for sync
-```
-translated (by machine 🤖) as:
-```
-Показују икону упозорења за синхронизацију
-```
-
-
 ## Translation Key: general
 ```
 General
@@ -5280,6 +5270,26 @@ translated (by machine 🤖) as:
 Погледајте детаље о компатибилности у наставку:
 
 %s
+```
+
+
+## Translation Key: show_data_backup_reminder
+```
+Show data backup reminder
+```
+translated (by machine 🤖) as:
+```
+Прикажи подсетник за резервну копију података
+```
+
+
+## Translation Key: display_all_editing_shape_points
+```
+Display all editing shape points (slower)
+```
+translated (by machine 🤖) as:
+```
+Прикажи све тачке облика за уређивање (спорије)
 ```
 
 

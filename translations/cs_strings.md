@@ -2151,16 +2151,6 @@ Import souboru...
 ```
 
 
-## Translation Key: show_warning_icon_for_sync
-```
-Show warning icon for sync
-```
-translated (by machine 🤖) as:
-```
-Zobrazit ikonu varování pro synchronizaci
-```
-
-
 ## Translation Key: general
 ```
 General
@@ -5280,6 +5270,26 @@ Zdá se, že váš prohlížeč není plně kompatibilní – jako plně kompati
 Podrobnosti o kompatibilitě naleznete níže:
 
 %s
+```
+
+
+## Translation Key: show_data_backup_reminder
+```
+Show data backup reminder
+```
+translated (by machine 🤖) as:
+```
+Zobrazit připomínku zálohování dat
+```
+
+
+## Translation Key: display_all_editing_shape_points
+```
+Display all editing shape points (slower)
+```
+translated (by machine 🤖) as:
+```
+Zobrazit všechny body tvaru pro úpravy (pomalejší)
 ```
 
 

@@ -2413,3 +2413,13 @@ Se pare că browserul dvs. nu este Google Chrome - doar Google Chrome este testa
 ```
 
 
+## Translation Key: show_warning_icon_for_sync
+```
+Show warning icon for sync
+```
+translated (by machine 🤖) as:
+```
+Afișați pictograma de avertizare pentru sincronizare
+```
+
+

@@ -2151,16 +2151,6 @@ Importação de arquivo...
 ```
 
 
-## Translation Key: show_warning_icon_for_sync
-```
-Show warning icon for sync
-```
-translated (by machine 🤖) as:
-```
-Mostrar ícone de aviso para sincronização
-```
-
-
 ## Translation Key: general
 ```
 General
@@ -5280,6 +5270,26 @@ Parece que seu navegador não é totalmente compatível - apenas o Google Chrome
 Veja os detalhes de compatibilidade abaixo:
 
 %s
+```
+
+
+## Translation Key: show_data_backup_reminder
+```
+Show data backup reminder
+```
+translated (by machine 🤖) as:
+```
+Mostrar lembrete de backup de dados
+```
+
+
+## Translation Key: display_all_editing_shape_points
+```
+Display all editing shape points (slower)
+```
+translated (by machine 🤖) as:
+```
+Exibir todos os pontos de forma de edição (mais lento)
 ```
 
 

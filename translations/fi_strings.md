@@ -1611,7 +1611,7 @@ Credits
 ```
 translated (by human 👀) as:
 ```
-Kartta-aineisto
+Tekijätiedot
 ```
 
 
@@ -2148,16 +2148,6 @@ Importing file…
 translated (by human 👀) as:
 ```
 Tuodaan tiedostoa...
-```
-
-
-## Translation Key: show_warning_icon_for_sync
-```
-Show warning icon for sync
-```
-translated (by human 👀) as:
-```
-Näytä synkronoinnin varoituskuvake
 ```
 
 
@@ -5280,6 +5270,26 @@ Näyttää siltä, että selaimesi ei ole täysin yhteensopiva - vain Google Chr
 Katso yhteensopivuustiedot alta:
 
 %s
+```
+
+
+## Translation Key: show_data_backup_reminder
+```
+Show data backup reminder
+```
+translated (by machine 🤖) as:
+```
+Näytä tietojen varmuuskopiointimuistutus
+```
+
+
+## Translation Key: display_all_editing_shape_points
+```
+Display all editing shape points (slower)
+```
+translated (by machine 🤖) as:
+```
+Näytä kaikki muokkauspisteet (hitaammin)
 ```
 
 

@@ -2151,16 +2151,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: show_warning_icon_for_sync
-```
-Show warning icon for sync
-```
-translated (by machine 🤖) as:
-```
-Εμφάνιση εικονίδιο προειδοποίησης για συγχρονισμό
-```
-
-
 ## Translation Key: general
 ```
 General
@@ -5280,6 +5270,26 @@ translated (by machine 🤖) as:
 Δείτε παρακάτω λεπτομέρειες συμβατότητας:
 
 %s
+```
+
+
+## Translation Key: show_data_backup_reminder
+```
+Show data backup reminder
+```
+translated (by machine 🤖) as:
+```
+Εμφάνιση υπενθύμισης δημιουργίας αντιγράφων ασφαλείας δεδομένων
+```
+
+
+## Translation Key: display_all_editing_shape_points
+```
+Display all editing shape points (slower)
+```
+translated (by machine 🤖) as:
+```
+Εμφάνιση όλων των σημείων σχήματος επεξεργασίας (πιο αργά)
 ```
 
 

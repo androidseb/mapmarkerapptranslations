@@ -2410,3 +2410,13 @@ Ihr Browser scheint nicht Google Chrome zu sein. Nur Google Chrome wurde als vol
 ```
 
 
+## Translation Key: show_warning_icon_for_sync
+```
+Show warning icon for sync
+```
+translated (by human 👀) as:
+```
+Warnsymbol für die Synchronisation zeigen
+```
+
+

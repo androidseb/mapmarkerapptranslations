@@ -2151,16 +2151,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: show_warning_icon_for_sync
-```
-Show warning icon for sync
-```
-translated (by machine 🤖) as:
-```
-แสดงไอคอนคำเตือนสำหรับการซิงค์
-```
-
-
 ## Translation Key: general
 ```
 General
@@ -5280,6 +5270,26 @@ translated (by machine 🤖) as:
 ดูรายละเอียดความเข้ากันได้ด้านล่าง:
 
 %s
+```
+
+
+## Translation Key: show_data_backup_reminder
+```
+Show data backup reminder
+```
+translated (by machine 🤖) as:
+```
+แสดงการแจ้งเตือนการสำรองข้อมูล
+```
+
+
+## Translation Key: display_all_editing_shape_points
+```
+Display all editing shape points (slower)
+```
+translated (by machine 🤖) as:
+```
+แสดงจุดแก้ไขรูปร่างทั้งหมด (ช้าลง)
 ```
 
 

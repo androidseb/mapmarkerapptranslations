@@ -2413,3 +2413,13 @@ Có vẻ như trình duyệt của bạn không phải là Google Chrome - chỉ
 ```
 
 
+## Translation Key: show_warning_icon_for_sync
+```
+Show warning icon for sync
+```
+translated (by machine 🤖) as:
+```
+Hiển thị biểu tượng cảnh báo cho đồng bộ
+```
+
+

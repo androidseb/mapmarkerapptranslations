@@ -2413,3 +2413,13 @@ Zdá sa, že váš prehliadač nie je Google Chrome – iba Google Chrome je tes
 ```
 
 
+## Translation Key: show_warning_icon_for_sync
+```
+Show warning icon for sync
+```
+translated (by machine 🤖) as:
+```
+Zobraziť ikonu varovanie pre synchronizáciu
+```
+
+

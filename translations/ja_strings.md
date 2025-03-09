@@ -2151,16 +2151,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: show_warning_icon_for_sync
-```
-Show warning icon for sync
-```
-translated (by machine 🤖) as:
-```
-同期の警告アイコンを表示する。
-```
-
-
 ## Translation Key: general
 ```
 General
@@ -5279,6 +5269,26 @@ translated (by machine 🤖) as:
 互換性の詳細は以下をご覧ください:
 
 %s
+```
+
+
+## Translation Key: show_data_backup_reminder
+```
+Show data backup reminder
+```
+translated (by machine 🤖) as:
+```
+データバックアップリマインダーを表示
+```
+
+
+## Translation Key: display_all_editing_shape_points
+```
+Display all editing shape points (slower)
+```
+translated (by machine 🤖) as:
+```
+編集中のシェイプポイントをすべて表示（低速）
 ```
 
 

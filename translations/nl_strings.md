@@ -2151,16 +2151,6 @@ Importeren van bestanden...
 ```
 
 
-## Translation Key: show_warning_icon_for_sync
-```
-Show warning icon for sync
-```
-translated (by human 👀) as:
-```
-Toon waarschuwingspictogram voor synchronisatie
-```
-
-
 ## Translation Key: general
 ```
 General
@@ -5280,6 +5270,26 @@ Het lijkt erop dat uw browser niet volledig compatibel is - alleen Google Chrome
 Zie compatibiliteitsdetails hieronder:
 
 %s
+```
+
+
+## Translation Key: show_data_backup_reminder
+```
+Show data backup reminder
+```
+translated (by machine 🤖) as:
+```
+Herinnering voor gegevensback-up weergeven
+```
+
+
+## Translation Key: display_all_editing_shape_points
+```
+Display all editing shape points (slower)
+```
+translated (by machine 🤖) as:
+```
+Alle bewerkingsvormpunten weergeven (langzamer)
 ```
 
 

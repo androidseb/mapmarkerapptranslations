@@ -2151,16 +2151,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: show_warning_icon_for_sync
-```
-Show warning icon for sync
-```
-translated (by machine 🤖) as:
-```
-បង្ហាញរូបតំណាងការព្រមានធ្វើសមកាលកម្ម
-```
-
-
 ## Translation Key: general
 ```
 General
@@ -5280,6 +5270,26 @@ translated (by machine 🤖) as:
 សូមមើលព័ត៌មានលម្អិតអំពីភាពឆបគ្នាខាងក្រោម៖
 
 %s
+```
+
+
+## Translation Key: show_data_backup_reminder
+```
+Show data backup reminder
+```
+translated (by machine 🤖) as:
+```
+បង្ហាញការរំលឹកការបម្រុងទុកទិន្នន័យ
+```
+
+
+## Translation Key: display_all_editing_shape_points
+```
+Display all editing shape points (slower)
+```
+translated (by machine 🤖) as:
+```
+បង្ហាញចំណុចកែទម្រង់ទាំងអស់ (យឺតជាង)
 ```
 
 

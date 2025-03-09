@@ -2151,16 +2151,6 @@ Importerar fil …
 ```
 
 
-## Translation Key: show_warning_icon_for_sync
-```
-Show warning icon for sync
-```
-translated (by human 👀) as:
-```
-Visa varningsikon för synk
-```
-
-
 ## Translation Key: general
 ```
 General
@@ -5280,6 +5270,26 @@ Det verkar som om din webbläsare inte är helt kompatibel - bara Google Chrome 
 Se kompatibilitetsdetaljer nedan:
 
 %s
+```
+
+
+## Translation Key: show_data_backup_reminder
+```
+Show data backup reminder
+```
+translated (by machine 🤖) as:
+```
+Visa påminnelse om säkerhetskopiering av data
+```
+
+
+## Translation Key: display_all_editing_shape_points
+```
+Display all editing shape points (slower)
+```
+translated (by machine 🤖) as:
+```
+Visa alla redigeringsformpunkter (långsammare)
 ```
 
 

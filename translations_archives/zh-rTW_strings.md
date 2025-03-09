@@ -2405,3 +2405,13 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: show_warning_icon_for_sync
+```
+Show warning icon for sync
+```
+translated (by machine 🤖) as:
+```
+顯示同步警告圖標
+```
+
+

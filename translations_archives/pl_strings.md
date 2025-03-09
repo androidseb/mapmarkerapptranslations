@@ -2413,3 +2413,13 @@ Wygląda na to, że Twoja przeglądarka nie jest Google Chrome — tylko Google 
 ```
 
 
+## Translation Key: show_warning_icon_for_sync
+```
+Show warning icon for sync
+```
+translated (by human 👀) as:
+```
+Pokaż ikonę ostrzenia dla synchronizacji
+```
+
+

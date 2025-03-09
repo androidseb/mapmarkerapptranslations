@@ -2414,3 +2414,13 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: show_warning_icon_for_sync
+```
+Show warning icon for sync
+```
+translated (by machine 🤖) as:
+```
+同期の警告アイコンを表示する。
+```
+
+

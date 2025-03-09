@@ -2410,3 +2410,13 @@ Zdi se, da vaš brskalnik ni Google Chrome – samo Google Chrome je preizkušen
 ```
 
 
+## Translation Key: show_warning_icon_for_sync
+```
+Show warning icon for sync
+```
+translated (by human 👀) as:
+```
+Prikaži opozorilno ikono za sinhronizacijo
+```
+
+

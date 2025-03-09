@@ -2151,16 +2151,6 @@ La importació d'arxius...
 ```
 
 
-## Translation Key: show_warning_icon_for_sync
-```
-Show warning icon for sync
-```
-translated (by machine 🤖) as:
-```
-Mostra icona d'advertència per a la sincronització
-```
-
-
 ## Translation Key: general
 ```
 General
@@ -5280,6 +5270,26 @@ Sembla que el vostre navegador no és totalment compatible; només es prova Goog
 Vegeu els detalls de compatibilitat a continuació:
 
 %s
+```
+
+
+## Translation Key: show_data_backup_reminder
+```
+Show data backup reminder
+```
+translated (by machine 🤖) as:
+```
+Mostra el recordatori de còpia de seguretat de dades
+```
+
+
+## Translation Key: display_all_editing_shape_points
+```
+Display all editing shape points (slower)
+```
+translated (by machine 🤖) as:
+```
+Mostra tots els punts de forma d'edició (més lent)
 ```
 
 

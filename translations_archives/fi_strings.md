@@ -2413,3 +2413,13 @@ Näyttää siltä, että selaimesi ei ole Google Chrome - vain Google Chrome on 
 ```
 
 
+## Translation Key: show_warning_icon_for_sync
+```
+Show warning icon for sync
+```
+translated (by human 👀) as:
+```
+Näytä synkronoinnin varoituskuvake
+```
+
+

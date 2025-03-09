@@ -2413,3 +2413,13 @@ Det verkar som om din webbläsare inte är Google Chrome - bara Google Chrome te
 ```
 
 
+## Translation Key: show_warning_icon_for_sync
+```
+Show warning icon for sync
+```
+translated (by human 👀) as:
+```
+Visa varningsikon för synk
+```
+
+

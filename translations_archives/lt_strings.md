@@ -2412,3 +2412,13 @@ Panašu, kad jūsų naršyklė nėra „Google Chrome“ – tik „Google Chrom
 ```
 
 
+## Translation Key: show_warning_icon_for_sync
+```
+Show warning icon for sync
+```
+translated (by human 👀) as:
+```
+Rodyti įspėjimo piktogramą sinchronizacijai
+```
+
+

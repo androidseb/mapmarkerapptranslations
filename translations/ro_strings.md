@@ -2151,16 +2151,6 @@ Se importă fișierul...
 ```
 
 
-## Translation Key: show_warning_icon_for_sync
-```
-Show warning icon for sync
-```
-translated (by machine 🤖) as:
-```
-Afișați pictograma de avertizare pentru sincronizare
-```
-
-
 ## Translation Key: general
 ```
 General
@@ -5280,6 +5270,26 @@ Se pare că browserul dvs. nu este pe deplin compatibil - doar Google Chrome est
 Vedeți mai jos detaliile de compatibilitate:
 
 %s
+```
+
+
+## Translation Key: show_data_backup_reminder
+```
+Show data backup reminder
+```
+translated (by machine 🤖) as:
+```
+Afișează memento pentru copierea de rezervă a datelor
+```
+
+
+## Translation Key: display_all_editing_shape_points
+```
+Display all editing shape points (slower)
+```
+translated (by machine 🤖) as:
+```
+Afișează toate punctele de formă de editare (mai lent)
 ```
 
 

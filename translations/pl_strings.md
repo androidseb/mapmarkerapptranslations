@@ -2151,16 +2151,6 @@ Importowanie pliku...
 ```
 
 
-## Translation Key: show_warning_icon_for_sync
-```
-Show warning icon for sync
-```
-translated (by human 👀) as:
-```
-Pokaż ikonę ostrzenia dla synchronizacji
-```
-
-
 ## Translation Key: general
 ```
 General
@@ -5280,6 +5270,26 @@ Wygląda na to, że Twoja przeglądarka nie jest w pełni zgodna — tylko Googl
 Zobacz szczegóły zgodności poniżej:
 
 %s
+```
+
+
+## Translation Key: show_data_backup_reminder
+```
+Show data backup reminder
+```
+translated (by machine 🤖) as:
+```
+Pokaż przypomnienie o kopii zapasowej danych
+```
+
+
+## Translation Key: display_all_editing_shape_points
+```
+Display all editing shape points (slower)
+```
+translated (by machine 🤖) as:
+```
+Wyświetl wszystkie punkty kształtu edycji (wolniej)
 ```
 
 

@@ -2151,16 +2151,6 @@ Byla importuojama…
 ```
 
 
-## Translation Key: show_warning_icon_for_sync
-```
-Show warning icon for sync
-```
-translated (by human 👀) as:
-```
-Rodyti įspėjimo piktogramą sinchronizacijai
-```
-
-
 ## Translation Key: general
 ```
 General
@@ -5280,6 +5270,26 @@ Panašu, kad jūsų naršyklė nėra visiškai suderinama – tik „Google Chro
 Žr. toliau pateiktą suderinamumo informaciją:
 
 %s
+```
+
+
+## Translation Key: show_data_backup_reminder
+```
+Show data backup reminder
+```
+translated (by machine 🤖) as:
+```
+Rodyti duomenų atsarginės kopijos priminimą
+```
+
+
+## Translation Key: display_all_editing_shape_points
+```
+Display all editing shape points (slower)
+```
+translated (by machine 🤖) as:
+```
+Rodyti visus redaguojamus formos taškus (lėčiau)
 ```
 
 

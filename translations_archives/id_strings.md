@@ -2413,3 +2413,13 @@ Sepertinya browser Anda bukan Google Chrome - hanya Google Chrome yang diuji seb
 ```
 
 
+## Translation Key: show_warning_icon_for_sync
+```
+Show warning icon for sync
+```
+translated (by machine 🤖) as:
+```
+Tampilkan ikon peringatan untuk sinkronisasi
+```
+
+

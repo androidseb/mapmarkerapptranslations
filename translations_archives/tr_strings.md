@@ -2413,3 +2413,13 @@ Tarayıcınızın Google Chrome olmadığı anlaşılıyor - yalnızca Google Ch
 ```
 
 
+## Translation Key: show_warning_icon_for_sync
+```
+Show warning icon for sync
+```
+translated (by machine 🤖) as:
+```
+Senkronizasyon için uyarı simgesi göster
+```
+
+

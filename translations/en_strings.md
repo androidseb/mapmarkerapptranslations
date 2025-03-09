@@ -2151,16 +2151,6 @@ Importing file…
 ```
 
 
-## Translation Key: show_warning_icon_for_sync
-```
-Show warning icon for sync
-```
-translated (by machine 🤖) as:
-```
-Show warning icon for sync
-```
-
-
 ## Translation Key: general
 ```
 General
@@ -5280,6 +5270,26 @@ It seems your browser is not fully compatible - only Google Chrome is tested as 
 See compatibility details below:
 
 %s
+```
+
+
+## Translation Key: show_data_backup_reminder
+```
+Show data backup reminder
+```
+translated (by machine 🤖) as:
+```
+Show data backup reminder
+```
+
+
+## Translation Key: display_all_editing_shape_points
+```
+Display all editing shape points (slower)
+```
+translated (by machine 🤖) as:
+```
+Display all editing shape points (slower)
 ```
 
 

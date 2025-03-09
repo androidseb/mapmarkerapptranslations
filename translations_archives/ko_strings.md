@@ -2413,3 +2413,13 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: show_warning_icon_for_sync
+```
+Show warning icon for sync
+```
+translated (by machine 🤖) as:
+```
+동기화에 대한 경고 아이콘 표시
+```
+
+

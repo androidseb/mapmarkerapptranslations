@@ -2407,3 +2407,13 @@ Het lijkt erop dat uw browser niet Google Chrome is - alleen Google Chrome is ge
 ```
 
 
+## Translation Key: show_warning_icon_for_sync
+```
+Show warning icon for sync
+```
+translated (by human 👀) as:
+```
+Toon waarschuwingspictogram voor synchronisatie
+```
+
+
