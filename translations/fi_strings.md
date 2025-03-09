@@ -3173,7 +3173,7 @@ Valitse paikanhakulähde
 ```
 Enter value for field "%s"
 ```
-translated (byvanhavirta) as:
+translated (by human 👀) as:
 ```
 Anna tietokentän arvo "%s"
 ```
@@ -3315,7 +3315,7 @@ Bing
 ```
 This folder has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
 ```
-translated (byvanhavirta) as:
+translated (by human 👀) as:
 ```
 Tässä kansiossa on alikansioita. Haluatko poistaa myös alikansiot? Kaikki poistettuihin kansioihin tallennetut merkinnät poistetaan pysyvästi!
 ```
@@ -4103,7 +4103,7 @@ Vie lokitiedosto
 ```
 Export the log file so that it can be shared for debugging purposes
 ```
-translated (byvanhavirta) as:
+translated (by human 👀) as:
 ```
 Vie lokitiedosto, jotta se voidaan jakaa sovelluksen kehittämistä varten
 ```
@@ -4697,7 +4697,7 @@ OpenMoji
 ```
 Select an option to save the exported file.
 ```
-translated (byvanhavirta) as:
+translated (by human 👀) as:
 ```
 Valitse vaihtoehto viedyn tiedoston tallentamiseksi.
 ```
