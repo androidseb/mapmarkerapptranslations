@@ -5,7 +5,7 @@
 ```
 OK
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 OK
 ```
@@ -15,7 +15,7 @@ OK
 ```
 Yes
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Kyllä
 ```
@@ -25,7 +25,7 @@ Kyllä
 ```
 No
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Ei
 ```
@@ -35,9 +35,9 @@ Ei
 ```
 Cancel
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Peruuttaa
+Peruuta
 ```
 
 
@@ -45,9 +45,9 @@ Peruuttaa
 ```
 New marker
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Uusi merkki
+Uusi karttamerkintä
 ```
 
 
@@ -55,7 +55,7 @@ Uusi merkki
 ```
 Title
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Otsikko
 ```
@@ -65,7 +65,7 @@ Otsikko
 ```
 Description
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Kuvaus
 ```
@@ -75,9 +75,9 @@ Kuvaus
 ```
 Do you really want to delete this marker?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Haluatko todella poistaa tämän merkin?
+Haluatko varmasti poistaa tämän karttamerkinnän?
 ```
 
 
@@ -85,7 +85,7 @@ Haluatko todella poistaa tämän merkin?
 ```
 GPS coordinates
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 GPS-koordinaatit
 ```
@@ -95,7 +95,7 @@ GPS-koordinaatit
 ```
 Coordinates copied to clipboard
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Koordinaatit kopioitu leikepöydälle
 ```
@@ -105,9 +105,9 @@ Koordinaatit kopioitu leikepöydälle
 ```
 Untitled
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Untitled
+Nimetön
 ```
 
 
@@ -115,7 +115,7 @@ Untitled
 ```
 All
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Kaikki
 ```
@@ -125,7 +125,7 @@ Kaikki
 ```
 Add folder
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Lisää kansio
 ```
@@ -135,7 +135,7 @@ Lisää kansio
 ```
 Modify folder
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Muokkaa kansiota
 ```
@@ -145,9 +145,9 @@ Muokkaa kansiota
 ```
 Are you sure you want to delete this folder? All markers associated to this folder will be deleted permanently!
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Oletko varma, että haluat poistaa tämän kansion? Kaikki merkkiaineita, jotka liittyvät tähän kansioon poistetaan pysyvästi!
+Oletko varma että haluat poistaa tämän kansion? Kaikki kansioon liittyvät karttamerkinnät poistetaan pysyvästi!
 ```
 
 
@@ -155,9 +155,9 @@ Oletko varma, että haluat poistaa tämän kansion? Kaikki merkkiaineita, jotka 
 ```
 Failed to create new folder, it already exists
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Luominen epäonnistui uuden kansion, se on jo olemassa
+Uuden kansion luominen epäonnistui: nimi on jo käytössä
 ```
 
 
@@ -165,9 +165,9 @@ Luominen epäonnistui uuden kansion, se on jo olemassa
 ```
 Failed to rename the folder, the destination name already exists
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Epäonnistui nimetä kansion, määränpää on jo olemassa
+Kansion nimeäminen epäonnistui: nimi on jo käytössä
 ```
 
 
@@ -175,9 +175,9 @@ Epäonnistui nimetä kansion, määränpää on jo olemassa
 ```
 Latitude:
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Latitude:
+Leveysaste:
 ```
 
 
@@ -185,7 +185,7 @@ Latitude:
 ```
 Longitude:
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Pituusaste:
 ```
@@ -195,9 +195,9 @@ Pituusaste:
 ```
 Import markers
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Tuo markkereita
+Tuo karttamerkintöjä
 ```
 
 
@@ -205,7 +205,7 @@ Tuo markkereita
 ```
 File imported successfully
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Tiedoston tuonti onnistui
 ```
@@ -215,7 +215,7 @@ Tiedoston tuonti onnistui
 ```
 File import failed
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Tiedoston tuonti epäonnistui
 ```
@@ -225,9 +225,9 @@ Tiedoston tuonti epäonnistui
 ```
 Location services
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Sijainti palvelut
+Sijaintipalvelut
 ```
 
 
@@ -235,9 +235,9 @@ Sijainti palvelut
 ```
 Location services are disabled. To get your current location you must enable them.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Sijainti palvelut ovat poissa käytöstä. Saadaksesi nykyisen sijainnin sinun on annettava heille.
+Sijaintipalvelut ovat poissa käytöstä. Niitä tarvitaan sijainnin määrittämiseksi.
 ```
 
 
@@ -245,9 +245,9 @@ Sijainti palvelut ovat poissa käytöstä. Saadaksesi nykyisen sijainnin sinun o
 ```
 Could not find address
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Ei löytänyt osoitetta
+Osoitetta ei löydy
 ```
 
 
@@ -255,7 +255,7 @@ Ei löytänyt osoitetta
 ```
 Searching...
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Haetaan...
 ```
@@ -265,7 +265,7 @@ Haetaan...
 ```
 Search
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Haku
 ```
@@ -275,9 +275,9 @@ Haku
 ```
 Share via
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Jaa kautta
+Jaa...
 ```
 
 
@@ -285,9 +285,9 @@ Jaa kautta
 ```
 Do you want to import the content of this file?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Haluatko tuoda sisältöä tämän tiedoston?
+Haluatko tuoda tämän tiedoston sisällön?
 ```
 
 
@@ -295,7 +295,7 @@ Haluatko tuoda sisältöä tämän tiedoston?
 ```
 Folder name
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Kansion nimi
 ```
@@ -305,7 +305,7 @@ Kansion nimi
 ```
 Save
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Tallenna
 ```
@@ -315,9 +315,9 @@ Tallenna
 ```
 Are you sure you want to delete the selected markers?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Oletko varma, että haluat poistaa valitun markkereita?
+Oletko varma että haluat poistaa valitut karttamerkinnät?
 ```
 
 
@@ -325,9 +325,9 @@ Oletko varma, että haluat poistaa valitun markkereita?
 ```
 Share
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Osuus
+Jaa
 ```
 
 
@@ -335,9 +335,9 @@ Osuus
 ```
 Processing data...
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Processing tiedot...
+Käsitellään tietoja...
 ```
 
 
@@ -347,7 +347,7 @@ You have unsaved modifications, do you want to save them?
 ```
 translated (by machine 🤖) as:
 ```
-Sinulla ei ole tallennettu muutoksia, haluatko tallentaa ne?
+Haluatko tallentaa muutokset?
 ```
 
 
@@ -355,9 +355,9 @@ Sinulla ei ole tallennettu muutoksia, haluatko tallentaa ne?
 ```
 Map type
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kartta tyyppi
+Taustakartta
 ```
 
 
@@ -366,10 +366,10 @@ Kartta tyyppi
 Found a problem? Have an idea of improvement?
 Send me an email :-)
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Löytyi ongelma? Onko ajatus parannus? 
- Lähetä minulle email :-)
+Löysitkö ongelman tai onko sinulla parannusehdotus? 
+Lähetä minulle sähköpostia :-)
 ```
 
 
@@ -377,9 +377,9 @@ Löytyi ongelma? Onko ajatus parannus?
 ```
 Send email...
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Lähetä email...
+Lähetä sähköpostia...
 ```
 
 
@@ -390,8 +390,8 @@ Rate it 5 stars :-)
 ```
 translated (by machine 🤖) as:
 ```
-Pidätkö app? 
- Arvostele 5 tähteä :-)
+Pidätkö sovelluksesta? 
+Anna sille viisi tähteä :-)
 ```
 
 
@@ -399,9 +399,9 @@ Pidätkö app?
 ```
 Meters
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Mittarit
+metriä
 ```
 
 
@@ -409,9 +409,9 @@ Mittarit
 ```
 Km
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Km
+km
 ```
 
 
@@ -419,9 +419,9 @@ Km
 ```
 Feet
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Jalat
+jalkaa
 ```
 
 
@@ -429,9 +429,9 @@ Jalat
 ```
 Miles
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Miles
+mailia
 ```
 
 
@@ -439,9 +439,9 @@ Miles
 ```
 Marker details copied to clipboard
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Marker tiedot kopioidaan leikepöydälle
+Merkinnän tiedot kopioitu leikepöydälle
 ```
 
 
@@ -449,7 +449,7 @@ Marker tiedot kopioidaan leikepöydälle
 ```
 Do not show again
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Älä näytä uudelleen
 ```
@@ -459,9 +459,9 @@ translated (by machine 🤖) as:
 ```
 Metric (Kilometers/Meters)
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Metric (kilometriä / m)
+SI-yksiköt (kilometrit / metrit)
 ```
 
 
@@ -469,9 +469,9 @@ Metric (kilometriä / m)
 ```
 Imperial (Miles/Feet)
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Imperial (Miles / Feet)
+Imperiaaliset (mailit / jalat)
 ```
 
 
@@ -479,7 +479,7 @@ Imperial (Miles / Feet)
 ```
 Delete folder
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Poista kansio
 ```
@@ -489,9 +489,9 @@ Poista kansio
 ```
 Could not find the place
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Ei löytänyt paikkaa
+Sijaintia ei löydy
 ```
 
 
@@ -499,9 +499,9 @@ Ei löytänyt paikkaa
 ```
 Could not find another map application
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Ei löytänyt toisen karttasovellus
+Karttasovellusta ei löydy
 ```
 
 
@@ -509,9 +509,9 @@ Ei löytänyt toisen karttasovellus
 ```
 Move the map around to place your marker where you want and click OK to place it.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Siirrä karttaa ympäri laitat merkin missä haluat ja klikkaa OK sijoittaa sen
+Sijoita merkintä karttaa vierittämällä ja tallenna sijainti painamalla OK
 ```
 
 
@@ -519,9 +519,9 @@ Siirrä karttaa ympäri laitat merkin missä haluat ja klikkaa OK sijoittaa sen
 ```
 Imported marker
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Tuodut merkki
+Tuotu merkintä
 ```
 
 
@@ -529,7 +529,7 @@ Tuodut merkki
 ```
 Settings
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Asetukset
 ```
@@ -539,9 +539,9 @@ Asetukset
 ```
 Display zoom buttons
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Näyttö zoomauspainikkeita
+Näytä zoomauspainikkeet
 ```
 
 
@@ -549,9 +549,9 @@ Näyttö zoomauspainikkeita
 ```
 Decimal degrees
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Desimaaliasteita
+Desimaaliasteet
 ```
 
 
@@ -559,9 +559,9 @@ Desimaaliasteita
 ```
 Degrees decimal minutes
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Tutkinnot desimaalin minuuttia
+Asteet ja desimaaliminuuutit
 ```
 
 
@@ -569,9 +569,9 @@ Tutkinnot desimaalin minuuttia
 ```
 Degrees minutes seconds
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Tutkinnot minuuttia sekuntia
+Asteet, minuutit ja sekunnit
 ```
 
 
@@ -579,9 +579,9 @@ Tutkinnot minuuttia sekuntia
 ```
 Coordinates format
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Koordinaatit muodossa
+Koordinaattien esitysmuoto
 ```
 
 
@@ -589,9 +589,9 @@ Koordinaatit muodossa
 ```
 FAQ/Help
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-UKK / Apua
+Ohjeet ja UKK
 ```
 
 
@@ -599,7 +599,7 @@ UKK / Apua
 ```
 Folders
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Kansiot
 ```
@@ -609,7 +609,7 @@ Kansiot
 ```
 Language
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Kieli
 ```
@@ -619,7 +619,7 @@ Kieli
 ```
 Coordinates
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Koordinaatit
 ```
@@ -629,9 +629,9 @@ Koordinaatit
 ```
 Contextual
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kontekstuaalinen
+Tarvittaessa
 ```
 
 
@@ -639,7 +639,7 @@ Kontekstuaalinen
 ```
 Always
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Aina
 ```
@@ -649,9 +649,9 @@ Aina
 ```
 Crosshair display
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Crosshair näyttö
+Tähtäimen näyttö
 ```
 
 
@@ -659,9 +659,9 @@ Crosshair näyttö
 ```
 Coordinates window
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Koordinaatit ikkuna
+Koordinaattien näyttö
 ```
 
 
@@ -669,7 +669,7 @@ Koordinaatit ikkuna
 ```
 Lat:
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Lat:
 ```
@@ -679,9 +679,9 @@ Lat:
 ```
 Lng:
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-LNG:
+Long:
 ```
 
 
@@ -689,9 +689,9 @@ LNG:
 ```
 Marker instant adding mode
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Marker instant lisäämällä tilassa
+Merkintöjen pikalisäys
 ```
 
 
@@ -699,9 +699,9 @@ Marker instant lisäämällä tilassa
 ```
 Advanced
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kehittynyt
+Lisäasetukset
 ```
 
 
@@ -709,7 +709,7 @@ Kehittynyt
 ```
 Display
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Näyttö
 ```
@@ -719,7 +719,7 @@ Näyttö
 ```
 Actions
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Toiminnot
 ```
@@ -729,7 +729,7 @@ Toiminnot
 ```
 Language and units
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Kieli ja yksiköt
 ```
@@ -739,9 +739,9 @@ Kieli ja yksiköt
 ```
 %1$s markers
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-%1$s markkereita
+%1$s merkintää
 ```
 
 
@@ -749,9 +749,9 @@ translated (by machine 🤖) as:
 ```
 Marker %1$d
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Marker %1$d
+Merkintä %1$d
 ```
 
 
@@ -759,9 +759,9 @@ Marker %1$d
 ```
 Waiting for location...
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Odotetaan sijainti...
+Odotetaan sijaintia...
 ```
 
 
@@ -769,9 +769,9 @@ Odotetaan sijainti...
 ```
 Open the help page and see the FAQ
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Avaa ohjesivu ja katso UKK
+Avaa ohjesivu ja UKK
 ```
 
 
@@ -779,7 +779,7 @@ Avaa ohjesivu ja katso UKK
 ```
 Features
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Ominaisuudet
 ```
@@ -789,9 +789,9 @@ Ominaisuudet
 ```
 View the list of upcoming features for the next app version
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Katso lista tulevista ominaisuuksista seuraavan sovelluksen versio
+Katso lista seuraavan sovelluspäivityksen tuomista ominaisuuksista
 ```
 
 
@@ -799,7 +799,7 @@ Katso lista tulevista ominaisuuksista seuraavan sovelluksen versio
 ```
 Help & Feedback
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Ohjeet ja palaute
 ```
@@ -809,9 +809,9 @@ Ohjeet ja palaute
 ```
 About
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Noin
+Tietoja sovelluksesta
 ```
 
 
@@ -819,9 +819,9 @@ Noin
 ```
 Snapshot
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kuva
+Tilannekatsaus
 ```
 
 
@@ -829,9 +829,9 @@ Kuva
 ```
 Share a snapshot of the map
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Jaa tilannekuvan kartalla
+Jaa tilannekatsaus
 ```
 
 
@@ -839,9 +839,9 @@ Jaa tilannekuvan kartalla
 ```
 All markers and folders
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kaikki markkereita ja kansiot
+Kaikki merkinnät ja kansiot
 ```
 
 
@@ -849,9 +849,9 @@ Kaikki markkereita ja kansiot
 ```
 Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kiitos lahjoitus! Tämä lahjoitus rintanappi antaa sinulle pääsyn erikoisominaisuuksia :-)
+Kiitos lahjoituksestasi! Tämä arvomerkki myöntää sinulle pääsyn erikoisominaisuuksiin :-)
 ```
 
 
@@ -859,7 +859,7 @@ Kiitos lahjoitus! Tämä lahjoitus rintanappi antaa sinulle pääsyn erikoisomin
 ```
 Default folder
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Oletuskansio
 ```
@@ -869,9 +869,9 @@ Oletuskansio
 ```
 Sync options
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Synkronointivalinnat
+Synkronointiasetukset
 ```
 
 
@@ -879,9 +879,9 @@ Synkronointivalinnat
 ```
 Never
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Ei ikinä
+Ei koskaan
 ```
 
 
@@ -889,7 +889,7 @@ Ei ikinä
 ```
 Select folder
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Valitse kansio
 ```
@@ -899,9 +899,9 @@ Valitse kansio
 ```
 Premium access available! You currently have access to premium features.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Premium saatavilla! Sinulla on pääsy erikoisominaisuuksia.
+Premium-versio käytössä! Voit nyt käyttää erikoisominaisuuksia.
 ```
 
 
@@ -909,9 +909,9 @@ Premium saatavilla! Sinulla on pääsy erikoisominaisuuksia.
 ```
 File options
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Tiedosto vaihtoehdot
+Tiedostoasetukset
 ```
 
 
@@ -919,9 +919,9 @@ Tiedosto vaihtoehdot
 ```
 Cloud sync
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Pilvi synkronointi
+Pilvisynkronointi
 ```
 
 
@@ -929,9 +929,9 @@ Pilvi synkronointi
 ```
 Sync this map file on the cloud
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Synkronoida tämän kartan tiedosto pilvi
+Synkronoi tämä karttatiedosto pilvipalveluun
 ```
 
 
@@ -939,9 +939,9 @@ Synkronoida tämän kartan tiedosto pilvi
 ```
 Create local map
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Luoda paikallisia kartta
+Luo paikallisesti tallennettu kartta
 ```
 
 
@@ -949,9 +949,9 @@ Luoda paikallisia kartta
 ```
 Create a new map file locally
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Luo uusi kartta tiedosto paikallisesti
+Luo uusi paikallisesti tallennettu kartta
 ```
 
 
@@ -959,9 +959,9 @@ Luo uusi kartta tiedosto paikallisesti
 ```
 Create cloud map
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Luo pilvi kartta
+Luo kartta pilvipalveluun
 ```
 
 
@@ -969,9 +969,9 @@ Luo pilvi kartta
 ```
 Create a map file on the cloud
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Luo kartta tiedosto pilvi
+Luo karttatiedosto pilvipalveluun
 ```
 
 
@@ -979,9 +979,9 @@ Luo kartta tiedosto pilvi
 ```
 Rename
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Nimetä uudelleen
+Nimeä uudelleen
 ```
 
 
@@ -989,9 +989,9 @@ Nimetä uudelleen
 ```
 Rename the map
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Nimeä kartta
+Nimeä kartta uudelleen
 ```
 
 
@@ -999,9 +999,9 @@ Nimeä kartta
 ```
 Enter the new map's name
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kirjoita uuden kartan nimi
+Uuden kartan nimi
 ```
 
 
@@ -1009,9 +1009,9 @@ Kirjoita uuden kartan nimi
 ```
 Could not create folder: name empty
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Ei voitu luoda kansiota: name tyhjä
+Kansion luonti epäonnistui: nimikenttä tyhjä
 ```
 
 
@@ -1019,9 +1019,9 @@ Ei voitu luoda kansiota: name tyhjä
 ```
 Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kiitämme Map Marker Premium päivittää :-)
+Kiitämme päivityksestä Map Markerin Premium-versioon :-)
 ```
 
 
@@ -1029,9 +1029,9 @@ Kiitämme Map Marker Premium päivittää :-)
 ```
 Premium
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Palkkio
+Premium-versio
 ```
 
 
@@ -1039,9 +1039,9 @@ Palkkio
 ```
 Upgrade to premium and take full advantage of Map Marker features!
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Päivitä palkkio ja hyödyntää Map Marker ominaisuuksia!
+Päivitä Premium-versioon ja hyödynnä Map Markerin erikoisominaisuudet!
 ```
 
 
@@ -1049,9 +1049,9 @@ Päivitä palkkio ja hyödyntää Map Marker ominaisuuksia!
 ```
 Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Anteeksi, tarvitset Premium päivitysversio käyttää tätä toimintoa. Päivitä palkkio ja hyödyntää Map Marker ominaisuuksia!
+Tämä toiminto vaatii Premium-version. Päivitä sovellus ja hyödynnä Map Markerin erikoisominaisuudet!
 ```
 
 
@@ -1059,7 +1059,7 @@ Anteeksi, tarvitset Premium päivitysversio käyttää tätä toimintoa. Päivit
 ```
 Troubleshooting
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Vianetsintä
 ```
@@ -1069,9 +1069,9 @@ Vianetsintä
 ```
 Open a list of actions to solve possible problems
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Avaa luettelo toimista mahdollisten ongelmien ratkaisemiseksi
+Vianetsintäohjeita
 ```
 
 
@@ -1079,9 +1079,9 @@ Avaa luettelo toimista mahdollisten ongelmien ratkaisemiseksi
 ```
 Test internet
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Testaa Internet
+Tarkista internetyhteys
 ```
 
 
@@ -1089,9 +1089,9 @@ Testaa Internet
 ```
 Checks that the app has access to internet
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Tarkistaa, että sovellus on pääsy Internetiin
+Tarkista että sovelluksella on pääsy internetiin
 ```
 
 
@@ -1099,9 +1099,9 @@ Tarkistaa, että sovellus on pääsy Internetiin
 ```
 GP Services (app)
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-GP Services (app)
+Google Play -palvelut (sovellus)
 ```
 
 
@@ -1109,9 +1109,9 @@ GP Services (app)
 ```
 Open the details of the currently installed Google Play Services app
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Avaa yksityiskohtia asennettujen Google Play Services sovellus
+Tarkastele nykyisen Google Play -sovelluksen tietoja
 ```
 
 
@@ -1119,9 +1119,9 @@ Avaa yksityiskohtia asennettujen Google Play Services sovellus
 ```
 GP Services (store)
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-GP Services (store)
+Google Play -palvelut (kauppasovellus)
 ```
 
 
@@ -1129,9 +1129,9 @@ GP Services (store)
 ```
 Google Play (app)
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Google Play (app)
+Google Play (sovellus)
 ```
 
 
@@ -1139,7 +1139,7 @@ Google Play (app)
 ```
 Contact support
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Ota yhteyttä tukeen
 ```
@@ -1149,9 +1149,9 @@ Ota yhteyttä tukeen
 ```
 Write an email to support with the details of your problem
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kirjoita email tukemaan kanssa yksityiskohtia ongelmasta
+Kirjoita tuelle kuvaus ongelmasta sähköpostitse
 ```
 
 
@@ -1159,9 +1159,9 @@ Kirjoita email tukemaan kanssa yksityiskohtia ongelmasta
 ```
 Network test succeeded
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Verkon testi onnistui
+Verkon yhteystesti onnistui
 ```
 
 
@@ -1169,9 +1169,9 @@ Verkon testi onnistui
 ```
 Network test failed
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Verkon testi epäonnistui
+Verkon yhteystesti epäonnistui
 ```
 
 
@@ -1179,9 +1179,9 @@ Verkon testi epäonnistui
 ```
 Share cloud map
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Jaa pilvi kartta
+Jaa pilvipalveluun tallennettu kartta
 ```
 
 
@@ -1189,9 +1189,9 @@ Jaa pilvi kartta
 ```
 Open the cloud map folder to view its properties and share it with other people
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Avaa pilvi kartta kansio katsomaan sen ominaisuuksia ja jakaa sen muiden kanssa
+Avaa pilvipalveluun tallennettu karttakansio katsoaksesi sen ominaisuuksia ja jakaaksesi sen muiden kanssa
 ```
 
 
@@ -1199,9 +1199,9 @@ Avaa pilvi kartta kansio katsomaan sen ominaisuuksia ja jakaa sen muiden kanssa
 ```
 View history/Restore
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Näytä historia / Restore
+Näytä historia / kumoa muutokset
 ```
 
 
@@ -1209,9 +1209,9 @@ Näytä historia / Restore
 ```
 View history of modifications to the cloud folder and select a version to restore to
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Näytä historia muutoksia pilvi kansio ja valitse versio palauttaa
+Näytä pilvikansion muutoshistoria ja valitse palautettava versio
 ```
 
 
@@ -1219,9 +1219,9 @@ Näytä historia muutoksia pilvi kansio ja valitse versio palauttaa
 ```
 Create map file
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Luo kartta tiedosto
+Luo karttatiedosto
 ```
 
 
@@ -1229,9 +1229,9 @@ Luo kartta tiedosto
 ```
 Create a new map file locally or on the cloud
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Luo uusi kartta tiedosto paikallisesti tai pilvi
+Luo uusi karttatiedosto paikallisesti tai pilvipalveluun
 ```
 
 
@@ -1239,9 +1239,9 @@ Luo uusi kartta tiedosto paikallisesti tai pilvi
 ```
 Open cloud map
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Avoin pilvi kartta
+Avaa kartta pilvipalvelusta
 ```
 
 
@@ -1249,9 +1249,9 @@ Avoin pilvi kartta
 ```
 Open a map file from the cloud
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Avaa kartta tiedosto pilvi
+Avaa karttatiedosto pilvipalvelusta
 ```
 
 
@@ -1259,7 +1259,7 @@ Avaa kartta tiedosto pilvi
 ```
 Map Marker needs the permission to access your location in order to display it on the map
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Map Marker tarvitsee luvan käyttää sijaintiasi voidakseen näyttää sen kartalla
 ```
@@ -1269,7 +1269,7 @@ Map Marker tarvitsee luvan käyttää sijaintiasi voidakseen näyttää sen kart
 ```
 Open settings
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Avaa asetukset
 ```
@@ -1279,9 +1279,9 @@ Avaa asetukset
 ```
 No map folder found on the cloud
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Ei kartta kansio löytyy pilvi
+Pilvipalvelusta ei löydy karttakansioita
 ```
 
 
@@ -1289,7 +1289,7 @@ Ei kartta kansio löytyy pilvi
 ```
 Auto sync
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Automaattinen synkronointi
 ```
@@ -1299,9 +1299,9 @@ Automaattinen synkronointi
 ```
 Choose a version to restore to
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Valitse versio palauttaa
+Valitse palautettava versio
 ```
 
 
@@ -1309,9 +1309,9 @@ Valitse versio palauttaa
 ```
 A sync error occurred. Please try again.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Synkronointi virhe. Yritä uudelleen.
+Tapahtui synkronointivirhe. Yritä uudelleen.
 ```
 
 
@@ -1319,9 +1319,9 @@ Synkronointi virhe. Yritä uudelleen.
 ```
 A sync error occurred: network error. Please try again.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Sync virhe tapahtui: verkkovirhe. Yritä uudelleen.
+Tapahtui synkronointivirhe: verkon yhteysvirhe. Yritä uudelleen.
 ```
 
 
@@ -1329,9 +1329,9 @@ Sync virhe tapahtui: verkkovirhe. Yritä uudelleen.
 ```
 A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Sync virhe tapahtui: konflikti, toinen laite hoiti synkronointi samanaikaisesti. Yritä uudelleen.
+Tapahtui synkronointivirhe: toinen laite synkronoi samanaikaisesti. Yritä uudelleen.
 ```
 
 
@@ -1339,7 +1339,7 @@ Sync virhe tapahtui: konflikti, toinen laite hoiti synkronointi samanaikaisesti.
 ```
 Phone number
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Puhelinnumero
 ```
@@ -1349,9 +1349,9 @@ Puhelinnumero
 ```
 Map Marker needs the permission to make calls on your device
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Map Marker tarvitsee luvan soittaa laitteeseen
+Map Marker tarvitsee luvan soittaa puheluja laittellasi
 ```
 
 
@@ -1359,9 +1359,9 @@ Map Marker tarvitsee luvan soittaa laitteeseen
 ```
 Navigation options
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Siirtymisvalinnat
+Navigointiasetukset
 ```
 
 
@@ -1369,9 +1369,9 @@ Siirtymisvalinnat
 ```
 Open the marker location in this app
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Avaa paikkamerkintä tämän sovelluksen
+Avaa paikkamerkintä tällä sovelluksella
 ```
 
 
@@ -1379,9 +1379,9 @@ Avaa paikkamerkintä tämän sovelluksen
 ```
 Share the selected marker as plain text into another app
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Jaa valitut merkki tekstimuodossa toiseen app
+Jaa valittu merkintä tekstimuodossa toisessa sovelluksessa
 ```
 
 
@@ -1389,9 +1389,9 @@ Jaa valitut merkki tekstimuodossa toiseen app
 ```
 %1$d markers in %2$d folders
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-%1$d merkkiaineiden %2$d kansioita
+%1$d merkintä(ä) %2$d kansiossa
 ```
 
 
@@ -1401,7 +1401,7 @@ A sync error occurred: the cloud data has been updated with a more recent versio
 ```
 translated (by machine 🤖) as:
 ```
-Sync virhe tapahtui: pilvi tiedot on päivitetty uudempi versio App. Sinun on päivitettävä Map Marker tämän laitteen synkronoimaan.
+Tapahtui synkronointivirhe: pilvipalvelussa olevat tiedot on päivitetty käyttäen uudempaa sovellusversiota. Sinun on päivitettävä Map Marker synkronoidaksesti tiedot tähän laitteeseen.
 ```
 
 
@@ -1409,7 +1409,7 @@ Sync virhe tapahtui: pilvi tiedot on päivitetty uudempi versio App. Sinun on p�
 ```
 Call phone number
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Soita numeroon
 ```
@@ -1419,9 +1419,9 @@ Soita numeroon
 ```
 Dial phone number
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Soittaa puhelinnumeroon
+Näppäile puhelinnumero
 ```
 
 
@@ -1429,9 +1429,9 @@ Soittaa puhelinnumeroon
 ```
 Text phone number
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Teksti puhelinnumero
+Lähetä puhelinnumero tekstiviestinä
 ```
 
 
@@ -1439,9 +1439,9 @@ Teksti puhelinnumero
 ```
 Default navigation action
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Oletus navigointi toiminta
+Navigointisovellus
 ```
 
 
@@ -1449,9 +1449,9 @@ Oletus navigointi toiminta
 ```
 Ask
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kysyä
+Kysy aina
 ```
 
 
@@ -1459,9 +1459,9 @@ Kysyä
 ```
 What is the premium upgrade?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Mikä on premium-päivityksen?
+Mitä Premium-versio sisältää?
 ```
 
 
@@ -1469,7 +1469,7 @@ Mikä on premium-päivityksen?
 ```
 Thank you for your purchase!
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Kiitos ostoksestasi!
 ```
@@ -1479,9 +1479,9 @@ Kiitos ostoksestasi!
 ```
 Browse
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-selailla
+Selaa
 ```
 
 
@@ -1489,9 +1489,9 @@ selailla
 ```
 Organize
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Järjestää
+Järjestä
 ```
 
 
@@ -1499,9 +1499,9 @@ Järjestää
 ```
 Search failed
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-haku epäonnistui
+Haku epäonnistui
 ```
 
 
@@ -1509,9 +1509,9 @@ haku epäonnistui
 ```
 Search failed, network error
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Haku epäonnistui, verkkovirhe
+Haku epäonnistui: verkon yhteysvirhe
 ```
 
 
@@ -1519,7 +1519,7 @@ Haku epäonnistui, verkkovirhe
 ```
 Details
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Lisätietoja
 ```
@@ -1529,9 +1529,9 @@ Lisätietoja
 ```
 Sync error
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-synkronointivirhe
+Synkronointivirhe
 ```
 
 
@@ -1539,9 +1539,9 @@ synkronointivirhe
 ```
 The file already exists, do you want to overwrite it?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Tiedosto on jo olemassa, haluatko ylikirjoittaa sen?
+Tiedosto on jo olemassa. Haluatko korvata sen?
 ```
 
 
@@ -1549,9 +1549,9 @@ Tiedosto on jo olemassa, haluatko ylikirjoittaa sen?
 ```
 You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Näet listan markkereita täällä. Ei tällä hetkellä ole merkkiaineita valitun kansion (s). Voit lisätä uuden merkki klikkaamalla alla olevaa painiketta.
+Näet listan karttamerkinnöistäsi täällä. Valituissa kansioissa ei tällä hetkellä ole merkintöjä. Voit lisätä uuden merkinnän klikkaamalla alla olevaa painiketta.
 ```
 
 
@@ -1559,7 +1559,7 @@ Näet listan markkereita täällä. Ei tällä hetkellä ole merkkiaineita valit
 ```
 No search results
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Ei hakutuloksia
 ```
@@ -1569,7 +1569,7 @@ Ei hakutuloksia
 ```
 Open Street Map
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Open Street Map
 ```
@@ -1579,9 +1579,9 @@ Open Street Map
 ```
 Offline maps
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Poissa kartat
+Offline-kartat
 ```
 
 
@@ -1589,9 +1589,9 @@ Poissa kartat
 ```
 How to do it?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kuinka tehdä se?
+Kuinka lataan offline-karttoja?
 ```
 
 
@@ -1599,9 +1599,9 @@ Kuinka tehdä se?
 ```
 Click here to open the web page explaining how to obtain those maps.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Avaa tästä web-sivulle, jossa selitetään, miten saada näitä karttoja.
+Avaa tästä ohjeet offline-karttojen asentamiseksi laitteellesi.
 ```
 
 
@@ -1609,9 +1609,9 @@ Avaa tästä web-sivulle, jossa selitetään, miten saada näitä karttoja.
 ```
 Credits
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Laajuus
+Kartta-aineisto
 ```
 
 
@@ -1619,9 +1619,9 @@ Laajuus
 ```
 Copyright and legal mentions
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Tekijänoikeudet ja oikeudellisten mainitsee
+Tekijänoikeudet ja lakisääteiset tekstit
 ```
 
 
@@ -1631,11 +1631,11 @@ Legal mentions for other map data than Google Maps:
 
 %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Oikeudellinen mainitsee muita karttatietoja kuin Google Maps : 
+Lakisääteiset tekstit kartta-aineistoille poislukien Google Maps: 
  
- %s
+%s
 ```
 
 
@@ -1643,9 +1643,9 @@ Oikeudellinen mainitsee muita karttatietoja kuin Google Maps :
 ```
 Manage map files
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Hallitse karttatiedostoja
+Hallinnoi karttatiedostoja
 ```
 
 
@@ -1653,9 +1653,9 @@ Hallitse karttatiedostoja
 ```
 Map files
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-karttatiedostoja
+Karttatiedostot
 ```
 
 
@@ -1663,9 +1663,9 @@ karttatiedostoja
 ```
 Delete map file
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Poista kartta tiedosto
+Poista karttatiedosto
 ```
 
 
@@ -1673,9 +1673,9 @@ Poista kartta tiedosto
 ```
 This action will delete the map file from this device
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Tämä toiminto poistaa tunnistustiedoston tältä laitteelta
+Tämä toiminto poistaa karttatiedoston tältä laitteelta
 ```
 
 
@@ -1683,9 +1683,9 @@ Tämä toiminto poistaa tunnistustiedoston tältä laitteelta
 ```
 This action will delete the map file from your device forever. All the markers inside that file will be lost. Are you sure?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Tämä toiminto poistaa kartan tiedoston laitteelta ikuisesti. Kaikki merkinnät sisällä että tiedosto menetetään. Oletko varma?
+Tämä toiminto poistaa karttatiedoston laitteelta pysyvästi. Kaikki tiedostoon tallennetut merkinnät poistetaan. Oletko varma?
 ```
 
 
@@ -1693,9 +1693,9 @@ Tämä toiminto poistaa kartan tiedoston laitteelta ikuisesti. Kaikki merkinnät
 ```
 This action will delete the map file from your device forever. All changes not yet synced to the cloud will be lost. The cloud folder will not be affected by this action and you will have to delete it manually. Are you sure?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Tämä toiminto poistaa kartan tiedoston laitteelta ikuisesti. Kaikki muutokset eivät vielä synkronoidaan pilveen menetetään. Pilvi kansio ei vaikuta toiminnan ja sinun täytyy poistaa manuaalisesti. Oletko varma?
+Tämä toiminto poistaa karttatiedoston laitteelta pysyvästi. Kaikki pilvipalveluun synkronoimattomat tiedot menetetään (pilvipalveluun jo tallennetut tiedot eivät muutu). Oletko varma?
 ```
 
 
@@ -1703,9 +1703,9 @@ Tämä toiminto poistaa kartan tiedoston laitteelta ikuisesti. Kaikki muutokset 
 ```
 Marker saved in a non visible folder
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Marker tallennettu muussa kuin näkyvä kansio
+Merkintä tallennettu piilotettuun kansioon
 ```
 
 
@@ -1713,9 +1713,9 @@ Marker tallennettu muussa kuin näkyvä kansio
 ```
 Your changes have not been synced recently. Make sure you keep your cloud copy up to date. Do you want to sync now?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Muutoksia ei ole synkronoitu viime aikoina. Varmista, että pidät pilvi kopio ajan tasalla. Haluatko synkronoida nyt?
+Muutoksia ei ole synkronoitu vähään aikaan. Varmista että pidät pilvipalvelukopion ajan tasalla. Haluatko synkronoida nyt?
 ```
 
 
@@ -1723,9 +1723,9 @@ Muutoksia ei ole synkronoitu viime aikoina. Varmista, että pidät pilvi kopio a
 ```
 The markers of this map file are currently only saved on this device. It is recommended to save your markers on the cloud to avoid losing them. Do you want to save them to the cloud now?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Merkit Tämän kartan tiedoston tällä hetkellä ainoastaan ​​tallennetaan tällä laitteella. On suositeltavaa tallentaa markkereita pilven jotta niitä ei menetetä. Haluatko tallentaa ne pilveen nyt?
+Tämän karttatiedoston merkinnät on tallennettu tällä hetkellä ainoastaan tälle laitteelle. On suositeltavaa tallentaa merkinnät pilvipalveluun. Haluatko tallentaa ne nyt?
 ```
 
 
@@ -1733,9 +1733,9 @@ Merkit Tämän kartan tiedoston tällä hetkellä ainoastaan ​​tallennetaan 
 ```
 Do you want to sync this map file? With manual you will need to sync manually every time. With automatic (recommended) you will select a destination cloud folder and the sync to the cloud will start automatically every time the app enters background.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Haluatko synkronoida tämän kartan tiedosto? Manuaalisessa sinun täytyy synkronoida manuaalisesti joka kerta. Automaattisella (suositus) tulee valita kohde pilvi kansio ja synkronointi pilveen käynnistyy automaattisesti aina, kun sovellus saapuu tausta.
+Haluatko synkronoida tämän karttatiedoston? Voit synkronoida joko manuaalisesti tai automaattisesti (suositus), jolloin kansion synkronointi suoritetaan aina kun sovellus jätetään taustalle.
 ```
 
 
@@ -1743,7 +1743,7 @@ Haluatko synkronoida tämän kartan tiedosto? Manuaalisessa sinun täytyy synkro
 ```
 Automatic
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Automaattinen
 ```
@@ -1753,9 +1753,9 @@ Automaattinen
 ```
 Manual
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-manuaalinen
+Manuaalinen
 ```
 
 
@@ -1763,9 +1763,9 @@ manuaalinen
 ```
 Move the map around to place the points, click '+' to add a point, click '-' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Siirrä karttaa ympärillä sijoittaa pisteitä, klikkaa "+" lisätä pisteeseen valitsemalla "-" poistaa pisteeseen ja kytkentäpisteet edelliseen / seuraavaan painikkeita. Lopuksi valitse tallenna Tallenna muotoon.
+Siirrä karttaa sijoittaaksesi pisteitä, klikkaa "+" lisätäksesi pisteen tai "-" poistaaksesi pisteen. Siirry pisteiden välillä Edellinen- ja Seuraava-painikkeilla. Lopuksi valitse Tallenna tallentaaksesi kuvion.
 ```
 
 
@@ -1773,9 +1773,9 @@ Siirrä karttaa ympärillä sijoittaa pisteitä, klikkaa "+" lisätä pisteeseen
 ```
 There are not enough points to create the shape. Create more points and try again.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Ei ole tarpeeksi pisteitä luoda muodon. Luo enemmän pisteitä ja yritä uudelleen.
+Ei tarpeeksi pisteitä kuvion luomiseksi. Luo useampia pisteitä ja yritä uudelleen.
 ```
 
 
@@ -1783,7 +1783,7 @@ Ei ole tarpeeksi pisteitä luoda muodon. Luo enemmän pisteitä ja yritä uudell
 ```
 Distance: %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Etäisyys: %s
 ```
@@ -1794,10 +1794,10 @@ Etäisyys: %s
 Perimeter: %1$s
 Area: %2$s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Perimeter: %1$s 
- Alue: %2$s
+Ympärysmitta: %1$s 
+Pinta-ala: %2$s
 ```
 
 
@@ -1805,9 +1805,9 @@ Perimeter: %1$s
 ```
 Extra information
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Lisätieto
+Lisätietoja
 ```
 
 
@@ -1815,9 +1815,9 @@ Lisätieto
 ```
 Insert…
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Laita...
+Lisää...
 ```
 
 
@@ -1825,9 +1825,9 @@ Laita...
 ```
 Replace title
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Vaihda otsikko
+Muokkaa otsikkoa
 ```
 
 
@@ -1835,9 +1835,9 @@ Vaihda otsikko
 ```
 Replace description
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-korvaa kuvaus
+Muokkaa kuvausta
 ```
 
 
@@ -1845,9 +1845,9 @@ korvaa kuvaus
 ```
 Unit of distance
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Matkan yksikön
+Etäisyyden yksikkö
 ```
 
 
@@ -1855,9 +1855,9 @@ Matkan yksikön
 ```
 Unit of area
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Yksikkö alue
+Pinta-alan yksikkö
 ```
 
 
@@ -1865,9 +1865,9 @@ Yksikkö alue
 ```
 Metric (%s)
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Metric ( %s )
+SI-yksiköt (%s)
 ```
 
 
@@ -1875,9 +1875,9 @@ Metric ( %s )
 ```
 Imperial (%s)
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Imperial ( %s )
+Imperiaaliset yksiköt  (%s)
 ```
 
 
@@ -1885,7 +1885,7 @@ Imperial ( %s )
 ```
 m²/a/ha/km²
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 m²/a/ha/km²
 ```
@@ -1895,9 +1895,9 @@ m²/a/ha/km²
 ```
 Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
+Neliöjaardit/neliörod(rd²)/eekkeri/neliömaili(mi²)/township
 ```
 
 
@@ -1905,7 +1905,7 @@ Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
 ```
 m²
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 m²
 ```
@@ -1915,7 +1915,7 @@ m²
 ```
 a
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 a
 ```
@@ -1925,7 +1925,7 @@ a
 ```
 ha
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 ha
 ```
@@ -1935,7 +1935,7 @@ ha
 ```
 km²
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 km²
 ```
@@ -1945,9 +1945,9 @@ km²
 ```
 Square yard
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Square yard
+Neliöjaardi
 ```
 
 
@@ -1955,7 +1955,7 @@ Square yard
 ```
 rd²
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 rd²
 ```
@@ -1965,9 +1965,9 @@ rd²
 ```
 Acre
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Acre
+Eekkeri
 ```
 
 
@@ -1975,7 +1975,7 @@ Acre
 ```
 Township
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Township
 ```
@@ -1985,7 +1985,7 @@ Township
 ```
 mi²
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 mi²
 ```
@@ -1995,9 +1995,9 @@ mi²
 ```
 Images
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-kuvat
+Kuvat
 ```
 
 
@@ -2005,9 +2005,9 @@ kuvat
 ```
 Fit in a %1$sx%2$s square
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Mahdu %1$s x %2$s neliö
+Sovita %1$sx%2$s neliöön
 ```
 
 
@@ -2015,9 +2015,9 @@ Mahdu %1$s x %2$s neliö
 ```
 Disabled
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Liikuntarajoitteinen
+Pois käytöstä
 ```
 
 
@@ -2025,9 +2025,9 @@ Liikuntarajoitteinen
 ```
 Up to %s per sync
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Jopa %s per sync
+Enintään %s synkronointia kohden
 ```
 
 
@@ -2035,7 +2035,7 @@ Jopa %s per sync
 ```
 Unlimited
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Rajoittamaton
 ```
@@ -2045,7 +2045,7 @@ Rajoittamaton
 ```
 Retry
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Yritä uudelleen
 ```
@@ -2055,7 +2055,7 @@ Yritä uudelleen
 ```
 Add image
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Lisää kuva
 ```
@@ -2065,9 +2065,9 @@ Lisää kuva
 ```
 From camera
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-kamerasta
+Kamerasta
 ```
 
 
@@ -2075,9 +2075,9 @@ kamerasta
 ```
 From gallery
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-galleriasta
+Galleriasta
 ```
 
 
@@ -2085,7 +2085,7 @@ galleriasta
 ```
 Importing image…
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Tuodaan kuva...
 ```
@@ -2095,9 +2095,9 @@ Tuodaan kuva...
 ```
 Offline (Mapsforge BETA)
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Offline ( Mapsforge BETA )
+Offline-kartat (Mapsforge BETA)
 ```
 
 
@@ -2105,9 +2105,9 @@ Offline ( Mapsforge BETA )
 ```
 Export failed
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-vienti epäonnistui
+Vienti epäonnistui
 ```
 
 
@@ -2115,9 +2115,9 @@ vienti epäonnistui
 ```
 Export succeeded
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-vienti onnistui
+Vienti onnistui
 ```
 
 
@@ -2125,7 +2125,7 @@ vienti onnistui
 ```
 KMZ
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 KMZ
 ```
@@ -2135,7 +2135,7 @@ KMZ
 ```
 KML
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 KML
 ```
@@ -2145,7 +2145,7 @@ KML
 ```
 Importing file…
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Tuodaan tiedostoa...
 ```
@@ -2155,9 +2155,9 @@ Tuodaan tiedostoa...
 ```
 Show warning icon for sync
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Näytä varoitus kuvake synkronointia
+Näytä synkronoinnin varoituskuvake
 ```
 
 
@@ -2165,9 +2165,9 @@ Näytä varoitus kuvake synkronointia
 ```
 General
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-yleinen
+Yleiset
 ```
 
 
@@ -2175,9 +2175,9 @@ yleinen
 ```
 Toilets
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-WC
+Käymälät
 ```
 
 
@@ -2185,9 +2185,9 @@ WC
 ```
 Food
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-ruoka
+Ruoka
 ```
 
 
@@ -2195,7 +2195,7 @@ ruoka
 ```
 Stores
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Kaupat
 ```
@@ -2205,9 +2205,9 @@ Kaupat
 ```
 Land activities
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-maalla
+Maa-aktiviteetit
 ```
 
 
@@ -2215,9 +2215,9 @@ maalla
 ```
 Water activies
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-vesi activies
+Vesiaktiviteetit
 ```
 
 
@@ -2225,9 +2225,9 @@ vesi activies
 ```
 Winter activies
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Winter activies
+Talviaktiviteetit
 ```
 
 
@@ -2235,9 +2235,9 @@ Winter activies
 ```
 Transport
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kuljetus
+Liikenne
 ```
 
 
@@ -2245,9 +2245,9 @@ Kuljetus
 ```
 Health
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-terveys
+Terveydenhoito
 ```
 
 
@@ -2255,7 +2255,7 @@ terveys
 ```
 Entertainment
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Viihde
 ```
@@ -2265,7 +2265,7 @@ Viihde
 ```
 Services
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Palvelut
 ```
@@ -2275,9 +2275,9 @@ Palvelut
 ```
 Business
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-liiketoiminta
+Liiketoiminta
 ```
 
 
@@ -2285,9 +2285,9 @@ liiketoiminta
 ```
 Government
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Hallitus
+Hallinto
 ```
 
 
@@ -2295,9 +2295,9 @@ Hallitus
 ```
 Religious
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Uskonnollinen
+Hengellisyys
 ```
 
 
@@ -2305,7 +2305,7 @@ Uskonnollinen
 ```
 Accessibility
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Saavutettavuus
 ```
@@ -2315,7 +2315,7 @@ Saavutettavuus
 ```
 Select icon
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Valitse kuvake
 ```
@@ -2325,9 +2325,9 @@ Valitse kuvake
 ```
 Icon and color
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Ikoni ja väri
+Kuvake ja väri
 ```
 
 
@@ -2335,9 +2335,9 @@ Ikoni ja väri
 ```
 Generic
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-yleinen
+Yleiset
 ```
 
 
@@ -2345,9 +2345,9 @@ yleinen
 ```
 Beta tester badge: thank you for being a beta tester! This badge will disappear only upon uninstalling the app or clearing the app data. This badge also allows you to have no ads on the app.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Beetatestaaja merkki: kiitos ollessa betatestaaja! Tämä merkki häviää vasta kun poistanut sovelluksen tai tyhjentämällä sovelluksen tiedot. Tämä merkki voi myös olla mitään mainoksia sovelluksen.
+Beetatestaajan arvomerkki: kiitos beetatestauksesta! Tämä arvomerkki häviää vasta kun poistat sovelluksen tai tyhjennät sovelluksen tiedot. Tämä arvomerkki piilottaa myös mainokset sovelluksesta.
 ```
 
 
@@ -2355,9 +2355,9 @@ Beetatestaaja merkki: kiitos ollessa betatestaaja! Tämä merkki häviää vasta
 ```
 Contribute to translations
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Edistää käännökset
+Osallistu kielenkääntämiseen
 ```
 
 
@@ -2365,9 +2365,9 @@ Edistää käännökset
 ```
 You understand English and want to help with translations? Click here
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Ymmärrät Englanti ja haluavat auttaa käännökset? Klikkaa tästä
+Hallitsetko englannin kielen ja haluat auttaa käännösten tekemisessä? Klikkaa tästä
 ```
 
 
@@ -2375,9 +2375,9 @@ Ymmärrät Englanti ja haluavat auttaa käännökset? Klikkaa tästä
 ```
 The destination folder's color or icon is different. Do you want to update the marker color and icon?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kohdekansio väri tai kuvake on erilainen. Haluatko päivittää merkki väriä ja ikoni?
+Kohdekansion väri tai kuvake on eri. Haluatko päivittää merkinnän värin ja kuvakkeen?
 ```
 
 
@@ -2385,7 +2385,7 @@ Kohdekansio väri tai kuvake on erilainen. Haluatko päivittää merkki väriä 
 ```
 Add color
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Lisää väri
 ```
@@ -2395,9 +2395,9 @@ Lisää väri
 ```
 Google Material Icons
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Google Material Icons
+Google Material -kuvakkeet
 ```
 
 
@@ -2405,9 +2405,9 @@ Google Material Icons
 ```
 Selection action
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-valinta toiminta
+Valinnan toiminnot
 ```
 
 
@@ -2415,7 +2415,7 @@ valinta toiminta
 ```
 Move to left
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Siirrä vasemmalle
 ```
@@ -2425,7 +2425,7 @@ Siirrä vasemmalle
 ```
 Move to right
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Siirrä oikealle
 ```
@@ -2435,9 +2435,9 @@ Siirrä oikealle
 ```
 Rotate to left
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kierrä vasemmalle
+Kierrä vastapäivään
 ```
 
 
@@ -2445,9 +2445,9 @@ Kierrä vasemmalle
 ```
 Rotate to right
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kierrä oikealle
+Kierrä myötäpäivään
 ```
 
 
@@ -2455,7 +2455,7 @@ Kierrä oikealle
 ```
 Delete image
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Poista kuva
 ```
@@ -2465,9 +2465,9 @@ Poista kuva
 ```
 From local file
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Paikallisilta tiedosto
+Paikallisesta tiedostosta
 ```
 
 
@@ -2475,9 +2475,9 @@ Paikallisilta tiedosto
 ```
 What format to you want to use to export?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Mitä muodossa haluat käyttää viedä?
+Missä muodossa haluat viedä tiedoston?
 ```
 
 
@@ -2485,7 +2485,7 @@ Mitä muodossa haluat käyttää viedä?
 ```
 CSV
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 CSV
 ```
@@ -2495,9 +2495,9 @@ CSV
 ```
 Standard Google Earth format. Cannot contain media.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Standard Google Earth -muodossa. Ei voi sisältää median.
+Google Earth -standardimuodossa (ei voi sisältää mediaa).
 ```
 
 
@@ -2505,9 +2505,9 @@ Standard Google Earth -muodossa. Ei voi sisältää median.
 ```
 Google Earth zipped format. Can contain media.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Zip Google Earth -muodossa. Voi sisältää media.
+Zip Google Earth -muodossa (voi sisältää mediaa).
 ```
 
 
@@ -2515,9 +2515,9 @@ Zip Google Earth -muodossa. Voi sisältää media.
 ```
 Standard text spreadsheet format. Cannot contain media. Cannot contain lines or polygons.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Vakioteksti taulukkomuodossa. Ei voi sisältää median. Ei voi sisältää viivoja tai monikulmioita.
+Tavallinen taulukkomuoto (ei voi sisältää mediaa, viivoja tai kuvioita).
 ```
 
 
@@ -2525,9 +2525,9 @@ Vakioteksti taulukkomuodossa. Ei voi sisältää median. Ei voi sisältää viiv
 ```
 Marker as plain text
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Marker tekstimuodossa
+Merkintä tekstimuodossa
 ```
 
 
@@ -2535,9 +2535,9 @@ Marker tekstimuodossa
 ```
 Marker as file
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Marker tiedostona
+Merkintä tiedostona
 ```
 
 
@@ -2545,9 +2545,9 @@ Marker tiedostona
 ```
 Add custom field
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Lisää mukautettu kenttä
+Lisää mukautettu tietokenttä
 ```
 
 
@@ -2555,7 +2555,7 @@ Lisää mukautettu kenttä
 ```
 Information
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Tiedot
 ```
@@ -2565,9 +2565,9 @@ Tiedot
 ```
 Custom fields
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Mukautetut kentät
+Mukautetut tietokentät
 ```
 
 
@@ -2575,9 +2575,9 @@ Mukautetut kentät
 ```
 Field name
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kenttä nimi
+Tietokentän nimi
 ```
 
 
@@ -2585,9 +2585,9 @@ Kenttä nimi
 ```
 Delete field
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Poista kenttä
+Poista tietokenttä
 ```
 
 
@@ -2595,9 +2595,9 @@ Poista kenttä
 ```
 Attributes
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-määritteet
+Määritteet
 ```
 
 
@@ -2605,9 +2605,9 @@ määritteet
 ```
 New custom field
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Uusi mukautettu kenttä
+Uusi mukautettu tietokenttä
 ```
 
 
@@ -2615,9 +2615,9 @@ Uusi mukautettu kenttä
 ```
 Modify custom field
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Muokkaa mukautettua kenttää
+Muokkaa mukautettua tietokenttää
 ```
 
 
@@ -2625,9 +2625,9 @@ Muokkaa mukautettua kenttää
 ```
 Field info
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kenttätiedot
+Kentän tiedot
 ```
 
 
@@ -2635,9 +2635,9 @@ Kenttätiedot
 ```
 Select field type
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Valitse kenttätyyppi
+Valitse tietokenttätyyppi
 ```
 
 
@@ -2645,9 +2645,9 @@ Valitse kenttätyyppi
 ```
 Boolean (True or False)
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Boolean (True tai False)
+Totuusarvo (Boolean; tosi/epätosi)
 ```
 
 
@@ -2655,7 +2655,7 @@ Boolean (True tai False)
 ```
 Default value
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Oletusarvo
 ```
@@ -2665,9 +2665,9 @@ Oletusarvo
 ```
 Date
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Treffi
+Päivämäärä
 ```
 
 
@@ -2675,7 +2675,7 @@ Treffi
 ```
 Email
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Sähköposti
 ```
@@ -2685,7 +2685,7 @@ Sähköposti
 ```
 Text
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Teksti
 ```
@@ -2695,7 +2695,7 @@ Teksti
 ```
 Multiple choice
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Monivalinta
 ```
@@ -2705,9 +2705,9 @@ Monivalinta
 ```
 Duplicates are not allowed
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kopiot eivät ole sallittuja
+Kaksoiskappaleet eivät ole sallittuja
 ```
 
 
@@ -2715,9 +2715,9 @@ Kopiot eivät ole sallittuja
 ```
 Phone
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Puhelin
+Puhelinnumero
 ```
 
 
@@ -2725,9 +2725,9 @@ Puhelin
 ```
 Web link
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-nettilinkki
+Web-linkki
 ```
 
 
@@ -2735,9 +2735,9 @@ nettilinkki
 ```
 Creation date
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Luomispäivä
+Luomispäivämäärä
 ```
 
 
@@ -2745,7 +2745,7 @@ Luomispäivä
 ```
 POI Options
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 POI-asetukset
 ```
@@ -2755,7 +2755,7 @@ POI-asetukset
 ```
 Delete POI
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Poista POI
 ```
@@ -2765,9 +2765,9 @@ Poista POI
 ```
 Used by folders
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Käytetään kansiossa
+Käytössä kansiossa
 ```
 
 
@@ -2775,9 +2775,9 @@ Käytetään kansiossa
 ```
 Edit field
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Muokkaa kenttää
+Muokkaa tietokenttää
 ```
 
 
@@ -2785,9 +2785,9 @@ Muokkaa kenttää
 ```
 Reorder fields
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Muokkaa kenttiä uudelleen
+Muokkaa tietokenttien järjestystä
 ```
 
 
@@ -2795,9 +2795,9 @@ Muokkaa kenttiä uudelleen
 ```
 Pick the fields you want to apply to this folder's POIs
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Valitse kentät, jotka haluat soveltaa tähän kansion POI-pisteisiin
+Valitse kentät, joita haluat soveltaa tämän kansion POI-pisteisiin
 ```
 
 
@@ -2805,9 +2805,9 @@ Valitse kentät, jotka haluat soveltaa tähän kansion POI-pisteisiin
 ```
 The destination folder has different field values. Pick the fields you want to apply to moved POIs.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kohdekansioon on eri kenttäarvot. Valitse haluamasi kentät siirrettyihin kohdepisteisiin.
+Kohdekansiossa on eri tietokenttäarvot. Valitse tietokentät, joita haluat soveltaa siirrettyihin POI-pisteisiin.
 ```
 
 
@@ -2815,7 +2815,7 @@ Kohdekansioon on eri kenttäarvot. Valitse haluamasi kentät siirrettyihin kohde
 ```
 Update color
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Päivitä väri
 ```
@@ -2825,9 +2825,9 @@ Päivitä väri
 ```
 Update pin icon
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Päivitä pin -kuvake
+Päivitä paikkamerkin kuvake
 ```
 
 
@@ -2835,9 +2835,9 @@ Päivitä pin -kuvake
 ```
 Add field if missing: %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Lisää kenttää puuttuessa: %s
+Lisää tietokenttä, jos se puuttuu: %s
 ```
 
 
@@ -2845,9 +2845,9 @@ Lisää kenttää puuttuessa: %s
 ```
 Remove field if present: %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Poista kenttä, jos sellainen on: %s
+Poista tietokenttä, jos sellainen on: %s
 ```
 
 
@@ -2855,9 +2855,9 @@ Poista kenttä, jos sellainen on: %s
 ```
 Update field name if different: %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Päivitä kentän nimi, jos se on eri: %s
+Päivitä tietokentän nimi, jos se on eri: %s
 ```
 
 
@@ -2865,7 +2865,7 @@ Päivitä kentän nimi, jos se on eri: %s
 ```
 More options…
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Lisää vaihtoehtoja…
 ```
@@ -2875,9 +2875,9 @@ Lisää vaihtoehtoja…
 ```
 Folder options
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kansioasetukset
+Kansion asetukset
 ```
 
 
@@ -2885,9 +2885,9 @@ Kansioasetukset
 ```
 Decimal accuracy
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Desimaali tarkkuus
+Desimaalitarkkuus
 ```
 
 
@@ -2895,9 +2895,9 @@ Desimaali tarkkuus
 ```
 Copy
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kopio
+Kopioi
 ```
 
 
@@ -2905,9 +2905,9 @@ Kopio
 ```
 Do you want to click here? ^‿^
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Haluatko klikata tästä? ^ ‿ ^
+Haluaisitko klikata tätä? ^‿^
 ```
 
 
@@ -2915,7 +2915,7 @@ Haluatko klikata tästä? ^ ‿ ^
 ```
 Text size
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Tekstin koko
 ```
@@ -2925,9 +2925,9 @@ Tekstin koko
 ```
 Search failed => %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Haku epäonnistui =&gt; %s
+Haku epäonnistui => %s
 ```
 
 
@@ -2935,7 +2935,7 @@ Haku epäonnistui =&gt; %s
 ```
 Google Places Search API
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Google Places Search API
 ```
@@ -2945,7 +2945,7 @@ Google Places Search API
 ```
 Here Places Search API
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Here Places Search API
 ```
@@ -2955,7 +2955,7 @@ Here Places Search API
 ```
 Special thanks
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Erityiskiitokset
 ```
@@ -2965,9 +2965,9 @@ Erityiskiitokset
 ```
 A special thank you to the people who helped me
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Erityinen kiitos ihmisille, jotka auttoivat minua
+Erityinen kiitos näille ihmisille, jotka auttoivat minua
 ```
 
 
@@ -2979,13 +2979,13 @@ Special thanks to the people who worked hard to help with the app translations:
 
 Also, thank you to all the users who gave me feedback over the years and continuously helped me make the app better.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Erityinen kiitos ihmisille, jotka ovat tehneet kovasti töitä apuohjelman käännösten auttamiseksi:
+Erityinen kiitos näille ihmisille, jotka ovat tehneet kovasti töitä sovelluksen kielen käännösten eteen:
 %s
-… Ja myös ne, jotka hylkäsivät maininnan
+…ja myös heille, jotka eivät antaneet lupaa tulla mainituksi.
 
-Kiitos myös kaikille käyttäjille, jotka antoivat minulle palautetta vuosien varrella ja auttoivat minua jatkuvasti tekemään sovelluksesta paremman.
+Kiitos myös kaikille käyttäjille, jotka ovat antaneet minulle palautetta vuosien varrella ja auttaneet minua jatkuvasti tekemään sovelluksesta paremman.
 ```
 
 
@@ -2993,9 +2993,9 @@ Kiitos myös kaikille käyttäjille, jotka antoivat minulle palautetta vuosien v
 ```
 Create marker
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Luo merkki
+Luo karttamerkintä
 ```
 
 
@@ -3003,9 +3003,9 @@ Luo merkki
 ```
 Restore Purchases
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Palauttaa ostot
+Palauta Google Play -ostokset
 ```
 
 
@@ -3013,7 +3013,7 @@ Palauttaa ostot
 ```
 Log in
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Kirjaudu sisään
 ```
@@ -3023,9 +3023,9 @@ Kirjaudu sisään
 ```
 To continue, you need to log in with your cloud account. Click the "log in" button below to log in.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Jatkaaksesi sinun on kirjauduttava pilvitilillesi. Kirjaudu sisään napsauttamalla alla olevaa kirjautumispainiketta.
+Jatkaaksesi sinun on kirjauduttava pilvipalvelutilillesi. Kirjaudu sisään napsauttamalla alla olevaa kirjautumispainiketta.
 ```
 
 
@@ -3033,9 +3033,9 @@ Jatkaaksesi sinun on kirjauduttava pilvitilillesi. Kirjaudu sisään napsauttama
 ```
 Use cloud account: %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Käytä pilvitiliä: %s
+Käytä pilvipalvelutiliä: %s
 ```
 
 
@@ -3043,9 +3043,9 @@ Käytä pilvitiliä: %s
 ```
 Use other cloud account
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Käytä muuta pilvitiliä
+Käytä toista pilvipalvelutiliä
 ```
 
 
@@ -3053,7 +3053,7 @@ Käytä muuta pilvitiliä
 ```
 The choices list cannot be empty
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Valintaluettelo ei voi olla tyhjä
 ```
@@ -3063,7 +3063,7 @@ Valintaluettelo ei voi olla tyhjä
 ```
 Empty choices are not allowed
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Tyhjät valinnat eivät ole sallittuja
 ```
@@ -3073,9 +3073,9 @@ Tyhjät valinnat eivät ole sallittuja
 ```
 The name of the custom field cannot be empty
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Mukautetun kentän nimi ei voi olla tyhjä
+Mukautetulla tietokentällä tulee olla nimi
 ```
 
 
@@ -3083,7 +3083,7 @@ Mukautetun kentän nimi ei voi olla tyhjä
 ```
 Remove duplicates
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Poista kaksoiskappaleet
 ```
@@ -3093,9 +3093,9 @@ Poista kaksoiskappaleet
 ```
 Search and delete duplicates
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Etsi ja poista kopiot
+Etsi ja poista kaksoiskappaleet
 ```
 
 
@@ -3103,9 +3103,9 @@ Etsi ja poista kopiot
 ```
 Deleted %d duplicates
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Poistettu %d kopiota
+Poistettu %d kaksoiskappale(tta)
 ```
 
 
@@ -3113,7 +3113,7 @@ Poistettu %d kopiota
 ```
 Would you prefer to search from another source?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Haluaisitko etsiä toisesta lähteestä?
 ```
@@ -3123,9 +3123,9 @@ Haluaisitko etsiä toisesta lähteestä?
 ```
 Change source
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Vaihda lähde
+Vaihda hakulähde
 ```
 
 
@@ -3133,9 +3133,9 @@ Vaihda lähde
 ```
 Wondering how to configure search sources? Click here.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Mietitkö, miten hakulähteet määritetään? Klikkaa tästä.
+Mietitkö kuinka paikanhakulähteet määritetään? Klikkaa tätä.
 ```
 
 
@@ -3143,9 +3143,9 @@ Mietitkö, miten hakulähteet määritetään? Klikkaa tästä.
 ```
 Places search sources
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Paikalliset hakulähteet
+Paikanhakulähteet
 ```
 
 
@@ -3153,9 +3153,9 @@ Paikalliset hakulähteet
 ```
 Add or configure search source
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Lisää tai määritä hakulähde
+Lisää tai määritä paikanhakulähde
 ```
 
 
@@ -3163,9 +3163,9 @@ Lisää tai määritä hakulähde
 ```
 Select search source
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Valitse hakulähde
+Valitse paikanhakulähde
 ```
 
 
@@ -3173,9 +3173,9 @@ Valitse hakulähde
 ```
 Enter value for field "%s"
 ```
-translated (by machine 🤖) as:
+translated (byvanhavirta) as:
 ```
-Anna kentän arvo "%s"
+Anna tietokentän arvo "%s"
 ```
 
 
@@ -3183,9 +3183,9 @@ Anna kentän arvo "%s"
 ```
 The search source configuration test succeeded! The search with this search source should now work.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Hakulähteen määritystesti onnistui! Tämän hakulähteen haun pitäisi nyt toimia.
+Paikanakulähteen määritystesti onnistui! Tämän lähteen haun pitäisi nyt toimia.
 ```
 
 
@@ -3193,9 +3193,9 @@ Hakulähteen määritystesti onnistui! Tämän hakulähteen haun pitäisi nyt to
 ```
 Warning: the search source configuration test failed. The search with this search source might not work.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Varoitus: hakulähteen määritystesti epäonnistui. Tämän hakulähteen haku ei ehkä toimi.
+Varoitus: paikanhakulähteen määritystesti epäonnistui. Tämän hakulähteen haku ei ehkä toimi.
 ```
 
 
@@ -3203,7 +3203,7 @@ Varoitus: hakulähteen määritystesti epäonnistui. Tämän hakulähteen haku e
 ```
 Google Places Search
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Google Places Search
 ```
@@ -3213,7 +3213,7 @@ Google Places Search
 ```
 HERE
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 HERE
 ```
@@ -3223,9 +3223,9 @@ HERE
 ```
 Tutorial
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-oppitunti
+Opetusohjelma
 ```
 
 
@@ -3239,15 +3239,15 @@ It should only take a little bit of your time and will allow you to benefit from
 
 Click the "Change source" button and then the "Tutorial" option to learn more.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Oletushakukokemus ei ole optimaalinen, mutta se toimii ilman konfigurointia.
+Oletushaku ei ole optimaalinen, mutta se toimii ilman lisämäärittelyjä.
 
-Jos käytät hakua paljon, on erittäin suositeltavaa määrittää kolmannen osapuolen hakulähde hyötymään paremmista hakutuloksista.
+Jos käytät hakua paljon, on erittäin suositeltavaa määrittää kolmannen osapuolen paikanhakulähde, jotta hyödyt paremmista hakutuloksista.
 
-Sen pitäisi kestää vain vähän aikaa ja antaa sinulle mahdollisuuden hyötyä paljon paremmista hakutuloksista ilmaiseksi.
+Määrittämiseen kuluu vain vähän aikaa, ja hyödyt paljon paremmista hakutuloksista ilmaiseksi.
 
-Klikkaa "Muuta lähdettä" -painiketta ja sitten "Opetusohjelma" -vaihtoehtoa saadaksesi lisätietoja.
+Klikkaa Vaihda hakulähde -painiketta ja sitten Opetusohjelma-vaihtoehtoa saadaksesi lisätietoja.
 ```
 
 
@@ -3255,7 +3255,7 @@ Klikkaa "Muuta lähdettä" -painiketta ja sitten "Opetusohjelma" -vaihtoehtoa sa
 ```
 Integrated Android Street Addresses Finder
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Integrated Android Street Addresses Finder
 ```
@@ -3265,7 +3265,7 @@ Integrated Android Street Addresses Finder
 ```
 Android Geocoder
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Android Geocoder
 ```
@@ -3275,7 +3275,7 @@ Android Geocoder
 ```
 Integrated iOS Street Addresses Finder
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Integrated iOS Street Addresses Finder
 ```
@@ -3285,7 +3285,7 @@ Integrated iOS Street Addresses Finder
 ```
 iOS Geocoder
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 iOS Geocoder
 ```
@@ -3295,7 +3295,7 @@ iOS Geocoder
 ```
 Microsoft Bing Places Search
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Microsoft Bing Places Search
 ```
@@ -3305,7 +3305,7 @@ Microsoft Bing Places Search
 ```
 Bing
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Bing
 ```
@@ -3315,9 +3315,9 @@ Bing
 ```
 This folder has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
 ```
-translated (by machine 🤖) as:
+translated (byvanhavirta) as:
 ```
-Tässä kansiossa on alikansioita. Haluatko poistaa myös alikansiot? Kaikki poistettuihin kansioihin liittyvät merkinnät poistetaan pysyvästi!
+Tässä kansiossa on alikansioita. Haluatko poistaa myös alikansiot? Kaikki poistettuihin kansioihin tallennetut merkinnät poistetaan pysyvästi!
 ```
 
 
@@ -3325,7 +3325,7 @@ Tässä kansiossa on alikansioita. Haluatko poistaa myös alikansiot? Kaikki poi
 ```
 Delete folder only
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Poista vain kansio
 ```
@@ -3335,9 +3335,9 @@ Poista vain kansio
 ```
 Delete folder + sub-folders
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Poista kansio + alikansiot
+Poista kansio ja alikansiot
 ```
 
 
@@ -3345,9 +3345,9 @@ Poista kansio + alikansiot
 ```
 Are you sure you want to delete these folders? All markers associated to these folders will be deleted permanently!
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Haluatko varmasti poistaa nämä kansiot? Kaikki näihin kansioihin liittyvät merkinnät poistetaan pysyvästi!
+Haluatko varmasti poistaa nämä kansiot? Kaikki näihin kansioihin tallennetut merkinnät poistetaan pysyvästi!
 ```
 
 
@@ -3355,9 +3355,9 @@ Haluatko varmasti poistaa nämä kansiot? Kaikki näihin kansioihin liittyvät m
 ```
 At least one of the folders to delete has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Ainakin yhdessä poistettavassa kansiossa on alikansioita. Haluatko poistaa myös alikansiot? Kaikki poistettuihin kansioihin liittyvät merkinnät poistetaan pysyvästi!
+Ainakin yhdessä poistettavassa kansiossa on alikansioita. Haluatko poistaa myös alikansiot? Kaikki poistettuihin kansioihin tallennetut merkinnät poistetaan pysyvästi!
 ```
 
 
@@ -3365,7 +3365,7 @@ Ainakin yhdessä poistettavassa kansiossa on alikansioita. Haluatko poistaa myö
 ```
 Create sub-folder
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Luo alikansio
 ```
@@ -3375,7 +3375,7 @@ Luo alikansio
 ```
 Sub-folder created
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Alikansio luotu
 ```
@@ -3385,9 +3385,9 @@ Alikansio luotu
 ```
 You cannot move a folder to one of its descendants.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Et voi siirtää kansiota jollekin sen jälkeläisistä.
+Et voi siirtää kansiota sen alikansioon.
 ```
 
 
@@ -3395,9 +3395,9 @@ Et voi siirtää kansiota jollekin sen jälkeläisistä.
 ```
 Root
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Root
+Pääkansio
 ```
 
 
@@ -3405,7 +3405,7 @@ Root
 ```
 Map
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Kartta
 ```
@@ -3415,9 +3415,9 @@ Kartta
 ```
 Select folders
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Valitse kansiot
+Valitse kansioita
 ```
 
 
@@ -3431,11 +3431,11 @@ Click the "Change source" button and then the "Tutorial" option to learn more.
 ```
 translated (by machine 🤖) as:
 ```
-Hakulähdettä ei ole määritetty tällä hetkellä. Jotta voit hakea, sinun on määritettävä kolmannen osapuolen hakulähde.
+Hakulähdettä ei ole määritetty tällä hetkellä. Jotta voit käyttää hakua, sinun on määritettävä kolmannen osapuolen hakulähde.
 
-Sen pitäisi viedä vain vähän aikaa ja antaa sinun käyttää hakutuloksia ilmaiseksi.
+Se vie vain vähän aikaa, ja saat hakutuloksia käyttöön ilmaiseksi.
 
-Napsauta "Muuta lähdettä" -painiketta ja sitten "Opetusohjelma" -vaihtoehtoa saadaksesi lisätietoja.
+Napsauta Vaihda hakulähde -painiketta ja sitten Opetusohjelma-vaihtoehtoa saadaksesi lisätietoja.
 ```
 
 
@@ -3443,9 +3443,9 @@ Napsauta "Muuta lähdettä" -painiketta ja sitten "Opetusohjelma" -vaihtoehtoa s
 ```
 Google Maps (Plan)
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Google Maps (suunnitelma)
+Google Maps (tavallinen)
 ```
 
 
@@ -3453,9 +3453,9 @@ Google Maps (suunnitelma)
 ```
 Google Maps (Plan + Indoor)
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Google Maps (suunnitelma + sisätilat)
+Google Maps (tavallinen ja sisätilat)
 ```
 
 
@@ -3463,7 +3463,7 @@ Google Maps (suunnitelma + sisätilat)
 ```
 Google Maps (Satellite)
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Google Maps (satelliitti)
 ```
@@ -3473,7 +3473,7 @@ Google Maps (satelliitti)
 ```
 Google Maps (Terrain)
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Google Maps (maasto)
 ```
@@ -3483,9 +3483,9 @@ Google Maps (maasto)
 ```
 Google Maps (Hybrid)
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Google Maps (hybridi)
+Google Maps (yhdistelmäkartta)
 ```
 
 
@@ -3494,7 +3494,7 @@ Google Maps (hybridi)
 Last sync:
 %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Viimeisin synkronointi:
 %s
@@ -3505,7 +3505,7 @@ Viimeisin synkronointi:
 ```
 Add offline map file
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Lisää offline-karttatiedosto
 ```
@@ -3515,7 +3515,7 @@ Lisää offline-karttatiedosto
 ```
 Offline map file import succeeded
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Offline-karttatiedoston tuonti onnistui
 ```
@@ -3526,7 +3526,7 @@ Offline-karttatiedoston tuonti onnistui
 Offline map file import failed:
 %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Offline-karttatiedoston tuonti epäonnistui:
 %s
@@ -3537,9 +3537,9 @@ Offline-karttatiedoston tuonti epäonnistui:
 ```
 The offline maps folder is empty. In order to use offline maps, open the settings and add at least one offline map file.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Offline-karttojen kansio on tyhjä. Jos haluat käyttää offline-karttoja, avaa asetukset ja lisää ainakin yksi offline-karttatiedosto.
+Offline-karttojen kansio on tyhjä. Jos haluat käyttää offline-karttoja, avaa Asetukset ja lisää ainakin yksi offline-karttatiedosto.
 ```
 
 
@@ -3547,7 +3547,7 @@ Offline-karttojen kansio on tyhjä. Jos haluat käyttää offline-karttoja, avaa
 ```
 Image compression
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Kuvan pakkaus
 ```
@@ -3557,9 +3557,9 @@ Kuvan pakkaus
 ```
 Image max size
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kuvan maksimikoko
+Kuvan enimmäiskoko
 ```
 
 
@@ -3567,7 +3567,7 @@ Kuvan maksimikoko
 ```
 Image full size
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Kuva täysikokoisena
 ```
@@ -3577,9 +3577,9 @@ Kuva täysikokoisena
 ```
 Image saving
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kuvan säästäminen
+Kuvan tallennus
 ```
 
 
@@ -3587,9 +3587,9 @@ Kuvan säästäminen
 ```
 Base map pin size
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Peruskartan nastan koko
+Taustakartan paikkamerkinnän koko
 ```
 
 
@@ -3597,9 +3597,9 @@ Peruskartan nastan koko
 ```
 Tiny
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Pikkuruinen
+Erittäin pieni
 ```
 
 
@@ -3607,7 +3607,7 @@ Pikkuruinen
 ```
 Small
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Pieni
 ```
@@ -3617,7 +3617,7 @@ Pieni
 ```
 Normal
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Normaali
 ```
@@ -3627,7 +3627,7 @@ Normaali
 ```
 Large
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Suuri
 ```
@@ -3637,7 +3637,7 @@ Suuri
 ```
 Huge
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Valtava
 ```
@@ -3649,7 +3649,7 @@ What format to you want to use to import?
 ```
 translated (by machine 🤖) as:
 ```
-Mitä muotoa haluat käyttää tuontiin?
+Mitä tiedostomuotoa haluat käyttää tuontiin?
 ```
 
 
@@ -3657,9 +3657,9 @@ Mitä muotoa haluat käyttää tuontiin?
 ```
 %1$s folders and %2$s markers
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-%1$s kansiota ja %2$s merkkiä
+%1$s kansio(ta) ja %2$s merkintä(ä)
 ```
 
 
@@ -3667,7 +3667,7 @@ translated (by machine 🤖) as:
 ```
 Open '%s'
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Avaa '%s'
 ```
@@ -3677,9 +3677,9 @@ Avaa '%s'
 ```
 Google Drive - limited access
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Google Drive - rajoitettu pääsy
+Google Drive - rajoitettu käyttöoikeus
 ```
 
 
@@ -3687,9 +3687,9 @@ Google Drive - rajoitettu pääsy
 ```
 This limits the app to only access files created by the app itself on your Google Drive. Pick this option if you plan to sync only from your Google account without collaborators. If in doubt, pick this option, you can easily change your mind later.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Tämä rajoittaa sovelluksen pääsyn vain sovelluksen itsensä luomiin tiedostoihin Google Drive-laitteellasi. Valitse tämä vaihtoehto, jos aiot synkronoida vain Google-tililtäsi ilman yhteistyökumppaneita. Jos olet epävarma, valitse tämä vaihtoehto, voit helposti muuttaa mieltäsi myöhemmin.
+Tämä rajoittaa sovelluksen pääsyn vain sovelluksen itsensä luomiin tiedostoihin Google Drive -tililläsi. Valitse tämä vaihtoehto, jos aiot synkronoida vain Google-tililtäsi ilman yhteistyökumppaneita. Jos olet epävarma, valitse tämä vaihtoehto, sillä voit muuttaa asetusta myöhemmin.
 ```
 
 
@@ -3697,7 +3697,7 @@ Tämä rajoittaa sovelluksen pääsyn vain sovelluksen itsensä luomiin tiedosto
 ```
 Google Drive - full access
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Google Drive - täysi käyttöoikeus
 ```
@@ -3707,9 +3707,9 @@ Google Drive - täysi käyttöoikeus
 ```
 This grants the app full access to your Google Drive. Pick this option if you plan to collaborate with other Google accounts.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Tämä antaa sovellukselle täyden pääsyn laitteeseesi Google Drive. Valitse tämä vaihtoehto, jos aiot tehdä yhteistyötä muiden Google-tilien kanssa.
+Tämä antaa sovellukselle täyden pääsyn Google Drive -tilillesi. Valitse tämä vaihtoehto, jos aiot tehdä yhteistyötä muiden Google-käyttäjien kanssa.
 ```
 
 
@@ -3717,9 +3717,9 @@ Tämä antaa sovellukselle täyden pääsyn laitteeseesi Google Drive. Valitse t
 ```
 Mobile data volume limit
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Mobiilidatan määrärajoitus
+Mobiilidatan rajoitus
 ```
 
 
@@ -3727,9 +3727,9 @@ Mobiilidatan määrärajoitus
 ```
 Default data volume limit
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Tietojen oletusmäärän rajoitus
+Tietojen määrän oletusrajoitus
 ```
 
 
@@ -3737,9 +3737,9 @@ Tietojen oletusmäärän rajoitus
 ```
 Authentication failed, please try again.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Varmistus epäonnistui. Ole hyvä ja yritä uudelleen.
+Todennus epäonnistui. Ole hyvä ja yritä uudelleen.
 ```
 
 
@@ -3747,7 +3747,7 @@ Varmistus epäonnistui. Ole hyvä ja yritä uudelleen.
 ```
 The sync was aborted because it was exceeding the allowed data volume limit. To increase or change the limit, go to the settings.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Synkronointi keskeytettiin, koska se ylitti sallitun datamäärän rajan. Voit suurentaa tai muuttaa rajaa siirtymällä asetuksiin.
 ```
@@ -3757,9 +3757,9 @@ Synkronointi keskeytettiin, koska se ylitti sallitun datamäärän rajan. Voit s
 ```
 Dropbox - limited access
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Dropbox - rajoitettu pääsy
+Dropbox - rajoitettu käyttöoikeus
 ```
 
 
@@ -3767,9 +3767,9 @@ Dropbox - rajoitettu pääsy
 ```
 This limits the app to only access an app-dedicated Dropbox folder. If in doubt, pick this option, you can easily change your mind later.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Tämä rajoittaa sovelluksen pääsyn vain sovellukselle omistettuun Dropbox-kansioon. Jos olet epävarma, valitse tämä vaihtoehto, voit helposti muuttaa mieltäsi myöhemmin.
+Tämä rajoittaa sovelluksen pääsyn vain sovellukselle omistettuun Dropbox-kansioon. Jos olet epävarma, valitse tämä vaihtoehto, sillä voit muuttaa asetusta myöhemmin.
 ```
 
 
@@ -3777,9 +3777,9 @@ Tämä rajoittaa sovelluksen pääsyn vain sovellukselle omistettuun Dropbox-kan
 ```
 Dropbox - full access
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Dropbox - täysi pääsy
+Dropbox - täysi käyttöoikeus
 ```
 
 
@@ -3787,9 +3787,9 @@ Dropbox - täysi pääsy
 ```
 This grants the app full access to your Dropbox. Pick this option if you want the app to find files in your entire Dropbox.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Tämä antaa sovellukselle täyden pääsyn laitteeseesi Dropbox. Valitse tämä vaihtoehto, jos haluat sovelluksen etsivän tiedostoja koko Dropbox:stäsi.
+Tämä antaa sovellukselle täyden pääsyn Dropbox-tilillesi. Valitse tämä vaihtoehto, jos haluat sovelluksen löytävän tiedostoja koko Dropbox-tililtäsi.
 ```
 
 
@@ -3797,7 +3797,7 @@ Tämä antaa sovellukselle täyden pääsyn laitteeseesi Dropbox. Valitse tämä
 ```
 Enter access code
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Anna pääsykoodi
 ```
@@ -3807,7 +3807,7 @@ Anna pääsykoodi
 ```
 Offline map files
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Offline-karttatiedostot
 ```
@@ -3817,9 +3817,9 @@ Offline-karttatiedostot
 ```
 %s files
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-%s tiedostoa
+%s tiedosto(a)
 ```
 
 
@@ -3827,7 +3827,7 @@ translated (by machine 🤖) as:
 ```
 Clear offline map files
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Tyhjennä offline-karttatiedostot
 ```
@@ -3837,7 +3837,7 @@ Tyhjennä offline-karttatiedostot
 ```
 This will remove all offline map files from the app's internal storage, do you want to proceed?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Tämä poistaa kaikki offline-karttatiedostot sovelluksen sisäisestä tallennustilasta. Haluatko jatkaa?
 ```
@@ -3847,9 +3847,9 @@ Tämä poistaa kaikki offline-karttatiedostot sovelluksen sisäisestä tallennus
 ```
 Invalid format
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Väärä muoto
+Väärä tiedostomuoto
 ```
 
 
@@ -3857,7 +3857,7 @@ Väärä muoto
 ```
 Type more to refine your search
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Kirjoita lisää tarkentaaksesi hakuasi
 ```
@@ -3867,9 +3867,9 @@ Kirjoita lisää tarkentaaksesi hakuasi
 ```
 You can search for places with "%s". This search requires an internet connection.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Voit etsiä paikkoja merkinnällä "%s". Tämä haku vaatii Internet-yhteyden.
+Voit etsiä paikkoja käyttämällä tunnistetta "%s". Tämä haku vaatii internetyhteyden.
 ```
 
 
@@ -3877,9 +3877,9 @@ Voit etsiä paikkoja merkinnällä "%s". Tämä haku vaatii Internet-yhteyden.
 ```
 Apply parent folder fields
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Käytä yläkansiokenttiä
+Käytä yläkansion tietokenttiä
 ```
 
 
@@ -3887,7 +3887,7 @@ Käytä yläkansiokenttiä
 ```
 Rate the app
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Arvioi sovellus
 ```
@@ -3915,22 +3915,22 @@ And finally, thank you for reading this :-)
 Regards
 Sébastien
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Hei, kiitos uteliaisuudestasi!
 
-Minulla oli täällä mainosbanneri ja päätin kokeilla jotain erilaista ja korvata sen tällä yksinkertaisella viestillä…
+Minulla oli täällä mainosbanneri, mutta päätin kokeilla jotain erilaista ja korvata sen tällä yksinkertaisella viestillä…
 
 Tein tämän sovelluksen vapaa-ajallani harrastuksena, kokopäivätyön lisäksi, ja osoittautui, että siitä tuli sivuprojekti, johon olen viettänyt paljon aikaa vuoden 2014 alusta lähtien.
 
-Toivottavasti pidät sovelluksesta ja pidät siitä hyödyllisenä. Tein sen niin, että voit silti tehdä kaiken maksamatta, se saattaa vaatia hieman enemmän työtä. Voit vapaasti tuoda tai viedä tiedot manuaalisesti, joten sinun ei tarvitse koskaan maksaa, pilvisynkronointi on vain kätevämpää.
+Toivottavasti pidät sovelluksesta ja pidät sitä hyödyllisenä. Toteutin sen niin, että voit käyttää sitä maksamatta, vaikka jotkin toiminnot saattavatkin vaatia hieman enemmän vaivaa. Voit vapaasti tuoda tai viedä tietoja manuaalisesti, joten sinun ei tarvitse koskaan maksaa (pilvipalvelusynkronointi on vain kätevämpää).
 
-Jos pidät sovelluksesta, tue sitä: sinun ei tarvitse käyttää rahaa siihen, mikä tahansa näistä eleistä auttaa:
-- puhu sovelluksesta ympärilläsi oleville ihmisille
-- arvioi sovellus suositellaksesi sitä kaupassa
-- osta premium-päivitys (poistaa alimman bannerin)
+Jos pidät sovelluksesta, tue sitä: sinun ei tarvitse käyttää rahaa siihen, koska mikä tahansa näistä eleistä auttaa:
+- kerro sovelluksesta tutuillesi
+- arvioi sovellus suositellaksesi sitä sovelluskaupassa
+- osta Premium-päivitys (poistaa alabannerin ja mahdollistaa erikoisominaisuudet)
 
-Jos et pidä sovelluksesta, lähetä minulle sähköpostia ("Tietoja"-osiosta) ja kerro kuinka voin parantaa sitä. Olen päässyt näin pitkälle monien käyttäjien palautteen ansiosta, jotka kertoivat minulle, mistä he eivät pitäneet tai mistä he eivät pitäneet. Vastaan jokaiseen sähköpostiin, joten älä ole ujo!
+Jos et pidä sovelluksesta, lähetä minulle sähköpostia (Tietoja-osiosta) ja kerro kuinka voin parantaa sitä. Olen päässyt pitkälle niiden käyttäjien palautteen ansiosta, jotka kertoivat minulle, mistä he pitivät tai eivät pitäneet. Vastaan jokaiseen sähköpostiin, joten älä suotta ujostele!
 
 Ja lopuksi kiitos, että luit tämän :-)
 
@@ -3943,9 +3943,9 @@ Sébastien
 ```
 The sync was aborted because the following file could you be found: %s. To resolve this, you can either restore the missing file manually or change the app's settings to not download media during sync.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Synkronointi keskeytettiin, koska seuraava tiedosto löytyi: %s. Voit ratkaista tämän joko palauttamalla puuttuvan tiedoston manuaalisesti tai muuttamalla sovelluksen asetuksia siten, että mediaa ei ladata synkronoinnin aikana.
+Synkronointi keskeytettiin, koska seuraavaa tiedostoa ei löytynyt: %s. Voit ratkaista tämän joko palauttamalla puuttuvan tiedoston manuaalisesti tai muuttamalla sovelluksen asetuksia siten, että mediaa ei ladata synkronoinnin aikana.
 ```
 
 
@@ -3953,9 +3953,9 @@ Synkronointi keskeytettiin, koska seuraava tiedosto löytyi: %s. Voit ratkaista 
 ```
 Sync media download policy
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Synkronoi median latauskäytäntö
+Median synkronoinnin käytäntö
 ```
 
 
@@ -3963,9 +3963,9 @@ Synkronoi median latauskäytäntö
 ```
 Download all media during sync
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Lataa kaikki mediat synkronoinnin aikana
+Lataa kaikki mediatiedostot synkronoinnin aikana
 ```
 
 
@@ -3973,9 +3973,9 @@ Lataa kaikki mediat synkronoinnin aikana
 ```
 Download media after sync when needed
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Lataa mediaa tarvittaessa synkronoinnin jälkeen
+Lataa media tarvittaessa synkronoinnin jälkeen
 ```
 
 
@@ -3983,9 +3983,9 @@ Lataa mediaa tarvittaessa synkronoinnin jälkeen
 ```
 Sync with the cloud automatically when changes are detected
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Synkronoi automaattisesti pilven kanssa, kun muutoksia havaitaan
+Synkronoi automaattisesti pilvipalveluun, kun muutoksia havaitaan
 ```
 
 
@@ -3993,9 +3993,9 @@ Synkronoi automaattisesti pilven kanssa, kun muutoksia havaitaan
 ```
 Select the attributes to consider when eliminating duplicates. If all attributes are selected, only strictly identical duplicate entries will be removed. If no attributes are selected, duplicate entries with the same location will be removed, regardless of their other attributes.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Valitse määritteet, jotka on otettava huomioon kaksoiskappaleiden poistamisessa. Jos kaikki määritteet valitaan, vain täysin identtiset päällekkäiset merkinnät poistetaan. Jos attribuutteja ei valita, päällekkäiset merkinnät, joilla on sama sijainti, poistetaan niiden muista määritteistä riippumatta.
+Valitse määritteet, jotka otetaan huomioon kaksoiskappaleita poistaessa. Jos kaikki määritteet valitaan, vain täysin identtiset päällekkäiset merkinnät poistetaan. Jos attribuutteja ei valita, päällekkäiset merkinnät, joilla on sama sijainti, poistetaan niiden muista määritteistä riippumatta.
 ```
 
 
@@ -4003,7 +4003,7 @@ Valitse määritteet, jotka on otettava huomioon kaksoiskappaleiden poistamisess
 ```
 Delete duplicates
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Poista kaksoiskappaleet
 ```
@@ -4013,7 +4013,7 @@ Poista kaksoiskappaleet
 ```
 Searching for duplicates…
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Etsitään kaksoiskappaleita…
 ```
@@ -4023,9 +4023,9 @@ Etsitään kaksoiskappaleita…
 ```
 Found %d duplicates. Are you sure you want to delete those duplicates?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Löytyi %d kaksoiskappaletta. Haluatko varmasti poistaa nämä kaksoiskappaleet?
+Löytyi %d kaksoiskappale(tta). Haluatko varmasti poistaa nämä kaksoiskappaleet?
 ```
 
 
@@ -4033,7 +4033,7 @@ Löytyi %d kaksoiskappaletta. Haluatko varmasti poistaa nämä kaksoiskappaleet?
 ```
 Icon
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Kuvake
 ```
@@ -4043,7 +4043,7 @@ Kuvake
 ```
 Color
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Väri
 ```
@@ -4053,7 +4053,7 @@ Väri
 ```
 Enable log file
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Ota lokitiedosto käyttöön
 ```
@@ -4063,7 +4063,7 @@ Ota lokitiedosto käyttöön
 ```
 Start writing app execution events history to the log file
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Aloita sovellusten suoritushistorian kirjoittaminen lokitiedostoon
 ```
@@ -4073,7 +4073,7 @@ Aloita sovellusten suoritushistorian kirjoittaminen lokitiedostoon
 ```
 Disable log file
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Poista lokitiedosto käytöstä
 ```
@@ -4083,7 +4083,7 @@ Poista lokitiedosto käytöstä
 ```
 Stop writing app execution events history to the log file, and delete the log file
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Lopeta sovellusten suoritushistorian kirjoittaminen lokitiedostoon ja poista lokitiedosto
 ```
@@ -4093,7 +4093,7 @@ Lopeta sovellusten suoritushistorian kirjoittaminen lokitiedostoon ja poista lok
 ```
 Export log file
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Vie lokitiedosto
 ```
@@ -4103,9 +4103,9 @@ Vie lokitiedosto
 ```
 Export the log file so that it can be shared for debugging purposes
 ```
-translated (by machine 🤖) as:
+translated (byvanhavirta) as:
 ```
-Vie lokitiedosto, jotta se voidaan jakaa virheenkorjausta varten
+Vie lokitiedosto, jotta se voidaan jakaa sovelluksen kehittämistä varten
 ```
 
 
@@ -4113,7 +4113,7 @@ Vie lokitiedosto, jotta se voidaan jakaa virheenkorjausta varten
 ```
 Rendering performance settings
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Renderöinnin suorituskykyasetukset
 ```
@@ -4123,7 +4123,7 @@ Renderöinnin suorituskykyasetukset
 ```
 Maximum number of drawn POIs
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Piirrettyjen POI-pisteiden enimmäismäärä
 ```
@@ -4133,9 +4133,9 @@ Piirrettyjen POI-pisteiden enimmäismäärä
 ```
 Maximum number of drawn floating marker titles
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Piirrettyjen kelluvien merkkien enimmäismäärä
+Kelluvien merkintäotsikoiden enimmäismäärä
 ```
 
 
@@ -4143,7 +4143,7 @@ Piirrettyjen kelluvien merkkien enimmäismäärä
 ```
 Access old map data
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Käytä vanhoja karttatietoja
 ```
@@ -4153,9 +4153,9 @@ Käytä vanhoja karttatietoja
 ```
 See options to access map data from the older versions of Map Marker.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Katso vaihtoehdot karttatietojen käyttämiseksi Map Marker:n vanhemmista versioista.
+Tarkastele vaihtoehtoja karttatietojen käyttämiseksi Map Markerin vanhemmista versioista.
 ```
 
 
@@ -4163,7 +4163,7 @@ Katso vaihtoehdot karttatietojen käyttämiseksi Map Marker:n vanhemmista versio
 ```
 Migrating map data…
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Siirretään karttatietoja…
 ```
@@ -4173,9 +4173,9 @@ Siirretään karttatietoja…
 ```
 Map data migration succeeded: you should now be able to use your old map data on this new version of Map Marker.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Karttatietojen siirto onnistui: sinun pitäisi nyt pystyä käyttämään vanhoja karttatietojasi tässä uudessa Map Marker-versiossa.
+Karttatietojen siirto onnistui: sinun pitäisi nyt pystyä käyttämään vanhoja karttatietojasi tässä uudessa Map Marker -versiossa.
 ```
 
 
@@ -4183,9 +4183,9 @@ Karttatietojen siirto onnistui: sinun pitäisi nyt pystyä käyttämään vanhoj
 ```
 Map data migration failed: access to your old map data is not possible on this new version of Map Marker.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Karttatietojen siirto epäonnistui: pääsy vanhoihin karttatietoihisi ei ole mahdollista tässä uudessa Map Marker-versiossa.
+Karttatietojen siirto epäonnistui: pääsy vanhoihin karttatietoihisi ei ole mahdollista tässä uudessa Map Marker -versiossa.
 ```
 
 
@@ -4193,9 +4193,9 @@ Karttatietojen siirto epäonnistui: pääsy vanhoihin karttatietoihisi ei ole ma
 ```
 Note that the old map data remains unchanged and will remain on your device until you uninstall the app. Uninstalling the app will delete all Map Marker app data from your device. If you want to use the old version of Map Marker, you can follow instructions available by clicking on the option below.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Huomaa, että vanhat karttatiedot pysyvät ennallaan ja pysyvät laitteessasi, kunnes poistat sovelluksen. Sovelluksen poistaminen poistaa kaikki Map Marker sovelluksen tiedot laitteestasi. Jos haluat käyttää Map Marker:n vanhaa versiota, voit seurata saatavilla olevia ohjeita napsauttamalla alla olevaa vaihtoehtoa.
+Huomaa, että vanhat karttatiedot pysyvät ennallaan ja pysyvät laitteessasi, kunnes poistat sovelluksen. Sovelluksen poistaminen poistaa kaikki Map Marker -sovelluksen tiedot laitteestasi. Jos haluat käyttää Map Markerin vanhaa versiota, voit seurata saatavilla olevia ohjeita napsauttamalla alla olevaa vaihtoehtoa.
 ```
 
 
@@ -4203,9 +4203,9 @@ Huomaa, että vanhat karttatiedot pysyvät ennallaan ja pysyvät laitteessasi, k
 ```
 This will open a help center link explaining how you can install the old version of Map Marker without losing your app data.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Tämä avaa ohjekeskuksen linkin, jossa kerrotaan, kuinka voit asentaa Map Marker:n vanhan version menettämättä sovellustietojasi.
+Tämä avaa ohjekeskuksen, jossa kerrotaan, kuinka voit asentaa Map Markerin vanhan version menettämättä sovellustietojasi.
 ```
 
 
@@ -4213,7 +4213,7 @@ Tämä avaa ohjekeskuksen linkin, jossa kerrotaan, kuinka voit asentaa Map Marke
 ```
 View instructions
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Katso ohjeet
 ```
@@ -4223,7 +4223,7 @@ Katso ohjeet
 ```
 See more
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Katso lisää
 ```
@@ -4233,9 +4233,9 @@ Katso lisää
 ```
 Purchase permanent premium
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Osta pysyvä palkkio
+Osta ikuinen Premium-versio
 ```
 
 
@@ -4243,9 +4243,9 @@ Osta pysyvä palkkio
 ```
 Purchase pending
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Osto odottaa
+Ostotapahtuma käsittelyssä
 ```
 
 
@@ -4253,9 +4253,9 @@ Osto odottaa
 ```
 Purchase failed: %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Osto epäonnistui: %s
+Ostotapahtuma epäonnistui: %s
 ```
 
 
@@ -4263,9 +4263,9 @@ Osto epäonnistui: %s
 ```
 Data backup
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Datan varmuuskopio
+Datan varmuuskopiointi
 ```
 
 
@@ -4273,9 +4273,9 @@ Datan varmuuskopio
 ```
 Last backup was %s days ago
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Viimeisin varmuuskopiointi tehtiin %s päivää sitten
+Viimeisin varmuuskopiointi tehtiin %s päivä(ä) sitten
 ```
 
 
@@ -4283,7 +4283,7 @@ Viimeisin varmuuskopiointi tehtiin %s päivää sitten
 ```
 Run data migration again
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Suorita tietojen siirto uudelleen
 ```
@@ -4293,9 +4293,9 @@ Suorita tietojen siirto uudelleen
 ```
 Select an old map on which to run the data migration again
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Valitse vanha kartta, jolla tietojen siirto suoritetaan uudelleen
+Valitse vanha kartta, johon tietojen siirto suoritetaan uudelleen
 ```
 
 
@@ -4303,7 +4303,7 @@ Valitse vanha kartta, jolla tietojen siirto suoritetaan uudelleen
 ```
 Old map data re-migration succeeded!
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Vanhojen karttatietojen uudelleensiirto onnistui!
 ```
@@ -4314,7 +4314,7 @@ Vanhojen karttatietojen uudelleensiirto onnistui!
 Old map data re-migration failed:
 %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Vanhojen karttatietojen uudelleensiirto epäonnistui:
 %s
@@ -4325,9 +4325,9 @@ Vanhojen karttatietojen uudelleensiirto epäonnistui:
 ```
 Open and migrate a V2 cloud map
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Avaa ja siirrä V2-pilvikartta
+Avaa ja siirrä V2-pilvipalvelukartta
 ```
 
 
@@ -4335,9 +4335,9 @@ Avaa ja siirrä V2-pilvikartta
 ```
 Migrate a legacy cloud map from Map Marker V2 (app version from before 2023) and open it as a new cloud map
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Siirrä vanha pilvikartta versiosta Map Marker V2 (sovellusversio ennen vuotta 2023) ja avaa se uutena pilvikartana
+Siirrä vanha pilvipalvelukartta versiosta Map Marker V2 (sovellusversio ennen vuotta 2023) ja avaa se uutena pilvipalvelukarttana
 ```
 
 
@@ -4345,9 +4345,9 @@ Siirrä vanha pilvikartta versiosta Map Marker V2 (sovellusversio ennen vuotta 2
 ```
 Migrating legacy V2 cloud map…
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Siirretään vanhaa V2-pilvikarttaa…
+Siirretään vanhaa V2-pilvipalvelukarttaa…
 ```
 
 
@@ -4355,7 +4355,7 @@ Siirretään vanhaa V2-pilvikarttaa…
 ```
 Select the V2 map to migrate
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Valitse siirrettävä V2-kartta
 ```
@@ -4365,9 +4365,9 @@ Valitse siirrettävä V2-kartta
 ```
 Legacy V2 cloud map migration succeeded!
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Vanhan V2:n pilvikartan siirto onnistui!
+Vanhan V2-pilvipalvelukartan siirto onnistui!
 ```
 
 
@@ -4376,9 +4376,9 @@ Vanhan V2:n pilvikartan siirto onnistui!
 Legacy V2 cloud map migration failed:
 %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Vanhan V2:n pilvikartan siirto epäonnistui:
+Vanhan V2-pilvipalvelukartan siirto epäonnistui:
 %s
 ```
 
@@ -4387,7 +4387,7 @@ Vanhan V2:n pilvikartan siirto epäonnistui:
 ```
 Loading file…
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Ladataan tiedostoa…
 ```
@@ -4397,9 +4397,9 @@ Ladataan tiedostoa…
 ```
 Zipping file: %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Pakattu tiedosto: %s
+Pakataan tiedostoa: %s
 ```
 
 
@@ -4407,9 +4407,9 @@ Pakattu tiedosto: %s
 ```
 Unzipping file: %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Pura tiedosto: %s
+Puretaan tiedostoa: %s
 ```
 
 
@@ -4417,7 +4417,7 @@ Pura tiedosto: %s
 ```
 Share or export
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Jaa tai vie
 ```
@@ -4427,9 +4427,9 @@ Jaa tai vie
 ```
 Export the selected marker as a file
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Vie valittu merkki tiedostona
+Vie valittu merkintä tiedostona
 ```
 
 
@@ -4437,7 +4437,7 @@ Vie valittu merkki tiedostona
 ```
 Export as file
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Vie tiedostona
 ```
@@ -4447,7 +4447,7 @@ Vie tiedostona
 ```
 Successfully saved to device files
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Tallentaminen laitetiedostoihin onnistui
 ```
@@ -4457,9 +4457,9 @@ Tallentaminen laitetiedostoihin onnistui
 ```
 How do you want to use the exported file?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Miten haluat käyttää vietyä tiedostoa?
+Kuinka haluat soveltaa vietyä tiedostoa?
 ```
 
 
@@ -4467,7 +4467,7 @@ Miten haluat käyttää vietyä tiedostoa?
 ```
 Folders added: %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Lisätyt kansiot: %s
 ```
@@ -4477,7 +4477,7 @@ Lisätyt kansiot: %s
 ```
 Folders modified: %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Muokatut kansiot: %s
 ```
@@ -4487,7 +4487,7 @@ Muokatut kansiot: %s
 ```
 Folders deleted: %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Poistetut kansiot: %s
 ```
@@ -4497,9 +4497,9 @@ Poistetut kansiot: %s
 ```
 Markers added: %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Lisätyt merkit: %s
+Lisätyt merkinnät: %s
 ```
 
 
@@ -4507,9 +4507,9 @@ Lisätyt merkit: %s
 ```
 Markers modified: %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Merkkejä muokattu: %s
+Merkintöjä muokattu: %s
 ```
 
 
@@ -4517,9 +4517,9 @@ Merkkejä muokattu: %s
 ```
 Markers deleted: %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Merkit poistettu: %s
+Merkintöjä poistettu: %s
 ```
 
 
@@ -4527,7 +4527,7 @@ Merkit poistettu: %s
 ```
 Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Valitse ympyrän keskikohta tai reuna työkalupalkin painikkeilla ja säädä karttaa liikuttamalla sitä. Tallenna muoto lopuksi napsauttamalla Tallenna.
 ```
@@ -4537,7 +4537,7 @@ Valitse ympyrän keskikohta tai reuna työkalupalkin painikkeilla ja säädä ka
 ```
 Radius: %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Säde: %s
 ```
@@ -4547,7 +4547,7 @@ Säde: %s
 ```
 Display theme (dark / light)
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Näytön teema (tumma / vaalea)
 ```
@@ -4557,7 +4557,7 @@ Näytön teema (tumma / vaalea)
 ```
 Dark theme
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Tumma teema
 ```
@@ -4567,9 +4567,9 @@ Tumma teema
 ```
 Light theme
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kevyt teema
+Vaalea teema
 ```
 
 
@@ -4577,7 +4577,7 @@ Kevyt teema
 ```
 Use system settings
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Käytä järjestelmäasetuksia
 ```
@@ -4587,9 +4587,9 @@ Käytä järjestelmäasetuksia
 ```
 Enter navigation mode in this app to get directions to the marker
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Anna navigointitilassa tässä sovelluksen saada ajo merkki
+Avaa navigointitila tässä sovelluksessa saadaksesi suunnistusohjeet merkinnän luo
 ```
 
 
@@ -4597,9 +4597,9 @@ Anna navigointitilassa tässä sovelluksen saada ajo merkki
 ```
 Directions
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Ohjeet
+Suunnistusohjeet
 ```
 
 
@@ -4607,9 +4607,9 @@ Ohjeet
 ```
 Distance to %1$s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Etäisyys %1$s
+Etäisyys kohteeseen %1$s
 ```
 
 
@@ -4617,9 +4617,9 @@ Etäisyys %1$s
 ```
 Do you want to try and import a marker from the following text data?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Haluatko yrittää tuoda merkin seuraavista tekstitiedoista?
+Haluatko yrittää tuoda merkinnän seuraavista tekstitiedoista?
 ```
 
 
@@ -4627,7 +4627,7 @@ Haluatko yrittää tuoda merkin seuraavista tekstitiedoista?
 ```
 Do you enjoy the app?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Pidätkö sovelluksesta?
 ```
@@ -4637,9 +4637,9 @@ Pidätkö sovelluksesta?
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Haluatko lähettää minulle email kertoa minulle, miten voisin parantaa sovellusta?
+Haluatko lähettää minulle kehitysideoita sähköpostitse?
 ```
 
 
@@ -4647,9 +4647,9 @@ Haluatko lähettää minulle email kertoa minulle, miten voisin parantaa sovellu
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Jos pidät minun app voit palkita minua ottamalla aika antaa hyvän arvosanan :-)
+Jos pidät sovelluksestani, voit palkita minut käyttämällä hieman aikaa arvostellaksesi sovelluksen :-)
 ```
 
 
@@ -4657,9 +4657,9 @@ Jos pidät minun app voit palkita minua ottamalla aika antaa hyvän arvosanan :-
 ```
 Yes, take me to the app page
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kyllä, vie minut sovellussivulle
+Kyllä, vie minut sovelluksen sivulle
 ```
 
 
@@ -4667,7 +4667,7 @@ Kyllä, vie minut sovellussivulle
 ```
 Maybe later, remind me
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Ehkä myöhemmin, muistuta minua
 ```
@@ -4677,7 +4677,7 @@ Ehkä myöhemmin, muistuta minua
 ```
 No thanks, don't ask again
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Ei kiitos, älä kysy uudestaan
 ```
@@ -4687,7 +4687,7 @@ Ei kiitos, älä kysy uudestaan
 ```
 OpenMoji
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 OpenMoji
 ```
@@ -4697,7 +4697,7 @@ OpenMoji
 ```
 Select an option to save the exported file.
 ```
-translated (by machine 🤖) as:
+translated (byvanhavirta) as:
 ```
 Valitse vaihtoehto viedyn tiedoston tallentamiseksi.
 ```
@@ -4707,7 +4707,7 @@ Valitse vaihtoehto viedyn tiedoston tallentamiseksi.
 ```
 Save as
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Tallenna nimellä
 ```
@@ -4717,9 +4717,9 @@ Tallenna nimellä
 ```
 The exported file is large and must be saved with 'Save as'.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Viety tiedosto on suuri ja se on tallennettava Tallenna nimellä.
+Viety tiedosto on suuri ja se on tallennettava käyttäen Tallenna nimellä -toimintoa.
 ```
 
 
@@ -4727,7 +4727,7 @@ Viety tiedosto on suuri ja se on tallennettava Tallenna nimellä.
 ```
 Unconstrained
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Rajoittamaton
 ```
@@ -4737,7 +4737,7 @@ Rajoittamaton
 ```
 %s seconds
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 %s sekuntia
 ```
@@ -4747,9 +4747,9 @@ translated (by machine 🤖) as:
 ```
 %1$s minutes %2$s seconds
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-%1$s minuuttia %2$s sekuntia
+%1$s minuutti(a) %2$s sekunti(a)
 ```
 
 
@@ -4757,9 +4757,9 @@ translated (by machine 🤖) as:
 ```
 Location track recording
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Sijainti jäljen tallennus
+Sijainnin jäljen tallennus
 ```
 
 
@@ -4767,9 +4767,9 @@ Sijainti jäljen tallennus
 ```
 Minimum location accuracy
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Minimi sijainnin tarkkuus
+Pienin sijaintitarkkuus
 ```
 
 
@@ -4777,9 +4777,9 @@ Minimi sijainnin tarkkuus
 ```
 Minimum distance interval
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Minimietäisyysväli
+Pienin etäisyysväli
 ```
 
 
@@ -4787,9 +4787,9 @@ Minimietäisyysväli
 ```
 Minimum time interval
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Minimi aikaväli
+Pienin aikaväli
 ```
 
 
@@ -4797,9 +4797,9 @@ Minimi aikaväli
 ```
 Starting new track recording
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Aloitetaan uuden raidan tallennus
+Aloitetaan uuden jäljen tallennus
 ```
 
 
@@ -4807,9 +4807,9 @@ Aloitetaan uuden raidan tallennus
 ```
 Ongoing track recording
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kappaleen tallennus käynnissä
+Jäljen tallennus käynnissä
 ```
 
 
@@ -4817,9 +4817,9 @@ Kappaleen tallennus käynnissä
 ```
 Do you want to finish and save this track?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Haluatko lopettaa ja tallentaa tämän kappaleen?
+Haluatko lopettaa ja tallentaa tämän jäljen?
 ```
 
 
@@ -4827,9 +4827,9 @@ Haluatko lopettaa ja tallentaa tämän kappaleen?
 ```
 Track %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Raita %s
+Jälki %s
 ```
 
 
@@ -4837,9 +4837,9 @@ Raita %s
 ```
 Do you want to grant this permission?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Haluatko myöntää tämän luvan?
+Haluatko myöntää tämän käyttöoikeuden?
 ```
 
 
@@ -4847,9 +4847,9 @@ Haluatko myöntää tämän luvan?
 ```
 If you want to grant this permission, go to this application's permissions settings under your system settings.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Jos haluat myöntää tämän luvan, siirry tämän sovelluksen käyttöoikeusasetuksiin järjestelmäasetuksissasi.
+Jos haluat myöntää tämän käyttöoikeuden, siirry sovelluksen käyttöoikeusasetuksiin järjestelmäasetuksissasi.
 ```
 
 
@@ -4857,9 +4857,9 @@ Jos haluat myöntää tämän luvan, siirry tämän sovelluksen käyttöoikeusas
 ```
 If you leave this permission disabled, track recording will only work while the app is visible in the foreground.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Jos jätät tämän luvan pois käytöstä, raidan tallennus toimii vain, kun sovellus on näkyvissä etualalla.
+Jos jätät tämän käyttöoikeuden pois käytöstä, jäljen tallennus toimii vain, kun sovellus on käynnissä etualalla.
 ```
 
 
@@ -4867,9 +4867,9 @@ Jos jätät tämän luvan pois käytöstä, raidan tallennus toimii vain, kun so
 ```
 The app will need to display a notification in order to remain active in the background while recording a track.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Sovelluksen on näytettävä ilmoitus, jotta se pysyy aktiivisena taustalla raidan tallennuksen aikana.
+Sovelluksen on näytettävä ilmoitus, jotta se pysyy aktiivisena taustalla jäljen tallentamisen aikana.
 ```
 
 
@@ -4877,9 +4877,9 @@ Sovelluksen on näytettävä ilmoitus, jotta se pysyy aktiivisena taustalla raid
 ```
 The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Kappaleiden tallennus (%s) keskeytettiin ennen kuin se voitiin tallentaa. Haluatko tallentaa sen nyt?
+Jäljen tallennus (%s) keskeytettiin ennen kun se voitiin tallentaa. Haluatko tallentaa sen nyt?
 ```
 
 
@@ -4887,9 +4887,9 @@ Kappaleiden tallennus (%s) keskeytettiin ennen kuin se voitiin tallentaa. Haluat
 ```
 Do you want to delete the unsaved track(s) recording forever?
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Haluatko poistaa tallentamattomat raidat pysyvästi?
+Haluatko poistaa tallentamattomat jäljet pysyvästi?
 ```
 
 
@@ -4897,9 +4897,9 @@ Haluatko poistaa tallentamattomat raidat pysyvästi?
 ```
 This track had no points recorded and has simply been discarded.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Tällä kappaleella ei ollut tallennettuja pisteitä ja se on yksinkertaisesti hylätty.
+Tällä jäljellä ei ollut tallennettuja pisteitä ja se poistettiin.
 ```
 
 
@@ -4907,9 +4907,9 @@ Tällä kappaleella ei ollut tallennettuja pisteitä ja se on yksinkertaisesti h
 ```
 Privacy information
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Tietosuojatiedot
+Tietosuojaseloste
 ```
 
 
@@ -4917,9 +4917,9 @@ Tietosuojatiedot
 ```
 View information about privacy
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Katso yksityisyyttä koskevia tietoja
+Tarkastele tietosuojaselostetta
 ```
 
 
@@ -4927,9 +4927,9 @@ Katso yksityisyyttä koskevia tietoja
 ```
 Display on start
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Näyttö käynnistyksessä
+Näytä sovelluksen käynnistyessä
 ```
 
 
@@ -4942,13 +4942,13 @@ This location data collection is used exclusively to record tracks into your mar
 You can find more general information about privacy in the privacy policy available at the following link:
 %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Tämä sovellus kerää sijaintitietoja mahdollistaakseen jälkitallennusominaisuuden, vaikka sovellus olisi suljettu tai sitä ei käytetä.
+Tämä sovellus kerää sijaintitietoja mahdollistaakseen jälkien tallentamisen, vaikka sovellus olisi suljettu tai pois käytöstä.
 
-Tätä sijaintitietojen kokoelmaa käytetään yksinomaan jälkien tallentamiseen merkkeihisi, ja se tapahtuu vain, kun olet nimenomaisesti aloittanut jäljen tallennuksen.
+Tätä sijaintitietojen tallentamista käytetään yksinomaan karttamerkintöjen jälkien tallentamiseen, ja se tapahtuu vain, kun olet nimenomaisesti aloittanut jäljen tallennuksen.
 
-Löydät yleistä tietoa tietosuojasta seuraavasta linkistä löytyvästä tietosuojakäytännöstä:
+Löydät yleistä tietoa tietosuojasta seuraavasta linkistä löytyvästä tietosuojaselosteesta:
 %s
 ```
 
@@ -4957,9 +4957,9 @@ Löydät yleistä tietoa tietosuojasta seuraavasta linkistä löytyvästä tieto
 ```
 Switch points with the previous/next buttons, move the map around to place the points and click '-' to remove a point. Finally click save to save the edited track.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Vaihda pisteitä edellinen/seuraava-painikkeilla, sijoita pisteet siirtämällä karttaa ja poista piste napsauttamalla '-'. Lopuksi napsauta Tallenna tallentaaksesi muokatun kappaleen.
+Vaihda pisteiden välillä Edellinen- ja Seuraava-painikkeilla, sijoita pisteet siirtämällä karttaa ja poista piste napsauttamalla '-'. Lopuksi napsauta Tallenna tallentaaksesi muokatun jäljen.
 ```
 
 
@@ -4967,7 +4967,7 @@ Vaihda pisteitä edellinen/seuraava-painikkeilla, sijoita pisteet siirtämällä
 ```
 Duration: %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Kesto: %s
 ```
@@ -4977,7 +4977,7 @@ Kesto: %s
 ```
 Minimum speed: %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Pienin nopeus: %s
 ```
@@ -4987,7 +4987,7 @@ Pienin nopeus: %s
 ```
 Minimum moving speed: %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Pienin liikkumisnopeus: %s
 ```
@@ -4997,7 +4997,7 @@ Pienin liikkumisnopeus: %s
 ```
 Maximum speed: %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Suurin nopeus: %s
 ```
@@ -5007,7 +5007,7 @@ Suurin nopeus: %s
 ```
 Average speed: %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Keskinopeus: %s
 ```
@@ -5017,7 +5017,7 @@ Keskinopeus: %s
 ```
 Altitude variation: %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Korkeuden vaihtelu: %s
 ```
@@ -5027,9 +5027,9 @@ Korkeuden vaihtelu: %s
 ```
 Track details
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Raidan tiedot
+Jäljen tiedot
 ```
 
 
@@ -5037,7 +5037,7 @@ Raidan tiedot
 ```
 Distance
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Etäisyys
 ```
@@ -5047,7 +5047,7 @@ Etäisyys
 ```
 Speed
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Nopeus
 ```
@@ -5057,7 +5057,7 @@ Nopeus
 ```
 Altitude
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Korkeus
 ```
@@ -5067,9 +5067,9 @@ Korkeus
 ```
 %1$s hours %2$s minutes %3$s seconds
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-%1$s tuntia %2$s minuuttia %3$s sekuntia
+%1$s tunti(a) %2$s minuutti(a) %3$s sekunti(a)
 ```
 
 
@@ -5077,7 +5077,7 @@ translated (by machine 🤖) as:
 ```
 Circle radius
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Ympyrän säde
 ```
@@ -5087,7 +5087,7 @@ Ympyrän säde
 ```
 Enter circle radius (%s)
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Anna ympyrän säde (%s)
 ```
@@ -5097,9 +5097,9 @@ Anna ympyrän säde (%s)
 ```
 Use premium code
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Käytä premium-koodia
+Käytä Premium-koodia
 ```
 
 
@@ -5107,9 +5107,9 @@ Käytä premium-koodia
 ```
 Activate the premium from a code generated from another device
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Aktivoi premium toisesta laitteesta luodusta koodista
+Aktivoi Premium-versio toisella laitteella luodulla koodilla
 ```
 
 
@@ -5117,9 +5117,9 @@ Aktivoi premium toisesta laitteesta luodusta koodista
 ```
 Enter premium code
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Anna premium-koodi
+Anna Premium-koodi
 ```
 
 
@@ -5128,9 +5128,9 @@ Anna premium-koodi
 Failed to activate the premium:
 %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Premiumin aktivointi epäonnistui:
+Premiumi-version aktivointi epäonnistui:
 %s
 ```
 
@@ -5139,7 +5139,7 @@ Premiumin aktivointi epäonnistui:
 ```
 You've activated the guest premium access on this device
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Olet aktivoinut Guest Premium -käyttöoikeuden tällä laitteella
 ```
@@ -5149,9 +5149,9 @@ Olet aktivoinut Guest Premium -käyttöoikeuden tällä laitteella
 ```
 Generate premium code
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Luo premium-koodi
+Luo Premium-koodi
 ```
 
 
@@ -5159,9 +5159,9 @@ Luo premium-koodi
 ```
 Generate a premium code to activate the premium on one of your other devices
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Luo premium-koodi aktivoidaksesi premium toisessa laitteessasi
+Luo Premium-koodi aktivoidaksesi Premium-version toisessa laitteessasi
 ```
 
 
@@ -5170,10 +5170,10 @@ Luo premium-koodi aktivoidaksesi premium toisessa laitteessasi
 Premium code successfully generated: %s
 Use this code from your other device to activate the premium there.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Premium-koodi luotu onnistuneesti: %s
-Käytä tätä koodia toisesta laitteestasi aktivoidaksesi premium siellä.
+Käytä tätä koodia toisessa laitteessasi aktivoidaksesi Premium-version.
 ```
 
 
@@ -5181,9 +5181,9 @@ Käytä tätä koodia toisesta laitteestasi aktivoidaksesi premium siellä.
 ```
 Recovery: safe setup
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Palautus: turvallinen asennus
+Tietojen palautus: turvallinen vaihtoehto
 ```
 
 
@@ -5191,9 +5191,9 @@ Palautus: turvallinen asennus
 ```
 Creates a new empty map and applies safe settings to prevent further crashes
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Luo uuden tyhjän kartan ja käyttää turvallisia asetuksia estääkseen uudet kaatumiset
+Luo uuden tyhjän kartan ja käyttää turvallisia asetuksia estääkseen sovelluksen uudet kaatumiset
 ```
 
 
@@ -5201,9 +5201,9 @@ Luo uuden tyhjän kartan ja käyttää turvallisia asetuksia estääkseen uudet 
 ```
 The safe setup was applied and will be effective on next launch, you can now exit the app and terminate it.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Turvallinen asennus otettiin käyttöön ja se tulee voimaan seuraavan käynnistyksen yhteydessä. Voit nyt poistua sovelluksesta ja lopettaa sen.
+Turvallinen tiedostojen palautus otettiin käyttöön ja se tulee voimaan seuraavan käynnistyksen yhteydessä. Voit nyt poistua sovelluksesta ja sulkea sen.
 ```
 
 
@@ -5211,9 +5211,9 @@ Turvallinen asennus otettiin käyttöön ja se tulee voimaan seuraavan käynnist
 ```
 Recovery: export data
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Palautus: vie tiedot
+Tiedostojen palautus: vie tiedot
 ```
 
 
@@ -5221,7 +5221,7 @@ Palautus: vie tiedot
 ```
 Export locally available map data
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Vie paikallisesti saatavilla olevat karttatiedot
 ```
@@ -5231,9 +5231,9 @@ Vie paikallisesti saatavilla olevat karttatiedot
 ```
 Warning: the recovery export will be partial, at least one cloud media file is missing, will not be downloaded and will be replaced with an empty file during the export.
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Varoitus: palautuksen vienti on osittainen, ainakin yksi pilvimediatiedosto puuttuu, sitä ei ladata ja se korvataan tyhjällä tiedostolla viennin aikana.
+Varoitus: palautuksen vienti on vaillinainen, koska ainakin yksi pilvimediatiedosto puuttuu. Sitä ei ladata ja se korvataan tyhjällä tiedostolla viennin aikana.
 ```
 
 
@@ -5241,7 +5241,7 @@ Varoitus: palautuksen vienti on osittainen, ainakin yksi pilvimediatiedosto puut
 ```
 Tomtom Places Search
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Tomtom Places Search
 ```
@@ -5251,7 +5251,7 @@ Tomtom Places Search
 ```
 Tomtom
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Tomtom
 ```
@@ -5261,9 +5261,9 @@ Tomtom
 ```
 Text display size
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
-Tekstin näytön koko
+Tekstin koko
 ```
 
 
@@ -5274,7 +5274,7 @@ See compatibility details below:
 
 %s
 ```
-translated (by machine 🤖) as:
+translated (by vanhavirta) as:
 ```
 Näyttää siltä, että selaimesi ei ole täysin yhteensopiva - vain Google Chrome on testattu täysin yhteensopivaksi
 Katso yhteensopivuustiedot alta:
