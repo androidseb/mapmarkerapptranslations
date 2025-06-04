@@ -3783,16 +3783,6 @@ To aplikácii poskytuje úplný prístup k vášmu Dropbox. Túto možnosť vybe
 ```
 
 
-## Translation Key: enter_access_code_hint_text
-```
-Enter access code
-```
-translated (by machine 🤖) as:
-```
-Zadajte prístupový kód
-```
-
-
 ## Translation Key: offline_map_files
 ```
 Offline map files
@@ -5290,6 +5280,86 @@ Display all editing shape points (slower)
 translated (by machine 🤖) as:
 ```
 Zobraziť všetky body tvaru pri úprave (pomalšie)
+```
+
+
+## Translation Key: sync_option_webdav_title
+```
+WebDAV server
+```
+translated (by machine 🤖) as:
+```
+WebDAV server
+```
+
+
+## Translation Key: sync_option_webdav_description
+```
+This allows you to sync to a WebDAV server by configuring access credentials.
+```
+translated (by machine 🤖) as:
+```
+To vám umožní synchronizáciu so serverom WebDAV pomocou konfigurácie prístupových poverení.
+```
+
+
+## Translation Key: enter_configuration_values_title
+```
+Enter configuration values
+```
+translated (by machine 🤖) as:
+```
+Zadajte konfiguračné hodnoty
+```
+
+
+## Translation Key: required_hint_text
+```
+Required
+```
+translated (by machine 🤖) as:
+```
+Povinné
+```
+
+
+## Translation Key: access_code_hint_text
+```
+Access code
+```
+translated (by machine 🤖) as:
+```
+Prístupový kód
+```
+
+
+## Translation Key: server_url_hint_text
+```
+Server URL
+```
+translated (by machine 🤖) as:
+```
+Adresa URL servera
+```
+
+
+## Translation Key: username_hint_text
+```
+Username
+```
+translated (by machine 🤖) as:
+```
+Používateľské meno
+```
+
+
+## Translation Key: password_hint_text
+```
+Password
+```
+translated (by machine 🤖) as:
+```
+heslo
 ```
 
 

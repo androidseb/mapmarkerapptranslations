@@ -2420,3 +2420,13 @@ Warnsymbol für die Synchronisation zeigen
 ```
 
 
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Geben Sie den Zugangscode ein
+```
+
+

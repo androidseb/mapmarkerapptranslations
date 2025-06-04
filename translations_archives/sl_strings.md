@@ -2420,3 +2420,13 @@ Prikaži opozorilno ikono za sinhronizacijo
 ```
 
 
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Vnesite kodo za dostop
+```
+
+

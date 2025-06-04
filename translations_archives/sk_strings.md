@@ -2423,3 +2423,13 @@ Zobraziť ikonu varovanie pre synchronizáciu
 ```
 
 
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Zadajte prístupový kód
+```
+
+

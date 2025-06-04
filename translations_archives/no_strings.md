@@ -2423,3 +2423,13 @@ Vis advarselsikon for synkronisering
 ```
 
 
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Skriv inn tilgangskode
+```
+
+

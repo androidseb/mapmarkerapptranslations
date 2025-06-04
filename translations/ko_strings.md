@@ -3783,16 +3783,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: enter_access_code_hint_text
-```
-Enter access code
-```
-translated (by machine 🤖) as:
-```
-액세스 코드 입력
-```
-
-
 ## Translation Key: offline_map_files
 ```
 Offline map files
@@ -5290,6 +5280,86 @@ Display all editing shape points (slower)
 translated (by machine 🤖) as:
 ```
 모든 편집 모양 포인트 표시(느림)
+```
+
+
+## Translation Key: sync_option_webdav_title
+```
+WebDAV server
+```
+translated (by machine 🤖) as:
+```
+WebDAV 서버
+```
+
+
+## Translation Key: sync_option_webdav_description
+```
+This allows you to sync to a WebDAV server by configuring access credentials.
+```
+translated (by machine 🤖) as:
+```
+이렇게 하면 액세스 자격 증명을 구성하여 WebDAV 서버와 동기화할 수 있습니다.
+```
+
+
+## Translation Key: enter_configuration_values_title
+```
+Enter configuration values
+```
+translated (by machine 🤖) as:
+```
+구성 값을 입력하세요
+```
+
+
+## Translation Key: required_hint_text
+```
+Required
+```
+translated (by machine 🤖) as:
+```
+필수의
+```
+
+
+## Translation Key: access_code_hint_text
+```
+Access code
+```
+translated (by machine 🤖) as:
+```
+액세스 코드
+```
+
+
+## Translation Key: server_url_hint_text
+```
+Server URL
+```
+translated (by machine 🤖) as:
+```
+서버 URL
+```
+
+
+## Translation Key: username_hint_text
+```
+Username
+```
+translated (by machine 🤖) as:
+```
+사용자 이름
+```
+
+
+## Translation Key: password_hint_text
+```
+Password
+```
+translated (by machine 🤖) as:
+```
+비밀번호
 ```
 
 

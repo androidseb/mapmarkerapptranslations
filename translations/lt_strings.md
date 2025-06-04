@@ -3783,16 +3783,6 @@ Tai suteikia programai visišką prieigą prie jūsų Dropbox. Pasirinkite šią
 ```
 
 
-## Translation Key: enter_access_code_hint_text
-```
-Enter access code
-```
-translated (by machine 🤖) as:
-```
-Įveskite prieigos kodą
-```
-
-
 ## Translation Key: offline_map_files
 ```
 Offline map files
@@ -5290,6 +5280,86 @@ Display all editing shape points (slower)
 translated (by machine 🤖) as:
 ```
 Rodyti visus redaguojamus formos taškus (lėčiau)
+```
+
+
+## Translation Key: sync_option_webdav_title
+```
+WebDAV server
+```
+translated (by machine 🤖) as:
+```
+WebDAV serveris
+```
+
+
+## Translation Key: sync_option_webdav_description
+```
+This allows you to sync to a WebDAV server by configuring access credentials.
+```
+translated (by machine 🤖) as:
+```
+Tai leidžia sinchronizuoti su WebDAV serveriu konfigūruojant prieigos kredencialus.
+```
+
+
+## Translation Key: enter_configuration_values_title
+```
+Enter configuration values
+```
+translated (by machine 🤖) as:
+```
+Įveskite konfigūracijos reikšmes
+```
+
+
+## Translation Key: required_hint_text
+```
+Required
+```
+translated (by machine 🤖) as:
+```
+Reikalingas
+```
+
+
+## Translation Key: access_code_hint_text
+```
+Access code
+```
+translated (by machine 🤖) as:
+```
+Prieigos kodas
+```
+
+
+## Translation Key: server_url_hint_text
+```
+Server URL
+```
+translated (by machine 🤖) as:
+```
+Serverio URL
+```
+
+
+## Translation Key: username_hint_text
+```
+Username
+```
+translated (by machine 🤖) as:
+```
+Vartotojo vardas
+```
+
+
+## Translation Key: password_hint_text
+```
+Password
+```
+translated (by machine 🤖) as:
+```
+Slaptažodis
 ```
 
 

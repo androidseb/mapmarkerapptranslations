@@ -2423,3 +2423,13 @@ Tampilkan ikon peringatan untuk sinkronisasi
 ```
 
 
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Masukkan kode akses
+```
+
+

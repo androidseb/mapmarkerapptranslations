@@ -3783,16 +3783,6 @@ Acest lucru oferă aplicației acces deplin la Dropbox. Alegeți această opțiu
 ```
 
 
-## Translation Key: enter_access_code_hint_text
-```
-Enter access code
-```
-translated (by machine 🤖) as:
-```
-Introduceți codul de acces
-```
-
-
 ## Translation Key: offline_map_files
 ```
 Offline map files
@@ -5290,6 +5280,86 @@ Display all editing shape points (slower)
 translated (by machine 🤖) as:
 ```
 Afișează toate punctele de formă de editare (mai lent)
+```
+
+
+## Translation Key: sync_option_webdav_title
+```
+WebDAV server
+```
+translated (by machine 🤖) as:
+```
+Server WebDAV
+```
+
+
+## Translation Key: sync_option_webdav_description
+```
+This allows you to sync to a WebDAV server by configuring access credentials.
+```
+translated (by machine 🤖) as:
+```
+Acest lucru vă permite să vă sincronizați cu un server WebDAV prin configurarea acreditărilor de acces.
+```
+
+
+## Translation Key: enter_configuration_values_title
+```
+Enter configuration values
+```
+translated (by machine 🤖) as:
+```
+Introduceți valorile de configurare
+```
+
+
+## Translation Key: required_hint_text
+```
+Required
+```
+translated (by machine 🤖) as:
+```
+Necesar
+```
+
+
+## Translation Key: access_code_hint_text
+```
+Access code
+```
+translated (by machine 🤖) as:
+```
+Cod de acces
+```
+
+
+## Translation Key: server_url_hint_text
+```
+Server URL
+```
+translated (by machine 🤖) as:
+```
+Adresa URL a serverului
+```
+
+
+## Translation Key: username_hint_text
+```
+Username
+```
+translated (by machine 🤖) as:
+```
+Nume de utilizator
+```
+
+
+## Translation Key: password_hint_text
+```
+Password
+```
+translated (by machine 🤖) as:
+```
+Parolă
 ```
 
 

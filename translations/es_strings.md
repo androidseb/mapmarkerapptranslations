@@ -3783,16 +3783,6 @@ Esto otorga a la aplicación acceso total a su Dropbox. Elija esta opción si de
 ```
 
 
-## Translation Key: enter_access_code_hint_text
-```
-Enter access code
-```
-translated (by machine 🤖) as:
-```
-Introduce el código de acceso
-```
-
-
 ## Translation Key: offline_map_files
 ```
 Offline map files
@@ -5290,6 +5280,86 @@ Display all editing shape points (slower)
 translated (by machine 🤖) as:
 ```
 Mostrar todos los puntos de forma de edición (más lento)
+```
+
+
+## Translation Key: sync_option_webdav_title
+```
+WebDAV server
+```
+translated (by machine 🤖) as:
+```
+Servidor WebDAV
+```
+
+
+## Translation Key: sync_option_webdav_description
+```
+This allows you to sync to a WebDAV server by configuring access credentials.
+```
+translated (by machine 🤖) as:
+```
+Esto le permite sincronizar con un servidor WebDAV configurando las credenciales de acceso.
+```
+
+
+## Translation Key: enter_configuration_values_title
+```
+Enter configuration values
+```
+translated (by machine 🤖) as:
+```
+Introducir valores de configuración
+```
+
+
+## Translation Key: required_hint_text
+```
+Required
+```
+translated (by machine 🤖) as:
+```
+Requerido
+```
+
+
+## Translation Key: access_code_hint_text
+```
+Access code
+```
+translated (by machine 🤖) as:
+```
+Código de acceso
+```
+
+
+## Translation Key: server_url_hint_text
+```
+Server URL
+```
+translated (by machine 🤖) as:
+```
+URL del servidor
+```
+
+
+## Translation Key: username_hint_text
+```
+Username
+```
+translated (by machine 🤖) as:
+```
+Nombre de usuario
+```
+
+
+## Translation Key: password_hint_text
+```
+Password
+```
+translated (by machine 🤖) as:
+```
+Contraseña
 ```
 
 

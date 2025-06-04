@@ -2423,3 +2423,13 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+액세스 코드 입력
+```
+
+

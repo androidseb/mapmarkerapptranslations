@@ -2423,3 +2423,13 @@ Mostrar icono de advertencia para la sincronización
 ```
 
 
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Introduce el código de acceso
+```
+
+

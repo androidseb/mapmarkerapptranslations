@@ -2423,3 +2423,13 @@ Senkronizasyon için uyarı simgesi göster
 ```
 
 
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Erişim kodunu giriniz
+```
+
+

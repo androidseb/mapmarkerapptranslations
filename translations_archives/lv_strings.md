@@ -2423,3 +2423,13 @@ Parādiet brīdinājuma ikonu sinhronizāciju
 ```
 
 
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Ievadiet piekļuves kodu
+```
+
+

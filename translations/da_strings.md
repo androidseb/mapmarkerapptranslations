@@ -3787,16 +3787,6 @@ Dette giver appen fuld adgang til din Dropbox. Vælg denne mulighed, hvis du øn
 ```
 
 
-## Translation Key: enter_access_code_hint_text
-```
-Enter access code
-```
-translated (by machine 🤖) as:
-```
-Indtast adgangskode
-```
-
-
 ## Translation Key: offline_map_files
 ```
 Offline map files
@@ -5294,6 +5284,86 @@ Display all editing shape points (slower)
 translated (by machine 🤖) as:
 ```
 Vis alle redigeringsformpunkter (langsommere)
+```
+
+
+## Translation Key: sync_option_webdav_title
+```
+WebDAV server
+```
+translated (by machine 🤖) as:
+```
+WebDAV-server
+```
+
+
+## Translation Key: sync_option_webdav_description
+```
+This allows you to sync to a WebDAV server by configuring access credentials.
+```
+translated (by machine 🤖) as:
+```
+Dette giver dig mulighed for at synkronisere til en WebDAV-server ved at konfigurere adgangsoplysninger.
+```
+
+
+## Translation Key: enter_configuration_values_title
+```
+Enter configuration values
+```
+translated (by machine 🤖) as:
+```
+Indtast konfigurationsværdier
+```
+
+
+## Translation Key: required_hint_text
+```
+Required
+```
+translated (by machine 🤖) as:
+```
+Påkrævet
+```
+
+
+## Translation Key: access_code_hint_text
+```
+Access code
+```
+translated (by machine 🤖) as:
+```
+Adgangskode
+```
+
+
+## Translation Key: server_url_hint_text
+```
+Server URL
+```
+translated (by machine 🤖) as:
+```
+Server URL
+```
+
+
+## Translation Key: username_hint_text
+```
+Username
+```
+translated (by machine 🤖) as:
+```
+Brugernavn
+```
+
+
+## Translation Key: password_hint_text
+```
+Password
+```
+translated (by machine 🤖) as:
+```
+Adgangskode
 ```
 
 

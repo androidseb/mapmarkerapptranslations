@@ -2417,3 +2417,13 @@ Toon waarschuwingspictogram voor synchronisatie
 ```
 
 
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Voer toegangscode in
+```
+
+

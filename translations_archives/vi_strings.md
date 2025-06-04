@@ -2423,3 +2423,13 @@ Hiển thị biểu tượng cảnh báo cho đồng bộ
 ```
 
 
+## Translation Key: enter_access_code_hint_text
+```
+Enter access code
+```
+translated (by machine 🤖) as:
+```
+Nhập mã truy cập
+```
+
+
