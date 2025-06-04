@@ -5120,7 +5120,7 @@ Failed to activate the premium:
 ```
 translated (by human 👀) as:
 ```
-Premiumi-version aktivointi epäonnistui:
+Premium-version aktivointi epäonnistui:
 %s
 ```
 
