@@ -3281,26 +3281,6 @@ iOS Geocoder
 ```
 
 
-## Translation Key: search_source_bing
-```
-Microsoft Bing Places Search
-```
-translated (by machine 🤖) as:
-```
-Microsoft Bing Places Search
-```
-
-
-## Translation Key: short_search_source_bing
-```
-Bing
-```
-translated (by machine 🤖) as:
-```
-Bing
-```
-
-
 ## Translation Key: confirmation_message_delete_sub_folder
 ```
 This folder has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
@@ -5360,6 +5340,56 @@ Password
 translated (by machine 🤖) as:
 ```
 Parole
+```
+
+
+## Translation Key: search_source_geoapify
+```
+Geoapify
+```
+translated (by machine 🤖) as:
+```
+Geoapify
+```
+
+
+## Translation Key: short_search_source_geoapify
+```
+Geoapify Places Search API
+```
+translated (by machine 🤖) as:
+```
+Geoapify Places Search API
+```
+
+
+## Translation Key: use_native_google_maps_view_option_title
+```
+Use native Google Maps view
+```
+translated (by machine 🤖) as:
+```
+Izmantot vietējo Google Maps skatu
+```
+
+
+## Translation Key: use_native_google_maps_view_option_description
+```
+This display mode might be slower but is less likely to cause app crashes
+```
+translated (by machine 🤖) as:
+```
+Šis attēlošanas režīms varētu būt lēnāks, taču tas, visticamāk, neizraisīs lietotņu avārijas.
+```
+
+
+## Translation Key: use_native_google_maps_view_option_desync_hint
+```
+(current choice not applied, requires a full app restart)
+```
+translated (by machine 🤖) as:
+```
+(pašreizējā izvēle netiek lietota, nepieciešama pilnīga lietotnes restartēšana)
 ```
 
 

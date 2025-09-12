@@ -2430,3 +2430,23 @@ Vnesite kodo za dostop
 ```
 
 
+## Translation Key: search_source_bing
+```
+Microsoft Bing Places Search
+```
+translated (by human 👀) as:
+```
+Microsoft Bing način iskanja
+```
+
+
+## Translation Key: short_search_source_bing
+```
+Bing
+```
+translated (by human 👀) as:
+```
+Bing
+```
+
+

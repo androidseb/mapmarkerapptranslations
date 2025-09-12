@@ -3281,26 +3281,6 @@ iOS Geocoder
 ```
 
 
-## Translation Key: search_source_bing
-```
-Microsoft Bing Places Search
-```
-translated (by machine 🤖) as:
-```
-Microsoft Bing Places Search
-```
-
-
-## Translation Key: short_search_source_bing
-```
-Bing
-```
-translated (by machine 🤖) as:
-```
-Bing
-```
-
-
 ## Translation Key: confirmation_message_delete_sub_folder
 ```
 This folder has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
@@ -5360,6 +5340,56 @@ Password
 translated (by machine 🤖) as:
 ```
 비밀번호
+```
+
+
+## Translation Key: search_source_geoapify
+```
+Geoapify
+```
+translated (by machine 🤖) as:
+```
+Geoapify
+```
+
+
+## Translation Key: short_search_source_geoapify
+```
+Geoapify Places Search API
+```
+translated (by machine 🤖) as:
+```
+Geoapify Places Search API
+```
+
+
+## Translation Key: use_native_google_maps_view_option_title
+```
+Use native Google Maps view
+```
+translated (by machine 🤖) as:
+```
+네이티브 Google Maps 뷰를 사용하세요
+```
+
+
+## Translation Key: use_native_google_maps_view_option_description
+```
+This display mode might be slower but is less likely to cause app crashes
+```
+translated (by machine 🤖) as:
+```
+이 디스플레이 모드는 더 느릴 수 있지만 앱 충돌이 발생할 가능성은 적습니다.
+```
+
+
+## Translation Key: use_native_google_maps_view_option_desync_hint
+```
+(current choice not applied, requires a full app restart)
+```
+translated (by machine 🤖) as:
+```
+(현재 선택 사항이 적용되지 않음, 앱을 완전히 다시 시작해야 함)
 ```
 
 

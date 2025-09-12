@@ -3281,26 +3281,6 @@ iOS Geocoder
 ```
 
 
-## Translation Key: search_source_bing
-```
-Microsoft Bing Places Search
-```
-translated (by machine 🤖) as:
-```
-Microsoft Bing Places Search
-```
-
-
-## Translation Key: short_search_source_bing
-```
-Bing
-```
-translated (by machine 🤖) as:
-```
-Bing
-```
-
-
 ## Translation Key: confirmation_message_delete_sub_folder
 ```
 This folder has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
@@ -5360,6 +5340,56 @@ Password
 translated (by machine 🤖) as:
 ```
 Σύνθημα
+```
+
+
+## Translation Key: search_source_geoapify
+```
+Geoapify
+```
+translated (by machine 🤖) as:
+```
+Geoapify
+```
+
+
+## Translation Key: short_search_source_geoapify
+```
+Geoapify Places Search API
+```
+translated (by machine 🤖) as:
+```
+Geoapify Places Search API
+```
+
+
+## Translation Key: use_native_google_maps_view_option_title
+```
+Use native Google Maps view
+```
+translated (by machine 🤖) as:
+```
+Χρήση εγγενούς προβολής Google Maps
+```
+
+
+## Translation Key: use_native_google_maps_view_option_description
+```
+This display mode might be slower but is less likely to cause app crashes
+```
+translated (by machine 🤖) as:
+```
+Αυτή η λειτουργία εμφάνισης μπορεί να είναι πιο αργή, αλλά είναι λιγότερο πιθανό να προκαλέσει σφάλματα εφαρμογής.
+```
+
+
+## Translation Key: use_native_google_maps_view_option_desync_hint
+```
+(current choice not applied, requires a full app restart)
+```
+translated (by machine 🤖) as:
+```
+(η τρέχουσα επιλογή δεν έχει εφαρμοστεί, απαιτείται πλήρης επανεκκίνηση της εφαρμογής)
 ```
 
 

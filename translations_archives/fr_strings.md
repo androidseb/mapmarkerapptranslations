@@ -2433,3 +2433,23 @@ Entrez le code d'accès
 ```
 
 
+## Translation Key: search_source_bing
+```
+Microsoft Bing Places Search
+```
+translated (by human 👀) as:
+```
+Recherche de lieux Microsoft Bing
+```
+
+
+## Translation Key: short_search_source_bing
+```
+Bing
+```
+translated (by human 👀) as:
+```
+Bing
+```
+
+

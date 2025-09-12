@@ -3281,26 +3281,6 @@ Géocodeur iOS
 ```
 
 
-## Translation Key: search_source_bing
-```
-Microsoft Bing Places Search
-```
-translated (by human 👀) as:
-```
-Recherche de lieux Microsoft Bing
-```
-
-
-## Translation Key: short_search_source_bing
-```
-Bing
-```
-translated (by human 👀) as:
-```
-Bing
-```
-
-
 ## Translation Key: confirmation_message_delete_sub_folder
 ```
 This folder has sub-folders. Do you want to delete the sub-folders as well? All markers associated to the deleted folders will be deleted permanently!
@@ -5360,6 +5340,56 @@ Password
 translated (by machine 🤖) as:
 ```
 Mot de passe
+```
+
+
+## Translation Key: search_source_geoapify
+```
+Geoapify
+```
+translated (by machine 🤖) as:
+```
+Geoapify
+```
+
+
+## Translation Key: short_search_source_geoapify
+```
+Geoapify Places Search API
+```
+translated (by machine 🤖) as:
+```
+Geoapify Places Search API
+```
+
+
+## Translation Key: use_native_google_maps_view_option_title
+```
+Use native Google Maps view
+```
+translated (by machine 🤖) as:
+```
+Utiliser la vue native Google Maps
+```
+
+
+## Translation Key: use_native_google_maps_view_option_description
+```
+This display mode might be slower but is less likely to cause app crashes
+```
+translated (by machine 🤖) as:
+```
+Ce mode d'affichage peut être plus lent, mais il est moins susceptible de provoquer des plantages de l'application
+```
+
+
+## Translation Key: use_native_google_maps_view_option_desync_hint
+```
+(current choice not applied, requires a full app restart)
+```
+translated (by machine 🤖) as:
+```
+(choix actuel non appliqué, nécessite un redémarrage complet de l'application)
 ```
 
 
