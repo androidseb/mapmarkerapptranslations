@@ -471,7 +471,7 @@ Imperial (Miles/Feet)
 ```
 translated (by human 👀) as:
 ```
-İngiliz (Mil / Feet)
+İngiliz (Mil / Fit)
 ```
 
 
@@ -5390,6 +5390,16 @@ Bu görüntüleme modu daha yavaş olabilir ancak uygulama çökmelerine neden o
 translated (by machine 🤖) as:
 ```
 (geçerli seçim uygulanmadı, uygulamanın tamamen yeniden başlatılmasını gerektirir)
+```
+
+
+## Translation Key: location_always_permission_asking_message
+```
+The app will need to have the 'always' location permission in order to remain active in the background while recording a track.
+```
+translated (by machine 🤖) as:
+```
+Bir parçayı kaydederken arka planda etkin kalabilmek için uygulamanın 'her zaman' konum iznine sahip olması gerekecektir.
 ```
 
 

@@ -5393,3 +5393,13 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: location_always_permission_asking_message
+```
+The app will need to have the 'always' location permission in order to remain active in the background while recording a track.
+```
+translated (by machine 🤖) as:
+```
+កម្មវិធីនេះនឹងត្រូវមានការអនុញ្ញាតទីតាំង 'ជានិច្ច' ដើម្បីបន្តសកម្មភាពក្នុងផ្ទៃខាងក្រោយខណៈពេលកំពុងថតបទ។
+```
+
+
