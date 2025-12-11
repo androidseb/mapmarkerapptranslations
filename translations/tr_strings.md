@@ -1491,7 +1491,7 @@ Organize
 ```
 translated (by human 👀) as:
 ```
-Düzenle
+Yönet
 ```
 
 
