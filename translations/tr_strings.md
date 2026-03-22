@@ -455,26 +455,6 @@ Tekrar gösterme
 ```
 
 
-## Translation Key: sou_metric_option
-```
-Metric (Kilometers/Meters)
-```
-translated (by human 👀) as:
-```
-Metrik (Kilometre / Metre)
-```
-
-
-## Translation Key: sou_imperial_option
-```
-Imperial (Miles/Feet)
-```
-translated (by human 👀) as:
-```
-İngiliz (Mil / Fit)
-```
-
-
 ## Translation Key: delete_folder
 ```
 Delete folder
@@ -1861,46 +1841,6 @@ Alan birimi
 ```
 
 
-## Translation Key: uoa_metric_option
-```
-Metric (%s)
-```
-translated (by human 👀) as:
-```
-Metrik ( %s )
-```
-
-
-## Translation Key: uoa_imperial_option
-```
-Imperial (%s)
-```
-translated (by human 👀) as:
-```
-İngiliz ( %s )
-```
-
-
-## Translation Key: uoa_metric_option_hint
-```
-m²/a/ha/km²
-```
-translated (by human 👀) as:
-```
-m²/a/ha/km²
-```
-
-
-## Translation Key: uoa_imperial_option_hint
-```
-Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
-```
-translated (by human 👀) as:
-```
-Kare yarda/Kare rod(rd²)/Acre/Kare mil(mi²)/Township
-```
-
-
 ## Translation Key: uoa_square_meter_abreviation
 ```
 m²
@@ -1908,16 +1848,6 @@ m²
 translated (by human 👀) as:
 ```
 m²
-```
-
-
-## Translation Key: uoa_are_abreviation
-```
-a
-```
-translated (by human 👀) as:
-```
-a
 ```
 
 
@@ -1938,46 +1868,6 @@ km²
 translated (by human 👀) as:
 ```
 km²
-```
-
-
-## Translation Key: uoa_square_yard_abreviation
-```
-Square yard
-```
-translated (by human 👀) as:
-```
-yd²
-```
-
-
-## Translation Key: uoa_square_rod_abreviation
-```
-rd²
-```
-translated (by human 👀) as:
-```
-rd²
-```
-
-
-## Translation Key: uoa_acre_abreviation
-```
-Acre
-```
-translated (by human 👀) as:
-```
-Dönüm
-```
-
-
-## Translation Key: uoa_township_abreviation
-```
-Township
-```
-translated (by human 👀) as:
-```
-Township
 ```
 
 
@@ -5363,36 +5253,6 @@ Geoapify Yer Arama API'sı
 ```
 
 
-## Translation Key: use_native_google_maps_view_option_title
-```
-Use native Google Maps view
-```
-translated (by human 👀) as:
-```
-Yerel Google Haritalar görünümünü kullan
-```
-
-
-## Translation Key: use_native_google_maps_view_option_description
-```
-This display mode might be slower but is less likely to cause app crashes
-```
-translated (by human 👀) as:
-```
-Bu görüntüleme modu daha yavaş olabilir ancak uygulama çökmelerine neden olma olasılığı daha düşüktür
-```
-
-
-## Translation Key: use_native_google_maps_view_option_desync_hint
-```
-(current choice not applied, requires a full app restart)
-```
-translated (by human 👀) as:
-```
-(geçerli seçim uygulanmadı, uygulamanın tamamen yeniden başlatılmasını gerektirir)
-```
-
-
 ## Translation Key: location_always_permission_asking_message
 ```
 The app will need to have the 'always' location permission in order to remain active in the background while recording a track.
@@ -5400,6 +5260,86 @@ The app will need to have the 'always' location permission in order to remain ac
 translated (by machine 🤖) as:
 ```
 Bir parçayı kaydederken arka planda etkin kalabilmek için uygulamanın 'her zaman' konum iznine sahip olması gerekecektir.
+```
+
+
+## Translation Key: uoa_square_feet_abreviation
+```
+ft²
+```
+translated (by machine 🤖) as:
+```
+ft²
+```
+
+
+## Translation Key: uoa_acre_abreviation_2
+```
+ac
+```
+translated (by machine 🤖) as:
+```
+ac
+```
+
+
+## Translation Key: uoa_metric_option_hint_2
+```
+Square meter (m²) / Hectare (ha) / Square kilometer (km²)
+```
+translated (by machine 🤖) as:
+```
+Metrekare (m²) / Hektar (ha) / Kilometrekare (km²)
+```
+
+
+## Translation Key: uoa_imperial_option_hint_2
+```
+Square foot (ft²) / Acre (ac) / Square mile(mi²)
+```
+translated (by machine 🤖) as:
+```
+Kare ayak (ft²) / Dönüm (ac) / Kare mil (mi²)
+```
+
+
+## Translation Key: uoa_metric_option_2
+```
+Metric: %s
+```
+translated (by machine 🤖) as:
+```
+Ölçüt: %s
+```
+
+
+## Translation Key: uoa_imperial_option_2
+```
+Imperial: %s
+```
+translated (by machine 🤖) as:
+```
+İmparatorluk: %s
+```
+
+
+## Translation Key: sou_metric_option_2
+```
+Metric: Meters / Kilometers
+```
+translated (by machine 🤖) as:
+```
+Metrik: Metre / Kilometre
+```
+
+
+## Translation Key: sou_imperial_option_2
+```
+Imperial: Feet / Miles
+```
+translated (by machine 🤖) as:
+```
+İngiliz ölçü birimi: Fit / Mil
 ```
 
 

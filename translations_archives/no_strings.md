@@ -2453,3 +2453,143 @@ Bing
 ```
 
 
+## Translation Key: sou_metric_option
+```
+Metric (Kilometers/Meters)
+```
+translated (by machine 🤖) as:
+```
+Metric (Kilometer / Meters)
+```
+
+
+## Translation Key: sou_imperial_option
+```
+Imperial (Miles/Feet)
+```
+translated (by machine 🤖) as:
+```
+Imperial (Miles / Feet)
+```
+
+
+## Translation Key: uoa_metric_option
+```
+Metric (%s)
+```
+translated (by machine 🤖) as:
+```
+Metric ( %s )
+```
+
+
+## Translation Key: uoa_imperial_option
+```
+Imperial (%s)
+```
+translated (by machine 🤖) as:
+```
+Imperial ( %s )
+```
+
+
+## Translation Key: uoa_metric_option_hint
+```
+m²/a/ha/km²
+```
+translated (by machine 🤖) as:
+```
+m²/a/ha/km²
+```
+
+
+## Translation Key: uoa_imperial_option_hint
+```
+Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
+```
+translated (by machine 🤖) as:
+```
+Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
+```
+
+
+## Translation Key: uoa_are_abreviation
+```
+a
+```
+translated (by machine 🤖) as:
+```
+a
+```
+
+
+## Translation Key: uoa_square_yard_abreviation
+```
+Square yard
+```
+translated (by machine 🤖) as:
+```
+Square yard
+```
+
+
+## Translation Key: uoa_square_rod_abreviation
+```
+rd²
+```
+translated (by machine 🤖) as:
+```
+rd²
+```
+
+
+## Translation Key: uoa_acre_abreviation
+```
+Acre
+```
+translated (by machine 🤖) as:
+```
+Acre
+```
+
+
+## Translation Key: uoa_township_abreviation
+```
+Township
+```
+translated (by machine 🤖) as:
+```
+Township
+```
+
+
+## Translation Key: use_native_google_maps_view_option_title
+```
+Use native Google Maps view
+```
+translated (by machine 🤖) as:
+```
+Bruk den opprinnelige Google Maps-visningen
+```
+
+
+## Translation Key: use_native_google_maps_view_option_description
+```
+This display mode might be slower but is less likely to cause app crashes
+```
+translated (by machine 🤖) as:
+```
+Denne visningsmodusen kan være tregere, men det er mindre sannsynlig at den forårsaker appkrasj
+```
+
+
+## Translation Key: use_native_google_maps_view_option_desync_hint
+```
+(current choice not applied, requires a full app restart)
+```
+translated (by machine 🤖) as:
+```
+(nåværende valg ikke brukt, krever en fullstendig omstart av appen)
+```
+
+

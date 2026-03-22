@@ -2453,3 +2453,143 @@ Bing
 ```
 
 
+## Translation Key: sou_metric_option
+```
+Metric (Kilometers/Meters)
+```
+translated (by machine 🤖) as:
+```
+미터 (킬로미터 / 미터)
+```
+
+
+## Translation Key: sou_imperial_option
+```
+Imperial (Miles/Feet)
+```
+translated (by machine 🤖) as:
+```
+제국 (마일 / 피트)
+```
+
+
+## Translation Key: uoa_metric_option
+```
+Metric (%s)
+```
+translated (by machine 🤖) as:
+```
+수치 ( %s )
+```
+
+
+## Translation Key: uoa_imperial_option
+```
+Imperial (%s)
+```
+translated (by machine 🤖) as:
+```
+제국 ( %s )
+```
+
+
+## Translation Key: uoa_metric_option_hint
+```
+m²/a/ha/km²
+```
+translated (by machine 🤖) as:
+```
+m²/a/ha/km²
+```
+
+
+## Translation Key: uoa_imperial_option_hint
+```
+Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
+```
+translated (by machine 🤖) as:
+```
+Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
+```
+
+
+## Translation Key: uoa_are_abreviation
+```
+a
+```
+translated (by machine 🤖) as:
+```
+a
+```
+
+
+## Translation Key: uoa_square_yard_abreviation
+```
+Square yard
+```
+translated (by machine 🤖) as:
+```
+Square Yard
+```
+
+
+## Translation Key: uoa_square_rod_abreviation
+```
+rd²
+```
+translated (by machine 🤖) as:
+```
+rd²
+```
+
+
+## Translation Key: uoa_acre_abreviation
+```
+Acre
+```
+translated (by machine 🤖) as:
+```
+Acre
+```
+
+
+## Translation Key: uoa_township_abreviation
+```
+Township
+```
+translated (by machine 🤖) as:
+```
+Township
+```
+
+
+## Translation Key: use_native_google_maps_view_option_title
+```
+Use native Google Maps view
+```
+translated (by machine 🤖) as:
+```
+네이티브 Google Maps 뷰를 사용하세요
+```
+
+
+## Translation Key: use_native_google_maps_view_option_description
+```
+This display mode might be slower but is less likely to cause app crashes
+```
+translated (by machine 🤖) as:
+```
+이 디스플레이 모드는 더 느릴 수 있지만 앱 충돌이 발생할 가능성은 적습니다.
+```
+
+
+## Translation Key: use_native_google_maps_view_option_desync_hint
+```
+(current choice not applied, requires a full app restart)
+```
+translated (by machine 🤖) as:
+```
+(현재 선택 사항이 적용되지 않음, 앱을 완전히 다시 시작해야 함)
+```
+
+

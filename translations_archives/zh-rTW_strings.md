@@ -2445,3 +2445,143 @@ Bing
 ```
 
 
+## Translation Key: sou_metric_option
+```
+Metric (Kilometers/Meters)
+```
+translated (by machine 🤖) as:
+```
+公制（公里/公尺）
+```
+
+
+## Translation Key: sou_imperial_option
+```
+Imperial (Miles/Feet)
+```
+translated (by machine 🤖) as:
+```
+英制（英里/英尺）
+```
+
+
+## Translation Key: uoa_metric_option
+```
+Metric (%s)
+```
+translated (by machine 🤖) as:
+```
+公制（ %s ）
+```
+
+
+## Translation Key: uoa_imperial_option
+```
+Imperial (%s)
+```
+translated (by machine 🤖) as:
+```
+帝國（ %s ）
+```
+
+
+## Translation Key: uoa_metric_option_hint
+```
+m²/a/ha/km²
+```
+translated (by machine 🤖) as:
+```
+m²/a/ha/km²
+```
+
+
+## Translation Key: uoa_imperial_option_hint
+```
+Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
+```
+translated (by machine 🤖) as:
+```
+Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
+```
+
+
+## Translation Key: uoa_are_abreviation
+```
+a
+```
+translated (by machine 🤖) as:
+```
+a
+```
+
+
+## Translation Key: uoa_square_yard_abreviation
+```
+Square yard
+```
+translated (by machine 🤖) as:
+```
+Square yard
+```
+
+
+## Translation Key: uoa_square_rod_abreviation
+```
+rd²
+```
+translated (by machine 🤖) as:
+```
+rd²
+```
+
+
+## Translation Key: uoa_acre_abreviation
+```
+Acre
+```
+translated (by machine 🤖) as:
+```
+Acre
+```
+
+
+## Translation Key: uoa_township_abreviation
+```
+Township
+```
+translated (by machine 🤖) as:
+```
+Township
+```
+
+
+## Translation Key: use_native_google_maps_view_option_title
+```
+Use native Google Maps view
+```
+translated (by machine 🤖) as:
+```
+使用原生Google Maps視圖
+```
+
+
+## Translation Key: use_native_google_maps_view_option_description
+```
+This display mode might be slower but is less likely to cause app crashes
+```
+translated (by machine 🤖) as:
+```
+這種顯示模式可能比較慢，但不太可能導致應用程式崩潰
+```
+
+
+## Translation Key: use_native_google_maps_view_option_desync_hint
+```
+(current choice not applied, requires a full app restart)
+```
+translated (by machine 🤖) as:
+```
+（目前選擇未應用，需要完全重新啟動應用程式）
+```
+
+

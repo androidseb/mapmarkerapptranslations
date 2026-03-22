@@ -455,26 +455,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: sou_metric_option
-```
-Metric (Kilometers/Meters)
-```
-translated (by machine 🤖) as:
-```
-កាល (គីឡូម៉ែត្រ / ម៉ែត្រ​)
-```
-
-
-## Translation Key: sou_imperial_option
-```
-Imperial (Miles/Feet)
-```
-translated (by machine 🤖) as:
-```
-ចក្រពត្តិ (Miles / ជើង​)
-```
-
-
 ## Translation Key: delete_folder
 ```
 Delete folder
@@ -1861,46 +1841,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: uoa_metric_option
-```
-Metric (%s)
-```
-translated (by machine 🤖) as:
-```
-កាល ( %s )
-```
-
-
-## Translation Key: uoa_imperial_option
-```
-Imperial (%s)
-```
-translated (by machine 🤖) as:
-```
-ចក្រពត្តិ ( %s )
-```
-
-
-## Translation Key: uoa_metric_option_hint
-```
-m²/a/ha/km²
-```
-translated (by machine 🤖) as:
-```
-_៤៦
-```
-
-
-## Translation Key: uoa_imperial_option_hint
-```
-Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
-```
-translated (by machine 🤖) as:
-```
-_៤៧
-```
-
-
 ## Translation Key: uoa_square_meter_abreviation
 ```
 m²
@@ -1908,16 +1848,6 @@ m²
 translated (by machine 🤖) as:
 ```
 _៤៨
-```
-
-
-## Translation Key: uoa_are_abreviation
-```
-a
-```
-translated (by machine 🤖) as:
-```
-_៤៩
 ```
 
 
@@ -1938,46 +1868,6 @@ km²
 translated (by machine 🤖) as:
 ```
 k_៤៨
-```
-
-
-## Translation Key: uoa_square_yard_abreviation
-```
-Square yard
-```
-translated (by machine 🤖) as:
-```
-Square yard ។
-```
-
-
-## Translation Key: uoa_square_rod_abreviation
-```
-rd²
-```
-translated (by machine 🤖) as:
-```
-_៥៣
-```
-
-
-## Translation Key: uoa_acre_abreviation
-```
-Acre
-```
-translated (by machine 🤖) as:
-```
-_៥៤
-```
-
-
-## Translation Key: uoa_township_abreviation
-```
-Township
-```
-translated (by machine 🤖) as:
-```
-_៥៥
 ```
 
 
@@ -5363,36 +5253,6 @@ Geoapify Places Search API
 ```
 
 
-## Translation Key: use_native_google_maps_view_option_title
-```
-Use native Google Maps view
-```
-translated (by machine 🤖) as:
-```
-ប្រើទិដ្ឋភាព Google Maps ដើម
-```
-
-
-## Translation Key: use_native_google_maps_view_option_description
-```
-This display mode might be slower but is less likely to cause app crashes
-```
-translated (by machine 🤖) as:
-```
-របៀប​បង្ហាញ​នេះ​អាច​នឹង​យឺត​ជាង ប៉ុន្តែ​ទំនង​ជា​មិន​សូវ​បង្ក​ឱ្យ​កម្មវិធី​គាំង
-```
-
-
-## Translation Key: use_native_google_maps_view_option_desync_hint
-```
-(current choice not applied, requires a full app restart)
-```
-translated (by machine 🤖) as:
-```
-(ជម្រើសបច្ចុប្បន្នមិនត្រូវបានអនុវត្តទេ ទាមទារឱ្យចាប់ផ្ដើមកម្មវិធីពេញលេញឡើងវិញ)
-```
-
-
 ## Translation Key: location_always_permission_asking_message
 ```
 The app will need to have the 'always' location permission in order to remain active in the background while recording a track.
@@ -5400,6 +5260,86 @@ The app will need to have the 'always' location permission in order to remain ac
 translated (by machine 🤖) as:
 ```
 កម្មវិធីនេះនឹងត្រូវមានការអនុញ្ញាតទីតាំង 'ជានិច្ច' ដើម្បីបន្តសកម្មភាពក្នុងផ្ទៃខាងក្រោយខណៈពេលកំពុងថតបទ។
+```
+
+
+## Translation Key: uoa_square_feet_abreviation
+```
+ft²
+```
+translated (by machine 🤖) as:
+```
+ft²
+```
+
+
+## Translation Key: uoa_acre_abreviation_2
+```
+ac
+```
+translated (by machine 🤖) as:
+```
+ac
+```
+
+
+## Translation Key: uoa_metric_option_hint_2
+```
+Square meter (m²) / Hectare (ha) / Square kilometer (km²)
+```
+translated (by machine 🤖) as:
+```
+ម៉ែត្រការ៉េ (EXCLUDED_WORD_50) / ហិកតា (EXCLUDED_WORD_53) / គីឡូម៉ែត្រការ៉េ (kEXCLUDED_WORD_50)
+```
+
+
+## Translation Key: uoa_imperial_option_hint_2
+```
+Square foot (ft²) / Acre (ac) / Square mile(mi²)
+```
+translated (by machine 🤖) as:
+```
+ហ្វីតការ៉េ (ft²) / អាក្រ (ac) / ម៉ាយការ៉េ (mi²)
+```
+
+
+## Translation Key: uoa_metric_option_2
+```
+Metric: %s
+```
+translated (by machine 🤖) as:
+```
+ម៉ែត្រ៖ %s
+```
+
+
+## Translation Key: uoa_imperial_option_2
+```
+Imperial: %s
+```
+translated (by machine 🤖) as:
+```
+អធិរាជ៖ %s
+```
+
+
+## Translation Key: sou_metric_option_2
+```
+Metric: Meters / Kilometers
+```
+translated (by machine 🤖) as:
+```
+ម៉ែត្រ៖ ម៉ែត្រ / គីឡូម៉ែត្រ
+```
+
+
+## Translation Key: sou_imperial_option_2
+```
+Imperial: Feet / Miles
+```
+translated (by machine 🤖) as:
+```
+អធិរាជ៖ ហ្វីត / ម៉ាយ
 ```
 
 

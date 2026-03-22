@@ -2453,3 +2453,143 @@ Bing
 ```
 
 
+## Translation Key: sou_metric_option
+```
+Metric (Kilometers/Meters)
+```
+translated (by human 👀) as:
+```
+SI-yksiköt (kilometrit / metrit)
+```
+
+
+## Translation Key: sou_imperial_option
+```
+Imperial (Miles/Feet)
+```
+translated (by human 👀) as:
+```
+Imperiaaliset (mailit / jalat)
+```
+
+
+## Translation Key: uoa_metric_option
+```
+Metric (%s)
+```
+translated (by human 👀) as:
+```
+SI-yksiköt (%s)
+```
+
+
+## Translation Key: uoa_imperial_option
+```
+Imperial (%s)
+```
+translated (by human 👀) as:
+```
+Imperiaaliset yksiköt  (%s)
+```
+
+
+## Translation Key: uoa_metric_option_hint
+```
+m²/a/ha/km²
+```
+translated (by human 👀) as:
+```
+m²/a/ha/km²
+```
+
+
+## Translation Key: uoa_imperial_option_hint
+```
+Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
+```
+translated (by human 👀) as:
+```
+Neliöjaardit/neliörod(rd²)/eekkeri/neliömaili(mi²)/township
+```
+
+
+## Translation Key: uoa_are_abreviation
+```
+a
+```
+translated (by human 👀) as:
+```
+a
+```
+
+
+## Translation Key: uoa_square_yard_abreviation
+```
+Square yard
+```
+translated (by human 👀) as:
+```
+Neliöjaardi
+```
+
+
+## Translation Key: uoa_square_rod_abreviation
+```
+rd²
+```
+translated (by human 👀) as:
+```
+rd²
+```
+
+
+## Translation Key: uoa_acre_abreviation
+```
+Acre
+```
+translated (by human 👀) as:
+```
+Eekkeri
+```
+
+
+## Translation Key: uoa_township_abreviation
+```
+Township
+```
+translated (by human 👀) as:
+```
+Township
+```
+
+
+## Translation Key: use_native_google_maps_view_option_title
+```
+Use native Google Maps view
+```
+translated (by machine 🤖) as:
+```
+Käytä natiivia Google Maps-näkymää
+```
+
+
+## Translation Key: use_native_google_maps_view_option_description
+```
+This display mode might be slower but is less likely to cause app crashes
+```
+translated (by machine 🤖) as:
+```
+Tämä näyttötila saattaa olla hitaampi, mutta aiheuttaa vähemmän todennäköisesti sovellusten kaatumisia.
+```
+
+
+## Translation Key: use_native_google_maps_view_option_desync_hint
+```
+(current choice not applied, requires a full app restart)
+```
+translated (by machine 🤖) as:
+```
+(nykyistä valintaa ei ole otettu käyttöön, vaatii sovelluksen täydellisen uudelleenkäynnistyksen)
+```
+
+

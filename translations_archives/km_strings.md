@@ -2453,3 +2453,143 @@ Bing
 ```
 
 
+## Translation Key: sou_metric_option
+```
+Metric (Kilometers/Meters)
+```
+translated (by machine 🤖) as:
+```
+កាល (គីឡូម៉ែត្រ / ម៉ែត្រ​)
+```
+
+
+## Translation Key: sou_imperial_option
+```
+Imperial (Miles/Feet)
+```
+translated (by machine 🤖) as:
+```
+ចក្រពត្តិ (Miles / ជើង​)
+```
+
+
+## Translation Key: uoa_metric_option
+```
+Metric (%s)
+```
+translated (by machine 🤖) as:
+```
+កាល ( %s )
+```
+
+
+## Translation Key: uoa_imperial_option
+```
+Imperial (%s)
+```
+translated (by machine 🤖) as:
+```
+ចក្រពត្តិ ( %s )
+```
+
+
+## Translation Key: uoa_metric_option_hint
+```
+m²/a/ha/km²
+```
+translated (by machine 🤖) as:
+```
+_៤៦
+```
+
+
+## Translation Key: uoa_imperial_option_hint
+```
+Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
+```
+translated (by machine 🤖) as:
+```
+_៤៧
+```
+
+
+## Translation Key: uoa_are_abreviation
+```
+a
+```
+translated (by machine 🤖) as:
+```
+_៤៩
+```
+
+
+## Translation Key: uoa_square_yard_abreviation
+```
+Square yard
+```
+translated (by machine 🤖) as:
+```
+Square yard ។
+```
+
+
+## Translation Key: uoa_square_rod_abreviation
+```
+rd²
+```
+translated (by machine 🤖) as:
+```
+_៥៣
+```
+
+
+## Translation Key: uoa_acre_abreviation
+```
+Acre
+```
+translated (by machine 🤖) as:
+```
+_៥៤
+```
+
+
+## Translation Key: uoa_township_abreviation
+```
+Township
+```
+translated (by machine 🤖) as:
+```
+_៥៥
+```
+
+
+## Translation Key: use_native_google_maps_view_option_title
+```
+Use native Google Maps view
+```
+translated (by machine 🤖) as:
+```
+ប្រើទិដ្ឋភាព Google Maps ដើម
+```
+
+
+## Translation Key: use_native_google_maps_view_option_description
+```
+This display mode might be slower but is less likely to cause app crashes
+```
+translated (by machine 🤖) as:
+```
+របៀប​បង្ហាញ​នេះ​អាច​នឹង​យឺត​ជាង ប៉ុន្តែ​ទំនង​ជា​មិន​សូវ​បង្ក​ឱ្យ​កម្មវិធី​គាំង
+```
+
+
+## Translation Key: use_native_google_maps_view_option_desync_hint
+```
+(current choice not applied, requires a full app restart)
+```
+translated (by machine 🤖) as:
+```
+(ជម្រើសបច្ចុប្បន្នមិនត្រូវបានអនុវត្តទេ ទាមទារឱ្យចាប់ផ្ដើមកម្មវិធីពេញលេញឡើងវិញ)
+```
+
+

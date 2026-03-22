@@ -455,26 +455,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: sou_metric_option
-```
-Metric (Kilometers/Meters)
-```
-translated (by machine 🤖) as:
-```
-מדד (קילומטר / מטרים)
-```
-
-
-## Translation Key: sou_imperial_option
-```
-Imperial (Miles/Feet)
-```
-translated (by machine 🤖) as:
-```
-קיסרי (מיילס / Feet)
-```
-
-
 ## Translation Key: delete_folder
 ```
 Delete folder
@@ -1861,46 +1841,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: uoa_metric_option
-```
-Metric (%s)
-```
-translated (by machine 🤖) as:
-```
-מטרי ( %s )
-```
-
-
-## Translation Key: uoa_imperial_option
-```
-Imperial (%s)
-```
-translated (by machine 🤖) as:
-```
-קיסרי ( %s )
-```
-
-
-## Translation Key: uoa_metric_option_hint
-```
-m²/a/ha/km²
-```
-translated (by machine 🤖) as:
-```
-m²/a/ha/km²
-```
-
-
-## Translation Key: uoa_imperial_option_hint
-```
-Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
-```
-translated (by machine 🤖) as:
-```
-Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
-```
-
-
 ## Translation Key: uoa_square_meter_abreviation
 ```
 m²
@@ -1908,16 +1848,6 @@ m²
 translated (by machine 🤖) as:
 ```
 m²
-```
-
-
-## Translation Key: uoa_are_abreviation
-```
-a
-```
-translated (by machine 🤖) as:
-```
-a
 ```
 
 
@@ -1938,46 +1868,6 @@ km²
 translated (by machine 🤖) as:
 ```
 km²
-```
-
-
-## Translation Key: uoa_square_yard_abreviation
-```
-Square yard
-```
-translated (by machine 🤖) as:
-```
-Square yard
-```
-
-
-## Translation Key: uoa_square_rod_abreviation
-```
-rd²
-```
-translated (by machine 🤖) as:
-```
-rd²
-```
-
-
-## Translation Key: uoa_acre_abreviation
-```
-Acre
-```
-translated (by machine 🤖) as:
-```
-Acre
-```
-
-
-## Translation Key: uoa_township_abreviation
-```
-Township
-```
-translated (by machine 🤖) as:
-```
-Township
 ```
 
 
@@ -5363,36 +5253,6 @@ Geoapify Places Search API
 ```
 
 
-## Translation Key: use_native_google_maps_view_option_title
-```
-Use native Google Maps view
-```
-translated (by machine 🤖) as:
-```
-השתמש בתצוגה מקורית Google Maps
-```
-
-
-## Translation Key: use_native_google_maps_view_option_description
-```
-This display mode might be slower but is less likely to cause app crashes
-```
-translated (by machine 🤖) as:
-```
-מצב תצוגה זה עשוי להיות איטי יותר אך פחות סביר שיגרום לקריסות אפליקציות
-```
-
-
-## Translation Key: use_native_google_maps_view_option_desync_hint
-```
-(current choice not applied, requires a full app restart)
-```
-translated (by machine 🤖) as:
-```
-(הבחירה הנוכחית לא יושמה, דורשת הפעלה מחדש מלאה של האפליקציה)
-```
-
-
 ## Translation Key: location_always_permission_asking_message
 ```
 The app will need to have the 'always' location permission in order to remain active in the background while recording a track.
@@ -5400,6 +5260,86 @@ The app will need to have the 'always' location permission in order to remain ac
 translated (by machine 🤖) as:
 ```
 האפליקציה תצטרך לקבל הרשאת מיקום 'תמיד' על מנת להישאר פעילה ברקע בזמן הקלטת רצועה.
+```
+
+
+## Translation Key: uoa_square_feet_abreviation
+```
+ft²
+```
+translated (by machine 🤖) as:
+```
+ft²
+```
+
+
+## Translation Key: uoa_acre_abreviation_2
+```
+ac
+```
+translated (by machine 🤖) as:
+```
+ac
+```
+
+
+## Translation Key: uoa_metric_option_hint_2
+```
+Square meter (m²) / Hectare (ha) / Square kilometer (km²)
+```
+translated (by machine 🤖) as:
+```
+מטר מרובע (m²) / דונם (ha) / קילומטר מרובע (km²)
+```
+
+
+## Translation Key: uoa_imperial_option_hint_2
+```
+Square foot (ft²) / Acre (ac) / Square mile(mi²)
+```
+translated (by machine 🤖) as:
+```
+רגל מרובע (ft²) / אקר (ac) / מייל מרובע (mi²)
+```
+
+
+## Translation Key: uoa_metric_option_2
+```
+Metric: %s
+```
+translated (by machine 🤖) as:
+```
+מדד: %s
+```
+
+
+## Translation Key: uoa_imperial_option_2
+```
+Imperial: %s
+```
+translated (by machine 🤖) as:
+```
+אימפריאל: %s
+```
+
+
+## Translation Key: sou_metric_option_2
+```
+Metric: Meters / Kilometers
+```
+translated (by machine 🤖) as:
+```
+מטרי: מטרים / קילומטרים
+```
+
+
+## Translation Key: sou_imperial_option_2
+```
+Imperial: Feet / Miles
+```
+translated (by machine 🤖) as:
+```
+אימפריאלי: רגל / מייל
 ```
 
 

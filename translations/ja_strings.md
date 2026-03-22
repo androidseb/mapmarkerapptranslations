@@ -455,26 +455,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: sou_metric_option
-```
-Metric (Kilometers/Meters)
-```
-translated (by machine 🤖) as:
-```
-メトリック (km/m)
-```
-
-
-## Translation Key: sou_imperial_option
-```
-Imperial (Miles/Feet)
-```
-translated (by machine 🤖) as:
-```
-インペリアル (mi/ft)
-```
-
-
 ## Translation Key: delete_folder
 ```
 Delete folder
@@ -1861,46 +1841,6 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: uoa_metric_option
-```
-Metric (%s)
-```
-translated (by machine 🤖) as:
-```
-メトリック (%s)
-```
-
-
-## Translation Key: uoa_imperial_option
-```
-Imperial (%s)
-```
-translated (by machine 🤖) as:
-```
-インペリアル (%s)
-```
-
-
-## Translation Key: uoa_metric_option_hint
-```
-m²/a/ha/km²
-```
-translated (by machine 🤖) as:
-```
-m²/a/ha/km²
-```
-
-
-## Translation Key: uoa_imperial_option_hint
-```
-Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
-```
-translated (by machine 🤖) as:
-```
-Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
-```
-
-
 ## Translation Key: uoa_square_meter_abreviation
 ```
 m²
@@ -1908,16 +1848,6 @@ m²
 translated (by machine 🤖) as:
 ```
 m²
-```
-
-
-## Translation Key: uoa_are_abreviation
-```
-a
-```
-translated (by machine 🤖) as:
-```
-a
 ```
 
 
@@ -1938,46 +1868,6 @@ km²
 translated (by machine 🤖) as:
 ```
 km²
-```
-
-
-## Translation Key: uoa_square_yard_abreviation
-```
-Square yard
-```
-translated (by machine 🤖) as:
-```
-Square yard
-```
-
-
-## Translation Key: uoa_square_rod_abreviation
-```
-rd²
-```
-translated (by machine 🤖) as:
-```
-rd²
-```
-
-
-## Translation Key: uoa_acre_abreviation
-```
-Acre
-```
-translated (by machine 🤖) as:
-```
-Acre
-```
-
-
-## Translation Key: uoa_township_abreviation
-```
-Township
-```
-translated (by machine 🤖) as:
-```
-Township
 ```
 
 
@@ -5362,36 +5252,6 @@ Geoapify Places Search API
 ```
 
 
-## Translation Key: use_native_google_maps_view_option_title
-```
-Use native Google Maps view
-```
-translated (by machine 🤖) as:
-```
-ネイティブGoogle Mapsビューを使用する
-```
-
-
-## Translation Key: use_native_google_maps_view_option_description
-```
-This display mode might be slower but is less likely to cause app crashes
-```
-translated (by machine 🤖) as:
-```
-この表示モードは遅くなる可能性がありますが、アプリがクラッシュする可能性は低くなります。
-```
-
-
-## Translation Key: use_native_google_maps_view_option_desync_hint
-```
-(current choice not applied, requires a full app restart)
-```
-translated (by machine 🤖) as:
-```
-(現在の選択は適用されません。アプリを完全に再起動する必要があります)
-```
-
-
 ## Translation Key: location_always_permission_asking_message
 ```
 The app will need to have the 'always' location permission in order to remain active in the background while recording a track.
@@ -5399,6 +5259,86 @@ The app will need to have the 'always' location permission in order to remain ac
 translated (by machine 🤖) as:
 ```
 トラックを録音中にバックグラウンドでアクティブなままにするには、アプリに「常時」の位置情報の許可が必要です。
+```
+
+
+## Translation Key: uoa_square_feet_abreviation
+```
+ft²
+```
+translated (by machine 🤖) as:
+```
+ft²
+```
+
+
+## Translation Key: uoa_acre_abreviation_2
+```
+ac
+```
+translated (by machine 🤖) as:
+```
+ac
+```
+
+
+## Translation Key: uoa_metric_option_hint_2
+```
+Square meter (m²) / Hectare (ha) / Square kilometer (km²)
+```
+translated (by machine 🤖) as:
+```
+平方メートル（m²）／ヘクタール（ha）／平方キロメートル（km²）
+```
+
+
+## Translation Key: uoa_imperial_option_hint_2
+```
+Square foot (ft²) / Acre (ac) / Square mile(mi²)
+```
+translated (by machine 🤖) as:
+```
+平方フィート（ft²）/エーカー（ac）/平方マイル（mi²）
+```
+
+
+## Translation Key: uoa_metric_option_2
+```
+Metric: %s
+```
+translated (by machine 🤖) as:
+```
+メトリック: %s
+```
+
+
+## Translation Key: uoa_imperial_option_2
+```
+Imperial: %s
+```
+translated (by machine 🤖) as:
+```
+インペリアル：%s
+```
+
+
+## Translation Key: sou_metric_option_2
+```
+Metric: Meters / Kilometers
+```
+translated (by machine 🤖) as:
+```
+メートル法：メートル／キロメートル
+```
+
+
+## Translation Key: sou_imperial_option_2
+```
+Imperial: Feet / Miles
+```
+translated (by machine 🤖) as:
+```
+ヤード・ポンド法：フィート／マイル
 ```
 
 

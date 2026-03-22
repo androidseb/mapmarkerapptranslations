@@ -455,26 +455,6 @@ Ne plus afficher
 ```
 
 
-## Translation Key: sou_metric_option
-```
-Metric (Kilometers/Meters)
-```
-translated (by human 👀) as:
-```
-Métrique (Kilomètres/Mètres)
-```
-
-
-## Translation Key: sou_imperial_option
-```
-Imperial (Miles/Feet)
-```
-translated (by human 👀) as:
-```
-Impérial (Miles/Pieds)
-```
-
-
 ## Translation Key: delete_folder
 ```
 Delete folder
@@ -1861,46 +1841,6 @@ Unité d'aire
 ```
 
 
-## Translation Key: uoa_metric_option
-```
-Metric (%s)
-```
-translated (by human 👀) as:
-```
-Métrique (%s)
-```
-
-
-## Translation Key: uoa_imperial_option
-```
-Imperial (%s)
-```
-translated (by human 👀) as:
-```
-Impériale (%s)
-```
-
-
-## Translation Key: uoa_metric_option_hint
-```
-m²/a/ha/km²
-```
-translated (by human 👀) as:
-```
-m²/a/ha/km²
-```
-
-
-## Translation Key: uoa_imperial_option_hint
-```
-Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
-```
-translated (by human 👀) as:
-```
-Square yard/Square rod(rd²)/Acre/Square mile(mi²)/Township
-```
-
-
 ## Translation Key: uoa_square_meter_abreviation
 ```
 m²
@@ -1908,16 +1848,6 @@ m²
 translated (by human 👀) as:
 ```
 m²
-```
-
-
-## Translation Key: uoa_are_abreviation
-```
-a
-```
-translated (by human 👀) as:
-```
-a
 ```
 
 
@@ -1938,46 +1868,6 @@ km²
 translated (by human 👀) as:
 ```
 km²
-```
-
-
-## Translation Key: uoa_square_yard_abreviation
-```
-Square yard
-```
-translated (by human 👀) as:
-```
-Square yard
-```
-
-
-## Translation Key: uoa_square_rod_abreviation
-```
-rd²
-```
-translated (by human 👀) as:
-```
-rd²
-```
-
-
-## Translation Key: uoa_acre_abreviation
-```
-Acre
-```
-translated (by human 👀) as:
-```
-Acre
-```
-
-
-## Translation Key: uoa_township_abreviation
-```
-Township
-```
-translated (by human 👀) as:
-```
-Township
 ```
 
 
@@ -5363,36 +5253,6 @@ Geoapify Places Search API
 ```
 
 
-## Translation Key: use_native_google_maps_view_option_title
-```
-Use native Google Maps view
-```
-translated (by machine 🤖) as:
-```
-Utiliser la vue native Google Maps
-```
-
-
-## Translation Key: use_native_google_maps_view_option_description
-```
-This display mode might be slower but is less likely to cause app crashes
-```
-translated (by machine 🤖) as:
-```
-Ce mode d'affichage peut être plus lent, mais il est moins susceptible de provoquer des plantages de l'application
-```
-
-
-## Translation Key: use_native_google_maps_view_option_desync_hint
-```
-(current choice not applied, requires a full app restart)
-```
-translated (by machine 🤖) as:
-```
-(choix actuel non appliqué, nécessite un redémarrage complet de l'application)
-```
-
-
 ## Translation Key: location_always_permission_asking_message
 ```
 The app will need to have the 'always' location permission in order to remain active in the background while recording a track.
@@ -5400,6 +5260,86 @@ The app will need to have the 'always' location permission in order to remain ac
 translated (by machine 🤖) as:
 ```
 L'application aura besoin de l'accès 'toujours' à la position de l'appareil afin de rester active en arrière plan durant l'enregistrement d'un tracé.
+```
+
+
+## Translation Key: uoa_square_feet_abreviation
+```
+ft²
+```
+translated (by machine 🤖) as:
+```
+ft²
+```
+
+
+## Translation Key: uoa_acre_abreviation_2
+```
+ac
+```
+translated (by machine 🤖) as:
+```
+ac
+```
+
+
+## Translation Key: uoa_metric_option_hint_2
+```
+Square meter (m²) / Hectare (ha) / Square kilometer (km²)
+```
+translated (by machine 🤖) as:
+```
+Mètre carré (m²) / Hectare (ha) / Kilomètre carré (km²)
+```
+
+
+## Translation Key: uoa_imperial_option_hint_2
+```
+Square foot (ft²) / Acre (ac) / Square mile(mi²)
+```
+translated (by machine 🤖) as:
+```
+Pied carré (ft²) / Acre (ac) / Mile carré (mi²)
+```
+
+
+## Translation Key: uoa_metric_option_2
+```
+Metric: %s
+```
+translated (by machine 🤖) as:
+```
+Métrique: %s
+```
+
+
+## Translation Key: uoa_imperial_option_2
+```
+Imperial: %s
+```
+translated (by machine 🤖) as:
+```
+Impérial: %s
+```
+
+
+## Translation Key: sou_metric_option_2
+```
+Metric: Meters / Kilometers
+```
+translated (by machine 🤖) as:
+```
+Métrique: Mètres / Kilomètres)
+```
+
+
+## Translation Key: sou_imperial_option_2
+```
+Imperial: Feet / Miles
+```
+translated (by machine 🤖) as:
+```
+Impérial: Pieds / Miles)
 ```
 
 
