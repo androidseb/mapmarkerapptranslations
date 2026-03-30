@@ -5343,3 +5343,44 @@ Hệ đo lường Anh: Feet / Dặm
 ```
 
 
+## Translation Key: google_web_oauth_status_message
+```
+Connecting to your Google account is done through two steps: authentication and authorization.
+You might see two popups in a row during the connection flow - in that case, please ensure you select the same Google account both times.
+
+
+%1$s Step 1/2 - authentication
+
+%2$s Step 2/2 - authorization
+```
+translated (by machine 🤖) as:
+```
+Việc kết nối với tài khoản Google của bạn được thực hiện qua hai bước: xác thực và ủy quyền.
+
+Bạn có thể thấy hai cửa sổ bật lên liên tiếp trong quá trình kết nối - trong trường hợp đó, vui lòng đảm bảo bạn chọn cùng một tài khoản Google cả hai lần.
+
+%1$s Bước 1/2 - xác thực
+
+%2$s Bước 2/2 - ủy quyền
+```
+
+
+## Translation Key: google_oauth_local_device_cache_corruption_error_message
+```
+An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
+This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
+The device cache should get refreshed automatically every hour.
+Please wait one or two hours and try again.
+```
+translated (by machine 🤖) as:
+```
+Đã xảy ra lỗi xác thực Google không mong muốn, có vẻ như bộ nhớ cache cục bộ của thiết bị của bạn đã bị hỏng.
+
+Điều này có thể xảy ra nếu gần đây bạn đã thu hồi/thiết lập lại/xóa kết nối giữa ứng dụng này và tài khoản Google của bạn.
+
+Bộ nhớ cache của thiết bị sẽ được làm mới tự động mỗi giờ.
+
+Vui lòng đợi một hoặc hai giờ và thử lại.
+```
+
+

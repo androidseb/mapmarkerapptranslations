@@ -5343,3 +5343,41 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: google_web_oauth_status_message
+```
+Connecting to your Google account is done through two steps: authentication and authorization.
+You might see two popups in a row during the connection flow - in that case, please ensure you select the same Google account both times.
+
+
+%1$s Step 1/2 - authentication
+
+%2$s Step 2/2 - authorization
+```
+translated (by machine 🤖) as:
+```
+Google hesabınıza bağlanma işlemi iki adımda gerçekleştirilir: kimlik doğrulama ve yetkilendirme.
+
+Bağlantı akışı sırasında art arda iki açılır pencere görebilirsiniz - bu durumda, lütfen her iki seferde de aynı Google hesabını seçtiğinizden emin olun.
+
+%1$s Adım 1/2 - kimlik doğrulama
+
+%2$s Adım 2/2 - yetkilendirme
+```
+
+
+## Translation Key: google_oauth_local_device_cache_corruption_error_message
+```
+An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
+This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
+The device cache should get refreshed automatically every hour.
+Please wait one or two hours and try again.
+```
+translated (by machine 🤖) as:
+```
+Beklenmedik bir kimlik doğrulama hatası oluştu, cihazınızın yerel önbelleği bozulmuş gibi görünüyor.
+Bu durum, bu uygulama ile hesabınız arasındaki bağlantıyı yakın zamanda iptal ettiyseniz/sıfırladıysanız/sildiyseniz meydana gelebilir.
+Cihaz önbelleği her saat otomatik olarak yenilenmelidir.
+Lütfen bir veya iki saat bekleyin ve tekrar deneyin.
+```
+
+

@@ -5343,3 +5343,44 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: google_web_oauth_status_message
+```
+Connecting to your Google account is done through two steps: authentication and authorization.
+You might see two popups in a row during the connection flow - in that case, please ensure you select the same Google account both times.
+
+
+%1$s Step 1/2 - authentication
+
+%2$s Step 2/2 - authorization
+```
+translated (by machine 🤖) as:
+```
+يتم الاتصال بحسابك Google عبر خطوتين: المصادقة والتفويض.
+
+قد تظهر لك نافذتان منبثقتان متتاليتان أثناء عملية الاتصال - في هذه الحالة، يُرجى التأكد من اختيار نفس الحساب Google في كلتا المرتين.
+
+الخطوة 1 من 2 - المصادقة %1$s
+
+الخطوة 2 من 2 - التفويض %2$s
+```
+
+
+## Translation Key: google_oauth_local_device_cache_corruption_error_message
+```
+An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
+This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
+The device cache should get refreshed automatically every hour.
+Please wait one or two hours and try again.
+```
+translated (by machine 🤖) as:
+```
+حدث خطأ غير متوقع في المصادقة Google، ويبدو أن ذاكرة التخزين المؤقت لجهازك تالفة.
+
+قد يحدث هذا إذا قمت مؤخرًا بإلغاء/إعادة ضبط/حذف الاتصال بين هذا التطبيق وحسابك Google.
+
+يُفترض أن يتم تحديث ذاكرة التخزين المؤقت للجهاز تلقائيًا كل ساعة.
+
+يرجى الانتظار ساعة أو ساعتين ثم المحاولة مرة أخرى.
+```
+
+

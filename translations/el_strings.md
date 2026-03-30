@@ -5343,3 +5343,41 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: google_web_oauth_status_message
+```
+Connecting to your Google account is done through two steps: authentication and authorization.
+You might see two popups in a row during the connection flow - in that case, please ensure you select the same Google account both times.
+
+
+%1$s Step 1/2 - authentication
+
+%2$s Step 2/2 - authorization
+```
+translated (by machine 🤖) as:
+```
+Η σύνδεση στον λογαριασμό σας Google γίνεται μέσω δύο βημάτων: έλεγχος ταυτότητας και εξουσιοδότηση.
+Ενδέχεται να δείτε δύο αναδυόμενα παράθυρα στη σειρά κατά τη διάρκεια της ροής σύνδεσης - σε αυτήν την περίπτωση, βεβαιωθείτε ότι έχετε επιλέξει τον ίδιο λογαριασμό Google και τις δύο φορές.
+
+%1$s Βήμα 1/2 - έλεγχος ταυτότητας
+
+%2$s Βήμα 2/2 - εξουσιοδότηση
+```
+
+
+## Translation Key: google_oauth_local_device_cache_corruption_error_message
+```
+An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
+This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
+The device cache should get refreshed automatically every hour.
+Please wait one or two hours and try again.
+```
+translated (by machine 🤖) as:
+```
+Παρουσιάστηκε ένα μη αναμενόμενο σφάλμα ελέγχου ταυτότητας Google. Φαίνεται ότι η τοπική προσωρινή μνήμη της συσκευής σας είναι κατεστραμμένη.
+
+Αυτό θα μπορούσε να συμβεί εάν πρόσφατα ανακαλέσατε / επαναφέρατε / διαγράψατε τη σύνδεση μεταξύ αυτής της εφαρμογής και του λογαριασμού σας Google.
+Η προσωρινή μνήμη της συσκευής θα πρέπει να ανανεώνεται αυτόματα κάθε ώρα.
+Περιμένετε μία ή δύο ώρες και δοκιμάστε ξανά.
+```
+
+

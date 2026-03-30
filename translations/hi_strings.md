@@ -5343,3 +5343,41 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: google_web_oauth_status_message
+```
+Connecting to your Google account is done through two steps: authentication and authorization.
+You might see two popups in a row during the connection flow - in that case, please ensure you select the same Google account both times.
+
+
+%1$s Step 1/2 - authentication
+
+%2$s Step 2/2 - authorization
+```
+translated (by machine 🤖) as:
+```
+आपके Google खाते से जुड़ने की प्रक्रिया दो चरणों में पूरी होती है: प्रमाणीकरण और प्राधिकरण।
+
+कनेक्शन प्रक्रिया के दौरान आपको एक साथ दो पॉपअप दिखाई दे सकते हैं - ऐसी स्थिति में, कृपया सुनिश्चित करें कि आप दोनों बार एक ही Google खाते का चयन करें।
+
+%1$s चरण 1/2 - प्रमाणीकरण
+
+%2$s चरण 2/2 - प्राधिकरण
+```
+
+
+## Translation Key: google_oauth_local_device_cache_corruption_error_message
+```
+An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
+This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
+The device cache should get refreshed automatically every hour.
+Please wait one or two hours and try again.
+```
+translated (by machine 🤖) as:
+```
+एक अप्रत्याशित प्रमाणीकरण त्रुटि हुई है, ऐसा लगता है कि आपके डिवाइस का स्थानीय कैश दूषित हो गया है।
+ऐसा तब हो सकता है जब आपने हाल ही में इस ऐप और अपने खाते के बीच का कनेक्शन रद्द/रीसेट/डिलीट किया हो।
+डिवाइस का कैश हर घंटे अपने आप रीफ़्रेश हो जाता है।
+कृपया एक या दो घंटे प्रतीक्षा करें और पुनः प्रयास करें।
+```
+
+

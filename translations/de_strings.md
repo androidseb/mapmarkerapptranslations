@@ -5343,3 +5343,42 @@ Imperial: Fuß / Meilen
 ```
 
 
+## Translation Key: google_web_oauth_status_message
+```
+Connecting to your Google account is done through two steps: authentication and authorization.
+You might see two popups in a row during the connection flow - in that case, please ensure you select the same Google account both times.
+
+
+%1$s Step 1/2 - authentication
+
+%2$s Step 2/2 - authorization
+```
+translated (by machine 🤖) as:
+```
+Die Verbindung zu Ihrem Google-Konto erfolgt in zwei Schritten: Authentifizierung und Autorisierung.
+
+Während des Verbindungsvorgangs werden Ihnen möglicherweise zwei Pop-ups nacheinander angezeigt. Stellen Sie in diesem Fall bitte sicher, dass Sie beide Male dasselbe Google-Konto auswählen.
+
+%1$s Schritt 1/2 – Authentifizierung
+
+%2$s Schritt 2/2 – Autorisierung
+```
+
+
+## Translation Key: google_oauth_local_device_cache_corruption_error_message
+```
+An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
+This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
+The device cache should get refreshed automatically every hour.
+Please wait one or two hours and try again.
+```
+translated (by machine 🤖) as:
+```
+Es ist ein unerwarteter Authentifizierungsfehler aufgetreten. Der lokale Cache Ihres Geräts scheint beschädigt zu sein.
+
+Dies kann passieren, wenn Sie die Verbindung zwischen dieser App und Ihrem Konto kürzlich widerrufen, zurückgesetzt oder gelöscht haben.
+
+Der Gerätecache wird normalerweise stündlich automatisch aktualisiert. Bitte warten Sie ein bis zwei Stunden und versuchen Sie es dann erneut.
+```
+
+

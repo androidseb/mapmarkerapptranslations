@@ -5343,3 +5343,42 @@ Imperial: Jalkaa / Mailia
 ```
 
 
+## Translation Key: google_web_oauth_status_message
+```
+Connecting to your Google account is done through two steps: authentication and authorization.
+You might see two popups in a row during the connection flow - in that case, please ensure you select the same Google account both times.
+
+
+%1$s Step 1/2 - authentication
+
+%2$s Step 2/2 - authorization
+```
+translated (by machine 🤖) as:
+```
+Yhteyden muodostaminen Google-tilillesi tapahtuu kahdessa vaiheessa: todennuksen ja valtuutuksen avulla.
+
+Saatat nähdä kaksi ponnahdusikkunaa peräkkäin yhteyden muodostamisen aikana. Varmista tässä tapauksessa, että valitset saman Google-tilin molemmilla kerroilla.
+
+%1$s Vaihe 1/2 - todennus
+
+%2$s Vaihe 2/2 - valtuutus
+```
+
+
+## Translation Key: google_oauth_local_device_cache_corruption_error_message
+```
+An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
+This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
+The device cache should get refreshed automatically every hour.
+Please wait one or two hours and try again.
+```
+translated (by machine 🤖) as:
+```
+Odottamaton Google todennusvirhe tapahtui. Laitteesi paikallinen välimuisti näyttää olevan vioittunut.
+
+Tämä voi tapahtua, jos olet äskettäin peruuttanut/nollannut/poistanut yhteyden tämän sovelluksen ja Google-tilisi välillä.
+Laitteen välimuistin pitäisi päivittyä automaattisesti tunnin välein.
+Odota yksi tai kaksi tuntia ja yritä uudelleen.
+```
+
+

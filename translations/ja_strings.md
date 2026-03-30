@@ -5342,3 +5342,44 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: google_web_oauth_status_message
+```
+Connecting to your Google account is done through two steps: authentication and authorization.
+You might see two popups in a row during the connection flow - in that case, please ensure you select the same Google account both times.
+
+
+%1$s Step 1/2 - authentication
+
+%2$s Step 2/2 - authorization
+```
+translated (by machine 🤖) as:
+```
+Googleアカウントへの接続は、認証と承認の2つのステップで行われます。
+
+接続フロー中にポップアップが2つ連続して表示される場合があります。その場合は、両方のポップアップで同じGoogleアカウントを選択してください。
+
+%1$sステップ1/2 - 認証
+
+%2$sステップ2/2 - 承認
+```
+
+
+## Translation Key: google_oauth_local_device_cache_corruption_error_message
+```
+An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
+This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
+The device cache should get refreshed automatically every hour.
+Please wait one or two hours and try again.
+```
+translated (by machine 🤖) as:
+```
+予期しない認証エラーが発生しました。デバイスのローカルキャッシュが破損しているようです。
+
+このアプリとアカウント間の接続を最近取り消し/リセット/削除した場合に発生する可能性があります。
+
+デバイスのキャッシュは1時間ごとに自動的に更新されます。
+
+1～2時間待ってから、もう一度お試しください。
+```
+
+

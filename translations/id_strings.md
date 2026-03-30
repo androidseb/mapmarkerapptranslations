@@ -5343,3 +5343,41 @@ Sistem Imperial: Kaki / Mil
 ```
 
 
+## Translation Key: google_web_oauth_status_message
+```
+Connecting to your Google account is done through two steps: authentication and authorization.
+You might see two popups in a row during the connection flow - in that case, please ensure you select the same Google account both times.
+
+
+%1$s Step 1/2 - authentication
+
+%2$s Step 2/2 - authorization
+```
+translated (by machine 🤖) as:
+```
+Menghubungkan ke akun Google Anda dilakukan melalui dua langkah: autentikasi dan otorisasi.
+Anda mungkin melihat dua pop-up berturut-turut selama proses koneksi - dalam hal ini, pastikan Anda memilih akun Google yang sama di kedua kesempatan tersebut.
+
+%1$s Langkah 1/2 - autentikasi
+
+%2$s Langkah 2/2 - otorisasi
+```
+
+
+## Translation Key: google_oauth_local_device_cache_corruption_error_message
+```
+An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
+This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
+The device cache should get refreshed automatically every hour.
+Please wait one or two hours and try again.
+```
+translated (by machine 🤖) as:
+```
+Terjadi kesalahan otentikasi Google yang tidak terduga, tampaknya cache lokal perangkat Anda rusak.
+
+Ini dapat terjadi jika Anda baru-baru ini mencabut/mengatur ulang/menghapus koneksi antara aplikasi ini dan akun Google Anda.
+Cache perangkat akan diperbarui secara otomatis setiap jam.
+Harap tunggu satu atau dua jam dan coba lagi.
+```
+
+

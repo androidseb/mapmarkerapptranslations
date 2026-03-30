@@ -5343,3 +5343,42 @@ Imperinė sistema: pėdos / mylios
 ```
 
 
+## Translation Key: google_web_oauth_status_message
+```
+Connecting to your Google account is done through two steps: authentication and authorization.
+You might see two popups in a row during the connection flow - in that case, please ensure you select the same Google account both times.
+
+
+%1$s Step 1/2 - authentication
+
+%2$s Step 2/2 - authorization
+```
+translated (by machine 🤖) as:
+```
+Prisijungimas prie jūsų Google paskyros atliekamas dviem veiksmais: autentifikavimu ir autorizavimu.
+
+Prisijungimo metu galite matyti du iššokančiuosius langus iš eilės – tokiu atveju įsitikinkite, kad abu kartus pasirinkote tą pačią Google paskyrą.
+
+%1$s 1/2 veiksmas – autentifikavimas
+
+%2$s 2/2 veiksmas – autorizavimas
+```
+
+
+## Translation Key: google_oauth_local_device_cache_corruption_error_message
+```
+An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
+This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
+The device cache should get refreshed automatically every hour.
+Please wait one or two hours and try again.
+```
+translated (by machine 🤖) as:
+```
+Įvyko netikėta autentifikavimo klaida Google. Panašu, kad jūsų įrenginio vietinė talpykla yra sugadinta.
+
+Tai gali nutikti, jei neseniai atšaukėte / iš naujo nustatėte / ištrynėte ryšį tarp šios programėlės ir savo Google paskyros.
+Įrenginio talpykla turėtų būti atnaujinama automatiškai kas valandą.
+Palaukite vieną ar dvi valandas ir bandykite dar kartą.
+```
+
+

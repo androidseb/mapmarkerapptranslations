@@ -5343,3 +5343,44 @@ Imperial: Picioare / Mile
 ```
 
 
+## Translation Key: google_web_oauth_status_message
+```
+Connecting to your Google account is done through two steps: authentication and authorization.
+You might see two popups in a row during the connection flow - in that case, please ensure you select the same Google account both times.
+
+
+%1$s Step 1/2 - authentication
+
+%2$s Step 2/2 - authorization
+```
+translated (by machine 🤖) as:
+```
+Conectarea la contul dvs. Google se face în doi pași: autentificare și autorizare.
+
+Este posibil să vedeți două ferestre pop-up la rând în timpul fluxului de conectare - în acest caz, asigurați-vă că selectați același cont Google de ambele ori.
+
+%1$s Pasul 1/2 - autentificare
+
+%2$s Pasul 2/2 - autorizare
+```
+
+
+## Translation Key: google_oauth_local_device_cache_corruption_error_message
+```
+An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
+This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
+The device cache should get refreshed automatically every hour.
+Please wait one or two hours and try again.
+```
+translated (by machine 🤖) as:
+```
+A apărut o eroare de autentificare neașteptată Google, se pare că memoria cache locală a dispozitivului dvs. este coruptă.
+
+Acest lucru se poate întâmpla dacă ați revocat/resetat/șters recent conexiunea dintre această aplicație și contul dvs. Google.
+
+Memoria cache a dispozitivului ar trebui să se actualizeze automat la fiecare oră.
+
+Vă rugăm să așteptați una sau două ore și să încercați din nou.
+```
+
+

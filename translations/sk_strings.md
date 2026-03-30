@@ -5343,3 +5343,40 @@ Imperiálne: Stopy / Míle
 ```
 
 
+## Translation Key: google_web_oauth_status_message
+```
+Connecting to your Google account is done through two steps: authentication and authorization.
+You might see two popups in a row during the connection flow - in that case, please ensure you select the same Google account both times.
+
+
+%1$s Step 1/2 - authentication
+
+%2$s Step 2/2 - authorization
+```
+translated (by machine 🤖) as:
+```
+Pripojenie k vášmu účtu Google sa vykonáva v dvoch krokoch: overenie a autorizácia.
+Počas procesu pripájania sa môžu zobraziť dve kontextové okná za sebou – v takom prípade sa uistite, že ste oba razy vybrali rovnaký účet Google.
+
+%1$s Krok 1/2 – overenie
+
+%2$s Krok 2/2 – autorizácia
+```
+
+
+## Translation Key: google_oauth_local_device_cache_corruption_error_message
+```
+An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
+This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
+The device cache should get refreshed automatically every hour.
+Please wait one or two hours and try again.
+```
+translated (by machine 🤖) as:
+```
+Vyskytla sa neočakávaná chyba overenia Google. Zdá sa, že lokálna vyrovnávacia pamäť vášho zariadenia je poškodená.
+Môže sa to stať, ak ste nedávno zrušili / obnovili / odstránili pripojenie medzi touto aplikáciou a vaším účtom Google.
+Vyrovnávacia pamäť zariadenia by sa mala automaticky obnovovať každú hodinu.
+Počkajte jednu alebo dve hodiny a skúste to znova.
+```
+
+

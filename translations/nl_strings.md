@@ -5343,3 +5343,44 @@ Imperiaal: Voet / Mijl
 ```
 
 
+## Translation Key: google_web_oauth_status_message
+```
+Connecting to your Google account is done through two steps: authentication and authorization.
+You might see two popups in a row during the connection flow - in that case, please ensure you select the same Google account both times.
+
+
+%1$s Step 1/2 - authentication
+
+%2$s Step 2/2 - authorization
+```
+translated (by machine 🤖) as:
+```
+Verbinding maken met uw Google account gebeurt in twee stappen: authenticatie en autorisatie.
+
+Het kan zijn dat u tijdens het verbindingsproces twee pop-ups achter elkaar ziet. Zorg er in dat geval voor dat u beide keren hetzelfde Google account selecteert.
+
+%1$s Stap 1/2 - authenticatie
+
+%2$s Stap 2/2 - autorisatie
+```
+
+
+## Translation Key: google_oauth_local_device_cache_corruption_error_message
+```
+An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
+This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
+The device cache should get refreshed automatically every hour.
+Please wait one or two hours and try again.
+```
+translated (by machine 🤖) as:
+```
+Er is een onverwachte authenticatiefout opgetreden. Het lijkt erop dat de lokale cache van uw apparaat beschadigd is.
+
+Dit kan gebeuren als u onlangs de verbinding tussen deze app en uw account hebt ingetrokken, gereset of verwijderd.
+
+De cache van uw apparaat wordt elk uur automatisch vernieuwd.
+
+Wacht een of twee uur en probeer het opnieuw.
+```
+
+

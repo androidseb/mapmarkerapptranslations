@@ -5343,3 +5343,40 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: google_web_oauth_status_message
+```
+Connecting to your Google account is done through two steps: authentication and authorization.
+You might see two popups in a row during the connection flow - in that case, please ensure you select the same Google account both times.
+
+
+%1$s Step 1/2 - authentication
+
+%2$s Step 2/2 - authorization
+```
+translated (by machine 🤖) as:
+```
+Підключення до вашого облікового запису Google здійснюється у два кроки: автентифікація та авторизація.
+Під час підключення ви можете побачити два спливаючі вікна поспіль. У такому разі переконайтеся, що ви обидва рази вибрали той самий обліковий запис Google.
+
+%1$s Крок 1/2 – автентифікація
+
+%2$s Крок 2/2 – авторизація
+```
+
+
+## Translation Key: google_oauth_local_device_cache_corruption_error_message
+```
+An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
+This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
+The device cache should get refreshed automatically every hour.
+Please wait one or two hours and try again.
+```
+translated (by machine 🤖) as:
+```
+Сталася неочікувана помилка автентифікації Google. Схоже, локальний кеш вашого пристрою пошкоджено.
+Це може статися, якщо ви нещодавно скасували / скинули / видалили з’єднання між цим додатком і вашим обліковим записом Google.
+Кеш пристрою має оновлюватися автоматично щогодини.
+Зачекайте одну-дві години та спробуйте ще раз.
+```
+
+
