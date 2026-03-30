@@ -5356,7 +5356,7 @@ You might see two popups in a row during the connection flow - in that case, ple
 translated (by machine 🤖) as:
 ```
 La connexion à votre compte Google se fait en deux étapes: l'authentification et l'autorisation.
-Vous pourriez-voir deux popups lors du processus de connexion - dans ce cas, assurez-vous de sélectionner le même compte Google les deux fois.
+Vous pourriez voir deux popups lors du processus de connexion - dans ce cas, assurez-vous de sélectionner le même compte Google les deux fois.
 
 
 %1$s Étape 1/2 - authentification
@@ -5377,7 +5377,7 @@ translated (by machine 🤖) as:
 Une erreur inattendue s'est produite lors de l'authentification Google, il semblerait que le cache local de votre appareil soit corrompu.
 Ceci peut se produire si vous avez récemment révoqué / réinitialisé / supprimé la connexion entre cette application et votre compte Google.
 Le cache de l'appareil devrait se rafraichir automatiquement toutes les heures.
-Veuillez attendre une heure ou deux, puis essayez de nouveau.'
+Veuillez attendre une heure ou deux, puis essayez de nouveau.
 ```
 
 
