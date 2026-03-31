@@ -5365,20 +5365,3 @@ Saatat nähdä kaksi ponnahdusikkunaa peräkkäin yhteyden muodostamisen aikana.
 ```
 
 
-## Translation Key: google_oauth_local_device_cache_corruption_error_message
-```
-An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
-This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
-The device cache should get refreshed automatically every hour.
-Please wait one or two hours and try again.
-```
-translated (by machine 🤖) as:
-```
-Odottamaton Google todennusvirhe tapahtui. Laitteesi paikallinen välimuisti näyttää olevan vioittunut.
-
-Tämä voi tapahtua, jos olet äskettäin peruuttanut/nollannut/poistanut yhteyden tämän sovelluksen ja Google-tilisi välillä.
-Laitteen välimuistin pitäisi päivittyä automaattisesti tunnin välein.
-Odota yksi tai kaksi tuntia ja yritä uudelleen.
-```
-
-

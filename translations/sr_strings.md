@@ -5363,19 +5363,3 @@ translated (by machine 🤖) as:
 ```
 
 
-## Translation Key: google_oauth_local_device_cache_corruption_error_message
-```
-An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
-This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
-The device cache should get refreshed automatically every hour.
-Please wait one or two hours and try again.
-```
-translated (by machine 🤖) as:
-```
-Дошло је до неочекиване грешке приликом аутентификације Google. Изгледа да је локални кеш вашег уређаја оштећен.
-Ово се може десити ако сте недавно опозвали / ресетовали / избрисали везу између ове апликације и вашег Google налога.
-Кеш уређаја би требало да се аутоматски освежава сваког сата.
-Сачекајте један или два сата и покушајте поново.
-```
-
-

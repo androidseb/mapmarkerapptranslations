@@ -5365,20 +5365,3 @@ A csatlakozási folyamat során két felugró ablak jelenhet meg egymás után �
 ```
 
 
-## Translation Key: google_oauth_local_device_cache_corruption_error_message
-```
-An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
-This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
-The device cache should get refreshed automatically every hour.
-Please wait one or two hours and try again.
-```
-translated (by machine 🤖) as:
-```
-Váratlan Google hitelesítési hiba történt, úgy tűnik, hogy az eszköz helyi gyorsítótára sérült.
-
-Ez akkor fordulhat elő, ha nemrégiben visszavonta / alaphelyzetbe állította / törölte az alkalmazás és az Ön Google fiókja közötti kapcsolatot.
-Az eszköz gyorsítótára óránként automatikusan frissül.
-Kérjük, várjon egy-két órát, és próbálja újra.
-```
-
-

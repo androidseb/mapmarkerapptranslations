@@ -5365,21 +5365,3 @@ Potresti visualizzare due popup consecutivi durante la procedura di connessione:
 ```
 
 
-## Translation Key: google_oauth_local_device_cache_corruption_error_message
-```
-An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
-This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
-The device cache should get refreshed automatically every hour.
-Please wait one or two hours and try again.
-```
-translated (by machine 🤖) as:
-```
-Si è verificato un errore di autenticazione imprevisto (parola esclusa) sul tuo dispositivo. Sembra che la cache locale del dispositivo sia danneggiata.
-
-Questo potrebbe accadere se di recente hai revocato/reimpostato/eliminato la connessione tra questa app e il tuo account (parola esclusa) sul tuo dispositivo.
-
-La cache del dispositivo dovrebbe essere aggiornata automaticamente ogni ora.
-Attendi una o due ore e riprova.
-```
-
-

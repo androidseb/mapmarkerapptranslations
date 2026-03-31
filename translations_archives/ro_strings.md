@@ -2593,3 +2593,22 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: google_oauth_local_device_cache_corruption_error_message
+```
+An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
+This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
+The device cache should get refreshed automatically every hour.
+Please wait one or two hours and try again.
+```
+translated (by machine 🤖) as:
+```
+A apărut o eroare de autentificare neașteptată Google, se pare că memoria cache locală a dispozitivului dvs. este coruptă.
+
+Acest lucru se poate întâmpla dacă ați revocat/resetat/șters recent conexiunea dintre această aplicație și contul dvs. Google.
+
+Memoria cache a dispozitivului ar trebui să se actualizeze automat la fiecare oră.
+
+Vă rugăm să așteptați una sau două ore și să încercați din nou.
+```
+
+

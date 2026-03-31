@@ -5365,20 +5365,3 @@ Prisijungimo metu galite matyti du iššokančiuosius langus iš eilės – toki
 ```
 
 
-## Translation Key: google_oauth_local_device_cache_corruption_error_message
-```
-An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
-This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
-The device cache should get refreshed automatically every hour.
-Please wait one or two hours and try again.
-```
-translated (by machine 🤖) as:
-```
-Įvyko netikėta autentifikavimo klaida Google. Panašu, kad jūsų įrenginio vietinė talpykla yra sugadinta.
-
-Tai gali nutikti, jei neseniai atšaukėte / iš naujo nustatėte / ištrynėte ryšį tarp šios programėlės ir savo Google paskyros.
-Įrenginio talpykla turėtų būti atnaujinama automatiškai kas valandą.
-Palaukite vieną ar dvi valandas ir bandykite dar kartą.
-```
-
-

@@ -5364,20 +5364,3 @@ Anda mungkin melihat dua pop-up berturut-turut selama proses koneksi - dalam hal
 ```
 
 
-## Translation Key: google_oauth_local_device_cache_corruption_error_message
-```
-An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
-This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
-The device cache should get refreshed automatically every hour.
-Please wait one or two hours and try again.
-```
-translated (by machine 🤖) as:
-```
-Terjadi kesalahan otentikasi Google yang tidak terduga, tampaknya cache lokal perangkat Anda rusak.
-
-Ini dapat terjadi jika Anda baru-baru ini mencabut/mengatur ulang/menghapus koneksi antara aplikasi ini dan akun Google Anda.
-Cache perangkat akan diperbarui secara otomatis setiap jam.
-Harap tunggu satu atau dua jam dan coba lagi.
-```
-
-

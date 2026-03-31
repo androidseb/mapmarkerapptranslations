@@ -5363,19 +5363,3 @@ Povezivanje s vašim Google računom vrši se u dva koraka: autentifikacija i au
 ```
 
 
-## Translation Key: google_oauth_local_device_cache_corruption_error_message
-```
-An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
-This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
-The device cache should get refreshed automatically every hour.
-Please wait one or two hours and try again.
-```
-translated (by machine 🤖) as:
-```
-Došlo je do neočekivane pogreške u autentifikaciji Google. Čini se da je lokalna predmemorija vašeg uređaja oštećena.
-To se može dogoditi ako ste nedavno opozvali / resetirali / izbrisali vezu između ove aplikacije i vašeg Google računa.
-Predmemorija uređaja trebala bi se automatski osvježavati svaki sat.
-Pričekajte jedan ili dva sata i pokušajte ponovno.
-```
-
-

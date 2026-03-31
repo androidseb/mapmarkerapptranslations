@@ -5364,19 +5364,3 @@ La connexió al vostre compte Google es fa mitjançant dos passos: autenticació
 ```
 
 
-## Translation Key: google_oauth_local_device_cache_corruption_error_message
-```
-An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
-This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
-The device cache should get refreshed automatically every hour.
-Please wait one or two hours and try again.
-```
-translated (by machine 🤖) as:
-```
-S'ha produït un error d'autenticació inesperat Google. Sembla que la memòria cau local del dispositiu està corrupta.
-Això podria passar si recentment has revocat/restableix/eliminat la connexió entre aquesta aplicació i el teu compte Google.
-La memòria cau del dispositiu s'hauria d'actualitzar automàticament cada hora.
-Espereu una o dues hores i torneu-ho a provar.
-```
-
-

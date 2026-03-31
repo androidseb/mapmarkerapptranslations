@@ -5363,19 +5363,3 @@ Povezovanje z vašim računom Google poteka v dveh korakih: preverjanje pristnos
 ```
 
 
-## Translation Key: google_oauth_local_device_cache_corruption_error_message
-```
-An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
-This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
-The device cache should get refreshed automatically every hour.
-Please wait one or two hours and try again.
-```
-translated (by machine 🤖) as:
-```
-Prišlo je do nepričakovane napake pri preverjanju pristnosti Google. Zdi se, da je lokalni predpomnilnik vaše naprave poškodovan.
-Do tega lahko pride, če ste pred kratkim preklicali/ponastavili/izbrisali povezavo med to aplikacijo in svojim računom Google.
-Predpomnilnik naprave bi se moral samodejno osvežiti vsako uro.
-Počakajte eno ali dve uri in poskusite znova.
-```
-
-

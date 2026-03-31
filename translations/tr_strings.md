@@ -5365,19 +5365,3 @@ Bağlantı akışı sırasında art arda iki açılır pencere görebilirsiniz -
 ```
 
 
-## Translation Key: google_oauth_local_device_cache_corruption_error_message
-```
-An unexpected Google authentication error happened, it seems the local cache of your device is corrupted.
-This could happen if you recently revoked / reset / deleted the connection between this app and your Google account.
-The device cache should get refreshed automatically every hour.
-Please wait one or two hours and try again.
-```
-translated (by machine 🤖) as:
-```
-Beklenmedik bir kimlik doğrulama hatası oluştu, cihazınızın yerel önbelleği bozulmuş gibi görünüyor.
-Bu durum, bu uygulama ile hesabınız arasındaki bağlantıyı yakın zamanda iptal ettiyseniz/sıfırladıysanız/sildiyseniz meydana gelebilir.
-Cihaz önbelleği her saat otomatik olarak yenilenmelidir.
-Lütfen bir veya iki saat bekleyin ve tekrar deneyin.
-```
-
-
