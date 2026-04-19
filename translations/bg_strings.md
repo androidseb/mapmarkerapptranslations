@@ -2385,6 +2385,7 @@ translated (by machine 🤖) as:
 ## Translation Key: export_choice_kmz_details
 ```
 Google Earth zipped format. Can contain media.
+```
 translated (by machine 🤖) as:
 ```
 Zip Google Earth формат. Може да съдържа медии.
