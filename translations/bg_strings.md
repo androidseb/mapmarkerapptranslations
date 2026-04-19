@@ -1614,9 +1614,9 @@ Legal mentions for other map data than Google Maps:
 ```
 translated (by machine 🤖) as:
 ```
-Правни аспекти за други картографски данни, не само за Google Maps : 
- 
- %s
+Правни аспекти за картографски данни, различни от Google Maps :
+
+%s
 ```
 
 
