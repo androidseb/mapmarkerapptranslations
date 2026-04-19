@@ -35,13 +35,13 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Arabic (53% human-translated)](./translations/ar_strings.md)
 
-[Bulgarian (0% human-translated)](./translations/bg_strings.md)
+[Bulgarian (100% human-translated)](./translations/bg_strings.md)
 
 [Catalan (0% human-translated)](./translations/ca_strings.md)
 
-[Chinese Simplified (81% human-translated)](./translations/zh-rCN_strings.md)
+[Chinese Simplified (80% human-translated)](./translations/zh-rCN_strings.md)
 
-[Chinese Traditional (2% human-translated)](./translations/zh-rHK_strings.md)
+[Chinese Traditional (0% human-translated)](./translations/zh-rHK_strings.md)
 
 [Chinese Taiwan (16% human-translated)](./translations/zh-rTW_strings.md)
 
@@ -51,11 +51,11 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Danish (17% human-translated)](./translations/da_strings.md)
 
-[Dutch (62% human-translated)](./translations/nl_strings.md)
+[Dutch (60% human-translated)](./translations/nl_strings.md)
 
-[Finnish (96% human-translated)](./translations/fi_strings.md)
+[Finnish (94% human-translated)](./translations/fi_strings.md)
 
-[German (53% human-translated)](./translations/de_strings.md)
+[German (52% human-translated)](./translations/de_strings.md)
 
 [Greek (0% human-translated)](./translations/el_strings.md)
 
@@ -81,13 +81,13 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Norwegian (0% human-translated)](./translations/no_strings.md)
 
-[Polish (53% human-translated)](./translations/pl_strings.md)
+[Polish (52% human-translated)](./translations/pl_strings.md)
 
 [Portuguese (0% human-translated)](./translations/pt_strings.md)
 
 [Romanian (0% human-translated)](./translations/ro_strings.md)
 
-[Russian (53% human-translated)](./translations/ru_strings.md)
+[Russian (52% human-translated)](./translations/ru_strings.md)
 
 [Serbian (0% human-translated)](./translations/sr_strings.md)
 
@@ -97,11 +97,11 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Spanish (12% human-translated)](./translations/es_strings.md)
 
-[Swedish (53% human-translated)](./translations/sv_strings.md)
+[Swedish (52% human-translated)](./translations/sv_strings.md)
 
 [Thai (0% human-translated)](./translations/th_strings.md)
 
-[Turkish (99% human-translated)](./translations/tr_strings.md)
+[Turkish (98% human-translated)](./translations/tr_strings.md)
 
 [Ukrainian (12% human-translated)](./translations/uk_strings.md)
 
