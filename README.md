@@ -35,11 +35,11 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Arabic (53% human-translated)](./translations/ar_strings.md)
 
-[Bulgarian (100% human-translated)](./translations/bg_strings.md)
+[Bulgarian (99% human-translated)](./translations/bg_strings.md)
 
 [Catalan (0% human-translated)](./translations/ca_strings.md)
 
-[Chinese Simplified (80% human-translated)](./translations/zh-rCN_strings.md)
+[Chinese Simplified (79% human-translated)](./translations/zh-rCN_strings.md)
 
 [Chinese Traditional (0% human-translated)](./translations/zh-rHK_strings.md)
 
@@ -69,7 +69,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Italian (0% human-translated)](./translations/it_strings.md)
 
-[Japanese (0% human-translated)](./translations/ja_strings.md)
+[Japanese (17% human-translated)](./translations/ja_strings.md)
 
 [Khmer (0% human-translated)](./translations/km_strings.md)
 
@@ -93,7 +93,7 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Slovak (0% human-translated)](./translations/sk_strings.md)
 
-[Slovenian (62% human-translated)](./translations/sl_strings.md)
+[Slovenian (61% human-translated)](./translations/sl_strings.md)
 
 [Spanish (12% human-translated)](./translations/es_strings.md)
 
@@ -101,9 +101,9 @@ Once you have submitted a translation edit, I will receive an email and all your
 
 [Thai (0% human-translated)](./translations/th_strings.md)
 
-[Turkish (98% human-translated)](./translations/tr_strings.md)
+[Turkish (97% human-translated)](./translations/tr_strings.md)
 
-[Ukrainian (12% human-translated)](./translations/uk_strings.md)
+[Ukrainian (11% human-translated)](./translations/uk_strings.md)
 
 [Vietnamese (0% human-translated)](./translations/vi_strings.md)
 
