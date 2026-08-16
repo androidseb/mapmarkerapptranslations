@@ -5365,3 +5365,33 @@ Google 계정에 연결하려면 인증과 권한 부여, 두 단계를 거쳐�
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+GPS 위치 정보를 기다리는 중
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+정확한 GPS 위치 정보가 확보될 때까지 이동 경로 기록이 불가능합니다. 앱 설정에서 정확도 임계값을 조정할 수 있습니다.
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+팝업 창을 여는 데 실패했습니다. 브라우저에서 차단했을 가능성이 높습니다. 브라우저 설정에서 이 사이트의 팝업을 허용하도록 설정해 주세요. 대부분의 브라우저는 팝업을 차단할 때 주소 표시줄 주변에 '허용' 버튼이 나타납니다.
+```
+
+

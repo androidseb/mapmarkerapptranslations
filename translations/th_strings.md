@@ -5364,3 +5364,33 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+กำลังรอการระบุตำแหน่งจาก GPS
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+การบันทึกเส้นทางกำลังรอตำแหน่ง GPS ที่แม่นยำเพียงพอ คุณสามารถปรับเกณฑ์ความแม่นยำได้จากการตั้งค่าแอป
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+การเปิดหน้าต่างป๊อปอัพล้มเหลว อาจเป็นเพราะเบราว์เซอร์ของคุณบล็อกไว้ โปรดตรวจสอบการตั้งค่าเบราว์เซอร์ของคุณเพื่ออนุญาตให้แสดงป๊อปอัพบนเว็บไซต์นี้ เบราว์เซอร์ส่วนใหญ่จะมีปุ่ม "อนุญาต" ปรากฏอยู่รอบแถบที่อยู่เมื่อบล็อกป๊อปอัพ
+```
+
+

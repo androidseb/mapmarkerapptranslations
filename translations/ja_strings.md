@@ -5364,3 +5364,33 @@ Googleアカウントへの接続は、認証と承認の2つのステップで�
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+GPS位置情報を待機中
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+トラックの記録は、十分な精度のGPS位置情報が取得されるまで待機しています。精度のしきい値はアプリの設定で調整できます。
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+ポップアップウィンドウを開くことができませんでした。おそらくブラウザによってブロックされています。ブラウザの設定でこのサイトのポップアップを許可するように設定してください。ほとんどのブラウザでは、ポップアップをブロックしている場合、アドレスバーの周りに「許可」ボタンが表示されます。
+```
+
+

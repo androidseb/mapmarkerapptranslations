@@ -5364,3 +5364,33 @@ Počas procesu pripájania sa môžu zobraziť dve kontextové okná za sebou �
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+Čaká sa na polohu GPS
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+Zaznamenávanie trasy sa očakáva, že GPS určí dostatočne presnú polohu. Prah presnosti môžete upraviť v nastaveniach aplikácie.
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+Otvorenie kontextového okna zlyhalo, s najväčšou pravdepodobnosťou ho blokuje váš prehliadač. Skontrolujte nastavenia prehliadača, aby ste povolili kontextové okná na tejto stránke. Väčšina prehliadačov má pri blokovaní kontextových okien tlačidlo „povoliť“, ktoré sa zobrazuje okolo panela s adresou.
+```
+
+

@@ -5365,3 +5365,33 @@ Bağlantı akışı sırasında art arda iki açılır pencere görebilirsiniz -
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+GPS konumunu bekliyor.
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+GPS konum bilgisi yeterince doğru olana kadar rota kaydı devam edecektir. Doğruluk eşiğini uygulama ayarlarından ayarlayabilirsiniz.
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+Açılır pencere açma işlemi başarısız oldu, büyük olasılıkla tarayıcınız tarafından engellendi. Bu sitede açılır pencerelere izin vermek için tarayıcı ayarlarınızı kontrol edin; çoğu tarayıcıda açılır pencereleri engellediğinizde adres çubuğunun etrafında bir 'izin ver' düğmesi görünür.
+```
+
+

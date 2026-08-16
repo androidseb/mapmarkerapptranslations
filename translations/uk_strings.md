@@ -5364,3 +5364,33 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+Очікування місцезнаходження GPS
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+Запис треку триває за умови достатньо точного визначення місцезнаходження за допомогою GPS. Ви можете налаштувати поріг точності в налаштуваннях програми.
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+Не вдалося відкрити спливаюче вікно, найімовірніше, заблоковано вашим браузером. Перевірте налаштування браузера, щоб дозволити спливаючі вікна на цьому сайті. У більшості браузерів навколо адресного рядка з’являється кнопка «дозволити», яка блокує спливаючі вікна.
+```
+
+

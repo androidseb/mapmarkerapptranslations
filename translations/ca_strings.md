@@ -5364,3 +5364,33 @@ La connexió al vostre compte Google es fa mitjançant dos passos: autenticació
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+Esperant la ubicació GPS
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+L'enregistrament de la ruta està pendent d'una ubicació GPS prou precisa. Podeu ajustar el llindar de precisió des de la configuració de l'aplicació.
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+No s'ha pogut obrir la finestra emergent, probablement bloquejada pel navegador. Comproveu la configuració del navegador per permetre les finestres emergents en aquest lloc. La majoria de navegadors tenen un botó "Permet" que apareix al voltant de la barra d'adreces quan es bloquegen les finestres emergents.
+```
+
+

@@ -5365,3 +5365,33 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+等待 GPS 定位
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+轨迹记录需要 GPS 定位精度足够高才能进行。您可以在应用设置中调整精度阈值。
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+打开弹出窗口失败，很可能是被您的浏览器阻止了，请检查您的浏览器设置以允许此网站弹出窗口，大多数浏览器在阻止弹出窗口时，地址栏附近都会出现一个“允许”按钮。
+```
+
+

@@ -5363,3 +5363,33 @@ Povezovanje z vašim računom Google poteka v dveh korakih: preverjanje pristnos
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+Čakanje na lokacijo GPS
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+Beleženje sledi se izvaja ob upoštevanju dovolj natančne lokacije GPS. Prag natančnosti lahko prilagodite v nastavitvah aplikacije.
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+Odpiranje pojavnega okna ni uspelo, najverjetneje ga je blokiral vaš brskalnik. Preverite nastavitve brskalnika, da dovolite pojavna okna na tem spletnem mestu. Večina brskalnikov ima gumb »dovoli«, ki se prikaže okoli naslovne vrstice, ko blokirajo pojavna okna.
+```
+
+

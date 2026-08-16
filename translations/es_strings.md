@@ -5365,3 +5365,33 @@ Es posible que vea dos ventanas emergentes seguidas durante el proceso de conexi
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+Esperando ubicación GPS
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+La grabación de la ruta está pendiente de una ubicación GPS suficientemente precisa. Puedes ajustar el umbral de precisión desde la configuración de la aplicación.
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+No se pudo abrir la ventana emergente, probablemente debido a que su navegador la bloqueó. Verifique la configuración de su navegador para permitir ventanas emergentes en este sitio. La mayoría de los navegadores tienen un botón de "permitir" que aparece cerca de la barra de direcciones cuando bloquean las ventanas emergentes.
+```
+
+

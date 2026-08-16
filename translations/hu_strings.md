@@ -5365,3 +5365,33 @@ A csatlakozási folyamat során két felugró ablak jelenhet meg egymás után �
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+Várakozás a GPS-helyzetre
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+A nyomvonalrögzítés kellően pontos GPS-helymeghatározástól függ. A pontossági küszöböt az alkalmazás beállításaiban állíthatja be.
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+Nem sikerült megnyitni a felugró ablakot, valószínűleg a böngészője blokkolta. Ellenőrizze a böngésző beállításait, hogy engedélyezze a felugró ablakokat ezen az oldalon. A legtöbb böngészőben egy „engedélyezés” gomb jelenik meg a címsor körül, amikor blokkolja a felugró ablakokat.
+```
+
+

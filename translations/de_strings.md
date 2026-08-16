@@ -5365,3 +5365,33 @@ Während des Verbindungsvorgangs werden Ihnen möglicherweise zwei Pop-ups nache
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+Warten auf GPS-Standort
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+Die Streckenaufzeichnung ist erst nach ausreichend genauer GPS-Ortung möglich. Sie können den Genauigkeitsschwellenwert in den App-Einstellungen anpassen.
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+Das Öffnen des Popup-Fensters ist fehlgeschlagen, höchstwahrscheinlich wird es von Ihrem Browser blockiert. Überprüfen Sie Ihre Browsereinstellungen, um Popups auf dieser Website zuzulassen. Bei den meisten Browsern wird eine Schaltfläche „Zulassen“ um die Adressleiste herum angezeigt, wenn Popups blockiert werden.
+```
+
+

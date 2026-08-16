@@ -5364,3 +5364,33 @@ Você poderá ver duas janelas pop-up seguidas durante o processo de conexão. N
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+Aguardando localização GPS
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+A gravação da trilha depende de uma localização GPS suficientemente precisa. Você pode ajustar o limite de precisão nas configurações do aplicativo.
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+A janela pop-up não pôde ser aberta, provavelmente devido ao bloqueio pelo seu navegador. Verifique as configurações do seu navegador para permitir pop-ups neste site. A maioria dos navegadores exibe um botão "permitir" próximo à barra de endereço ao bloquear pop-ups.
+```
+
+

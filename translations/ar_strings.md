@@ -5365,3 +5365,33 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+في انتظار تحديد الموقع عبر نظام تحديد المواقع العالمي (GPS).
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+يتوقف تسجيل المسار على دقة موقع GPS كافية. يمكنك ضبط مستوى الدقة من إعدادات التطبيق.
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+فشل فتح النافذة المنبثقة، على الأرجح تم حظرها بواسطة متصفحك، تحقق من إعدادات متصفحك للسماح بالنوافذ المنبثقة على هذا الموقع، تحتوي معظم المتصفحات على زر "السماح" يظهر حول شريط العنوان عند حظر النوافذ المنبثقة.
+```
+
+

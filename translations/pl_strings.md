@@ -5364,3 +5364,33 @@ Podczas łączenia mogą pojawić się dwa wyskakujące okienka z rzędu – w t
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+Czekam na lokalizację GPS
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+Rejestrowanie trasy oczekuje na wystarczająco dokładną lokalizację GPS. Próg dokładności można dostosować w ustawieniach aplikacji.
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+Nie udało się otworzyć okna pop-up, najprawdopodobniej zostało ono zablokowane przez Twoją przeglądarkę. Sprawdź ustawienia swojej przeglądarki, aby zezwolić na otwieranie okienek pop-up na tej stronie. Większość przeglądarek ma przycisk „zezwól” pojawiający się wokół paska adresu podczas blokowania okienek pop-up.
+```
+
+

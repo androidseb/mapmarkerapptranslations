@@ -5365,3 +5365,33 @@ Saatat nähdä kaksi ponnahdusikkunaa peräkkäin yhteyden muodostamisen aikana.
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+Odotetaan GPS-sijaintia
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+Reitin tallennus odottaa riittävän tarkkaa GPS-sijaintia. Voit säätää tarkkuuskynnystä sovelluksen asetuksista.
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+Ponnahdusikkunan avaaminen epäonnistui, todennäköisesti selaimesi on estänyt sen. Tarkista selaimesi asetukset sallimaan ponnahdusikkunat tällä sivustolla. Useimmissa selaimissa osoiterivin ympärillä näkyy 'salli'-painike, kun ponnahdusikkunat estetään.
+```
+
+

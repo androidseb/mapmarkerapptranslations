@@ -5365,3 +5365,33 @@ Savienojuma plūsmas laikā var tikt parādīti divi uznirstošie logi pēc kār
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+Gaida GPS atrašanās vietu
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+Maršruta ierakstīšana gaida pietiekami precīzu GPS atrašanās vietu. Precizitātes slieksni var pielāgot lietotnes iestatījumos.
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+Neizdevās atvērt uznirstošo logu, visticamāk, to ir bloķējusi jūsu pārlūkprogramma. Pārbaudiet pārlūkprogrammas iestatījumus, lai atļautu uznirstošos logus šajā vietnē. Lielākajai daļai pārlūkprogrammu, bloķējot uznirstošos logus, ap adreses joslu tiek parādīta poga “Atļaut”.
+```
+
+

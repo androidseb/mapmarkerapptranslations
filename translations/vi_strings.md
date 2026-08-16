@@ -5365,3 +5365,33 @@ Bạn có thể thấy hai cửa sổ bật lên liên tiếp trong quá trình 
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+Đang chờ định vị GPS
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+Việc ghi lại hành trình đang chờ xử lý cho đến khi có vị trí GPS đủ chính xác. Bạn có thể điều chỉnh ngưỡng độ chính xác từ cài đặt ứng dụng.
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+Không thể mở cửa sổ bật lên, rất có thể do trình duyệt của bạn chặn. Vui lòng kiểm tra cài đặt trình duyệt để cho phép cửa sổ bật lên trên trang web này. Hầu hết các trình duyệt đều có nút "cho phép" xuất hiện xung quanh thanh địa chỉ khi chặn cửa sổ bật lên.
+```
+
+

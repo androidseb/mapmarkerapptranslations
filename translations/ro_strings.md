@@ -5365,3 +5365,33 @@ Este posibil să vedeți două ferestre pop-up la rând în timpul fluxului de c
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+Se așteaptă locația GPS
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+Înregistrarea traseului este în așteptarea unei locații GPS suficient de precise. Puteți ajusta pragul de precizie din setările aplicației.
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+Deschiderea ferestrei pop-up nu a reușit, cel mai probabil blocată de browserul dvs., verificați setările browserului pentru a permite ferestrele pop-up pe acest site, majoritatea browserelor au un buton „permite” care apare în jurul barei de adrese atunci când blochează ferestrele pop-up.
+```
+
+

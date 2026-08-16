@@ -5365,3 +5365,33 @@ Du kan se to popup-vinduer på rad under tilkoblingsflyten – i så fall må du
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+Venter på GPS-posisjon
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+Sporregistrering avventer tilstrekkelig nøyaktig GPS-posisjon. Du kan justere nøyaktighetsterskelen fra appinnstillingene.
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+Åpning av popup-vindu mislyktes, mest sannsynlig blokkert av nettleseren din. Sjekk nettleserinnstillingene dine for å tillate popup-vinduer på dette nettstedet. De fleste nettlesere har en «tillat»-knapp som vises rundt adressefeltet når du blokkerer popup-vinduer.
+```
+
+

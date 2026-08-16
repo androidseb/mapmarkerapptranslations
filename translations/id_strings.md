@@ -5364,3 +5364,33 @@ Anda mungkin melihat dua pop-up berturut-turut selama proses koneksi - dalam hal
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+Menunggu lokasi GPS
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+Perekaman trek sedang berlangsung menunggu lokasi GPS yang cukup akurat. Anda dapat menyesuaikan ambang batas akurasi dari pengaturan aplikasi.
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+Pembukaan jendela pop-up gagal, kemungkinan besar diblokir oleh browser Anda. Periksa pengaturan browser Anda untuk mengizinkan pop-up di situs ini. Sebagian besar browser memiliki tombol 'izinkan' yang muncul di sekitar bilah alamat saat memblokir pop-up.
+```
+
+

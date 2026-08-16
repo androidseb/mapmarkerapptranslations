@@ -5363,3 +5363,33 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+Чекање на GPS локацију
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+Снимање праћења се врши уз довољно тачну ГПС локацију. Праг тачности можете подесити у подешавањима апликације.
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+Отварање искачућег прозора није успело, највероватније га је блокирао ваш прегледач. Проверите подешавања прегледача да бисте дозволили искачуће прозоре на овој страници. Већина прегледача има дугме „дозволи“ које се појављује око адресне траке приликом блокирања искачућих прозора.
+```
+
+

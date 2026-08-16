@@ -5365,3 +5365,33 @@ Vous pourriez voir deux popups lors du processus de connexion - dans ce cas, ass
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+En attente de position GPS
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+Enregistrement du tracé en attente d'une position GPS suffisamment précise. Vous pouvez ajuster le seuil de précision depuis les réglages de l'application.
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+L'ouverture de la fenêtre popup a échoué, probablement bloquée par votre navigateur. Vérifiez les paramètres de votre navigateur pour autoriser les popups sur ce site. La plupart des navigateurs affichent un bouton 'Autoriser' autour de la barre d'adresse lors du bloquage d'une popup.
+```
+
+

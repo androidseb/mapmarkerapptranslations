@@ -5364,3 +5364,33 @@ Během procesu připojování se mohou zobrazit dvě vyskakovací okna za sebou 
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+Čekání na polohu GPS
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+Záznam trasy probíhá z důvodu dostatečně přesné GPS polohy. Práh přesnosti můžete upravit v nastavení aplikace.
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+Otevírání vyskakovacího okna se nezdařilo, pravděpodobně je blokováno vaším prohlížečem. Zkontrolujte nastavení prohlížeče, zda na tomto webu povoluje vyskakovací okna. Většina prohlížečů má při blokování vyskakovacích oken tlačítko „Povolit“ zobrazené kolem adresního řádku.
+```
+
+

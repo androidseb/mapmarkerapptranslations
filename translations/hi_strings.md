@@ -5365,3 +5365,33 @@ translated (by machine 🤖) as:
 ```
 
 
+## Translation Key: waiting_for_accurate_gps_location_title
+```
+Waiting for GPS location
+```
+translated (by machine 🤖) as:
+```
+जीपीएस लोकेशन का इंतजार है
+```
+
+
+## Translation Key: waiting_for_accurate_gps_location_message
+```
+Track recording is pending sufficiently accurate GPS location. You can adjust the accuracy threshold from app settings.
+```
+translated (by machine 🤖) as:
+```
+ट्रैकिंग रिकॉर्डिंग के लिए पर्याप्त सटीक जीपीएस लोकेशन का इंतज़ार है। आप ऐप सेटिंग से सटीकता सीमा को समायोजित कर सकते हैं।
+```
+
+
+## Translation Key: failed_to_open_browser_popup_error_message
+```
+Opening popup window failed, most likely blocked by your browser, check your browser settings to allow popups on this site, most browsers have an 'allow' button appearing around the address bar when blocking popups.
+```
+translated (by machine 🤖) as:
+```
+पॉपअप विंडो खोलने में विफलता, संभवतः आपके ब्राउज़र द्वारा अवरुद्ध। कृपया इस साइट पर पॉपअप की अनुमति देने के लिए अपने ब्राउज़र की सेटिंग जांचें। अधिकांश ब्राउज़रों में पॉपअप को अवरुद्ध करने के लिए एड्रेस बार के आसपास एक 'अनुमति दें' बटन दिखाई देता है।
+```
+
+
