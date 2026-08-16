@@ -95,7 +95,7 @@ GPS座標
 ```
 Coordinates copied to clipboard
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 座標をクリップボードにコピーしました
 ```
@@ -135,7 +135,7 @@ translated (by machine 🤖) as:
 ```
 Modify folder
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 フォルダを変更
 ```
@@ -245,7 +245,7 @@ translated (by machine 🤖) as:
 ```
 Could not find address
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 住所が見つかりませんでした。
 ```
@@ -275,7 +275,7 @@ translated (by machine 🤖) as:
 ```
 Share via
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 次による共有:
 ```
@@ -335,7 +335,7 @@ translated (by machine 🤖) as:
 ```
 Processing data...
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 データ処理中...
 ```
@@ -345,7 +345,7 @@ translated (by machine 🤖) as:
 ```
 You have unsaved modifications, do you want to save them?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 保存されていない変更があります。保存しますか？
 ```
@@ -366,7 +366,7 @@ translated (by machine 🤖) as:
 Found a problem? Have an idea of improvement?
 Send me an email :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 問題がありましたか？改善のアイデアがありますか？ 
 私にemailを送ってください :-)
@@ -388,7 +388,7 @@ emailを送信する...
 You like the app?
 Rate it 5 stars :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 このアプリが気に入りましたか？
 5つ星で評価してください:-)
@@ -399,7 +399,7 @@ translated (by machine 🤖) as:
 ```
 Meters
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 m
 ```
@@ -409,7 +409,7 @@ m
 ```
 Km
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 km
 ```
@@ -449,7 +449,7 @@ translated (by machine 🤖) as:
 ```
 Do not show again
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 もう表示しない
 ```
@@ -479,7 +479,7 @@ translated (by machine 🤖) as:
 ```
 Could not find another map application
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 別の地図アプリが見つかりませんでした。
 ```
@@ -489,7 +489,7 @@ translated (by machine 🤖) as:
 ```
 Move the map around to place your marker where you want and click OK to place it.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 地図を移動し、OKをクリックしてマーカーを望む場所に配置します。
 ```
@@ -519,7 +519,7 @@ translated (by machine 🤖) as:
 ```
 Display zoom buttons
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ズームボタンを表示する
 ```
@@ -559,7 +559,7 @@ translated (by machine 🤖) as:
 ```
 Coordinates format
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 座標の形式
 ```
@@ -609,7 +609,7 @@ translated (by machine 🤖) as:
 ```
 Contextual
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 選択時
 ```
@@ -629,7 +629,7 @@ translated (by machine 🤖) as:
 ```
 Crosshair display
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 十字マーク
 ```
@@ -769,7 +769,7 @@ translated (by machine 🤖) as:
 ```
 View the list of upcoming features for the next app version
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 次バージョンにおけるアプリ機能のリストを表示します。
 ```
@@ -829,7 +829,7 @@ translated (by machine 🤖) as:
 ```
 Thank you for your donation! This donation badge grants you access to premium features :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 寄付していただきありがとうございます！この寄付バッジにより、プレミアム機能が利用可能になります :-)
 ```
@@ -859,7 +859,7 @@ translated (by machine 🤖) as:
 ```
 Never
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 しない
 ```
@@ -879,7 +879,7 @@ translated (by machine 🤖) as:
 ```
 Premium access available! You currently have access to premium features.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 プレミアムアクセスが利用可能になりました！現在、プレミアム機能が利用できます。
 ```
@@ -909,7 +909,7 @@ translated (by machine 🤖) as:
 ```
 Sync this map file on the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 このマップファイルをクラウド上で同期します。
 ```
@@ -1029,7 +1029,7 @@ translated (by machine 🤖) as:
 ```
 Sorry, you need the premium upgrade to access this feature. Upgrade to premium and take full advantage of Map Marker features!
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 申し訳ありませんが、この機能にアクセスするには、プレミアムへのアップグレードが必要です。プレミアムにアップグレードして、Map Markerの機能を最大限に活用してください！
 ```
@@ -1079,7 +1079,7 @@ translated (by machine 🤖) as:
 ```
 GP Services (app)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Google Playサービス (アプリ)
 ```
@@ -1099,7 +1099,7 @@ translated (by machine 🤖) as:
 ```
 GP Services (store)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Google Playサービス (ストア)
 ```
@@ -1129,7 +1129,7 @@ translated (by machine 🤖) as:
 ```
 Write an email to support with the details of your problem
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 サポート対応のために、問題の詳細をemailで教えてください。
 ```
@@ -1169,7 +1169,7 @@ translated (by machine 🤖) as:
 ```
 Open the cloud map folder to view its properties and share it with other people
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 クラウドマップフォルダを開いてプロパティを見てから、他の人に共有します。
 ```
@@ -1229,7 +1229,7 @@ translated (by machine 🤖) as:
 ```
 Open a map file from the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 クラウドからマップファイルを開きます。
 ```
@@ -1239,7 +1239,7 @@ translated (by machine 🤖) as:
 ```
 Map Marker needs the permission to access your location in order to display it on the map
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 現在位置を地図に表示するためのアクセス許可が必要です。
 ```
@@ -1249,7 +1249,7 @@ translated (by machine 🤖) as:
 ```
 Open settings
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 設定を開く
 ```
@@ -1259,7 +1259,7 @@ translated (by machine 🤖) as:
 ```
 No map folder found on the cloud
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 クラウド上にマップフォルダが見つかりません。
 ```
@@ -1269,7 +1269,7 @@ translated (by machine 🤖) as:
 ```
 Auto sync
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 自動同期
 ```
@@ -1299,7 +1299,7 @@ translated (by machine 🤖) as:
 ```
 A sync error occurred: network error. Please try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 同期エラーが発生しました。ネットワークエラー。もう一度やり直してください。
 ```
@@ -1309,7 +1309,7 @@ translated (by machine 🤖) as:
 ```
 A sync error occurred: conflict, another device was performing the sync at the same time. Please try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 同期エラーが発生しました。同期の競合。現在、別のデバイスが同期中です。もう一度やり直してください。
 ```
@@ -1329,7 +1329,7 @@ translated (by machine 🤖) as:
 ```
 Map Marker needs the permission to make calls on your device
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 電話を発信するための権限が必要です。
 ```
@@ -1349,7 +1349,7 @@ translated (by machine 🤖) as:
 ```
 Open the marker location in this app
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 このアプリでマーカーの位置を開きます。
 ```
@@ -1379,7 +1379,7 @@ translated (by machine 🤖) as:
 ```
 A sync error occurred: the cloud data has been updated with a more recent version of the app. You must update Map Marker on this device to sync.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 同期エラーが発生しました。クラウドデータがより新しいバージョンのアプリで更新されました。同期するには、このデバイスのMap Markerを更新する必要があります。
 ```
@@ -1389,7 +1389,7 @@ translated (by machine 🤖) as:
 ```
 Call phone number
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 電話番号に発信
 ```
@@ -1399,7 +1399,7 @@ translated (by machine 🤖) as:
 ```
 Dial phone number
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 電話番号をダイヤル
 ```
@@ -1409,7 +1409,7 @@ translated (by machine 🤖) as:
 ```
 Text phone number
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 電話番号にテキストメッセージを送信
 ```
@@ -1439,7 +1439,7 @@ translated (by machine 🤖) as:
 ```
 What is the premium upgrade?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 プレミアムアップグレードとは何ですか？
 ```
@@ -1519,7 +1519,7 @@ translated (by machine 🤖) as:
 ```
 The file already exists, do you want to overwrite it?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ファイルはすでに存在します。上書きしますか？
 ```
@@ -1529,7 +1529,7 @@ translated (by machine 🤖) as:
 ```
 You will see the list of your markers here. You currently have no markers in the selected folder(s). You can add a new marker by clicking the button below.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 マーカーの一覧がここに表示されます。選択されているフォルダにはマーカーがありません。下のボタンをクリックして、新しいマーカーを追加できます。
 ```
@@ -1579,7 +1579,7 @@ translated (by machine 🤖) as:
 ```
 Click here to open the web page explaining how to obtain those maps.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 マップ取得方法の説明Webページを開くには、ここをクリックしてください。
 ```
@@ -1653,7 +1653,7 @@ translated (by machine 🤖) as:
 ```
 This action will delete the map file from this device
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 この操作によりマップファイルがこのデバイスから削除されます。
 ```
@@ -1663,7 +1663,7 @@ translated (by machine 🤖) as:
 ```
 This action will delete the map file from your device forever. All the markers inside that file will be lost. Are you sure?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 この操作によりデバイスからマップファイルが完全に削除されます。ファイル内のすべてのマーカーが失われます。よろしいですか？
 ```
@@ -1673,7 +1673,7 @@ translated (by machine 🤖) as:
 ```
 This action will delete the map file from your device forever. All changes not yet synced to the cloud will be lost. The cloud folder will not be affected by this action and you will have to delete it manually. Are you sure?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 この操作によりデバイスからマップファイルが完全に削除されます。まだクラウドに同期されていない変更が失われます。クラウドフォルダ自体は、この操作による影響はなく、手動で削除する必要があります。よろしいですか？
 ```
@@ -1693,7 +1693,7 @@ translated (by machine 🤖) as:
 ```
 Your changes have not been synced recently. Make sure you keep your cloud copy up to date. Do you want to sync now?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 変更内容が最近同期されていません。クラウド上のデータを更新してください。今すぐ同期しますか？
 ```
@@ -1703,7 +1703,7 @@ translated (by machine 🤖) as:
 ```
 The markers of this map file are currently only saved on this device. It is recommended to save your markers on the cloud to avoid losing them. Do you want to save them to the cloud now?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 このマップファイルのマーカーは、現在このデバイスだけに保存されています。データ損失を避けるために、クラウド上にマーカーを保存することをお勧めします。今すぐクラウドに保存しますか？
 ```
@@ -1713,7 +1713,7 @@ translated (by machine 🤖) as:
 ```
 Do you want to sync this map file? With manual you will need to sync manually every time. With automatic (recommended) you will select a destination cloud folder and the sync to the cloud will start automatically every time the app enters background.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 このマップファイルを同期しますか？"手動"では、毎回手動で同期する必要があります。"自動" (推奨) では、アプリがバックグラウンドに入るたびに宛先のクラウドフォルダーに自動的に同期されます。
 ```
@@ -1743,7 +1743,7 @@ translated (by machine 🤖) as:
 ```
 Move the map around to place the points, click '+' to add a point, click '-' to remove a point and switch points with the previous/next buttons. Finally click save to save the shape.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 マップを移動してポイントを配置します。'+' で追加、'-' で削除し、前/次でポイントを切り替えます。 最後に保存をクリックして図形を保存します。
 ```
@@ -1753,7 +1753,7 @@ translated (by machine 🤖) as:
 ```
 There are not enough points to create the shape. Create more points and try again.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 図形を作成するのにポイントが不足しています。さらにポイントを作成して、もう一度お試しください。
 ```
@@ -1895,7 +1895,7 @@ translated (by machine 🤖) as:
 ```
 Fit in a %1$sx%2$s square
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 %1$sx%2$sの正方形に収める
 ```
@@ -2035,7 +2035,7 @@ KML
 ```
 Importing file…
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ファイルをインポート…
 ```
@@ -2065,7 +2065,7 @@ translated (by machine 🤖) as:
 ```
 Food
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 食品
 ```
@@ -2175,7 +2175,7 @@ translated (by machine 🤖) as:
 ```
 Religious
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 宗教施設
 ```
@@ -2245,7 +2245,7 @@ translated (by machine 🤖) as:
 ```
 You understand English and want to help with translations? Click here
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 英語を理解できる方、翻訳を支援したいですか？ここをクリックください。
 ```
@@ -2355,7 +2355,7 @@ translated (by machine 🤖) as:
 ```
 What format to you want to use to export?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 エクスポートする際に、どの形式を使用しますか？
 ```
@@ -2395,7 +2395,7 @@ Google Earth 圧縮形式。 メディアを含めることができます。
 ```
 Standard text spreadsheet format. Cannot contain media. Cannot contain lines or polygons.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 標準のテキストスプレッドシート形式。メディアを含めることはできません。ラインまたは図形を含めることはできません。
 ```
@@ -2405,7 +2405,7 @@ translated (by machine 🤖) as:
 ```
 Marker as plain text
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 プレーンテキスト形式のマーカー
 ```
@@ -2525,7 +2525,7 @@ translated (by machine 🤖) as:
 ```
 Boolean (True or False)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 真偽値（TrueまたはFalse）
 ```
@@ -2575,7 +2575,7 @@ translated (by machine 🤖) as:
 ```
 Multiple choice
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 複数選択
 ```
@@ -2785,7 +2785,7 @@ translated (by machine 🤖) as:
 ```
 Do you want to click here? ^‿^
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ここをクリックしてみますか？ ^‿^
 ```
@@ -3303,7 +3303,7 @@ translated (by machine 🤖) as:
 ```
 Google Maps (Plan)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Google Maps （デフォルト）
 ```
@@ -3313,7 +3313,7 @@ Google Maps （デフォルト）
 ```
 Google Maps (Plan + Indoor)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Google Maps （デフォルト+屋内）
 ```
@@ -3323,7 +3323,7 @@ Google Maps （デフォルト+屋内）
 ```
 Google Maps (Satellite)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Google Maps （航空写真）
 ```
@@ -3447,7 +3447,7 @@ translated (by machine 🤖) as:
 ```
 Base map pin size
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 マップの基本ピンサイズ
 ```
@@ -3457,7 +3457,7 @@ translated (by machine 🤖) as:
 ```
 Tiny
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 最小
 ```
@@ -3497,7 +3497,7 @@ translated (by machine 🤖) as:
 ```
 Huge
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 特大
 ```
@@ -3507,7 +3507,7 @@ translated (by machine 🤖) as:
 ```
 What format to you want to use to import?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 どの形式のファイルをインポートしますか？
 ```
@@ -3537,7 +3537,7 @@ translated (by machine 🤖) as:
 ```
 Google Drive - limited access
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Google Drive - 制限付きアクセス
 ```
@@ -3617,7 +3617,7 @@ translated (by machine 🤖) as:
 ```
 Dropbox - limited access
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 Dropbox - 制限付きアクセス
 ```
@@ -3765,7 +3765,7 @@ And finally, thank you for reading this :-)
 Regards
 Sébastien
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 やあ、あなたの好奇心に感謝します！ 
 
@@ -3842,7 +3842,7 @@ translated (by machine 🤖) as:
 ```
 Select the attributes to consider when eliminating duplicates. If all attributes are selected, only strictly identical duplicate entries will be removed. If no attributes are selected, duplicate entries with the same location will be removed, regardless of their other attributes.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 重複を排除する際に判定に使用する属性を選択します。すべての属性が選択されている場合、厳密に同一の重複エントリのみが削除されます。属性が選択されていない場合、他の属性に関係なく、同じ場所の重複エントリが削除されます。
 ```
@@ -4376,7 +4376,7 @@ translated (by machine 🤖) as:
 ```
 Select the center or the edge of the circle with the toolbar buttons and move the map around to adjust. Finally, click save to save the shape.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ツールバーのボタンで円の中心または端を選択し、マップを移動して調整します。最後に、保存をクリックして図形を保存します。
 ```
@@ -4436,7 +4436,7 @@ translated (by machine 🤖) as:
 ```
 Enter navigation mode in this app to get directions to the marker
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 マーカーへの道順を取得するには、このアプリでナビゲーションモードに入ってください。
 ```
@@ -4466,7 +4466,7 @@ translated (by machine 🤖) as:
 ```
 Do you want to try and import a marker from the following text data?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 以下のテキストデータからマーカーのインポートを試しますか?
 ```
@@ -4476,7 +4476,7 @@ translated (by machine 🤖) as:
 ```
 Do you enjoy the app?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 このアプリを楽しんでいますか？
 ```
@@ -4486,7 +4486,7 @@ translated (by machine 🤖) as:
 ```
 Would you like to send me an email to tell me how I could improve the app?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 アプリの改善点を教えてください、emailを送っていただけませんか?
 ```
@@ -4496,7 +4496,7 @@ translated (by machine 🤖) as:
 ```
 If you like my app you can reward me by taking the time to give a good rating :-)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 アプリを気に入ったならば、少し時間をとって、良い評価をつけてください。私は報われます:-)
 ```
@@ -4516,7 +4516,7 @@ translated (by machine 🤖) as:
 ```
 Maybe later, remind me
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 後で。リマインドしてください
 ```
@@ -4606,7 +4606,7 @@ translated (by machine 🤖) as:
 ```
 Location track recording
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 ロケーショントラック記録
 ```
@@ -4646,7 +4646,7 @@ translated (by machine 🤖) as:
 ```
 Starting new track recording
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 新しいトラック記録を開始します
 ```
@@ -4656,7 +4656,7 @@ translated (by machine 🤖) as:
 ```
 Ongoing track recording
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 進行中のトラック記録
 ```
@@ -4716,7 +4716,7 @@ translated (by machine 🤖) as:
 ```
 The app will need to display a notification in order to remain active in the background while recording a track.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 アプリは、トラックの記録中にバックグラウンドでアクティブな状態を維持するために通知を表示する必要があります。
 ```
@@ -4726,7 +4726,7 @@ translated (by machine 🤖) as:
 ```
 The track(s) recording (%s) was interrupted before it could be saved. Do you want to save it now?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 トラックの記録 (%s) は保存する前に中断されました。今すぐ保存しますか?
 ```
@@ -4736,7 +4736,7 @@ translated (by machine 🤖) as:
 ```
 Do you want to delete the unsaved track(s) recording forever?
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 保存されていないトラックの記録を完全に削除しますか?
 ```
@@ -4746,7 +4746,7 @@ translated (by machine 🤖) as:
 ```
 This track had no points recorded and has simply been discarded.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 このトラックにはポイントが記録されていなかったため、破棄されました。
 ```
@@ -5123,7 +5123,7 @@ See compatibility details below:
 
 %s
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 お使いのブラウザは部分的にしか互換性がないようです。完全に互換性があるとテストされているのは Google Chrome のみです
 互換性の詳細は以下をご覧ください:
@@ -5146,7 +5146,7 @@ translated (by machine 🤖) as:
 ```
 Display all editing shape points (slower)
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 編集中の図形ポイントをすべて表示（低速）
 ```
@@ -5256,7 +5256,7 @@ Geoapify Places Search API
 ```
 The app will need to have the 'always' location permission in order to remain active in the background while recording a track.
 ```
-translated (by machine 🤖) as:
+translated (by human 👀) as:
 ```
 トラックを記録中にバックグラウンドでアクティブなままにするには、アプリに「常時」の位置情報の許可が必要です。
 ```
